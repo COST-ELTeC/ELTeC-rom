@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="BalanescuSimion_BLESTEMUL" xml:lang="en">
+ <teiHeader>
+  <fileDesc>
+   <titleStmt>
+    <title>Blestemul. Poveste născocită de S.B.: ELTeC edition</title>
+    <author> Bălănescu, Simeon (no available data in Bibliografie românească modernă 1831-l918, vol 1.A-C)</author>
+    <respStmt>
+     <resp>ELTeC encoding</resp>
+     <name>Roxana Patras</name>
+    </respStmt>
+   </titleStmt>
+   <extent>
+    <measure unit="words">10,000</measure>
+    <measure unit="pages">67</measure>
+   </extent>
+   <publicationStmt>
+   <p>Incorporated into the ELTeC
+    <date>2018-l0-20</date></p>
+   </publicationStmt>
+   <sourceDesc>
+    <bibl type="copyText">
+     <author>Simion Bălănescu</author>
+     <title>Blestemul. Poveste născocită de S.B.</title>
+     <pubPlace>Bucharest</pubPlace>
+     <publisher>Stabilimentul Grafic I.V. Socec</publisher>
+     <date>1894</date>
+     <idno type="library">http://193.231.13.17/vufind/Record/BCU02000001347/Description</idno>
+        </bibl>
+   </sourceDesc>
+  </fileDesc>
+  <encodingDesc n="eltec-1">
+   <p></p>
+  </encodingDesc>
+  <profileDesc>
+   <langUsage>
+    <language ident="ro"></language>
+   </langUsage>
+   <textDesc>
+    <e:authorGender key="M"></e:authorGender>
+    <e:size key="short"></e:size>
+    <e:canonicity key="low"></e:canonicity>
+    <e:timeSlot key="T3"></e:timeSlot>
+   </textDesc>
+  </profileDesc>
+  <revisionDesc>
+   <change when="2018-09-28">Initial TEI version generated.</change>
+  </revisionDesc>
+ </teiHeader>
+ <text xml:id="ROM002" xml:lang="ro">
+  <front>
+   <div type="titlePage">
+    <p>BLESTEMUL. POVESTE NĂSCOCITĂ</p>
+     <p>DE S. B.</p>
+     <p>BUCURESCI</p>
+     <p>STABILIMENTUL GRAFIC I.V. SOCECU</p>
+     <p>1894</p>
+   </div>
+   <div type="notes"><note>40,957</note></div>
+   <div type="liminal"><p>Dulci cititori de Povești!</p>
+  <p>Cu prilejiul născocirii povestirii Jupânului Cărăbuși, prima încercare de icoană, m’am legat către iubitorii de citanie că în curând voi da la iveală un basm adevărat ca din poveste, și pentru a nu cădea în ispită lăsând uitării pe cei ce mi-au arătat dragoste, m’am grăbit de a le aduce mulțumiri, căci prin chipul acesta m’a îndemnat a ticlui pe a doua. Deși de unii am fost prețuit ca nedestoinic că am avut îndrăsneală să mă trec printre cărturari ca unul ce nu am învățat limbi decât citania Ciaslovului, totuși fără de a ține ’n seamă bârfele, și în ciudățenia celor pismătoriți, am alcătuit cele curgătoare și mă rog de a nu fi pus printre tagma celor ce nu-și țin cuvântul, căci nimic în această lume plină de deșertăciuni nu este mai spre cădere decât Cinstea, care cu mâhnire văd de la o vreme încoace că s’a depărtat și s’a înlocuit cu Minciuna, unde îmbrăcată cu veștminte diavolești ne joacă țonțoroiu prin ciardacuri făcând zăzanie cu vorbe ismenite și schimonosite ca cu vreme să facă a ne pierde graiul strămoșesc.</p>
+<p>Să ne cercuim dar cu toții laolaltă, și în cuget curat și fără vicleșug, să luptăm d’a birui ca Cinstea să-și ia rangul de mai ’nainte când vorba era zapis, și graiul dulce și deslușit.</p>
+<p>Nu sunt pismătareț pe cei ce se duc prin năuntru de a căpăta duh și multă învățătură, din potrivă îi cinstesc și îi rog a-și mai aduce aminte pre cât e în putință și de graiul moșilor noștri care ne-au povățuit zicând:</p>
+    <quote><l>E bine să scie omul multe</l> 
+     <l>Dar limba țării să n’o uite.</l></quote>
+<p>Mă rog dar de ertare, dacă cele ce am îndrăsnit d’a așterne aci, nu sunt umplute cu din darul unui învățat, căci nu sunt eu cel prima care am cules glasuri din litia veche ca să ticluesc această gustare.</p></div>
+  </front>
+     <body>
+    <div type="part" n="1">
+     <head>NĂPASTEA.PARTEA I</head>
+     <head>Ucigașul</head>
+<p>Era, după cât îmi pot da cu socoteala, în luna Cireșarului, așa că se lăsase un zăduf de întrecea pomana, caii de la Olac de abea mai puteați merge. Aveam grabă să ajung cu nepusă masă în ținutul Doljiului, plaiul Parscovu, ca să adun banii birului de la Pârcălabi; deodată ca din senin, soarele intră ’n nori părând că apune; dădui gură surugiului să dea bici, care se grăbi a încolăci biciul scoțând răcnete prelungite, așa că caii se opintiră din răsputeri și ajunserăm la marginea unei păduri, unde se afla un puț, iar alături de el, niște furci în făptură ca niște spânzurători. Până ce surugiul adăpă caii, eu o luai încetinel înspre împrejurimea locului, spre cercetare; văz o cruce mare de piatră, scrisă cu slove vechi, începui a mă trudi să citesc, dar nu putui afla nimic, căci se întuneca din ce în ce mai mult, începând să tune și să fulgere. Surugiul înhămă caii în grabă spre a merge să căutăm un adăpost.</p>
+<p>Nu făcurăm cale de o bătae de pușcă prin pădure, pe unde-mi era drumul, când și începu o ploae cu bășici, așa că furăm nevoiți a ne opri în loc.</p>
+<p>La lumina fulgerilor și a trăsnetelor, nu se zărea decât frunzele din vîrful copacilor, Olacul era fără coveltir; legarăm caii de un copac și ne adăpostirăm sub căruță. De ce mergeam, ploaia mai mult se înrăia; nu mă temeam atât de ploaie, cât de pungile cu banii birului ce-i adunasem.</p>
+<p>La lumina fulgerilor zăresc, nu departe de unde mă găseam, o mogâldeață, în făptură de bordei; îmi dădeam cu socoteala că acolo nu poate fi de cât lăcașul pădurarului.</p>
+<p>Părerea mea se și isbândi; că deodată auzi lătratul unor câini care, după miros se vede, simțise că le venise oaspeți, zic surugiului să încalice și să se îndrepte înspre acolo, ca să vadă, dacă cu bună seamă vedenia mea n’a fost nălucă.</p>
+<p>Surugiul, întorcându-se, îmi aduse vorbă că nu sunt greșit, vedenia cu bună seamă este bordeiul pădurarului.</p>
+<p>Ploaia începuse să-și micșoreze furia, în care vreme surugiul înhâmă caii la olac și ne îndreptarăm înspre bordei.</p>
+<p>Câinii, cum ne văzură, în loc să ne latre, ca pe târgoveți, începură să se gudure, dând din coadă, mirosindu-ne și sărind pe noi.</p>
+<p>Ajunși dinaintea bordeiului, batem la ușe și rugăm să ne îngăduie și să ne adăpostească, căci fiind noapte și ploaie am rătăcit drumul.</p>
+<p>Trageți arțarul și poftiți, respunse un ghers din bordei.</p>
+<p>Cum intrarăm ne întâmpină cu bun venit, un moșneag, care sta pe vatră, cu o barbă albă, lungă până aproape de brâu, niște sprâncene albe și stufoase îi acopereau ochii, părând că sta cu ei închiși; după cât îmi dam cu socoteala apropia să împlinească un veac de viață.</p>
+<p>Cum ne văzu, ceru ertăciune că n’a venit singur să ne deschidă bordeiul, căci mosafirii care-l cercetează în pădure, în dărăpănatul lui bordei, îl cunoasce mai întăi câinii prin miros, dacă sunt oameni de omenie si n’au gânduri de ispititori, pe aceștia nu-i latră. Fiți dar bine veniți, zice încă odată moșneagul.</p>
+<p>Mă desbrăcai de veșminte ca să le usuc, și mă așezai lângă unchiași pe vatră la foc.</p>
+<p>Bătrânul mă întreabă să-i spui cu viu graiu și fără șovăire, ce țeluri mă aducea prin acele locuri pe acea vreme.</p>
+<p>Îi spusei cine și cu ce prileji mă găseam prin acele locuri, iar unchiașul din când în când da luleaoa prin spuză, sta gânditor, ascultându-mă.</p>
+<p>Trimese pe surugiii să aducă ceva merinde, pentru a face puțină gustare.</p>
+<p>După ce cinarăm, începui a mă chibzui de ale dormitului.</p>
+<p>Moșneagul părea că doarme; pe mine însă nu mă prindea somnul neam, deși eram ostenit și repejit de frigul ploaiei, care mă ajunsese la piele.</p>
+<p>Întrebai pe unchiași unde-și are straele de odihnă.</p>
+<p>La auzul vorbelor mele bătrânul începu să se frece la ochii uitându-se lung la mine, zise:</p>
+<p>—Se vede voinice, că ai mai călcat prin aceste locuri de vreme ce nu scii șiretenia lucrului.</p>
+<p>Nu sciu, îi respunsei, căci tocmai vream să te rog a mă desluși de cele ce văzui la marginea satului, lângă pădure, unde aflai niște furci, care avea chipul de spânzurători, și o cruce mare de piatră, scrisă cu slove ca în pucoavnă.</p>
+<p>Unchiașul începu a grăi astfel:</p>
+<p>Ascultă cu luare aminte voinice, la cele ce am a-ți povesti, căci puținele zile ce-mi mai rămân, nu ași vrea să le petrec în zadar și să las în întuneric cele întâmplate în viața mea, plină când de dulceață când de amărăciune.</p>
+<p>Înainte de vremea slugerulul Tudor, eram fruntaș, cu ogrăzi și pământul meu ohavnic; nu cunoșteam a scrie și citi altă icoană decât după Pucoavnă; treburile mergeau strună, când deodată, ca din senin, toate se schimbară, căci liftele de tombateri se lipiră ca lipitorile pe spinarea tălpei țării, așa că în scurtă vreme, cu judecăți strâmbe și filodorme pe la dregătorii, îmi cotropiră pământurile și mă lăsară în sapă de lemn, de gât cu doi copilași. Nu mai aveam nici de unele, mă adăposteam într’un bordeiaș de lângă puțul din marginea satului, care l’ai întâmpinat în cale, aveam, cum îți spusei, o copiliță și un băețandru.</p>
+<p>Nepotul meu, Părintele Axentie, care-l încurcase și pe dânsul ca musca în casa paiajenului, dăduse și el jalbă stăpânirei în potriva lui Kir Zavistie, care-i cotropise și densului aproape jumătate din bunul său ohavnic.</p>
+<p>Kir Zavistie, tombatera, care mă prigonise și pe mine, vâzându-se strâns cu ușa, plăsmui un gând diavolesc: chiamă la Curte pe Axentie, sub cuvânt de a face înpăcăciune.</p>
+<p>Sărmanul Axentie, cea d’intâiu a lui grije fu de a veni mai întăiu la mine să-mi ceară sfaturi.</p>
+<p>Cu o zi înainte d’a veni la mine, mi se făcea semne rele că o să dau de pacoste.</p>
+<p>Îndemnai pe Axentie să meargă la Curte, să vază pricina pentru care e poftit, și să vină în urmă a-mi spune cele hotărâte.</p>
+<p>Axentie plecă înspre Curte, cum ajunse la poartă, o deschide și intră în năuntru; nu apucă să facă doi pași, și de odată arnauții lui Zavistie care-l adăsta, se năpustiră ca bașabuzucii; închiseră poarta și trase zăvorul.</p>
+<p>Luară pe sus pe bietul popă, și-l duseră în dreptul privdorului, unde era Kir Zavistie, care sta grecește sorbind cafeaoa și trăgând din ciubuc ca o beșleagă.</p>
+<p>Alături de densul se afla un neguțător din Craiova, cu numele de Jupân Hristea, care făcea negoț de cirezi și grâne.</p>
+<p>Cum văzu Zavistie pe sărmanul preot i se turbură ochii în cap, și înfuriat se scoală în picioare, se repede la densul șid lovește puternic cu ciubucul în cap.</p>
+<p>Axentie, văzând în ce cursă a căzut, îi zise:</p>
+<p>Măria ta, eh nu am venit aci de a mea bună voie; singur m’ai poftit, ca să cădem la învoială de a-mi da înapoi sforicică de moșie ce mi-ai cotropit-o pe nedrept.</p>
+<p>Așa? zise Kir Zavistie, după, ce te ridici cu jalbă la stăpânire în potriva mea, acum vii să md necinstești în casă la mine? Lasă că-ți fac eu dreptate.</p>
+<p>Porunci arnăuțiior să-l lege în mijlocul curții și să dea drumul la zăvori.</p>
+<p>Jupân Hristea, ce sta de față, se îngrozi de cele ce văzu.</p>
+<p>Câinii se năpustiră, ca lighioanele cele mai sălbatice și-l făcură ciupărți într’o clipă; ți se sfâșia inima de răcnetele bietului preot, care fu răpus de spurcații câini.</p>
+<p>Văzând că furia fiarelor s’a domolit, și sărmanul Axentie era mort cu bună seamă, dete poruncă arnăuților să adune ciosvârtele de carne și veștmintele într’un sac, și să le îngroape seara la spatele bordeiului din marginea satului.</p>
+<p>Jupân Hristea rămase ca trăsnit de cele ce-i văzură ochii.</p>
+<p>— Ei! Ce zici? întreabă Zavistie pe Jupân Hristea.</p>
+<p>— Ce să zic, boerule! Păcatul ce ai făptuit e așa de mare, încât dacă l-ar fi văzut Dumnezeu ne-ar trăsni pe loc.</p>
+<p>— Nu te teme, Jupâne, zise Zavistie, nimeni nu va scii. Eu îți hărăzesc anul acesta grâu și vite cu târgul pe jumătate, pentru ca să te folosești de câștig, numai să ții în taină cele ce ai văzut.</p>
+<p>— Să mă fac părtaș la această nelegiuire? Odată cu capul, boerule, răspunse Jupân Hristea. Eu însă ’ți dau cuvântul meu de cinste, că mă voiu face că nici nu am văzut nici nu am auzit.</p>
+    </div>
+      <div type="part" n="2">
+      <head>PARTEA II</head>
+      <head>Răpirea copiilor</head>
+<p>Nu se făcuse tocmai bine ziuă, când mă pomenesc cu copilașii că mă strigă: Tată, tată! nu știu ce larmă este la spatele bordeiului, unde aud zicându-se într’una: L-a omorît! L-a omorît!</p>
+<p>Mă sculai și eșii afară, când ce să vezi! Kir Zavistie cu zapciul și vătă-șeii săpab locul unde îngropase pe sărmanul Axentie. Cum mă văzură, fără a mă cerceta, mă legară și mă și duseră la Taft, căci lucrurile erau plăsmuite mai din vreme, dând filodormă stăpânirei să-mi bage vină că eu am ucis pe Axentie, ca să-mi rămâie sfoara de moșie.</p>
+<p>Mă duse la oraș ca să mă judece. Eu nu aveam cu ce dovedi în nimic nevinovăția mea: tot ce le spuneam era în pustiu; deci mă osândiră la ocnă pe viață.</p>
+<p>Kir Zavistie nu-și potoli pofta cu atâta, dete poruncă să puie foc bordeiașului, unde se adăposteau sărmanii copilași, care nu mai știau de urma mea, grecul pusese să sâvârșească și această mișelie mai mult cu plan, că doară vor arde copiii și cu chipul acesta va peri orice urmă de bănuială asupra nelegiuirei ce făptuise lângă nevrednicul meu bordei.</p>
+<p>Sărmanii copilași! văzându-se în flăcări începură să strige, când duoi oameni, îmbrăcați tiptil, văzând că se făptuiește o altă nelegiuire de-i va  lăsa să arșiă li se făcu milă, îi luară și îi puse într’o cărucioară, care o îndreptă înspre pădure.</p>
+<p>Neacșu, care era mai răsărit, întreabă unde voește să-i ducă?</p>
+<p>  Cele două iscoade le răspunse, că la curtea boerească, care se află în pădure.</p>
+<p> Floarea, care era mai copilandră decât Neacșu, începe a plânge, zicând, că ce rău a făptuit ca să fie așa de urgisiți.</p>
+<p>— Taci surioară, zise Neacșu, trebuie să priimim ce dă Dumnezeu; săracii nu pot alege.</p>
+<p>Ajunși în mijlocul pădurii, la miezul nopții dete d’un bordei părăginit, unde oamenii îmbrăcați tiptil, băgară în năuntru pe copilași și le închise ușa cu arțarul pe din afară, apoi plecară.</p>
+<p>Cine erau cei duoi tiptili care se dăduse drept binevoitori ai sărmanilor copilași? Aceste lifte erau arnăuții de la curtea lui Zavistie. Grecului nelegiuit nu-i ajunsese că mă calicise și mă băgase în ocnă, apoi pusese să-mi fure și copilașii, ca să nu aibă nimeni graiu a se scula cu judecată.</p>
+<p>Copilașii au stat trei zile închiși în bordei, fără pic de merinde. Noroc că găsiră o botă cu apă uitată de niște ciobani, cu care-și udară buzele uscate de sete și de foame, de unde-și recăpătară graiul pe care-l pierduse mai de tot</p>
+<p>In seara a treia, pe când sărmanii copilași își fâcead rugăciunea către cel Atotputernic, că i-a ocrotit de a nu peri, cel puțin de sete, se strînseră amăndoi în brațe și se învăliră cu un crămpeiu de rogojină, ce-l găsise pe vatră. Tocmai când începuse a ațipi,luându-i somnul, se pomeniră că intră în bordei o ursoaică mormăind, părând că cere ajutor.</p>
+<p>Neacșu, care era mai răsărit și mai îndrăsneț, zise surioarei sale să nu se sperie, că tată-său a fost vânător și știe cum să se poarte cu fiarele sălbatice. Așa și era. Căci, pe când eram și eu cu dare de mână, la praznice și la zile împărătești făceam goană de vânat, ca să aduc peșcheș la curtea domnească, ca să mă ocrotească la judecată.</p>
+<p>Povesteam copilașilor pe atunci cele ce mi se întâmplase cu un urs, căruia îi intrase un ghimpe în picior, pe care i-l scosesem, iar ursul, drept mulțumire, începuse a-mi linge picioarele.</p>
+<p>Neacșu, aducându-și aminte de cele ce-ți istorisesc, se apropiă de ursoaică cu blândețe, și în nevinovăție, o întreabă ce are, și cu ce-i poate veni în ajutor?</p>
+<p>Ursoaica, care gemea de durere, văzând nevinovăția copilașului, ridică laba în sus și începu a o linge și mormăi, arătând că acolo era o țeapă. Neacșu puse mâna pe labă și îi scoate țeapa, rupe de la soră-sa o fâșie din rochiță <gap></gap> și îi leagă rana. Ursoaica nu mai știa ce să facă de bucurie, nu putu să le arate altă mulțumire decât să le lingă mânile și picioarele înviorate cum era; stătu lângă copilași până ce se făcu ziuă și apoi plecă.</p>
+<p>Nu trecu mult, și tot în acea zi se pomeni cu ursoaica viind în două picioare și aducându-le un ulei cu miere, pe care-l puse pe vatra bordeiului: le linse din nou mânile, ca și cum ar fi voit să le zică rămas bun si să le mulțumească, apoi plecă.</p>
+     </div>
+     <div type="part" n="3">
+      <head>PARTEA III</head>
+      <head>Potera și Haiducii</head>
+<p>Zavistie ajunsese mare la curtea Domnului fanariot, i se dăduse un scaun între cei 12 boeri ai țării, clăcașii după moșiele lui sărăcise, căci le luase pământurile cu japca, bunăoară cum mi le luase și pe ale mele. Zavistie se făcuse mai rău ca un câine, nu mai avea nici o îndurare de păsurile locuitorilor. Sătenii nu erați crezuți la nimic, tot ce-și puteau agonisi le hrăpea nesățiosul grec, din zece le lua nouă, neajunsurile se lățise prin tot ținutul Olteniei, Zavistie intrigarisise la curtea Domnească, că țărănimea a dat mâna cu Căpitanu de Haiduci, Jianu și că vrea să se scoale în potriva Domnului.</p>
+<p>Se luară măsuri ca potera să urmărească fără prejet pe Jianu și să-l aducă viu nevătămat, așa că într’una din nopți, Jianu, cu voinicii lui, și dete piept cu potera, cu care se încinsese o luptă ce ținu aproape două ceasuri.</p>
+<p>Jianu cu falnicii lui haiduci, traseră un zdravăn frecuși poterașilor, mai toți fură aruncați în Olt, puțini au putut scăpa cu viață.</p>
+<p>Jianu ’și adună voinicii, și cu toții se revărsară prin această pădure.</p>
+<p>Un haiduc, cu numele Ghencea, care aduna troscote din pădure ca să facă foc, în mersul lui dete de un bordei părăginit. Intră înnăuntru, acolo ce să vadă, pe cei duoi copilași, Neacșu și Floarea.</p> 
+<p>— Cine v’a adus aci? ii întreabă haiducul. Ei povestiră în treacăt cele petrecute, apoi haiducul îi luă și iî duse la Căpitanul Jianu.</p>
+<p>Ghencea îi înfățișă înaintea Căpitanului spuindu-i împrejurarea cum i-a găsit. Toți într’un glas, ziseră să-i boteze și să poarte numele de copiii lui Jianu; pe Neacșu îl înrolă în bandă, dându-i straie de haiduc, iar pe Floarea, care avea urme de drăguță și să nu ajungă de rîs când s’o face vârstnică, ca să știe ce e dragostea și să se facă papină printre haiduci, Jianu o luă și o duse în satul Oltețului, dându-o sub îngrijirea unei bătrâne, care o cunoștea ca femeie cu taină.</p>
+<p>Iar Neacșu, care de mic era îndemânatic, se deosebi în scurtă vreme de ceilalți tovarăși, așa că nu-i scăpa zi să nu facă vreo ispravă, era de toți cinstit; avea nas de copoi, dovedea calea liftelor, și le lua banii făcuți din sudoarea săteanului, apoi le dedea drumul fără de a-i atinge întru nimic.</p>
+     </div>
+     <div type="part" n="4">
+      <head>PARTEA IV</head>
+      <head>Dreptatea cerească</head>
+      <p>Într’una din zile, Jupân Hristea, care se găsea ca mărturie la curtea lui Zavistie, pe când sărmanul Axentie fusese sfâșiat de câini, trebuia să plece din Craiova spre a se duce la Zavistie ca să strângă grâu și vite cornute; își luă zioa bună de la nevastă și copilași, își așeză pungile cu bani în ipingea, și punând piciorul în prag, făcu trei cruci zicând: <quote>„Doamne ajută!”</quote> încălecă și porni spre drum.</p>
+<p>Altă trecătoare ca să meargă la curtea lui Zavistie nu era de cât prin marginea unei păduri, în care tocmai în acea zi era orânduit de căpetenie a sta la pândă haiducul Ghencea.</p>
+      <p>Jupân Hristea, care trecea prin marginea pădurii, și neavând teamă că se bântuie acel loc, se dăduse jos de pe cal și-l ținea de dărlogi, când, din senin, se pomenește în spate cu cineva că-l ia de ciafă, zicăndu-i: <quote>„Stăi, liftă spurcată! Mai abate-te puțin a da ochi și cu noi, că de mult nu ai plătit birul săracului!”</quote></p>
+      <p>Haiducul credea că Jupân Hristea este din tagma fanarioților, fiindcă avea portul giubeliilor. Cu toate încredințările date, că nu este liftă, ci Român neaoși, Ghencea nu se înduplecă, și-l duse <foreign>techer mecher</foreign> în tabăra haiducilor.</p>
+<p>Acolo, cum îl văzu Neacșu, îl recunoscu că este omul de bine, care le făcea milostenie când trecea pe la bordei înainte d’a arde.</p>
+<p>— De unde vii Jupâne, și unde te duci? îl întreabă Neacșu, care avea protia de Căpitan.</p>
+<p>— Vin din Craiova, răspunse Hristea, și mă duc la curtea lui Zavistie ca să adun vite pentru tamaslâc. Flăcăul ăsta nu vrea să mă creadă că sunt Hristea român neaoși, mă ia după port botezându-mă că sunt din tagma tombaterilor.</p>
+<p>— Ba că chiar, dise Neacșu, ba ce Român, Oltean din cei cu 24 măsele, bun și milostiv, darnic și ajutător vrednic de toată lauda, când treceai, Jupâne, pe la bordeiașul nostru nu ne ocoleai și te abăteai a ne milui și ajută,</p>
+<p>Nu care cumva ești Neacșu lui Moș Sandu? întreabă Hristea.</p>
+<p>— Chiar eu, Jupâne, respunse Neacșu, Kir Zavistie a băgat pe tata în belea și l’a închis la ocnă, înnegrindu-l la stăpânire că el ar fi ucis pe părintele Axentie, ș’apoi după aceasta grecul fără pic de inimă a pus de a dat foc bordeiului, iar pe mine și pe Floarea a pus de ne-a închis într’un bordei părăginit din pădure.</p>
+<p>Jupân Hristea rămase ca trăsnit la spusele lui Neacșu.</p>
+<p>— Auzi, nelegiuitul, bată-l toaca! zise el. Nu s’a adăpat în destul cu sufletul părintelui Axentie, apoi a băgat în foc și pe Moș Sandu; lasă, voinice Neacșule că Dumnezeu nu doarme, e mare și îndurător, toate se vor da la iveală.</p>
+<p>— Ce mai nou pe la orași, Jupâne, îi întreabă Neacșu, aud că în curând Slugerul Tudor se va sui pe scaunul Domniei.</p>
+<p>— Așa se zice, răspunse Hristea, și am nădejde că de se va împlini această faptă, ai să auzi de lucruri ne mai pomenite.</p>
+<p>Neacșu luă ipingeaoa cu pungile cu bani din mâinile lui Ghencea și le dete înapoi Jupânului, pe care-l însoți până la marginea pădurii, unde-și luară rămas bun, plecă, uitându-se după dânsul, până ce nu-l mai zări.</p>
+<p>Jupân Hristea, ajuns în satu de pe moșia lui Zavistie, trage la han ca să-și odihnească calul. Acolo, sătenii, care erau adunați și puși pâlcuri, pâlcuri, nu aveați altă vorbă de cât cum să meargă la noua Domnie ca să aștearnă pe Zavistie și să scape de dânsul.</p>
+<p>Hristea intră și el in vorbă și întrebă pe săteni de ce Domnie e vorba? Dânșii răspunseră că Vodă cel cu cerul gurei negru, a fost dat jos după scaun, și s’a așezat logofătul Tudor, care e în protiva liftelor.</p>
+<p>— Cu bună seamă oameni buni, știți aceasta? întreabă Hristea.</p>
+<p>— Da, da, răspunseră top într’un ghers.</p>
+<p>Jupân Hristea, încredințându-se de spusele sătenilor, pe dată se înapoia la Craiova ca să nu dea timp lui Zavistie să prindă de veste de a-și juca mendrele și să spele putina, scăpând și lăsând în întuneric scârboasele fapte ce săvârșise.</p>
+<p>Cum ajunse la orași, se încredința cu bună seamă că cele auzite erau aidoma; se duse de grabă la Curtea Domnească și ceru să vorbească cu Domnu Tudor în taină. Priimindu-l, tăinui toate nelegiuirile săvârșite de Zavistie. Domnul dete poruncă să se puie streji in împrejurimea ogrăștii lui Zavistie ca să pândească de a nu eși picior de om din sat. Dete ștafetă zapciului ca să se afle la fața locului și să ia taclirul în cele ce se vor destăinui în potriva Iul Zavistie, iară pe de altă parte se orândui doui logofeți de cinste și înțelepciune a fi de față, ca să nu se aștearnă pe hârtie alt de cât cele văzute și pipăite.</p>
+<p>Jupân Hristea însoțea ortaoa stăpânirei. Ajunși în sat, intrară în ograda lui Zavistie, care se pregătea cu arnăuții să fugă.</p>
+<p>— Aceștia sunt, Hristea arată, cei care au răpus pe părintele Axentie.</p>
+<p>Ei, văzându-se că sunt dați de gât, începură a tremura ca varga, clănțănindu-le dinții în gură ca și cum ar fi fost luați din Jele.</p>
+<p>Se dete poruncă a lega pe arnăuți, iar pe Zavistie îl închise într’un ciardac.</p>
+<p>Un logofăt din cei de cinste, întreabă unde sunt câinii care au sfâșiat pe preot.</p>
+<p>Jupân Hristea care fusese de față și văzuse toate cele petrecute, le arată cotețul, unde sta numai doui câini din șase câți se năpustiseră asupra preotului; slujitorii Domnești puseră de înfășurară lanțuri de două prăjini ca la urși și le aruncară arcanu de gâturi; merseră apoi cu toții la capătul satului, unde de abia se mai zărea urmele bordeiului; puse câini să dea ocol împrejurul bordeiului, unde, după miros deteră de locul unde fusese îngropate rămășițele preotului, spurcații de câini începură a răcăi cu labele acel loc; atunci puse câțiva oameni de săpară în acel loc, unde nu se găsi de cât ciolanele, potcapiul, coadele părului și fâșii din antiriu și giubea; acestea nu avuseră vreme să putrezească.</p>
+<p>La cele ce se văzuse și la cele mărturisite de Jupân Hristea se încredințară cu toții că cele văzute nu numai că sunt adevărate, dar că pare a se asemăna cu ’n vis.</p>
+<p>Se așternu taclirul obicinuit cu toate mărturiile de față și prin punere de deget, se dete încredințare de cele văzute. Slujitorii legară cei doui câini de un stâlp, turnară păcură peste dânșii și le dete foc, iar arnăuții, părtași la omorul preotului, începură să tremure și să ceară ertăciune, zicând că dânșii au făcut cele ce le-a poruncit stăpânul lor.</p>
+<p>Tombatera de Zavistie rămăsese ca trăsnit văzându-se descoperit de nelegiuirea ce făptuise; zapciul dete poruncă de legară fedeleș pe toți părtașii, îl puseră într’o căruță desvelită, și îi duseră la curtea Domnească.</p>
+<p>Toți târgoveții care auziseră de cele întâmplate, le eșiră înainte, spre a priimi cu cinstea și alaiul ce îi se cuvenea, dându-le cu huidio și cu oarba.</p>
+<p>Domnu Tudor, care se Încredințase de cele făptuite, strânse pe boeri și pe consistoriul preoțesc ca să se sfătuiască de pedeapsa vrednică ce trebuia să o primească făptuitorii acelei îngrozitoare nelegiuiri.</p>
+<p>Norodul aștepta cu nerăbdare să afle cum se va face dreptatea.</p>
+<p>Judecata se mântui în chipul curgător:</p>
+<p>Arnăuții să fie surghiuniți afară din hotarele țării, iar pe Zavistie, care făptuise nelegiuirea fără frica lui Dumnezeu înspre partea preoțească, să-l înfășoare într’o rogojină, să-l ungă cu păcură și să-l puie în spânzurătoare la locul bordeiului și apoi să-i dea foc.</p>
+<p>Zavistie fu dus cu alaiul ce i se cădea, în frunte cu norodul ce se adunase, până la bordeiul unde săvârșise fapta nelegiuită; acolo se bătură doi pari, se puse pe d’asupra o pârghie groasă, apoi atârnară lațul ștreangului de gâtul lui Zavistie și îi dete foc.</p>
+<p>Nu aveam în scire nimic despre cele ce se petreceau, căci la închisoare unde mă asvărlise se dăduse poruncă strașnică să nu îngăduiască pe nimeni nici a mă vedea, nici a-mi vorbi.</p>
+<p>Nu îi fusese destul, mișelul, că mă lăsase să zac în acea temniță, unde se găseau și alți nevinovați, dar plăsmui și-mi aruncă vină că fac zâzanie și îndemn pe ceilalți tovarăși din temniță ca să dau foc, ca cu prilejiul acesta să pot fugi, așa că și aci mă găsiră vinovat, și mă luară din acel loc, ca să mi se piardă de urmă, și mă duseră la Monastirea Jitiana, pe malul Jiului, băgându-mă într’o chilie, cu vorbă că sunt nebun și nevrednic de a vorbi cu oameni. Acolo mi se da de măncare printr’o ferestruie. Toate le-am îndurat cu bărbăție, dar când mă gândeam la copilașii mei, mi se frigea inima de dorul lor.</p>
+</div>
+     <div type="part" n="5">
+      <head>PARTEA V</head>
+      <head>Predarea Jianului</head>
+<p>Neacșu, în toată vremea cât a stat printre haiduci deși-și agonisise ceva părăluțe, totuși începuse a se scârbi de acel negoț; pe de altă parte începuse a-l încinge dorul de surioara lui, Floarea; cât despre mine, nu mai avea nădejde că sunt în viață.</p>
+<p>Într’una din zile se și hotărî să-și arate tot păsul căpitanului său, care-l văzuse de la o vreme abătut și pus pe gânduri, însă nu îi cunoștea păsul,</p>
+<p>Neacșu se duse la căpitan și-l rugă cu blândețe să-l asculte în taină despre dorința ce-l muncește.</p>
+<p>Căpitanul care ’l știa că nu îl poate amăgi întru nimic, și că Neacșu nici odată nu îi vorbea cu vicleșug, îi zise:</p>
+<p>— Văd bine, Neacșule, că de la o vreme nu mai semeni a fi printri ai noștri, ești tot pus pe gânduri, ad doară ți s’a scârbit în această viață sălbatică. Eu îți dau toată dreptatea, iacă, bunăoară nici mie nu-mi mai place, și mai vârtos de la moartea Stăncuții, iubita mea. Codrii ’mi par uscați și nu mai îmi dă inima brânci la nimic, de și voi toți căutați a mă păzi de a nu cădea în prada poterii, totuși, cum zice Românul, tivga până la o vreme merge la apă, și mai virtuos, că stăpânirea a pus preț pe capul meu.</p>
+<p>— Așa, căpitane, grăi Neacșu, să părăsești acest neomenos negoț, pe care târgoveții ’l privesc cu scârbă, deși eu, de când te cunosc, am văzut că faci mai mult bine de cât rău, luând de la bogați și dând săracilor și văduvilor ca să-și mărite copilele. Ed unul sunt încredințat că Măria-Sa Vodă, care, după cum se zice este un om cu filotimie, milostiv și cu frica lui Dumnezeu, te va erta dacă te vei duce să te predai de bună voie.</p>
+<p>Cuvintele lui Neacșu avură o mare înrâurire asupra căpitanului de haiduci că Jianu chemă îndată de față pe toți haiducii, și le ținu această cuvântare:</p>
+<quote type="speech"><p>”Știți, dragii mei voinici, că voi ’mi sunteți mai dragi decât toată lumea, căci m’am încredințat că în voi, ca și în mine, bate aceeași inimă muncită de dorul de a vă jertfi viața și sângele pe întrecute ca să scăpăm pe cei asupriți de împilarea liftelor spurcate care ah năpădit țara însuși Dumnezeu ne-a luminat calea până acum ca să putem pedepsi nedreptatea care o îndură frații noștriî. Codrii și câmpiele sunt mărturii că n’am făcut altceva de când suntem împreună, decât să apăram pe cei asupriți. Săracul prigonit a găsit în mijlocul nostru si mângâiere și sprijin.</p>
+ <p>Dacă cei înpilați și îndurerați au găsit milă și ajutor la noi, liftele care asupreau pe frații noștri, le-au răsplătit cu vârf și îndesat; n’am cruțat față de ei nici sângele, nici focul. Spaima ’i-a coprins pe toți, și ca viperele s’au unit ca să ne repună, dar noi să nu le facem pe poftă.</p>
+ <p>Simt că am cam început să nu mai am putere, și cred că a venit vremea să ne despărțim și să ne ducem fie-care la vetrele noastre, și cu frații noștri să luptăm, având cu toții în piept mângâierea că am aruncat sămânța peste un bun pământ, care în scurtă vreme va da roade cu belșug.</p>
+ <p>Despărțindu-ne luați și împărțiți avutul de o potrivă. Mergeți cu bine și aduceți-vă aminte că încă nu v’ați îndeplinit pe deplin sarcina ce v’a dat’o Mântuitorul!"</p></quote>
+<p>La auzul cuvintelor lui Jianu, toți haiducii rămaseră înmărmuriți, nici unul însă nu cuteză să cârtească vre-o vorbă și cu toții se supuseră fără cârtire.</p>
+<p>Toți cu lacrămile ’n ochi, mulțumiră căpitanului de darul făcut; îngropară armele la un loc ascuns, se îmbrăcară cu haine de târgoveți, se îmbrățișară și’și luară rămas bun, împrăștiindu-se în răscruci, unii spre mează-noapte, alții spre miază-zi, alții la răsărit și alții la apus.</p>
+<p>Neacșu rămase singur cu căpitanul; neputându-se stăpâni însă ’l podidi plânsul zicând:</p>
+<p>— Când ne-ai găsit, căpitane, și m’ai făcut copilul și tovarășul tău, era și surioara mea Floarea pe care tu ai dus’o din tabără nu știu unde; spune’mi, dacă mai trăește și unde se găsește, iar de este moartă să mă rog lui Dumnezeu pentru ea. Cât despre tata nu te mai cercetez, căci sunt încredințat că l-a răpus blestematul de Zavistie cu prilejul ca să’i rămâie tot avutul, nu l’ar mai răbda mânia cerească.</p>
+<p>Căpitanul pironi ochii ’n pământ și gândindu-se începu a ofta, zicând lui Neacșu:</p>
+<p>— Nu te mâhni frate, și nu mă învinovăți, dacă nu știu ce să’ți spui despre Floarea. Am căutat să o încredințez unei bătrâne cinstită și cu frica lui Dumnezeu ca să o crească; mă duceam pe la dânsa ori de câte ori aveam drum, se făcuse măricică. Într’una din nopți, abătându-mă pe la bătrâna, nu o mai găsii nici pe dânsa, nici pe Floarea. După toate cercetările ce făcui nu am putut’o dovedi unde se găsește.</p>
+<p>Neacșu începu a plânge din băierile inimei și zise:</p>
+<p>—Ce este scris omului în frunte e pus; de o fi murit, Dumnezeu să o odihnească, iar de o fi în viață, să o ție cu bine.</p>
+<p>— Așa, Neacșule, zise căpitanul, să ne supunem soartei, căci nimic mai presus nu este de cât puterea cerească; eu am încredințat’o bătrânei cu cuget curat, să o crească și să o îngrijească ca pe copilul meu.</p>
+<p>De s’o fi întâmplat să o lase să meargă pe drumul cel pieziș, Dumnezeu să o pedepsească după vina ei.</p>
+<p>Căpitanul văzând că noaptea e în toiul ei și că venise vremea a se despărți, scoase un inel din deget și’i dete lui Neacșu zicându’i:</p>
+<p>— Păstrează acesta ca dar, spre a’ți aduce aminte de mine, precum și de așișderea să știi că la Crucea cu despicâturâ sunt bani îngropați; nu se știe pe viitorime ce va fi, fiind și moarte și viață la mijloc. Se îmbrățișară și eșiră din pădure.</p>
+<p>Căpitanul, după ce se predă la Curtea Domnească, unde ’l iertă, se așeză în ținutul Romanațiului, făcându-se om de ispravă, îndeletnicindu-se cu negoțul de grâne.</p>
+<p>Neacșu de așijderea se așeză între Filiași din ținutul Doljului; acolo, cu banii ce’i agonisise, se apucă de negoț de vite. și mai într’un târziu, se însură.</p>
+<p>Nu trecu mult după aceasta și plecă cu oi și capre în spre țara turcească. Din ziua plecărei, după toate cercetările, nu i se mai află de nume.</p></div>
+     <div type="part" n="6">
+      <head>PARTEA VI</head>
+      <head>Vodă Nun</head>
+<p>Floarea, după cât am povestit, fusese încredințată de Jianu cu taină unei bătrâne, care în toată vremea ascultase povețele de bine, se făcuse o codănace cu duh și curată la față; flăcăii din sat o numea Floarea din poveste; crescuse așa de mare că era destoinică de măritat.</p>
+<p>Prin unele sate din apropiere, se făceau într’una din zile mari pregătiri cu prilejul sosirei lui Vodă, care mergea la hramul Monastirei Jitiana, în care drum trebuia să treacă chiar prin satul, unde ședea bătrâna și Floarea.</p>
+<p>Nu trecu mult și Vodă cu suita se popri în acel sat, unde se făcea calea jumătate până la Monastire.</p>
+<p>Toți fruntașii satului, cu neveste, fete și copii, îmbrăcați în veșminte de sărbătoare, veniseră întru întâmpinarea Domnitorului cu pâine și cu sare, după datinele sttămoșești, tot satul eșise la iveală, afară de Floarea.</p>
+<p>Vodă le mulțumi de cinste, și îi cercetă de nevoile ce au. Un moșneag mucalit la vorbă, neavând alt de lucru, îl zise:</p>
+<p>— Luminate Doamne, nevoia cea mare este de a fi ajutați la isprăvenia bisericei din satul nostru și la alcătuirea unui puț de piatră.</p>
+<p>Vodă dete poruncă Vistierului să ție în seamă nevoile sătenilor d’a se îndeplini cât mai în grabă și a li se da cinci pungi cu bani.</p>
+<p>Unchiașul, care era fără sfială și mucalit, făcu metanie la picioarele lui Vodă și ceru ertăciune dacă îndrăsnește a’l mai ruga ceva.</p>
+<p>Vodă, ca toți Domnitorii după vremuri, creștini buni darnici și miloși, zâmbind, zise moșneagului să-i arate toate păsurile de care era cercuit.</p>
+<p>Unchiașul ’și deslegă limba și începu a povesti, cu mare parapon, că flăcăii din acel sat sunt pe drumul de a căpia; nici unul nu vrea să se însoare din pricina unei fetișcane, care s’a pripășit în sat de la un cârd de vreme, se bat pe dânsa, luându-se la împetrecanie care mai de care sa o ia de nevastă ea nu voește să facă dragoste cu nici unul; nu ese din sfaturile unei bătrâne, care o are sub a sa îngrijire, așa că din pricina aceasta s’a poroclit de satul văduv.</p>
+<p>Vodă porunci să o aducă înaintea lui, fata se înfățișă însoțirii de bătrâna; cum văzu pe Vodă, făcu o metanie după obiceiul timpului. Vodă o întrebă de ce nu a venit întru întâmpinarea suitei, când Domnul și stăpânul țărei vine să cerceteze nevoile și păsurile sătenilor?</p>
+<p>Floarea, cu ghers dulce, plin de duh și voinicesc, începu a grăi în stihuri:</p>
+      <quote><l>Să trăești Măria ta</l>
+      <l>Cu toată suita ta,</l>
+      <l>Că ai venit pe la noi </l>
+      <l>Să ne întrebi de nevoi.</l>
+      <l>N'am ce spune, n’am ce zice.</l> 
+      <l>Unde stau sunt prea ferice</l>
+      <l>Mulțumesc Domnului Sfânt</l> 
+      <l>De binele unde sunt.</l>
+      <l>Toți flăcăii se iubesc</l>
+      <l>În cuget curat frățesc.</l>
+      <l>Astă bătrână ce-i de față</l>
+      <l>Mă ’ngrijește și mă’nvată</l> 
+      <l>De a fi cinstită ’n lume</l>
+       <l>Ca să am cu vreme-un nume.</l></quote>
+<p>Vodă, auzind duhul cu care grăi Floarea, se întinse cu vorba, întrebând’o cine ’i sunt părinții și cu ce prilej se găsește la acea bătrână?</p>
+<p>Floarea, voind a povesti lui Vodă neamul din care se trage, și năpădind’o dorul de Neacșu și tatăl său cărora nu le mai dăduse de urmă, cu lacrămile în ochi și suspinând urmă:</p>
+      <quote><l>—Maica noastră când murise,</l> 
+       <l>Lui tăicuțu nostru dise:</l>
+       <l>Să 'ngrijească de noi doi</l>
+       <l>Și să ’ndure orice nevoi.</l></quote>
+<p>Aci podidind’o plânsul și nemaiputând grăi, căzu la picioarele lui Vodă. Bătrâna, ca să nu lase în nedomirire pe Vodă, îi povesti pricina cum Floarea se găsea la dânsa și cum pronia cerească i-a dat duh și înțelepciune.</p>
+<p>Printre suită se afla un logofăt cu numele Dan, care, văzând pe Floarea și auzindu’i cuvântarea cea plină de duh, rămase abătut și nu mai grăia nimic; îi căzuse așa de drag în cât se uimise.</p>
+<p>Ajunși la Monastire, se făcu slujba după obiceiu, apoi se puseră la masă. Domnul cu ai săi, nu le fu altă vorbă de cât de Floarea, căci nu’și putea da socoteala cum acea fetișcană a putut avea darul să grăiască în stihuri, deoarece totul dovedea a fi din opincă.</p>
+<p>— Aicea, zise Vodă, trebue să fie vreo taină, și deci ar fi păcat să fie dată de soție după un sătean.</p>
+<p>Aceste cuvinte oțeliră inima lui Dan, care nu scosese până atunci nici o vorbă. Vodă, băgând de seamă această neobicinuință din partea lui Dan, îl întrebă:</p>
+<p>— Ce ai, boierule, că de la o vreme ți s’a închis inima, tu, care erai cel mai vorbăreț? Ah, doară vederea fetișcanei ți-a întors capul?</p>
+<p>— Așa, Măria ta, răspunse Dan, vederea acelei copilandre mi-a înfipt săgeata dragostei drept în inimă și nimeni alt afară de Măria-ta nu o poate scoate.</p>
+<p>Vodă, pricepând gândul logofătului, zise:</p>
+<p>— Eu nu pot să pui streajă inimei tale. Daca ți-e cu drag și creții că nu atinge rangul și eghemoniconul boeresc, mai vârtos că nu are cine se împotrivi la aceasta, de oarece tu nu ai rudenii de aproape, eu deci ’ți-o hărăzesc cu dragă inimă și mă fac nunul vostru.</p>
+<p>— Îndurate Doamne, grăi Dan, fapta ce a-ți săvârșit prin a mă ridica la rang și a’mi da de soție pe Floarea, este mai pre sus decât orice și vrednică de bunul și îndurătorul meu stăpân. Dumnezeu care v’a dat mărirea și duhul inimei curate, să vă ție pe scaunul Domniei atâția ani cât dreptatea și cinstea va fi de a pururea înnainte mergătoare pentru neamul Românesc.</p>
+<p>Eu voiu fi, milostive Doamne, gata la orî-ce nevoi s’ar cere de luminăția ta; sângele ce curge prin mădularele voastre este ca și al meu, la orice trâmbiță dată sunt gata a’mi jertfi viața.</p>
+<p>Vodă dete de îndată poruncă să înhame caii la butca domnească, să meargă în satul unde se aflase Floarea ca să o aducă cu alaiul cuvenit.</p>
+      <p>Flăcăi, care mai de care sfărăindu-le călcăele de bucurie, se întreceau a se spilcui și pune vestminte de sărbătoare, spre a plăcea fetei. Puseră pe Floarea și cu bătrâna în butca domnească și plecară urmate de top flăcăi spre Monastire. Cum ajunseră acolo se înfățișă înaintea lui Vodă, care întrebă pe Floarea și pe Dan, daca cu bună seamă se plac unul altuia? Amândoi îngenuchiară și sărutară poalele vestmântului lui Vodă zicând <quote>„da”</quote>.</p>
+<p>Eșiră cu toții în curte, unde Vodă ținu o cuvântare către săteni, zicându-le cu graiu viu:</p>
+      <quote type="speech"><p>„Oameni buni, am chibzuit că deși voi a'i năzuit la Floarea, așa că de voiu da-o de soție unuia din voi, se vor mâhni ceilalți și se va face vrajbă printre voi, mai vârtos că Floarea, fiind fată de duh și dintr’un pământ bun, după cât ’mi-a fost dat să crez, se cuvine și după învoirea dânșii a o da dupe logofătul Dan, iar vouă spre a nu vă lăsa mâhniți, vă hărăzesc de fiecare flăcău câte un plug cu câte patru boi și una sută lei bani buni, ca să vă fac dreptate”.</p></quote>
+      <p>Toți într’un glas strigară: <quote>„Să trăești Măria ta și să’ți dea Dumnezeu am mulți și biruitori pe scaunul Domniei!”</quote></p>
+<p>Intrară în biserică unde se sluji cununia după tot șartul Vodă și cu bătrâna care crescuse pe Floarea, le fură nuni mari, pe Dan îl înălță la rangul de Căminar și Ispravnic al Craiovei, făcăndu’i danie o moșie.</p>
+<p>Se întinse masă în curtea bisericii, de unde Vodă, Mirii si cu toată curtea ce-i însoțea priveau din Ciardacul arhonderiei. Apoi după isprăvenie, Vodă merse de cercetă chiflele Monastirei, spre a se încredința, daca monachii sunt mulțumiți și dacă toate sunt în spre bună orânduială.</p>
+<p>Tocmai în spre isprăvenie eși înaintea lui Vodă un bătrân cu porecla Melentie, privind pe Vodă în față îi zise:</p>
+<p>— Măria ta, dă’mi slobozenie să’ți arăt un nenorocit bătrân ce zace într’o chilie. În toată vremea cât a stat închis, nimenea nu are voe să intre la dânsul decât mine, toți ceilalți îl cred nebun.</p>
+<p>Părintele Melentie, cum zic, povesti în taină pe scurt lui Vodă toate ce se meșteșugise de Zavistie de mă aflam năpustit în închisoare. Vodă, îndată ce isprăvi de parastisit călugărul, se îndreptă spre închisoare, unde dând peste mine și cercetându-mă se încredința cu bună seamă de ce năpastie căzuse asupra capului meu, dete poruncă și mă scoaseră din închisoare, unde șezusem atâta amar de vreme. Cum eșii afară și dădui de lumina soarelui, ’mi făcu rău la ochi. Atunci mă acoperiră cu o basma și mă duse la arhonderie, unde toată curtea se făcu roată împrejurul meu ca să asculte mersul pricinei pentru care mă găseam închis. Nu sfârșii încă povestirea când, tocmai când eram în toiul ei, mă pomenesc cu un chiot. Ce erea ? Floarea care mă recunoscuse de tatăl său. Toți cei de față rămaseră uimiți de cele ce văzură și auriră.</p>
+<p>Vodă dete poruncă să se cerceteze cu de amănuntul cine sunt nelegiuiții cari au făptuit această neomenie fără seamăn, pentru ca făptuitorii să’și ia pedeapsa potrivit faptei ce săvârșise.</p>
+<p>A treia pornirăm cu toții din Monastire spre a ne îndrepta în spre Craiova unde se orânduise Dan Ispravnic. Eu și cu bătrâna ne puserăm într’o căruță; din pricina unui cal ce șchiopătase, nu ne puturăm ține de suită. Vizitiul, care nu se trezise de la zaifetul și chiolhanul ce se făcuse la Monastire, nebăgând în seamă urcușul și scoborâșul ce ne eșea în cale, răsturnă căruța într’un șanț, pe bătrână o lovi un cal la moalele capului și rămase pe loc moartă, iar mie ’mi sfărâmă roata fluerul piciorului; de atunci am rămas cu beteșug.</p>
+<p>Floarea, ajungând în oraș și văzând că eu și cu bătrâna nu mai sosim, spuse soțului său să trimeață în calea noastră ca să cerceteze împrejurarea.</p>
+<p>Erea tocmai pe sfârșitul soarelui, când md pomenesc cu câțiva vătășei de la curte. Eu de abea puteam grăi de durerea piciorului; sărmana bătrână își dăduse sfârșitul, iar baragladina de vizitiu spălase putina de teamă să nu cadă în belea.</p>
+<p>Se dete alarma în satul din apropiere, veniră mai mulți săteni, ’mi unseră piciorul cu păcură și ’l legară cu șiță, și mă aduseră în oraș; așișderea și pe sărmana bătrână o puseră pe două pârghii și o duseră la biserica din sat.</p>
+<p>Cum ajunsei la curtea Ispravnicului, Floarea îmi eși în cale spre a’i povesti ceasul rău. Ea începu a plânge și dete poruncă ca bătrâna să se îngroape după tot șartul creștinesc și să i se facă pomană.</p></div>
+     <div type="part" n="7">
+      <head>PARTEA VII</head>
+      <head>Dovedirea lui Neacșu</head>
+<p>Neacșu, după, cum am povestit, plecase să facă negoț cu oi și cu capre în țara turcească, de unde nu i se mai auzise de nume decât după 18 ani. La plecarea lui în spre Dunăre încărcă un Ceam turcesc cu oi și capre. Ajuns pe la jumătatea Dunării, în dreptul Șiștovului, făcându-se noapte cu ceață, cârmaciul care mâna Ciamul nu băgă de seamă și dete peste un Caic care venea din josul apei, așa că sfărâmând Ciamul îl înecă cu toate oile și caprele ce se găsea într’însul. Numai Neacșu scăpă teafăr, viind înnot până la malul Dunării din spre Șiștov, unde stătu până dimineața. Nu mai avea asupra lui de cât 100 lei bani turcești. Sta pe gânduri, blestemându’și soarta, când deodată se pomeni cu doi Turci care ’1 luară și îl duseră la Conac să’l cerceteze, învinovățindu’i că este ghiaur și a avut gând rău ca să spargă Caicul, unde se afla Cadâna Pașii din Șiștov.</p>
+<p>Sărmanul Neacșu, nu știa cum să se desvinovățească, când iaca și cârmaciul Ciamului, care scăpase și dânsul. El se legă a se face tâlmaci, dacă numără 100 lei, spre a’l desvinovăți. Cadiul luminându-se îi dete drumul.</p>
+<p>Văzându-se singur și fără para în pungă, se ruga lui Dumnezeu să’l erte, daca a greșit în ceva și să’l îndrepteze arătându’i drumul cel drept, ca să ’și agonisească ceva bani de a se întoarce la vatra lui.</p>
+<p>Neacșu, pe când era haiduc, avea darul de a ști să rază, așa că îi veni în minte să se bage la un bărbier. Se înfățișă la stăpânul unei bărbierii și prin semne îi spuse cele ce vrea. Bărbierul îl puse la probă și văzu că este meșter, unde urmând cu acest meșteșug o bucată de vreme, ajunse să câștige încrederea stăpânului.</p>
+<p>Intr’una din zilele baieramului, veni Cadiul ca să se radă. De obicei Turcii, la bărbierii au câte un caraghios ca să spue lucruri mucalite de a nu li se urî celor ce adastă. Neacsu, care începuse a pricepe puțin limba, începu a rîde cu hohot de glumele caraghiosului, și nebăgând de seamă, taie cu briciul pe Cadiu; acesta se înfurie și dă poruncă să’l lege și să’l ducă la Conac, unde stete închis două zile, nemâncat. A treia zi îl scoase să’l judece. Din norocirea lui și din cele ce spuse că i s’a întâmplat, un turc chiabur care se afla și el la Conac pentru judecată, ’și aduse aminte că Neacșu este omul ce’l aștepta cu capre și oi să vie din Valahia; îl luă pe chezășie dând Cadiului bacșișul obicinuit, cu învoială ca Neacșu, care se pricepea în ale pășunei vitelor, să’i păzească pe ale sale. Îi făcu zapis în fața Cadiului, pe mai mulțl ani, și’l și trimise cu oile la pășunat.</p>
+<p>În toată vremea cât stătu la acel turc, nu avu nici o știre de acasă, dar nici el nu făcu cunoscut la nimeni ca să nu aducă inimă rea soției de halul în care se găsea.</p>
+<p>Cu din sudoarea muncei lui își agonisise bune părăluțe.</p>
+<p>Răi făcătorii ’1 simțiră, așa că într’una din seri se pomeni legat și jefuit de tot avutul.</p>
+<p>Stăpânul său aflând cele întâmplate i se făcu milă și îl dărui 100 lei și o pușcă. El văzând că tot ce face îl merge spre rău, se puse pe gânduri, când de o dată ’și aduse aminte de comoara îngropată de Jianu la Crucea cu despărțituri. Pe dată se și hotărî să părăsească ținutul Turciei. Mulțumi stăpânului său de darul ce-i făcuse și îi spuse că i s-a făcut dor de țară și de nevastă; turcul prinse bucuros și stărui a’i scoate o teșcherea de plecare.</p>
+<p>Neacșu, luând rămas bun, puse pușca la spinare și plecă.</p>
+<p>Pe drum îi eși în cale un unchiași, zicându’i:</p>
+<p>— Voinice, ca să știi la nevoe cum să umbli cu pușca ce o ții la spinare și să scapi de orice primejdie, dă’mi mie 100 lei ca să’ți vânz leacul.</p>
+      <p>Neacșu, cu gândul la comoară, dete și cei din urmă bani ca să cumpere de la unchiași - ce? - cuvintele următoare: <quote>„La necaz să te gândești înainte de a slobozi pușca"</quote>. Dete banii și unchiașul se făcu nevăzut.</p>
+<p>Ajuns Neacșu în pădure, unde ’i spuse Jianu că se află comoara, la crucea cu despicătură, căută, răscoli pretutindeni, dar nu găsi nimic. înfuriat peste fire de tot ce pățise, plecă spre casă, la nevastă. Noaptea, ca să nu’l cunoască cei din sat, în halul în care se găsea, se furișă în curte, intră prin grădină și se urcă într’un pom din fața casei așteptând până dimineața ca să vadă, dacă în toată vremea cât a lipsit, nevasta ’i-a fost credincioasă.</p>
+<p>Tocmai când soarele dimineții răsărea, văzu că se deschide portița intrând un flăcăiandru; bate la ușa din prispă și ese stăpâna casei care, văzând pe flăcăiandru, îl îmbrățișa și’l pupă pe amândoi obrajii. Neacșu, înfuriat că nevasta sa i-a necinstit casa, nețiind în dreptate, și uitând de cuvintele cumpărate de la unchiași, puse pușca la ochi și trase atât în nevastă, cât și în flăcăiandru.</p>
+<p>La auzul puștei sărind vecinii, Neacșu se dete și el jos din pom, zicând celor de față:</p>
+<p>— Eu sunt Neacșu, oaia cea pierdută; am venit pe furiși ca să mă încredințez de cinstea ce nevasta ținea căsii. Vedeți, oameni buni, cu cine m’a schimbat în toată vremea cât am fost rătăcit.</p>
+<p>Unchiașul care îi vânduse cuvintele se înfățișă înaintea lui zicându’i:</p>
+<p>— Mare păcat ai făcut voinice, că ’ți-ai bănuit nevasta care în tot timpul a fost cinstită și credincioasă; află că flăcăiandru ăsta este copilul tău.</p>
+<p>— Așa! Așa! grăiră cei din prejur, ai răpus pe nevasta și copilul tău, mai ’nainte de a te încredința de cinstea lor, căci tu la plecare ’ți-ai lăsat soția însărcinată, și născând pe acest flăcăiandru, l’a crescut cu îngrijire și cu cinste de l-a făcut mare ca tu să vii hoțește să’i răpui pe amândoi fără ca să’i cercetezi.</p>
+<p>Neacșu, desmeticindu-se și vâzând pe nevasta și copilul său morți, începu a plânge amar, blestemându’și soarta care ’l prigonise de atâta amar de ani.</p>
+<p>Se dădu știre în tot satul de cele întâmplate. Îndată veniră aleșii care, încredințându-se de cele ce văzură, deteră știre zapciului, așternură taclirul și’l legară cobză de mâini și de picioare cu lanțuri, trimițendu’l Ispravnicului Craiovei. Tot târgul aflase de această nenorocire.</p></div>
+     <div type="part" n="8">
+      <head>PARTEA VIII</head>
+      <head>Spânzurătoarea</head>
+<p>Ispravnicul Craiovei, Căminarul Dan, dete ștafetă la curtea lui Vodă în București ca să hotărască de osânda ce i se cuvenea lui Neacsu. Vodă trimise vorbă ca să-l judece după tot șartul pravilnicesc.</p>
+<p>Sărmanul Neacșu, tot ce spunea spre a’și spăla păcatul, nu era crezut de nimeni, mai cu deosebire că i se găsi în deget un inel de la haiducul Jianu; această mărturie și mai mult îl îngropă în vină. După ce îl supuseră la fel de fel de casne, fu pus a sta și nu ochii în soare, căci numai aceștia sunt vrednici și fără milă să răpue pe om, după cum zice zicătoarea.</p>
+<p>Îl puseră cu ochii în soare și se încredințară că a săvârșit moarte.</p>
+<p>Boierii din divan care ’1 judecară, nu găsiră altă osândă de cât spânzurătoarea.</p>
+<p>Vodă ticluind ofisul hotărî ca omorâtorul să se spânzure chiar în Craiova, unde a făptuit omorul, spre a se da pildă la toți acei care ar cuteza să săvârșească asemenea nelegiuiri, și însărcină chiar pe Ispravnicul Dan cu punerea la cale a acestor glăsuite în ofis.</p>
+<p>Se bătu barabanul trei zile pe la toate strejile târgului Craiovei spre a se da de știre că în ziua de Rusalii, la târgu Oteteleșu, se va spânzura un haiduc care a făptuit nelegiuirea de a ucis pe soția și copilul său.</p>
+<p>Tot norodul în acea di se adună la locul hotărât.</p>
+<p>Căminarul Ispravnic, soțul Floarei, era orânduit să parastisească înaintea norodului ofisul Domnesc, ca să se știe pricina vinei pentru care Neacșu trebuia să fie spânzurat.</p>
+<p>Floarea, care nu știa nimic din cele ce se petrece, și fiind din fire poftitoare de a privi asemenea lucruri și fără a’și da seama că este însărcinată, se hotărî, fără știrea Ispravnicului, să meargă și dânsa ca să vadă spânzurăttoarea.</p>
+<p>Se puse într’o caleașcă, îndreptându-se în spre locul unde era să fie spânzurătoarea; un cal se poticni și rupse oiștea trăsurii; în vreme cât a zăbovit ca să meremetisească caleașca, totul la târg era pregătit.</p>
+<p>Ispravnicul, începând a citi ofisul domnesc cătră norod, agăță ștreangul de gâtul lui Neacșu. Nenorocitul, văzând că moartea îi este aproape și cu nimic nu se mai poate îndrepta, se rugă să’i dea puțin răgaz de a spune norodului că moare nevinovat. încuviințându-i-se dorința, el grăi către mulțimea adunată, zicând:</p>
+      <quote type="speech"><p>„Oameni buni, sunt feciorul lui moș Sandu, de la bordeiul din marginea pădurei, după moșia lui Zavistie, care, aruncând în temniță fără vină pe tăicuțul meu, rămăsesem eu și cu surioara mea, Floarea, de unde răpindu-ne, ne-a rătăcit prin pădure. Căpitanul de haiduci Jianu, mă încorporă printre ai lui, iar pe Floarea o deteră, zice-se, la o bătrână ca să o crească, care de la o vreme nu i s’a mai dat de urme. Vă rog, oameni buni, rugați-vă pentru dânsa și pentru mine, căci sunt nevinovat.</p></quote>
+<p>Eu auzind aceasta, ’mi făcui loc printre norod, strigând către ispravnic, să oprească spânzurătoarea, căci aci e o mare taină, deoarece cele glăsuite de osândit sunt aidoma.</p>
+      <p>Neacșu, cum mă văzu, mă recunoscu strigându-mă: <quote>„tată! tată!”</quote></p>
+<p>Tot norodul rămase înmărmurit de cele auzite.</p>
+<p>Ispravnicul Dan pe loc se înfuriă, auzînd că prin întâmplarea aceasta ’și face rangul de râs, dete poruncă în grabă să’i strângă lațul și să’l ia scaunul de sub picioare. De înfuriat ce era, Ispravnicul îi dete un ghiont la ciafă chiar cu mâna lui ca să’i stingă graiul mai repede, așa de hain se făcu aflând că soția lui a avut un frate tâlhar și ucigași.</p>
+<p>Floarea sosi tocma când Neacșu ’și dete sufletul. Eu mă dusei și ’i spusei că spânzuratul e fratele ei, Neacșu. Floarea auzind aceasta, se repezi ca o leoaică înspre spânzurat și căutându-l la ciafă se încredința că are semnul ghindei, semn care îl știa din copilărie, așa că nu mai încăpea nici o îndoială că era fratele ei, Neacșu. Atunci dete un răcnet așa de tare că pe loc și înnebuni.</p>
+<p>Cei din jurul ei o luară și o duseră acasă, unde coprinzând’o muncile facerei, dete naștere fără vreme. Ispravnicul, rușinat de cele întâmplate și nevoind să aibă o odraslă pornită din pântecele surorii unui tâlhar, cu toată dragostea ce avea de a căpăta un copil după atâta vreme de căsnicie, dete poruncă să lepede copilul.</p>
+<p>La curtea domnească din București, veni în auzul lui Vodă toate cele întâmplate și aducându’și aminte cele glăsuite în stihuri de Floarea și de cele spuse cu taină de călugărul Monastirei, se înfuriă pe Ispravnicul Dan de ușurința și nesocotința cu care se purtase, neluând în seamă firul adevărului, ba grăbind chiar cu mâna lui moartea nevinovatului. Nemaiputându’l honipsi îl dete jos după scaunul Isprăvniciei, luându’i rangul de Căminar ca nedestoinic.</p>
+<p>Dan vâzându-se hulit de Vodă și soția înebunindu-i, vându tot avutul și se făcu nevăzut.</p>
+<p>Eu și cu Floarea rămaserăm iarăși calici, și de rușinea târgoveților m-am hotărât a părăsi orașul. Într’o noapte urcai pe Floarea într’o căruță și venirăm de ne așezarăm într’acest bordeiu, unde dânsa și cu Neacșu au fost găsiți de Jianu.</p>
+<p>—Moș Sandule, îi zisei, cele ce’mi povestești nu poate fi decât mânia lui Dumnezeu care te-a pedepsit așa de crunt. Cine știe ce neajunsuri ai făptuit în viață oamenilor.</p>
+<p>— Ai dreptate, voinice, răspunse unchiașul; nici o faptă fără răsplată, totul pe pământ își ia pedeapsa. Îmi aduc aminte când eram avut că luam dijmă de la săteni din zece nouă, sărmanii nu munciau decât pentru mine, și mai pre sus de aceasta se vede că blestemele maicii mele m’a ajuns, căci o nesocoteam și ’mi băteam joc de dânsa. Nu s’ar cădea să’ți destăinuesc toate acestea dar fiind prea bătrân și moartea bătând la ușă, ’ți destăinuesc păcatele, că poate în lumea cealaltă voiu fi ușurat.</p>
+<p>Află dar, că am făptuit nelegiuirea de a omorî pe maica, din pricină că nu voia să’mi dea slobozenie a mă însura și pentru aceasta se vede că blestemul păcatului au căzut atât pe copii, cât și pe mine de mă aflu cum mă vezi.</p>
+<p>— Dumnezeu să te ierte, moșule, de toate faptele rele ce ai săvîrșit, însă nu mi-ai spus ce s’a făcut Floarea.</p>
+<p>Unchiașul se sculă dupe vatră și se îndreptă spre o uscioară din fundul bordeiului, luă arțarul și o deschise, zicând:</p> 
+ <quote>Iată, Voinice, Floarea nebună!</quote>
+<p>Rămăsei ca trăsnit la vedenia acestei femei căreia tot îi mai rămăsese urme de frumusețe.</p>
+<p>Ea sta cu părul despletit, ținând în brațe niște cârpe făcute ghemotoc în făptură de copil. Cum mă văzu sări în brațele mele, luându-mă drept Neacșu. În rătăcirea ei începu să mă mustre de ce-am întârziat așa de mult făcând pe copil să plângă.</p>
+<p>Pe când o priveam gândindu-mă că blestemul nu cade pe pietre, deodată o lumină străbătu prin țipla ochiului ferestrei bordeiului. Crezând că e lumina dimineței, vrusei să’mi iau rămas bun de la unchiași, când iaca că vine și surugiul înspăimântat zicând că pădurea este toată în flăcări. Nu’mi văzui capul cum să fug mai repede spre a’mi scăpa viața.</p>
+     </div>
+</body>
+  <back>
+   <div>
+   <gap unit="toc"></gap>
+   </div>
+  </back>
+</text>
+</TEI>
