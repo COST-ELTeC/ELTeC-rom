@@ -50,7 +50,7 @@
    <change when="2018-09-28">Initial TEI version generated.</change>
   </revisionDesc>
  </teiHeader>
- <text xml:id="ROM005" xml:lang="ro">
+ <text >
   <front>
    <div type="titlePage">
     <p>GHIȚĂ CĂTĂNUȚĂ</p>
@@ -1530,7 +1530,7 @@
     <l>Floricică Dunăreancă,</l> 
      <l>Care’n haine de mireasă</l> 
       <l>L’aștepta de mult acasă!</l>
-  <milestone/>
+<!--  <milestone/>-->
       <l>Spusu-ți-am cântec bătrân</l> 
        <l>Si mai am vr’o două în sân.</l>
         <l>Dacă ai tu suflet bun</l>
@@ -2062,8 +2062,8 @@
                    <l>Peste codri peste munți </l>
                     <l>La cei socri cam cărunți.</l></quote>
   <quote type="ballad" n="2">
-<head>II</head>
-   <l>Amândoi la drum pleca,</l> 
+<!--<head>II</head>
+-->   <l>Amândoi la drum pleca,</l> 
  <l>Sus la munte se urca,</l>
    <l>— Hei plăvan, hei bourean </l>
    <l>Giugănaș abia d’un an ! </l>
@@ -2113,8 +2113,8 @@
  <l>Și d’o mai vrea altă hrană </l>
  <l>I-oi da trei baltagi pomană.</l></quote>
   <quote type="ballad" n="3">
-<head>III</head>
-   <l>Puse Vidra a cânta.</l>
+<!--<head>III</head>
+ -->  <l>Puse Vidra a cânta.</l>
    <l>Codrii a se deștepta</l>
    <l>Apele a se turbura</l>
    <l>Munții a se clătina.</l>
@@ -2153,8 +2153,8 @@
 <l>De ți-e sufletul îndrăzneț </l>
  <l>Câț ți-e graiul de semeț.</l></quote>
   <quote type="ballad" n="4">
-<head>IV</head>
-   <l>Ei de brâu se apucară</l> 
+<!--<head>IV</head>
+ -->  <l>Ei de brâu se apucară</l> 
    <l>Și la luptă se luară,</l>
    <l>Zi de vară pân ’n seară; </l>
    <l>Când în locu-i să învârtea </l>
