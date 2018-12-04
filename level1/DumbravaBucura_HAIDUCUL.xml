@@ -7,7 +7,7 @@
   <fileDesc>
    <titleStmt>
     <title> Haiducul : ELTeC edition</title>
-    <author> Dumbravă, Bucura (Fany Seculici/ Fanny Szeculicz)(1868-1926)</author>
+    <author> Dumbravă, Bucura (Fany Seculici/Fanny Szeculicz)(1868-1926)</author>
     <respStmt>
      <resp>ELTeC encoding</resp>
      <name>Roxana Patras</name>
@@ -43,7 +43,7 @@
    </langUsage>
    <textDesc>
     <e:authorGender key="F"></e:authorGender>
-    <e:size key="medium"></e:size>
+    <e:size key="long"></e:size>
     <e:canonicity key="medium"></e:canonicity>
     <e:timeSlot key="T4"></e:timeSlot>
    </textDesc>

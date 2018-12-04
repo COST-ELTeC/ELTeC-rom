@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="BalanescuSimion_BLESTEMUL" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" 
+ xml:id="ROM002" xml:lang="ro">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>ELTeC edition</title>
-    <author> Bălănescu, Simeon (no available data in Bibliografie românească modernă 1831-l918, vol 1.A-C)</author>
-    <respStmt>
+    <title>Blestemul: ELTeC edition</title>
+ <!--   <author> Bălănescu, Simeon (no available data in Bibliografie românească modernă 1831-l918, vol 1.A-C)</author>
+ -->     <author> Bălănescu, Simion (?-?) </author>
+  <respStmt>
      <resp>ELTeC encoding</resp>
      <name>Roxana Patras</name>
     </respStmt>
@@ -17,7 +19,7 @@
    </extent>
    <publicationStmt>
    <p>Incorporated into the ELTeC
-    <date>2018-l0-20</date></p>
+    <date>2018-10-20</date></p>
    </publicationStmt>
    <sourceDesc>
     <bibl type="copyText">
@@ -26,8 +28,9 @@
      <pubPlace>Bucharest</pubPlace>
      <publisher>Stabilimentul Grafic I.V. Socec</publisher>
      <date>1894</date>
-     <idno type="library">http://193.231.13.17/vufind/Record/BCU02000001347/Description</idno>
-        </bibl>
+     <ref target="http://193.231.13.17/vufind/Record/BCU02000001347/Description">BCU02000001347</ref>
+    </bibl>
+      
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -48,7 +51,7 @@
    <change when="2018-09-28">Initial TEI version generated.</change>
   </revisionDesc>
  </teiHeader>
- <text xml:id="ROM002" xml:lang="ro">
+ <text >
   <front>
    <div type="titlePage">
     <p>BLESTEMUL. POVESTE NĂSCOCITĂ</p>
@@ -68,7 +71,7 @@
   </front>
      <body>
     <div type="chapter" n="1">
-     <head>NĂPASTEA.PARTEA I</head>
+     <head>NĂPASTEA : PARTEA I</head>
      <head>Ucigașul</head>
 <p>Era, după cât îmi pot da cu socoteala, în luna Cireșarului, așa că se lăsase un zăduf de întrecea pomana, caii de la Olac de abea mai puteați merge. Aveam grabă să ajung cu nepusă masă în ținutul Doljiului, plaiul Parscovu, ca să adun banii birului de la Pârcălabi; deodată ca din senin, soarele intră ’n nori părând că apune; dădui gură surugiului să dea bici, care se grăbi a încolăci biciul scoțând răcnete prelungite, așa că caii se opintiră din răsputeri și ajunserăm la marginea unei păduri, unde se afla un puț, iar alături de el, niște furci în făptură ca niște spânzurători. Până ce surugiul adăpă caii, eu o luai încetinel înspre împrejurimea locului, spre cercetare; văz o cruce mare de piatră, scrisă cu slove vechi, începui a mă trudi să citesc, dar nu putui afla nimic, căci se întuneca din ce în ce mai mult, începând să tune și să fulgere. Surugiul înhămă caii în grabă spre a merge să căutăm un adăpost.</p>
 <p>Nu făcurăm cale de o bătae de pușcă prin pădure, pe unde-mi era drumul, când și începu o ploae cu bășici, așa că furăm nevoiți a ne opri în loc.</p>

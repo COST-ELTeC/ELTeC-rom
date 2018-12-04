@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="BalanescuSimion_SFARSITUL_BLESTEMULUI" xml:lang="ro">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM003"
+  xml:lang="ro">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title> Sfârșitul blestemului. Poveste născocită de Simeon Bălănescu : ELTeC edition</title>
-    <author> Bălănescu, Simeon (no available data in Bibliografie românească modernă 1831-l918, vol 1.A-C)</author>
+    <title> Sfârșitul blestemului : ELTeC edition</title>
+    <author> Bălănescu, Simeon (?-?) <!--(no available data in Bibliografie românească modernă 1831-l918, vol 1.A-C)--></author>
     <respStmt>
      <resp>ELTeC encoding</resp>
      <name>Roxana Patras</name>
@@ -27,7 +28,7 @@
      <pubPlace>Bucharest</pubPlace>
      <publisher>Tipografia Gutenberg, Joseph Gobl</publisher>
      <date>1895</date>
-     <idno type="library">http://193.231.13.17/vufind/Record/BCU02000001348</idno>
+      <ref target="http://193.231.13.17/vufind/Record/BCU02000001348">BCU02000001348</ref>
         </bibl>
    </sourceDesc>
   </fileDesc>
@@ -49,7 +50,7 @@
    <change when="2018-09-28">Initial TEI version generated.</change>
   </revisionDesc>
  </teiHeader>
- <text xml:id="ROM003" xml:lang="ro">
+ <text  xml:lang="ro">
   <front>
    <div type="titlePage">
     <p>Sfârșitul</p>

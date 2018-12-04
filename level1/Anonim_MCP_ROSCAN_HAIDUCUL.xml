@@ -3,7 +3,7 @@
 <TEI
   xmlns="http://www.tei-c.org/ns/1.0"
   xmlns:e="http://distantreading.net/eltec/ns"
-  xml:id="Anonim_MCP_ROSCAN_HAIDUCUL"
+  xml:id="ROM001"
   xml:lang="ro">
   <teiHeader>
     <fileDesc>
@@ -69,9 +69,7 @@
         when="2018-09-28">Initial TEI version generated.</change>
     </revisionDesc>
   </teiHeader>
-  <text
-    xml:id="ROM001"
-    xml:lang="ro">
+  <text>
     <front>
       <div
         type="titlePage">
