@@ -1,0 +1,6 @@
+id,author-name,book-title,subgenre,year,year-cat,canon-cat,gender-cat,length,length-cat,counter
+ROM001,,RoșcanHaiducul.Nuvelăilustratăcudouăgravuri,foo,????,T3,low,U,14217,medium,1
+ROM002, Bălănescu,Blestemul,foo,1894,T3,low,M,10000,short,1
+ROM003, Bălănescu,Sfârșitulblestemului,foo,1895,T3,low,M,23588,short,1
+ROM004, Dumbravă,Haiducul,foo,1919,T4,medium,F,124789,long,1
+ROM005, Macri,GhițăCătănuțăcăpitandehaiduci,foo,1923 (1883),T3,low,M,27443,short,1
