@@ -1,7 +1,0 @@
-<teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude"><teiHeader><fileDesc> <titleStmt> <title>TEI Corpus testharness</title></titleStmt> <publicationStmt><p>Unpublished test file</p></publicationStmt><sourceDesc><p>No source driver file</p> </sourceDesc> </fileDesc> </teiHeader>
-<xi:include href='level1/BalanescuSimion_SFARSITUL_BLESTEMULUI.xml'/>
-<xi:include href='level1/Anonim_MCP_ROSCAN_HAIDUCUL.xml'/>
-<xi:include href='level1/MacriPanait_GHITA_CATANUTA.xml'/>
-<xi:include href='level1/BalanescuSimion_BLESTEMUL.xml'/>
-<xi:include href='level1/DumbravaBucura_HAIDUCUL.xml'/>
-</teiCorpus>
