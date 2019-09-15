@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM005" xml:lang="ro">
+<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM005_MacriPanait_GHITA_CATANUTA" xml:lang="ro">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title> Ghiță Cătănuță, căpitan de haiduci : ELTeC edition</title>
+    <title> Ghiță Cătănuță, căpitan de haiduci : ediție ELTeC</title>
     <author> Macri, Panait (1863-1932)</author>
     <respStmt>
      <resp>ELTeC encoding</resp>
@@ -12,7 +12,7 @@
     </respStmt>
    </titleStmt>
    <extent>
-    <measure unit="words">27443</measure>
+    <measure unit="words">28,565</measure>
     <measure unit="pages">95</measure>
    </extent>
    <publicationStmt>
@@ -26,7 +26,7 @@
      <pubPlace>Bucharest</pubPlace>
      <publisher>Editura Librăriei și Tipografiei H. STEINBERG</publisher>
      <date>1923 (1883)</date>
-     <idno></idno>
+      <idno type="DOI">10.5281/zenodo.2648454</idno>
         </bibl>
    </sourceDesc>
   </fileDesc>

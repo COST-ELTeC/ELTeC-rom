@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM003"
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM003_BalanescuSimion_SFARSITUL_BLESTEMULUI"
   xml:lang="ro">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title> Sfârșitul blestemului : ELTeC edition</title>
+    <title> Sfârșitul blestemului : ediție ELTeC</title>
     <author> Bălănescu, Simeon (?-?) <!--(no available data in Bibliografie românească modernă 1831-l918, vol 1.A-C)--></author>
     <respStmt>
-     <resp>ELTeC encoding</resp>
+     <resp>Codare ELTeC</resp>
      <name>Roxana Patras</name>
     </respStmt>
    </titleStmt>
    <extent>
-    <measure unit="words">23588</measure>
+    <measure unit="words">21,505</measure>
     <measure unit="pages">128</measure>
    </extent>
    <publicationStmt>
-    <p>Incorporated into the ELTeC<date>2018-l0-20</date>
+    <p>Încorporat în ELTeC<date>2018-l0-20</date>
     </p>
    </publicationStmt>
    <sourceDesc>
@@ -28,7 +28,7 @@
      <pubPlace>Bucharest</pubPlace>
      <publisher>Tipografia Gutenberg, Joseph Gobl</publisher>
      <date>1895</date>
-      <ref target="http://193.231.13.17/vufind/Record/BCU02000001348">BCU02000001348</ref>
+      <idno type="DOI">10.5281/zenodo.2648430</idno>
         </bibl>
    </sourceDesc>
   </fileDesc>
@@ -335,7 +335,7 @@
 <p>— Nu, taică părinte, îl răspunsei eu. N’am venit aci cu vreun vicleșug, nici să te fac sâ cazl iarăși în vre-un păcat. Ași voi sâ aflu, de-ți este în cădere, dacă jupăneasa Sortea, care ți-a fost și fiică de spovedanie, mai are verî-un neam și de unde se trage obârșia ei.</p>
 <p>Gândindu-se o țîră, ’mi răspunse că, după câte ’i s’ah tăinuit, neamul ei s'ar fi trăgând din Târgu-Jiulul.</p>
   <p>Toată truda mea, spre a face pe preot sâ-mi dea ceva lămuriri în privința jupânesei Sorica, fu zadarnică? de oare-ce moș-popa, pironind ochii în grinda tavanului, nu mai zicea decât:<quote> „Iartă mi Doamne păcatele și nu mă mai chinui”</quote>.</p>
-  <milestone unit="subchapter"></milestone>
+  <milestone></milestone>
 <p>Părăsind chilia sărmanului preot, luai calea spre Târgu-Jiului. Tot drumul nu'mi putui lua gândul de la preot Se vede că Dumnezeu îl pedepsea așa de aspru din pricină că nu știuse să păstreze, după cum cere renduiaia canoanelor, -taina spovedaniei. Din vorbele lui înțelesesem că, fiind fraged de gură, des-tâinuise cele ce ’i se spovezise oamenii, -ceea ce a dat prilej stăpânirel să descopere și să pedepsească pe cei cari săvârșise fapte rele.</p>
 <p>După un drum lung și obositor, ajunsei In Tărgu-Jiulul. înainte de a intra in -oraș, plânuil să mă furișez, spre a nu mai da ochii cu Ispravnicul, de teamă să nu mă țină de vorbă și să mă facă ast-fel să pierd vremea zadarnic.</p>
 <p>Trecând streaja, văd că nu mă întreabă nimeni, cum era regula, cine sunt, de unde vin, dacă am bilet de drum, .așa că puteam să mă strecor nesupărat</p>

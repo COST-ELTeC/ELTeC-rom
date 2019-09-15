@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" 
- xml:id="ROM002" xml:lang="ro">
+ xml:id="ROM002_BalanescuSimion_BLESTEMUL" xml:lang="ro">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title>Blestemul: ELTeC edition</title>
+    <title>Blestemul: Ediție ELTeC</title>
  <!--   <author> Bălănescu, Simeon (no available data in Bibliografie românească modernă 1831-l918, vol 1.A-C)</author>
  -->     <author> Bălănescu, Simion (?-?) </author>
   <respStmt>
-     <resp>ELTeC encoding</resp>
+     <resp>Codare ELTeC</resp>
      <name>Roxana Patras</name>
     </respStmt>
    </titleStmt>
    <extent>
-    <measure unit="words">10000</measure>
+    <measure unit="words">8,705</measure>
     <measure unit="pages">67</measure>
    </extent>
    <publicationStmt>
-   <p>Incorporated into the ELTeC
+   <p>Încorporat în ELTeC
     <date>2018-10-20</date></p>
    </publicationStmt>
    <sourceDesc>
@@ -28,7 +28,7 @@
      <pubPlace>Bucharest</pubPlace>
      <publisher>Stabilimentul Grafic I.V. Socec</publisher>
      <date>1894</date>
-     <ref target="http://193.231.13.17/vufind/Record/BCU02000001347/Description">BCU02000001347</ref>
+     <idno type="DOI">10.5281/zenodo.2648428</idno>
     </bibl>
       
    </sourceDesc>

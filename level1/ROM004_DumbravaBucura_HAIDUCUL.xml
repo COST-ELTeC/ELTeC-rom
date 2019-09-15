@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" 
-  xml:id="ROM004" xml:lang="ro">
+  xml:id="ROM004_DumbravaBucura_HAIDUCUL" xml:lang="ro">
  <teiHeader>
   <fileDesc>
    <titleStmt>
-    <title> Haiducul : ELTeC edition</title>
+    <title> Haiducul : ediție ELTeC</title>
     <author> Dumbravă, Bucura (Fany Seculici/Fanny Szeculicz)(1868-1926)</author>
     <respStmt>
-     <resp>ELTeC encoding</resp>
+     <resp>Codare ELTeC</resp>
      <name>Roxana Patras</name>
     </respStmt>
    </titleStmt>
    <extent>
-    <measure unit="words">124789</measure>
+    <measure unit="words">124,789</measure>
     <measure unit="pages">507</measure>
    </extent>
    <publicationStmt>
-    <p>Incorporated into the ELTeC<date>2018-l0-l5</date>
+    <p>Încorporat în ELTeC<date>2018-l0-l5</date>
     </p>
    </publicationStmt>
    <sourceDesc>
@@ -30,8 +30,7 @@
      <pubPlace>Bucharest</pubPlace>
      <publisher>Editura Librăriei Școalelor C. Sfetea</publisher>
      <date>1919</date>
-     <!--<idno type="library">http://www.worldcat.org/title/haiducul/oclc/9334049</idno>
-    -->   </bibl>
+      <idno type="DOI">10.5281/zenodo.2648456</idno></bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
@@ -257,7 +256,7 @@
 <p>Cu o privire care lui Columbeanu îi aduse minte de măcelărirea, pe care o văzuse la Dunării, răspunse Tudor: </p>
  <p>—„Bătaia de joc, armă grecească!" </p>
 <p>Iancu scoase un gemet încet, iar ceilalt mureau de frică, nu cumva să se încăiere hărtăgași. Se auzi însă o bătaie la ușă, și cu zâmbitoare năvăliră cucoanele, grămadă.</p>
- <milestone unit="section" rend="stars"/>
+ <milestone/>
     <gap unit="pages" extent="two" />
  <p>ieșit în pridvor, ca să privească la horă. Dacă stați închiși, aici, se înțelege, că inimile D-voastră n’au să se aprindă. Haide, mai bine veniți afară!"</p>
 <p>Eră praznicul  lui Sân-Petru și în curte se adunasera țăranii încet-încet, îmbrăcați în hainele lor de sărbătoare. Veniau în cete pe potecuțe înverzite, înaintând cu pași ușori și liniștiți, căci opinca nu îngreunează piciorul, și piciorul Rumânului este îngust, iar gleznele lui sunt subțiri. Țăranul și în deosebi Olteanul, ține totdeauna capul în sus, chiar și când stă cui căciula în mână, înaintea stăpânului său. Aceasta face ca înfățișarea lui să fie plăcută  și cu demnitate.</p>
@@ -339,7 +338,7 @@
 <p>— „Iți jur, că n’am s’o mai fac!" strigă Amza. „Rămâi acolo, unde este locul tău, cu lupii și cu urșii. Te opresc să mai calci în casa mea! Ai înțeles?"</p>
 <p>Dumitru ar fi vroit să zică ceva, dar Amza îi tăia vorba: Tine-ți gura! aici eu sunt stăpân! Să se ducă! Să plece!" Iancu plecă repede pe scară în jos, încet. îl întrebă Mihai pe Tudor, cel scump ia vorbă: „N’ai putut să-l faci să înțeleagă?''</p>
 <p>— „N’are răbdare !fu răspunsul lui, mânios, „vrea să le ia toate ’n coarne”</p>
-    <milestone unit="section" rend="stars"/>
+    <milestone/>
 <p>Iancu se duse la grajd. Două felinare cu lumânări de seu revărsau o lumină turbure în grajdul scund și deșteptau pe ici, pe colo, câte o licărire, ca de oglindă, pe spinările cailor, înșirați la iesle. Numeroșii vizitii și țigani încetară îndată vorba, cum intră tânărul boier în grajd.</p>
 <p>— „Calul meu!” porunci Iancu.</p>
 <p>Cu mare zor se repezi o slugă între cai, dar tot atât de repede se rostogoli înapoi, fiindcă armăsarul bălan, pe care voise să-l apuce de căpăstru, începu să asvârle, nechezând.</p>
@@ -356,7 +355,7 @@
 <p>— „Ține-ți gura, dobitocule!” strigă Iancu la el.</p>
 <p>Țiganul se rugă de iertare. Nu știuse, zicea, ca boierul era acolo, căci n’ar fi îndrăznit să vorbească așa de tare. </p>
 <p>Intr’acea Arnăutul scoase calul său afară din grajd cu mare grabă.</p>
-<milestone unit="section" rend="stars"/>
+<milestone/>
 <p>Bătrâna cucoană Maria Golfineanu, a căreia față galbenă, cu ochii scufundați, era îmbrobodită cu o maramă neagră, în felul cum obicinuesc a purtă călugărițele, stăruia să plece din curte cât mai grabnic, căci după vijelia, care bântuise casa lui Amza ocoprinsese o neliniște superstițioasă, parcă ar fi fost dânsa pricina nenorocirei ce se întâmplase.</p>
 <p>—„Ileana și cu mine am venit într’uu ceas rău , zise ea rudei și prietenei sale Catinca Jianu, care însă nu voia să împărtășească această părere, și care aruncă toată vina pe cerbicia cumnatului său celui mic.</p>
 <p>— „Dumnealui, bărbatul meu, a făcut, după moartea părinților săi, tot ce a putut, ca să domesticească pe acest băiat sburdalnic, și l’a lăsat, timp de trei ani de zile, în Craiova, la curtea banului Dumitru Bibescu, care este un bun prieten al casei noastre, pentru ca să învețe acolo obiceiuri bune și purtări frumoase, să se cioplească în mulțimea de oameni, cari umblă în casa unui boier așa de mare. Degeaba însă. Și ce-a fost și mai rău, el îi juca pe toți pe degete, când voia să fie drăguț, și cu glasul lui, — cântă minunat, — se furișa în inimile tuturor”.</p>
@@ -434,7 +433,7 @@
 <p>În slaba lumină a amurgului de dimineață, văzură atunci oamenii, șezând pe vatra lor, un om cu o fata galbenă ca ceara, croită îndrăsneață, cu niște ochi aprigi și scânteietori.</p>
 <p>Câtăva vreme ei se uitară la el în tăcere. Apoi țăranul cel bătrân și slăbănog zise: „Gândeam că ești Mereanu".</p>
 <p>Buza lui Jianu se ridică deasupra colților, ca într’un fel de zâmbet, și el zise: „încă nu". Apoi se sculă în sus, își întinse mădularele înțepenite, scoase un ban de aur din chimir, pe care-l dădu țăranului celui mai bătrân, și, pășind peste prag, se făcu nevăzut prin ceața ce plutea alburie, fărâmiță pe deasupra livezilor.</p>
-    <milestone unit="section" rend="stars"/>
+    <milestone/>
 <p>Când răsări soarele, negurele se împrăștiară, și câmpurile se vedeau în toată jalea, ce o înfățișau acum». Toate druîmuirile și potecile erau acoperite cu un zmârc lipicios, și Iancu în scurtă vreme era stropit cu noroiul gros până Ia brâu. Suite de gânduri se încrucișau prin capul lui: Slatina era încă departe, locurile erau pustii, cine știe, dacă era să mai găsească un cal, în vre-un sat și ce fel de cal ? Așa dar, mai bine înapoi la moșia dela Caracal. Dar ticălosul de Pervanoglu într’aceea ajungea tot mai departe și câștigă tot mai multă vreme, spre a ascunde pe nenorocita fată în vre-un cuib retras ! Iancu gemu adânc și porni iarăși înainte.</p>
 <p>Trebuia, înainte de toate, să dea în drumul spre Slatina. Drept în fată, se vedea în depărtare o fâșie de negură rămasă, pe care soarele încă n’o biruise, acolo trebuia să fie Oltul. Apucă drept într’acolo peste țarini și peste gloduri. Uneori se cufundă până Ia glezne în pământul înmuiat. În sfârșit, iată că dădu peste o fâșie lată de noroi: era drumul, pe care-i căutase și pe drum zări, într’o mică depărtare, un om călare, care duce și un alt cal de căpăstru. </p>
 <p>În lumina argintie, prin care-și revărsase dimineața farmecul său pe câmpiile Rumâniei, se par toate figurile mai mari decât sunt. Se văd foarte de departe și astfel recunoscu Iancu îndată pe celălalt drumeț, și fu de asemenea recunoscut de el îndată. Călărețul era țiganul Alexe, sluga lui credincioasă, care, îndată ce se apropia, descălică, și luând mâna stăpânului său, o duse Ia buze și la frunte.</p>
@@ -508,7 +507,7 @@
 <p>—„Rămâi cu bine!" zise Dumitru, și din pragul ușei se mai uită încă odată înapoi: „Casa mea, se  înțelege, că rămâne oricând deschisă pentru tine".</p>
 <p>Afară Alexe se repezi cu ochit plini de lacrimi la urma lui și-i zise șoptind: „Boierule, bunătatea D-tale este ca aurul cel mai curat! Vai, dar mare frică am pentru stăpânul meu".</p>
 <p>— „Îngrijește de el", îi zise Dumitru cu stăruință, „și să râmâie liniștit aicea la vie. Cu cât mai ascuns, cu atât mai bine! Noi vom încera toate chipurile, ca să-l împăcăm pe Cârc Sărdar și să mituim nesăbuita faptă săvârșită la Slatina. Deocamdată nu se poate vorbi nici o vorbă cuminte cu stăpânul tău. Trebuie ca vremea să-i așeze mintea iarăși înapoi în scaunul ei".</p>
-<milestone unit="subsection" rend="stars"/>
+<milestone/>
 <p>A doua zi noaptea sosi argatul, care-l chemase pe boierul Dumitru din Caracal și oare rămăsese apoi în Drăgășani, după povața lui Alexe, ca să iscodească, dacă nu cumva s’arată potera. El vesti cu mare zor că a sosit Căpitanul Duțu cu zece arnăuți în orășel.</p>
 <p>Iancu sări din pat. Vestea aceasta îl făcu sănătos. De când se mai întremase, nu mai avea răbdare să șeadă în pat și trecerea vremii fără rost îl chinuia, iar când Alexe începu să se roage cu sfiala, să se păzească, ca să nu, cază în mâna dușmanilor, Iancu strigă Ia el: „Du-te la Dumitru, păcătosule, dacă ’ți e frică".</p>
 <p>Țiganul începu să plângă din adâncul sufletului.</p>
@@ -550,7 +549,7 @@
 <p>Strânseră apoi rămășițele de merinde, și le puseră în desagii de lână. Alexe aruncă desagii pe - umeri și urmă pe stăpânul său, care rânji când trecu pe lângă mormanul de Arnăuți morți sub nuc. Iar Țiganul își făcea mereu la cruci.</p>
 <p>Bătrânului vier îi zise Iancu: „Tu vei rămânea aici. Hrănește-te din rodul viei. Și să ții casa în bună stare!”</p>
 <p>Apoi scoaseră caii din hrubă de sub răzor și încălicând porniră, încărcați de arme. Pe spatele lui Alexe se încrucișau două puști lungi. Apucară spre Miazănoapte în sus la munte.</p>
-<milestone unit="section" rend="stars"/>
+<milestone/>
 <p>Șoimul și cu Surul, caii neobositi ai Iancului și ai lui Alexe, alergară toată ziulica, ba de vale, printre petrișuri mărunte, ba la deal spre coaste înalte, cum numai caii Rumânești sunt obișnuiti s’alerge.</p>
 <p>Se făcuse noapte, o noapte mai răcoroasă decât în viile dela Drăgășani, o noapte de munte, care vine repede, ca o pasăre uriașă, bătând numai din când în când din aripi.</p>
 <p>Fugarii se opriră în mijlocul prundișului din matca unui râuleț, ce curgea murmurând ușurel, și lăsară caii să bea. Apa era lucitoare ca un oțel ferecat, iar frunzișul pădurilor înalte, care îmbrăcau malurile văilor, păreau mai întâiu fără nici o față, apoi se întunecau din ce în ce mai mult, până păreau negre.</p>
@@ -620,7 +619,7 @@
 <p>Iancu era gata să se burzuluiască și să toi primească propunerea, dar Tudor îi mai zise încă odată: „Te rog, Jiene! ascultă de mine".</p>
 <p>Așa de rar se întâmplă ca Tudor să roage pe cineva, încât Iancu nu putu să se mai împotrivească.</p>
 <p>— „Să viu!" răspunse el.</p>
-    <milestone unit="section" rend="stars"/>
+    <milestone/>
 <p>Seara târziu, Iancu și cu Tudor descălicară la casa Lui Vasile Moangă. Când intrară la el, boerul bătrân cu barba colilie, deschise largi brațele amândouă și îi strânse pe amândoi tinerii la pieptul său. Apoi îi mângâie cu mâinile, netezindu-le părul și zicând iarăși și iară: „Iancule! Tudore!! Bucuria ochilor mei! Luceferii mei! Orce împrejurare v’ar ii adus a'ici, Dumnezeu să binecuvânteze intrarea voastră în casa mea și să vă dea spor la orice ați pus în gând1 să ia ceti !"</p>
 <p>— „Să te auză Dumnezeu! zise Tudor cu evlavie.</p>
 <p>— „Dar acum, mai întâiu de toate desbrăcați-vă, dragii mei!" zise Moangă, a cărui fată deși de om, bătrân era rumenă și sănătoasă și strălucea de mulțumirea ce o simțea uitându-se la musafirii săi.</p>
@@ -759,7 +758,7 @@
 <p>— „Mai ’hainte de toate", urmă Bibescu liniștit „dă-ți osteneală să faci ca drumurile să fie iară sigure. Cei cu chică lungă'', — așa se numeaul haiducii, fiindcă purtau plete lungi — „ne-au dat mult de lucru", și adaose apoi și mai blând: „Da, ce era să-ți mai spuini! Cârc Sărdar pentru Oltenia s’a numit Costachi Iamandi. Pervanoglu a cerut să fie mutat dincolo de Olt".</p>
 <p>Iancu se schimbă la față, se sculă și se duse la fereastră. ’</p>
 <p>Bibescu le aruncă boierilor o privire plină de în- țeles Și apoi zise vesel: „Ajunge acuma vorba despre brebi! Mie ’mi-e foame! Nădăjduesc că ni se dă curând la masă. Astăzi am primit niște icre de la Dunăre și lămfti de Messina! Am primit și un butoiaș de măsline de Tesalia, mari și moi ca prunele!"</p>
-    <milestone unit="section" rend="stars"/>
+    <milestone/>
 <p>Taftul zapciuiul era în satul Obârșia.</p>
 <p> Iancu se întocmise binișor în casa cea încăpătoare, cu acoperișul negru, țuguiat, de șindrilă, care i se dăduse spîe ședere.</p>
 <p>În timpurile acele mobilele unei locuințe se alcătuiau numai din lucrurile cele mai trebuitoare, spre a putea fi încărcate, cu iuțeală, când intrau dușmanii în Tară. Giuvaericalele, hainele, blănile și lucrurile de preț se puneau grabnic în care și căruțe, uneori chiar pe samaruri de cai, spre a fi ascunse pe la mănăstiri, prin păduri și prin munți sau spre a fi trecute peste hotar. Lucrurile de preț se așezau în lăzi de chiparos, tari și mirositoare, care în aceaș vreme apărau blănile și împotriva moliilor. Pentru lucrurile de preț deosebit, diamanticale, și hrisoave erau făcute, înăuntrul lăzilor niște chichițe tainice.</p>
@@ -772,8 +771,8 @@
 <p>Orice asprime dispăruse din purtarea lui Amza, când ajunse acuma fată în fată cu lăncii. Se uită cil bunătatea unui părinte la fratele său cel mic și-i zise: „Așa îmi placi, iubite frate! Așa ești vrednic de tine însuti. Acum arată-te vrednic și de încrederea, ce ți-a dovedit-o Banul Dumitrache, ca a unui Jian! Nici chiar răposatul părinte al nostru n’ar fi putut să urmeze cu mai mare înțelepciune și cu, mai multă bunătate fată de tine! Fă-ți dar de-acum  înainte datoria și îngrijește, ca și supușii tăi să și-o îndeplinească pe a lor. Aceasta îți va dâ de lucru îndeajuns. Cât privește pe mai marii tăi, nu trebuie să te îngrijeștii. Purtarea lor s’o lași în grija lor".</p>
 <p>În felul acesta vorbi Amza cant o jumătate de cias, precugetat și serios, acoperind trecutul cu tăcere.</p>
 <p>Iancu primi, povețele, și învățăturile precum și încrederea, pe care i-o dădeâ și îmbierea cu bani, ce-i făcea acum și celalt frate, Amza.</p>
-  <p>La Dumitru se duse să-l vază Ja moșia sa Corlătesti, și când acesta i se mită în ochi și-i zise: „Abia îmi vine să cred...", atunci Iancu îi răspunse cu un râs scurt, cu vorbele bisericii: <quote>„Crede și nu cerceta!</quote>"</p>
-<milestone unit="section" rend="stars"/>
+  <p>La Dumitru se duse să-l vază la moșia sa Corlătesti, și când acesta i se mită în ochi și-i zise: „Abia îmi vine să cred...", atunci Iancu îi răspunse cu un râs scurt, cu vorbele bisericii: <quote>„Crede și nu cerceta!</quote>"</p>
+<milestone/>
   <p>După o noapte de toamnă, fără vânt, dar rece, se scuturase până-’n-ziuă toată frunza și era așternută pe jos, împrejurul arborilor și pe drumurul, pare-că erau întinse niște covoare, cusute cu aur și cu porfir. După alte două zile sosi și iarna. Ea începu de vreme și era foarte aspra, așa cum fusese în toți anii, de când domnia Vodă-Caragea. Oamenii au pomenit multă vreme <quote>„iernele lui Caragea"</quote>.</p>
 <p>Dar deosebit de nemiloasă fu această iarnă pentru fercheșul de Tache Lețu, pomojnicul zapciului Iancu Jianu. Acest domnișor trebuia să însoțiască acum în toate zilele, pe viscol și ger, în sanie deschisă, pe mai marele său, străbătând toată plasa.</p>
 <p>Și nu-i folosea nimica nici oftatul, nici mutra ce o făcea, nici tușea care supt uriașul guler de urs al șubei sale, îi scotea aproape sufletul, cum spunea el.</p>
@@ -793,7 +792,7 @@
 <p>Una dintre ele își pusese în cap, cam într’o parte, un fesuleț alb, mic de tot, cu un ciucure lung de aur. Fesul era așezat într’o cunuiniță împletită cu mărgăritare. Din urechi îi atârnau niște lacrime lungi de rubin pălit. Gâtul ei frumos nu purtă nici o podoabă, dar la marginea făscroielir dela rochia, întrețesută cu fir de aur, erau prinse niște flori de diairrianfuri mari, din care la orice mișcare a pieptului molatic, la fiecare răsuflare, ieșiau sclipiri luminoase ca fulger,ui. Scurteica de atlas cu marginile de samur, pe care o purtă, străluciâ ca o oglindă roșie.</p>
 <p>Îndată ce se arătă această frumusețe, câteva cucoane bătrâne începură, după obiceiul vechili de când e I'ulmea, să se apropie, cap la cap, și să o judece, vorbindu-și la ureche. Iar după ce frumusețea se apropia, cu pas legănat, de mănunchiul bătrânelor și le sărută, — la toate, — mâinile îngalbenite, una dintre ele șopti: „N’are cămașe supt rochia de mul”.</p>
 <p>— „Ba are", răspunse alta, „dar o cămașă străvezie". .</p>
-<milestone unit="section" rend="stars"/>
+<milestone/>
 <p>În cele patru colturi ale sofrageriei. se înălțau nori de fumuri, frumos mirositoare din vasele de aramă, meșteșugit lucrate. împrejurul mesei străluceau fetele musafirilor, înveselite de vederea bucatelor, așezate la mijloc. Toți lăudau mezelurile, icrele de chefal în ceară, stacojii și midiele marinate, plăcintele cu carne, sărmăluțele în foi de vită cu iaurt, bobocii de rață pe varză, purceii, fripți " întregi, și curcanii mari cât niște vitei, castraveții și ardeii, iuti ca focul,"și apoi cele trei sau patru felioare de prăjituri, înecate în miere, dintre care unele miroseau a scorțișoară și a vanilie, iar altele aveau miros de salcâm sau de flori d'e portocali.</p>
 <p> Vinul curgea în râuri. Obrajii tutulor se înroșiau . și limbile tutulor se d’eslegau,. afară de acele ale fetelor, care, vre-o șease cu toatele, se adunasera împrejurul celor două fiice așezate ale Iuti Amza, și stau sfiicioase ca un șir de păsărele, înșirate una lângă alta. Toate se uitau în farfuriile lor, și se _ făceau pare-că n’ar auzi și n’ar vedea nimic din -cele ce petreceau în jurul lor. .=</p>
 <p>Bărbații mâncară și băură mai întâiu pe nemiluite, iar după ce începură să se simtă sătui și din- . colo de sătui, se, pusera să facă curtea cucoanelor și cu mare foc, căci nu era obiceiu să se vorbească în fața celuilalt secs de lucruri serioase.</p>
@@ -824,7 +823,7 @@
 <p>— „Deschideți ferestrele!" strigă el, umblând prin toată casa.</p>
 <p>Acest om, deosebit de alții, oprise de a se lipi ferestrele cu fâșii de hârtie și cu șuvițe de postav re din lăuntru, cum era obiceiul, vechiu și înrădăcinat, t îndată ce începea iarna. Zioea adeseori, că-i pare că se înneacă neputând să răsufle deajuns, iar Floarea, îngrijitoarea casei, trebuia să-și mântuiască florile sale, trecându-le dintr’o odaie într’alta, când poruncia boierul să se deschidă ferestrele, ca să intre aerul de afară, deși era frig în casă.</p>
 <p>Aerul și pădurea îi lărgisera plămânii și-i oțelisera simțurile. Pe oamenii parfumați și sulemeniți, cu nervii lor într’un vecinie tremuriciu, el nu-i socotea de semenii săi și, față de ei, rămânea nepăsător.</p>
-    <milestone unit="section" rend="stars"/>
+    <milestone/>
 <p>Cât timp pomii crăpau încă de ger, și câtă vreme vitele se prăpădeau de frig, adăpostite rău în grajdurile râpâne ale țăranilor și din lipsă de așternut — la taftul zapciului din plasa Balta petrecerile se țineau lanț.</p>
 <p>Iancu dovedea talente deosebite de gazdă primitoare, și mâna lui cea dreaptă, Alexe, cu mlădierea obișnuită a neamului său, se preschimbase într’im adevărat vătaf de curte-mare boierească. La amândoi nu le scăpa din vedere nici un unghinleț, nici o părticică a gospodăriei, și sluga înțelegea pe stăpânind său, fără să-i vorbească, — un dar, care-i făcea pe ceilalți oaimfeni din casă să se minuneze și să Ie fie frică chiar, ca de un tainic legământ neințeles.</p>
 <p>Nimeni nu se mai îndoia că Alexe era singurul om de încredere al stăpânului său, în cele ale inimii.</p>
@@ -870,7 +869,7 @@
 <p>— „Laia ta știe totdeauna, unde sunt lucrurile furate. Și eu nu-ți dau voie să stai la tocmeală cu mine. Iaca!" și îi aruncă un pumn de bani în căciulă. „Cine va fi ascultător, va fi răsplătit. Dar dacă nu vor fi iepile mâine seară în nisipăria dela Dobrotești, atunci poim'âne dimineață atârni de sus!"</p>
 <p>Dinu Buzatu căzu în genuchi, apucă tighelul dela haina lui Iancu și-I apăsă pe buzele sale groase și roșii.</p>
 <p>Prin pădurea, împodobită de cristaluri strălucitoare, Iancu se întoarse înapoi acasă.</p>
-    <milestone unit="section" rend="stars"/>
+    <milestone/>
 <p>În Obârșia toată lumea credea, că Zapciul petrecuse noaptea în Soreni și Tache Lețu se tăvălea de râs — în taină însă — de boierul Iancu, care se îtratase atât de sumeț și de aspru. Dar în ziua următoare rămase iarăși uimit de hărnicia mai marelui sălii, când Arnăutii trimiși cu Alexe, adusera iepele cele galbene la taft.</p>
 <p>La rândul lor Arnăutii spuneau și ei, minuni de gerhnea lui Alexe, conducătorul lor de acum. Cum adulmecă el, ca un câine de vânat, pașii vânatului și cum1 găsește, fără să se înșele, urmele tâlharilor.</p>
 <p>Când izbutea să pună mâna pe un făcător de  rele, atunci Zapciul nu știa de milă. Spânzurase chiar doi Arnăuți pentru fapte necinstite.</p>
@@ -900,7 +899,7 @@
 <p>— „Țara?" răspunse el și clătinând din Cap. pare că Iancu ar fi pus întrebarea cea mai ciudată de pe lume; apoi râse în sine și sorbi, spre a-și pregăti răspunsul, a treia ceașcă de cafea, pe care o adusese Alexe. „<foreign>Atit de puțin cunoști Țara Domitale? Pentru te, crezi, ca se rupo tei din Fanar după tronurile din Moldova si din Tara Rumu-nesca? Pentru ca de aiti numai este nimica de oat?" — și făcu o mică pauză ritoricească. Ridicând apoi degetul arătător în sus, începu să-l dăscălească pe Ianicu într’un ritm didactic, cum era obiceiul în școalele grecești: „Țara este o vaca blagoslovita de Dumnezeo! Și ca sa nu per da laptele, trebuieste sa fie mulsă mereo! Apoi rîse cu hohot și se Iovi. întâia pe sine cu palma pe genuche apoi și pe Iancu deasemenea, bucurându-se de frumoasa asemănare ce făcuse, și mai zise încă odată: „De ațeea trebueste sa fie mulsă! Chit se muldze mai zdravun, cu atâta laptele se fate mai buno si mai groso. Trebueste sa fie mulsă, mulsă, boierule Iancu</foreign> !"</p>
 <p>Se scutură și aproape se tăvălia de râs.</p>
 <p>Veselia lui ținea mereu, până și după ce se urcase în trăsură și poftise pe Jianu cu stăruință, să vină cât mai curând la Caracal. De pe jilțul din trăsură, încă se mai întoarse odată Chir Arghir și făcând semn cu căciula sa de jder lui Jianu, care stă în pridvor, îi mai strigă: „Trebueste sa fie mulsă, altfel pierde laptele!"</p>
-    <milestone unit="section" rend="stars"/>
+    <milestone/>
 <p>Primăvara năprasnică, cum vine ea în Rumânia, spărsese ghiața de pe ape și pornise Ia vale sloiurile, prefăcând cele mai mici pâraie, ale căror matcă, vara este numai un prundiș uscat, în groaznice puhoaie, care acum se revărsau peste sateJe și câmpiile Olteniei.</p>
 <p>Și la fel cu aceste potoape veniau și birurile de primăvară ale lui Vodă Caragea. Fiecare Domnitor cerea biruri. cum v-roiâ, și Vodă Caragea era un geniu în această privință. .</p>
 <p>Afară de dăjdiile, pe care le împlineau slujbașii ocârmuirii de prin județe, mai erau și o mulțime de altele, date iîn arendă la otcupcii Greci.</p>
@@ -947,7 +946,7 @@
  <p> Iancu se ridică în scările șelei, și, apăsând pe vorbe, zise: „Chir Hristofor Cochinis este Grec. Ei e simpatriotul Luminăției Sale, al lui Vodă Caragea. Ce face el, eu nu pot să împiedic. Pot să vă dau numai stalul grecesc: Lingeți mâna, pe care n’o puteți mușcă!”</p>
 <p>Iși întoarse calul și plecă.</p>
 <p>O tăcere de mormânt urmă după aceste vorbe ale lui. Cu ochii înholbați de desnădăjduire stau oamenii încremeniți și se uitau după el.</p>
-    <milestone unit="section" rend="stars"/>
+    <milestone/>
 <p>Printre crăngile teiului, încă lipsite de frunze, din curtea lui Toaderi Prisăcarul strălucea Craiul nou, îngust ca o secera.</p>
 <p>Toaderi ședea ghemuit pe scărișoara pridvorului și-și acoperise fata cu palmele.</p>
 <p> eodată simți o mână pe umărul său. Se uita în sus. Nu putu să vază în lumina nopții, decât un stat de om , poate era vreun vecin.</p>
@@ -1014,7 +1013,7 @@
 <p>După asprimea aerului de Martie, de afară, îi împresura acum întunericul molatic al casei locuite. Iarăși preumblă haiducul limba de lumină, fără raze, a felinăraișului său împrejur pe pereți. Apoi se apucă să deschidă, cu grije și fără zgomot, cea din urmă ușă. Toaderi Prisăcarul îi lumină la mâini. Erau niște mâinii cu degetele lungi,subțire și osoase și de o formă aleasă. Degetele se mișcau cu așa mare dibăcie, încât ar fi putut face cinste oricărui hirurg.</p>
 <p>Prisăcarului i se sbăteă inima în piept.</p>
 <p>Celălalt deschise broasca, fără,să se auză, și undele de aer, încărcate cu fum de tutun și de mirosuri orientale, îl loviră în față pe cei doi haiduci.</p>
-<milestone unit="section" rend="stars"/>                    
+<milestone></milestone>                    
 <p>În întunericul iatacului pâilpâiâ o candelă cu sticlă roșie, iar în dosul ei străluceau icoanele îmbrăcate cu aur și cu argint.</p>
 <p>Toaderi ridică felinarul în sus, Căpitanul ajunse la patul lui Chir Hristofor. înainte de a se ii putut deșteptă acesta cum se cade și de a fi putut face vre-o mișcare, îi și pusese Căpitanul un căluș în gură, și ’l legă Prisăcarul cu o frânghie de cânepă peste mâini și peste picioare. În câteva clipe cei doi oameni, tari ca niște uriași, isprăvisera această lucrare. Din fata, galbenă ca ceara a lui Cochinis ieșiau, sgâiți, ochii tâmpită de spaimă. Căpitanul aprinsese lumânările de pe masă, și începu apoi foarte liniștit să pregătească răzbunarea. Din buzunarele aproape fără fund, ale rpingeli, care păreau că ascund în sine toate uneltele trebuitoare la meseria de haiduc, ieși la iveală un clește, care fu așezat în jeratecul, ce mai rămăsese în sobă.</p>
 <p>Și pe când Prisăcarul îl mângâia pe Grecul cu aceste clește înroșite, Căpitanul scormoni și găsi, i prin lăzi și prin dulapuri, mai multe săculețe și pungi pline cui pietre scumpe și cu bani.</p>
@@ -1022,7 +1021,7 @@
 <p>A doua zi dimineața, Toaderi Prisăcarul trecea mândru și cu capul în sus, prin satul Studina. Ipingeaua neagră o aruncase ușor pe umăr și dedesubtul ei ținea un sac în subțioară.</p>
 <p>Când se întâlni cu țăranul cel bătrân, care cu o zi mai nainte ceruse ajutor dela Zapciu, îi zise:</p>
 <p>—„Tată Marine, iacă aci dreptatea!" și-i arătă o pungă. „Celui de sus i s’a făcut în sfârșit milă de noi și ne-a trimes pe Căpitanul de haiduci într’un ajutor!"</p>
-    <milestone unit="section" rend="stars"/>
+    <milestone/>
 <p>În aceeași dimineață se ’ntorceau, spre marea bucurie a lui Tache Letu, Zapciul și cu Alexe înapoi la Obârșia, venind despre Soreni. Fără îndoială că boierul Iancu se abătuse dela Studina, peste noapte, pela Soreni.</p>
 <p>Puțin după aceea sosi și un lipcan, aducând o scrisoare dela Ispravnicul Arghir Mavrachi din Caracal. El poftea pe Jianu la o sindrofie în acea seară, în, cinstea Cârc Sărdarului Iamandi, fiindcă acesta făcuse o mare ispravă atât pentru județ, cât și pentru toată Oltenia, prinsese pe groaznicul tâlhar Mereanu și’i adusese legat la Caracal.</p>
 <p>Curtea iui Chir Mavrache era mare, plină de gunoaie și de mirosuri urîte. Tot astfel era și casa lui, înaintea căreia toomai se așezau douăsprezece hârdaie mari cu leandri, vopsite verde, ca spanacul, 5i care se scosese acuma din pivniță, unde iernasera.</p>
@@ -1081,7 +1080,7 @@
 <p>— „Cineva, care vrea binele vostru, și care are și putere să vi-I facă. '</p>
 <p>După puțină tăcere, în timpul căreia Mereanu sprijininidu-se de păreți, căută să-și găsească din nou cumpăna trupului pe picioarele sale, pline încă de răni, dar acum bine învelite, el zise: „Astăzi e Luni, Vineri, stăpâne, au să fie caii la sălciile de lângă lac".</p>
   <p>Vorba <quote>„Stăpâne"</quote> îi scăpase haiducului fără voia lui, deși nu era Obișnuit S’o întrebuințeze.</p>
-<milestone unit="section" rend="stars"/>
+<milestone/>
 <p>Vineri se înfățișă la Zapciul plășii Balta, vătaful de curte al lui Chir Hristofor Cochinis cu jelanie, înștiințând, că stăpânul seu a fost călcat de tâlhari de două ori în curs de trei zile, că a fost schingiuit grozav și a fost jefuit.</p>
 <p>Se milogea, rugându-se de Zapciu, să scape măcar o parte din giuvaerioale și caii stăpânului său din ghiareie procleților de haiduci, căci boierul Iancu e singurul stâlp al dreptății în vremiurile a-ceste de groază.</p>
 <p>Boerul Iancu făgădui, că va face tot ce va sta în puterea lui.</p>
@@ -1171,7 +1170,7 @@
 <p>Prin pervazul ușei, tăiate, cum era cu ferestruica, se putea vedea bine afară în curtea întunecată. </p>
  <p>Prin bezna nopții înaintau acuma, după ce amuțise toaca și începuse sunarea clopotului celui mic al mănăstirii, trei luminițe slabe, una după alta. Ele, veniau din cealaltă parte, dinspre chilii, încetineli fără raze și prea slabe, ca să arunce lumină de ajuns, plutind numai, ca niște năsturei de aur, prim negrimea nopții. Se vedeau apoi cum se închinau lumânările din mânele părințeilor, una către alta, și cum purtătorii lor intrau în biserică.</p>
 <p>— „Haideți acum!" zise Căpitanul.</p>
-    <milestone unit="section" rend="stars"/>
+    <milestone/>
 <p>A doua zi dimineață, pe când Iancu Jianu mai dormiâ încă în pridvorul cârciumei, unde-l lăsase cârciumarul de cu seară, sosi o slugă dela Mănăstirea Căluiu, în fuga mare, și ceru să vorbiaseă îndată cu cârciumarul.</p>
 <p>Alexe îi eși înainte dîntr’un șopron și zise: „Mă omule, nu strigă așa tare. Măria Sa, zapciul, doarme încă, colo sus".</p>
 <p>— „Tocmai după el m’au trimis, frate”, șopti zorit, argatul. „S’a auzit că este aici în cârciumă. Pe noi, la mănăstire, ne-au călcat haiducii astă noapte”.</p>

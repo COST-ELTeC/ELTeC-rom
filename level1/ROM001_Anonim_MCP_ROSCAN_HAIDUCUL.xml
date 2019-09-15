@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI
   xmlns="http://www.tei-c.org/ns/1.0"
   xmlns:e="http://distantreading.net/eltec/ns"
-  xml:id="ROM001"
+  xml:id="ROM001_Anonim_MCP_ROSCAN_HAIDUCUL"
   xml:lang="ro">
   <teiHeader>
     <fileDesc>
@@ -11,18 +11,18 @@
         <title>Roșcan Haiducul. Nuvelă ilustrată cu două gravuri: ELTeC edition</title>
         <author>Anonymous</author>
         <respStmt>
-          <resp>ELTeC encoding</resp>
+          <resp>Codare ELTeC</resp>
           <name>Roxana Patras</name>
         </respStmt>
       </titleStmt>
       <extent>
         <measure
-          unit="words">14217</measure>
+          unit="words">9,817</measure>
         <measure
           unit="pages">128</measure>
       </extent>
       <publicationStmt>
-        <p>Incorporated into the ELTeC<date>2018-l0-l5</date>
+        <p>Încorporat în ELTeC<date>2018-l0-l5</date>
         </p>
       </publicationStmt>
       <sourceDesc>
@@ -32,7 +32,7 @@
           <pubPlace>Bucharest</pubPlace>
           <publisher>Tipo-Litografia și Fonderia de Litere „Dor. P. Cucu”</publisher>
           <date>1894</date>
-           <ref target="http://193.231.13.17/vufindh/Record/BCU02000806900">BCU02000806900</ref>
+           <idno type="DOI">10.5281/zenodo.2642504</idno>
         </bibl>
       </sourceDesc>
     </fileDesc>
