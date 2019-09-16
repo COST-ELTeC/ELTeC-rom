@@ -12,14 +12,14 @@
     </respStmt>
    </titleStmt>
    <extent>
-    <measure unit="words">31,921</measure>
+    <measure unit="words">31921</measure>
     <measure unit="pages">136</measure>
    </extent>
    <publicationStmt>
     <p>Încorporat în ELTeC <date>2019-08-28</date></p>
    </publicationStmt>
    <sourceDesc>
-    <bibl type="copyText">
+    <bibl type="printSource">
      <author>N.D. Popescu</author>
      <title>Boierii haiduci. Nuvela originală compusă de N.D. Popescu cu patru ilustrațiuni</title>
      <pubPlace>Bucharest</pubPlace>
@@ -39,7 +39,7 @@
    <textDesc>
     <e:authorGender key="M"></e:authorGender>
     <e:size key="short"></e:size>
-    <e:canonicity key="medium"></e:canonicity>
+    <e:canonicity key="high"></e:canonicity>
     <e:timeSlot key="T3"></e:timeSlot>
    </textDesc>
   </profileDesc>
@@ -202,8 +202,7 @@
 <p>— Și la sfîrșit biruitorii să se puie a prăsnui isbânda pe spinarea hoților de păgubași, adica a nostră care n’am sărit să dâm ajutor unora sau altora ?</p>
 <p>— Ia taci moșicule și nu purta grijea altora, că Bujor nu e așa de neghiob ca să vie tocmai în codru Șerbilor și să le dzică poterașilor care l’au înconjurat cu surle și cu tobe : mănâncă-me lupe d’a gata. Ia aide fraților să ne apucâm de joc, că vreamea trece și sorele se apropie de scăpătat; iar voi lăutari cântați fără nici o frică, căci cu bună seama potărașiî au dat câte o împușcătură în vent ca să se îmbărbătese unii pe alții, și acum au plecat spre politie.</p>
 <p>Flăcăii îl ascultară, lăutarii începură să cânte, hora se alcătui la loc și nunta reincepu să fie animată ca și mai nainte.</p></div>
- <milestone></milestone>
-
+ <milestone unit="footer" type="line"></milestone>
 <div type="chapter" n="3">
  <head>III.BUJOR !</head>
 <p>Multe din fetele prinse la horă erau mândre și nurlii dar ca Ioana Simziana fata lui al de moș Condoi din Pădurenî nu era nici una și nici că putea fi; par-că era un luceafăr pintre stele, un crin între ghiocei, o roșă între bujori, un diamant între perozele. Unde o vedeai înaltă, subțirică, bine făcută, cu ochi verzi ca smarandul și mari ca paharele; cu buzele sângerânde ca sâmburii de rodii, cu obrăjori rumeni ca trandafirii înfloriți, cu dinții de măgăritar și gătu de lebădă; pe cap avea un păr galbean ca beateala, pe faciă, pe găt și pe tot corpul o pieliță albă ca cașu. Cum era îmbrăcată cu nisce haine albe ca fulgul pestrițate maestrit cu felurite flori de mătăsuri și fire de aur și argint,zeu ți-ar fi venit s’o mănânci de drag!</p>
@@ -312,11 +311,11 @@
 <p>— Foc, vă dzic, că ne scapă tîlharul și ne spânzură pe toți pârcălabul, esclamă din noubimbașa, desfăcîndu-se brusc de îmbrățișările bătrînilor, care căzură grmadă la pămînt scoțînd căte un gemet dureros.</p>
 <p>— E prea târziu, cinstiți boeri, replică popa, care nu perduse din ochi pe haiducu în fugă, și’l urmărise cu vederea cu o stăruință, în care poterașii, dacă ar fi fost in mințile lor, ar fi cetit cel mai viu interes. Uitați-ve a și intrat în pădure și d’acolo nici tătarii nu’l scdte.</p>
 <p>— După el copii; cine l’o prinde viu sau mort are de la mine 4ece pungi cu bani, strigă bimbașa eșind în fugă din curte în fruntea oamenilor săi care încă nu eșise de tot din zăpăceala ce le causase astă faptă îndrăsneață a vestitului cupitan de haiduci.</p></div>
- <milestone></milestone>
+ <milestone unit="footer" type="line"></milestone>
 <div type="chapter" n="4">
 <head>IV</head>
 <head>STRUNGA HANGULUI.</head>
- <milestone></milestone>
+ <milestone unit="header" type="line"></milestone>
 <p>Până la jumătatea secolului al XIX; supranumit secolul luminei, trei părți din pămîntul Moldovei și al țărei Românesci era acoperit de nisce paduri falnice și stufoase, care de când lumea nu fusese atinse de secura pădurarului; astădzi lumina a pătruns până și în păduri, căci unde mai nainte domnea cea mai deplină obscuritate în mijlocul acum omul se prigoresce vara de arșița soarelui și iarna înghiață bântuit de asprimea frigului.</p>
 <p>Acolo unde acum se întinde cămpii întinse goale de orî-ce urmă de vegetație, p’atuncî cresceau falnici nisce codri magnifici înconjurați de o vegetațiune luxuriantă, sălașiu nepetrunzibil pentru haiduci și fiare sălbatice. Monăstirile mai cu seamă erau ocolite de nisce veritabile speluncî. Iată pentru ce haiduci! erau pe atunci în așa mare prosperitate și pentru ce elenii grecesc nu prea s’a încuibat prin chinoviile depărtate de orașe!</p>
 <p>Intre amândoă țările Române, Moldova era cea mai ădurósă, și strunga Hangului cea mai mare și mai deasă dintre pădurile monastiresci. Acea strungă era virgină in totă puterea cuvîntului; eea mai mare parte din ea nu vexase așcuțitul toporului de când eșise primul lăstar din pămînt, și pajiștea de sub uriașii sei copaci nu fusese brăsdată cu poteci de nici o urmă de păsuri omenescî. Abia lupii, urșii, vulpele, rîșiî și câte un plăpând epurașiu călcafi cu labele piciorelor lor frunza cea uscată ce acoperea de veacuri acele locuri isolate. Monăstirea nu era clădită drept în mijlocul pădurei, ci la o parte, la marginea dreaptă, pe o moviliță din capătul codrului, adică tocmai unde copacii erau mai rari și mai tineri. Imprejurimele monastirii erau cutreerate și dziua noptes de călugurî și închinători, secura resturnase mulți bușteni prin preajma locului și chiar ferul plugului se înfipsese în pămînt pe ici pe colo, dar mai departe spre laturea stângă a drumului ce conducea la chinovie, nimeni nu cutezase să înfrunte prăpăstiile speluncelor și desimea copacilor, de teama fiarelor sălbatice, care, după spusa călugărilor, erafi în stare să sfâșie omul în mijlocul verei și dziua nămiaza mare.</p>
@@ -573,9 +572,8 @@
 <p>Asceptă Vodă multu și bine banii și ianicerii ca să vie de la Dorohoi, trimise el mult și bine olace preste olace ca să i găsească dar de urma banilor și a ianicerilor nu fu chip să mai dea! Trecu o săptămână, trecu o lunăo trecu trei luni întregi, se frichniră de colo până colo ,o sumă de slujbași și spioni, dar fără de nicî un pi Ide folos le fu toată serta ferta.</p>
 <p>Cum se încredința de tristul adever, Alexandru îndată scrise numai de cât pașei de la Măcin plângându-se de purtarea oamenilor sei, dar peste trei septămânî spre cea mai mare și uimitore surprisă, primi de a pașea un respuns cam aspru, prin care-i făcea cunoscut că oamenii sei au remas la Măcin pregătiți de plecare, dar n’au ajuns să pue piciorul afară din oraș din pricină că olăcarii domnesci îndată ce i au luat respunsul la pitacui primit, s’au făcut nevăzuțî cu scrisoare cu tot fără să ia și oamenii cu ei.</p>
 <p>— Astea sunt minunile lui Bujor ! esclamă Vodă mușcându-și buzele de necaz. Trebue să me scap cu orî-ce preț de acest tâlhar îndrăsneț, căci aminteri sunt perdut.</p> 
-<milestone></milestone> 
+<milestone unit="footer" type="line"></milestone>
 </div>
-
 <div type="chapter" n="8">
  <head>VIII.NEPOTUL VISTIERULUI ALECACHE</head>
 <p>Această cutezătoare faptă a lui Bujor spaimăntă mai mult pe greci și îndârji și mai rău pe Mavrocordat Firariu. Intr’un moment de mare supărare se jură pe cuca și pe topozul seu că va face petrecanie în scurt timp acestui haiduc obraznic, în cu oamenii de care dispunea el nu era chip d’a se ți de jurământ, căci intrase groza în ănima poterașilor domnescî, ast-fel că de îndată ce audzea pronuțându-numele lui Bujor numai de cât îngălbineau ca turta de ceară și le scăpa armele din mână.</p>
@@ -703,7 +701,7 @@
 <quote><p>„Vistiernice”</p>
 <p>„Fă bunătate de primesce de la Bujor acest răvaș ca să nu remăi păgubaș, prin care încredințează că a primit din visteria țerei spre a le da înapoi la adeverațiî lor stăpân 200,000 pungi cu bani.</p>
 <p><emph> Bujor</emph></p></quote>
- <milestone></milestone>
+ <milestone unit="footer" type="line"></milestone>
 </div>
 <div type="chapter" n="12">
  <head>XII.PÂRLEA VODĂ</head>
@@ -873,7 +871,7 @@
 <p>— Ce e de făcut atunci ?</p>
 <p>— Pote că se va îngrozi de vederea spînzurătorii și va spune ceva.</p>
 <p>— Bine, atunci pregătesce spînzurătórea pentru mâne.</p>
-<milestone></milestone>
+<milestone unit="footer" type="line"></milestone>
 </div>
 <div type="chapter" n="10">
  <head>X.PAȘEA DE LA SILISTRA</head>
@@ -910,7 +908,7 @@
  <p>„De trei ori ai cercat tu să te lupți cu mine și de trei ori ai remas biruit; ai vrut să me strivesci prin ianicerî lepădați de lege, eu am pus mâna pe olacul ce ai trămis la Pașa de la Măcin, ’i-am luat scrisorea, i'am îndatorat prin mită și groză, care este mai înfricoșetore ca ale M, Tale, să nu spue nimic, și el n’a spus nimic și m-a lăsat ca eu cu ceata mea să ne jucăm cu M. Ta d’a ianicerii vre-o câte-va zile și să punem mâna pe banii ce asceptai de la Dorohoiu. Puteam să te omor, dar n’am vrut, căci de și strein, ești Domnul țerei, unsul lui Dumnedeu și nu sunt așa de câînos la ânimă ca M. Ta. După aceea m’am făcut grec, mai grec ca M. Ta; am împănat certele păzitorilor vieții M.Tale cu delii d’ai mei, și împreună cu ei am arătat seimenilor voștri ce va să dică vitejie haiducesă; apoi am pus mâna pe totă vistieria țărei și iar m’am făcut nevedzut. In sfîrșit când Codreanu, cel mai vitez din haiducii mei, a cădut în mânele vostre, m’am făcut temnicer ca să-i însuflu curaj prin înfățișarea și povețele mele, m’am făcut gâde ca prin chinuri închipuite să'l cruț de chinuirile vostre, și în urmă de tot m’am făcut pase ca să adeveresc minciunele omului meu și să te fac pe tine, străine care te închini pene la păment la tote slugile străine, să te pleci înnainte-mi, sa mi credzi cumintele și să dai drumul omului meu. Așa este că am lucrat cu dibăcie și te-am înșelat ca pe un prost? Dacă o dată ’mi o plesni în cap să me fac domn în locu-ți, am să isbutesc cu aceiași înlesnire, și isbutind fii sigur că am să fiu sărbătorit și lingușit de omenii tei cu aceeași înjosire cu care ești lingușit și sărbătorit M. Ta care T ai înțolit și înbogățit. Așa sunt tóte șarlele. Cum vedzi e cu neputință să te resboescî cu mine; astâmpăre-te dar și lasă-me pe mine în codrul meu ca să apăr pe nenorociți mei frați de hoțiile și nedreptățile slugarnicilor voștri pene ce Dumnedeu se va indura să 'i scape de asemenea lipitori, căci de nu, me jur pe sânta Cruce că te ucid și me puiu pe tron în locu-ți.</p>
 <p>„A Mării Tale plecată slugă”</p></quote>
 <p><emph>Bujor</emph></p>
- <milestone></milestone>
+ <milestone unit="footer" type="line"></milestone>
 </div>
 <div type="chapter" n="11">
  <head> XI.FOAMETEA CEA MARE </head>
@@ -931,7 +929,7 @@
 <p>Ordinul lui vodă fu ascultat cu grăbire, poterile fură întocmite, plăiașii și pandurii sa intră in țară și bieții țerăni porniră mai mult de nevoe de cât de voe ca să se resboiaseă cu aceia ce ’i scăpase de fomete, dar când să pue mâna pe haiduci, ia pe haiduci de unde nu e, par-că intrase în gaură de șarpe, par-că ’i înghițise pămentul de vii. Pădurele în care de obiceiu se iveau ei, cu tote bătăile cele mai miuuțiose ce li se făcuse ca la o adevărată venatdre, nu scose la ivâlă alt de cât iepuri, vulpi si un numer nu mic de lupi, iar despre haiduci 
 <emph><foreign>tipotis </foreign></emph> cum dzice grecul.</p>
 <p>Ce se făcuse oare haiducii? de sigur cei mai mulți, daca nu mai toți, fusese surprinși de ordinul de concentrare pe a casă, adică pe la locuințele lor din satele unde se adăposteau iarna sau cănd nu haiduceau, prin urmare fusese transformați în plăeșî și panduri, și cutrierau munții și văile, pădurile și câmpiele ca să prindă pe haiduci !</p>
- <milestone></milestone>
+ <milestone unit="footer" type="line"></milestone>
 </div>
 
 <div type="chapter" n="9">
@@ -965,7 +963,7 @@
 <p>Aceia ce făcu Bujor și ai sei în timpul războiului dintre Turci, Nemți și Ruși, al cărui teatru mai principal se desfașiură în ambele principate, și ceia ce se petrecu după resboiul de la 1788—92, vom vedea în volumul al doilea al acestei scrieri intitulat: <title>Boerii Haiduci.</title></p>
 <p>FINE</p>
 </div>
-<milestone></milestone>
+<milestone unit="footer" type="lines"></milestone>
 </body>
 <back>
  <div>

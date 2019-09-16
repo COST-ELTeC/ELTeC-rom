@@ -12,14 +12,14 @@
     </respStmt>
    </titleStmt>
    <extent>
-    <measure unit="words">65,702</measure>
+    <measure unit="words">65702</measure>
     <measure unit="pages">202</measure>
    </extent>
    <publicationStmt>
     <p>Încorporat în ELTeC <date>2019-08-28</date></p>
    </publicationStmt>
    <sourceDesc>
-    <bibl type="copyText">
+    <bibl type="printSource">
      <author>Dimitrie Bolintineanu</author>
      <title>Elena. Roman original de datine politic filosofic</title>
      <pubPlace>Bucharest</pubPlace>

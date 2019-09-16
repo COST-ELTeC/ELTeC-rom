@@ -13,14 +13,14 @@
             </respStmt>
          </titleStmt>
          <extent>
-            <measure unit="words">35,873</measure>
+            <measure unit="words">35873</measure>
             <measure unit="pages">143</measure>
          </extent>
          <publicationStmt>
             <p>Încorporat în ELTeC<date>2019-l0-0l</date></p>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="copyText">
+            <bibl type="printSource">
                <author>N.D. Popescu</author>
                <title>Iancu Jianu, căpitan de haiduci. Nuvelă originală</title>
                <pubPlace>Bucharest</pubPlace>
@@ -57,7 +57,7 @@
            <p>NUVELĂ ORIGINALĂ</p>
            <p>DE</p>
            <p>D. N. POPESCU</p>
-           <milestone/>
+           <milestone unit="header" type="engraving"></milestone>
            <p>„CULTURA ROMÂNEASCĂ” S. A. R</p>
            <p>Strada Pitagora No. 18 - BUCUREȘTI, I</p>
         </div>
@@ -67,7 +67,7 @@
      <div type="title">
         <head>IANCU JIANU. Căpitan de haiduci</head>
      </div>
-        <milestone/>
+        <milestone unit="header" type="line"></milestone>
         <div type="chapter" n="1">
            <head>1.Ghiozdanul de piele roşie.</head>
            <p>Dumnezeu, când vrea să dea în cap pe om, întâi îi ia minţile şi-l face să săvârşească vreo prostie. Când vru să piarză pe Iancu, îl îndemnă, pre-cum văzurăm în nuvela <emph>Iancu Jianu Zapciu</emph>, să fure pustiul de ghiozdan de piele roşie, pe care era scris în greceşte cu litere poleite numele că-lugărului şi al mănăstirii, ghiozdan care nu-i era de nici un folos, fiind umplut numai cu hârtii care pe atunci n’aveau, valoare ca azi, după aceea îl făcu să pue ghiozdanul sub căpătâi în pridvorul în care dormise, şi pe urmă îl sili ca să-l fure sfântul şi să doarmă până la nămiezi, cu tot sgo-motul ce se făcea la un han de drum mare. Alexe fu mai cuminte. El se sculă în zori de zi, ţeselă şi adăpă caii şi scutură hainele boenilui fără să îndrăsnească a-1 deştepta, că prea dormea cu foc. Prostimea pe atunci, ca şi acum, era deprinsă cu tiriaceala boerească, căci şi pe atunci boierii făceau zi o parte din noapte şi noapte o parte din zi; dar cu toate astea, nu se opri să se mire de som-nul boerului, atâta de prelungit, după ce se culcase odată cu găinile, însă nu zise nimeni nimic şi-şi văzu fiecare de treburile sale. Pe la nămiezi însă, fu nevoit chiar Alexe să-l deştepte, căci so-sise în fuga mare bulibaşa ţiganilor dela mănăstirea Călâiului, care venise într’un suflet sa caute pe coconu zapciu, despre care aflase că ar fi co-năcit în partea locului. Cum dădu ochii cu M-sa, ţiganul îi spuse că într’acea noapte nişte hoţi necunoscuţi au călcat mănăstirea, au jefuit pe egumen de tot ce a avut şi pe Sf. Sa l-a legat de piciorul patului şi au plecat nu se ştie încotro şi că-l ruga să-şi facă pomană să dea o raită până la Sf. Sa, ca să-i găsească sculele şi banii furaţi.</p>
@@ -1128,7 +1128,7 @@
 <l>Căci pe loc mi-l judecară,</l>
 <l>Cu lanţuri mi-l încărcară,</l>
 <l>Şi'n ocnă mi-l aruncară!</l>
-   <milestone/>
+   <milestone unit="footer" type="line"></milestone>
    </div>
         </div>
    <div type="document">

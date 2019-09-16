@@ -12,14 +12,14 @@
   </respStmt>
    </titleStmt>
    <extent>
-  <measure unit="words">22,860</measure>
+  <measure unit="words">22860</measure>
   <measure unit="pages">67</measure>
    </extent>
    <publicationStmt>
   <p>Încorporat în ELTeC <date>2019-08-28</date></p>
    </publicationStmt>
    <sourceDesc>
-  <bibl type="copyText">
+  <bibl type="printSource">
    <author>Radu Ionescu</author>
    <title>Don Juanii din București</title>
    <pubPlace>Bucharest</pubPlace>

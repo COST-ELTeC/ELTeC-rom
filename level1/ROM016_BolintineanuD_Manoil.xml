@@ -12,14 +12,14 @@
             </respStmt>
          </titleStmt>
          <extent>
-            <measure unit="words">36,282</measure>
+            <measure unit="words">36282</measure>
             <measure unit="pages">120</measure>
          </extent>
          <publicationStmt>
             <p>Încorporat în ELTeC <date>2019-08-28</date></p>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="copyText">
+            <bibl type="printSource">
                <author>Dimitrie Bolintineanu</author>
                <title>Manoil</title>
                <pubPlace>Bucharest</pubPlace>
