@@ -21,7 +21,7 @@
             </p>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="copyText">
+            <bibl type="printSource">
                <author>N.D. Popescu</author>
                <title>Iancu Jianu, zapciu de plasă. Nuvelă originală. Adăogită, revăzută, corectată și ilustrată cu patru gravuri</title>
                <pubPlace>Bucharest</pubPlace>
@@ -55,16 +55,16 @@
            <p>N.D. Popescu</p>
            <p>IANCU JIANU</p>
            <p>ZAPCIU DE PLASĂ</p>
-           <milestone/>
+           <milestone unit="header" type="waves"></milestone>
            <p>Adăogită, revăzută, corectată și ilustrată cu patru gravuri</p>
-           <milestone/>
+           <milestone unit="header" type="shield"></milestone>
            <p>„CULTURA Românească”</p>
            <p>Institut de editură, arte grafice și confecțiuni de hârtie</p>
            <p>Strada Pitagora No. 18</p>
         </div>
         <div type="liminal">
            <head>PREFAȚA</head>
-           <milestone/>
+           <milestone unit="header" type="line"></milestone>
            <p>In anul 1868 am scris prima ediţie a nuvelei lancu Jianu pe care am publicat-o în Calendarul pentru toţi pe anul 1869. Câteva amintiri din copilări e povestite de tatăl meu care se născuse şi crescuse în judeţul Dolj, aproape de locurile bătătorite-de Jianu, câteva episoade din baladele populare aduse până la noi prin gurile lăutarilor şi bătrânilor dela ţară şi câteva peripeţii, din care mare parte plăsmuite, împrumutate dela piesa d-lor Anestin şi Millo întitulată : <title>Iancu, Căpitan de haiduci</title>, iată tot bagajul din care am fost nevoit să-itii alcătuesc eu legenda mea. Bagaj în adevăr mie şi foarte neîndestulător!</p>
 <p>Cu toate acestea nuvela mea avu parte încă de două ediţii, una la 1874 şi'alta la 1881, tot în aceiaşi coprindere neîndestulătoare, însă cu oare-care mici modificări, miri cu seamă de stil. Pentru ce toate acestea? Pentru că n’a vrut nimeni să-ii co-munice nimic, deşi se găsesc încă mulţi cari au trăit pe vremea lui Iancu şi cunosc multe partipula-rităţi din aventuroasa sa viaţă, pentru că puţin se gândesc a înavuţi cu produsul amintirilor lor peripeţiile nenumărate ale trecutului nostru istoric. </p>
            <p>Abia la 1884, d-1 Gr. G. Tocilescu, animat de neînvinsa sa dorinţă de a cerceta şi tie a facesă iasă ia lumină toate particularităţile trecutului nostru istoric avu fericita inspiraţiune de a publica în <title>Revistă sa pentru istorie, arheologie şi filologie</title>, anul I, volumul I, partea II, o interesantă povestire despre Iancu Jianu scrisă de un contimporan, adică de către C. Isvoreanu şi comunicată d-sale de către răposatul C. D. Aricescu.</p>
@@ -72,7 +72,7 @@
            <p>In fine acum după ce d-1 Ghica în cartea sa întitulată <title>„Amintiri din copilărie' Scrisori către V. Alexandri</title> a publicat un capitol întitulat: <title>Tunsu şi Jianu</title>, care conţine câteva episoade inedite din aventuroasa viaţă a acestui haiduc, şi după ce am mai cules şi alte câteva amănunte de pe la câţiva contemporani, m'am hotărât a scrie şi a publica o nouă ediţie care să conţie şi a treia parte întitulată <title>„Moartea Jianului”</title> care să conţie şi toate acele noui peripeţii.</p>
 <p>Recomand atenţiunei lectorilor mei şi această nouă scriere, care e pe cât se poate mai apro-piată de adevăr, şi'i rog s'o îmbrățișeze și să încu-rajeze cu bună-voinţă şi indulgenţă şi această nouă încercare, luând-o sub binevoitoarea d-lor protec-ţiune. Rog asemeni pe toţi cari cunosc şi alte amănunte noi din viaţa Jianului, să bine-voiască a~mi comunica prin editorul acestei ediţiuni.</p>
 <p>N. D. Popescu.</p>
-           <milestone/>
+           <milestone unit="middle" type="line"></milestone>
 <gap unit="graphic"/>
            <p>Casa lui Iancu Jianu din Drăgășani în seara logodirii surorii sale Ancuța I. Z. Pag. I.</p>
         </div>

@@ -20,19 +20,11 @@
             <p>Încorporat în ELTeC<date>2019-l0-0l</date></p>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="copyText">
+            <bibl type="digitalSource">
                <author>Alexandru Macedonski</author>
                <title>Thalassa</title>
                <date>2013 (1906)</date>
                <idno type="DOI">10.5281/zenodo.3407357</idno>
-               <relatedItem>
-               <bibl>
-                  <ref target="https://documents.tips/amp/documents/thalassa-alexandru-macedonskipdf.html">
-                     HTML version downloaded on
-                     <date>2019-07-21</date>
-                  </ref>    
-               </bibl>
-               </relatedItem>
             </bibl>
          </sourceDesc>
       </fileDesc>

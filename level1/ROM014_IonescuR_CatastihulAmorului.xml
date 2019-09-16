@@ -19,7 +19,7 @@
     <p>Încorporat în ELTeC <date>2019-08-28</date></p>
    </publicationStmt>
    <sourceDesc>
-    <bibl type="copyText">
+    <bibl type="printSource">
      <author>Radu Ionescu</author>
      <title>Catastihul amorului și la Gura sobei</title>
      <pubPlace>Cluj-Napoca</pubPlace>
@@ -361,7 +361,7 @@
     <title><emph>Manoil</emph></title>, <title><emph>Catastrofa boerilor</emph></title>, <title><emph>Misterele căsătoriei</emph></title>, şi altele tot ca acestea.</p>
 <p><emph>Model:</emph> — Intr-o rîzîndă dimneaţă din luna mai 18... o jună copilă străbătea Puntea-Regală, cu un pas repede, şi trecea grila grădinei Tuileriilor, care se deschide pe chei.</p>
 <p>îmbletul său elegant fără afectaţiune, arăta o origine aristocratică, deoarece chipul său, cu cochetărie încadrat într-o pălărie de mătase cenuşie, trăda o vie agitaţiune interioară . .. etc.</p></div>
-       <milestone></milestone>
+       <milestone unit="middle" type="dot"></milestone>
 <div n="3" type="chapter"><p>Al doilea stil — Stilul historic</p>
 <p>înflorea în Francia în timpul marii perioade romantice.</p>
 <p>Vor reveni la el.</p>
@@ -370,7 +370,7 @@
 <p>Grav minut, în care soarele marelui rege, declinînd la orizonte, era învăluit de ceaţa intoleranţei şi a fanatismului.</p>
 <p>Această crudă măsură fu pentru Francia una din cauzele cele mai dureroase de slăbiciune şi de ruşine, căci era un sînge generos acel sînge al nobilelor familii cari alergau să-şi caute scăpare în exilul de bună voie.</p>
 <p>Printre aceste familii, era una ... etc.</p></div>
-       <milestone></milestone>
+       <milestone unit="middle" type="dot"></milestone>
        <div n="4" type="chapter"><p>Al treilea stil — Stilul geografic Colaterale cu cel precedinte.</p>
 <p><emph>Model</emph> — Nemărginitele cîmpii ale Soloniei, formez unul din peisajele cele mai întristătoare ce a putut cineva întîlni, străbătînd lumea.</p>
 <p>Ele nu sînt decît pustii, bălării, brazi.</p>
@@ -378,7 +378,7 @@
 <p>O mică gîrliţă, Saudre, udă ca cu părere de rău acest colţ de pămînt, şi se simte în neputinţă a-1 fertiliza.</p>
 <p>în împrejurimile dar ale acestui orăşel, trecătorul vedea încă, acu cinci ani, un castel ruinat în care locuia contele de ... etc.</p></div>
        
-<milestone></milestone>
+       <milestone unit="middle" type="dot"></milestone>
        
        <div n="5" type="chapter"><p>Al patrulea stil — Stilul humoristic</p>
 <p><emph>Model</emph> — In acea zi, mi-era urît.</p>
@@ -389,7 +389,7 @@
 <p>După ce aprinsei ţigara, mă coborîi şi mă aruncai în stradă.</p>
 <p>O, viziune! ... încîntare! ... Tocmai în această mi-nută, acea stradă era străbătută de o pereche de botine cari... etc.</p></div>
 
-       <milestone></milestone>
+       <milestone unit="middle" type="dot"></milestone>
        
        <div n="6" type="chapter"><p>Al cincilea stil — Stilul brusc</p>
 <p><emph>Model</emph> — Nu, Doamnă, nu; îţi repet că această căsătorie este cu neputinţă.</p>
@@ -398,7 +398,7 @@
 <p>— Atît mai rău.</p>
            <p>Aşa vorbea soţiei sale bătrînul baron... Baronul ... bătrîn nobile, curios ... etc.</p></div>
        
-       <milestone></milestone>
+       <milestone unit="middle" type="dot"></milestone>
        
        <div n="7" type="chapter">
            <p>Al şaselea stil — Stilul fantastic</p>
@@ -406,19 +406,19 @@
 <p>Arborii trosneau cu un zgomot de schelete izbite unele de altele. Norii negri ca funinginea făceau mai posomorit întunericul chiar.</p>
 <p>Deodată un fulger albicios tăie norul şi la lumina sa se zări pe vîrful unei stînce o fantasmă albicioasă al cării...</p></div>
        
-       <milestone></milestone>
+       <milestone unit="middle" type="dot"></milestone>
 
        <div n="8" type="chapter">
            <p>Al şaptelea stil — Stilul sfîşietor</p>
 <p><emph>Model</emph> — O palidă lumină veghia lingă patul agonizîndei.</p>
 <p>O jună copilă singură, pierdută, rătăcită, în cămăruţa friguroasă ... etc.</p></div>
        
-       <milestone></milestone>
+       <milestone unit="middle" type="dot"></milestone>
        
        <div n="9" type="chapter">
            <p>Al optulea stil — Stilul alegru</p></div>
        
-       <milestone></milestone>
+       <milestone unit="middle" type="dots"></milestone>
 
        <div n="10" type="chapter">
            <p>Răbdarea mea începea a cam slăbi.</p>
@@ -1058,7 +1058,7 @@
 <p>Cînd diligenţa sosi în Bucureşti eu şi reuşisem... căpăta o întîlnire.</p>
 <p>Dar de ce să deştept oare aste triste suveniri? Amicii mei, turnaţi-mi un pahar de Drăgăşani!</p></div>
        
-       <milestone></milestone>
+       <milestone unit="middle" type="dot"></milestone>
        
        <div n="2" type="chapter"><p>Vă spuneam dar că o cunoscusem pe drumul Braşovului, nu mai ţin minte aproape de ce sat, dar mă iertaţi că am uitat această particularitate.</p>
 <p>Am observat în adevăr că numai drumul Braşovului e fecund în întîmplări, şi Băile de la Elopatac (deşi n-am avut onoarea, nici fericirea de a vizita altele, sunt centrul reuniunii a tot ce este, în ambele şexe, mai spirituale, mai ales şi mai frumos! Elopatac! şuvenire palpitîndă, tremurîndă şi zdruncinătoare a liniştii inimioarei mele!</p>
@@ -1068,7 +1068,7 @@
 <p>Toate astea ţineau de trei săptămîne.</p>
 <p>Dar de ce să deştept oare aste triste suvenir!?... Amicii mei, turnaţi-mi un pahar de Odobeşti!</p></div>
        
-       <milestone></milestone>
+       <milestone unit="middle" type="dot"></milestone>
        
        <div n="3" type="chapter">
            <p>Voi să vă scutesc de nişte amănunte trîndave.</p>
@@ -1080,7 +1080,7 @@
 <p>Părul acestui cap scump scormonea nencetat pă-reţii creerilor capului meu.</p>
 <p>Dar de ce să deştept oare aste triste suveniri?. . . Amicii mei, turnaţi-mi un pahar de Cotnar.</p></div>
 
-    <milestone></milestone>
+       <milestone unit="middle" type="dot"></milestone>
 
        <div n="4" type="chapter">
            <p>Şi tot astfel că într-o zi, — ba nu, într-o dimineaţă, — după ce m-am fost îndoit mult timp pînă să risc <emph>io</emph> cerere aşa de cutezătoare, eu mă riscai gîngănind.</p>
@@ -1100,7 +1100,7 @@
 <p>— De a mă lăsa să tai o şuviţă din el.</p>
 <p>Dar de ce să deştept oare aste triste suveniri?... Amicii mei, turnaţi-mi puţin bordo.</p></div>
        
-       <milestone></milestone>
+       <milestone unit="middle" type="dot"></milestone>
         
        <div n="5" type="chapter">
            <p>Aşteptam răspunsul şi-mi zvîcnea pieptul. Tremuram ca să nu fie cumva un refuz.</p>
@@ -1116,7 +1116,7 @@
 <p>In acea seară, tot ce putui face mai puţin fu de a trămite Luluţei o pereche de cercei de diamant.</p>
 <p>Dar, de ce să deştept oare aste triste suveniri?... Amicii mei, turnaţi-mi un pahar de vin chihlimbariu!</p></div>
 
-    <milestone></milestone>
+       <milestone unit="middle" type="dot"></milestone>
     
        <div n="6" type="chapter">
            <p>Trei zile trecură... Un secul!</p>
@@ -1135,7 +1135,7 @@
 <p>In acea seară — eu îi eram dator această mulţumire —, trămisei Luluţii un şal.</p>
 <p>Dar de ce să deştept oare aste triste suveniri?. .. Amicii mei, turnaţi-mi un pahar de volnay.</p></div>
     
-<milestone></milestone>
+       <milestone unit="middle" type="dot"></milestone>
     
        <div n="7" type="chapter"><p>Sunt nişte minute în viaţă în cari cuiva nu-i vine a crede că inima se poate zdrobi vreodată.</p>
 <p>Eu străbăteam unul din acele minute.</p>
@@ -1146,7 +1146,7 @@
 <p>O lume-ntreagă de cugetări se deştepta ca să o privească. Bevedeam trecutul drumul Braşovului, di-ligenţa, Elopatacul şi celelalte.</p>
 <p>întrevedeam viitorul: fidelitate pe viaţă, amor inalterabile — şi ceea ce urmează după acestea.</p><p>Dar de ce să deştept oare aste triste suveniri?. .. Amicii mei, turnaţi-mi un pahar de pelin. ..</p></div>
        
-<milestone></milestone>
+       <milestone unit="middle" type="dot"></milestone>
        
        <div n="8" type="chapter"><p>Cîteva zile după aceasta, ea se bolnăvi.</p>
 <p>O indispoziţiune uşoară, dar amorul se teme de orice.</p>
@@ -1704,7 +1704,7 @@
 <p>Tu o s-o vezi; o să guşti iofealele ei, şi ea o să-ţi facă o cremă de ciocalată. ..</p>
 <p>Ah! sunt prea fericit cu ea! . . .</p></div>
     
-<milestone></milestone>
+     <milestone unit="middle" type="dot"></milestone>
     
 <div><p>Amice lectore, trage însuţi concluziunea.</p></div>
 </div>
@@ -1820,8 +1820,7 @@
 <p>Cine ne va protege? ne va prezerva? ne va scoate din necaz? ... Ajutor! ... Ajutor! ... Ajutor!... Ajutor!...</p>
  <p>Scoţînd acest apel desperat, <foreign><emph>tutti</emph></foreign> deveniseră aşa de formidabili încît buna femeie Veritatea, care cu toate acestea locuieşte prea departe de glorioasa noastră capitală, auzi ecoul plîngător al acestor stanţe cufundate în plinsete.</p></div>
 
-    <milestone></milestone>
-
+    <milestone unit="middle" type="dot"></milestone>
     <div n="2" type="chapter">
         <p>Cu toate cele ce au pretins mincinoşi, Veritatea este o excelinte persoană. Crudă numai pentru cei ce merită.</p>
 <p>Ea fu dar mişcată foarte tare de concertul desperaţilor.</p>
@@ -1829,8 +1828,7 @@
 <p>Această alegere a Ompului-Virtuţilor, care mergea drept la inima invitaţilor — cineva este totdeauna simţitor la cele mai neadevărate linguşiri! — această alegere nu putea să nu dispuie în favoare-i spiritele.</p>
 <p>Aşadar, la ora hotărîtă, nimeni nu lipsi de la întâlnire.</p>
 <p>Cei 80 şi atîţia de mii erau în cel mai mare complect, şi cele 160 şi a tîtea mii de mîini ale lor bătură în palme, cînd apăru Veritatea, liniştită, zîmbi-toare, plină de bunăvoinţă.</p></div>
- 
-    <milestone></milestone>
+    <milestone unit="middle" type="dot"></milestone>
     
     <div n="3" type="chapter">
         <p>Ştiind că ea cu greu poate fi auzită, curajoasa fată se aşeză în centrul regimentului, şi, vorbind cu ajutorul unei trîmbiţe:</p>
@@ -1849,7 +1847,7 @@
 <p>Mergeţi, scumpii mei amici, fiţi fericiţi — şi aveţi copii mulţi, dacă mijloacele vă permit de a-i creşte.</p>
 <p>Trăiască Veritatea! răspunseră în cor cei 80 şi atîţia de mii reasiguraţi.</p></div>
     
- <milestone></milestone>
+    <milestone unit="middle" type="dot"></milestone>
     
     <div n="4" type="chapter"><p>Întorcîndu-se de la Cîmpul Virtuţilor cei 80 şi atîţia de mii trecură pe dinaintea unui zid pe care erau placardate afişurile spectaculilor din acea seară.</p>
  <p>La Teatrul Naţionale se juca <title><emph>Bărbatul dat pe beţe</emph></title>.</p>
@@ -1868,7 +1866,7 @@
 <p>Ducă-se dracului această oglindă idioată... Trebuie să-mi întorc banii mei.</p>
 <p>Şi se duse la Casino.</p></div>
     
-<milestone></milestone>
+    <milestone unit="middle" type="dot"></milestone>
 
     <div n="5" type="chapter"><p>A trei zi, veni rîndul celui de al treilea:</p>
 <p>— Galben ca dovleacul! Dovleac, cine? galben ce? ... Lucru dracului IrTrasa popei! ... Dar nu-mi plac mie aseminea culori! ...</p>
@@ -1881,7 +1879,7 @@
 <p>Ea mă iubeşte ca soţie. Zoe mă adoră ca... două amoruri de femei în două deosebite moduri. . Eu sunt un fericit craidon.</p>
 <p>Şi el zbură la Zoe.</p></div>
     
- <milestone></milestone>
+    <milestone unit="middle" type="dot"></milestone>
     
     <div n="6" type="chapter"><p>Aşa şi cu ceialţi.</p>
 <p>La finele anului, ei erau 79 de mii tocmai galbeni ca şofranul!!!</p>
@@ -2036,7 +2034,7 @@
         <head>XII şi cel din urmă </head>
         <head><emph>Despre ortografie</emph></head>
                    <p>1. Nici pomeneală! ...</p></div>
-        <milestone></milestone>
+       <milestone unit="middle" type="dot"></milestone>
 <div><p>Şi acum, tată Popp, profesorele meu, binecuvîntarea ta!!!!</p></div>
 </div>
 
