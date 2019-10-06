@@ -24,8 +24,8 @@
                <author>Alexandru Macedonski</author>
                <title>Thalassa</title>
                <date>2013 (1906)</date>
-               <idno type="DOI">10.5281/zenodo.3407357</idno>
-            </bibl>
+               <ref target="http://doi.org/10.5281/zenodo.3407358">Facsimile on zenodo</ref>
+                           </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
@@ -38,7 +38,7 @@
          <textDesc>
             <e:authorGender key="M"></e:authorGender>
             <e:size key="short"></e:size>
-            <e:canonicity key="low"></e:canonicity>
+            <e:canonicity key="high"></e:canonicity>
             <e:timeSlot key="T4"></e:timeSlot>
          </textDesc>
       </profileDesc>

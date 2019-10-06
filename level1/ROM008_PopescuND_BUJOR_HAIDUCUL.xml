@@ -25,8 +25,8 @@
      <pubPlace>Bucharest</pubPlace>
      <publisher>Depositul la librarul anticar H. Steinberg</publisher>
      <date>1892 (1882)</date>
-     <idno type="DOI">10.5281/zenodo.2648504</idno>
-        </bibl>
+     <ref target="http://doi.org/10.5281/zenodo.2648505">Facsimile on zenodo</ref>
+             </bibl>
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">

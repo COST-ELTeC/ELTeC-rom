@@ -27,8 +27,8 @@
                <pubPlace>Bucharest</pubPlace>
                <publisher>„CULTURA ROMANEASCA”, S. A. R.</publisher>
                <date>1930 (1894)</date>
-               <idno type="DOI">10.5281/zenodo.2648484.</idno>
-            </bibl>
+               <ref target="http://doi.org/10.5281/zenodo.2648485">Facsimile on zenodo</ref>
+                           </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">

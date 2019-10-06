@@ -27,8 +27,8 @@
                <pubPlace>Bucharest</pubPlace>
                <publisher>„Cartea Românească”</publisher>
                <date>1947 (1912)</date>
-               <idno type="DOI">10.5281/zenodo.3378329</idno>
-            </bibl>
+               <ref target="http://doi.org/10.5281/zenodo.3378329">Facsimile on zenodo</ref>
+                           </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">

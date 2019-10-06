@@ -27,8 +27,8 @@
                <pubPlace>Bucharest</pubPlace>
                <publisher>„Editura Minerva”</publisher>
                <date>1984 (1862)</date>
-               <idno type="DOI">10.5281/zenodo.3228835</idno>
-            </bibl>
+               <ref target="http://doi.org/10.5281/zenodo.3228835">Facsimile on zenodo</ref>
+                           </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
@@ -40,7 +40,7 @@
          </langUsage>
          <textDesc>
             <e:authorGender key="M"></e:authorGender>
-            <e:size key="medium"></e:size>
+            <e:size key="long"></e:size>
             <e:canonicity key="low"></e:canonicity>
             <e:timeSlot key="T2"></e:timeSlot>
          </textDesc>

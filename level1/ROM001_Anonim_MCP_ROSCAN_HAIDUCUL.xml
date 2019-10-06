@@ -32,7 +32,7 @@
           <pubPlace>Bucharest</pubPlace>
           <publisher>Tipo-Litografia și Fonderia de Litere „Dor. P. Cucu”</publisher>
           <date>1894</date>
-           <idno type="DOI">10.5281/zenodo.2642504</idno>
+           <ref target="http://doi.org/10.5281/zenodo.2642505">Facsimile on zenodo</ref>
         </bibl>
       </sourceDesc>
     </fileDesc>

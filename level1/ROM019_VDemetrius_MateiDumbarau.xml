@@ -27,8 +27,8 @@
                <pubPlace>Bucharest</pubPlace>
                <publisher>EDITURA ALCALAY si CO. </publisher>
                <date>1920</date>
-               <idno type="DOI">10.5281/zenodo.3229239</idno>
-            </bibl>
+               <ref target="http://doi.org/10.5281/zenodo.3229240">Facsimile on zenodo</ref>
+                           </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">

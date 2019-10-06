@@ -7,12 +7,12 @@
    <titleStmt>
     <title>Blestemul: Ediție ELTeC</title>
  <!--   <author> Bălănescu, Simeon (no available data in Bibliografie românească modernă 1831-l918, vol 1.A-C)</author>
- -->     <author> Bălănescu, Simion(?-?)</author>
+ -->     <author> Bălănescu, Simion (?-?) </author>
   <respStmt>
-     <resp>Codare ELTeC</resp> 
+     <resp>Codare ELTeC</resp>
      <name>Roxana Patras</name>
     </respStmt>
-   </titleStmt> 
+   </titleStmt>
    <extent>
     <measure unit="words">8705</measure>
     <measure unit="pages">67</measure>
@@ -28,7 +28,8 @@
      <pubPlace>Bucharest</pubPlace>
      <publisher>Stabilimentul Grafic I.V. Socec</publisher>
      <date>1894</date>
-     <idno type="DOI">10.5281/zenodo.2648428</idno>
+     <ref target="http://doi.org/10.5281/zenodo.2648429">Facsimile on zenodo</ref>
+     
     </bibl>
       
    </sourceDesc>
