@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" 
-   xml:id="ROM006" xml:lang="ro">
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM006" xml:lang="ro">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -20,36 +22,32 @@
             <measure unit="words">32240</measure>
             <measure unit="pages">121</measure>
          </extent>
-         <publicationStmt>
-            <p>Încorporat în ELTeC<date>2019-l0-0l</date>
-            </p>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="printSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-11"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Încorporat în ELTeC2019-l0-0l
+            --></publicationStmt>
+         <sourceDesc><bibl type="printSource">
                <author>N.D. Popescu</author>
                <title>Iancu Jianu, zapciu de plasă. Nuvelă originală. Adăogită, revăzută, corectată și ilustrată cu patru gravuri</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>„Cultura Românească”</publisher>
                <date>1929 (1869)</date>
                <ref target="http://doi.org/10.5281/zenodo.3378321">Facsimile on zenodo</ref>
-                     </bibl>
-         </sourceDesc>
+                     </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
-         <p></p>
+         <p/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
-            <language ident="ro"></language>
+            <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender key="M"></e:authorGender>
-            <e:size key="short"></e:size>
-            <e:canonicity key="high"></e:canonicity>
-            <e:timeSlot key="T2"></e:timeSlot>
+            <e:authorGender key="M"/>
+            <e:size key="short"/>
+            <e:canonicity key="high"/>
+            <e:timeSlot key="T2"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2019-11-11">Checked by releaseChecker script</change>
          <change when="2019-08-27">Initial TEI version generated.</change>
       </revisionDesc>
    </teiHeader>
@@ -59,16 +57,16 @@
            <p>N.D. Popescu</p>
            <p>IANCU JIANU</p>
            <p>ZAPCIU DE PLASĂ</p>
-           <milestone unit="header" type="waves"></milestone>
+           
            <p>Adăogită, revăzută, corectată și ilustrată cu patru gravuri</p>
-           <milestone unit="header" type="shield"></milestone>
+           
            <p>„CULTURA Românească”</p>
            <p>Institut de editură, arte grafice și confecțiuni de hârtie</p>
            <p>Strada Pitagora No. 18</p>
         </div>
         <div type="liminal">
            <head>PREFAȚA</head>
-           <milestone unit="header" type="line"></milestone>
+           
            <p>In anul 1868 am scris prima ediţie a nuvelei lancu Jianu pe care am publicat-o în Calendarul pentru toţi pe anul 1869. Câteva amintiri din copilări e povestite de tatăl meu care se născuse şi crescuse în judeţul Dolj, aproape de locurile bătătorite-de Jianu, câteva episoade din baladele populare aduse până la noi prin gurile lăutarilor şi bătrânilor dela ţară şi câteva peripeţii, din care mare parte plăsmuite, împrumutate dela piesa d-lor Anestin şi Millo întitulată : <title>Iancu, Căpitan de haiduci</title>, iată tot bagajul din care am fost nevoit să-itii alcătuesc eu legenda mea. Bagaj în adevăr mie şi foarte neîndestulător!</p>
 <p>Cu toate acestea nuvela mea avu parte încă de două ediţii, una la 1874 şi'alta la 1881, tot în aceiaşi coprindere neîndestulătoare, însă cu oare-care mici modificări, miri cu seamă de stil. Pentru ce toate acestea? Pentru că n’a vrut nimeni să-ii co-munice nimic, deşi se găsesc încă mulţi cari au trăit pe vremea lui Iancu şi cunosc multe partipula-rităţi din aventuroasa sa viaţă, pentru că puţin se gândesc a înavuţi cu produsul amintirilor lor peripeţiile nenumărate ale trecutului nostru istoric. </p>
            <p>Abia la 1884, d-1 Gr. G. Tocilescu, animat de neînvinsa sa dorinţă de a cerceta şi tie a facesă iasă ia lumină toate particularităţile trecutului nostru istoric avu fericita inspiraţiune de a publica în <title>Revistă sa pentru istorie, arheologie şi filologie</title>, anul I, volumul I, partea II, o interesantă povestire despre Iancu Jianu scrisă de un contimporan, adică de către C. Isvoreanu şi comunicată d-sale de către răposatul C. D. Aricescu.</p>
@@ -76,13 +74,13 @@
            <p>In fine acum după ce d-1 Ghica în cartea sa întitulată <title>„Amintiri din copilărie' Scrisori către V. Alexandri</title> a publicat un capitol întitulat: <title>Tunsu şi Jianu</title>, care conţine câteva episoade inedite din aventuroasa viaţă a acestui haiduc, şi după ce am mai cules şi alte câteva amănunte de pe la câţiva contemporani, m'am hotărât a scrie şi a publica o nouă ediţie care să conţie şi a treia parte întitulată <title>„Moartea Jianului”</title> care să conţie şi toate acele noui peripeţii.</p>
 <p>Recomand atenţiunei lectorilor mei şi această nouă scriere, care e pe cât se poate mai apro-piată de adevăr, şi'i rog s'o îmbrățișeze și să încu-rajeze cu bună-voinţă şi indulgenţă şi această nouă încercare, luând-o sub binevoitoarea d-lor protec-ţiune. Rog asemeni pe toţi cari cunosc şi alte amănunte noi din viaţa Jianului, să bine-voiască a~mi comunica prin editorul acestei ediţiuni.</p>
 <p>N. D. Popescu.</p>
-           <milestone unit="middle" type="line"></milestone>
+           <milestone rend="dots" unit="subchapter"/>
 <gap unit="graphic"/>
            <p>Casa lui Iancu Jianu din Drăgășani în seara logodirii surorii sale Ancuța I. Z. Pag. I.</p>
         </div>
      </front>
            <body>
-              <div type="chapter" n="1">
+              <div type="chapter">
                  <head>I. Familia lui Iancu Jianu</head>
 <p>Familia lui Iancu Jianu era foarte cunoscută și foarte stimată în judeţul Romanaţi; ea făcea parte din clasa boerilor olteni de a treia clasă, dispunea de mai multe moşii în jurul Caracalului, de vii vestite în preajma Drăgăşanilor, de mai mulfi munţi biJudeţul Vâlcea şi Gorj şi de mai multe sălaşe de robi şi suflete de scutelnici; pe lângă aceasta se bucura de o mare popularitate printre ţărani, căci toţi membrii acestei întinse familii se purtau cu blândeţe cu ţăranii. Pentru că întrunea asemenea calităţi, Grecii care cotropise toate rangurile boeriilor româneşti şi care cu toate acestea se temeau de marea popularitate a Jienilor, cutezară a’i număra printre boe-rănaşi, iar boerii români câţi bruma mai rămăsese negreciţi şi câţi se găseau aciuiţi pe la moşii, se mândreau a-i prenumăra în rândurile lor cu titlu de boeri de neam şi în fine poporul« prostimea, cum se numea pe atunci, se uita la dânşii cu dor şi iubire ca la unii din rarii urmaşi ai glorioaselor familii de oșteni și răsboinici care ridicase până la înălţimile nemurirei faima numelui Românesc. Poporul iubea această familie din inimă, sperând că ea va procura odată, într’un viitor mai mult ori mai puţin apropiat elementele trebuincioase pentru a'i reînvia amorțita voinicie strămoșească menită de a scăpa moșia de cumplitul jug străin.</p>
 <p>Ori-cum şi sub ori-ce nume, familia Jianilor se bucura peste Olt, şi mai ales în judeţul Romanaţi, de multă trecere şi mult credit, în cât zabieţii greci çutezau să se năpustească cu potopul lor de upriri peste dânsa şi peste fiinţele ce se bucurau ?pe ocrotitoarea sa producţiune.</p>
@@ -104,7 +102,7 @@
 </p>
    <p> Cu aceste sume împrumutate și cu câțiva bani găsiţi acasă, putu Radu să înjghebeze suma desro-birei hotărîtă de Turei şi să aibă timp de-a se duce la Cozia mai înainte de a sosi termenul fatal. După ce primi banii, turcul nu mai avu încotro; el fu nevoit să dea drumul lui Jianu cu nevasta şi copiii lui şi să’l căpătuiască cu teşcherele că de-aci încolo să poată trăi nesupărat de nimeni.</p>
               </div>
-              <div type="chapter" n="2">      
+              <div type="chapter">      
                  <head>II. Judecăţile în secolul trecut.</head>
 <p>Bătrânul Jianu scăpă de robia turcească, dar de robie nu scăpă toată viaţa, căci necazurile, supărările şi amărăciunile ce-i pricinuiră rezultatele acelei rnbii fură attţ de numeroase şi de zdrobitoare, în cât îl turtiră sub cotropitore a lor greutate şi-i curmară zilele mai nainte de vreme.</p>
 <p>Multe şi dureroase fură acele amărăciuni; multe și ucigătoare fură suferinţele ce îndură bietul Radu Jianu dela întoarcerea sa de la Cozia! Mai întâi găsi tot avutul său mişcător şi nemişcător din Caracal prădat şi devastat de către Ienicerii care trecuseră dela Diiu spre a merge către Cozia; casele îi fusese arse şi dărâmate, moara şi hanul dela moşia vecină cu oraşul fusese arse şi dărâmate, pătulele, hambarele şi magaziele cu provizii adunate din țară pe bani gata spre a le preda oştirilor împă-rătești fusese asemeni golite şi jefuite, chiar holdele după câmp care promiteau a fi mănoase fusese golite şi pârjolite; nu-i mai rămăsese drept avuţie decât negrul pământ, pe care hoardele cotropitoare nu-1 putuse nici lua nici pârjoli. Văzând acest groaznic prăpăd, bietul bătrân se luă cu mânele de păr şi plânse cu mare jale, împreună cu soţia şi copii săi, jeli pierderea ce i s’a pricinuit, şi blestemă cu foc neamul păgânilor nimicicitori, dar nu se descuraje, ci se puse cu ardoare şi bărbăţie pe muncă ca să-şi repare avutul, şi îşi dădu toate stă-ruinţele spre a-l aduce măcar în parte, în starea de mai nainte.</p>
@@ -130,7 +128,7 @@
 <p>Verii în loc d’a se înţelege între dânşii şi d'a precurma lunga cale a judecăţii, începură gonească mult mai amarnic ca părinţii lor, până ce la urma urmelor se găsiră cu toţii caliciţi, îndatoraţi, ruinaţi, şi numai vechilii lor îmbogăţiţi; conform obiceiului cari în prigoniri de judecata a fost, este şi va fi în fiinţă.</p>
 <p>In sfârşit la urma urmelor sfânta dreptate fu în-genunchiată, nedreptatea eşi triumfătoare cu toată bunătatea noului codice, şi fii lui Radu fură raşi fără speranţă de îndreptare și condamnați să întoarcă urmaşilor lui Iancu valoarea curelelor vândute cu venitul lor de la vânzare, sau valoarea lor în urma unei preţuiri, plus pravilnica dobândă.</p>
               </div>
-<div type="chapter" n="3">  
+<div type="chapter">  
 <head>III. Juneţea lui Iancu Jianu</head>
 <p>Iancu Jianu haiducul fu fiul lui Radu Jianu; el mai avu doi fraţi mai mari : pe unul îl chema Amza şi pe altul Radu şi o soră mai mică anume Ana sau Ancuţa. Tatăl său dăduse copilului al doilea nu-mele ce purtase el și celui mic numele fratelui său, părinte. El fiind în tot cursul vieței preocupat și amărât de persecuţiele procesului cel fără de sfârşit, n’avusese îndestul timp să se ocupe de educațiunea copiilor lui, şi îi lăsase ca fiecare să îşi urmeze propriile sale înclinări.</p>
 <p>Pe atunci educaţiunea intelectuală mai nu exista în rândurile poporului, precum şi între boieri pământeni de a treia şi a patra mână. Chiar între boierii de a doua mână se găseau mulţi fruntaşi care ocupau locuri importante şi cari iscăleau cu pecete căci nu ştiau nici măcar az-buchi. Abia între boierii veliţi instrucţiunea era ceva în progres, dar şi aceia străină, grecească. Numai pentru privilegiaţii români, vestitele şcoli elenice înfiinţate de Constantin Vodă Ipsilante şi întreţinute de stat cu multă cheltuială, dobândise oare care desvoltare şi produ-sese câţi-va oameni procopsiţi, spre pildă; Goleştii, Bălăcenii, Văcăreştii, Greceni şi alţi câţi-va.</p>
@@ -141,7 +139,7 @@
 <p>Numai Iancu fu mai rebel; lui nu-i plăcea munca, mai cu seamă a câmpului, nici strimtorările cuviinţelor sociale. Din mica sa copilărie dădu la iveală o neînfrântă dorinţă de libertate de exerciţiuri corporale, de mânuirea armelor, de călărit şi de trai în aer curat. Un ţigan anume Alexe care se născuse ca rob în vatra casei danilor, fu dascălul şi mentorul său. El îl învăţase să încalice şi să înstruneze într’o clipă  calul cel mai sălbatic şi mai neînvățat, el îl deprinsese cu mânuirea. armelor şi cu' trasul la ţintă, până ce reuşise să-l facă a isbi păsărica din zbor; el, sălbatecul fiu al sălbaticei naturi, îl învăţase să se deprindă de mic cu trudele traiului ia aer liber până ce ajunse să nu mai simţă asprimea gerului, şi să doarmă în decurs de mai multe săptămâni afară, in mijlocul câmpiei sau al pădurei culcat pe pământul gol şi fără de nici un acoperământ. Ast-fel de viaţă şi de deprinderi îl făcu ca cu timpul să dobândească o neînvinsă înclinare spre vânătoare şi să capete în scurt timp reputaţia de cel mai bun vânător din împrejurimi. Din această cauză el mai că nu da p’acasă şi-şi petrecea viaţa împreună cu Alexe al său mai mult prin codri.</p>
 <p>Intr’acest timp muri tatăl său şi rămase în locu-i ca să continuie cu procesul şi administrarea averii fratele său Amza. Iancu plânse din tot adâncul ini-mei sale pe bunul său tată care nu-i fusese de loc supărător, ci-l lăsase să facă tot ce vrea; lăsă pe fratele său mai mare să conducă administrarea în-tregei averi fără de nici un amestec din parte-i, şi ca să-i facă pe voie consimţise a intra ca băiat pe procopseală şi fecior boeresc, conform obiceiului ţărei, în casa marelui vornic Dumitru Bibescu, unde stătu şl sluji cu credinţă şi vrednicie pe marele boer mai mulţi ani, dar îndată ce ajunse în vârstă legiută şi ritmase stăpân pe capul şi voinţa lui, atunci numai în stare să-l reţie nici sfaturile fraţilor lui mai mari, nici ruga boerului care începuse a-l iubi căci  începuse a-i aprecia credința, devotamentul şi cali-tățile sale care nu erau de lepădat, şi plecă din Craiova, reintră în judeţul său şi se alipi de pădure viaţa de vânător cu mai multă ardoare şi de ca ori când, în cât nici iarna nu mai da prin oraș, și-și petrecea vremea în chioșcul unei vii ce avea în preajma Drăgășanilor și în vecinătatea unei păduri aproape virgină.</p>
 </div>
-   <div type="chapter" n="4">  
+   <div type="chapter">  
       <head>IV. Deșteptarea leului.</head>
 <p>Intr’acea vreme începu să se audă în țara Românească, şi mai ales în Oltenia, printre populaţia pământeană, un murmur surd care semăna foarte mult cu depărtatul muget ce scoate leul din largul său piept când se deşteaptă dintr’o lungă letargie.</p>
 <p>Domnia grecească devenise nesimţită ; jaful za-bieţilor lor nu mai avea nici un frâu, şi funcţionarii lor devenise mai jefuitori ca hoţii din pădurea Vlăsiei. Nimic şi nimeni nu mai rămase cruţat : popor, cler, mănăstiri, boeri pământenii toţi ferbeau într’o apă, adică gemeau sub jugul asupririlor Fanarioţilor. A mai suporta un jug aşa de greu. şi aşa de abusiv era peste poate chiar pentru omul cel mai răbdător; de aceia începu să se audă acel murmur, care la început fu cât se poate de surd şi de sfiicios. şi care cu timpul ajunse să fíe cât se poate de distinct, cât se poate de răsunător.</p>
@@ -173,7 +171,7 @@
 <p>Chiar în acea zi Jianu vorbi mumei sale despre propunerea lui Tudor, şi din acea zi junele Vladi-mirescu intră în casa Jienilor dela Drăgăşani ziua şi noaptea ca un logodnic.</p>
 <p>Grecii prinseră iute de veste cum că Românii umblară să se zurlubăiascâ şi se grăbiră d'a lua toate dispoziţiile câte sunt pe larg descrise în Istoria lui Tudor Vladimirescu de D. Aricescu, (Craiova 2 vo-lume); ei prinse iarăşi de veste că şi Iancu Jianu s'a prenumărat între acei ce le purtau sâ sâmbetile şi numaidecât îl scrise şi pe el în condica neagră.</p>
    </div>
-      <div type="chapter" n="5"> 
+      <div type="chapter"> 
 <head>V. Demonul  ispitei.</head>
          <p>Intr’o desfătătoare vâlcea situată cam de un sfert de oră de Drăgăşani, se zărea pe la anul 1813 printr’o alee de salcâmi mirositori şi tei albi, o căsuţă albă ca un crin, în forma tuturor caselor boereşti clădite pe la începutul aceştia secol, adică cu învelitoarea naltă de şindrilă, cu streşini late, cu gârliciu în faţa caselor şi cu pălimaru d’asupra gârliciului. Astă căsuţă prin cocheta ei Înfăţişare, prin admirabila panoramă ce o înconjura şi prin vesela verdeaţă ce’i tapeta împrejmuirile, făcea pe orice trecător să stea în loc şi să nu se mai sature privind-o. Ea era într'o parte scăldată de un limpede râuleţ, în alta umbrită de depărtata siluetă a Carpaţilor şi de dealurile cu vii şi cu păduri seculare în partea despre apus cu îndepărtatele maluri ale Oltului şi în partea despre miazăzi cu o pădure întinsă. Acest azil încântător, era casa de vară a lui Iancu Jianul.</p>
 <p>Tatăl său când murise nu’i recomandase altcevadecât să iubească pe maica sa ca pe sine însuşi şi s’o ţie pe lângă el până ce va muri; îi mai recomandase să iubească şi să susţie pe sora sa Ana până ce se va mărita. Iancu ca fiu supus ascultă toate ordinele părintelui său ; el respecta pe maica sa ca şi pe sfânta icoană la care se închina; şi iubea pe sora sa mai mult decât pe sine. Iată pentruee bătrâna sa mumă prefera să stea mai bine Ia Dră-găşani cu el decât la Caracal cu fratele său Amza.</p>
@@ -226,7 +224,7 @@
 <p>—    Greu, uşor, nu vreau să ştiu; eu vreau fa1 şi mai mult nu.</p>
 <p>Când termină această conversaţiune aşa de fa-tală familiei Jianului, ei se depărtase mult de casa lui Iancu şi erau aproape de bariera Drăgășanilor. Iancu rămăsese tot în balcon câtva timp și apoi intră în casă şi închise uşile şi porţile.</p>
       </div>
-         <div type="chapter" n="6"> 
+         <div type="chapter"> 
             <head>VI.Răpirea</head>
 <p>A doua zi, după scena ce am descris mai sus, curtea lui Jianu era plină de cai şi trăsuri, şi casele de o mulţime de invitaţi de ambele sexe, între care era şi Tudor Vladimirescu. Pe când Ancuţa se preumbla împreună cu amicele sale prin grădină, arătându-le florile ei şi făcându-le buchete frumoase, Jupâneasa Stana, mama sa, adunase în jurul ei pe toate jupânesele, şi luând la dulceţuri şi bând la cafele, vorbeau despre ceea ce de când e lumea, obi-cinuesc a vorbi femeile între ele. In acel timp, bărbaţii se retrăsese în camera lui Iancu şi răsturnaţi pe divane începură să vorbească cam în acest chip:</p>
 <p>—    Aţi auzit frăţioare ce s’a întâmplat la Piteşti mai alaltăeri? zise unul din invitaţi.</p>
@@ -302,7 +300,7 @@
 <p>—    Nu, fiindcă dacă scopul nostru este același, căile şi cărările nu sunt aceleaşi. Perderea Ancuţii pentru mine este o destănuire d-zeiască. Eu am vrut să fiu om ca toţi oamenii cu inimă şi dor ca orice muritor; D-zeu m’a lipsit de scumpul meu odor, chiar în ajunu de a-l dobândi pentru vecie, ca şi cum mi-ar fi zis: scrisa ta Tudore nu e ca a tuturor oamenilor; tu nu trebue să aibi soţie şi copii, tu nu trebue să aibi pe nimeni drag pe lumea albă, tu nu trebue să aibi legături cu omenirea care să te împiedece de a-ţi îndeplini scrisa; o singură drăguţă ţie ursit să aibi tu: Ţara ta; numai pentru ca eşti dator să-ţi jertfeşti viaţa. Mă supun proniei; de azi încolo nu mai mă însor decât cu moartea sau mântuirea ţărei mele de străini. Să ne vedem sănătoşi.</p>
 <p>După aceste cuvinte se despărţiră.</p>
          </div>
-            <div type="chapter" n="7"> 
+            <div type="chapter"> 
 <head>VII. Victima şi calul</head>
 <p>Permiteţi-mi, iubiţi lectori, să lăsăm un moment pe Jianul şi pe Tudor să-şi caute fiecare în modul său răsbunarea ce proectase, iar noi să ne luăm urmele răpitorilor spre a cunoaşte soarta nefericitei Ancuța.</p>
 <p>Sărmana copilă tacă nu se deşteptase din leşin când sateliţi lui Stoica o duse în Drăgăşani într’o căsuţă în care îi aştepta cu aviditate desfrânatul Cârc-Serdar. El cum o văzu sări într’un picior ca un satir, scoase un răget de bucurie întocmai ca o fiară când pune ghiarele pe prada sa; întinse mâinele ca s'o coprindă în braţe: o strânse cu con-vulsiune la sân, însă când impurile lui buze se lipi de virginala sa gură ce semăna întocmai ca o roză smulsă de la vlăstarul ei, un fior ca cel ce produce atingere de fierul roşit trecu prin tot corpul verginei neprihănite, şi o deşteptă pe dată.</p>
@@ -375,7 +373,7 @@
 <p>După aceia bău restul apei şi apoi se culcă. Când bău băgă de seamă că apa avea un gust neobişnuit, însă nu pricepu ce putea fi, şi se întinse în voe şi fără teamă în patul său. După ce stătu câtva timp adân-cită într’o reverie care îi dădu prilej ca să viseze cu ochii deschişi, de o dată simţi că ochii i se îm-păiejenează şi să închid fără voia sa şi că corpul îi cade într’o toropeală neobişnuită; atunci îşi aduse aminte că auzise prin lume de esistenţa unor băuturi ameţitoare care fac să înceteze toate simţirile umane. Această temere se înmulţea cu cât simţea mai mult că puterile o părăseau, şi umplu de groază pe biata fată care se vedea slăbită din minut în minut care putere nu avea ca să scape de primejdie. Fără a fi părăsită de facultăţile intelectuale, a văzut că un val se punea deasupra ochilor că un fior rece începu umbla prin vinele sale scurse de putere apoi prin val văzu pe Stoica că a intrat în cameră cu o lumânare în mână şi a început a se apropia de dânsa; în ast moment suprem, în care văzu tot pericolul ce plana asupra capului, voi să întinză mâna ca să ia cuţitul spre a se sinucide dar braţul nu i se supuse. Desperarea îi mişcă cu convulsiune peptul, însă nu avu putere să resiste nici îmbrăţişările lui, nici sărutărilor sale! In fine numai simţi nimic, cerul avu misericordie şi o lipsi de cunoştinţă...</p>
 <p>Când se deşteptă din astă leturghie teribilă, era ziuă: o rază furişată printre arbori pătrunsese până la patul ei şi o făcu să crează că totul fusese numai un vis; dar vai! nu putu sta mult timp în astă părere, fiindcă erau de faţă întristătoarele probe care o făcu să înţeleagă că sărmana victimă nu era mai mult de cât o fată perdută, o floare ofilită!</p>
 </div>
-<div type="chapter" n="8">
+<div type="chapter">
    <head>VIII. Cei doi fraţi</head>
 <p>Să lăsăm în asţă posiţiune demnă de plâns pe victima lui Cârc-Serdar Stoica pentru a ne întoarce privirea ca să vedem ce făceau răsbunătorii ei.</p>
 <p>Iancu Jianu de a doua zi după plecarea lui Tudcr cunoscu tot golul ce se făcuse în casa sa. In van ochi săi rătăciţi căutau pe vesela şi inocenta su-rioara, care prin copilăreasca ei sburdălnicie înveselea casa, în van privirile sale încercă să afle venerabila înfăţişare a maicii sale, care prin materna ei iubire îi făcea să simţâ cât preţueşte o mumă, nimic nu mai văzu în jurul său, fără numai niște camere mute ca tăcerea și un sclav bătrân gemând pe patul durerii pe care îl aruncase devotamentul său! Acest abandon general, astă tăcere mormântală ce urma după nişte evenimente atât de dureroase, sdruncină într’un mod simţitor sănătatea de fer a lui Iancu şi îl aruncă în prada unor friguri violente, de cari fu turmentat vreo trei patru săptămâni, şi care l’ar fi aruncat chiar în mormânt, dacă n’ar fi fost îngrijit de orbul devotament al lui Alexe, bietul ţigan încă bolnav îşi părăsise patul său îndată ce văzu căzut pe stăpânul său, şi cu toate că nu-i trecuse rana, el nesocoti durerile spre a mântui pe domnul său. Munca sa nu fu zadarnică, juneţea lui Iancu pe de o parte, şi pe de alta ajutoarele ce îi procură credinciosul său servitor, isbu-tiră de a-l pune pe picioare după şease săptămâni de şedere la pat.</p>
@@ -469,7 +467,7 @@
 <p>O slavă de puşti acoperi pe fugari cu un fum gros de silitră, dar nici un glonţ nu’i atinse; acest sgomot împreună cu mirosul erbii, inspiră frică cailor lui Iancu şi’i făcu să dobândească mai multă ardoare. Fugiră cu o iuţeală nebună în decurs de mai multe ore până ce cai strejărilor obosiră de tot şi stătură în loc, pe când în acelaş timp Jianu şi Alexe fugeau ca vântul şi se perdeau cu totul din vedere a slujitorilor. După o alergare de încă o oră, fugarii ne mai având teamă că ar fi urmăriţi, se repausară puţin şi iar se puseră pe drum însă mult mai domol, şi nu se opriră până ce nu ajunseră la Drăgăşani unde cumpărară în pripă mai multe provizii şi plecară înainte.</p>
 <p>— Bine ar fi stăpâne să mergem la via cu Foişoru, zise Alexe, fiindcă blestemaţii nu se vor mulţumi numai cu această goană, ci ne vor căuta şi p'aici şi d’or pune mâna pe noi, nu este cruţare.</p>
             </div>
-<div type="chapter" n="9">           
+<div type="chapter">           
    <head>IX.Viia cu foişorul.</head>
 <p>\</p>
 <p>Viia cu foişorul era pe vârful unui deal între mai multe alte vii; ea era înconjurată de o pădurice de arbori roditori, între care era şi un nuc gigantic, care prin înălţimea sa extraordinară domina toate lucrurile dimprejur. In stufoasele lui ramuri ingeniosul Alexe făcuse un fel de pod lat ca un pat pe care foile cele late îl ascundea atât de bine în cât chiar ziua ochiul cel mai ager nu l’ar fi putut descoperi. Acest pod aerian din care se vedea toate împrejurimile, fusese numit de către Alexe şi stăpânul său Foișorul.</p>
@@ -514,7 +512,7 @@
 <p>—    Dacă e aşa, aşa sa fie, aide pe Ia Târgu Jiului; şi apucară spre soare apune pe sub poalele munţilor şi peste muscele pe drumul ce duce spre Bistriţa şi Polovraci.</p>
 <p>Peste o oră dela plecarea lui Jianu, se întoarse căpitanul Duţă urmat de o sută din ai lui, dar nu găsi nimic alt de cât cadavrele camarazilor lui.</p>
 </div>
-<div type="chapter" n="10">             
+<div type="chapter">             
 <head>X. Sfatul conspiratorilor</head>
 <p>Pe când căpitan Duţă şi poteraşi săi întorceau toate cu josul în sus prin via Jianului şi răscoleau pământul şi desrădăcinau butaşii din vie, doar să dea de tainiţile Jianului, amărâtul june alerga spre soare apune urmat de credinciosul său rob în goana şoimuleanilor lor, care sburau ca vântul peste dealuri şi văi, peste câmpii şi prin codri, nesocotind greutatea drumului, repeziciunea coastelor, adâncimea gârlelor sau furioasa iuţime a torentelor.</p>
 <p>Pe când mergea astfel fără contenire şi fără să se gândească la trudirea trupului său, ori la bătrâneţea ţiganului ce îl urma, sau la oboseala celor doi cai ce îi purtau, iată că vremea se strică, tunetul începu să bubue, fulgerul umplu aerul cu nenumărate săgeţi electrice, cerul se întunecă, şi peste toate astea mai sosi şi noaptea, neagră şi cobitoare; el însă nesocotind întunericul care din ce în ce se îndesea, singurătatea locurilor, drumul cel rău care la fie ce pas era presărat de obstacole şi pr[pastii ucigătoare, înfruntând turburarea elementelor care din ce în ce se înfuriau, bubuitul tunetului ce cle-tena pământul, licărirea neîntreruptă a fulgerilor ce îi orbea ochii, vântul ce începuse să sufle cu atâta putere în cât paltinii se îndoiau şi fragii se rupeau, producând nişte trăsnete sinistre; el zic pe când natura întreagă şi groasnicile elemente se luptau între ele cu o furie cruntă, fugea ca un nebun, urmat într'una de fidelul Alexe care gâfăia de osteneală dar nu se îndură să rămâe în urmă, fugea fără să se gândească că la fie ce pas putea să-şi frângă gâtul dacă s’ar fi isbit de vre un obstacol nevăzut, sbura ca nălucă fără să se teme că la fie-ce pas putea să cadă în vreo prăpastie fără fund!</p>
@@ -590,7 +588,7 @@
 <p>—    Incepeţi dar; mai întâi d-ta Tudore.</p>
 <p>Tudor Vladimirescu se sculă în picioare lin şi aşezat, si cu o voce mai întâi domoală şi apoi din ce în ce mai tare, vorbi în chipul următor:</p>
 </div>
-<div type="chapter" n="11"> 
+<div type="chapter"> 
 <head>XI. Fă-te cu dracul frate</head>
 <p>—    Fraţilor, strigă Tudor cu o voce răsunătoare; domnia Grecilor a ajuns să fíe nesuferită de toată suflarea româneassă, căci asupririle şi apăsarea lor a trecut peste orice hotar. Cuţitul a ajuns la os și răbdarea la margine ; nu mai e de suferit. Un ţipăt de desnădejdie sfâşie văzduhul dela Cemeţi până la odăile Brăilei şi dela capul lui Crai până la cetatea Turnului.</p>
 <p>«Trebue să dăm ascultare acelor ţipete căci sunt ale fraţilor noştri. Nu mai e dreptate, nu mai e lege, nu mai e ocrotire, căci pe toate ni le-au hrăpit ciocoii venetici, Grecii şi slugile lor. Să ne deschi-dem urechile ca să auzim plângerile sărmanilor prigoniţi de lăcomia ciocoilor cari i-au izgonit din co-prinsul avutului părintesc; să ascultăm vaetele văduvelor sărăcite de strâmbătatea ciocoilor; bocetele bătrânilor gârboviţi sub apărătoarele sarcine ce le-au aruncat ciocoii pe grumaji şi ţipetele copiilor des-moşteniţi de avutul părintesc. Moșiile moşnenilor s’au dus din mâinile lor ca să lățească moşiile cio-coilor, avutul târgoveţilor şi al boierilor se scurge numai ca să îmbogăţeescă pe ciocoi. Nici viaţa noastră şi a celor iubiţi de noi nu mai e cruţată! Mamele ne sunt ne-cinstite, surorile hrăpite, fiicile nenorocite numai şi numai de Greci, adică de ciocoi şi de uneltele lor. Părinţii ne sunt luaţi la pod-vezi, fraţii la beilic, copii la cisle unele mai ne drepte ca altele. Strâmbătatea ne prigoneşte cu amarnicie, jaful şi hoţia pe faţă în numele legei ne copleşeşte piepturile, şi când nu mai poţi, când îndrăsneşti să te plângi de ciocoi, atunci în loc de dreptate capeţi bătae, schingiueli, chiar moarte. O asemenea stare de lucruri nu mai poate să dăinuiască. Nu.</p>
@@ -699,7 +697,7 @@
 <p>—    Eu zic să primeşti, că nu pierzi nimic şi poţi să înveţi ceva, răspunse Tudor cu incredinţare.</p>
 <p>—    Aide; fie, faceţi-mă şi zapciu, răspunse Iancu râzând.</p>
 </div>
-<div type="chapter" n="12">         
+<div type="chapter">         
 <head>XII. Jianul Zapciu.</head>
 <p>Cinci zile după întrunirea ce avu loc în vecinătatea schitului Lainici, Iancu Jianu primi prin curier într’adins trimis, la locuinţa lui Vasile Moangă, pof-tire din partea marelui Banu al Craidvei Dumitraşcu Bibescu, d’a se înfăţişa la reşedinţa sa bănească ca şă-şi primească pitacul de numire în funcţia de zapciu al pl[şii Bălţi de jos, din judeţul Romanaţi, şi peste alte opt zile, fu instalat în exerciţiul func-ţiunei sale şi heretisit după cuvinţă de însuşi isprav-nicul care trimisese potera să-i facă goană pentru că ucisese un arnăut.</p>
 <p>Vasile Mongă se ţinuse cu prisos de cuvânt; marele ban Dumitraşcu Bibescu făcuse lui Iancu o primire foarte simpatică și se purtase cu dânsul cu o ama-bilitate particulară; nu se dăduse nici măcar in po-meneală istoria cu arnăutul, ci-i vorbise numai de părinţii şi de fraţii lui care se bucurau în judeţ de o reputaţie excelentă; îi anunţă cu bună voinţă serviciile ce-i făcuse atunci când îl slujise, şi-i pomeni cu multă insistenţă despre speranţele ce punea Domnia în zelul, curagiul însuşirile sale de dibaci vânător pentru a stârpi cetele de hoţi ce infectau mai toate pădurile, mai cu seamă cete de peste Olt. Iancu, după sfatul Iui Moangă, urlă ca lupii mai amarnic ca dânşii, şi promise marelui Ban câte în lună şi soare.</p>
@@ -718,7 +716,7 @@
 <p>Văzând că nu mai era timp de a se ocupa de căutările şi răzbunarea sa, Iancu se puse cu ardoare a urma înainte noua sa ocupaţie; care era pe atât de amuzantă pe cât era de bănoasă, şi ca să’şi facă mână bună pe lângă ispravnic, dete în mânele poteraşilor doi trei hoţi şi potlogari care nu făcea parte din ceata ţigănuşilor lui, ci jefuia şi ei cum puteau în socoteala lor propripe, şi descoperi mai din vreme, adică mai înainte o’a fi aduse la îndeplinire câteva călcări importante dar încă neexecutate.</p>
 <p>E timpul acum să ridicăm valul şi să aflăm din ce mijloc descoperea el lucrurile furate şi planurile urzite şi neexecutate, precum şi talismanul care ferea pe ţiganii săi de nu da piept niciodată cu potera, iată cum sta toată şiretenia. Iancu de un cârd de vreme, de când a eşit la iveală acea ceată îndrăzneaţă care a băgat fiorul morţii în toate liftele streine, îşi părăsise mai de tot tactul şi mereu bătea drumurile în goana hoților. Aceste strapețe nu le făcea el de cât numai călare şi însoţit numai de un singur om de Alexe pe care îl făcuse şi ceauş de vătăşei. Toată ziua era pe drum, toată ziua inspecta satele şi drumurile mari; cât ţinea ziua de mare lumea îl vedea alergând de colo până colo până în amurgit şi când însera îl vedea oprindu-se în câte un sat, unde cerea găzduială la câte un ţăran, a cârui casă se întâmpla mai totdeauna să fie în marginea satului, şi după ce mânca ceva, se desbrăca frumos, se culca numai decât, adormea, şi a doua zi descoperea fără greş lucrurile ce se furau într’acea noapte. Acestea se vedea de toată lumea, încât putea mărturisi oricine cu mâna pe cruce, că coconul zapciu s’a culcat seara, s’a sculat dimineaţa şi n’a lipsit d’acolo nici o clipeală. Secretul artei sale d’a descoperi lucrurile furate de alţii, o să’l aflăm în capitolul următor.</p>
 </div>
-<div type="chapter" n="13">
+<div type="chapter">
 <head>XIII. Egumenul Monastirei Caltiul</head>
 <p>In judeţul Romanaţi se află un schit anume Câlîiiu care mai înainte de secularisare fusesese monastire însemnată închinată bisericii Sf. Mormânt din Ierusalim, şi avea sub sine ca metoc schitul Ţânţărenii din judeţul Doljiu, şi stăpânea mai multe moşii, vii și hanuri dăruite de cititori şi diferiţi alţi pioşi donatori. Această monastire nu era chinovie, cum nu era mai nici una din monastirile închinate locurilor de jos, ci era locuită numai de egumenul sau vechiul trimis de Monastirea Sf, Mormânt spre a îngriji de avutul monastirei, care era un Grec care nu ştia din limba românească alt de cât cum să înjure surugieşte pe argaţi şi pe ţărani. Acest vechil avea pe lângă el un diacon poslujnic, doi preoţi şi un dascăl, toți Greci ca el, precum și vreo câte-va sălașe de argați țigani care locuiau în curtea din jurul curții mânăstirei.</p>
 <p>Acest egumen Grec, îşi făcuse reputaţiunea de omul cel mai bogat, cel mai cumplit şi cel mai aspru cu bieții țărani. El nu știa ce e mila, sau în-durarea, ori îngăduiala; el știa numai să ceară, şi când n-o putea să capete de la datornic atât cât cerea, îi ridica din casă tot ce găsea, până şi tipa-rul mămăligii, până și țolul de învelit, până și codrul din mâinile copiilor flămânzi, și când nu se îndestula nici cu atât, așternea pe vinovat dinaintea casei egumenești, poruncea argaților să’l bată la falangă până când va țâșni sângele din picioare ca dintr’un șipot, și pe urmă aruncă pe pacient la gros adică în beciul umed de sub scară, și îl ținea acolo până ce muierea vindea munca sa și a copiilor săi pe mai multe luni la arendașul vecin care era tot Grec, și aduceau banii până la o para.</p>
@@ -757,32 +755,6 @@
 <p>Când se deşteptă hangiul în zori de ziuă, găsi pe coconul zapciu dormind dus în privdorul lui, pe Alexe ghemuit în fân lângă caii săi şi pe cai mâncând grăunţe. Nici usturoi nu mâncase nici gura nu le mirosea.</p>
 </div>
 </body>
-     <back>
-        <p>TABLA DE MATERII</p>
-        <p>p»g.</p>
-        <p>Prefaţa</p>
-        <p>I.    Familia lui lancu Jianu  .</p>
-        <p>II.    Judecăţile in secolul trecut.</p>
-        <p>III.    Juneţea lui Jancu Jianu    . </p>
-        <p>IV.    Deşti^tareă leului    .    .    .    . </p>
-        <p>V.    Demonul ispitei .    .    .    .    . </p>
-        <p>VI.    Răpirea.        .    .    .    . </p>
-        <p>VII.    Victima şi călăul VÎII, Cei doi fraţi .</p>
-        <p>DC. Via şi foişoru .</p>
-        <p>X.    Sfatul conspirat</p>
-        <p>XI,    Fă-te cu dracul iglUlIJaiiiţ Zapci XIR. Egumenul măn</p>
-        <p>3</p>
-        <p>7</p>
-        <p>13</p>
-        <p>21</p>
-        <p>25</p>
-        <p>31</p>
-        <p>39</p>
-        <p>51</p>
-        <p>63</p>
-        <p>73</p>
-        <p>78</p>
-     </back>
+     
   </text>
 </TEI>
-

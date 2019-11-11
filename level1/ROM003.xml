@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM003"
-  xml:lang="ro">
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM003" xml:lang="ro">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -17,40 +18,36 @@
     <measure unit="words">21505</measure>
     <measure unit="pages">128</measure>
    </extent>
-   <publicationStmt>
-    <p>Încorporat în ELTeC<date>2018-l0-20</date>
-    </p>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="firstEdition">
+   <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-11"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Încorporat în ELTeC2018-l0-20
+    --></publicationStmt>
+   <sourceDesc><bibl type="firstEdition">
      <author>Simion Bălănescu</author>
      <title>Sfârșitul blestemului. Poveste născocită de Simeon Bălănescu</title>
      <pubPlace>Bucharest</pubPlace>
      <publisher>Tipografia Gutenberg, Joseph Gobl</publisher>
      <date>1895</date>
       <ref target="http://doi.org/10.5281/zenodo.2648431">Facsimile on zenodo</ref>
-              </bibl>
-   </sourceDesc>
+              </bibl></sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
-   <p></p>
+   <p/>
   </encodingDesc>
   <profileDesc>
    <langUsage>
-    <language ident="ro"></language>
+    <language ident="ro"/>
    </langUsage>
    <textDesc>
-    <e:authorGender key="M"></e:authorGender>
-    <e:size key="short"></e:size>
-    <e:canonicity key="low"></e:canonicity>
-    <e:timeSlot key="T3"></e:timeSlot>
+    <e:authorGender key="M"/>
+    <e:size key="short"/>
+    <e:canonicity key="low"/>
+    <e:timeSlot key="T3"/>
    </textDesc>
   </profileDesc>
-  <revisionDesc>
+  <revisionDesc><change when="2019-11-11">Checked by releaseChecker script</change>
    <change when="2018-09-28">Initial TEI version generated.</change>
   </revisionDesc>
  </teiHeader>
- <text  xml:lang="ro">
+ <text xml:lang="ro">
   <front>
    <div type="titlepage">
     <p>Sfârșitul</p>
@@ -78,7 +75,7 @@
   </front>
 <body>
  <head>SFÂRȘITUL BLESTEMULUI</head>
- <div>
+ <div type="chapter">
 <p>De la pornirea mea din pădure, unde lăsasem pe moș Sandu și Florea în prada focului, fără a le putea da pic de ajutor, am tăiat drumul spre a ajunge mai repede la Bucuresci, pentru a ’mi răfui socotelile.</p>
 <p>Înfătișindu-mă Vistierului, spre a-i da socoteală de chipul cum am adunat banii stăpânirei, acesta pe dată dete poruncă logofeților cari se găseau de față ca să cerceteze pecețiile și să numere pungile cu banii ce împlinisem din dăjdiile plătite de talpa țerei.</p>
 <p>Se făcu catagrafia cerută de pravilă și se găsi toate pungile neclintite și cu tot șartul lor.</p>
@@ -306,7 +303,7 @@
 <p>Ciobănașul Gavrilă, văzându-și oițele amenințate să cadă în primejdie și voind să le adune lângă dânsul, începu să le cânte din fluer, căci avea mare dar la cântare, așa că la auzul ghersului sau ai fluerulul, veneau la dânsul orl-de unde s’ar fi aflat</p>
 <p>Văzând că toată truda lui era zadarnică, se repedi în pădure, ca un lefi, să le adune; însă în deșert îi fu truda. De ce se apropiea, ele mai râd se virau în foc; îți erea mai mare jalea să vezi o așa priveliște, cum bietele oițe, coprinse de flăcări, behăiau cât le lua gura.</p>
 <p>Eu nu mă puteam urni din loc ca să-l dafi mână de ajutor, de teamă ca nu cum-va vacile mele, cari se adâpafi la isvorul din luncă, să ia nălucă și să sară în foc.</p>
-<p>Nu trecu vreme ca de când începui a povesti, și iacă că zăresc pe ciobănaș scăpat din foc.> Se înegrise de fum și -se lupta ducând în cârcă o făptură de om. Fugea sărmanul, cât ’l țineați picioarele, spre casă, ca un nebun, așa că nu putut grăi nimic cu dânsul, din pricină că era departe și se buimăcise de spaimă și de fumul focului.</p>
+<p>Nu trecu vreme ca de când începui a povesti, și iacă că zăresc pe ciobănaș scăpat din foc.&gt; Se înegrise de fum și -se lupta ducând în cârcă o făptură de om. Fugea sărmanul, cât ’l țineați picioarele, spre casă, ca un nebun, așa că nu putut grăi nimic cu dânsul, din pricină că era departe și se buimăcise de spaimă și de fumul focului.</p>
 <p>De atunci nu l’am mai zărit neam ;cică, după cum se svonește, ar fi ajuns-bine și ar fi trăind în belșug, prin țări ș; străine, nu ca mine, amârît și bătut de stele. După toată caliciea, când era să î capăt sarică și opinci pentru vremea cât am văcărit, acum o să trebuiască să mai slujesc de aci înainte cel puțin încă  un an de zile ca să mă plătesc de Miercan și Sâmbotin.</p>
 <p> Acum văd și eu că se adeveresc vorbele lui alde moș popa, că Dumnezeu nu ajută pe cel ce caută să hrăpească sudoarea altora, cum a făcut mai deunăzi Pârcălabul satului nostru, care, după ce a calicit pe o groază de oameni, cu născocite biruri pentru plata haraciulul către Turchia, și după ce le vândă țoalele și tot ce bruma mai aveau ca să adune bani, apoi se lăcomi și la bogățiele jupânesei Arghira. Cu martori mincicinoși, înfățișați la Zapciu, Pârcălâbul se făcu bun stăpân pe Miercan și Sâmbotin.</p>
 <p>Dumnezeu însă, în marea lui bunătate,, nu îndură acest păcat și dete la iveală toate faptele lui rele. între altele se dovedi că Pârcălabul mâncase banii stăpânirei, pentru care faptă stă închis și azi. Pentru despăgubirea stăpânirel de banii furați de Pârcălab, Ocârmuirea i-a luat tot avutul. Mâine trebuia să duc pe Miercan și Sâmbotin la târg ca să vânză cu barabana tot pentru datorie către stăpânire.</p>
@@ -335,7 +332,7 @@
 <p>— Nu, taică părinte, îl răspunsei eu. N’am venit aci cu vreun vicleșug, nici să te fac sâ cazl iarăși în vre-un păcat. Ași voi sâ aflu, de-ți este în cădere, dacă jupăneasa Sortea, care ți-a fost și fiică de spovedanie, mai are verî-un neam și de unde se trage obârșia ei.</p>
 <p>Gândindu-se o țîră, ’mi răspunse că, după câte ’i s’ah tăinuit, neamul ei s'ar fi trăgând din Târgu-Jiulul.</p>
   <p>Toată truda mea, spre a face pe preot sâ-mi dea ceva lămuriri în privința jupânesei Sorica, fu zadarnică? de oare-ce moș-popa, pironind ochii în grinda tavanului, nu mai zicea decât:<quote> „Iartă mi Doamne păcatele și nu mă mai chinui”</quote>.</p>
-<p></p>
+<p/>
 <p>Părăsind chilia sărmanului preot, luai calea spre Târgu-Jiului. Tot drumul nu'mi putui lua gândul de la preot Se vede că Dumnezeu îl pedepsea așa de aspru din pricină că nu știuse să păstreze, după cum cere renduiaia canoanelor, -taina spovedaniei. Din vorbele lui înțelesesem că, fiind fraged de gură, des-tâinuise cele ce ’i se spovezise oamenii, -ceea ce a dat prilej stăpânirel să descopere și să pedepsească pe cei cari săvârșise fapte rele.</p>
 <p>După un drum lung și obositor, ajunsei In Tărgu-Jiulul. înainte de a intra in -oraș, plânuil să mă furișez, spre a nu mai da ochii cu Ispravnicul, de teamă să nu mă țină de vorbă și să mă facă ast-fel să pierd vremea zadarnic.</p>
 <p>Trecând streaja, văd că nu mă întreabă nimeni, cum era regula, cine sunt, de unde vin, dacă am bilet de drum, .așa că puteam să mă strecor nesupărat</p>
@@ -510,7 +507,7 @@
 <p>Infățișându-mă îndată înaintea lui Vodă, după ce mă ploconii cu mare sevas, sărutând ui mâna, începui să povestesc una câte una tot ce întâmpinasem în cale, până ce, în cele din urmă, pusei mâna și pe firul blestemului ce urmăream. Cu acest prilej spusei la Vodă că pentru a se face deplină lumină, era trebuință și de socrul lui Gavrilă; îl rugai deci, cunoscându-l nemărginita bunătate, să stăruiască pe lângă ghinărarul Kiseleff, ca acesta să mijlocească pe lângă împăratul muscălesc pentru iertarea socrului lui Gavrilă, care se afla închis din pricină că complotase contra Țarului.</p>
 <p>Numai astfel se putea lămuri marea taină a blestemului.</p>
 <p>După ce-mi mulțumi pentru chipul cum îmi îndeplinisem însărcinarea, Vodă, care era bun prieten cu ghinărarul Kiseleff, nu perdu vremea și se duse în persoană spre a-l ruga să stărue pentru liberarea socrului lui Gavrilă. Generalul,</p>
-<p>> măgulit că putea îndatora pe Vodă? făgădui că va face tot chipul să-i îndeplinească cererea, mai ales că avea prilejui să se ducă la Petersburg pentru oarecari schimbări de făcut în Regulamentul Organic.</p>
+<p>&gt; măgulit că putea îndatora pe Vodă? făgădui că va face tot chipul să-i îndeplinească cererea, mai ales că avea prilejui să se ducă la Petersburg pentru oarecari schimbări de făcut în Regulamentul Organic.</p>
 <p>Trecu la mijloc vreo două luni, când într’o bună dimineață mă trezesc cu Gavrilă acasă la mine. Venise, după cum ne înțelesesem la Beci, ca împreună să mijlocim iertarea socru-său.</p>
 <p>Pe când mă duceam la Curte, spre a înfățișa pe Gavrilă Iui Vodă, iată că vine și ghinărarii! Kisileff, întors de curend din Rusia.</p>
 <p>Vodă, îndată ce fu vestit că am venit sări înfățișez pe Gavrilă? ne primi numai de cât. Cum ne văzu, o nedescrisă veselie se zugrăvi pe fața lui. Acum era încredințat pe deplin că nu va întârzia dovedirea tainei ce acoperea blestemul. Înainte de a începe povestirea, Vodă dete poruncă să vestească pe Doamna și pe Domnița spre a fi față la cele ce urmau să se destăinuiască.</p>

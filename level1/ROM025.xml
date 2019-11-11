@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" 
-   xml:id="ROM025" xml:lang="ro">
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM025" xml:lang="ro">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -20,36 +22,32 @@
             <measure unit="words">150879</measure>
             <measure unit="pages">435</measure>
          </extent>
-         <publicationStmt>
-            <p>Încorporat în ELTeC<date>2019-l0-0l</date>
-            </p>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="printSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-11"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Încorporat în ELTeC2019-l0-0l
+            --></publicationStmt>
+         <sourceDesc><bibl type="printSource">
                <author>Ioan M. Bujoreanu</author>
                <title>Mistere din București</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>„Editura Minerva”</publisher>
                <date>1984 (1862)</date>
                <ref target="http://doi.org/10.5281/zenodo.3228835">Facsimile on zenodo</ref>
-                           </bibl>
-         </sourceDesc>
+                           </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
-         <p></p>
+         <p/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
-            <language ident="ro"></language>
+            <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender key="M"></e:authorGender>
-            <e:size key="long"></e:size>
-            <e:canonicity key="low"></e:canonicity>
-            <e:timeSlot key="T2"></e:timeSlot>
+            <e:authorGender key="M"/>
+            <e:size key="long"/>
+            <e:canonicity key="low"/>
+            <e:timeSlot key="T2"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2019-11-11">Checked by releaseChecker script</change>
          <change when="2019-09-16">Initial TEI version generated.</change>
       </revisionDesc>
    </teiHeader>
@@ -58,7 +56,7 @@
          <div type="titlepage">
             <p>Ioan M. Bujoreanu</p>
             
-            <milestone unit="header" rend="circle"/>
+            
             <p>Ediție îngrijită, note, glosar și bibliografie de MARIAN BARBU, Prefață de ȘTEFAN CAZIMIR</p>
             <p>„Editura Minerva”</p>
          </div>
@@ -165,7 +163,7 @@
 <p>— litera chirilică i, a fost interpretată cînd 
 <hi>ă (după, grădină, multă, plantă, sărmanul, tată, vătăma),</hi> cînd 
 <hi>î (cîrciumar, cîş-tig, cîteva, mîndruţă, mînui, săvîrşise).</hi> Rareori şi ca 
-<hi>uă</hi>—doi> /două, noj nouă.</p>
+<hi>uă</hi>—doi&gt; /două, noj nouă.</p>
 <p>— 
 <hi>d</hi> din alfabetul latin a fost redat fie ca 
 <hi>ă (bâtînd</hi> ' 
@@ -323,13 +321,13 @@
             </div></div>
 </front>
       <body>
-               <div type="titlePage">
+               <div type="unrecognized">
                   <p>MISTERE DIN BUCUREȘTI</p>
                </div>
                   <gap unit="page" extent="1"/>
-               <div>
+               <div type="group">
                   <head>VOLUMUL I</head>
-               <div type="chapter" n="1">  
+               <div type="chapter">  
 <head>CAPITUL I</head>
 <head>FRAŢII LUNGENI</head>
 <head>GRĂDINA KISELEFF. PĂDUREA BĂNESII.</head>
@@ -422,8 +420,8 @@
 <p>— Cea mai tînără dintre ele, căreia îi zicea odată Nodreanca, s-a călugărit, nu de bună voie, ci silită de oarecari împrejurări foarte curioase. Cea bătrînă, ce-i zicea Bruneasca, s-a călugărit tot din împrejurări nu mai puţin curioase decît ale celei dintîi. Vieţuirea amînduror formează cîte o istorie completă, demnă de cunoscut ; nu ştiu însă dacă eşti dispus să mă asculţi.</p>
 <p>— Totdauna te-am ascultat cu plăcere, fratele meu. Şi mai întîi, cele ce-mi spui nu sunt lecţii pentru mine ?</p>
 <p>— Ei bine, Matei, de vreme ce este aşa, şi fiindcă vom sta aici cel puţin două ore încă, căci nimic nu ne sileşte ca să plecăm, te voi întreţine despre călugăriţa cea mai tînără. Dar mai întîi îţi voi face descrierea unei petreceri de loto într-o seară de iarnă în casa Nodrea-nului, bărbatul acestei călugăriţe, căci din acea seară îşi şi ia începutul istoria ei.</p>
-                  </div></div>
-                  <div type="chapter" n="2">
+                  </div>
+                  <div type="chapter">
 <head>CAPITUL II</head>
 <head>O ADUNARE DE MAHALA</head>
 <p>Sunt mai mulţi ani de cînd s-a introdus în adunările noastre de iarnă jocul lotoului, care este aşa de inocent cît şi oarecum amuzant, şi mai cu seamă pentru acele familii puţin avute, carii îşi petrec nopţile fără ca să le coste nimic. Pe orice uliţă şi în orice societate şi-ar îndrepta cineva paşii în nopţile de iarnă, ar fi sigur că va întîlni o mulţime de dame, domnişoare, bărbaţi tineri şi bătrîni, împrejurul a două sau trei mese de loto, silin-du-se, care de care, cînd îi ajunge rîndul, să surnumească cifrele după bilele ce scoate din săculeţ cu epitete mai mult sau mai puţin spirituale, - şi se întîmplă foarte adesea ca să se strecoare în surnumireâ cifrelor trivialităţi, răutăţi, critici şi vorbe picante, conform educaţiei personalului ce compune societatea.</p>
@@ -463,7 +461,7 @@
 <p>— Nu te ofensa, cucoana mea, îi zise doamna Bruneasca pe cînd sărmanul Mirinescu se ghemuise după dragonul său. Trebuie să aibi această vîrstă ; nu-ţi aduci aminte că dumneata erai logodită cînd eu mă jucam încă cu păpuşile ?</p>
 <p>— Nu eram nici o logodită, îi răspunse doamna Bîlcioaia cu dispreţ. Şi dumneata te-ai jucat totdauna cu păpuşoi, iar nu cu păpuşi.</p>
 <p>— Atunci nu ştii ce vorbeşti, cucoană Bîlcioaio, reluă doamna Bruneasca, care începuse şi ea să se înfu-</p>
-<p>rieze. Prea vrei să te faci mititică ; mai întîi întreabă şi pe domnişoara Zinca Bărzoaia, care era şi dumneiei împreună cu noi. ' ></p>
+<p>rieze. Prea vrei să te faci mititică ; mai întîi întreabă şi pe domnişoara Zinca Bărzoaia, care era şi dumneiei împreună cu noi. ' &gt;</p>
 <p>Auzind bătrîna Bărzoaie că pe fata ei o amestecă în vîrsta doamnelor Bîlcioaei şi Bruneaschi ridică capul, se scoală repede după scaun cu o mînie grozavă, şi prin mişcarea ce face, ochelarii îi sar deodată din vîrful nasului.</p>
 <p>— Mă rog, mă rog, ce zici ? strigă ea adresîndu-se către doamna Bruneasca. Nu cumva pe fetele mele le puneţi în rîndul dumneavoastră, cucoanelor, cînd nici cea mai mare n-a împlinit şaptesprezece ani ?... Să faceţi bine ca altă dată să nu mai vorbiţi de fetele mele, c-o să vă pară rău. Luaţi-vă de păr cît poftiţi, dar nu-mi amestecaţi şi fetele în daraverile dumneavoastră. Auzi, auzi, să zică că fetele mele au copilărit cu dumnealor !... Mega şi chirie !... Şi, zicînd acestea, bătrîna Bărzoaie îşi face cruce, se reaşază la locul său şi îşi atîrnă ochelarii de vîrful nasului.</p>
 <p>Atît doamna Bîlcioaia cît şi doamna Bruneasca nu se hotărăsc a răspunde bătrînei Bărzoaie, care căuta cu luminarea pricină de gîlceavă şi anevoie ar fi scos-o la căpătîi cu dînsa.</p>
@@ -684,7 +682,7 @@
 <p>Jocul începe. Domnu Negreanu arată multă nepăsare cînd pierde, indiferenţă mare cînd cîştigă. Doamna No-dreanca se pune asemenea la joc şi resimte o plăcere nespusă cînd vede pe domnu Negreanu că cîştigă. Domnu cu lorneta fugise din adunare, căci nu numai că nu avea bani, dar nu-i mai rămăsese nici ce să ipotecheze pe la uzurari. Din norocire pentru bătrîna Bărzoaie şi pentru fetele sale, ele cîştigă mult, şi pe la douăsprezece ore toată societatea îşi ia noapte bună de la stăpîna casei.</p>
 <p>Un singur om rămîne, în urma tuturor, în casa No-dreanului, şi care nu era nicidecum dispus ca să plece.</p>
                      </div>
-                     <div type="chapter" n="3">
+                     <div type="chapter">
 <head>CAPITUL III</head>
 <head>DOMNU NEGREANU</head>
 <p>Din cele ce văzurăm, domnu Negreanu părea a fi un om prea cumsecade, prea bogat şi cu maniere prin carii se deosebea oarecum de celealte persoane ce frecuentau casa Nodreanului. Cu toate acestea ne înşelăm foarte mult asupra acestui domn, care era cu totul altceva clecit ceea ce părea a fi în lume. Vom face dar o mai întinsă cunoştinţă cu acest domn de care ne vom împiedeca prea adesea, luîndu-i în revistă naşterea, creşterea, vieţuirea Iui, precum vom vedea mai la vale.</p>
@@ -765,7 +763,7 @@
 <p>La aceste cuvinte, birjarul începe a scoate găleţi cu .apă clin puţ şi, după ce adapă caii, le pune căpestrele, cîrmeşte trăsura şi trec la monastire unde găsesc ospitalitate.</p>
 <p>Să lăsăm pe Negreanu şi pe Virginia şi să ne întoarcem în Bucureşti, ca să vedem ce se întîmplă în lipsa lor.</p>
                         </div>
-                        <div type="chapter" n="4">
+                        <div type="chapter">
 <head>CAPITUL IV</head>                            
 <head>CONSECINŢELE ACESTUI FAPT</head>
 <p>Nodreanu, bărbatul Virginiei, era în vîrstă de treizeci şi cinci de ani; era bine făcut, avea o talie potrivită şi o fizionomie uscăţivă, impozantă şi amabilă. El se întoarce de la moşie a doua zi după fuga nevestei sale pe la cinci ore după-miazăzi. Servitorii ieşiră nainte-i, deschiseră uşile şi mare fu mirarea sărmanului om cînd nu găseşte pe Virginia în casă. El se adresă către servitoare :</p>
@@ -901,7 +899,7 @@
 <p>— Sunt numai douăsprezece ore, observă Matei ui-tîndu-se la ceasornic ; mai avem destul timp pînă la ora prînzului.</p>
 <p>— Văz că eşti curios ca şi mine. Ei bine, Matei, ascultă şi împrejurările acelei bătrîne călugăriţe.</p>
                            </div>
-                           <div type="chapter" n="5">
+                           <div type="chapter">
 <head>CAPITUL. V</head>
 <head>NECALCULUL. ORBIREA. DUELUL.</head>
 <p>Se afişase de mai multe zile reprezentaţia cîtorva piese de teatru ce purtau nişte titule promiţătoare că vor fi unele din acelea carii mulţumesc cu osebire publicul. Această reprezentaţie se anunţase pentru o joie seara, în beneficiul unuia din cei mai buni actori români. Biletele se vînduse mai toate, astfel că nu mai rămăsese unul măcar în ziua reprezentaţiei. Dacă însă unii amatori veneau în urmă şi stăruiau a intra în teatru, trebuia să cumpere biletele de la evrei cu un preţ înjpătrit. Începutul spectacolului se fixase la opt ore seara şi curtea teatrului era plină de trăsuri încă de la şapte ore şi jumătate. Zgomotul gendarmilor şi al servitorilor se auzea de departe ; lumea începuse a intra în teatru în cea mai mare confuzie şi îmbulzeală ca cum s-ar fi temut că va pierde şirul vreunui act dacă nu va fi instalată înainte de ora fixată. Damele erau ca niciodată în mare toaletă, căci ele se gătesc totdauna mai bine cînd prevăd că va fi lume multă. Mirosul parfumurilor se răspîndea cu putere în toată sala teatrului. Nu se mai auzea decît fîşii-turile rochiilor de mătase şi disputele oamenilor din parter cu aşezarea pe la locurile lor. In fine, maestrul de capelă dete semnalul lovind cu o baghetă tinicheaua unei lampe. Zgomotul se împuţină şi orchestra începu uvertura. Cortina se rădică după zece minute şi toţi spectatorii îşi aţintez privirile spre decoraţiile scenei. Publicul aştepta să înceapă piesa, cînd directorul teatrului apare pe scenă în frac şi în mînuşi albe anunţînd publicului că, dintr-o întîmplare neprevăzută de boală a unei actriţe, nu se mai poate reprezenta piesa promisă, care ră-mîne a se da cu altă ocazie, dar că se va suplini cu o alta ; el îşi termină discursul declarînd că fiecare este în drept a-şi retrage banii de la casier, şi după ce cere iertare publicului, cortina se lasă. Toţi spectatorii păreau nemulţumiţi de această împrejurare ; unii dintr-înşii au voit să înapoieze biletele, dar casierul plecase şi cu voie, fără voie a trebuit să se mulţumească pe ceea ce se va reprezenta. Aşa se întîmplă mai totdauna cu reprezentaţiile estraordinare ; fie sigur cineva că, de cîte ori biletele sunt vîndute toate, trebuie negreşit să se ivească vreo întîmplare neprevăzută ca să se amîne piesa.</p>
@@ -1067,7 +1065,7 @@
 <p>— După-prînz ne vom pregăti pentru mîine, zice Matei lui Ştefan cînd se aflau la masă. Crez că nimic nu ne mai reţine în Bucureşti.</p>
 <p>— Negreşit, răspunde Ştefan ; şi o dată la moşie, îţi voi spune o istorie prea interesantă a cărei intrigă am urmărit-o în toate amănuntele. Nopţile le vom ocupa în-treţiindu-te de aceasta.</p>
                            </div>
-                  <div type="chapter" n="6">
+                  <div type="chapter">
 <head>CAPITUL VI</head>
 <head>DRUMUL SPRE SATUL CĂTUNU</head>
 <p>A doua zi, prea de dimineaţă, fraţii Lungeni erau pe drumul ce conducea la moşia lor Cătunu, care cădea în depărtare de o poştie şi jumătate de Bucureşti.</p>
@@ -1217,7 +1215,7 @@ tiu mai bine pentru buna venire. Matei le mulţumeşte5 şi Ştefan le zice să 
 <p>— A sosit timpul, Matei, să încep istoria ce mi-am propus a-ţi spune. In toate serile ca acum, te voi întreţine, cîte două şi trei ore, pînă o voi sfîrşi-o ; sper că o vei găsi prea interesantă.</p>
 <p>— Te ascult şi te voi asculta totdauna cu plăcere, fratele meu, zice Matei respirînd curatul aer al serei care diferea mult de al Bucureştilor.</p>
 <p>— Acea istorie, Matei, îşi ia începutul sau mai bine5 naşterea dintr-o seară de bal mascat, cum se întîmplâ: mai totdauna ca el să fie izvorul a tot felul de intrigi. Voi începe dar cu balul mascat.</p> </div>
-                  <div type="chapter" n="7">
+                  <div type="chapter">
 <head>CAPITUL VII</head>
 <head>BALUL MASCAT</head>
 <p>Balul mascat este cea mai plăcută petrecere de iarnă: în Bucureşti pentru oamenii fără griji şi fără nici un fel de ocupaţie. Asemenea fiinţe sunt într-un număr atît de mare, încît au puterea de a atrage după dînsele şi oameni serioşi carii nu vor să fie cu desăvîrşire filosofi căci neapărat s-ar espune a petrece într-o monotonie completă.</p>
@@ -1435,7 +1433,7 @@ tiu mai bine pentru buna venire. Matei le mulţumeşte5 şi Ştefan le zice să 
 <p>— Şi dumitale asemenea, dragă verişoară, mulţumeşte Tincuţa gata să adoarmă.</p>
 <p>După această convorbire se face linişte. Tincuţa adoarme după cîteva minute, iar Maria nu putu să în-chiză ochii toată noaptea ; abia despre ziuă ea căzu subt influinţa somnului căruia nu poate rezista nici o fiinţă, umană ce se bucură de o bună sănătate.</p>
 </div>
-                  <div type="chapter" n="8">
+                  <div type="chapter">
 <head>CAPITUL VIII</head>
 <head>FATA CROITORULUI</head>
 <p>Trei luni trecură de la acea seară de bal mascat; nu se mai zărea nici o umbră a iernei : cîmpiile erau acoperite de verdeaţă şi de flori, arborii erau încărcaţi de frunzele lor, natura era radioasă, căci se găsea în sezonul de primăvară cînd totul este în mişcare, totul îşi redobîndeşte viaţa.</p>
@@ -1646,7 +1644,7 @@ tiu mai bine pentru buna venire. Matei le mulţumeşte5 şi Ştefan le zice să 
 <p>— Vă sărut mîinile, cocoane ; aţi fost şi sunteţi tot-dauna bun pentru mine !</p>
 <p>După aceste semne de dragoste schimbate între aceşti tîlhari, Dăngescu iese din acea cameră şi Bolboacă ia cadaverul pe spinare, îl duce în trăsură şi jpleacă să az-vîrle pe sărmana fată a croitorului.</p>
                   </div>
-                  <div type="chapter" n="9"> 
+                  <div type="chapter"> 
 <head>CAPITUL IX</head>
 <head>AMORUL ŞI CRIMA</head>
 <p>După ce arătarăm împrejurările ivite în acea miercure în casa Dăngescului, să vedem ce se petrecu tot în această zi şi în casa Sălcianului.</p>
@@ -1813,7 +1811,7 @@ tiu mai bine pentru buna venire. Matei le mulţumeşte5 şi Ştefan le zice să 
 <p>— Aşa este, Stoiane, dar îmi este frică... oare tu nu ai auzit că oamenii cei buni sunt nenorociţi pe acest pă-mînt şi că pentru dînşii suntj făcute suferinţele ! ?... Nu vedem în toate zilele pe nevinovaţi că îndură urmările nelegiuirilor altora ! ?</p>
 <p>Iată cum se termină acea'miercure memorabilă.</p>
 </div>
-                  <div type="chapter" n="10">
+                  <div type="chapter">
 <head>CAPITUL X</head>
 <head>A DOUA ZI</head>
 <p>Era zece ore de dimineaţă. Dăngescu se afla lungit pe o sofa şi cu capul apăsat pe amîndouă mîinile. Ochii lui erau roşii şi, dacă l-ar fi privit cineva, s-ar fi convins îndată că el nu dormise toată noaptea ; mintea îi era turburată, fizionomia aprinsă şi buzele uscate : toate acestea probau simptomele unui om bolnav, şi cu toate acestea, el nu avea nici o durere, afară numai de o mustrare de cuget eare-1 muncea neîncetat. Oteva lovituri la uşă îl făcu să se dezmeticească puţin şi să rădice capul.</p>
@@ -2127,7 +2125,7 @@ tiu mai bine pentru buna venire. Matei le mulţumeşte5 şi Ştefan le zice să 
 <p>„Aceasta este a doua bătaie ce mănînc, dar cea dinţii din pădurea Ţigăneşti a fost mult mai rea. Ei bine, cocoane Alexandre, dacă ai aflat ceva despre mine, voi afla şi eu altele despre dumneata. Mi se pare că am şi mirosit ceva, dar acum nu e timpul... Uf ! bine că scăpai !... cînd aş putea ieşi cu faţă curată şi de la afurisitul de tribunal !“</p>
 <p>După ieşirea Dăngescului, Alexandru, care respecta pe tatăl său şi se temea mult de dînsul, hotărî a nu lua nici o parte la împrejurarea omorului, lăsînd providenţei dreptul de a se pronunţa.</p>
 </div>
-                  <div type="chapter" n="11">
+                  <div type="chapter">
 <head>CAPITUL XI</head>
 <head>SENTENŢA TRIBUNALULUI</head>
 <p>Împrejurarea omorului, ca orice crimă, făcuse un zgomot mare în toată capitala Bucureştilor. A doua zi, toată lumea era încunoştiinţată că dinaintea prăvăliei Sălcianului cojocarul se găsise o femeie moartă. Bogaţii credeau că a omorît-o hoţii ca să-i ia o salbă de galbeni de la gît. Femeile presupuneau că fusese omorîtă de fata Sălcianului căci îşi rivalizau amîndouă un acelaşi amant. Pătimaşii stăruiau a lăţi vorba că a fost otrăvită de un doctor pentru că nu voise să-l iubească. Bătrînii aveau convingerea că i-a venit apoclexie pretinzînd că Frusina era prea grasă, şi, ca să dea o mai mare tărie presupunerilor, inventase că părinţii şi rudele fetei o văzuse toată ziua aprinsă şi cu sîngele în cap. Babele constatau că murise de deochi fiindcă fata era prea frumoasă. Toate aceste vorbe circulau în lume, nu se ştia însă adevăratul izvor al omorului, căci adevărul, deşi confuz, nu se împrăştiase încă sau cel puţin fusese deocamdată bine ascuns.</p>
@@ -2400,7 +2398,7 @@ tiu mai bine pentru buna venire. Matei le mulţumeşte5 şi Ştefan le zice să 
 <p>— Afară, afară, duceţi-1 mai curînd la temniţă, strigă domnu Găman, care era obicinuit cu blestemele oamenilor ce acuza pe nedrept.</p>
 <p>Doi soldaţi vin în ajutor ca să dea fără pe turburători. Pretoriul se deşartă îndată. Pumnul lui Stoian fu trecut cu vederea, iar nenorocitul Sălcianu fu condus la temniţă.</p>
                   </div>
-                  <div type="chapter" n="12"> 
+                  <div type="chapter"> 
 <head>CAPITUL XII</head>
 <head>MlHNIRE DE FAMILIE</head>
 <p>Stoian urmase pe Sălcianu de departe trist şi cu capul plecat. El intrase în camera îngrijitoriei temniţei unde văzu cu mîhnire puind lanţuri de picioare nenorocitului său stăpîn. Sălcianu era aproape să-şi piarză raţiunea văzîndu-se deodată maltratat ca pe criminalii cei mai de rînd.</p>
@@ -2549,14 +2547,14 @@ tiu mai bine pentru buna venire. Matei le mulţumeşte5 şi Ştefan le zice să 
 <p>După această întreţinere, care se sfîrşi aciy Dăngescu 'îşi aprinse ciubucul, iar Bolboacă se coborî în camera sa unde începu a se gîndi profund asupra modului celui mai nemerit prin care să reuşască a face descoperirea proiectată.</p>
 <p>Pendula suna patru ore cînd domnu Lofoadă care, după ce vizitase pe o franceză, veni, după promisia dată, să prînzească cu Dăngescu şi să-i comunice rezultatul judecăţei.</p>
 <p>Finele volumului I</p>
-                  </div>
-                  <div type="volume" n="2">
+                  </div></div>
+                  <div type="group">
 <head>VOLUMUL II</head>
                   <gap unit="page" extent="1"/>
-                  <div type="chapter" n="1">   
-                     <div>
-<head>CAPITUL I</head>
-<head>VIZITAŢIA NOPTURNA</head>
+                  <div type="chapter">   
+                     
+<p><label>CAPITUL I</label></p>
+<p><label>VIZITAŢIA NOPTURNA</label></p>
 <p>Dăngescu şi domnu Lobadă judecătorul aştept pe Alexandru pînă la cinci ore dup-amiază ca să prînzeas-că împreună, dar aşteptarea lor a fost vană, căci Alexandru rămăsesedîngă amanta sa pînă la cinci ore şi jumătate. Pe la şase ore, el pleacă de la Maria promiţin-du-i că se va întoarce înserat ca să-i aducă nuvele despre tatăl ei. Maria, Elisaveta şi Tincuţa îi mulţumesc pentru această binefacere şi Alexandru se duce la temniţă, unde ajungînd fu introdus în camera îngrijitorului.</p>
 <p>Acest foncţionar, care cunoştea pe Alexandru şi pe familia lui, se scoală îndată ce-1 vede şi şade în picioare pînă cînd Alexandru îl roagă cu stăruinţă ca să ocupe un scaun.</p>
 <p>— Domnule îngrijitor, doresc să văz pe Sălcianu, zise tînărul Dăngescu.</p>
@@ -2569,7 +2567,7 @@ tiu mai bine pentru buna venire. Matei le mulţumeşte5 şi Ştefan le zice să 
 <p>— Iţi mulţumesc, domnule Dăngescu; nu voi să şez. căci aceste lanţuri mă ţin în sus, cu toate că ar fi trebuit să se lege de gîtul unui om mult mai mare decît mine.</p>
 <p>Alexandru pătrunse tot înţelesul acestor cuvinte, carii se aplicau d-a-dreptul tatălui său, dar el nu se supără, din contra, îi vorbi cu aceeaşi blîndeţe.</p>
 <p>— Ai toată dreptatea, domnule Sălciene, şi te plîng din suflet. Cu toate acestea vei scăpa peste cincisprezece zile ; eu; mă însărcinez cu aceasta, şi fii sigur că în cu-rînd după scăparea dumitale vei avea o fericire la carea nu te aştepţi.</p>
-<p>—> Nu se vorbeşte de fericiri viitoare unui om nenorocit, domnule Alexandre, mai cu seamă mie care port lanţurile de picioare şi care trăiesc în mijlocul omorîto-rilor. Această ruşine mă va băga în pămînt şi prea cu-rînd încă. Este lucrul cel mai dureros pentru un om cinstit de a se vedea pătat de lanţurile temniţei.</p>
+<p>—&gt; Nu se vorbeşte de fericiri viitoare unui om nenorocit, domnule Alexandre, mai cu seamă mie care port lanţurile de picioare şi care trăiesc în mijlocul omorîto-rilor. Această ruşine mă va băga în pămînt şi prea cu-rînd încă. Este lucrul cel mai dureros pentru un om cinstit de a se vedea pătat de lanţurile temniţei.</p>
 <p>Sălcianu revinea neîncetat la lanţuri şi Alexandru hotărî să-l scape de dînsele. In această intenţie el se adresă îngrijitorului care era faţă :</p>
 <p>— Domnule îngrijitor, îi zise el ; cine te-a autorizat să pui lanţuri de picioare domnului Sălcianu ?</p>
 <p>— Să vă desluşesc, cocoane Alexandre, răspunse îngrijitorul cu respect. Suntem impuşi de lege ca să punem fiare la toţi cîţi se trimit aici în pricini de omor. Pe lîngă aceasta, avem ordine esprese de la autorităţile judiciare ca să puie fiare la toţi carii se înaintez la temniţă ; numai cei ce se trimit la casa de popreală sunt scutiţi de această povară. Şi în cîrtia cu care se înaintează domnu Sălcianu se află scris cuvîntul „temniţă“.</p>
@@ -2768,12 +2766,12 @@ tiu mai bine pentru buna venire. Matei le mulţumeşte5 şi Ştefan le zice să 
 <p>Bolboacă rămîne cu scrisoarea în mînă, zicîndu-şi :</p>
 <p>„Ce a dracului este vorba românească !... Şi cînd mulţumeşte cineva pare că înjură. I-am dăruit ticălosului aceluia un icosar ca să ceară de la Dumnezeu să-mi dea după sufletul meu care este plin de păcate. Dar ce-mi pasă.“</p>
 <p>Bolboacă priveşte biletul ce avea în mînă şi vede că este lipit cu un bulin. El avu curiozitatea să citească răspunsul tinerei fete şi fiindcă bulinul era încă ud, îl dezlipeşte binişor fără ca să strice cîrtia, desface biletul şi citeşte rîndurile următoare :</p>
-                     </div>
-                     <div type="letter">
+                     
+                     
 <p>„Vă sărut mîna, cocoane Stamate. Nu ştiu ce împrejurare vă face ca să mă chemaţi la dumneavoastră. Ca să vă îndeplinesc însă dorinţa, sunt gata a veni la ora ce-mi fixaţi prin scrisoare, şi voi fi însoţită de muma mea.</p>
 <p>A dumneavoastră supusă, Maria Sălcianca“</p>
-                     </div>
-                     <div>
+                     
+                     
 <p>,,Ha, ha, va veni în sfîrşit, îşi zise Bolboacă cu mulţumire. Dar zgripţoriţa de mumă-sa ce dracu caută cu dînsa !... Cu toate acestea, o voi băga în altă cameră pe timpul cînd fata sa va fi cu stăpînul meu.“</p>
 <p>Bolboacă strînge biletul, lipeşte bulinul la loc şi porneşte spre casă cu cea mai mare iuţeală. Ajungînd peste cîteva minute, el intră drept în camera Dănges-eului.</p>
 <p>Acesta era singur ca după obicei şi aştepta pe confidentul său. Cînd îl văzu intrînd pe uşă, îl întrebă îndată :</p>
@@ -2861,10 +2859,10 @@ tiu mai bine pentru buna venire. Matei le mulţumeşte5 şi Ştefan le zice să 
 <p>Maria se duce să reunească pe muma sa pe care o găseşte în salon aşteptînd-o cu nerăbdare şi, fără a-i</p>
 <p>spune nimic din cele ce se petrecuse între dînsa cu gescu, o ia la braţ şi se întorc acasă fără să schim cuvînt cît ţinu drumul.</p>
 <p>Elisaveta nu îndrăznise să facă Măriei fhtrebăn căci observase că ea se supără şi sărmana mumă iubea pe fata sa atît de mult că nu voia să o contrarieze cu nimic.</p>
-                     </div>
-                     <div type="chapter" n="2">
-<head>CAPITUL II</head>
-<head>O ÎNŢELEGERE NEÎNŢELEASĂ</head>
+          </div><div type="chapter">           
+                     
+<p><label>CAPITUL II</label></p>
+<p><label>O ÎNŢELEGERE NEÎNŢELEASĂ</label></p>
 <p>Maria, ajungînd acasă prea ameţită de cele ce se petrecuse, roagă pe toţi să o lase singură, intră în camera ei, se pune în pat şi începe a plînge :</p>
 <p>„Sărmană maşină umană !... îşi zise ea cu mintea rătăcită. Durerea ia totdauna locul ce se conservă numai bucuriei. Bucuria !... dar ce este ea alt decît avangarda unei nenorociri, prevestitoarea lacrămilor ! ?... Dumnezeul meu, ce greşală am făcut ca să fiu pedepsită cu atîta asprime î ?... Tu ordoni să renunţ la amantul meu ca să scap pe părintele meu ?... Ei bine, voi ese-cuta ordinile tale şi-mi voi împlini datoria de o bună fiică. Voi suferi un abandon nedrept, mă voi lăsa în voia soartei, dar aş dori mai bine să mor şi pentru aceasta nu văz trebuinţa pentru ce m-am născut. O, iar-tă-mă, Dumnezeul meu ,dacă îndrăznesc a crede că providenţa ta este cîteodată sora întîmplărei şi a fatalităţei. Este grozav de a profera nişte asemenea rătăciri, dar din nenorocire ele nu sunt cîteodată decît tristul ade-var.”</p>
 <p>Şi Maria, înţeleaptă fată, căzuse în ateism. Ochii ei erau turburi, tot sîngele i se urcase în cap şi o durere din cele mai nesuferibile o apucă îndată. Ea nu voi să anunţe pe muma sa ca să-i dea vreun ajutor, ci îşi acoperi fruntea cu amîndouă mîinile, în care poziţie rămase nemişcată o jumătate oră.</p>
@@ -3110,10 +3108,10 @@ tiu mai bine pentru buna venire. Matei le mulţumeşte5 şi Ştefan le zice să 
 <p>— Ascultă, Stănuţă; eu mă duc să pîndesc unde am vorbit.</p>
 <p>— Du-te sănătos, Stoico, dacă nu vrei să rămîi ca să bem împreună.</p>
 <p>Şi zicînd acestea, vătăşelul îi întoarce spatele şi reuneşte pe camarazii săi de beţia</p>
-<p>Bolboacă plăteşte cîrciumarului, iese din circiumă pe nesimţite şi ocolind strada în tot sensul, fără a pierde din vedere casa Sălcianului, începu să strige toată noaptea „cine este acolo“, dar pînda sa rămase fără nici un rezultat căci Alexandru, obosit de atîtea zmăcinări sufleteşti, se culcase devreme şi dormise de un somn profund, astfel că nu se deşteptase decît a doua zi de di-> mineaţă.</p></div>
-                     <div type="chapter" n="3">
-<head>CAPITUL III</head>
-<head>ION BORHINA</head>
+<p>Bolboacă plăteşte cîrciumarului, iese din circiumă pe nesimţite şi ocolind strada în tot sensul, fără a pierde din vedere casa Sălcianului, începu să strige toată noaptea „cine este acolo“, dar pînda sa rămase fără nici un rezultat căci Alexandru, obosit de atîtea zmăcinări sufleteşti, se culcase devreme şi dormise de un somn profund, astfel că nu se deşteptase decît a doua zi de di-&gt; mineaţă.</p>
+            </div><div type="chapter">         
+<p><label>CAPITUL III</label></p>
+<p><label>ION BORHINA</label></p>
 <p>După ce am văzut cele ce s-au petrecut între Dăn-geseu şi fiul său, între acesta şi amanta sa, să ne întoarcem încă odată în mizerabilul locaş unde se afla Sălcianu şi să vedem ce se întâmplă tot în această zi cu acel sărman bătrîn.</p>
 <p>Ştim că Alexandru rugase pe îngrijitorul temniţei şi pe vornicul în favorul nenorocitului cojocar, şi că reuşise oarecum a-i îmbunătăţi soarta prin sfărâmarea lanţurilor ce-i se pusese de picioare, prin scoaterea lui din despărţirea omorîtorilor şi printr-un tratament mai convenabil ca să nu rămîie cu,totul victimă unei osînde atît de ilegale.</p>
 <p>Sălcianu, de cînd intrase in temniţă, nu mai văzuse nici pe Elisaveta, nici pe Maria, ci numai pe Stoian, care venea la dînsul de două ori pe zi. Sărmanul om slăbise în aceste puţine zile ca cum ar fi zăcut de o boală primejdioasă şi îşi pierduse curajul în punctul că abia deschidea gura ca să răspunză câteva cuvinte întretăiate şi pierdute dacă îi făcea cineva vreo întrebare. Şi ce suferinţe sunt mai grele şi mai omorîtoare decît acelea pe care le suferim pe nedrept ?... Cum să nu se topească un om cînd îi este onoarea atacată pe care a conservat-o intactă în toată viaţa lui.</p>
@@ -3190,10 +3188,10 @@ tiu mai bine pentru buna venire. Matei le mulţumeşte5 şi Ştefan le zice să 
 <p>Elisaveta, Maria, Stoian şi. Tincuţa plîng moartea scumpului lor părinte şi toţi împreună îngrijesc de cele trebuincioase pentru înmormântare. Stoian face toate umbletele, toate tîrguielile, şi cînd totul fu gata, cada-verul Sălcianului fu transportat la Biserica Icoanei şi îngropat în lacrămile iubitei sale familii.</p>
 <p>Nici Dăngescu, nici Alexandru, nici Bolboacă nu ştiau încă nimic despre moartea Sălcianului.</p>
 <p>Familia acestuia era toată în doliu.</p>
-                     </div>
-            <div type="chapter" n="4"> 
-<head>CAPITUL IV</head>
-<head>SUPRINDEREA, DISPUTA, NELEGIUIREA</head>
+                     
+             </div><div type="chapter">
+<p><label>CAPITUL IV</label></p>
+<p><label>SUPRINDEREA, DISPUTA, NELEGIUIREA</label></p>
 <p>Dăngescu aşteptă a doua zi răspunsul hotărîtor al Măriei ,dar aşteptarea sa fu în van căci în această zi se efectua înmormîntarea Sălcianului. El crezu mai întîi că tînăra fată se găsea în neputinţă de a renunţa la amantul său şi că prefera să vază pe tatăl său închis şi nenorocit decît să piarză pe Alexandru. Cu toate acestea el nUHşi pierdu speranţa şi aşteptă pînă seara. Văzînd însă că nici seara ea nu vine, cheamă pe Bolboacă şi-l trimite să vază dacă Alexandru, care lipsea în acel moment, se afla la dînsa, şi în acest caz să vie să-l vestească. Bolboacă pleacă să-i esecute ordinul şi, ajungînd la casa Sălcianului, văzu pe toată familia lui în doliu aşezată pe prispa ce avea faţadă în grădină. închipuindu-şi pentru un minut că Sălcianu poate să fi murit în temniţă, dar neînţelegînd cum o asemenea împrejurare survenise într-un timp aşa de scurt şi fără ca el să fi aflat, se adresă către ura vecin ce se afla la fereastă :</p>
 <p>— Domnule, zise el vecinului. Eşti destul de bun ca să-mi spui pentru ce este în doliu familia Sălcianului ?</p>
 <p>— Cum să nu fie în doliu ? răspunse vecinul. Astăzi s-a îngropat nenorocitul cojocar căruia i-a căzut apo-plexie în temniţă.</p>
@@ -3412,10 +3410,10 @@ tiu mai bine pentru buna venire. Matei le mulţumeşte5 şi Ştefan le zice să 
 <p>— Nu este nimic, Mario ; îţi vor trece toate acestea îndată ce vei ieşi la aer. Du-te, fata mea, şi dacă nu-ţi va fi bine, să te aşezi în pat şi să te repauzezi.</p>
 <p>Maria se scoală cu multă ane voinţă şi susţinută de Dăngescu fu condusă de dînsul pînă în curte unde se despărţiră.</p>
 <p>Sărmana fată se pune într-o trăsură de birjă ce trecea din întîmplare tocmai clnd ieşise pe poartă, şi după ce se aşeză într-însa, informă pe birjar despre: locuinţa ei unde ajunse peste cîteva minute.</p>
-          </div>
-       <div type="chapter" n="5"> 
-<head>CAPITUL V</head> 
-<head>ESILIUL</head>
+          
+        </div><div type="chapter">
+<p><label>CAPITUL V</label></p> 
+<p><label>ESILIUL</label></p>
 <p>Era cinci ore de dimineaţă. Soarele apăruse de cîteva minute şi razele lui se răsfrângeau pe turnurile unei biserici ocolită de mai multe zidiri ruinate şi antice Natura era toată liniştită şi semăna că înconjură un loc retras şi lipsit de o populaţie numeroasă. Sunetul lamentabil a două clopote fu singurul zgomot ce se auzi în acel loc izolat. Acest sunet anunţa rugăciunea de dimineaţă a cîtorva fiinţe care îşi consacrase viaţa pentru a servi pe Dumnezeu departe de toate tentaţiile la care este supusă omenimea. Înţelegem că ne aflăm în-tr-o monastire şi într-una din cele mai frumoase ale României. Această monastire era situată pe o muchie de munte, ocolită ,de toate părţile de alţi munţi înalţi. La mijlocul acelei muchii de munte se prezenta o cascadă din care izbucnea o apă aşa de rece cît şi limpede şi care cădea cu repeziciune într-o gîrlă ce şerpuia pe poalele munţilor în tot lungul lor. Şi cine nu cunoaşte admirabila poziţei a monastirei X  ?... Cine s-a dus să o viziteze fără ca să nu se fi întors încîntat de acele locuri poetice pe care natura le împodobise cu tot ce avea mai sublim !</p>
 <p>O fereastă din chiliile aşezate pe muchia de munte era deschisă. Acolo se vedea un om care sta pe gînduri privind munţii în toată întinderea lor. Acel om era Alexandru pe care tatăl său îl trimisese în acel loc ales de esil. Depărtarea de Bucureşti era foarte mare ; adăo-gîndu-se la aceasta şi o pază strictă, fuga era imposibilă. Alexandru se afla la monastire de mai multe zile ; trei gendarmi îl supravegheau şi îl urmau de aproape ori pe unde se ducea. Ordinile guvernului erau aspre căci Dăngescu se temuse de furia fiului său. Alexandru ajungînd la monastire, nu simţise cea mai mică mulţumire la vederea a tot ce-1 înconjura, ci, din contra, natura îi păru posomorită şi munţii îi privi ca pe groaznicele ziduri ale unei temniţe. Tînărul Dăngescu era dezolat ; el pierduse pe Maria şi nu ştia ce putea să devie ; i se pătase onoarea, reputaţia ; era un om pierdut în societate. Ce să facă ?... In mai multe rînduri, voi să fugă dar aceasta era cu neputinţă căci gendarmii nu-1 pierdeau un minut din vedere. Ca să se strecoare şi să dispară pîn pădurile munţilor îi era teamă să nu fie sfîşiat de urşi sau de lupi fără cel mai mic ajutor, căci nu avea nici arme, şi mai întîi nu ştia pe unde să apuce. Se hotărîse dar a avea răbdare şi a aştepta în tăcere evenimentele. Dar, într-un loc atît de trist, avea trebuinţă de o companie, de un amic cu care să se între-ţie, care să-l console. Trecuse mai multe zile şi nimeni nu venise încă să-l vază. In acea dimineaţă însă după săvîrşirea serviciului divin, un tînăr călugăr intră la dînsul. Alexandru nu-1 văzuse încă între ceilalţi.</p>
 <p>Acest călugăr, care avea o statură de mijloc şi o talie potrivită, era diaconul monastirei şi se numea Igna-tie. El era prea tînăr şi să fi fost cel mult de douăzeci şi şapte de ani ; el avea un păr lung, castaniu, răsucit la spate şi acoperit de un potcapiu de plisă neagră, bine tăiat. Ochii îi erau verzi, plini de vioiciune şi de sinceritate ; gura şi nasul potrivite, faţa albă şi prea curată, iar barba şi mustăţile puţin pronunţate. Adăogînd la toate acestea o îmbrăcăminte curată şi un aer vesel, în care nu se întrevedea nici o ipocrizie, ne vom convinge că Alexandru simţi o mulţumire nespusă văzîndu-1 că intră în camera ce ocupa.</p>
@@ -3487,10 +3485,10 @@ tiu mai bine pentru buna venire. Matei le mulţumeşte5 şi Ştefan le zice să 
 <p>— Cu toate mulţumirea mea. La revedere, domnule Dăngescu.</p>
 <p>— La revedere, părintele meu.</p>
 <p>Diaconul iese şi Alexandru se pune iarăfî la fereastă ca să privească munţii şi să se gîndească la Maria şi la nenorocirile lor.</p>
-       </div>
-    <div type="chapter" n="6"> 
-<head>CAPITUL VI</head>
-<head>O VIZITĂ</head>
+       
+     </div><div type="chapter">
+<p><label>CAPITUL VI</label></p>
+<p><label>O VIZITĂ</label></p>
 <p>Să lăsăm monastirea în care intrarăm ca să vedem ce făcea Alexandru şi să ne înturnăm în Bucureşti ca să asistăm la cele ce se petrecu în urma esiliului.</p>
 <p>Dăngescu nu fixase încă ziua plecărei sale. Crima ce săvîrşise prin pierderea Măriei îl preocupa în punctul că singura sa gîndire era pironită numai la dînsa şi la cele ce s-ar întîmpla în urmă. Bolboacă îl încuraja neîncetat, dar nu avea destule argumente ca să-i răspîn-dească frica ca într-o zi Alexandru, descoperind infamia lor ar fi capabil să comită lucruri mari. Hotărîrea dar era anevoie de luat şi a trebuit ca o întîmplare estraor-dinară să dea împrejurărilor trecute un curs neaşteptat.</p>
 <p>Intr-o dimineaţă, pe la unsprezece ore, un servitor intră în camera Dăngescului şi-i anunţă că o caretă intrase în curte. Dăngescu se ui tăi pe fereastă şi, după ce văzu cine era în caretă, strigă îndată către servitor :</p>
@@ -3599,10 +3597,10 @@ tiu mai bine pentru buna venire. Matei le mulţumeşte5 şi Ştefan le zice să 
 <p>— Chiar în seara aceasta, căci mi se pare că nu este timp de pierdut.</p>
 <p>— Atunci du-te de-ţi fă pregătirile.</p>
 <p>— La aceasta mă şi gîndeam, zise mizerabilul jeşind din cameră pentru a se duce să se rază şi să se deghizeze.</p>
-</div>
-   <div type="chapter" n="7">
-<head>CAPITUL VII</head>      
-<head>PROPUNEREA</head>
+
+   </div><div type="chapter">
+<p><label>CAPITUL VII</label></p>      
+<p><label>PROPUNEREA</label></p>
 <p>Este timpul de a reveni la Maria şi de a vedea, în fine, ce se întîmplă cu această nenorocită fată.</p>
 <p>După plecarea ei din casa Dăngescului, se întoarse acasă ameţită şi cu oasele sfărîmate de tăria opiumului. Maria, intrînd în camera ei, se aşeză pe pat şi rămase în nemişcare cîteva minute. Elisaveta şi Tincuţa erau lingă dînsa şi presupunînd negreşit că ea Întâmpinase noi nemulţumiri în întreţinerea ce avusese cu Dăngescu, începu să o stropească cu odicolon şi să o frece pe tîmple şi pe mîini fără a-i face vreo întrebare.</p>
 <p>Maria era palidă, defigurată, şi cînd Elisaveta băgă bine de seamă ,temîndu-se să nu fie avangarda unei boale primejdioase, şi să piarză pe unica sa copilă cum pierduse şi pe soţul ei, începu să se tînguie :</p>
@@ -3733,10 +3731,10 @@ Mariuţo ? Negreşit ca să ne comunici acea bucurie despre care îmi vorbeai ad
 <p>— Şi dumitale asemenea, bună Tincuţă.</p>
 <p>Alexandru se întoarce acasă şi, fără a pierde timpul</p>
 <p>se găteşte de drum, închiriază o trăsură de birjă şi; pleacă mai întîi la Penteleu ca să vază pe muma sa.</p>
-      </div>
-<div type="chapter" n="8">               
-<head>CAPITUL VIII</head>
-<head>O RUDĂ</head>
+      
+             </div><div type="chapter">  
+<p><label>CAPITUL VIII</label></p>
+<p><label>O RUDĂ</label></p>
 <p>Ştim că Elena Dăngeasca din maltratarea nelegiuitului său soţ căzuse bolnavă cu vărsare de sînge. Această din urmă suferinţă, care întrecuse pe toate celelalte, fusese de ajuns ca să-i ruineze cu desăvîrşire sănătatea, mai cu seamă că sărmana femeie avea din natură o constituţie prea debilă. Ajungînd la munte, ea închinase o casă ţărănească şi conform ordonanţei medicilor, începuse cura de zer chiar de a doua zi. Dar ce remediu poate aduce ftiziei cura de zer decît o mică prelungire de viaţă, care,, curînd sau mai tîrziu, trebuie să se stingă cu ştirea bolnavului ? Ce uşurare poate ea aduce suferinţelor unul nenorocit decît nemulţumirea de a le încerca mai mult timp şi de a aştepta o moarte sigură, care stă neîncetat dinaintea sa ? Elena ştia toate acestea şi dacă priimise a-şi căuta sănătatea, nu că sărmana femeie dorea să-şi conserve viaţa, care-i era nesuferită, ci ca să se bucure de mulţumirea de a revedea pe fiul său, singura afec-ţie ce-i mai rămăsese pe pămînt. Este adevărat că medicii nu-i mărturisise de care boală era coprinsă, dar Elena avea deplină cunoştinţă de dînsa ; vărsarea de sînge îi dovedise totul.</p>
 <p>La venirea ei la munte avusese îngrijirea de a ocupa o locuinţă aproape de o stînă, unde să poată avea zer cu abundenţă, fără a fi silită să trimiţă pe servitori în depărtare. Sărmana Elena era aşa de bună încît nu voia să cauzeze cea mai mică nemulţumire unor servitori carii o servise totdauna cu cel mai mare devotament.</p>
 <p>Era o plăcere şi o milă de a vedea cineva pe sărmana Elena, suferind în linişte, fără să blesteme pe autorul durerilor ei şi fără cel puţin să se plîngă către cineva în contra lui. Viaţa ei la munte semăna cu a unei penitente. Se scula de dimineaţă, ieşea din casă însoţită de o servitoare, se preumbla puţin pe verdeaţă, susţinută de dînsa, şi cînd ajungea la stînă bea porţia cuvenită de zer proaspăt şi lua cu sine un urcior plin ca să-i serve pînă a doua zi. După întoarcerea ei de la stînă, venea regulat să se aşeze la umbra unui tufan stufos, aşezat pe o muchie de munte la poziţia cea mai minunată, de unde putea să privească frumuseţile naturei în tot plăcutul lor. La umbra tuf anului, ea sta mai mult de. două ore, unde, cu servitoarea sa, pe care o făcea să şază lingă dînsa, se întreţinea despre Alexandru, despre sănătatea ei, despre lamentaţiile oilor şi ale mieilor, ce se vedeau înşiruiţi pe toată suprafaţa munţilor şi despre diferite alte lucruri prin carii se silea să gonească untul. De acolo, ea se întorcea acasă ca să-şi ia dejunul, ce se compunea de un ou proaspăt şi de o bucată de pui fript, şi după dejun se aşeza la o fereastă şi citea neîntrerupt pînă la timpul prînzului. După ce prînzea, se repauza puţin, fără însă să doarmă, şi pînă la ivirea nopţei se preumbla cu servitoarea sa sau se aşeza pe un scaun dinaintea căsuţei ce ocupa, pînă la aprinsul luminărilor. La opt ore şi jumătate, Elena era culcată, dar ea nu putea să adoarmă decît foarte tîrziu, căci noaptea diferite gîndiri o apucau pe nesimţite du-</p>
@@ -3867,10 +3865,10 @@ Mariuţo ? Negreşit ca să ne comunici acea bucurie despre care îmi vorbeai ad
 <p>— Eu crez că-mi vor fi destule douăzeci şi patru ore, zise Alexandru reîncepînd a se preumbla, voind prin-tr-aceasta a-şi linişti emoţiile sufletului.</p>
 <p>— Aşadar vei pleca, Alexandre ? îl întrebă Elena surîzînd.</p>
 <p>— Vezi bine că trebuie, buna mea mumă, răspunse el apropiinduHse. Mîine pînă-n ziuă, voi fi pe drum.</p>
-</div>
-                     <div type="chapter" n="9">
-<head>CAPITUL IX</head>
-<head>DOI AMANŢI</head>
+
+               </div><div type="chapter">      
+<p><label>CAPITUL IX</label></p>
+<p><label>DOI AMANŢI</label></p>
 <p>Monastirea Dintr-un lemn este una din monastirile cele mai vechi ale României. Această monastire, care este situată pe o muchie de deal în partea despre nord -vest a Rîmnicului-Vîlcei, sub numirea Dintr-un lemn, datează de la al patrusprezecelea secol, de cînd adecă s-a făcut descoperirea următoare.</p>
 <p>Se asigură că într-o noapte de vană, mai mulţi ciobani se aflau cu oile în partea locului, care nu era alt decît o pădure, culcîndu-se lîngă un stejar gros şi nalt, în lipsă de orice fel de colibă sub carea să se adăpostească, unul dintre dînşii văzuse în vis, pe la o oră foarte înaintată a nopţei, o icoană a sîntei Mărie, care se afla mîntrul acelui stejar. Această vedere îl făcu să se deştepte. El se sculă îndată, privi stejarul la lumina lunei şi însemnă cu vîrful cuţitului partea locului unde i se prezentase icoana. După aceasta strigă pe toţi tovarăşii săi, carii dormeau profund şi carii, la un asemenea apel, se deşteptară spăimîntaţi în temerea ,că li sa întîmplât vreo nenorocire. Fiecare se grăbi a face întrebări ciobanului şi acesta le comunică în detaliu visul ce făcuse. Mirarea fu generală şi respectul către religie îi coprinse pe nesimţite. Ei se consultară dacă trebuie să facă operaţia noaptea sau să o amîne la ivirea aurorei, iar ciobanul care avusese fericitul vis propusese a o începe îndată căci luna era luminoasă şi stejarul destul de vizibil. După ce el arătă la toţi locul unde văzuse icoana, fiecare începu a tăia şi a scobi stejarul cu cuţite şi cu tesle cu cea mai mare băgare de seamă. Cînd ei înaintase cu lucrarea scobi turei la o palmă înîntrul stejarului, aurora începu a se ivi şi ciobanul care visase fu cel dintîi care zări un colţ al icoanei. Visul fusese o realitate, căci după ce se tăie copaciul şi după ce icoana întreagă rămase vizibilă, ciobanul căzu în genunchi şi încredinţă pe tovarăşii săi că era astfel precum i se arătase în vis.</p>
 <p>Religioşii ciobani formară după aceasta, numai din crăcile şi din lemnul stejarului, o mică biserică în mijlocul căreia se afla icoana.</p>
@@ -3973,10 +3971,10 @@ Mariuţo ? Negreşit ca să ne comunici acea bucurie despre care îmi vorbeai ad
 <p>Elisaveta şi Maria nemaigăsind de cuviinţă a reveni asupra refuzului şi nemaivoind printr-aceasta a mîhni pe Alexandru, care le arătase că hotărîrea lui era nestrămutată, priimiră cu mulţumire a face totul şi în urma ieşirei lui începură a se pregăti pentru drum.</p>
 <p>Nici Alexandru, nici Maria nu putură închide ochiul toată noaptea, gîndindu-se unul la altul, astfel că-i surprinse lumina zilei fără ca să fi gustat un moment de repaos.</p>
 <p>În revărsatul zorilor, toţi erau în picioare. Elisaveta şi Maria îşi luară ziua bună de la călugăriţe şi la cinci ore de dimineaţă trăsura cu care venise Alexandru era pe drumul Bucureştilor.</p>
-                     </div>
-     <div type="chapter" n="10">  
-<head>CAPITUL X</head>
-<head>REÎNTURNAREA</head>
+             </div><div type="chapter">        
+       
+<p><label>CAPITUL X</label></p>
+<p><label>REÎNTURNAREA</label></p>
 <p>— Ce zici tu, Neagule, despre istoria Mariei ? întrebă Dăngescu pe vătaful său de curte într-o dimineaţă cînd acesta se afla în camera lui.</p>
 <p>— Ce să zic, cocoane, decît că am nerăbdare să-i văz odată sfîrşitul la un fel.</p>
 <p>— Unde dracu să se fi înfundat acea fată de cojocar şi ce va fi cugetând să facă în urma celor ce i s-a întîmplat ?</p>
@@ -4086,10 +4084,10 @@ Mariuţo ? Negreşit ca să ne comunici acea bucurie despre care îmi vorbeai ad
 <p>— Te-ai gîndit bine, cocoane ? întrebă vătaful de curte prefăcînd o mină posomorită. Hotărîrea dumitale este nestrămutată ?!</p>
 <p>— Aşa de nestrămutată, cum sunt nestrămutat în toate hotărîrile mele, zise Dăngescu.</p>
 <p>— Atunci îmi plec capul şi mă supui voinţei stăpînului meu.</p>
-     </div>
-           <div type="chapter" n="11">  
-<head>CAPITUL XI</head>
-<head>DEZOLAŢIA</head>
+     
+             </div><div type="chapter">
+<p><label>CAPITUL XI</label></p>
+<p><label>DEZOLAŢIA</label></p>
 <p>Alexandru se întoarce la otel foarte supărat de cele ce se petrecuse între dînsul şi tatăl său. El nu găseşte nici pe Elisaveta, nici pe Maria, căci ele se dusese cu</p>
 <p>Tincuţa ca s-o petreacă acasă şi să rămîie acolo pînă seara. Văzîndu-se singur şi prin urmare liber a se gîndi în linişte, tînărul Dăngescu începu să cugete profund asupra direcţiei ce va trebui să dea unor împrejurări atît de grave.</p>
 <p>Trecuse aproape două ore de cînd el se consulta cu gîndirile sale şi din toate mu rezultase alt deeît de a se cununa îndată, ca să nu mai întîmpine noi nemulţumiri din partea tatălui său. Hotărîrea dar era luată şi ca să o esecute aşa de curînd pe cît dorea, îşi propuse a săvîrşi totul chiar în acea zi. Astfel dar, el lasă mai întîi cîr-tiile şi obiectele ce luase închizîndu-le într-o cutie de masă, opri asupră-i parte din banii de carii avea trebuinţă, ieşi dim otel, se puse într-o birjă şi întrebuinţă toată ziua în căutarea unei case ca să o închirieze ; dar el nu putu găsi nici una disponibilă şi care să-i placă, fiindcă mai toate erau ocupate. Văzînd că acea zi era pierdută şi propuindu-şi a reîncepe căutările sale a doua zi, se întoarse la otel, intră în camera amantei sale, dar nu o găsi nici pe dinsa, nici pe Elisaveta, căci ele nu se înturnase încă de la Tincuţa. Ce să facă ? îi era urît, dorea să vază şi să se întreţie cu Maria despre unirea lor viitoare ; singur nu mai putea să rămîie căci spiritul lui avea trebuinţă de distracţie. Cum el nu mîncase nimic de dimineaţa şi pînă la şapte ore seara, cu toate că încă nu avea nicidecum apetit, dar ca să poată aştepta cu răbdare întoarcerea Măriei, intră în sala de mîncare a otelului, se aşeză la o masă care era mai retrasă, luă o cartă de bucate şi începu să o consulte.</p>
@@ -4142,8 +4140,8 @@ Mariuţo ? Negreşit ca să ne comunici acea bucurie despre care îmi vorbeai ad
 <p>— Hain ? ce zici ? întrebă Dăngescu cu oarecare asprime.</p>
 <p>— Voi veni mai tîrziu să vă spui ce am făcut la birt. Acum nu vă găsiţi în stare bună să mă ascultaţi şi poate aveţi trebuinţă de linişte.</p>
 <p>— Nu am trebuinţă de nimic, şi liniştit nu voi putea fi decît după ce-mi vei fi spus ce vei fi făcut la birt. Spune-mi dar, curînd, căci mor de nerăbdare.</p>
-</div>
-<div>
+
+
 <p>La această schimbare neaşteptată a stăpânului său Bolboacă se pierde cu desăvîrşire. El nu mai ştia ce să facă ; ca să arate adevărul, îi era teamă ; ca să-l ascunză, îi era frică. Cu toate acestea, simţi bine că trebuia să se hotărască la un fel, căd Dăngescu îi făcea nişte întrebări la carii era constrâns a răspunde.</p>
 <p>— Dar nu ai de gînd să vorbeşti odata ? reluă Dăngescu răstiindu-se.</p>
 <p>— Cum să nu vorbesc, cocoane ? zise Bolboacă tremurând. Pentru aceasta am şi venit la dumneavoastră. Dar pentru ce atîta grabă, cînd aveţi destul timp să aflaţi un lucru la care trebuia să vă aşteptaţi, căci singur mi-aţi dat ordinul.</p>
@@ -4232,9 +4230,9 @@ Mariuţo ? Negreşit ca să ne comunici acea bucurie despre care îmi vorbeai ad
 <p>— Cerule ! dar ei au murit! strigă el smulgîndu-şi</p>
 <p>părul. Au murit şi nu m-au iertat ; îmi voi pierde mintea, dacă nu viaţa... Alexandre, nobilul meu fiu, dacă în această lume ¡nu ai fost mulţumit, vei fi fericit în cea eternă, căci Maria, sublima fată, va fi în braţelb tale, în mormînt şi în ceruri !... Acum, sărmană mumă a Măriei, apropie-te de nenorocitul tată al lui Alexandru, şi dacă Dumnezeu nu mă va asculta pe mine şi pentru mine, ne va asculta unindu-ne rugăciunile pentru fericirea sufletelor copiilor noştri..........</p>
 <p>A treia zi, mormîntul lui Alexandru, care era şi al Măriei, lîngă altarul Bisericei Icoanei, era acoperit de cunune de flori.</p>
-</div>
-<div>
-<head>FINALUL</head>
+
+
+<p><label>FINALUL</label></p>
 <p>De cind Alexandru şi Maria se unise pentru eternitate, luîndu-şi adio de la o lume în care nu puteau să trăiască, nici să fie fericiţi, bătrînul Dăngescu nu putuse să mai aibă un minut de repaos. Ziua ca şi noaptea el era turmentat de insomnii şi de cele mai grozave mustrări ale- cugetului. Dacă încerca să închiză ochii, victimele crimelor sale i se înfăţişau în formă de fantome şi păreau că-i cer socoteală de cruzimile ce săvîrşise asupră-le. La aceste vizii, el se scula deodată, sărea din pat, cădea în genunchi şi cerea iertare ; în urmă aprindea luminarea, se aşeza pe un fotoliu lingă masă, îşi rezema capul de mînă şi rămînea în această poziţie pînă cînd se făcea ziuă.</p>
 <p>Trecuse patru zile de la înmormîntarea lui Alexandru şi a Măriei şi nici o preschimbare nu se făcuse încă în oribila poziţie a Dăngescului. Nemaisimţlndu-se în stare a se lupta în contra atîtor suplicii ce-i sfîşiau sufletul, nici a mai prelungi o viaţă de tortură şi de mustrări de cuget. După trecerea unei nopţi furtunoase, în care el îşi consultase gîndirile şi-şi formase o hotărîre, în care părea nestrămutat, se scoală din pat, se duce la masă şi scrie neîntrerupt o oră întreagă. El făcuse două cîrtii. Una era testamentul lui prin care îşi destina toată averea pentru binefaceri, îl sigilase şi-l adresase domnitorului ţării, iar cealaltă cîrtie era o epistolă adresată soţiei sale, la muntele Penteleu, prin carea îi cerea iertare pentru toate nemulţumirile ce-i cauzase pe nedrept şi o implora să roage pe Dumnezeu pentru sufletul lui nedemn de a compărea înaintea divinităţei. După ce termină aceste două cărţii, spiritul lui păru mai liniştit :</p>
 <p>„Iată dar consecinţele unei crime, zise el umblînd posomorit. Iată cum o primă greşală molipseşte pe om şi-l tîrăşte în noroiul nelegiurilor pe carii le reîncepe neîncetat şi în contra tuturor !... Odată pătat de crime, a trebuit să mă rostogolesc printr-însele cu corpul şi cu</p>
@@ -4309,18 +4307,18 @@ Mariuţo ? Negreşit ca să ne comunici acea bucurie despre care îmi vorbeai ad
 <p>— Alexandre ! Mario ! Copiii mei ! iertaţi-mă şi rugaţi pe Dumnezeu, dinaintea căruia vă aflaţi, ca să-i fie milă de mine.</p>
 <p>Acestea fură ultimile cuvinte ce el mai putu pronunţa şi, după cîteva secunde de agonie, moare, rosto-golindu-se pe parchet.</p>
 <p>In acest moment, cerul se posomoraşte, atmosfera se întunecă şi tunetul bubuie ca cum ar fi ordonat infernului ca să înghiţă pe aceşti doi nelegiuiţi.</p>
-</div>
-<div>
-<head>CONCLUZIA</head>
+
+
+<p><label>CONCLUZIA</label></p>
 <p>Trecuse mai multe zile de cind în toate serile Ştefan Lungeanu întreţinuse pe fratele său despre această romanţă.</p>
 <p>După ce o termină, găsind de cuviinţă a-i arăta cum rămăsese restul personalului (important) pus pe scena romanţei, îi zise :</p>
 <p>— Ca să închei istoria, află, Matei, că Elena Dăn-gescu — întordndu-se de la munte, şi aflînd de moartea lui Alexandru şi a Măriei, căci de a soţului său puţin a constat-o, a căzut greu bolnavă, şi atacul i-a fost aşa de mare, că peste puţin timp a luat loc lingă copiii săi. Iar sărmana şi nenorocita Elisaveta Sălcianca, pe care nu a chemat-o încă Dumnezeu la sine, s-a călugărit la Biserica Icoanei, unde în toate dimineţile şi serile udă de lacrămile sale mormintele soţului şi iubiţilor săi copii.</p>
 <p>Nu ştiu, iubite Matei, dacă ai luat vreo plăcere as-cultîndu-mă ; crez însă că naraţia mea ai fi găsit-o ceva mai interesantă dacă ai fi aflat şi scenele misterioase prin carii trebuia să trec cu romanţa, precum îmi propusesem, şi pe carii am fost constrîns a le trece subt tăcere de frica unei legi ce a apărut de curînd.</p>
 <p>FINE</p>
-</div></div></div>
+</div></div>
 </body>
 <back>
-   <div>
+   <div type="liminal">
 <p>JUDECATA LUI BRÎNDUŞ</p>
 <p>COMEDIE IN TREI ACTE</p>
 <p> Vezi I. Horia Râdulescu, 

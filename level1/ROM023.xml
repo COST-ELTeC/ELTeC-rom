@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" 
-   xml:id="ROM023" xml:lang="ro">
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM023" xml:lang="ro">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -20,36 +22,32 @@
             <measure unit="words">23370</measure>
             <measure unit="pages">142</measure>
          </extent>
-         <publicationStmt>
-            <p>Încorporat în ELTeC<date>2019-l0-0l</date>
-            </p>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="printSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-11"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Încorporat în ELTeC2019-l0-0l
+            --></publicationStmt>
+         <sourceDesc><bibl type="printSource">
                <author>Ighel Ilie</author>
                <title>Tîlharul Fulger. Roman criminal. Întîmplat în timpul Revoluției de la 1848</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>Editura Librăriei H. Steinberg</publisher>
                <date>1892 (1892)</date>
                <ref target="http://doi.org/10.5281/zenodo.2648477">Facsimile on zenodo</ref>
-                           </bibl>
-         </sourceDesc>
+                           </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
-         <p></p>
+         <p/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
-            <language ident="ro"></language>
+            <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender key="M"></e:authorGender>
-            <e:size key="short"></e:size>
-            <e:canonicity key="low"></e:canonicity>
-            <e:timeSlot key="T3"></e:timeSlot>
+            <e:authorGender key="M"/>
+            <e:size key="short"/>
+            <e:canonicity key="low"/>
+            <e:timeSlot key="T3"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2019-11-11">Checked by releaseChecker script</change>
          <change when="2019-09-21">Initial TEI version generated.</change>
       </revisionDesc>
    </teiHeader>
@@ -57,7 +55,7 @@
       <front>
          <div type="titlepage">
             <p>Ighel Ilie</p>  
-            <milestone unit="header" rend="face"/>
+            
             <p>Editura Librăriei H. Steinberg, 7, Calea Rahovei, 7.</p>
             <p>Tipo-Litografia Dor. P. Cucu, 8, Bul. Elisabeta, 8.</p>
             <gap unit="page" extent="1"/>
@@ -66,7 +64,7 @@
          <gap unit="page" extent="1"/>
          <div type="liminal">
          </div>
-         <div>
+         <div type="liminal">
 <head><hi>Către cititori,</hi></head>
 <p>Înnainte de a începe înșiruirea crimelor, fără de seamăn de mari ale acestui tîlhar, să scriu cîteva rin-durî, cari să introducă puțin pe cititor în materia ce va urma.</p>
 <p>Precum se poate vedea chiar pe coperta acestui roman, acțiunea se petrece înnainte și dupe marea re-voluțiune națională de la 1848, care este cea mai mare mișcare Romînească.</p>
@@ -79,7 +77,7 @@
 </div>
       </front>
       <body>
-<div type="chapter" n="1">
+<div type="chapter">
 <head>Tîlharul Fulger</head>
 <head>CAPITOLUL I</head>
 <head>Bucureștii pe la 1815</head>
@@ -123,10 +121,10 @@
 <p>Cinii urlau a pustiu toată noaptea de ți se părea că ești în mijlocul unui bărăgan fără margine.</p>
 </div>
          <gap unit="page" extent="1"/>
-         <div type="chapter" n="2">
-            <div>
-<head>CAPITOLUL II</head>
-<head>Ciuma</head>
+         <div type="chapter">
+            
+<p><label>CAPITOLUL II</label></p>
+<p><label>Ciuma</label></p>
 <p>Venirea lui Caragea in țară a fost nenorocită Românilor. Cu toate jafurile și neomeniile lui și ale oamenilor sei, totuși nu ar fi fost de însemnat nimica mai jalnic în domnia lui, ca întră celorl’alți fanarioți, dacă, un an după ce a pus piciorul pe pămîntul Românesc, nu s’ar fi ivit cea mai jalnică și nemilostivă epidemie : 
 <hi>ciuma.</hi></p>
 <p>Prin Decembrie 1812, in mahalaua Dudeștilor era o căsuță la marginea Drumului, spoită cu galben și cu chenărele roși, curată de te oprea în mijlocul drumului s’o privești.</p>
@@ -180,14 +178,14 @@
 <p>A doua-zi în zori, se începu nunta.</p>
 <p>Nuntașii cutreierau toată mahalaua ; drumul dintre casa miresei și a ginerului era bătut de ei, și chiote vesele scoteau pe unde treceau. Pe la amiază se începu slujba bisericească. Dupe ce se sfirși, mireasa se sui cu mirele într’o trăsură, pe capră cu luminări aprinse înfipte într’o pîne. De jur împrejur se orînduiră toți flăcăii din mahala, călări pe cai fugeșî și așa pornea călări spre casa mirelui.</p>
 <p>Cînd Irina se despărți de măsa o podidi la-crămile de cele ce’i erau, in vreme ce lăutarii năbădăioși cîntau cît le lua gura :</p>
-            </div>
-            <div type="song">
+            
+            
 <l>Taci mireasă nu mai plînge</l>
 <l>Căci 1a măta mi te-oi duce</l> 
 <l>Cînd o face plopul pere</l> 
 <l>Si richita vișinele.</l>
-            </div>
-            <div>
+            
+            
 <p>Toată noaptea trecea în cintece și veselii, iar despre ziuă mosafirii fură duși, fie-care spre casa lui, cu lăutarii după urmă.</p>
 <p>A doua zi femeile trecură prin mahala bînd rachiu roșu și chihuind.</p>
 <p>Și zilele ce se strecură după nuntă erau frumoase ca zilele senine de primă-vară.</p>
@@ -301,8 +299,8 @@
 <p>Sermana femee în zadar se încercă să strige, să lupte a nu i se lua copila încă vie... Nimeni nu o asculta, cioclii deja se depărtaseeă cu carul...</p>
 <p>Ca o perdea întunecoasă i se puse pe ochii; se simți mai ușoară... Par’că ’și uitase de copila ei...</p>
    <p>Leșinase....</p>
-            </div></div>
-               <div type="chapter" n="3">
+            </div>
+               <div type="chapter">
    <head>CAPITOLUL III</head>
 <head>In câmpul Dudeștilor</head>
 <p>Zăpada, care începuse să cază pe Ia începutul lui Decembrie, se topise și ca nici o dată de multă vreme, se părea că nu suntem in mijlocul iernei, ci pe la sfirșitul primă-verei.</p>
@@ -372,7 +370,7 @@
 <p>Boerul ce venea în urmă se sui lângă vizitiu pe capră și îi spuse să meargă repede spre casă.</p>
    <p>Trăsura luă la dreapta, apoi cârmi la stingă și după un mers de vre-o jumătate de ceas ajunse în curtea boerului.</p>
                </div>
-            <div type="chapter" n="4">
+            <div type="chapter">
    <head>CAPITOLUL IV</head>
 <head>Cine era femeia?</head>
 <p>Negreșit, cititorul trebue să fie nerăbdător a ști cine era femeia cea tinără care se găsise mai moartă pe cîmpul Dudeștilor, la a cărei aflare murise de bucurie o altă femee.</p>
@@ -467,7 +465,7 @@
 <p>Sărmana femee!</p>
    <p>Toată viața i-a fost dată pentru a’și iubi copila, pentru care a și murit.</p>
             </div>
-            <div type="chapter" n="5">
+            <div type="chapter">
 <head>CAPITOLUL V</head>
 <head>Irina se însănătoșază</head>
 <p>Cind trăsura, in care era corpul neinsuflețit aproape al Irinei, ajunse in curtea boerească, veniră vre-o doi argați.</p>
@@ -526,7 +524,7 @@
 <p>Iată dar, pe scurt descrierea acestei grczave boale care dură penă pe la sfirșitul anului 1813, adică ținu un an întreg de zile !.. 
    <hi>Un an întreg de jale!...</hi></p>
             </div>
-            <div type="chapter" n="6">
+            <div type="chapter">
 <head>CAPITOLUL VI</head>
 <head>La 1835</head>
 <p>Proprietarul grec al casei din câmpia Fila-retului, din care astă-zî nu se mai văd nici urma urmelor, și unde Irina se luase de ciumă și se întremase d’a binele se înamorase așa de puternic de Irina-în cît la doi ani chiar dupe in-tîmplările ce le spuserăm mai sus, el o luă de nevastă.</p>
@@ -581,7 +579,7 @@
 <p>Și astă-zi ca și în trecut stăpînii de tot soiul socotesc pe slugile lor, pe lucrători lor, drept niște vite, drept niște mașini cari nu trebue să facă alt-ceva de cât să lucreze și iar să lucreze.</p>
 <p>Cînd va veni oare ziua de frăție și dreptate?. Când va luci soarele vesel si bine-făcător al li-bertăței pentru muncitor?.. Când?., când?....</p>
             </div>
-            <div type="chapter" n="7">
+            <div type="chapter">
    <head>CAPITOLUL VII</head>
 <head>FULGER</head>
 <p>Printre țiganii ce boerul Ianopol avea ca robi la moșie, era și un flăcău cam de vre-o 25 de ani, chipeș, cu pielea albă, ochii mari șl negrii, minele mici, așa că mai n’ai fi crezut că e băiatul Sandi și a lui Rafailă, potcovarul curții. Printre cei-alți țigani se șoptea că’l făcuse Sanda, care în tinerețe era o țigăncușe de o frumusețe uimitoare, că vătafu curții boereștl, un grec, care acum — Dumnezeu să ’1 odihnească, era mort..</p>
@@ -741,7 +739,7 @@
 <p>— E chiar el?</p>
    <p>Și intr’adever era Fulger care căzuse cu scara când vrusese să scoboare mai repede jos.</p>
             </div>
-            <div type="chapter" n="8">
+            <div type="chapter">
    <head>CAPITOLUL VII.</head>
 <head>PEDEAPSA</head>
 <p>Boerul porunci să’l ridice doi oameni și să’l ducă într’o odae.</p>
@@ -905,10 +903,10 @@
 <p>Seara când sosiră dorobanții ca să ia pe Fulger, boerul le istori fuga acestuia cu țigăncușa, care, de sigur, l’a ajutat...</p>
    <p>— Da l’oî prinde am de gând să ’1 pun sub pietre de moară, striga boerul.</p>
             </div>
-            <div type="chapter" n="9">
+            <div type="chapter">
    <head>CAPITOLUL VIII</head>
 <head>Fulger Tâlharul</head>
-<p>Caii fugeau mereu și sdruncinăturile dureaii grozav pe Fulger i a>’e mai avea răni pe spate.</p>
+<p>Caii fugeau mereu și sdruncinăturile dureaii grozav pe Fulger i a&gt;’e mai avea răni pe spate.</p>
 <p>Totuși, se aprinse in el dorul de a scăpa, nu atât ca să trăiască, dar mai mult spre a se putea răsbuna de cruzimele suferite de la lano-pulo.</p>
 <p>Merseră in neștire.</p>
 <p>Unde ? Nici ei nu ’și dedeau seama.</p>
@@ -1003,7 +1001,7 @@
 <p>Îl deteră jos și’l luară pe umeri ca să’l ducă in sat și să’l îngroape creștinește.</p>
    <p>Potera trimisă din București nu putu prinde pe nimeni. Ascunzătoarea tâlharilor nici că putea da de bănuit cui-va.</p>
             </div>
-            <div type="chapter" n="10">
+            <div type="chapter">
    <head>CAPITOLUL IX</head>
 <head>Fuga Lieavetei</head>
 <p>Iarna se apropia.</p>
@@ -1107,7 +1105,7 @@
 <p>Mândrilă se duse și veni cu un cal voinic.</p>
 <p>Acesta se scoborî jos la poalele dealului unde aștepta Lisaveta și încălecară amândoui... Dupe doue-trei minute calul se pierdu in depărtare pe drumul ce duce la București, ducând pe el pe Cloanță și Lisaveta care, dupe cum o să vedem, vor face multe amărăciuni lui Fulger.</p>
             </div>
-            <div type="chapter" n="11">
+            <div type="chapter">
 <head>CAPITOLUL X</head>
 <head>Călcarea Mănăstirei</head>
 <p>Când se deșteptă a doua di Fulger strigă și căută în deșert pe Lisaveta. Nu era nicăeri.</p>
@@ -1254,7 +1252,7 @@
 <p>— Brava ție Mândrilă.</p>
 <p>O porniră cu toții luând drumul Bucureștilor.</p>
             </div>
-            <div type="chapter" n="12"> 
+            <div type="chapter"> 
 <head>CAPITOLUL XI</head>               
 <head>Omorul din Podu Beilicului</head>
 <p>A doua-zi de dimineață ajunseră în București' Fulger și cu Mândrilă o luară spre Hanul lui Manuc, iar cei-alți, după ce Fulger le dete câte 10 galbeni de fie-care, se îndreptară spre hanul Iu Piperi.</p>
@@ -1406,7 +1404,7 @@
 <p>Spre prânz ajunseră în Vlăsia. Fulger remase intr’un loc necunoscut de tovarăși, iar Mândrila plecă s’i aducă de cei-alțî.</p>
    <p>Ziua o trecură găsindu-și locul de ascuns. Supară până seara un bordeiu semănând cu o vi-zuine de urs. Dar era așa de bine pitulat că n’ar fi trecut prin cap cui-va că acolo sunt ei ascunși.</p>
             </div>
-               <div type="chapter" n="13">
+               <div type="chapter">
    <head>CAPITOLUL XIII</head>
 <head>Întreitul omor de la lanopoi</head>
 <p>Pastele sosi.</p>
@@ -1508,7 +1506,7 @@
 <p>— E un copil... Era însărcinată Lisaveta și ’i-a eșit copilul prin pântecele spintecat.</p>
    <p>Fulger se cutremură.</p>
                </div>
-            <div type="chapter" n="14">
+            <div type="chapter">
    <head>CAPITOLUL XV</head>
 <head>Revoluția de la 1848</head>
 <p>Suntem în Iunie 1848.</p>
@@ -1552,7 +1550,7 @@
 <p>El fu unul din cei mai stăruitori capi ai revoluției. Dupe stingerea ei, el se retrase la mănăstirea Gernica unde, dupe vre-o zece ani, muri pe neașteptate.</p>
    <p>Viața lui era cea mai sfintă. Ziua și-o trecea in rugăciuni. Chiar moartea când l’a luat l’a găsit închinându-se.</p>
             </div>
-            <div type="chapter" n="15">
+            <div type="chapter">
    <head>CAPITOLUL XVI</head>
 <head>Cine era călugărul ?</head>
 <p>Negreșit că cititorul șî-a închipuit că acel pravoslavnic călugăr, nu era altul de cât chiar Fulger, tâlharul și omorîtorul de altă dată.</p>
@@ -1576,7 +1574,7 @@
             </div>
       </body>
       <back>
-            <div>
+            <div type="liminal">
 <p>La H. Steinberg. Lihnii- Antiqeuai, Calea Raho-vei No. 7, se află de vendare urmâtdrele cărti:</p>
 <p>DICȚIONAR ROMAN-GERMAN de</p>
 <p>I. SA1NEANO, profesor, prețul 5 lei.</p>
@@ -1585,17 +1583,17 @@
 <p>Din 
 <hi>crimele feudalismului</hi></p>
 <p>in 2 volume, prețul 4 lei.</p>
-<p>PENTRU JTJ3STI X>E ORI CE CONDIȚIE Care conține regulile bune cuviințe, ale frumoselor purtări și ale etichetei, arta (le a se face cine-va plăcut in societate, scrisori de amor și cereri in căsătorie, etc.</p>
+<p>PENTRU JTJ3STI X&gt;E ORI CE CONDIȚIE Care conține regulile bune cuviințe, ale frumoselor purtări și ale etichetei, arta (le a se face cine-va plăcut in societate, scrisori de amor și cereri in căsătorie, etc.</p>
 <p>Prețul Lei 1. 30.</p>
 </div>
-<div>
+<div type="liminal">
 <head>FORMULARE DE PROCESE-VERBALE</head>
 <p>de D. R. ROSETI</p>
 <p>Acest opuscul conține toate faptele ce au de constatat: Prefecții, sub-prefecțiî, comisarii, sub-comisariî, primarii, notarii, etc. precum și penalitatea dată de lege fie-căruî fapt cu note esplicative. Prețul Lei 1. 50.</p>
 <p>TRACTAT DE STIL EPISTOLAR</p>
 <p>SAU MODELURI UE TOATE FELURILE DE SCRISORI care conține corespondențe comerciale, circulărî, informa-țiuni, comande, scrisosi de credit și de recomandațiuni, con-iracte de închiriat case, arendări de moșii, procuri, testamente, cesiuni acte publice și private etc.—Prețul lei 1. 50.</p>
 </div>
-<div>
+<div type="liminal">
 <head>CĂLĂUSA RACHIERULUI ROMAM</head>
 <p>SAU 1NVEȚATORUL PRACTIC SI ECONOMIC Pentru fabricarea Rachiurilor, Liquerurilor și Romurilor, dupe metoda cea mai bună și cea mai ușoră: în conformitate cu progresele și descoperirile cele mai noi ale Chimiei agricole și industriei —Prețul Lei 1.</p>
 <p>. Se trimite franco veri căruia care va trimite suma disă in mărci poștale.</p>

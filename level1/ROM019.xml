@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" 
-   xml:id="ROM019" xml:lang="ro">
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM019" xml:lang="ro">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -20,36 +22,32 @@
             <measure unit="words">38783</measure>
             <measure unit="pages">164</measure>
          </extent>
-         <publicationStmt>
-            <p>Încorporat în ELTeC<date>2019-l0-01</date>
-            </p>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="firstEdition">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-11"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Încorporat în ELTeC2019-l0-01
+            --></publicationStmt>
+         <sourceDesc><bibl type="firstEdition">
                <author>V. Demetrius</author>
                <title>Matei Dumbărău. ROMAN</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>EDITURA ALCALAY si CO. </publisher>
                <date>1920</date>
                <ref target="http://doi.org/10.5281/zenodo.3229240">Facsimile on zenodo</ref>
-                           </bibl>
-         </sourceDesc>
+                           </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
-         <p></p>
+         <p/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
-            <language ident="ro"></language>
+            <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender key="M"></e:authorGender>
-            <e:size key="short"></e:size>
-            <e:canonicity key="low"></e:canonicity>
-            <e:timeSlot key="T4"></e:timeSlot>
+            <e:authorGender key="M"/>
+            <e:size key="short"/>
+            <e:canonicity key="low"/>
+            <e:timeSlot key="T4"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2019-11-11">Checked by releaseChecker script</change>
          <change when="2019-08-27">Initial TEI version generated.</change>
       </revisionDesc>
    </teiHeader>
@@ -62,25 +60,25 @@
             <p>ROMAN</p>
             <p>ALCALAY si Co.</p>
          </div>
-         <div type="titlePage">
+         <div type="titlepage">
             <p>V. DEMETRIUS</p>
             <p>MATEI</p>
             <p>DUMBĂRĂU</p>
             <p>URMAREA SI SFÂRŞITUL ROMANULUI „ORAŞUL BUCURIEI“</p>
             <p>Că dacă n’ar fi,'nu s’ar povesti.</p>
-            <milestone unit="header" rend="line"/>
+            
             <p>I-a EDIŢIE</p>
-            <milestone unit="header" rend="line"/>
+            
             <p>BUCUREŞTI</p>
             <p>EDITURA ALCALAY si Co.</p>
             <p>1920</p>
          </div>
          <div type="liminal">
-            <div>
+            
             <head>DE ACELAŞ AUTOR</head>
-            <milestone unit="header" rend="line"/>
-            <head>Lucrări originale, publicate</head>
-            <p>„Versuri“ 1901, vol. epuizat.</p>
+            
+           <p> <label>Lucrări originale, publicate</label>
+          </p>  <p>„Versuri“ 1901, vol. epuizat.</p>
             <p>„Trepte rupte“, versuri, vol. epuizat, 1906.'</p>
             <p>„Puterea farmecelor“, nuvele, 1913.</p>
             <p>„Tinereţea Casandrei“, roman, 1914, vol. epuizat. „Sonete“, 1914:</p>
@@ -89,33 +87,33 @@
             <p>„Şcoala profesională Episcopul Gherasim“, nuvele, 1916.</p>
             <p>„Dragoste neîmpărtăşită“, nuvele, 1919.</p>
             <p>„Oraşul Bucuriei“, roman, în 2 volume, 1920. „Strigoiul“, povestiri fantastice, 1920.</p>
-            </div>
-            <div>
-            <head>Lucrări încă nepublicate</head>
-            <p>„Păcatul Rabinului“, roman.</p>
+            
+            
+          <p>  <label>Lucrări încă nepublicate</label>
+          </p>  <p>„Păcatul Rabinului“, roman.</p>
             <p>„Domnul Deputat“, roman.</p>
             <p>„Domnul Colonel“, roman.</p>
             <p>„Povestiri şi poveşti“, nuvele.</p>
             <p>„Poezii“.</p>
             <p>„Setea“, nuvele.</p>
             <p>„Pentru părerea lumii“, nuvele.</p>
-            </div>
-         <div>
-            <head>Traduceri, publicate</head>
-            <p>„In pădurea de portocali“, roman, de Blasco Ibanez.</p>
+            
+         
+           <p> <label>Traduceri, publicate</label>
+           </p> <p>„In pădurea de portocali“, roman, de Blasco Ibanez.</p>
             <p>„Moartea Zeilor“, roman, de Dimitrie Merejkovschi</p> 
             <p>„Coliba blestemată“, roman, de Blasco Ibanez. </p>
             <p>„Neamul Marana“, roman, de H. de Balzac.</p> 
             <p>„Răzbunare“, nuvele, de Guy de Maupassant.</p>
             <p>„Floare de Mai“, roman, de Blasco Ibanez.</p>  
-      </div>
+      
          </div>
       </front>
 <body>
-   <div type="chapter" n="1">
-   <div>
-   <head>O anonimă şi, ca urmare, cearta iscată între doi îndrăgostiţi, precum şi împăcarea.</head>
-      <milestone unit="header" rend="line"/>
+   <div type="chapter">
+   
+   <p><label>O anonimă şi, ca urmare, cearta iscată între doi îndrăgostiţi, precum şi împăcarea.</label></p>
+      
       <p>Orfanii răposatului Mascuris, un băiat şi o fată, depărtaţi dela căminul părintesc de către însăşi mama lor, cu învoirea tatălui vitreg, turburau o-leacă, prin amintire, viaţa lui Matei Dumbărău.</p>
       <p>Carol Mascuris, băiatul, se apropia de vârsta majorităţii, avea vre-o douăzeci de ani. Işi ispră-vise liceul într’un pension, la Iaşi, cu multe co-rigenţe, repetenţe, cu scandaluri repetate, înăbu-şite cu bani, şi se înţelesese de-adreptul cu tutorele, (pentrucă cu maica-sa nu mai coresponda, ştiind-o cu minţile pierdute, şi aşteptând să se vindece), să urmeze iarna cursurile facultăţii de drept din Iaşi, unde avea mulţi prieteni acum şi unde avea să fie toată promoţia clasei lui, iar vara s’o petreacă, fie la Plătăreasa, una din moşiile lor,  fie la vre o staţiune balneară. Tutorele se ’nvoise să-i dea câte o mie de lei pe lună; pe care tânărul o ridica dela o bancă locală. In vacanţe, banca avea instrucţiuni să’i elibereze domnulni Carol Mascuris renta pentru patru luni de-odată.</p>
       <p>Matei n’ar mai fi vrut să dea ochii cu fostul lui elev, cu acela dela care i se trăgea fericirea. Pe tânărul acela slab, deşirat, foarte oacheş, cu ochii afundaţi, în cari strălucea privirea maică-si, arzătoare şi sălbatecă, Matei îl visa uneori noaptea, când ca pe o lighioană turbată, cu care trebuia să lupte, ca s’o isgonească sau s’o ucidă; când strâm-bându-se la el şi ameninţându-1 de departe, ca un maimuţoi răutăcios.</p>
@@ -135,16 +133,16 @@
       <p>Şi ideia că nu fusese în mediul acela numai ministrul cutare, ci mai cu seamă o poveste pipe-rată şi un parvenit extraordinar, sângera inima şi întuneca viaţa lui Matei. De adevăratele lui me-rite, caracudele neputincioase nu pomeneau, nu, de sigur. Şi care dintre ei n’ar fi făcut la fel ca el, fără să fi fost în stare să i ticluiască lui Mascuris discursuri vrednice de nemurire?</p>
       <p>De data asta, ministrul nu se mai duse într’un oraş de petrecere, ci, amărât cum era, plecă la moşie. Pe Margareta se văzu nevoit s’o lase acolo, singură, poate va toca mai puţini bani.</p>
       <p>Nu sosise de patru zile la conacul boeresc, şi dorul de Margareta îl prididi. Nepăsarea de pă-rerea şi de şoaptele lumii îl câştigase: când primi o scrisoare dela Sinaia! Scrisul de pe plic îi era necunoscut. O anonimă.</p>
-      <div type="letter">
+      
        <p><hi>«De cum a-ţi plecat dumneavoastră din Sinaia, </hi></p>
-          <div>
+          
              <p><hi>— i se spunea în epistolă,—  </hi></p>
-          </div>
-          <div>
+          
+          
              <p><hi>stricata de Margareta sa înhăitat cu fiul dumneavoastră vitreg. Veşnic sunt nedespărţiţi; trăesc în aceiaşi odaie la hotel, şi-l toacă şi pe el ca şi pe tată-său».</hi></p>
-      </div>
-      </div>
-      <div>
+      
+      
+      
          <p>Scelerata anonimă putea să mintă, să scornească, dar cele ce spunea, i se păreau lui Matei că sea-mănă mai degrabă cu adevărul, decât cu o min-ciună. Deşi epistola era negreşit trimeasă tot de o mizerabilă cocotă, pizmaşe pe huzurul şi luxul Margaretei, şi Matei nu i se simţea îndatorat pentru pâră, el era sigur că nu minte.</p>
          <p>Vreme îndelungată se gândise la tânărul acela, la pretenţiile pe care le-ar fi putut avea, la răfu-iala cumplită ce-o putea deslănţui, la scandalul nesuferit ce-i putea stârni în jurul lui.</p>
          <p>Dumbărău luase multe măsuri: toate actele de vânzare, de cedare, de închiriere, erau semnate de tutorele minorilor, dar... ce nu putea face un om rău, care ar fi putut ce’i drept avea o îndoită avere, dacă maică-sa nu se mărita din nou, sau dacă se căsătorea cu un ins tot aşa de bogat ca ea.</p>
@@ -263,13 +261,13 @@ c’o ai în buzunar.</p>
          <p>— Carol va fi bogat, din ziua în care va fi major. </p>
          <p>Hotărât, certaţii se împăcaseră. Obosiţi, după fierberea şi furia lor, se întoarseră împreună la hotel. Apartamentul ministerial îi primi cu aceiaş ordine şi capete de servitori plecate. Dar camera care fusese a Margaretei, şi care era despărţită nu-mai printr’o uşe de apartamentul lui Matei, tot închisă rămăsese. Un necunoscut se mutase acolo. Când află întâmplarea, Margareta râse ca în vre-murile ei cele bune.</p>
          <p>— Tot aici era să dorm! Să lăsăm, Matei, aparenţele pe mâine.</p>
-      </div>
+      
+   
    </div>
-   </div>
-         <milestone unit="end" rend="line"/>
-   <div type="chapter" n="2">
+         
+   <div type="chapter">
    <head>Cât s’a petrecut de bine la balul nunţii lui Guţă Dumbărău cu d-şoara Clotilda Agnagnastopol.</head>
-         <milestone unit="header" rend="line"/>
+         
       <p>Abea fuseseră culese ultimele gutui şi pere târzii, frunzişurile copacilor dăinuiau roşii, uscate, şi ră-rite pe unde soarele bătuse mai din plin, şi un frig, frate cu gerul, se lăsă într’o noapt asupra Capitalei, în primele zile ale lui Octombrie. Frun-zele începură să pice, ca tăiate din codiţă. Pomii, scuturaţi de hachiţele unui vânt cu toane, numai la răstimpuri dârz, sub cerul scund, întunecat, ne-păsător, păreau că se lasă despoiaţi cu nepăsare, de podoabele lor învechite, sumbre.</p>
       <p>Lumea, neştiutoare de ce se petrecuse în noaptea aceia, eşise de acasă după treburi, la funcţii, în pardesiuri de toamnă Şi, pentru că superstiţia că: nu e bine să te întorci din drum, dăiueşte, ca toate eresurile, oamenii grăbeau pasul, îngrijoraţi, nemulţumiţi. Prea de vreme venise iarna, multe planuri năruise şi sporea cheltuelile.</p>
       <p>Pe la orele zece, un soare necunoscut, ca o lună săracă, o rotocoalâ gălbue, privi bolnav Bucureştii, şi pieri de grabă, înbolmojită, în vata murdară a norilor. Ca un adio batjocoritor şuera în bătaia vântului, tot mai ridicat, pui de Crivăţ.</p>
@@ -324,10 +322,10 @@ c’o ai în buzunar.</p>
       <p>Puţini se îndurau să se rupă din intimitatea şi căldura mokşitoare. Numai când somnul duse pela ochii celor mai în vârstă penelul lui muiat în miere, începu să se rărească mulţimea, valsul îşi redobândi înţelesul lui de joc, dar farmecul pierise şi lumea era obosită.</p>
       <p>Gazetele partidului anunţară a doua zi, la loc de cinste, căsătoria lui George Dumbărău şi petre-cerea nunţii din casele lui.</p>
       </div>
-         <milestone unit="end" rend="line"/>   
-      <div type="chapter" n="3">
+            
+      <div type="chapter">
    <head>Unde nepoata face o vizită unchiului ministru, iar mai apoi e vorba de acelaş poet</head>
-         <milestone unit="header" rend="line"/>
+         
          <p>Teatrele Bucureştilor erau pline în fiecare seară, de când o direcţie inteligentă, de oameni trăiţi în frământarea Capitalei, înlăturase dramele şi trage-diile sângeroase, grave şi pedante, şi alcătuise un repertoriu modern. Adulterul, în toate împrejură-rile psihologice, in cea mai înaltă societate, pasiona lojile şi stalurile, iar galeria melodramelor fusese răpită şi ea de noua cultură.</p>
          <p>Aglaia Bugulescu ajunsese la glorie prin suspinele ei de nefericită amantă, de pasionată dorinţă, ca şi prin eleganţa corpului ei, bine şi după ultima modă învesmântat, veşnic stârnind admiraţia sălii cu o etolă, cu o brăţară, cu o diademă, cu o dan-telă, cu o mantilă. Ascuţitele tocuri ale pantofilor ei de păpuşe, mulţi senatori le simţeau cu volup-tate şi durere, ca virginele, călcând pe inima lor de Cleopatră nesăţioasă de emoţii.</p>
       <p>Publicul o preţuia, fusese cucerit, dar teatrul avea şi alte valori artistice de scos la iveală. Actri-ţele, unele mai vechi pe scenă, altele tot aşa de risipitoare de senzaţii, de lux şi de frumuseţe tru-pească, suferiseră monopolul rolurilor de amoreză ca pe o nedreptate.</p>
@@ -489,10 +487,10 @@ c’o ai în buzunar.</p>
          <p>Fata râse batjocoritor şi începu să fredoneze un cântec.</p>
          <p>In ziua aceiaj Aglaia era hotăiâtâ să-l pună la locul lui şi pe mizerabilul de Jotj. Cu două mii de lei pe lună, ea nu putea să trăiască omeneşte!</p>
 </div>
-         <milestone unit="end" rend="line"/>
-      <div type="chapter" n="4">
+         
+      <div type="chapter">
    <head>In acest capitol suntem martorii furiei lui Tase Dumbărău, când află ce pocinog i-a făcut fata, iar mai apoi  despre mamo-şul Hrisostom.</head>
-         <milestone unit="header" rend="line"/>
+         
          <p>Zilele Crăciunului, albe de omăt, ca de florile pomilor în Aprilie, sunt de către toţi românii săr-bătorite. Deşi până şi călugării noştri sunt lipsiţi de evlavie, iar bisericile, când sunt goale, nu văd între zidurile lor pe pilduitorii societăţii: mare parte din datinele care însoţesc Naşterea Mântui-torului sunt în fiinţă. Are omul nevoe de anumite zile de răgaz, pentru cari să se pregătească, să’şi desfunde punga, să înlăture alte preocupări. Ţeluri mici, lesne şi de ajuns şi de îndeplinit, de acestea îi trebuesc omului şi cu atât se alege el din religia aspră şi idealistă.</p>
          <p>De pe la sfârşitul lui Noembrie, Tase Dumbărău se pregătea de Crăciun. Avea porc la cocină, făina cea mai albă o şi adusese pentru cozonaci, şi se gândea cu plăcere la oaspăţul tihnit din gospodă-ria lui. Il întrebase pe fiu-său Guţă, unde face Crăciunul, şi feciorul spusese că de sărbători e ho-tărât să se ducă la moşia lui, — prilej ca s’o mai vadă şi să se lege cu oamenii locului.</p>
          <p>Asta’l întristase pe părinte. El fusese cel mai rericit om din toată mulţimea delà nunta lui Guţă, deşi din pricina nevesti-si, stângace în lumea aceia, plecase numai decât din bal, şi deşi cheltuise iarăş. vre-o două mii de lei, bani pe care era vorba să îi întoarcă fiul cu vremea. « Sunt ai surorilor tale! Gândeşte-te la măritişul lor! » îi spusese Tase lui Guţă.</p>
@@ -651,10 +649,10 @@ c’o ai în buzunar.</p>
          <p>Şi ea ridicase sprâncenele, uimită, căutând să pri-ceapă, cu un începui de bucurie şi de convingere pe chip. Doctorul se aplecă mai tare, şi buzele lui moi, sigilară obrazul bolnavei cochete, care nu se ' ìndepărtă de pe locul ei.</p>
          <p>Hrisostom aflase de terenurile virane ale lui Tase Dumbărău, şi de cel puţin treizeci de mii de lei, bani peşin, ai zestrei Zamfirei. De Anton, de câr-ciumăraş, n’avea să se teamă, bine că nu era vre-un om din societate! Socrul? nenea Tase? avea să numere mai mult de cincizeci de mii de lei, pentru că nu putea spune că fata lui e neprihănită, şi pentrucă cine ar fi luat-o de nevastă când el, Hrisostom, cel care o moşise, era în stare să de-stăinuiască isprava vinovată a Zamfirei? Mai scăpase doctorul prilejuri bune, dar pe ăsta n’avea să’l lase să’i scape!</p>
       </div>
-         <milestone unit="end" rend="line"/>
-      <div type="chapter" n="5">
+         
+      <div type="chapter">
    <head>Unde ni se pare că înviază soţia lui Matei Dumbărău şi aflăm că marele om va da la lu-mină o gazetă.</head>
-         <milestone unit="header" rend="line"/>
+         
          <p>Vorbe cu tăiuş, răutăţi, îşi spuseseră de multe ori, în viaţa trăită la olaltă, Matei şi Margareta Zizu. Nimeni nu ne cunoaşte şi nu ţine morţiş să ne arate că ne cunoaşte, ca tovarăşul destăinuirilor noastre trupeşti. Parcă tocmai pentru că voise s’o sugrume, în seara furtunoasă din parcul Sinaei, Matei se simţea şi mai legat de Margareta. Ocara, acuzaţiile drepte chiar, nu pot ucide o dragoste în-cuibată în trup, ci numai saţul şi desgustul, care des-podobesc încet încet, ca o zăcire treptată, făptura mulţumirilor noastre.</p>
          <p>Dumbărău n’avea s’o facă nevasta lui, nici o-dată, pe femeia despre care poate nu minţise tur-burătoarea scrisoare-anonimă. Prea mulţi amanţi avusese, până s’ajungă la el, şi prea o cunoştea toată lumea! Margareta Zizu : d-na Dumbărău! asta nici odată!</p>
          <p>Ea părea să spere totuş, din seara aceia vijeli-oasă. Poate tocmai pentru că fusese în stare mi-nistrul s’o bată! Margareta nădăjduia, mai ales pentru că după ce se certasem aşa de groaznic, Matei, cu mânia topită în duioşie şi amor, spu-sese pe neaşteptate, că se va divorţa de Aspasia Mascuris. Iar mâna lui, fierbinte în clipa aceia, îşi petrecuse degetele printre degetele mânii ei, ca şi cum mărturisea dorinţa unei legături şi mai strânse pe viitor. Oare nu se mai văzuseră asemenea u-niri? Etau mai cinstite femeile ciocoilor de cât ea? N’aveau şi ele aceleaşi hachiţe şi gusturi? Trebuia să se căsătorească cu tămbălău?</p>
@@ -793,7 +791,7 @@ c’o ai în buzunar.</p>
          <p>— Acum, tinere, vino mâine dimineaţă cu ar-ticolul dumitale. Cred că nu ţi-a scăpat nimic din cele ce ţi-am spus ?</p>
          <p>— Da, excelenţă, să îndoi Mihai, gata să plece.</p>
          <p>Ministrul îi întinse mâna, neîncrezător, socoti că n’are nimic de adăogat, şi’l lăsă să plece.</p>
-         <milestone unit="absent"/>
+         <milestone rend="space" unit="subchapter"/>
          <p>— E pur şi simplu splendid! spuse a doua zi dimineaţa Guţă, iutrând la unchiu-său, şi desfăcu un sul de hârtie, în care avea articolul prim al Oglinzii.</p>
          <p>Dumbărău, cel mare, începu îndată să-l citească.. Întâi în gând, apoi, răpit de diapazonul frazei, tot mai tare, mai oratoric. La răstimpuri făcea pauze de efect, întorcea capul spre nepot.</p>
          <p>— Unde  ? să 1 pup! isprăvi el articolul. Piciul ăsta rebegit e vrednic de mine!</p>
@@ -812,10 +810,10 @@ c’o ai în buzunar.</p>
 <p>— Dar Mindirescu te-a servit cu ceva? întrebă atotştiutorul nepot. . . -</p>
          <p> — Imi spusese. Aşteptam, dar nu credeam. As-pasia e cu toane. Ce-i drept, avusesa vreme şi să se schimbe şi să ia o hotărâre statornică. Odată divorţul pus la cale,<title> Oglinda Vremii</title> poate să apară. Iată cu ce voi înlocui eu prestigiul averii lui Mascuris!</p>
 </div>
-      <milestone unit="end" rend="line"/>
-         <div type="chapter" n="6">
+      
+         <div type="chapter">
       <head>Regăsim aici câteva din cunoştinţele noastre, pe care noi le doream, iar autorul era să le uite</head>
-         <milestone unit="header" rend="line"/>
+         
             <p>Crăciunul pe care consilieiul comunal Athanase Dumbărău avea să-l petreacă mâhnit şi pustiu, ca şi arendaşul cârciumei lui, Anton Sitaru,—fata lui Zamfira avea să-i petreacă bine.</p>
             <p>Deşi vânduse două din terenurile lui virane şi tăiase porc, bietul Tase nu petrecea.</p>
             <p>Ca un copil răsfăţat, aşa se alinta leuza, repede întremată. Visuri, cari nu-i aduceau de loc aminte cârciuma tatălui ei şi-a lui Anton, trandafirii, dulci, o ajutau să vadă acvea tot ce i murmura doctorul Hrisostom. Avea să se mărite cu un doctor, să fie doamna doctor, să aibă trăsură de casă, să fie poftită la baluri şi să dea oaspeţe, să aibă o ser-vitoare care' s’o îmbrace şi s’o coafeze! Ce om isteţ era frateie ei! Numai el le imbinase toate astea, ca s’o despartă de bietul Anton. Săracul To-nică! Of! de nu s’ar mai gândi la el! O să se omoare poate, când o auzi că ea se mărită! Dar dacă n’o îngăduiau părinţii, dacă el era un biet om fără carte, un cârciumar? La urma urmei, el ce-a pierdut? Si se resemneze! El n’a suferit nici pe sfert din ce a îndurat ea, cu lepădarea prun-cului semănat de el. Numai plăceri a avut Anton, pe când ea ? Cine era în drept să se plâng ? Era nestatornică? era trădătoare? Dar putea face al-tfel ? Tăticu n’ar fi dat-o în ruptul capului după el, iar Guţă... Guţă o adusese aici!</p>
@@ -844,10 +842,10 @@ c’o ai în buzunar.</p>
             <p>— Sunt în stare să te dau de urechi afară, dacă reîncepi!!...</p>
             <p>Caraghiosul, beat cum era, putea să-i strice com-binaţia cu Clempănescu. Cinci mii de lei pe lună! Dar lucrurile se petrecuseră nostim; debutantul reveni, se ţinu să mai bea, declamă alte versuri. Comicul istorisi păţanii actorişti, într’o veselie tot mai sgomotoasă. Clempănescu uita că departe, în provincie, îl aşteptau nevasta şi copiii şi că ar fi vreme să se gătească de plecare. Sărbătorile veniseră cu bine, anul care avea să înceapă în curând, se vestea bu noroc şi veselie.</p>
    </div>
-      <milestone unit="end" rend="line"/>
-      <div type="chapter" n="7">
+      
+      <div type="chapter">
          <head>Aflăm cu bucurie aici, că Zamfira se mărită onorabil, şi ne întristăm de moarte, asistând la secarea vocii celui mai mare orator; şi plân-gem mai apoi moartea boe-rului Bolohan, şeful, veseli că s'a isprăvit romanul.</head>
-         <milestone unit="header" rend="line"/>
+         
          <p>In a patra zi de Crăciun, Guţă îşi lăsă familia la moşie să petreacă şi el veni în Capitală, ca său vadă ce se mai întâmplase cu sorâ-sa. Soacră-sa şi nevastă-sa le spusese că plecarea lor se sin ţise: foarte, că era mare nevoe de o femee, de o stă-până în casa dela Bucureşti, în tânăra gospodărie, lăsată pe mâna slugilor noi, şi că avea de gând s’o mute pe soră-sa în casa lor. Avea s’o ţină şi mal apoi pe Zamfira, după venirea familiei dela ţară: pentru că taică-său, Tase Dumbărău, se făcuse ur-suz şi nu era chip să le treacă pragul un om tâ-năr. La el, altceva: era societate, petreceri, fata putea face cunoştinţe bune, în vederea unui mă-ritiş...</p>
          <p>După ce dădu o raită pe la casa lui, necesari după o călătorie în trăsură de ţară şi în tren, se  duse să-şi vadă sora.</p>
          <p>N’avea presimţiri rele, şi intră senin în casa ma-moşului Hrisostom.</p>
@@ -878,7 +876,7 @@ c’o ai în buzunar.</p>
          <p>Şi fericitul părinte abia avusese tăria să se toc-mească în lege. Doctorul voia şeaizeci de mii de lei, bani peşin, şi două locuri virane.</p>
          <p>Insfârşit, după tocmeli îndelungate, dar priete-neşti, Dumbărău tatăl bătuse palma: avea să’i nu-mere ginerelui patruzeci şi cinci de mii de lei şi să’i treacă în foaia de zestre o proprietate, un imobil, dela care avea să ia ginerele două mii de lei anual, precum şi un loc viran.</p>
          <p>Hrisostom poruncise şampanie, şi se despărţiră la urmă, sărutându-se. Soarta Zamfirei se îndruma bine, cu temei.</p>
-         <milestone unit="absent"/>
+         <milestone rend="space" unit="subchapter"/>
          <p>Pregătită din ajun, Oglinda Vremii apăru în în ziua de Anul Nou, cu formatul obişnuit al ga-zetelor, pe patru pagini. Deocamdată toate chel-tuelile fuseseră susţinute de către directorul ei, Matei Dumbărău. Gazeta fusese nevoită să însereze pe pagina patra anunţuri neplătite, dar pe cari ad-ministratorul spera să le stoarcă mai apoi cu lan-sarea ziarului.</p>
          <p>Articolul prim al «Oglindei» lăcuse vâlvă în lumea politică. Prieteni şi adversari îl citiseră în taină, răspicat şi oftaseră. Dumbărău se vădea un om politic de mâna întâia: nu lua nici o atitu-dine, îşi deschidea toate căile, spre toate ţelurile, şi plutea aşa, într’o regiune superioară, gata să se îndrepte către o putere cât mai multă, către măriri tot mai înalte. In cluburi, până să înceapă jocu-rile pasionate, nu se vorbea decât de el. Scrisorile elogioase curgeau, multe anonime, abonamentele de asemenea.</p>
          <p>Agiamiadis veni şi de astădată să-l felicite pe marele orator, şi’i propuse, cu stăruinţa celui mai bun prieten, să susţină el o parte din cheltuelile mari ale apariţiei unui jurnal. Sub diferite pretexte, alţi membrii mai mărunţi ai partidului, îl vizitară şi, la plecare, după ce’l felicitaseră pentru articol şi ziar, se interesară dacă <title>«Oglinda Vremii»</title> pri-meşte colaboratori şi socoate să se transforme- dintr’o gazetă personală într’una pusă pe acţiuni.. Era de dorit ca «Oglinda» să ajungă organul oficial al partidului. Asemenea gazetă nu mai apăruse în ţara românească!</p>
@@ -1006,7 +1004,7 @@ c’o ai în buzunar.</p>
          <p>Gândul că nu va trece mult şi că Matei va fi liber, va fi divorţat, o cuminţea, o făo a soţie vred-nică şi blândă.</p>
          <p>Avea să se mute negreşit în palalul Mascuris! Ideia asta o îmbăia în fericire, o renăştea. Toată viţa ei, de haimana, poate, de golani de sigur, -tresărea de mândrie şi svâcnea în bătaia inimii ei. Halatul Mascuris! casă de voevod! Nu erau multe ca aceia în Capitală! O zidise domnitorul Paţaia-nis, şi ea, Margareta, avea s’o locuiască, în ciuda tuturor prietenelor, care făceau odinioară trotua-rul cu ea, şi dintre cari unele fuseseră pizmuite pentru norocul lor. Hei, dar avea să le arate şi ea noroc! Iar dela mutarea ei singură, acolo, până Ia căsătorie, cât ruai era? La urma urmei se pu-tea lipsi de măritiş, numai să iasă ca o prinţesă de trei ori pe zi în trăsură, pe cele trei laturi ale palatului! Nu se temea,de loc că Matei ar putea s’o înlocuiască. De adta-i ardea lui, bietul mut?</p>
          <p>De unde va fi luat Matei boala, Margareta se întrebase, dar fără stăruinţă şi temere şi fără ge-lozie. Dela ea n’o luase, asta o credea neclintit.. Femeia se întrebase dacă bola lui Matei nu e ucigătoare. Auzise de tuberculoză în gât. Sifilisul n’o înspăimântă. Bjalâ uşoară şi îngăduitoare, daca te cauţi. O are toata lumea, şi zâmbeşte, şi bea, mănâncă şi iubeşte, câutându-se în taină, cu re-gularitate. O avusese şi ea. Chiar când o căpătase, dela unul din fraţii Paţachina, dacă nu dela amân-doi, se colase cu Matei. El, Dumbârău, nu ştiuse şi nu aflase. Margareta urmase însă trei ani în-cheiaţi cu tratament şi, pricepând că-şi face silă trupului de geaba, ntmai având nici o manifestare şi plictisindu-se, părăsise căutarea medicală, de-sigur tămăduită. Dacă Matei, socotea ea, s’ar fi îmbolnăvit atunci, ar fi fost ea vinovată; dar acum, mizerabilul, cine ştie cine ’l-a «decorat».</p>
-         <milestone unit="absent"/>
+         <milestone rend="space" unit="subchapter"/>
          <p>Felinarele îmbrobodite cu crep-de doliu ardeau ziua în amiaza mare; pe tot parcursul cortegiului funerar. Consilierul comunal care luase asupră-şi îndoliarea Capitalei câştiga zece mii de lei. Calea Victoriei roia de lume. Ziua era dulce, de iarnă-b ajină. Pe la ceasurile trei, Ghiţi Popa, măce-larul, se opii în faţa grădinii Ateneului, se ală-tură de felinar, consoarta lăcu front lângă Ghiţă, iar copiii dumnealor trei la număr, ca mai mici, trecură înaintea lor, ca să poată vedea.</p>
          <p>Era şi vremea. Un sgomot ciudat venea de departe. Cu încordaret auzului, lumea se desluşi: era o muzică de lăutari. Lumea se îngrămădi toată în marginea trotuarului, capetele se întoarseră către soseaua Kiselef.</p>
          <p>Vizavi, în dreptul lui Popa, în hainele lor cele mai bune, ca toată lumea de altfel, Stroe Bubuc cu nevasiâ-să, o fcmee grasă ca şi el, aşteptau ţepeni, mândri, siguri că şi Ia ei se holbează piz-maşe destulă lume. El se înfoia într'o blană de o  mie de lei, se descheiase ca să se vadă căptuşala  bună şi costumul negru; ea, îşi spânzurase de mână un manşon de jder, mare de-i obloja tot pântecele, până la genuchi.</p>
@@ -1031,7 +1029,7 @@ c’o ai în buzunar.</p>
          <p>Fusese într’adevâr Zamfira, găsită întâmplător cu Hrisostom, după ce se pierduse de familia lui Guţă, eu care locuia. </p>
          <p>Anton colindă mult uliţele Bucureştilor, intră prin restaurante şi cafenele, în care altă dată n’ar fi cutezat să pătrundă, în căutarea perechii. Bărba-tul cu care o văzuse la braţ pe Zamfiriţa, i se păruse tejghetarului un boer. Care va să zică, hotărât că nu era de nasul lui Zamfira. De prisos o aş-tepta şi crezuse nestrămutat în statornicia ei! Anton, uita că veştejise credinţa în statornicia iubitei. Neamurile ei bogate şi sus puse îi găsiseră soţia repede, şi el rămăsese, deşi fusese a lui fata-mare, tot golanul şi mitocanul Anton, cu şorţ veide. Dar cu copilul din pântecele ei, oare ce aveau să facă ? Copilul! ce’i păsa lui de copil ? Poate că i se pă-ruse numai Zamfirei că e însărcinată, ori il lepă-dase, cumfac toate cucoanele! Au boerii atâţia copii, ca ţăranii ori mahalagii?</p>
          <p>Obosit, istovit, aşa se târî până la crâşma lui, Anton Sitaru. Când îşi privi de departe firma, pe care mândru şi cu multă bucurie o atârnase acolo, cu piroane mari, ca să ţină, patronul scuipă alături. Era aşa de scârbit, că- nu stătu nici o clipă la tejghea şi se strecură de-adreptul în odaia lui de btcher, aşa de fericită odinioară. Stătu mult pe marginea patului, pe salteaua pe care avea să se svârcolească toată noaptea.</p>
-             <milestone unit="absent"/>
+             <milestone rend="space" unit="subchapter"/>
          <p>Inaintea cavoului familiei Bolohan avea să vor-bească marele orator al partidului guvernamental, Matei Dumbărău. Lume multă, ca la o întrunire publică, aştepta cu capetele descoperite cuvântarea funebră, de glorificare. La cei cari urmaseră con-voiul, se adăogaseră şi cei care fuseseră după coş-ciugul conului Mişu, precum şi altă lume, venită din vreme la cimitir, pe jos, în tramvae, cu trăsuri.</p>
          <p>Când veni clipa să se rostească, Matei, cu discursul scris în mână, deşi el nu vorbise nici odată, după note măcar, îşi duse. mâna la ochi, apoi la gât, ca şi cum emoţia îl sugruma. Un fior străbătu mul-ţimea încordată, şi trupurile înghesuite se aplecară ca un lan către marele orator.</p>
          <p>Matei, schimbat la faţă, întoarse capul, ducân-du-şi batista la ochi, către Guţă, care era acolo, ca un aghiotant. Norodul înţelese. «Nu poate vorbi l Emoţia! Ce crezi! Era ca un copil al şefului!» se auzi prin norod, şoptindu-se. Mulţi plângeau.</p>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" 
-   xml:id="ROM011" xml:lang="ro">
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM011" xml:lang="ro">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -20,35 +22,31 @@
             <measure unit="words">29817</measure>
             <measure unit="pages">97</measure>
          </extent>
-         <publicationStmt>
-            <p>Încorporat în ELTeC<date>2019-l0-0l</date></p>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="printSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-11"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Încorporat în ELTeC2019-l0-0l--></publicationStmt>
+         <sourceDesc><bibl type="printSource">
                <author>Grigore H. Grandea</author>
                <title>Fulga sau ideal și real</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>EDITURA PENTRU LITERATURĂ</publisher>
                <date>1975 (1872)</date>
                <ref target="http://doi.org/10.5281/zenodo.3229278">Facsimile on zenodo</ref>
-                           </bibl>
-         </sourceDesc>
+                           </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
-         <p></p>
+         <p/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
-            <language ident="ro"></language>
+            <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender key="M"></e:authorGender>
-            <e:size key="short"></e:size>
-            <e:canonicity key="high"></e:canonicity>
-            <e:timeSlot key="T2"></e:timeSlot>
+            <e:authorGender key="M"/>
+            <e:size key="short"/>
+            <e:canonicity key="high"/>
+            <e:timeSlot key="T2"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2019-11-11">Checked by releaseChecker script</change>
          <change when="2019-09-06">Initial TEI version generated.</change>
       </revisionDesc>
    </teiHeader>
@@ -59,9 +57,9 @@
         </div>
      </front>
 <body>
-<div type="chapter" n="1">
-   <div>
-   <head>CINE O FI!</head>
+<div type="chapter">
+   
+   <p><label>CINE O FI!</label></p>
 <p>Între oaspeţii ce se aflau în monastirea Curţii de Argeş, acel nestimat al arhitectură bizantine, în vara anului 1864, era şi un june, Costin Fulga. Nimeni nu-l cunoştea.</p>
 <p>Nu avea încă douăzeci şi cinci ani. Fruntea lui lată şi undulată de cugetări, uitătura vie şi pătrunză-toare, semn al unui spirit concentrat, zîmbetul ironic care-i flutura pe buze cînd auzea discuţiile vulgare ale celorlalţi, arătau că este una din acele fiinţe cari vieţuiesc mai mult în sine şi cari nu aruncă atenţia în jurul lor decît numai atunci cînd află ceva mare, frumos şi nobil, sau ceva demn d-a smulge prin ilaritate un suflet din lumea cugetărilor.</p>
 <p>Junele Fulga nu avea altă ocupaţie mai favorită decît să contemple biserica, să străbată locurile vecine, să citească la umbra unui fag sau să se afunde în reverie, voluptatea sufletelor alese. Avea o singură grijă, aceea d-a veni regulat la ora mesei. Nu lua parte la convorbirile cari animau pe ceilalţi oaspeţi. Îşi bea cafeaua, privind varietatea ornamentelor bisericei, adevărate giuvaerii de artă; apoi pleca, şi nimeni nu-1 mai vedea în cursul zilei.</p>
@@ -100,8 +98,8 @@
 <p>—    Nu încă! răspundea ea suspinînd.</p>
 <p>—    Grăbeşte, timpul trece, viaţa nu are decît o primăvară.</p>
 <p>În acel moment ochii ei văzură o hîrtie. O luă şi citi aceste versuri şterse cu cîteva linii:</p>
-</div>
-   <div type="poem">
+
+   
 <l>Dacă viaţa noastră jună</l>
 <l>E ca floarea unui crin,</l>
 <l>Dacă moartea încunună</l> 
@@ -114,15 +112,15 @@
 <l>Să ne treacă în zadar?</l>
 <l>Hai să soarbem cu dulceaţă</l>
 <l>Al iubirii scump pahar!</l>
-   </div>
-   <div>
+   
+   
 <p>—    Cum! — exclamă Zoe, — şi el a şters aceste versuri cari sînt atît de frumoase? Dacă-1 voi cunoaşte o dată, o să-l rog să mi le scrie în album.</p>
 <p>Apoi începu să comenteze versurile:</p>
-   </div>
-   <div type="verse">
+   
+   
 <p>„Pentru ce ar aşterne Dumnezeu aceste covoare de iarbă şi flori, pentru ce ar încununa munţii şi cîmpiile cu verdeaţă, dacă nu pentru desfătarea noastră? Ar fi o nebunie să lăsăm a trece cel mai frumos timp al anului fără a ne îmbăta de profumul florilor, de cîn-tecul paserilor, de freamătul şi răcoarea pădurilor, de murmurul apelor şi seninul cerului!”</p>
-   </div>
-   <div>
+   
+   
 <p>Zoe era într-una din acele dispoziţii cînd răsună în suflet un concert de melodii, cînd tot ce izbeşte auzul şi vederea, prin prisma iluziilor, este frumos.</p>
 <p>Deodată Zoe se schimbă la faţă. Ea văzu un june care înainta încet şi cugetînd. Ascunse hîrtia în sîn. Ochii lor se întîlniră şi două scîntei scăpărară deodată.</p>
 <p>—    Cine o fi ? se întrebă copila roşind şi tremurînd. Ochii ei împăienjinaţi nu mai vedeau decît întunerec, şi în acel întunerec privirea tristă şi profundă a junelui.</p>
@@ -134,9 +132,9 @@
 <p>În acelaşi timp două suspine se îngînară cu freamătul frunzelor, cu cîntecul greierilor; două voci şoptiră:</p>
 <p>—    Cine o fi ?</p>
 <p>Şi ferestrele se închiseră.</p>
-   </div>
+   
 </div>
-   <div type="chapter" n="2">
+   <div type="chapter">
    <head>ROUĂ ŞI LACRIMI</head>
 <p>Costin stinse lumina şi se aruncă în pat.</p>
 <p>Camera era scăldată în razele lunii.</p>
@@ -181,9 +179,9 @@
 <p>Copila surprinsă roşi ca o cireaşă şi fugi în camera ei.</p>
 <p>Costin rămase mult timp cu ochii ţintiţi pe uşa care-i ascunsese tot ce au visat poeţii mai pur, mai dulce şi mai frumos.</p>
    </div>
-   <div type="chapter" n="3">
-      <div>
-   <head>CUM CRESC MUGURII ŞI FLORILE</head>
+   <div type="chapter">
+      
+   <p><label>CUM CRESC MUGURII ŞI FLORILE</label></p>
 <p>Ciudată este inima omului! Cunoaştem legile după cari se mişcă apele pămîntului, stelele cerului, norii aerului, dar nu cunoaştem pe ale inimei care este cel mai profund ocean şi cea mai misterioasă adîncime a universului. Vai aceluia care se încrede a pluti pe acest teribil abis! Suferinţele celui ce înfruntă furia lui Neptun, sînt nimic pe lîngă cele ce va îndura el.</p>
 <p>In tot cursul zilei Costin străbătu coridoarele şi locurile din jurul monastirei ca o hiară sălbatecă care poartă în pîntece săgeata vînătorului.</p>
 <p>Către seară, simţind că este cu neputinţă ca somnul să atingă genele lui, luă un cal şi începu a-l alerga peste văi şi dealuri. Tîrziu după miezul nopţei, ostenindu-şi corpul, se culcă pe spinarea unei stînci.</p>
@@ -193,16 +191,16 @@
 <p>În cîteva ore cum m-am schimbat!</p>
 <p>Şi plecă cu paşii împleticindu-se spre monastire. Calul îl urmă cu capul plecat. Uneori ridica urechile şi ţintea ochii săi inteligenţi asupra junelui, ca cum l-ar fi întrebat de ce sufere.</p>
 <p>Costin se afundă într-un desiş de arbori. Umbra, freamătul, răcoarea îi alinară puţin durerea încît simţi dorul d-a o revărsa în cîntece. Vocea lui se auzi în sînul năturei ce părea că visează şi ecoul văii îngînă aceste versuri:</p>
-   </div>
-   <div type="poem">
+   
+   
 <l>Cer frumos al ţării mele,</l> 
 <l>înflorit cu mii de stele,</l>
 <l>Cît eşti tu de fericit,</l>
 <l>Că-n lumina ta se scaldă</l> 
 <l>O privire dulce, caldă,</l>
 <l>Ochi de înger mult iubit!</l>
-   </div>
-   <div>
+   
+   
 <p>Lunca răsuna încă de cele din urmă cuvinte ale junelui, cînd o voce din depărtare, ca din altă lume, dulce şi misterioasă,un cîntec melodios lebădă murindă, făcu să i se înfioare inima ca frunza şi iarba mişcată de boare. Înclinînd auzul spre pămînt, sorbi accentele acelei voci, cum soarele arzător soarbe rouă florilor.</p>
 <p>Cîntarea încetă. Condamnatul din infern auzind vocea lui Dumnezeu că-1 iartă şi-l cheamă la bucuria eternă, n-ar fi avut o faţă mai strălucitoare decît Costin în acele momente. Alergă spre partea de unde auzise acele accente cereşti.</p>
 <p>Într-o speluncă sub poalele monastirei, văzu pe Zoe. Era însoţită de Amalia.</p>
@@ -264,9 +262,9 @@
 <p>Şi adierile din iarbă, flori, frunze şi unde, îngînau şoapta unei sărutări al cărei profum se înălţa către    Dumnezeu.</p>
 <p>Costin şi Zoe ridicară ochii spre cer. Li se păru că cerul este deschis şi că Dumnezeu le surîde din splendidul său tron, zicîndu-le:</p>
 <p>„Iubiţi-vă!”</p>
+   
    </div>
-   </div>
-   <div type="chapter" n="4">
+   <div type="chapter">
    <p>METEMPSIHOZĂ</p>
 <p>Urianu este un nume care ascunde pe cel adevărat.</p>
 <p>Nici că am putut face altminterea, cînd cei mai mulţi din eroii noştri vieţuiesc încă.</p>
@@ -297,7 +295,7 @@
 <p>Amalia îi deşteptă din extazul lor.</p>
 <p>Se înturnară acasă pătrunşi de religiozitate, ca cum s-ar fi întors dintr-un sînt pelerinaj. Dar nu era pelerinajul amorului lor? Acele locuri umbroase, prin sărutările, suspinele şi aspiraţiile lor, nu devenise mai sînte decît Sinaiul, Meca şi Sionul?</p> 
    </div>
-   <div type="chapter" n="5">
+   <div type="chapter">
    <head>PEŞTERA DÎMBOVICIOAREI</head>
 <p>A doua zi pe cînd se înhămau caii la trăsură, domnul Urianu se plimba prin curtea ospelului. Arunca ochii din cînd în cînd spre fereastra lui Fulga. Aerul figurii arăta că cugetările îi erau concentrate.</p>
 <p>—    Zoe iubeşte pe junele acesta. Nu ştiu cum se face, dar şi eu îl iubesc!</p>
@@ -403,7 +401,7 @@
 <p>Lumina palidă şi tremurîndă a torţelor da peşterei un aspect care amintea înfiorătoarea descriere a infernului din Dante. Stoluri de lilieci, turburaţi din somnul lor, zburau în jurul grupei, izbind uneori flacăra torţelor cu aripa lor.</p>
 <p>Pe cînd ţăranul se bocea singur şi încet, celalalt începu:</p> 
    </div>
-   <div type="chapter" n="6">
+   <div type="chapter">
    <head>ZAMFIRA NEBUNA</head>
 <p>Sînt cincisprezece ani aproape de cînd acest nefericit Marin se iubea cu Zamfira. Erau atîta de fericiţi! Viitorul era plin de măguliri pentru dînşii! Aşteptau cu nerăbdare iarna ca să se cunune.</p>
 <p>Toamna scuturase frunzele pădurilor. Vînturile ofilise iarba văilor şi a munţilor. Muscelele erau tăcute şi triste. Focul începuse să arză în vatră!</p>
@@ -512,7 +510,7 @@
 <p>Peste cîteva luni muri aci unde plînge acum bietul Marin.</p>
 <p>Ani au trecut de atuncea, dar durerea lui este tot vie şi altă scăpare nu este pentru el decît patul rece şi întunecos al mormântului, lîngă aceea care a murit cu numele lui pe buze şi cu braţele încleştate de gîtu-i, căci pe patul morţii ea l-a iertat.</p>
    </div>
-   <div type="chapter" n="6">
+   <div type="chapter">
    <head>CUM ERA FULGA ?</head>
 <p>A treia zi eroii noştri se întoarseră la Curtea de Argeş.</p>
 <p>Junii revăzură cu bucurie leagănul amorului lor.</p>
@@ -570,7 +568,7 @@
 <p>—    Va învinge oare? întrebau unii.</p>
 <p>—    Cine ştie! răspundeau alţii. Ştim numai atîta că: sau va învinge, sau va muri luptînd.</p>
    </div>
-   <div type="chapter" n="7">
+   <div type="chapter">
    <head>TURTUREL ŞI TURTURELA</head>
 <p>În ajunul despărţirei lor, Zoe şi Costin trecură ziua împreună.</p>
 <p>Erau voioşi, însă zîmbetul lor era scăldat în lacrimi, în tot ce făceau, se vedea o sete d-a profita de fiecare minut.</p>
@@ -610,7 +608,7 @@
 <p>Privighetorile, legănîndu-se în ramuri, cîntau cel mai suav epitalam ce a fost vreodinioară îngînat de suspinele nopţei, această mamă care întinde vălul peste plăcerile dulci ale iubirei, şi, puind degetul pe buze, şopteşte lumei:</p>
 <p>„Tăceţi!</p> 
    </div>
-   <div type="chapter" n="8">
+   <div type="chapter">
    <head>SINGURĂTATEA</head>
 <p>A doua zi familia Urianu plecă.</p>
 <p>Costin rămase singur.</p>
@@ -651,12 +649,12 @@
 <p>Dar lumea oarbă răspundea la toate acestea cu ironie:</p>
 <p>„Democrat!</p>
    </div>
-   <div type="chapter" n="9">
-      <div>
-   <head>PASEREA RĂTĂCIND A</head>
+   <div type="chapter">
+      
+   <p><label>PASEREA RĂTĂCIND A</label></p>
 <p>Dar în timpul acesta iacă ce scrisori se schimbau între Zoe şi vara ei Smaralda:</p>
-   </div>
-   <div type="letter">
+   
+   
 <p>„Dragă Smaraldo,</p>
       <p>De cîteva zile sînt în Pesta. Mama şi tata au ieşit la preumblare. Profit de puţinele momente în cari am rămas cu Amalia, care citeşte pe <title>Alta Troll</title> din Heine şi rîde cu hohot, ca să-ţi scriu. Şi trebuie să-ţi scriu, căci nu mai pot suferi să ascund în mine pe cel mai cumplit din toţi şerpii.</p>
 <p>Ascultă, Smaraldo! Te jur pe tot ce ai mai scump, pe tot ce iubeşti mai mult; pe biblioteca ta cu romanţe, pe valsurile lui Strauss, pe căţelul tău Castor, pe calul şi mustăţile vărului tău Gogu, pune-ţi frumoasa mînă pe gură şi înfrînă rîsul care te apucă totdeauna cînd afli cîte un secret.</p>
@@ -671,11 +669,11 @@
 <p>P.S. Scrie-mi la Viena unde ne vom afla peste zece zile.</p>
 <p>Ai tu vreun mijloc d-a cerceta la Curtea de Argeş, despre ...</p>
 <p>A! era să-ţi spun numele lui. Dar mi-e teamă că vei fi indiscretă, spunînd vărului tău Gogu, care m-a supărat toată iarna trecută cu curtea lui.</p>
-   </div>
-   <div>
+   
+   
 <p>La o săptămînă după ce ajunse în Viena primi acest răspuns:</p>
-   </div>
-   <div type="letter">
+   
+   
 <p>„Dragă Zoe,</p>
 <p>Cu toate jurămintele la cari m-ai supus, n-am putut să-mi înfrîn rîsul. Am rîs ca o nebună şi cu atîta hohot, încît vărul meu, a luat scrisoarea ta care căzuse jos şi a citit-o.</p>
 <p>Tu înamorată! Tu, Zoe? Tu, care ai rîs cu atîta nepăsare de săgeţile gingaşului zeu, acel care în toate lunile face cîte o rană nouă în sînul meu milos?</p>
@@ -699,8 +697,8 @@
 <p>A ta, Smaralda.</p>
 <p>P.S. Oricum, junele tău este plăcut, dar ce păcat!</p>
 <p>Noi, Zoe, sîntem îngăduite a ne înamora cu tot ce poate fi mai căzut din pleava poporului; dar nu ni se permite a ne căsători cu nimeni din acei pe cari naşterea îi pune mai jos, chiar cînd aceia ar avea stema geniului pe frunte.</p>
-   </div>
-   <div>
+   
+   
 <p>Zoe citind această scrisoare, o presimţire cumplită, ca o gheară de fier, îi sfîşia sînul.</p>
 <p>Fiind în relaţie cu vara ei, Smaralda Cordescu, cîştigase pentru dînsa oarecare afecţie.</p>
 <p>Această afecţie însă era un rezultat al deprinderei, căci nu avea stimă pentru dînsa, o dispreţuia chiar.</p>
@@ -721,9 +719,9 @@
 <p>Această credinţă prinse rădăcină în sufletul lui. Neştiind că Zoe suferea tot ca el de lunga despărţire, trămise un şir de scrisori din cari, — mulţumită îngri-jirei ce avuse doamna Urianu, — nici una nu ajunse în mîna fetei.</p>
 <p>Un indiscret ne-a comunicat cuprinsul cîtorva. Le reproducem aci pentru a se şti starea morală a junelui nostru în acele împrejurări.</p>
 <p>Patima ieşise din gradul violenţei, se calmase, şi spiritul suferindului se răsfrîngea asupră-şi, anali-zînd şi sondînd adîncimea răului.</p>
-   </div>
-   <div type="letter">
-   <head>COSTIN CĂTRE ZOE</head>
+   
+   
+   <p><label>COSTIN CĂTRE ZOE</label></p>
 <p>„25 ianuarie, noaptea:</p>
 <p>Te vei mira citind aceste rînduri, vei rîde cu hohot poate. Dumnezeule, pentru ce nu m-ai scutit de această umilinţă: a roşi înaintea acelei ce iubesc cu toată ardoarea sufletului meu, a-mi dezveli inima sîngerîndă înaintea acelei care nici că mai vrea poate să auză numele meu!</p>
 <p>Cu toate acestea voi deşerta paharul umilinţei pînă la drojdii. Eu, cel mai trufaş suflet, mă voi tîrî gemînd la picioarele tale, îţi voi spune toate durerile şi visurile mele. Ah! dacă o lacrimă de compătimire ar roura din ochii tăi! Dar ce zic ? Poate că aceste rînduri nu vor fi întrerupte decît d-un rîs despre-ţuitor. De acum simţ sfîşierile inimei mele. Este cumplită durerea amorului, dar este şi mai cumplită decît mînia divină, cînd despreţul îi rupe linţoliul în care se ascunde.</p>
@@ -766,15 +764,15 @@
 <p>Dar trebuie să termin această scrisoare, căci nu ştiu unde voi ajunge.</p>
 <p>Albeşte de ziuă. Purpura dimineţei se răsfrînge scînteind pe zăpada care învăluieşte casele şi arborii. Paserile se rotesc în fumul care se înalţă de la ccşuri.</p>
 <p>Voi încerca să dorm puţin. Poate că somnul îmi va aduce un vis care să-mi aline durerea, un vis în care să fiu la picioarele tale gemînd şi plîngînd!”</p>
-   </div>
-   <div type="letter">
+   
+   
 <p>„29 martie:</p>
 <p>Te-am revăzut şi decizia d-a nu-ţi mai turbura pacea cu nebunul meu amor s-a nimicit. După ce atîta timp am înecat în pieptul meu suspine şi gemete, după ce atîta timp m-am năbuşit ca ţipătul durerei mele să nu ajungă pînă la tine, am ajuns iar acolo că trebuie să-ţi scriu tot ceea ce am simţit de cînd ţi-am trămis întîia scrisoare, tot ceea ce am simţit revăzîndu-te ... Unde! Acolo unde ar trebui totdeauna să ne întîlnim, căci flacăra care-mi mistuieşte sufletul este tot aşa de pură şi sîntă ca flacăra nutrită de mîna vestalelor.</p>
 <p>Nu ţi-am scris îndată după revedere. Nu aveam destulă putere pentru a mai răscoli dureroasa voluptate ce am simţit întîlnindu-te. Am aşteptat ca vijălia să treacă şi acum cînd s-a făcut senin în sufletul meu, reîncep.</p>
 <p>Eram la biserică în vinerea Patimilor. Nu ştiam că erai şi tu, însă corpul îmi tremura de un fior misterios. Plimbîndu-mi vederea distrată, te-am revăzut. Ce s-a petrecut în mine, nici eu nu ştiu. Atîta numai ştiu că, în momentul cînd cugetările mele au început a se limpezi, simţeam o mare dorinţă d-a îngenunchea şi a mulţămi lui Dumnezeu. Numai teama d-a nu mă expune la mirarea celor cari mă înconjurau, m-a oprit.</p>
 <p>Cu toate acestea o rugă mută, pioasă, caldă se înălţa din toată fiinţa mea către cer!</p>
-   </div>
-   <div type="letter"> 
+   
+    
 <p>„4 aprilie:</p>
 <p>Trăsura ta trecu în momentul acesta pe lîngă fereastră-mi.</p>
 <p>Erai într-însa ... Simţ aceasta după bătăile inimei mele. Dacă ai fi înclinat puţin capul ca să te văd, de cîtă bucurie m-ai fi pătruns! Cît ţi-aş fi fost de recunoscător !</p>
@@ -784,39 +782,39 @@
 <p>Aştept să te întorci de la preumblare. Ce încet trece timpul! Poeticul popor al Eladei era fericit cînd şi-a imaginat pe Saturn înaripat.</p>
 <p>Nu ştiu ce să fac? Să aştept la fereastră sau nu? Stînd, timpul îmi va părea foarte lung; plecînd, mă tem că vei trece fără să te văd.</p>
 <p>Ce fericire! Nori negri se rădică pe cer. Fie bineveniţi! Răspîndească abundenţa peste ogorul plugarului, iar mie dea-mi bucuria d-a te vedea trecînd mai curînd.</p>
-   </div>
-   <div type="poem">
+   
+   
 <l>Ca o dulce nălucire</l>
 <l>A trecut ... dar ochii mei</l>
 <l>N-au putut ca să admire</l>
 <l>Farmecul ochilor săi.</l>
-      <p></p>
+      <p/>
 <l>Amărîtă inimioară,</l>
 <l>Pentru ce nu te-am zvîrlit</l>
 <l>Sub trăsura ei uşoară</l>
 <l>Ca să mi te fi zdrobit ?</l>
-      <p></p>
+      <p/>
 <l>Se va-ntoarce, căci se-nalţă</l>
 <l>Sus pe cer un negru nor;</l>
 <l>Vîntul bate, norul valţă,</l> 
 <l>Paserile strigă-n zbor.</l>
-      <p></p>
+      <p/>
 <l>Oh! mai iute d-ar coprinde</l>
 <l>Acel nor înaltul cer!</l>
 <l>Oh! mai mult de s-ar aprinde</l>
 <l>Fulgerile în eter!</l>
-      <p></p>
+      <p/>
 <l>Ploaia-ncepe ... Aud, vine ...</l>
 <l>A zburat trăsura ei...</l>
 <l>Un fior trecu prin mine,</l>
 <l>Dar în ochi văzui scîntei.</l>
-   </div>
-   <div>
+   
+   
 <p>Da, te-ai întors, dar aşa de răpede încît n-am putut să te zăresc. Vederea mi se împăienjinase. Eram rezimat de fereastră. Cugetam la tine şi suspinam. Ochii-mi urmăreau norul care se întindea pe cer. Auzind uruiala trăsurei tale, căci am ajuns s-o disting d-a celorlalte, am înclinat capul... Ai trecut ca un fulger. N-am putut distinge decît silueta-ţi în fund.</p>
 <p>Însă cum am început, văd bine că oricîte ţi-aş seri, nu vei înţelege nimic dintr-însele decît că sînt nebun.</p>
 <p>A început ploaia. Cerul s-a înseninat. Cît de dulce este aerul răcoros care inundă prin fereastra cu flori! De cîtă bucurie şi pace simţ toată fiinţa mea pătrunsă! Dumnezeule, cum ţi-aş da toată viaţa mea în schimb pentru fericirea d-a putea să cad la picioarele ei şi, sărutîndu-i mînele, să vărs acele lacrimi cari sînt balsamul durerii!</p>
-   </div>
-   <div type="letter">
+   
+   
 <p>„6 aprilie :</p>
 <p>Sînt cîteva ore de cînd îmi frămînt creierii, ca să aflu dacă ceea ce fac este înţelept sau nu şi nu văd decît că nu pot să fac altminterea. Iubesc!.. iacă ceea ce strigă toată fiinţa mea şi, pentru întîia oară, cu atîta putere. Simţimîntul acesta mă face să gust nişte voluptăţi sălbatice, dar în acelaşi timp mă înfiorează.</p>
 <p>Am fugit mult timp de amorul adevărat. Acum însă sînt prins ca o albină care după ce a zburat mai mult timp în jurul unui fagur, în cele din urmă aripele ei se lipesc de miere.</p>
@@ -828,14 +826,14 @@
 <p>Şi azvîrli diamantul în valurile Adriaticei.</p>
 <p>Aşa şi eu. Cît timp nu întîlnisem o fiinţă care să merite amorul meu, eram decis ca inima mea să aibă soarta diamantului: mai bine să amorţească în mor-mînt decît să-şi reverse iubirea asupra unei fiinţe nedemne.</p>
 <p>Dar acum!.. Oh! dacă este adevărat că amorul nu poate fi plătit decît cu amor, apoi această inimă care arde pentru tine, să-ţi fie mai scumpă decît diamantul aceluia!</p>
-   </div>
-   <div type="letter">
+   
+   
 <p>„8 aprilie:</p>
 <p>Nu te-am văzut de cîteva zile şi liniştea care o cîştigasem am pierdut-o.</p>
 <p>Am trecut în toate serile pe la fereastra ta. Am pîndit ore întregi, ascuns în umbră, ca să te văd; nimic însă şi m-am întors acasă mai trist, mai abătut, mai descurajat.</p>
 <p>Mă aflu într-o cumplită situaţie. Sînt încărcat de lucru. Toate facultăţile îmi sunt încordate. Dar ceea ce mă tortură, este durerea d-a nu te vedea. Dacă ar fi cu putinţă să te văz un moment în fiecare săptă-mînă, cîtă energie aş afla în sufletul meu! Cred că aş avea puterea ca în cîţiva ani să mişc societatea după placul meu! Şi aş mişca-o către un scop mare şi frumos, căci amorul tău nu mi-ar inspira decît simţimînte demne de dînsul. Ochii tăi însă nu mă urmează în lume, vocea ta nu-mi inspiră curaj şi putere cînd sufle-tu-mi este abătut şi, abandonat astfel, îmi împlinesc io datoriile cu dezgust şi nepăsare.</p>
-   </div>
-   <div type="letter">
+   
+   
 <p>„11 aprilie:</p>
 <p>Trec în toate zilele pe lîngă fereastra ta, pîndesc ore întregi noaptea, dar nu te văz. Sufăr cum n-am suferit niciodată în viaţă. Pare că o mulţime de şerpi s-a încuibat în sînul meu. Ziua şi noaptea nu am astîmpăr. 15 Lucrul îmi este nesuferit. Cea mai facilă ocupaţie îmi este dureroasă. Abia pun mîna pe o carte şi mi se urăşte. Iau alta şi cu aceea tot aşa. Umblu prin casă, mă uit pe fereastră la fiecare trăsură. Voiesc să scriu; dar unde îmi este talentul, cînd nu pot să 20 te conving de iubirea mea? Aud în mine concertul simţimîntelor răsunînd atît de armonios! Văd zburînd prin imaginaţia mea tablouri atît de frumoase!.. Dar cînd voiesc să le exprim, nu aflu cuvinte. Cele cari le pun pe hîrtie sînt atît de palide, uscate şi neplăcute, 25 îneît blăstem pe aceia cari rn-au minţit că am talent şi descurajarea, furia, durerea încep să mugească în sînul meu.</p>
 <p>Ies din casă, intru, iar ies. Cotesc stradele, temîn-du-mă a nu fi urmărit. Trec pe la tine. Picioarele abia 30 mă ţin, inima-mi tremură, auzu-mi vîjîie, vederea mi se întunecă. Arunc ochii furiş spre fereastră ... Nimic! Şi cînd văd atîta lumină în cer şi pe pămînt, iar la fereastră nimic, am atîta ciudă îneît aş dori ca peste universul întreg să se întindă un întunerec nepătruns. Totdeauna cînd viu acasă, întreb dacă m-a căutat cineva, dacă mi-a adus vreo scrisoare. Ce nebunie! Tot îmi pare că mă va căuta cineva de la tine, că-mi vei trimite vreo scrisoare. Ştiu că nu se poate; cu toate acestea, aştept mereu, mă turbur de impacienţă şi te acuz că n-ai inimă.</p>
@@ -846,16 +844,16 @@
 <p>Am dormit puţin, căci sînt aşa de zdrobit.</p>
 <p>Te-am visat.</p>
 <p>Se făcea că pluteam cu tine într-o barcă pe un lac 20 întins care seînteia de razele soarelui apunînd. Malurile erau încununate de păduri şi verdeaţă. Aerul era îmbălsămit de florile nenufarului, zefirii răcoroşi se jucau în buclele părului tău. Eram culcat la picioa-rele-ţi şi contemplam cerul în ochii tăi.”</p>
-   </div>
-   <div type="letter">
+   
+   
 <p>„18 aprilie:</p>
 <p>Te-am văzut. Ce ferice sînt! Sînt cîtcva minute</p>
 <p>abia de cînd îmi părea că cerul era întunecat de nori negri, că aerul era înţesat de pîclă; acuma văd senin, pentru că simţ seninul în sufletul meu; acuma respir un aer dulce şi îmbălsămit, pentru că florile bucuriei nasc în pieptul meu.</p>
 <p>Te-am văzut numai şi cîtă fericire!</p>
 <p>Dar dacă m-ai iubi?.. Oh! dar mi-e teamă de acest vis. Nu mă iubi, pentru că fericirea d-a fi iubit de tine m-ar ucide. Fiinţa mea este prea plăpîndă pentru a putea să cuprindă o flacărc atît de mistuitoare.</p>
 <p>Lasă-mă numai să te contemplu şi-mi va fi de ajuns această pură şi dulce voluptate, pentru ca să sufăr torturile amorului ce ai aprins în mine.</p>
-   </div>
-   <div type="letter">
+   
+   
 <p>„1 mai:</p>
 <p>Nu pot să dorm. în deşert m-am zvîrcolit cîteva ore în pat. Durerile-mi sînt atît de vii încît somnul nu poate să-mi închidă pleoapele.</p>
 <p>Am deschis fereastra. Noaptea este rece, dar senină. Stelele sînt aşa de vii! Aerul este aşa de dulce! Ah! pentru ce nu pot să fiu lîngă tine!</p>
@@ -874,11 +872,11 @@
 <p>Tot cugetînd, tot umblînd prin casă, m-a apucat ziua. Dacă pînă azi n-ai contemplat cu o fiinţă iubită revărsatul zorilor într-o dimineaţă de vară, nu ştii încă ce armonie este între natură şi inima omului. Niciodată şoaptele, murmurele, suspinele naturci cînd se deşteaptă din somn, nu au ecouri mai dulci, mai pure în sufletul nostru decît în ora cînd umbrele nopţei încep a se lupta cu zorile dimineţei.</p>
 <p>Şi cu toate acestea cînd văd orientul scăldat de purpura matinală, cînd văd arborii legănîndu-şi fruntea în aburul ce se-nalţă din frunzele lor rourate, iar eu sînt singur şi amărît, am o dorinţă d-a muri atît de vie îneît îmi vine să îmi sfărâm capul de păreţi.</p>
 <p>Nu ai tu pe cineva căruia să te plîngi că te-am supărat şi acela să mă provoace ? Oh! să nu ai teamă, nu-1 voi atinge, îmi voi lăsa pieptul desfăcut pentru ca să-mi pătrundă inima ... Aş aştepta ca glonţul să se încuibeze în sînu-mi! În cel din urmă moment te voi binecuvînta că m-ai scăpat d-o viaţă care-mi este mai amară decît moartea.</p> 
+   
    </div>
-   </div>
-   <div type="chapter" n="8">
-      <div>
-      <head>DEZLEGAREA ENIGMEI</head>
+   <div type="chapter">
+      
+      <p><label>DEZLEGAREA ENIGMEI</label></p>
 <p>Fulga era în culmea desperărei.</p>
 <p>Nici un răspuns la scrisorile lui.</p>
 <p>Îşi frămînta mintea ca să afle demonul care-i zdrobise altarul sîntei iubiri.</p>
@@ -964,20 +962,20 @@
 <p>Dar Smaralda?</p>
 <p>Ea era în culmea fericirei.</p>
 <p>„Acum este al meu!” strigă ea şi îndată scrise lui Fulga cele următoare:</p>
-   </div>
-   <div type="letter">
+   
+   
 <p>„Îmi împlinesc o datorie de recunoştinţă scriindu-ţi. Cîteva ore în cari am avut fericirea să mă adăp din ştiinţa domniei-tale, au avut un rezultat de care vei fi mulţumit, căci eşti singurul care ai aruncat sămînţa.</p>
 <p>Despreţuiam literatura noastră înainte d-a te cunoaşte. Dar în urma probelor ce mi-ai dat de frumuseţile ei, cu încetul am ajuns să aflu cele mai dulci plăceri în studiul poeţilor şi cronicarilor noştri.</p>
 <p>Am aflat nefericirea care te-a izbit în inimă. Familia Urianu a dat crezămînt unor infame calomnii. Fii demn în această restrişte. Nu te descuraja. Dacă n-ai aflat idealul domniei-tale în Zoe, gîndeşte-te că ai o altă amantă sîntă şi mare, o amantă care-ţi reclamă amorul şi care se numeşte România.</p>
 <p>Dacă sufletul domniei tale simte trebuinţa a-şi comunica dorul şi suferinţele, încrede-te mie, care voi fi totdeauna amica domniei-tale.”</p>
-   </div>
-   <div>
+   
+   
 <p>Starea în care se afla sufletul junelui nostru, încins de dorul ţărei şi de dorul iubitei, îl făcu să primească scrisoarea perfidă cu bucurie şi răspunse cu multă gingăşie. O corespondenţă afectuoasă urmase apoi între el şi Smaralda.</p> 
+   
    </div>
-   </div>
-   <div type="chapter" n="9">
-      <div>
-   <head>CE A URMAT ?</head>
+   <div type="chapter">
+      
+   <p><label>CE A URMAT ?</label></p>
 <p>Doi ani trecuse de la cele întîmplate şi Fulga, terminînd studiul, se întorcea în ţară.</p>
 <p>Cît ţinu călătoria, valuri de cugetări şi simţiri se rostogoliră în mintea şi inima lui.</p>
 <p>„Cît de mult s-o fi schimbat România!” cugeta el, şi un tablou măreţ şi frumos se răsfăţa naintea ochilor lui. Era patria în culmea splendorei, cum o visează sufletele mari şi nobile.</p>
@@ -992,8 +990,8 @@
 <p>Era noapte.</p>
 <p>Scrise cîteva versuri la lumina lunei.</p>
 <p>Vîntul însă smulse hîrtia stropită de lacrimi, o roti cîtva timp în aer, apoi o lăsă a pluti în cursul undelor. Poetul o urmă cu ochii pînă cînd pieri în urma vasului care înainta spre ţărmul României, ca un balaur văr-sînd flăcări şi fum. Gîndirea-i urmă versurile şi-i păru că vede pe bătrînul Istru în peştera lui, culcat pe un pat de răchită, încununat de papură, trăgînd cu tri-dintele hîrtia ce plutea pe undele cari se rostogoleau la picioarele lui şi citind aceste versuri:</p>
-   </div>
-   <div type="poem">
+   
+   
 <l>Luna veghează, vîntul suspină</l>
 <l>Şi-n alba pînză suflă uşor,</l>
 <l>Nava despică unda cea lină,</l>
@@ -1008,7 +1006,7 @@
 <l>Valul se sparge înaintea sa,</l>
 <l>Austrul bate, îi umflă vela</l>
 <l>Şi zboară, zboară spre ţara mea.</l>
-      <p></p>
+      <p/>
 <l>Dar ce văz colo în depărtare?</l>
 <l>Din valuri ca un mărgăritar</l> 
 <l>Nasc nişte maluri cu răsfăţare</l> 
@@ -1023,7 +1021,7 @@
 <l>Nu-i un miraj? Nu visez eu?</l> 
 <l>Navă iubită şi fugătoare,</l>
 <l>Zboară ca gîndul, zboară mereu.</l>
-      <p></p>
+      <p/>
 <l>Ţărmul scuma-mi dezvăleşte</l>
 <l>Dulci suvenire, scumpe comori:</l>
 <l>Aerul ţărei mă-ntinereşte,</l>
@@ -1037,8 +1035,8 @@
 <l>Viscoli ai soartei, suflaţi în van,</l>
 <l>Căci de acuma dulcea-mi junie</l>
 <l>Află iar pacea-n sîntul liman.</l>
-   </div>
-   <div>
+   
+   
 <p>Era noapte cînd Fulga descinse la Giurgiu.</p>
 <p>În dimineaţa următoare intră în Bucureşti. Capitala României dormea încă pe patul de pulbere, ca o bacantă după o noapte de orgie.</p>
 <p>Nimeni nu-l întîmpină, cu toate că anunţase la cîţiva amici ziua cînd va călca pămîntul României.</p>
@@ -1055,9 +1053,9 @@
 <p>—    Sunt ani de cînd nu te-am văzut!</p>
 <p>Servitorul bibliotecei îl recunoscu asemenea şi, deschizîndu-i uşa templului, zise:</p>
 <p>—    Iacă-te întors. Scaunul şi cărţile te aşteaptă. Acum să te faci bibliotecar.</p>
+   
    </div>
-   </div>
-   <div type="chapter" n="10">
+   <div type="chapter">
 <p>A ÎNNEBUNIT!</p>
 <p>Entuziasmul ce avusese Fulga în cale, pierise. Şezu cîteva ore în bibliotecă. Deschise pe Tacit, dar nu putu să citească. Ameţeala spiritului şi tremurul inimei, nu-1 lăsau a vedea literele cari fluturau pe hîrtie.</p>
 <p>Cînd auzi sunînd o oră după ameazi, un tremur, ca acela ce îndură osînditul cînd înclină capul sub secura călăului, îi zgudui tot corpul.</p>
@@ -1100,7 +1098,7 @@
 <p>Costin auzi şi îngînă:</p>
 <p>— Da, pentru că am crezut în amor.</p>
    </div>
-   <div type="chapter" n="11">
+   <div type="chapter">
    <head>PRELUDELE NUNŢEI</head>
 <p>Fulga străbate ameţit mai multe strade. Simte dorinţa d-a respira puţin la umbră şi intră în grădina Cişmegiu. Şezu p-o bancă, sub un desiş de arbori, în faţa lacului. Plouase în acea noapte. Grădina rîdea ochilor şi lacul se răsfăţa molatic sub cerul senin şi razele soarelui. Ramurile se înclinau pe capul palid al junelui şi la cele mai mici adieri, scuturau pe dînsul picăturile de ploaie.</p>
 <p>„Arborii plîng”, visa el, simţind picăturile pe frunte şi păr, de cînd ochii mei nu mai au lacrimi!</p>
@@ -1155,9 +1153,9 @@
 <p>A doua zi Zoe află că Costin Fulga se căsătoreşte cu Smaralda Cordescu.</p>
 <p>— Dumnezeule, strigă ea, au fost toate calomnii şi intrigi ca să sfărâme amorul nostru!</p>
    </div>
-   <div type="chapter" n="12">
-      <div>
-   <head>NOAPTEA NUNŢEI</head>
+   <div type="chapter">
+      
+   <p><label>NOAPTEA NUNŢEI</label></p>
 <p>Era noapte.</p>
 <p>Luna palidă alerga prin pînzele de nori ca cum s-ar fi grăbit să fugă de spectacolul ce se desfăşura în biserica Sărindarul. Vînturile reci ale toamnei şuierau prin stradele deşerte ale capitalei, zguduind porţile în ţîţîna lor şi făcînd să fumege lumina fanarelor.</p>
 <p>Era o durere în natură. Frunzele uscate se zvîn-turau în aer, paserile gemeau în cuiburi şi lătratul cînilor curma tăcerea mormîntală a stradelor. Rar se io vedea cîte un trecător grăbind paşii către locuinţa lui.</p>
@@ -1182,8 +1180,8 @@
 <p>Mulţimea plecă spre locuinţa domnului Urianu, splendid preparată pentru bal.</p>
 <p>Zoe care abia se ţinea pe picioare, se retrase. Cîteva din amicele ei o urmară, încercîndu-se fiecare să-i răsi-pească întristarea care ca o pîclă deasă coprinsese tot sufletul. Se plînse că-i este capul prea încărcat de flori şi beteală. Ceru să-i ia sarcina. O refuzară zicînd că ar fi un rău augur.</p>
 <p>Înclină capul pe braţul rezimat de masă şi ochii ei rătăciră peste cîteva gazete. Văzu una în care scria mai des Fulga. O luă şi, desfăcînd-o, citi această elegie:</p>
-   </div>
-   <div type="eulogy">
+   
+   
 <l>O! ce senină, splendidă noapte!</l>
 <l>Peste tot pace. O! ce dulci şoapte!</l>
 <l>Vîntul adie, plopii murmur,</l>
@@ -1224,7 +1222,7 @@
 <l>Din visăria care-1 răpeşte.</l>
 <l>Mîne departe d-al său cămin</l>
 <l>Are să fie... O! ce destin!</l>
-      <p></p>
+      <p/>
 <l>Anii alene toţi trec în fine,</l>
 <l>Miron în ţară iacă-l că vine.</l>
 <l>O! ce ferice se simte el,</l>
@@ -1281,8 +1279,8 @@
 <l>„Junele Miron în bătălie</l> 
 <l>Pentru al ţării drept a murit!</l>
 <l>El în viaţă mult a iubit!</l>
-   </div>
-   <div>
+   
+   
 <p>Elegia era de Fulga.</p>
 <p>O cumplită remuşcare începu a roade sînul miresei. Gîndirea ei se întoarse cu cîţiva ani în urmă, la plecarea lui în străinătate. Temerile ce ea arătase despre fidelitatea lui, erau exprimate în acele versuri. Recunoscu în Miron pe Costin întorcîndu-se în patrie cu inima plină de acelaşi amor mare şi sînt. Nu era el care călcase în picioare jurămintele făcute în valea Argeşului, ci ea.</p>
 <p>Ascunse capul în mîni şi plînse amar.</p>
@@ -1305,9 +1303,9 @@
 <p>El declară toate lui Fulga care răcni ca leul cînd vede pe acel ce i-a înfipt săgeata în pîntece.</p>
 <p>Zoe care văzuse pe Fulga depărtîndu-se cu necunoscutul june, împinsă d-o stranie presimţire, se furişă în acea parte şi auzi toată declaraţia lui Stavropolu.</p>
 <p>În momentul cînd Fulga zguduia pe acesta, ca cum ar fi voit să-l sugrume, Zoe se aruncă la picioarele lui. El lăsă să-i scape acel mizerabil. Se uită apoi lung şi cu dispreţ la aceea pe care o iubise atît de mult şi fugi.</p>
+   
    </div>
-   </div>
-   <div type="chapter" n="13">
+   <div type="chapter">
    <head>UN EPITALAM</head>
 <p>Zoe rămase îngenuncheată şi ca izbită de trăsnet.</p>
 <p>Îl văzu fugind, dar crezu că vederea o înşeală. Rămase mult timp cu ochii ţintiţi în partea unde pierise dulcele ei amant. Dar el nu se mai întoarse! Limpezindu-i-se cugetarea, văzu abisul negru şi înfiorător în care o aruncase infama cursă a lui Orzescu.</p>
@@ -1355,7 +1353,7 @@
 <p>Şi figura pieri de la fereastră.</p>
 <p>Era Costin Fulga!</p>
    </div>
-   <div type="chapter" n="14">
+   <div type="chapter">
 <p>A doua zi, în revărsatul zorilor o trăsură cu patru cai ieşea din Bucureşti pe bariera Colentinei şi se îndrepta spre Căldăruşani.</p>
 <p>În trăsură era un june care semăna mai mult cu o umbră, atît era de palid şi secat! Ochii lui rătăceau cu tristeţe peste văile şi cîmpiile ofilite de vînturile şi bruma toamnei.</p>
 <p>Era o simpatie între junel călător şi natura care îl primea în sînul ei, după cum o mamă lîngedă întîm-pină pe un fiu care se întoarce dintr-o lungă călătorie.</p>
@@ -1456,7 +1454,7 @@
 <p>Şi capetele junilor martiri cădeau, cînd dimineaţa era atît de senină, aerul atît de dulce şi valea atît de rîzătoare! Sus stîncile muntelui Ida străluceau ca nişte palate feerice; jos pasările cîntau sărind prin măslinii, portocalii şi rodii cari înconjurau valea, iar păraiele spălau iarba de sînge. Către nord valea se deschidea şi, printre munţii cari se înălţau ca doi păreţi titanici, se vedea luciul mărei scînteind la soare, se vedeau stoluri de pasări trecînd spre sud, se vedea în depărtare cîte o navă cu pînzele albe şi cîte un vapor cu coama de fum negru, se vedea la orizon cerul unin-du-se cu marea, — tablou măreţ şi splendid.</p>
 <p>Dar cînd celui din urmă rănit veni rîndul să plece gîtul, acela-şi încordă braţele şi se ridică în genunchi, palid, sîngerînd, dar senin. Ochii lui se uitau departe peste mare, peste munţi, peste rîuri. Uitătura lui febrilă spinteca spaţiul, oraşe şi sate, văi şi dealuri, ape şi păduri, le trecea clipind. Căuta în depărtare, în patria lui, o fiinţă iubită de care voia să-şi umple sufletul.</p>
 <p>Şi cînd sabia păgînului se ridica strălucind la soare, el aflase p-aceea ce căuta, căci faţa lui se lumină de bucuria martirilor cînd văd cerul deschis... dar sabia fulgeră şi capul sări, ţîşnindu-i sîngele, cu creierii plini de imaginea acelei ce iubise şi cu buzele murmurînd numele ei: Zoe!</p>
-      <p></p>
+      <p/>
 <p>Într-o seară de toamnă am văzut două tinere frumoase. Dezgustul întipărise de timpuriu pe figura lor caracterele lui de plumb. Le cunoşteam, dar nu ştiam de unde. Am frămîntat memoria pînă cînd am recunoscut în cea mai palidă pe Zoe şi în cea mai nepăsă-toare pe Smaralda...</p>
 <p>Am căutat să văd în figura lor urma unui regret. Dar oceanul este atîta de adînc, încît n-am văzut nimic în fundul lui.</p>
 <p>Iarna întîlnindu-le la un bal, am amintit Smaraldei pe Fulga. Ea-mi răspunse:</p>

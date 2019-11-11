@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" 
-   xml:id="ROM009" xml:lang="ro">
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM009" xml:lang="ro">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -16,33 +18,29 @@
             <measure unit="words">28944</measure>
             <measure unit="pages">70</measure>
          </extent>
-         <publicationStmt>
-            <p>Încorporat în ELTeC<date>2019-l0-0l</date></p>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="digitalSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-11"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Încorporat în ELTeC2019-l0-0l--></publicationStmt>
+         <sourceDesc><bibl type="digitalSource">
                <author>Alexandru Macedonski</author>
                <title>Thalassa</title>
                <date>2013 (1906)</date>
                <ref target="http://doi.org/10.5281/zenodo.3407358">Facsimile on zenodo</ref>
-                           </bibl>
-         </sourceDesc>
+                           </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
-         <p></p>
+         <p/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
-            <language ident="ro"></language>
+            <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender key="M"></e:authorGender>
-            <e:size key="short"></e:size>
-            <e:canonicity key="high"></e:canonicity>
-            <e:timeSlot key="T4"></e:timeSlot>
+            <e:authorGender key="M"/>
+            <e:size key="short"/>
+            <e:canonicity key="high"/>
+            <e:timeSlot key="T4"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2019-11-11">Checked by releaseChecker script</change>
          <change when="2019-09-05">Initial TEI version generated.</change>
       </revisionDesc>
    </teiHeader>
@@ -60,7 +58,7 @@
          </div>
       </front>
       <body>
-<div type="chapter" n="1">
+<div type="chapter">
 <head>Noaptea de argint</head>
 <p>Fluture cu aripi albe, luntrea cu pânzele întinse aluneca între cerul albastru şi culoarea adâncă a mării şi se apropia de coastele stâncoase lustruite de talazuri. Insula, pisc de munte vărsat deasupra valurilor de iadul flăcărilor lăuntrice ale prefacerilor pământeşti, sângera sub izbucnirile solare ale apusului. Suprafaţa şeasă a ei, largă cât o bătătură de curte şi înecată de ierburi uriaşe printre care se ţâra o mulţime de şerpi de apă, se uita de sus -clipitoare de străluciri - peste nemărginirea pustie a valurilor.</p>
 <p>Farul din mijloc, alb între clădiri mărunte, cazărmi de odinioară ale garnizoanei musulmane, răsfrângea în lumina ochiului său de ciclop discul de aur fulgerător ce se prăvălea în mare.</p>
@@ -140,7 +138,7 @@
 <p>Dar tocmai în clipa când poema îi lua văzul şi răsuflarea, ascuţitele junghiuri ale zadarnicelor lui silinţi să treacă dincolo de pragul copilăriei îi descordau muşchii, îl redau lumei spectrale şi reci, şi marea ce i se întorcea în auz cu răsunetul ei de uriaşă şi neodihnită orgă, îl preda încet somnului, împăiejena împrejuru-i lucrurile şi desfiinţa cerurile şi valurile.</p>
 <p>Iar noaptea de argint îşi urma cursul peste tulburarea apei...</p>
 </div>
-         <div type="chapter" n="2">
+         <div type="chapter">
 <head>Zile de aur</head>
 <p>Sihăstria insulei, stăpânitoare de la plecarea bătrânului, monotoniza orele. De cum însera, farul îşi deschidea punctual ochiul peste mare. Dar zorile scurtau noaptea. La trei era aproape ziuă.</p>
 <p>Iar odată cu mijlocul lui iulie soarele îşi împrăştia mitralia peste stâncă. Văzută de pe nave, ea părea un stei de topaz încoronat cu o orbitoare grămădire de castel prismatic, pe care râurau lumini şi colori. Scăldat de ele, feldspatul descojit pâlpâia ca diamantul. Ici-colo fluturau scânteieri de <hi>chrisocal</hi>. Abia jos de tot, alcătuirea geologică a stâncii lărgea peste un petec de mare o uşoară penumbră blondă. în acel loc, azurul apei era împestriţat de fundul de nisip roşcat şi auriu din care scăpărau licăriri ca ale <hi>aventurinei</hi>. Suprafaţa ei, adesea mişcătoare - cristal în care s-ar fi turnat bronz topit - înfăţişa, în acele momente ale anotimpului, luciul neted al oglindei. La adăpostul unui semicerc granitic, vântul n-o bătea în adevăr decât în anumite epoci.</p>
@@ -185,7 +183,7 @@
 <p>Şi cu acest chip se dezlegă ce fusese legat şi se legă ce fusese liber, iar nemilostiv stăpân al lui Thalassa fu de atunci încolo Eros.</p>
 <p>însă când ochii .tânărului se deschiseră, trandafiriul zeu pierise şi aripele lui şterseseră, din cer şi de pe suprafaţa mării, aurul zilelor ce n-aveau să mai vie...</p>
          </div>
-         <div type="chapter" n="3">
+         <div type="chapter">
 <head>Eros</head>
 <p>Sub trandafiriul amurg, Thalassa se întoarse în odaia din far. Lungit pe pat, clipa pe care o trăise îşi urma adâncirea în sufletul lui. Lâncezirea în care ea îl aruncase îi ridicase nu numai cunoştinţa timpului, dar şi a locului. Pe eul lui cel vechi îl căuta şi nu-1 mai afla. O altă entitate se altoise pe cea care fusese a lui. Era acelaşi, şi era altul.</p>
 <p>Avusese de trecut numai un prag, însă dincolo de el i se deschiseseră în faţă lumi de senzaţii a căror fiinţă nici n-ar fi lămurit-o mai înainte. De fapt, poate că în corpul lui Thalassa nu mai era Thalassa, sau, dacă mai rămăsese ceva din el, acest ceva nu mai trebuia să fie tinut în seamă.</p>
@@ -222,7 +220,7 @@
 <p>Dar o dată cu timpul care se scurgea, scădea şi dorul lui de a se întoarce la vreun ţărm El se deda cu grozăvia şi cu frumuseţea insulei, şi corăbiile ce treceau în largul mării nu-l mai furau către nici un ţărm...</p>
 <p>Ele treceau, lăsau dâre pe luciul apei, însă atât corăbii cât şi dâre se ştergeau, pe când apusurile ce se înecau tot mai mult în nori şiruitori de sânge îmbrânceau pe Thalassa în roşia <hi>epodă</hi> a vârstei de flăcări...</p>
          </div>
-         <div type="chapter" n="4">
+         <div type="chapter">
          <head>Epoda roşie</head>
 <p>Noiemvrie şi decemvrie îi măriseră dezechilibrarea nervoasă. Boala îşi urma fireasca desfăşurare. Ea avusese un început şi trebuia sa aibă o culme.</p>
 <p>Sanctuarul din stâncă fusese părăsit de el şi vântul singur se strecura înăuntru şi se văieta prin colţuri a deznădejde.</p>
@@ -264,7 +262,7 @@
 <p>Iar prin aer nu mai ciripeau chitare şi nici fiori de vioare nu mai treceau. Prin aer se aprindeau fanfare de trâmbiţi, se ascuţeau ţipete tăioase de arcuş şi se cutremurau cimbale.</p>
 <p>Însă în odaia ce se îmbrăca cu un roşu posomorât se ghicea că o înspăimântătoare bestie îşi ţine prada în gheare, că-şi înfige botul într-o rană pe care o lărgeşte, şi, printre explodările de note şi leşinurile de bemoluri, Thalassa, care posedându-şi visurile se posedase pe el, vedea că nimicul pe care îl strânge în braţe îşi păstrează încă multă vreme substantializarea.</p>
          </div>
-         <div type="chapter" n="5">
+         <div type="chapter">
          <p>Priap</p>
 <p>Vântul Sudului gonea pe martie. Frigul scădea şi veneau şi zile calde. Se rânduiau apoi şi altele, când crivăţul, ce se înapoia, se făcea tăios. Aşa este şi viata oamenilor: ei se cred scăpaţi - zâmbete şi bunăvoinţi le aleargă întru întâmpinare - le seamănă în cale flori -soarele sparge norii plumburii - e primăvară şi veselie - frumuseţe peste tot - iar fiecare renaşte! - renaşte şi n-are sa mai sufere!</p>
 <p>Şi tocmai atunci - pentru ce? nu se ştie - aceşti oameni se repomenesc în mijlocul necazurilor.</p>
@@ -300,7 +298,7 @@
 <p>Singura cugetare ce-i licări atunci în minte fu că el a murit, iar groaza ce-1 cuprinse, în loc sa-1 ducă spre fereastră, îl dete înapoi spre pat, îl răsturna de-a lungul lui, şi, îndeplinind ce trebuia să se întâmple, îi agăţă de colţul buzelor înflorirea albilor ghiocei cu care ielele îi dăruiesc pe cei care i-au prins în horele lor...</p>
 <p>Dar cerul ce se scufunda cu totul în catran îşi cobora peste mare urgia şi, în curând, nu mai fu nici insulă, nici mare, nici cer... în curând nu mai fu nimic...</p>
          </div>
-         <div type="chapter" n="6">
+         <div type="chapter">
             <head><hi>Erebos</hi></head>
 <p>Marea, dintr-un capăt la altul, şi-n lung şi-n larg, era un hău in care se războia amestecul apelor. Vremea când ar fi trebuit să se reverse de ziuă sosise şi nici o cât de slabă lumină nu se mişca de nici o parte. Cerul, ori dincotro ar fi fost privit, era negru. Negre erau şi valurile.</p>
 <p>Dar o învineţeală cruntă - zorile - îşi făcu drum printre nori şi, răspândindu-se prin aer, se întinse ca o desfăşurare de giulgiu. Depărtările, căptuşite cu rostogolirea unei pâsle de nori groşi ce-şi deşirau cutele, dau din nou asalt cerului şi apei, erau ca şi cum n-ar fi fost. Alţi nori alergau împotriva acestora. Unii, întunecoşi de tot, se coborau în faţa apei şi, desluşindu-şi înfăţişările, se asemănau unor puternice vapoare de război ale căror mişcări s-ar supune unei minţi cu gândul de bună rânduială şi de pricepere înaltă. Aceste namile de aburi plutitori întocmeau ca o flotă de corăbii uriaşe ce o pornea să se aşeze în forma unui triunghi în dreptul Gurilor Dunării.</p>
@@ -342,7 +340,7 @@
 <p>Si furtuna, ce-şi îndeplinise preursirea să ducă pe Caliope către limanul cel tainic şi să-i lipească inima de a lui Thalassa, îşi strânse o aripă şi, nebătând decât din cealaltă, îşi schimbă zborul, pornind către alte ţărmuri să răscolească în cale-i alte ape şi să hotărască alte sorți.</p>
 <p>Iar dintre valurile ce se liniştiră ca prin farmec se revărsă peste insulă ca o împăciuire şi menirea femeii în viaţa lui Thalassa se întâmplă astfel.</p>
          </div>
-         <div type="chapter" n="7">
+         <div type="chapter">
             <head><hi>Pronaos</hi></head>
 <p>Întins pe patul pe care îl trăsese în grabă lângă cămin, corpul de alabastru - o! cât de minunat! - preursitele zori - o! cât de blânde! - zâna fără simţire zăcea aproape goală, goală chiar, sub străvezia zdrenţuire a cămăşii în care marea o aruncase pe pieptul lui Thalassa.</p>
 <p>Din bradul unei mese, pe care o spărsese, şi din cele câteva scânduri, o flacără de aur şi de safir, în care se amesteca portocaliul şi albastrul-deschis vâlvora sub cotlon. Ba izvora din jarul de briliante şi de rubine al bradului ce trosnea, se scălda într-un trandafiriu-deschis şi împrumuta frăgezimii verdelui unei ape limpezi vesela ademenire.</p>
@@ -372,7 +370,7 @@
 <p>Iar fără să priceapă taina ce-l dusese acolo, Thalassa, care se oprise câtva lângă uşă, o deschise şi se afla în vioria linişte a nopţii ce se spălase de catranul ce-o smolise...</p>
 <p>Păsuri ca de lup o tulburară cu toate acestea multă vreme încă şi ochi de jăratic se arătară multa vreme peste insulă, când într-o parte când în alta a ei...</p>
          </div>
-         <div type="chapter" n="8">
+         <div type="chapter">
          <head>Cimpoi şi tibicine</head>
 <p>Caliope deschisele ochii, însă recăzu aproape îndată într-un somn adânc. Simţirea ce, redeşteptându-se, o cuprinsese, fusese mai întâi a mirării.</p>
 <p>Tot ce-o înconjura - mica odaie cu pereţii văruiţi, patul de scânduri pe care dormise, dulapul din faţa ei şi o masa de brad, cu toate că erau lucruri de netăgăduit, i se arătară ca nişte păreri. în zadar se freca la ochi, crezând că poate doarme încă, visul în care se simţea cufundată nu se risipea. Uitase până şi de plecarea ei de acasă şi nu-şi mai amintea nici de vapor, nici de furtună. Dar împrejurarea ce o zăpăci şi mai mult fu de-a se vedea într-o cămaşă zdrenţuită şi culcată pe salteaua de paie a unui pat de scânduri.</p>
@@ -443,7 +441,7 @@
 <p>Cu toate acestea, hotărâtoarea mişcare ce o făcu - şi o făcu chiar de ar fi fost să moară în urmă dintr-însa, iar, ca sa-l scape, se aruncă cu iuţeala fulgerului asupra bestiei, o apucă de mijloc, îşi încleştă degetele pe ea, voi să-i înăbuşească o data cu viaţa, urâţenia, şi, smucind-o cu putere, cercă s-o urnească din loc şi să-i strivească capul de pereţi.</p>
 <p>Dar amorţita ciudăţenie îi zvâcni fără veste între degete, se lungi şi îţi umfla inelele, fumegă şi se îngroşă de turbare, şi Caliope simţi că, aproape în acelaşi timp cu bestia ce dintr-un salt îi scapă din mână, încape între braţe ce se închid asupra-i, ce-o prăvălesc între sângeriile brazde ale cutelor mantalei, pe când dinţi şi unghii ca de pasăre de pradă o sângerează, îi sfâşie hainele, o despoaie toată...</p>
          </div>
-         <div type="chapter" n="9">
+         <div type="chapter">
          <head>Grijania de foc</head>
 <p>...Dar - ora lui Priap fu peste Caliope şi un strigăt urmat de vorbe îngânate şi de alte strigăte, tăie aerul.</p>
 <p>Pe jertfelnic se mişca o luptă ce, amestecată cu strigătele, se răsuci într-o încolăcire de vârtej şi carnea feciorelnică se munci ea singură, spre a face via teacă a unui paloş.</p>
@@ -475,7 +473,7 @@
 <p>Şi numai întru târziu Thalassa luă realitatea în cârcă şi o duse s-o aşeze dinaintea vetrei din odaia pe care flăcările din sufletul lui o lărgiseră odinioară într-o nemărginită împărăţie.</p>
 <p>Iar atâta cât mai ţinu noaptea, Eros îşi plânse de la pământ la cer înfrângerea şi Priap îşi rânji bucuria.</p>
          </div>
-         <div type="chapter" n="10">
+         <div type="chapter">
             <head><hi>Dies irae</hi></head>
 <p>Ei se iubiseră a doua zi şi în zilele următoare aşa cum nu s-a mai iubit. Dragostea lor fusese îngereasca şi pământească. Ei îşi înecaseră sufletele cu ceruri şi se sfârşiseră prin istoveala sărutărilor. N-aveau nevoie să-şi vorbească pentru a-şi şti cugetările. Şi le ghiceau din ochi, când nu se uitau unul la altul, şi le ştiau prin simţire. Se iubiseră după felul antic şi după cel al zilei de azi. El se făcuse miel şi întinzându-i-se la picioare îşi punea capul pe genunchii ei. Făcea <hi>zgoande</hi>şi copilării şi nu mai vrea să mănânce decât din palma ei. Vorbele lui erau garoafe roşii şi îmbătau. Ale ei aveau aripi legănătoare. Simţiseră toate plăcerile şi trăiseră toate tainele dintr-înşii. Intraseră atât de mult unul în altul, prin pori, prin buze, prin răsuflare şi auz, prin ochi şi suflete, încât trăsurile chipului lor începuseră să se asemene. Cine nu i-ar fi ştiut, şi i-ar fi văzut numai, ar fi crezut că Thalassa e un frate mai mare alături cu un altul mai mic.</p>
 <p>În cele dintâi timpuri el o înconjurase cu îngrijiri de frate, de tată şi de mamă. Când ieşeau, trebuiau să fie totdeauna amândoi şi niciunul nu pierdea din ochi pe celălalt. Jertfiseră peste toi aceleaşi prinoase aduse aceluiaşi zeu: în sanctuar, în odaia farului, în vârful lui, în umbra înaltelor ierburi şi printre stânci - în faţa lunii şi a soarelui, în a stelelor şi a mării, pe care Ie luau ca mărturii ale iubirii dintre dânşii; iar el, pentru a dovedi Caliopei că o femeie nu e scăzută, prin stările in care e pusă de fire, o schimba, în unele momente, în bărbat şi, luând locul femeii, o înnebunea şi înnebunea.</p>
@@ -519,7 +517,7 @@
 <p>Simţurile ce li se războiau în suflete îi hărţuiau între dragoste şi ură şi ajunseseră să nu mai ştie ei singuri dacă se iubesc sau se urăsc, îşi aruncau cuvintele cele mai grele, si, după două-trei clipe, se sărutau mai cu foc ca oricând. Dar, din una in alta, certurile sângeroase li se reaşezau în inimi. El o îmbrâncea, o lovea chiar şi ea îi ţinea piept, sau sărea ca o panteră, căutând să-i sfâşie obrazul. în scurt, s-ar fi crezut că numai în chipul acela le mai este îngăduit să se iubească. Ea mergea însă şi mai departe: în ura ce-i purta, sau de care se credea însufleţită, îşi ascundea în cutele brâului un cuţit destul de primejdios, uitat în far de vechiul paznic, şi cu care îşi jura să-l omoare îndată ce el va îndrăzni să se mai apropie de dânsa.</p>
 <p>Dar încercarea pe care o şi aduse la îndeplinire, într-o năbuşitoare după-amiazi, o rostogoli Ia picioarele lui Thalassa ca doborâtă de nişte puteri nevăzute, ce nu erau însă decât loviturile cu care dânsul o culcase Ia pământ, ca scos din minţi. Izbită cu picioarele şi cu mâinile, târâtă cu sălbăticie pe scânduri, ridicată apoi de acolo şi aruncată ca o zdreanţă pe o margine de pat, când Caliope se deşteptă din jumătatea ei de leşin, o gâfâitoare răsuflare era pe buzele şi pe pieptul ei, şi, pentru întâia oară, iubi pe Thalassa cu adevărat.</p>
          </div>
-         <div type="chapter" n="11">
+         <div type="chapter">
          <p>Împărtăşania din urmă</p>
 <p>Şi iubirea ei fu tot aşa de arzătoare cum era focul lunii iulie, ce mergea spre sfârşit.</p>
 <p>Iarba de peste întreaga întindere a stâncii era acum uscată până la rădăcină. Singură marea, dar şi ea numai în apropiere de ţărm, era verde. Soarele îneca în lumina lui orice alta culoare.</p>
@@ -544,7 +542,7 @@
 <p>Uşoare şi mângâioase, la început, degetele i se strecurară atunci, cu de la ele voinţă, de-a lungul albului grumaz. Ele urcară apoi mai sus şi, cu dezmierdări, aci dulci, aci glumeţe, i se opriră pe gâtlej, îl cercuiră, catifelate, cu brăţara lor; se strânseră din ce în ce mai mult asupră-i, şi, schimbându-se în nemilostive încleştări, o duseră, înciuda trupeştilor răzvrătiri, pe care el i le stăpânea cu unul din braţele lui, în ciuda deznădăjduitelor scrâşniri din dinţi şi a şuierătoarei răsuflări, într-un soare alb, unde ea nu mai fusese, şi ce, în loc s-o ardă, o îngheţă; într-un soare care o umplea, totuşi, cu nemărginita bucurie că sufletul ei încetează de a fi, fără ca însă să nu îşi urmeze viata, căci şi-o revărsa să şi-o trăiască în Thalassa.</p>
 <p>Dar, împreună cu cea de pe urmă zvârcolire a Caliopei şi o dată cu buzele ce i se învineţeau şi cu răceala ce i se urca de la degetele picioarelor şi mâinilor la inimă, din Priap, a cărui îndârjire trecuse de culme, încordarea lui cea presus de fire pornea scurte şi repezi ţâşniri de sânge, ce înlocuiau cuminecăturile preasfinte cu jalnicele dâre ale desăvârşitelor istoviri... Prăvălindu-se, la urmă, de-a lungul pereţilor jertfelnicului şi prelungindu-se pe lespezi, jos, despărţindu-se, în sfârşit, în mici-mititele ramuri, acest sânge - cel al marei ispăşiri - lua drumul deschizăturii sanctuarului şi, răzbind afară, era sorbit, încet-încet, de soare, băut de el şi primit ca un prinos de la el plecat şi la el înapoiat...</p>
          </div>
-         <div type="chapter" n="12">
+         <div type="chapter">
          <head>Ultra coelos</head>
 <p>Iar mai mult târându-se şi ţinându-se de marmore decât umblând, Thalassa, pe care pierderea sângelui îl slăbise, ieşi din sanctuar, lăsând înăuntru, pe veci îngheţată, mica făptură care fusese Caliope.</p>
 <p>Ieşi din sanctuar, dar se află sub un uriaş vârtej al cerurilor care se repezi asupră-i. înaltul perele al insulei se puse şi el în mişcare, iar soarele, deşi în puterea mersului său, se apucă să şovăiască - şchiopăta la dreapta şi la stânga - şi se duse dintr-o parte în alta, ca un om beat.</p>
@@ -587,4 +585,3 @@
       </body>
   </text>
 </TEI>
-

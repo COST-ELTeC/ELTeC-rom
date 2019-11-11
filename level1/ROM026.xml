@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" 
-   xml:id="ROM026" xml:lang="ro">
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM026" xml:lang="ro">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -20,36 +22,32 @@
             <measure unit="words">35076</measure>
             <measure unit="pages">144</measure>
          </extent>
-         <publicationStmt>
-            <p>Încorporat în ELTeC<date>2019-l0-0l</date>
-            </p>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="printSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-11"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Încorporat în ELTeC2019-l0-0l
+            --></publicationStmt>
+         <sourceDesc><bibl type="printSource">
                <author>Panait P. Macri</author>
                <title>Bostan. Haiduc de peste Milcov</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>Tipografia „Providența”</publisher>
                <date>1899 (1899)</date>
                <ref target="http://doi.org/10.5281/zenodo.2642482">Facsimile on zenodo</ref>
-                           </bibl>
-         </sourceDesc>
+                           </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
-         <p></p>
+         <p/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
-            <language ident="ro"></language>
+            <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender key="M"></e:authorGender>
-            <e:size key="short"></e:size>
-            <e:canonicity key="low"></e:canonicity>
-            <e:timeSlot key="T3"></e:timeSlot>
+            <e:authorGender key="M"/>
+            <e:size key="short"/>
+            <e:canonicity key="low"/>
+            <e:timeSlot key="T3"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2019-11-11">Checked by releaseChecker script</change>
          <change when="2019-09-21">Initial TEI version generated.</change>
       </revisionDesc>
    </teiHeader>
@@ -57,7 +55,7 @@
       <front>
          <div type="titlepage">
             <p>Panait P. Macri</p>
-                        <milestone unit="header" rend="flower"/>
+                        
             <p>Ilustrat cu patru gravuri</p>
             <p>Tipografia „Providența”, 26, STRADA SF. VINERI, 26</p>
          </div>
@@ -67,7 +65,7 @@
       </front>
 <body>
 <p><gap unit="graphic"/>Bostan în costum de munte</p>
-   <div type="chapter" n="1">
+   <div type="chapter">
 <head>HAIDUCUL BOSTAN</head>
 <p>SATUL REDIUL. — FANARIOTUL ANDONIS.</p>
 <p>Era anul 1834,</p>
@@ -102,7 +100,7 @@
 <p>— Sufletul bărbatulul meu, care veghiază vecinia asupra rasa, va crede văzând că iau această pocitură a pământului, că ea nu l’am uitat și că dacă acum mi dau în brațele unui om de care și satana ar fugi, nu o fac decât de nevoie.</p>
 <p> Ea însă se înșelă amar, căci au era de tos cerul, infernul care îi scoase înainte pe blestematul Andonis!</p>
 </div>
-   <div type="chapter" n="2">
+   <div type="chapter">
 <head>Tartara. — Temnița. — Fratriciderea.</head>
 <p>Cinci ani trecură de eâad sărmana Elena îșl ducea viața eu nelegiuita! Andonls. In tot timpul ăsta ea a fost martoră celor mai teribile crime. In zadtr sa ruga de bărbatul ei să fie mai bua eu oamenii, să înseteze omorurile, să izgonească acea bandă de lupi, pe cari ii plătea pentru a se aține pe la dramuri, spre a jefui pe călătorul ce-ar trece p’acole.</p>
 <p>Nu! Nici rugăciunile, nici lacrimile nu găsiră leac în neagra inimă a fanariotului !</p>
@@ -198,7 +196,7 @@
 <p>„Andonis, ce ai făcut pe fratele tău ?“</p>
 <p>— Eleno1 Eleno ! strigă atunci fraticidul, însă Elena dispăruse.</p>
    </div>
-   <div type="chapter" n="3">
+   <div type="chapter">
 <head>Marioara.</head>
 <p>Pe o câmpie verde și întinsă străbătută de sute de râurele, coarde de argint, cari plâng fugind pe sub verdea oarbă în mijlocul unei alee de salcâmi mirositori se află un mie bordeiaș.</p>
 <p>Nici sat, nici casă nu se zărește în jurul Iui. Ar trebui să te urci pe vârful vre-unui din salcâmi, ca să vezi la o depărtare destui de mare satul Rediul, singurul care se poate zări.</p>
@@ -288,9 +286,9 @@
 <p>Zorile zilei se iviră și Marioara dormea încă. Ea se culcă târziu și în somnu’i avu o mulțime de visuri plăcute, căci îa toate era amestecat și bădica al ei !,..</p>
 <p>Ghicesc că ți-a părut, stimabilul meu lector, cam curioasă purtarea lui Bostan cu Marioara, dacă însă ai fost vr’o dată așa de gelos ca și dânsul și dacă vr’o dată în viața-ți al iubit pe cineva cum Bostan a iubit pe Marioara sunt atunci, sigur că vei da destulă dreptate eroului meu.</p>
    </div>
-   <div type="chapter" n="4">
-      <div>
-<head>Răpirea. — Violarea.</head>
+   <div type="chapter">
+      
+<p><label>Răpirea. — Violarea.</label></p>
 <p>Trecuse nouă săptămâni din ziua in care Andonis omorîse pe fratele lui. Elena dispăruse și nimeni nu mai află despre dânsa ce s’o fi făcut. Nenorocita femee nemai putând răbda cruzimile fanariotului, a-poi fiindca’i și frică că poate o va omorî bărbatul ei pentru că deșteptase din somn pe fratele lui în dimineața, când îi băgă cuțitul în pept, plecă în testă lumea.</p>
 <p>De atunci însă vai de acea fată pe care ar fi văzut-o Andonis și i-ar fi plăcut! Ea trebuia numai decât să devie victima scâiboasei sale pasiuni.</p>
 <p>— Chirilis, mergem astăzi la vânat, întrebă într’una din zile Andonis pe credinciosul său.</p>
@@ -403,22 +401,22 @@
 <p>E Bostan care sbosră la Mărioara, e Bostan care-astăzi trebue să se cunune cu ea!</p>
 <p>El fuge, niciodată nu i e’a părut calea mai lungă</p>
 <p>El fuge și strigă calului său:</p>
-      </div>
-      <div type="song">
+      
+      
 <l>„Hi, murgele, hi!</l>
 <l>Mi-te-așterne drumului,</l>
 <l>Ca și iarba câmpului</l>
 <l>La suflarea vântului,</l>
 <l>Hi, murgule, hi!"</l>
-      </div>
-      <div>
+      
+      
 <p>Și murgul îndemnat mal mult de stăpânul său taie vântul ca o săgeată și sboară cu ei spre bordeiul Mărioarei.</p>
 <p>O! călătorule, oprește-ți calea, întoarce-te înapoi și începe a plânge! îi bordeiul atât dorit tu nu vei mai găsi pe Mărioara, că vei găsi in locul ei doliul și moartea!</p>
 <p>Oprește-te, călătorule, și uită de Marioara înainte de-a ajunge la ea!</p>
 <p>urăște pe aceea pe care o iubiai, disprețuește pe aceea pe care o stimai, fugi de aceea la care vrei să te duci !!...</p>
 <p>Dar Bostan fuge mereu și prin vei dea luncă cântă cu mult dor:</p>
-      </div>
-      <div type="song"> 
+      
+       
 <l>Frunză verde ș’o lalea</l> 
 <l>Mandrulița mea,</l>
 <l>În curând eu te-oiu vedea</l> 
@@ -427,8 +425,8 @@
 <l>Mândruliâa mea</l>
 <l>Și ’n Ivești ne-om cununa</l> 
 <l>Mândrulița mea...</l>
-      </div>
-      <div>
+      
+      
 <p>El cântă, cântă mult, când deodată calul se opri înaintea bordeiului.</p>
 <p>Bostan descălecă, își legă calai de un salcâm și cu inima bătându-i în piept deschise ușa și intră înăuntru. Abia însă păși de două ori și se trase înapoi plin de spaimă.</p>
 <p>— Ce văd! exclamă el Muma Marioarei moartă și ea nicăeri!! Ce s’a întâmplat ? Cine  fost p’aici,? Ce omor, ee sânge e acesta? Marioaro! ah! unde ești ?!</p>
@@ -443,9 +441,9 @@
 <p>Astfel virtuoasa Marioara imitând pe străbuna sa, Lucreția de îa Romani, spălă cu sângele ei greșala’l nevinovată I</p>
 <p>Bostan nu mai zise un singur cuvânt. El tăcu și privi trist îa corpul încă caid al Marioarei. Când durerea este prea mare omul devine încă liniștit, ei îșl la o devisă, o țintă, un scop și realisarea acestora, îl liniștesc. Ast-fel și Bostan fără si mai verse o lacrimă, fără să mai scoată un suspin, dar palid șl per-dut se apropie de gura întredeschisă și aproape rece a Marioarei, o sărută de trei ori, apoi sculâa-du-se își făcu cruce și zise:</p>
 <p>— Dumnezeule, ajută-mi să-mi răsbun!!!</p>
-      </div>
-      <div type="chapter" n="5">     
-<head>Bostan căpitan de Haiduci.</head>
+      
+           
+<p><label>Bostan căpitan de Haiduci.</label></p>
 <p>Era anul 1835.</p>
 <p>Bordeiul sită dată locuit d Marîoara, în seară d 11 Februarie era plin eu nouă români. Opt dintre, ei erau înalți, eu spetele mari și eu pletele lungi.</p>
 <p>Unul numai se vedea mai mărunțel; dar în schimb avea o minte vioie și niște ochi scâateiStori.</p>
@@ -542,9 +540,9 @@
 <p>iu scurt, timp însă toți fanarioții începură a se îngrozi, Soi in fie-care zi sa vestea moartea cutărui sau cutărui nelegiuit fără ca să se poată afla acela oare scăpa lumea de niște asemeni lipitori otrăvitoare !</p>
 <p>— Haide murgule, du-mă mai curând la hanul Trei Măsline, zicea Bostan calului său, care arunca valuri de noroi în urma sa. Du-mă acolo murgule, căci fi acolo am încă de lucra. D-zeu care mi-a ajutat la întâia încercare îmi va ajuta cred și la toate cele-l’alte.</p>
 <p>Și voinicul haiduc desmerdând d'n când în când coama murgului fugar sbură cu el spre hanul trei măsline.</p>
-      </div>
-      <div type="chapter" n="6">  
-<head>Hanul „La trei Măsline".</head>
+      
+        
+<p><label>Hanul „La trei Măsline".</label></p>
 <p>La o depărtare de două ceasuri da Galați 
 <hi>se</hi> afla în anul narațiunei noastre un han cu firma „La Trei Măsline,"</p>
 <p>Acest han zidit chiar lângă drumul cel msre en acoperit acum eu totul de zăpada care cădea mereu.</p>
@@ -638,9 +636,9 @@
 <p>Servitorii căzură câte-și-trei ia pământ vărsând pe gură valuri de sânge.</p>
 <p>Acum am isprăvit cu voi, zise după aceea haiducul ; îmi mai rămâne să dau foc cuibului și intrând prin case dete foc la tot hanul.</p>
 <p>După aceea se duse la grajd, încălecă pe murgul său și fluerând o luă la fugă spre bordeiul Marioarei.</p>
-      </div>
-      <div type="chapter" n="7">
-<head>Consiliul haiducilor din ziua de 14 Februarie.</head>
+      
+      
+<p><label>Consiliul haiducilor din ziua de 14 Februarie.</label></p>
 <p>Abia sosi seara de 14 Februarie și bordeiul Măritoarei se umpluse iară cu cei 9 haiduci. Ei se strânseră, căci așa le porunci Bostan eu trei zile mai înainte, atunci când se despărțiră de ei,</p>
 <p>— Așa dar căpitane, ai putut ta singur ca să omori pe acel mare fanariot din Galați ? întrebă Urdeanu pe căpitanul său.</p>
 <p>— Da, Urdene, l’am omorât șî nu numai pe el, dar însă șl cinci slugî ale sale, răspunse Bostan.</p>
@@ -748,9 +746,9 @@
 <p>— După cum dintre Apostoli trebuia să piară Iuda, tot ast-fel și dintre noi trebuia să piară Urdeanu.</p>
 <p>Haiducii să uitară unui ia altul fără ca nimeni aă cuteze a scoate un singur cuvânt</p>
 <p>— Acum cată ce ț’am zis să fie mâne făcute, porunci Bostan și dete drumu haiducilor, ca să se ducă pe la locurile lor.</p>
-      </div>
-      <div type="chapter" n="8">
-<head>Spionagiul.</head>
+      
+      
+<p><label>Spionagiul.</label></p>
 <p>Trecuse zece zile din acea seară de consiliu în care bietul Urdeanu, din causa nemulțumirei sale, aiuri lovit de pistolul lui Bostan. Ordînile lui au fost executate în tocmai, bordeiul se făcu ast-fel după am el rândul și oamenii cari lucrară ia dânsul fură omorîți și tegropsți sa nu cumva să spue și la alțl despre acea curioasă subterană. Nu fu însă tot așa. de ușor și pentru Cucută și Vasile din satul Puteni. De și făcură toata chipurile ca să poată afla în ea se răzima puterea lui Andonis după moșia Rediul, le fu însă peste putință sa să aducă căpitanului lor măcar cea mai misă deslușire.</p>
 <p>— Se poate măi băeți ca in cinci zile să nu aflați nimic? întrebă Bostan pe cunoscuții noștri spioni.</p>
 <p>— O, căpitane, respunse atunci Cucută, am vrut să ne apropiăm într’o noapte întunecoasă de casa fanariotului, ne-am furișat încet, ne-am pitulat pe lângă pământ, când de-odată zărim venind spre noi doi fanarioți, slugi d’a-ie iui Andonis, și întrebară:</p>
@@ -1008,9 +1006,9 @@
 <p>— Bine, respunse Veronic, mâine la 12 ore vom merge eu toții să prindem pe Bostan. Acum, seară bună stăpâne!</p>
 <p>— Seară bună, Veronic.</p>
 <p>Și fanariotul eșind afară lăsă pe Andonis ca să se culce eu gândul și bucuria, că a doua si vor avea în mânele lor pe Bostan.</p>
-      </div>
-      <div type="chapter" n="9">
- <head>Prinderea fanarioților. — Rănirea lui Bostan.</head>
+      
+      
+ <p><label>Prinderea fanarioților. — Rănirea lui Bostan.</label></p>
 <p>Abia Cucută rămase singur în bucătărie și eși afară unde întâlni numai de cât pe Vasile din satul Punteni</p>
 <p>— Ce ai făcut frate Cucută? Îl întrebă acesta.</p>
 <p>— Era cât pe aci Vasile să dau pielea popei,</p>
@@ -1247,9 +1245,9 @@
 <p>— Nenorocire! spune-mi și mie stăpâne toată Istoria, căci zău sunt plin de mirare s’o aflu.</p>
 <p>— Să fugim mai întâiu Veronie, să fugim șî a casă îți voiu spune totul!</p>
 <p>După aceea amândoi fanarioții se puseră pe fugă unul curios ca să afle cum haiducii au putut prinde pe toți palicarii, iar cellalt vesel că a scăpat de cuțitul lui Bostan.</p>
-      </div>
-      <div type="chapter" n="10">
-<head>Torturele.</head>
+      
+      
+<p><label>Torturele.</label></p>
 <p>Venise primăvara. Opt dintre fanarioții prinși ca într’o capcană de haiduci, trăiau încă, iar Bostan care suferise atâta timp, din cauza rănei ce căpătase ia mână,, acum se vindecase la deplin.</p>
 <p>— Haide căpitane, să facem ce-om face cu acești spurcați și să ne mutăm în pădurea Corbului căci destul timp pierdurăm ia această visuină, zise haiducul Bujor căpitanului Bostan.</p>
 <p>— Bine, rosti Bostan, ne vom strămuta, însă mai întâi,..</p>
@@ -1519,7 +1517,7 @@
 <p>nu mai vorbea de crima comisă, afară de sângele, care spălase pământul și stropise fețele celor opt haiduci.</p>
 <p>In cinci zile cinci feluri de torturi fură alcătuite de nemilosul Bostan și cinci din fanarioți părăsiră lumea și mârșava lor viață.</p>
 <p>Haiducii cari ia început se cam înspăimântară de atâtea cruzimi comise de căpitanul lor acum începură a se deprinde cu ele, și cine nu s’ar fi deprins eu niște asemenea măsuri luate în contra unei lepre de care trebuia să scape nenorocita Românie.</p>
-<p>— Haide băieți, aduceți-mi și pe celălalt fanariot, zise Bostan după ce se scoală din> somn. Marioara în astă noapte era mai voiasă ea totdeauna. Râdea mereu, mă strângea mereu în brațele sale și eu o sărutam mereu. Oh, dacă zorile nu s’ar fi ivit, daci noaptea era mai lungi aș fi mai stat încă mult cu dânsa!</p>
+<p>— Haide băieți, aduceți-mi și pe celălalt fanariot, zise Bostan după ce se scoală din&gt; somn. Marioara în astă noapte era mai voiasă ea totdeauna. Râdea mereu, mă strângea mereu în brațele sale și eu o sărutam mereu. Oh, dacă zorile nu s’ar fi ivit, daci noaptea era mai lungi aș fi mai stat încă mult cu dânsa!</p>
 <p>— Așa e căpitane, ea este mândri de amantul el, ea vede eum el știe să o răzbune, zise Bujor.</p>
 <p>— Da, acasta e singura putere ee am, atât mai pot și eu face pentru dânsa, pronunță Bostan cu un ton melancolie.</p>
 <p>— Neghină, zise după aceea haiducului care purta acest nume; du-te și-mi mai adu pe unu din nele giuiți.</p>
@@ -1541,7 +1539,7 @@
 <p>— Nu e de trebuință, să-i lăsăm mânele ca să nu zisă pe urmă că noi i le-am tăiat. Te du însă Vasile de ’mi adu ciocanu cel mare.</p>
 <p>Vasile se supuse și într’un minut îi aduse ciocanul.</p>
 <p>Bostan îndoi genunchiul fanariotului și punând pe un haiduc a ’1 ține, îl isbi așa de tare încât rotila genunchiului crăpă în trei. El voi să loviască și în cel-l’alt genuncbiu, dar victima biruită de durere își dete sufletul.</p>
-<p>A doua zi era Mereuri ; Bostan se sculă de dimi> neață și chemă pe toți haiducii.</p>
+<p>A doua zi era Mereuri ; Bostan se sculă de dimi&gt; neață și chemă pe toți haiducii.</p>
 <p>— Ascultați fraților, le zise ei, primăvara a venit și soi stăm însă tot aci. Dacă esre cumva ar afla. cârmuirea de noi, dacă ar cunoaște ea omorurile noastre, nu-i așa că vom peri cu toții ?</p>
 <p> — Dar de unde o să afla căpitane ? întrebă unul din haiduci.</p>
 <p>— Asta e adevărat, dar ori-cum mie mi-e frică de acel Andonis. Apoi întorcându-se către haiducul Tudor îl întrebă:</p>
@@ -1608,9 +1606,9 @@
 <p>d’asupra jăratecului și-l presera mereu eu ardeiu.</p>
 <p>Jumătate de ceas dură acest chin pentru nefericitul fanariot și el muri!</p>
 <p>Acum fraților, haideți să fugim în pădurea Corbului, zise Bostan. Aici nu mai putem sta, ș’apoi nici nu avem ee face aici. Haidem fraților, căci primăvara a venit și primăvara este vremea haiducilor. De acolo, din pădurea Corbului, noi ne vom arunca ca corbii asupra nelegluițtior și ca corbii vom rupe din carnea lor!</p>
-      </div>
-      <div type="chapter" n="11">
-<head>Andonis comandantul poterei.</head>
+      
+      
+<p><label>Andonis comandantul poterei.</label></p>
 <p>După ce Veronic văzu că nu face nimic cu doctoru pe care la început îi admira așa de mult, a doua zi se duse ia Galați și aduse un doctor, care văzând boala lui Andonis, în două zile îi făcu sănătos.</p>
 <p>O săptămână mai stătu Andonis după vindecare pe moșia Rediu, până ce se întremă bine, căci slăbise cu totul și după aceea îșt vându moșia, vându tot ce avu și se duse la Galați</p>
 <p>Aici prin protecțiunea sa, pria aurul său, fraticidul, călăul Marioarei și al femeei sale reuși a se face comandantul poterei</p>
@@ -1697,7 +1695,7 @@
 <p>— Bostan ? strigă Andonis sărind o palmă de le-pământ.</p>
 <p>— Bostan S exclamă și Veronic încremenit.</p>
 <p>— Ia ascultă prietene, unde i’ai văzut? întrebă cu curiozitate Andonis.</p>
-<p>— L’am văzut, nu l’am văzut bine zise fanariotul  căci când m’au dus b >ț la dânsul, odată m’a lovit cu o ghioagă în cap ș> de atunci tot stele vedeam înaintea mea.</p>
+<p>— L’am văzut, nu l’am văzut bine zise fanariotul  căci când m’au dus b &gt;ț la dânsul, odată m’a lovit cu o ghioagă în cap ș&gt; de atunci tot stele vedeam înaintea mea.</p>
 <p>— Dar unde, în ce loa taau dus hți ?</p>
 <p>— M’au dus în ... și muribundul tăcu, vorba începu să-i slăbească. </p>
 <p>— Te-au dus în, unde. în ce loc ts-au dus ?</p>
@@ -1721,9 +1719,9 @@
 <p>După aceea pregăti 50 de poterași armați bine și trimese de știre la Tecuci ea să vie și de acolo potera, spre a Înconjura pe haiduci din două părți.</p>
 <p>O oră trecu și totul era gata. Cincizeci de poterași, călări și înarmați apucară drumul cei mare având de comandanți p Andonis și locotenentul său Veronic.</p>
 <p>Ei mergeau la Bostan In pădurea Corbului.</p>
-      </div>
-      <div type="chapter" n="12">
-<head>Pădurea supranumită a „Corbului".</head>
+      
+      
+<p><label>Pădurea supranumită a „Corbului".</label></p>
 <p>Era luna lui Maiu.</p>
 <p>Era luna în care florile înfloresc și parfumurile cele plăcute îmbălsămează aerul.</p>
 <p>Era luna tainelor, era luna amorului1</p>
@@ -1782,9 +1780,9 @@
 <p>— Ce vorbește oare ? se întrebau ei. Cine este acea „Ea'1? Ce noapte era atunci?</p>
 <p>Haiducii gândiră deocamdată că căpitanul lor aiurează, ei însă greșiau, căci Bostan vorbia cu toate simțurile lui.</p>
 <p>El nu avea nimfe, dar era eu toate astea conștiința, care începuse să’l mustreze.</p>
-      </div>
-      <div type="chapter" n="13"> 
-<head>Atacul din pădure.</head>
+      
+       
+<p><label>Atacul din pădure.</label></p>
 <p>Bostan era încă transportat de gânduri, când trei oameni călări se vedeau venind fuga spre el.</p>
 <p>— Iată vine caraula, strigară haiducii. Ce o fi pățit de dau așa fuga ?</p>
 <p>La aceste cuvinte căpitanul se trezi din somnul gândirei, se sculă în picioare și întrebă:</p>
@@ -1895,9 +1893,9 @@
 <p>— Turnați pământul, porunci Bostan.</p>
 <p>Cinci minute trecură și groapa era astupată.</p>
 <p>Bostan fu răsbunat, iar Andonis cu o moarte așa de grozavă plăti nenumăratele sale crime!..</p>
-      </div>
-      <div type="chapter" n="14">
-<head>Bostan mustrat de conștiință.</head>
+      
+      
+<p><label>Bostan mustrat de conștiință.</label></p>
 <p>Trei ani în urmă căpitanul haiducilor de altădată, devenise asum pustnic. El losuia într’o peșteră din Carpați făcând toată ziua la mătănii și nutrindu-se cu rădăcini de arbori.</p>
 <p>Bostan voinicul de altă dată. Bostan omul cel frumos și inteligent s’a făcut aio, pustnic. El era încă tânăr, dar fața i se sbârcise și barba îi crescu lungă.</p>
 <p>Nu era zi, nu era noapte, ca să nu-l auzi jălindu-se amar. El plângea întotdeauna spunând stâncilor și paserilor răpitoare păcatele sale I</p>
@@ -1917,13 +1915,13 @@
 <p>— Eu mă numesc Emilia, respunse cântăreața câmpurilor. Acum câțiva ani eram o fată tânără și frumoasă. Părinții mei mă iubau mult, ei nu aveau alt copil afară de mine. Eu îi iubeam de asemeni, dar mai cu deosebire iubiam pe logodnicul meu. Oh! e-ram logodită pusnice !</p>
 <p>Apoi ștergându-se cu mâna două mari lacremi continuă:</p>
 <p>— intr’o seară eram la masă eu și cu părinții mei și pe rând mâneam auzim o voce. Tata ese a-fară șl în urmă intră înăuntru cu un voinic. Mie îmi păru a fi un om bun, căci așa îl arăta fața !-</p>
-<p>Ah! D-zeule, decg n’sm murit atunci, de ce am mai trăit, ca să fiu streină și si străbat vecinie munții și codrii!... Ei bine pusnice acei strein dupe ce a o-morît, pe tata și pe mama, pe mina care niciodată n’>m făcut nimenui nici un rău, cu un cui înroșit îmi groasa un ochiu !</p>
+<p>Ah! D-zeule, decg n’sm murit atunci, de ce am mai trăit, ca să fiu streină și si străbat vecinie munții și codrii!... Ei bine pusnice acei strein dupe ce a o-morît, pe tata și pe mama, pe mina care niciodată n’&gt;m făcut nimenui nici un rău, cu un cui înroșit îmi groasa un ochiu !</p>
 <p>Și nenorocita călătoare zicând aceste cuvinte 
 <hi>a~ </hi>ribă cu mâna-i arsă de soare și crăpată de ger o-chiul ei cel drept</p>
 <p>Bostan auzind aceste din urmă cuvinte căzu cu capul de stâncă, iar fata plângând începu iarăși să fugă și dispăru.</p>
-      </div>
-      <div type="chapter" n="14">
-<head>Moartea lui Bostan.</head>
+      
+      
+<p><label>Moartea lui Bostan.</label></p>
 <p>Aproape jumătate de zi rămase căpitanul haiducilor de altă dată, într’o letargie complectă și ar fi stat încă mult, dacă nu i s’ar fi părut că o voce tainică li strigă zicându-i: „Scoală bădiță, scoală!"</p>
 <p>Bostan se trezi atunsi ea dintr’un vis, se uită în jurul său și mergând la fiecare stâncă, singurele tovarășe ale unei vieți de trei ani, le sărută luându-și adio, căci prevedea singur că din locul la care se ducea nu se va mai întoarce niciodată. Dupe acea plecă.</p>
 <p>Două zile merse e1 mereu, două zile și două nopți fugi într’una și când câteodată voia să se odihnească, o putere, o voce nevăzută ca și jidovului rătăcitorii striga înapoia sa : „Mergi, mergi!“ și haiducul de odinioară pusnicul de acum merse două zile în plin și tocmai a treia zi, seara de tot se opri pe niște dărâmături din mijlocul unei alee de salcâmi.</p>
@@ -1942,10 +1940,9 @@
 <p>Era Bostan haiducul, Bostan pustnicul care muri.</p>
 <p>Dupe el nu rămase de cât numele lui și acele dărâmături de bordei, care vor vorbi secolilor despre trecerea lui Bostan prin lume.</p>
 <trailer>— FINE. —</trailer>
-      </div>
+      
 </div>
 </body>
-<back><div><p></p></div></back>
+<back><div type="liminal"><p/></div></back>
 </text>
 </TEI>
-

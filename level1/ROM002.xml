@@ -1,7 +1,9 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" 
- xml:id="ROM002" xml:lang="ro">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM002" xml:lang="ro">
  <teiHeader>
   <fileDesc>
    <titleStmt>
@@ -17,12 +19,9 @@
     <measure unit="words">8705</measure>
     <measure unit="pages">67</measure>
    </extent>
-   <publicationStmt>
-   <p>Încorporat în ELTeC
-    <date>2018-10-20</date></p>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="firstEdition">
+   <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-11"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Încorporat în ELTeC
+    2018-10-20--></publicationStmt>
+   <sourceDesc><bibl type="firstEdition">
      <author>Simion Bălănescu</author>
      <title>Blestemul. Poveste născocită de S.B.</title>
      <pubPlace>Bucharest</pubPlace>
@@ -30,29 +29,27 @@
      <date>1894</date>
      <ref target="http://doi.org/10.5281/zenodo.2648429">Facsimile on zenodo</ref>
      
-    </bibl>
-      
-   </sourceDesc>
+    </bibl></sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
-   <p></p>
+   <p/>
   </encodingDesc>
   <profileDesc>
    <langUsage>
-    <language ident="ro"></language>
+    <language ident="ro"/>
    </langUsage>
    <textDesc>
-    <e:authorGender key="M"></e:authorGender>
-    <e:size key="short"></e:size>
-    <e:canonicity key="low"></e:canonicity>
-    <e:timeSlot key="T3"></e:timeSlot>
+    <e:authorGender key="M"/>
+    <e:size key="short"/>
+    <e:canonicity key="low"/>
+    <e:timeSlot key="T3"/>
    </textDesc>
   </profileDesc>
-  <revisionDesc>
+  <revisionDesc><change when="2019-11-11">Checked by releaseChecker script</change>
    <change when="2018-09-28">Initial TEI version generated.</change>
   </revisionDesc>
  </teiHeader>
- <text >
+ <text>
   <front>
    <div type="titlepage">
     <p>BLESTEMUL. POVESTE NĂSCOCITĂ</p>
@@ -71,7 +68,7 @@
 <p>Mă rog dar de ertare, dacă cele ce am îndrăsnit d’a așterne aci, nu sunt umplute cu din darul unui învățat, căci nu sunt eu cel prima care am cules glasuri din litia veche ca să ticluesc această gustare.</p></div>
   </front>
      <body>
-    <div type="chapter" n="1">
+    <div type="chapter">
      <head>NĂPASTEA : PARTEA I</head>
      <head>Ucigașul</head>
 <p>Era, după cât îmi pot da cu socoteala, în luna Cireșarului, așa că se lăsase un zăduf de întrecea pomana, caii de la Olac de abea mai puteați merge. Aveam grabă să ajung cu nepusă masă în ținutul Doljiului, plaiul Parscovu, ca să adun banii birului de la Pârcălabi; deodată ca din senin, soarele intră ’n nori părând că apune; dădui gură surugiului să dea bici, care se grăbi a încolăci biciul scoțând răcnete prelungite, așa că caii se opintiră din răsputeri și ajunserăm la marginea unei păduri, unde se afla un puț, iar alături de el, niște furci în făptură ca niște spânzurători. Până ce surugiul adăpă caii, eu o luai încetinel înspre împrejurimea locului, spre cercetare; văz o cruce mare de piatră, scrisă cu slove vechi, începui a mă trudi să citesc, dar nu putui afla nimic, căci se întuneca din ce în ce mai mult, începând să tune și să fulgere. Surugiul înhămă caii în grabă spre a merge să căutăm un adăpost.</p>
@@ -121,7 +118,7 @@
 <p>— Nu te teme, Jupâne, zise Zavistie, nimeni nu va scii. Eu îți hărăzesc anul acesta grâu și vite cu târgul pe jumătate, pentru ca să te folosești de câștig, numai să ții în taină cele ce ai văzut.</p>
 <p>— Să mă fac părtaș la această nelegiuire? Odată cu capul, boerule, răspunse Jupân Hristea. Eu însă ’ți dau cuvântul meu de cinste, că mă voiu face că nici nu am văzut nici nu am auzit.</p>
     </div>
-      <div type="chapter" n="2">
+      <div type="chapter">
       <head>PARTEA II</head>
       <head>Răpirea copiilor</head>
 <p>Nu se făcuse tocmai bine ziuă, când mă pomenesc cu copilașii că mă strigă: Tată, tată! nu știu ce larmă este la spatele bordeiului, unde aud zicându-se într’una: L-a omorît! L-a omorît!</p>
@@ -140,10 +137,10 @@
 <p>Neacșu, care era mai răsărit și mai îndrăsneț, zise surioarei sale să nu se sperie, că tată-său a fost vânător și știe cum să se poarte cu fiarele sălbatice. Așa și era. Căci, pe când eram și eu cu dare de mână, la praznice și la zile împărătești făceam goană de vânat, ca să aduc peșcheș la curtea domnească, ca să mă ocrotească la judecată.</p>
 <p>Povesteam copilașilor pe atunci cele ce mi se întâmplase cu un urs, căruia îi intrase un ghimpe în picior, pe care i-l scosesem, iar ursul, drept mulțumire, începuse a-mi linge picioarele.</p>
 <p>Neacșu, aducându-și aminte de cele ce-ți istorisesc, se apropiă de ursoaică cu blândețe, și în nevinovăție, o întreabă ce are, și cu ce-i poate veni în ajutor?</p>
-<p>Ursoaica, care gemea de durere, văzând nevinovăția copilașului, ridică laba în sus și începu a o linge și mormăi, arătând că acolo era o țeapă. Neacșu puse mâna pe labă și îi scoate țeapa, rupe de la soră-sa o fâșie din rochiță <gap></gap> și îi leagă rana. Ursoaica nu mai știa ce să facă de bucurie, nu putu să le arate altă mulțumire decât să le lingă mânile și picioarele înviorate cum era; stătu lângă copilași până ce se făcu ziuă și apoi plecă.</p>
+<p>Ursoaica, care gemea de durere, văzând nevinovăția copilașului, ridică laba în sus și începu a o linge și mormăi, arătând că acolo era o țeapă. Neacșu puse mâna pe labă și îi scoate țeapa, rupe de la soră-sa o fâșie din rochiță <gap/> și îi leagă rana. Ursoaica nu mai știa ce să facă de bucurie, nu putu să le arate altă mulțumire decât să le lingă mânile și picioarele înviorate cum era; stătu lângă copilași până ce se făcu ziuă și apoi plecă.</p>
 <p>Nu trecu mult, și tot în acea zi se pomeni cu ursoaica viind în două picioare și aducându-le un ulei cu miere, pe care-l puse pe vatra bordeiului: le linse din nou mânile, ca și cum ar fi voit să le zică rămas bun si să le mulțumească, apoi plecă.</p>
      </div>
-     <div type="chapter" n="3">
+     <div type="chapter">
       <head>PARTEA III</head>
       <head>Potera și Haiducii</head>
 <p>Zavistie ajunsese mare la curtea Domnului fanariot, i se dăduse un scaun între cei 12 boeri ai țării, clăcașii după moșiele lui sărăcise, căci le luase pământurile cu japca, bunăoară cum mi le luase și pe ale mele. Zavistie se făcuse mai rău ca un câine, nu mai avea nici o îndurare de păsurile locuitorilor. Sătenii nu erați crezuți la nimic, tot ce-și puteau agonisi le hrăpea nesățiosul grec, din zece le lua nouă, neajunsurile se lățise prin tot ținutul Olteniei, Zavistie intrigarisise la curtea Domnească, că țărănimea a dat mâna cu Căpitanu de Haiduci, Jianu și că vrea să se scoale în potriva Domnului.</p>
@@ -155,7 +152,7 @@
 <p>Ghencea îi înfățișă înaintea Căpitanului spuindu-i împrejurarea cum i-a găsit. Toți într’un glas, ziseră să-i boteze și să poarte numele de copiii lui Jianu; pe Neacșu îl înrolă în bandă, dându-i straie de haiduc, iar pe Floarea, care avea urme de drăguță și să nu ajungă de rîs când s’o face vârstnică, ca să știe ce e dragostea și să se facă papină printre haiduci, Jianu o luă și o duse în satul Oltețului, dându-o sub îngrijirea unei bătrâne, care o cunoștea ca femeie cu taină.</p>
 <p>Iar Neacșu, care de mic era îndemânatic, se deosebi în scurtă vreme de ceilalți tovarăși, așa că nu-i scăpa zi să nu facă vreo ispravă, era de toți cinstit; avea nas de copoi, dovedea calea liftelor, și le lua banii făcuți din sudoarea săteanului, apoi le dedea drumul fără de a-i atinge întru nimic.</p>
      </div>
-     <div type="chapter" n="4">
+     <div type="chapter">
       <head>PARTEA IV</head>
       <head>Dreptatea cerească</head>
       <p>Într’una din zile, Jupân Hristea, care se găsea ca mărturie la curtea lui Zavistie, pe când sărmanul Axentie fusese sfâșiat de câini, trebuia să plece din Craiova spre a se duce la Zavistie ca să strângă grâu și vite cornute; își luă zioa bună de la nevastă și copilași, își așeză pungile cu bani în ipingea, și punând piciorul în prag, făcu trei cruci zicând: <quote>„Doamne ajută!”</quote> încălecă și porni spre drum.</p>
@@ -197,7 +194,7 @@
 <p>Nu aveam în scire nimic despre cele ce se petreceau, căci la închisoare unde mă asvărlise se dăduse poruncă strașnică să nu îngăduiască pe nimeni nici a mă vedea, nici a-mi vorbi.</p>
 <p>Nu îi fusese destul, mișelul, că mă lăsase să zac în acea temniță, unde se găseau și alți nevinovați, dar plăsmui și-mi aruncă vină că fac zâzanie și îndemn pe ceilalți tovarăși din temniță ca să dau foc, ca cu prilejiul acesta să pot fugi, așa că și aci mă găsiră vinovat, și mă luară din acel loc, ca să mi se piardă de urmă, și mă duseră la Monastirea Jitiana, pe malul Jiului, băgându-mă într’o chilie, cu vorbă că sunt nebun și nevrednic de a vorbi cu oameni. Acolo mi se da de măncare printr’o ferestruie. Toate le-am îndurat cu bărbăție, dar când mă gândeam la copilașii mei, mi se frigea inima de dorul lor.</p>
 </div>
-     <div type="chapter" n="5">
+     <div type="chapter">
       <head>PARTEA V</head>
       <head>Predarea Jianului</head>
 <p>Neacșu, în toată vremea cât a stat printre haiduci deși-și agonisise ceva părăluțe, totuși începuse a se scârbi de acel negoț; pe de altă parte începuse a-l încinge dorul de surioara lui, Floarea; cât despre mine, nu mai avea nădejde că sunt în viață.</p>
@@ -226,7 +223,7 @@
 <p>Căpitanul, după ce se predă la Curtea Domnească, unde ’l iertă, se așeză în ținutul Romanațiului, făcându-se om de ispravă, îndeletnicindu-se cu negoțul de grâne.</p>
 <p>Neacșu de așijderea se așeză între Filiași din ținutul Doljului; acolo, cu banii ce’i agonisise, se apucă de negoț de vite. și mai într’un târziu, se însură.</p>
 <p>Nu trecu mult după aceasta și plecă cu oi și capre în spre țara turcească. Din ziua plecărei, după toate cercetările, nu i se mai află de nume.</p></div>
-     <div type="chapter" n="6">
+     <div type="chapter">
       <head>PARTEA VI</head>
       <head>Vodă Nun</head>
 <p>Floarea, după cât am povestit, fusese încredințată de Jianu cu taină unei bătrâne, care în toată vremea ascultase povețele de bine, se făcuse o codănace cu duh și curată la față; flăcăii din sat o numea Floarea din poveste; crescuse așa de mare că era destoinică de măritat.</p>
@@ -288,7 +285,7 @@
 <p>Erea tocmai pe sfârșitul soarelui, când md pomenesc cu câțiva vătășei de la curte. Eu de abea puteam grăi de durerea piciorului; sărmana bătrână își dăduse sfârșitul, iar baragladina de vizitiu spălase putina de teamă să nu cadă în belea.</p>
 <p>Se dete alarma în satul din apropiere, veniră mai mulți săteni, ’mi unseră piciorul cu păcură și ’l legară cu șiță, și mă aduseră în oraș; așișderea și pe sărmana bătrână o puseră pe două pârghii și o duseră la biserica din sat.</p>
 <p>Cum ajunsei la curtea Ispravnicului, Floarea îmi eși în cale spre a’i povesti ceasul rău. Ea începu a plânge și dete poruncă ca bătrâna să se îngroape după tot șartul creștinesc și să i se facă pomană.</p></div>
-     <div type="chapter" n="7">
+     <div type="chapter">
       <head>PARTEA VII</head>
       <head>Dovedirea lui Neacșu</head>
 <p>Neacșu, după, cum am povestit, plecase să facă negoț cu oi și cu capre în țara turcească, de unde nu i se mai auzise de nume decât după 18 ani. La plecarea lui în spre Dunăre încărcă un Ceam turcesc cu oi și capre. Ajuns pe la jumătatea Dunării, în dreptul Șiștovului, făcându-se noapte cu ceață, cârmaciul care mâna Ciamul nu băgă de seamă și dete peste un Caic care venea din josul apei, așa că sfărâmând Ciamul îl înecă cu toate oile și caprele ce se găsea într’însul. Numai Neacșu scăpă teafăr, viind înnot până la malul Dunării din spre Șiștov, unde stătu până dimineața. Nu mai avea asupra lui de cât 100 lei bani turcești. Sta pe gânduri, blestemându’și soarta, când deodată se pomeni cu doi Turci care ’1 luară și îl duseră la Conac să’l cerceteze, învinovățindu’i că este ghiaur și a avut gând rău ca să spargă Caicul, unde se afla Cadâna Pașii din Șiștov.</p>
@@ -313,7 +310,7 @@
 <p>— Așa! Așa! grăiră cei din prejur, ai răpus pe nevasta și copilul tău, mai ’nainte de a te încredința de cinstea lor, căci tu la plecare ’ți-ai lăsat soția însărcinată, și născând pe acest flăcăiandru, l’a crescut cu îngrijire și cu cinste de l-a făcut mare ca tu să vii hoțește să’i răpui pe amândoi fără ca să’i cercetezi.</p>
 <p>Neacșu, desmeticindu-se și vâzând pe nevasta și copilul său morți, începu a plânge amar, blestemându’și soarta care ’l prigonise de atâta amar de ani.</p>
 <p>Se dădu știre în tot satul de cele întâmplate. Îndată veniră aleșii care, încredințându-se de cele ce văzură, deteră știre zapciului, așternură taclirul și’l legară cobză de mâini și de picioare cu lanțuri, trimițendu’l Ispravnicului Craiovei. Tot târgul aflase de această nenorocire.</p></div>
-     <div type="chapter" n="8">
+     <div type="chapter">
       <head>PARTEA VIII</head>
       <head>Spânzurătoarea</head>
 <p>Ispravnicul Craiovei, Căminarul Dan, dete ștafetă la curtea lui Vodă în București ca să hotărască de osânda ce i se cuvenea lui Neacsu. Vodă trimise vorbă ca să-l judece după tot șartul pravilnicesc.</p>
@@ -349,8 +346,8 @@
      </div>
 </body>
   <back>
-   <div>
-   <gap unit="toc"></gap>
+   <div type="liminal">
+   <gap unit="toc"/>
    </div>
   </back>
 </text>

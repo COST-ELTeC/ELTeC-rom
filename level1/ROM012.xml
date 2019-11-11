@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" 
-   xml:id="ROM012" xml:lang="ro">
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM012" xml:lang="ro">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -20,35 +22,31 @@
             <measure unit="words">56691</measure>
             <measure unit="pages">167</measure>
          </extent>
-         <publicationStmt>
-            <p>Încorporat în ELTeC<date>2019-l0-0l</date></p>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="printSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-11"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Încorporat în ELTeC2019-l0-0l--></publicationStmt>
+         <sourceDesc><bibl type="printSource">
                <author>Grigore H. Grandea</author>
                <title>Vlăsia sau ciocoii noi</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>Minerva</publisher>
                <date>1975 (1887)</date>
                <ref target="http://doi.org/10.5281/zenodo.3229282">Facsimile on zenodo</ref>
-                           </bibl>
-         </sourceDesc>
+                           </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
-         <p></p>
+         <p/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
-            <language ident="ro"></language>
+            <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender key="M"></e:authorGender>
-            <e:size key="medium"></e:size>
-            <e:canonicity key="low"></e:canonicity>
-            <e:timeSlot key="T3"></e:timeSlot>
+            <e:authorGender key="M"/>
+            <e:size key="medium"/>
+            <e:canonicity key="low"/>
+            <e:timeSlot key="T3"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2019-11-11">Checked by releaseChecker script</change>
          <change when="2019-09-12">Initial TEI version generated.</change>
       </revisionDesc>
    </teiHeader>
@@ -97,16 +95,16 @@
         </div>
      </front>
 <body>
-   <div type="part1">
+   <div type="group">
       <head>PARTEA ÎNTÂIA</head>
    <head>PARTEA ÎNTÎIA METAMORFOZA CIOCOILOR </head>
       <quote>
 <p>Lupu-şi schimbă părul dar năravul niciodată. </p>
       </quote>
 <p>Proverb</p>
-      <div n="1" type="chapter">
-         <div type="chapter" n="1">
-<head>CUM A CONLUCRAT DRACUL LA ACEASTĂ CARTE </head>
+      <div type="chapter">
+         
+<p><label>CUM A CONLUCRAT DRACUL LA ACEASTĂ CARTE </label></p>
 <p> Cele ce urmează s-au petrecut cîţiva ani nainte de 1848, în noaptea din vinerea Patimilor. </p>
 <p> Catina era un june, pe care natura îl înzestrase cu inteligenţă şi inimă. Era unul din acei buni tineri cari ajutau pe Cîmpineanu şi Eliade în uriaşa urzire a regenerărei românilor. Îşi împlinea cu zel misia ce-i însemna comitetul, fără să poată vedea limpede scopul mare şi naţional ce urmărea acesta. </p>
 <p> Această nedumerire îl muncea foarte mult, mai cu seamă de cînd Eliade, neavînd poate destulă încredere, refuzase a-i mulţumi curiozitatea. </p>
@@ -161,9 +159,9 @@
 <p> Şi după aceste cuvinte, pe cînd Catina aştepta cu ardoarea şi credinţa unui neofit, cu minele apăsîndu-şi inima care zvîcnea în pieptu-i, părintele Dionisie îi puse caucul în cap. </p>
 <p> N-apucă să-i aşeze bine caucul în cap şi toate pieriră ca prin farmec din jurul lui Catina. Nu mai era noapte, nu se mai ştia pe dealul Mitropoliei, numai vedea lumea înconjurînd biserica cu Isus Hristos, nu mai auzea sunetul clopotelor. Toată fiinţa junelui nostru plutea şi pătrundea oriunde o ducea voinţa lui. Oricare era depărtarea, oricare era grămădirea învelitorilor, case şi pivniţe, prin toate răzbea auzul şi vederea lui. </p>
 <p> Cronicar credincios, aşternem pe hîrtie tot ce a văzut, auzit şi înţeles Catina, prin puterea minunatului cauc al părintelui Dionisie. </p>
-         </div>
+         
       </div>
-      <div type="chapter" n="2">
+      <div type="chapter">
 <head>UN CRAIDON DE CURTEA VECHE</head>
 <p> Un tînăr ca de vreo douăzeci şi opt de ani, c-o îmbrăcăminte neobicinuită, care făcea pe toţi cîţi îi întîlnea, bărbaţi şi femei, boieri, negustori, meseriaşi şi ţigani, să se uite după el mirîndu-se, crucindu-se sau rîzînd, venea iute despre Mihai-Vodă; pe dinaintea caselor lui Mihalache Ghica trecu în fugă. Cînd ajunse pe podul gîrlei despre hanul Zlătari, se opri puţin şi răsuflă. </p>
 <p> Cîţiva trecători, văzîndu-l aci, se opriră şi începură a se grămădi. </p>
@@ -202,23 +200,23 @@
 <p> —    O revoluţie! strigă Sclipici zgîind ochii. </p>
 <p> —    Da, o revoluţie, şi nu numai politică, dar şi socială, ceea ce este şi mai mult... Deocamdată însă ascultă istoria spinărei mele. </p>
       </div>
-      <div type="chapter" n="3">
+      <div type="chapter">
    <head>AMORUL PARUCICULUI BABOI</head>
-         <div>
+         
 <p> Baboi, după ce se întinse bine în pat, mai mult într-o rină, ca să nu-i apese nimic spinarea, începu:</p>
 <p>—     Ştii săgeţile cu cari diavolul Cupidon mi-a rănit inima din clipa fericită şi blăstemată cînd am văzut pe frumoasa Corină. De cînd ţi-am spus patima mea nu ne-am mai întîlnit, noi cari pînă în ajun eram nedespărţiţi precum Castor şi Polux. Ce vrei? Inimile încinse de focul amorului iubesc singurătatea. Nepu-tînd să arză pe acelaşi rug cu fiinţa îndumnezeită, într-un iatac îmbălsămit de profumele Orientului sau în umbra deasă şi răcoroasă a pădurii, ele îşi varsă focul contra soartei neîndurate pe biata lume, întor-cîndu-i spatele şi fugind de ea. înţelegi dar simţimîntul care m-a făcut că de atîtea zile auzul meu n-a mai sorbit pelticăiala discursurilor tale! Dă-mi mîna şi iartă-mă. Că zodia celor doi gemeni m-a pedepsit îndestul, îţi spune halul în care mă vezi. </p>
 <p> Şi după ce strînse mîna amicului său şi simulă ştergerea ochilor de lacrimi, comedianul nostru urmă:</p>
 <p>—     Ca să intri într-o cetate, noi, cari sîntem fiii lui Marte, ştim că trebuie să procedăm după toate regulele tacticei. Pentru a cuceri şi eu cetatea mea-, mîndră şi voluptoasă ca Venera lui Tizian, cu ochii negri şi arzători, cu o gură mică şi zîmbitoare, care te face să treci prin foc ca să-i furi o sărutare, cu braţele albe şi rotunde cari parcă n-au altă menire decît a strînge pe fericitul amant la sîn, mi-am luat cuvenitele măsuri. După ce am dat ocoale ore întregi casei în care stă închisă nimfa mea, după ce am intrat în vorbă cu cîteva bătrîne din vecinătate, după ce m-am asigurat de înalta protecţie a unei ţigănci din curte, . după ce am aruncat mai multe ochiade cu tot focul inimei ce am putut pune în ochi spre fereastra crudei, am închiriat o casă mică de la a cărei fereastră puteam să mă uit în grădina Corinei mele ... </p>
 <p> —    Şi prin fereastră ai sărit în grădină şi din grădină în braţele cocoanei! — îi tăie vorba pelticul Iancu Sclipici. </p>
 <p> —    Te înşeli! zise cel cu spinarea opărită. Nu tot-deauna Amorul are aripi. N-a ştiut ce îndrugă Văcă-rescu cînd a zis: </p>
-      </div>
-      <div type="poem">
+      
+      
 <l> Peste ape, peste munţi,</l>
 <l> Orişicînd o vrea amorul,</l>
 <l> Orişicînd 1-o-mpingc dorul,</l>
 <l> El pe loc îşi face punţi! </l>
-      </div>
-      <div>
+      
+      
 <p> Mai întîi între mine şi Corina erau nişte uluci mari şi ţeapene, îmbrăcate în partea de sus cu ţepi de fier, apoi o grădină în care se preumblau doi dulăi mai fioroşi decît Cerber din iad, apoi curtea plină de nişte servitori zaplani, cu cari n-am avut curaj să schimb nici o vorbă, şi tocmai dincolo de ei, peste capetele acestor Arguşi sălbatici, la o fereastră sta ca o floare între flori, ca luna între stele, doamna inimei mele, iar lîngă ea bărbatul tînăr şi frumos. Cum să fac punte de unde eram şi pînă la ea? </p>
 <p> —    Apoi ?... </p>
 <p> —    Apoi, am răbdat o zi, două, trei, patru, stînd ca un suflet osîndit cu ochii ţintă la fereastra ei, pîn-dind orice prilej ca să-i trămit sărutări şi ochiade. A patra zi am sărit în sus de bucurie cînd am observat că s-a uitat lung la mine şi a zîmbit, văzînd bălăbă-neala nunilor cu cari-i trămiteam sărutări peste sărutări. Atunci am crezut că frumoasa statuă începe a învia, a se îndoioşa, ca Venera de marmură sub săru-tările lui Pigmalion. A doua zi se coborî în grădină. Sării îndată la uluci şi mă uitai printre ele. </p>
@@ -239,14 +237,14 @@
 <p> —    O jărtfă foarte mare pentru mine, urmă Baboi, înţelegi bine că nu m-am gîndit a-i cumpăra nici vreun şal turcesc, nici vreun inel preţios, nici a-i face vreo poezie. De cînd Eliade m-a prins cu mîţa în sac, furîndu-le din greceşte şi dîndu-le sub numele meu, m-am săturat de sărăcăcioasa meserie a muzelor. Cît pentru ideea de şal sau inel, nici nu mi-a trecut prin minte; deşi a nemerit orbul Brăila, eu însă n-aş fi nemerit calea d-a găsi bani pentru asemenea tîrguieli. Stă foarte rău creditul meu în piaţă. Apoi nu sînt şapte strade în Bucureşti prin cari să pot trece fără grijă de creditori, cari au devenit d-o obrăznicie ... </p>
 <p> —    Dar urmează nainte, îi strigă Sclipici cu nerăbdare. </p>
 <p> —    Iacă ce-am făcut. Am luat condeiul şi, p-o foaie de hîrtie pembea, într-un colţ cu două porumbiţe pupîndu-se în cioc, am scris: </p>
-      </div>
-      <div type="letter">
+      
+      
 <p> „Preaslăvita mea stăpînă! </p>
 <p> Tot ce am mai bun este inima mea, pe care de mult ţi-am jărtfit-o. Dar pentru că aceasta nu-i de ajuns şi aştepţi de la mine o nouă probă de iubire, află, preaslăvita mea stăpînă, că dacă un militar ţine la ceva mai presus de orice, dar mai prejos de doamna gîndurilor lui, ţine la armele şi calul său. </p>
 <p> Îmi iubesc calul ca pe un frate. </p>
 <p> Cu toate acestea mine la opt ore seara îl voi împuşca.   Al graţiilor tale, preaslăvita mea stăpînă, sclav pînă la moarte...”</p>
-      </div>
-      <div>
+      
+      
 <p> Am semnat-o cu numele meu de botez şi am pus-o sub portiţă. A doua zi dimineaţa, cînd m-am uitat, scrisoarea nu mai era. Perfida Corină o luase.</p>
 <p>—     Perfidă, de ce ? întrebă Sclipici, — cînd pînă aci ea a mers după dorinţele tale? </p>
 <p> —    Aşteaptă să vezi... </p>
@@ -306,9 +304,9 @@
 <p> —    N-am trebuinţă de jurămînt... Destul să ştii că vei păţi-o iar. </p>
 <p> Apoi făcîndu-mi semn, ieşii, îndoindu-mă de durere. </p>
 <p> Cum mă văzui în stradă, alergai la Dîmboviţă, unde, dezbrăcîndu-mă, intrai în apă şi mă spălai de afurisita cataplasmă. Era muştar amestecat cu tere-bentin sau... dracul ştie ce! Şi acum mă arde şi mă ustură, de-mi săr ochii. Iacă ce-am păţit. Acum du-te să-ţi vezi calul şi vino, căci, scăldîndu-mă în Dîmboviţă şi gîndindu-mă la viaţa ce ducem, la viitorul ce ne aşteaptă, am luat o hotărîre care dacă o vei împăr-tăşi şi tu, vom ajunge alfa şi omega în ţara românească. </p>
+      
       </div>
-      </div>
-      <div type="chapter" n="4">
+      <div type="chapter">
 <p>CE NAŞTE DIN PISICĂ ŞOARECI MÎNCĂ </p>
 <p> Cititorul n-a uitat că toate acestea se petreceau sub vederea şi auzul cunoştinţelor noastre de la în-ceput, junele Catina şi părintele Dionisie, cari, sub acelaşi cauc, erau nevăzuţi. </p>
 <p> Pe cînd Baboi îşi schimba oblojeala spinărei, iar Sclipici se dusese să-şi vază calul în grajd, următoarea convorbire începu între mărturii noştri nevăzuţi: </p>
@@ -385,7 +383,7 @@
 <p> Cine este fiul?... Urmăreşte-1 şi vei vedea că fiul. Baboi Zefchide, va fi şi el cel mai dîrz contra românilor şi mai cu seamă contra lui Dimitrie Gimpa. </p>
 <p> De ce? Pentru că aşa a voit Dumnezeu, ca: ce naşte din pisică şoareci să mînce, viciuri şi virtuţi să se transmită moştenire din tată în fiu. </p>
       </div>
-      <div type="chapter" n="5">
+      <div type="chapter">
    <head>FRAŢII DE CRUCE</head>  
 <p> —    Cine este fiul ? strigă Catina mişcat de istoria uciderei marelui român. Era de prisos a-mi mai spune. Cînd cunosc pe tatăl, înţeleg ce trebuie să fie şi fiul. </p>
 <p> —    Aşa este, adăugă părintele Dionisie; dar în copi-lăria şi tinereţea lui Baboi sînt lucruri atît de hazlii, încît ar fi păcat să nu le ştii.</p>
@@ -457,7 +455,7 @@
 <p> —     Ajutat de caucul meu care te face nevăzut, ur-măreşte pe aceşti doi fraţi de cruce, şi nu vei întîrzia d-a vedea rădicîndu-se vălul care ţi-ascunde cele ce se urzesc în sînul patriei tale. Amestecul acestor calpuzani va întîrzia buna rodire a revoluţiei ce se urzeşte. Sînge, lacrimi şi exil aşteaptă pe cei mai buni din fiii ţării nainte d-a vedea împlinirea visului lor. Între aceştia vei vedea totdeauna amestecîndu-se şi aceşti doi fraţi de cruce. Urmăreşte-i bine, şi în curînd vei vedea că ziua bat drumul care duce la Eliade, iar noaptea se furişează în consulatul rusesc şi palatul lui Bibescu. </p>
 <p> Catina n-avu timp să-i mulţumească şi dracul se făcu nevăzut. </p>
       </div>
-      <div type="chapter" n="6">
+      <div type="chapter">
 <p>Cîteva luni după acestea. Baboi şi Sclipici, demi-sionînd din armată, se aruncară cu corpul şi sufletul în politică, adică în ceea ce numeau ei politică, dar care în limbajul pitoresc al poporului, nu era decît pescuirea în apă turbure. </p>
 <p> Ajutaţi de frămîntarea spiritelor, cari aşteptau o auroră despre care nu putea să-şi dea seamă, dar pe care o presimţea că va fi regenerarea lor socială şi politică, eroii noştri la început se bucurară de cîteva io succese cîştigate, unele prin luarea în rîs a puternicilor zileij altele prin cutezanţa cu care încriminau Domnia. Dar aceste succese avură o scurtă durată. </p>
 <p> Poporul, al cărui bun simţ nu era încă tocit sau ostenit de scepticism ca în zilele noastre, nu întîrzie d-a întreba cine sînt aceşti doi inşi, unul cu ochii bol-boşaţi ca de broscoi şi altul cu vorba peltică ca leliţele din Tirchileşti, cari vorbeau cu atîta nepăsare! Răspunsurile nefiind linguşitoare pentru nici unul din amîn-doi, negustorii şi tîrgoveţii începură a-i lua peste picior. Nu se descurajează însă decît atunci cînd un bătrîn toptangiu, auzindu-i pălăvrind contra guvernului, în cafeneaua despre Doamna Bălaşa: </p>
@@ -541,9 +539,9 @@
 <p> —    Afară, haimanalelor! </p>
 <p> Era vocea lui Chiriţă, portarul de la Sîntul Anton, care venise să scoată din arest pe fiul său şi amicii acestuia. </p> 
       </div>
-      <div type="chapter" n="7">
+      <div type="chapter">
    <head>CEATA LUI BABOI</head>
-         <div>
+         
 <p> Baboi Zefchide, de la încheierea frăţiei de cruce între el şi Sclipici, izbutise să formeze o adunătură de tot ce avea Bucureştii mai desfrînat şi mai vătămător. Calfe şi ucenici fugiţi de la meserii, băieţi de la prăvălie cari spărseseră cecmegelile şi vînduseră prin mahalale marfa stăpînilor, indivizi goniţi de prin funcţii pentru abuzuri, negustoraşi faliţi, tineri cari nu putuseră învăţa nici carte, nici comerţ, nici meserie, în scurt, o adunătură de oameni fără căpătîi, fără omenie şi fără Dumnezeu, se strînse ca corbii la hoit şi se puse sub ascultarea lui Baboi. </p>
 <p> Pentru ca cititorul să-şi facă o idee mai lămurită de soiul şi poftele acestor gunoaie ale societăţei, să intrăm puţin în una din adunările lor, să-i vedem şi să-i ascultăm. </p>
 <p> Era cîteva zile după hazlia întîmplare care aruncase pe Baboi şi Sclipici în beciul comisiei. </p>
@@ -666,21 +664,21 @@
 <p> Baboi şi Sclipici le strînse mîna cu solemnitate. </p>
 <p> Apoi cel dintîi, încrucişînd mînele pe piept, încrun-tînd sprîncenele şi bolboşind ochii, le zise cu o voce mormîntală: </p>
 <p> —    Fraţilor, acum cînd vă cunosc, acum cînd ştiu ce inimi bat în piepturile voastre, cînd toţi pînă la unul sînteţi cum zice cîntecul: </p>
-      </div>
-      <div type="song">
+      
+      
 <l> Voinici făr' de leafă, </l>
 <l> Voinici groşi în ceafă, </l>
 <l> Buni de vitejie</l> 
 <l>Şi de haiducie! </l>
-      </div>
-      <div>
+      
+      
 <p> La rîndul meu, îmi deschid inima şi vă voi arăta calea ca să ajungem acolo unde: </p>
-      </div>
-      <div type="verse">
+      
+      
 <l> Nici cu gîndul n-aţi gîndit, </l>
 <l> Nici prin vis nu v-a plesnit. </l>
-      </div>
-      <div>
+      
+      
 <p> Eu, Baboi Zefchide, precum vă vor asigura Simeon şi Chiriţă, sînt fiu de boier. Am rămas cu avere de la părinţi, dar pe care mi-am tocat-o cu d-alde voi. „Ale tale dintru ale tale! zice sînta scriptură. Părinţii mei au făcut avere pe spinarea poporului. La rîndul meu, poporului am întors-o, căci nu voiesc în casa şi buzunarul meu bani stropiţi cu lacrimile şi sudoarea celor asupriţi. </p>
 <p> —    Ce păcat că nu te-am cunoscut atuncea, cocoane Baboi! exclamă unul dintre auzitori. </p>
 <p> —    Tăcere, fraţilor! strigă Sclipici. </p>
@@ -732,23 +730,23 @@
 <p> Într-o zi Băluţă, după ce auzi pe Sclipici pălăvrind 10 vreo oră şi jumătate cu nişte plapomari de lîngă Hanu Roşu, îi zise:</p>
 <p> —     Ştii tu, broscoi, c-o să ajungi un mare orăcăitor? Pentru a scăpa însă de pelticeală, ar trebui să faci ca Demosten: să vorbeşti cu pietricele în gură. </p>
          <p> Sclipici plecă supărat, dar adunînd pietricele. Cum ajunse acasă, închise uşa, îşi umplu gura cu pietricele şi începu a citi cu glas tare pe <hi>Argir</hi>: </p>
-      </div>
-      <div type="poem">
+      
+      
 <l> Şte vsai mişcînd din bujă, </l>
 <l> O pia dăgăiaşă mujă; </l>
 <l> Tiu veşi ghias ceiesc din guiă, </l>
 <l> Caie inimie fuiă ... </l>
-      </div>
-      <div>
+      
+      
 <p> Adică cum am zice noi: </p>
-      </div>
-      <div type="poem">
+      
+      
 <l> Te visai mişcînd din buză, </l>
 <l> O prea drăgălaşă muză; </l>
 <l> Tu verşi glas ceresc din gură, </l>
 <l> Care inimile fură. </l>
-      </div>
-      <div>
+      
+      
 <p> Cu chiu şi vai Sclipici ajunse a-şi mai drege puţin limba, dar aceasta numai cînd vorbea rar şi liniştit, îndată însă ce-1 aţîţa cineva, pelticăiala revenea iar. Şi era nemîngîiat de acest cusur, care făcea pe toţi ade-renţii să recunoască lui Baboi superioritate asupra lui. </p>
 <p>Afară de acest mic vierme încolo nimic nu tulbura frăţia de cruce dintre eroii noştri. Adevărul este că formarea coteriei le mergea găitan.</p>
 <p>Sclipici oricînd se afla singur cu Baboi, încrucişa braţele pe piept şi-i zicea: </p>
@@ -756,13 +754,13 @@
 <p> —     Şi încă să mai vezi! răspundea Baboi cu îngîm-fare. Vezi cum se închină azi lumea la Eliade? Peste puţin, tot aşa şi mai mult ea se va închina nouă, iar Eliade şi ai săi vor rămînea ca mătura după uşă. A! nu vor să ne dea locul cuvenit între ei ? Bine, vor plăti aceasta. Ascultă, Sclipici! Cînd vom avea vreo două mii de tîrgoveţi cari să strige din toate părţile şi în toate zilele, oricui o vrea sau n-a vrea să-i asculte, că noi sîntem cei mai buni români, cei mai învăţaţi, cei mai isteţi, că învîrtim pe deget toţi consulii din Bucureşti, că vodă se sfătuieşte cu noi cum să scape de boieri, că nimeni nu ştie să scrie ca noi, că nu este capacitate în univers pe care să n-o întrecem, fii sigur că lumea va începe să crează că aşa sîntem şi nu va întîrzia d-a cădea la picioarele noastre. Atunci să vedem ce bruma se va alege de Eliadiştii cari azi ne fac mutre. Deocamdată însă nu trebuie să ne luăm rău cu dînşii. Tu şi eu să ne întrecem în a-i tămîia, a ne ploconi naintea lor, iar în timpul acesta ai noştri să trîmbi-ţeze în toate părţile că noi sîntem totul, iar ei sunt nimic.</p>
 <p> Şi rezultatele nu întîrziară a împlini prevederile lui Baboi.</p>
 <p> Săracă omenire, totdeauna vei fi păcălită de şarlatani, totdeauna împilatorii tăi se vor susţine prin gugumănia şi nătîngia ta! </p>
-      </div>
+      
       </div>
    </div>
-      <div n="2" type="chapter">
+      <div type="group">
 <head>PARTEA A DOUA </head>
 <head>AMOR SI PATRIE</head>  
-         <div type="chapter" n="8">
+         <div type="chapter">
    <head>IDILĂ</head>  
 <p> Era în vara anului 1848. Ca niciodată, Bucureştii răsunau de zgomotul plăcerilor, cu toate că un rău cumplit, un bici al Asiei şi Africei, holera, începuse a bîntui prin sărăcime. Stradele şi grădinile furnicau de lume. De la Obor pînă la Sîntul Elefterie, de la Yitan pînă în Mogoşoaia nu auzeai decît chiote, cimpoaie şi viori. Boieri, negustori, meseriaşi, salahori şi robi, parcă uitaseră urele şi durerile cari de atîţi secoli îi despărţea în taberi gata să se sfîşie. </p>
 <p> Bibescu-vodă, certat cu legea ţărei, certat cu ruşinea lumei, se plimba pe strade cu alai şi zîmbea văzînd nebunaticul popor cum se arunca în braţele plăcerilor. </p>
@@ -802,7 +800,7 @@
 <p> —    Dor nebun, dor blăstemat, ce vei face tu din mine? Eu al cărui suflet era curat ca floarea crinului, azi mi-e frică să-mi arunc cugetarea înăuntrul meu, căci remuşcarea ziua şi noaptea îmi roade inima. Oricine aruncă asupră-mi ochii, îmi pare că tot strigă: „Iacă ingratul! Iacă sperjurul!” Dar nu este altă scăpare decît să fug din capitală. Iar tu, Smaraldo, nu vei afla niciodată ce se petrece în mine, nu vei avea niciodată să te plîngi de faptele mele. Sînt domn peste mine ca Dumnezeu asupra pămîntului. Mîne chiar voi fugi. Doar o dată numai ochii mei să se mai îmbete de vederea ta, o dată numai auzul meu să mai soarbă vocea ta, Smaraldo! </p>
 <p> Şi cu ochii înflăcăraţi, cu faţa asudată, îşi luă pălăria şi ieşi. Paşii lui nu mai atingeau pămîntul. Maria îl strigă, el nici nu întoarse capul. Copila începu a-şi şterge lacrimile cari rourau din ochii ei căprii şi a-şi apăsa inima care zvîcnea sub ia de borangic. </p> 
          </div>
-         <div type="chapter" n="9">
+         <div type="chapter">
    <head>ROBUL</head>
 <p> Cu toate că era apusul soarelui, arşiţa era nesuferită, şi lucrul fiind o tortură, poporul se îndesea în gradinele umbroase. Grădina Giaferului era plină. Vedeai acolo din toate meseriile, bolţile şi curţile boiereşti. Fierarul cu figura pîrlită şi bucile umflate ca foile cu cari suflă în foc; pînzarul şi lipscanul cu anteriul şi mutra de ciocoi; căldărarul cu şorţul de piele neagră şi cu caucul învelit în pînză albă; tabaci, precupeţi, dulgheri şi zidari cu pantaloni largi şi încreţiţi pe pîntece; cu ilicul cusut în şnururi şi cu’epigrama pe buze; zaraful înotînd în şalvarii săi şi cu degetele numărînd camăta ce a cîştigat în acea zi; lăutarii cu anteriile şi dulamele lor, sunînd din viori ca să dea pofta vreunuia d-a-i pune să cînte pentru un ort; copii grămădiţi în jurul vreunui bragagiu; ţiganii curţilor boiereşti, umflîndu-se în pene ca să se cunoască că ţin de case mari; toate acestea făceau o împestriţă-tură ciudată, un vuiet de cîntece, chiote, certe, rîsuri şi glume, cum numai pe la bîlciurile oraşelor din judeţe mai aflăm. Mai adăugaţi apoi femeile cu costumul lor variat: ici fota de lînă cu colori, colo fusta de angină, dincolo rochia cocoanei sub care se mlădia corpul ţigancei; ţărani strecurîndu-se prin acest amestec cu sfiala în faţă şi cu căciula în mînă, tîrînd după ei cîte un copil uimit şi cu un şir de covrigi pe mînă. Apoi greci, armeni, unguri, bulgari, răţoindu-se prin mulţime. </p>
 <p> Ţiganii se răzbunau pe ţărani de epigramele cu cari aceştia îi înveninau cînd îi apucau la largul lor, la sate. </p>
@@ -873,7 +871,7 @@
 <p> În fundul ogradei se înălţa casa cu învelişul de olane, cu un pridvor ai cărui stîlpi erau acoperiţi de iederă. În stînga spre coastă erau înşirate bucătăria, magaziile, şopronul, grajdul şi coteţele. în dreapta se răsfăţa în vale întinsa şi rîzătoarea panoramă a Bucureştilor. La spatele casei rîdea ochilor una din acele grădini cum aveau părinţii noştri şi cari procurau legumele şi poamele mesei, umbra pentru reverie şi soarberea cafelei, florile pentru încîntarea ochilor. în ogradă o mulţime de paseri ciuguleau prin iarba care se întindea ca un covor. </p>
 <p> Toate din această locuinţă respirau îndestularea, pacea şi regula. Cine intra într-însa, era îndemnat să se încline cu respectul în inimă şi lauda pe buze înaintea marelui boier. </p> 
          </div>
-         <div type="chapter" n="10">
+         <div type="chapter">
    <head>ZîMBIRI ŞI LACRIMI</head>  
 <p> Dar să lăsăm pe junele nostru contemplînd cuibul iubitei sale, şi să facom cunoştinţă mai de aproape cu trecutul şi împrejurările vieţei lui. </p>
 <p> Împrejurul acelor cari moşteniseră misia regenerărei naţionale se strînsese o mulţime de tineri cu talent, ştiinţă şi patriotism. Numărul acestora crescu aşa că ajunse a fi o armată de tot ce avea ţara mai capabil, mai virtuos şi mai strălucit. Toţi se întreceau a înavuţi literatura născîndă cu scrieri originale şi traduse. </p>
@@ -991,7 +989,7 @@
 <p> —    Ah! strigă el unindu-şi mîncle şi strîngîndu-le cu putere una într-alta, ceva îmi spune că acest George Boldur n-o va face fericită. Numai eu aş putea să-i fac zilele senine şi frumoase numai eu aş fi în stare să-mi dau tot sufletul pentru a răsfăţa sufletul ei care nu visează decît curata iubire, numai eu aş putea să legăn mereu în braţe această femeie-înger, setoasă de ideal, şi a o face prin devotamentul şi iubirea mea să crează şi să fie mîndră că l-a aflat în lume. Acum este o copilă, care ia de aur tot ceea ce luceşte; dar va veni o zi cînd va vedea cît de amar s-a înşelat şi că nu este altă fericire decît întîlnirea a două inimi în adevăr născute una pentru alta, că numai această fericire poate lumina şi încălzi pe om spre declinul vîrstei. Ştiu că numai cu mine i-ar trece viaţa senină şi rîză-toare. Dar ce sînt eu pentru ea? Ce este călătorul care merge în noapte pentru steaua care străluceşte vie în nălţimea cerului? Ce să mă fac acum? </p>
 <p> Şi înţelegînd că mintea lui nu era în stare să-i dea un consiliu, căci ea nu mai vedea nimic dincolo de orizontul luminat de ochii Smaraldei, plecă să ceară consiliu altora. </p>   
          </div>
-         <div type="chapter" n="11">
+         <div type="chapter">
    <head>SPIONII</head>  
 <p> Să ne întoarcem o oră înapoi. </p>
 <p> Pe cînd Gimpa ieşise şi se îndrepta spre locuinţa lui Racoveanu, doi inşi se furişară prin livezi, căutînd a nu-l pierde din ochi. Cînd junele se apropie de poarta iubitei şi se afundă în tufişul de lîngă gard, cei doi inşi se tupilară prin bălării şi stătură la pîndă. </p>
@@ -1016,7 +1014,7 @@
 <p> —    Taci tu, care ar trebui să te numeşti Ivan Scli-piccvici, ca un bulgăroi ce eşti. </p>
 <p> Să lăsăm însă pe aceşti doi spioni şi să ne întoarcem   la   Gimpa care plecase din curtea lui Racoveanu cu jalea   în inimă. </p>   
          </div>
-         <div type="chapter" n="12">
+         <div type="chapter">
             <head>MARIN NAŢIONALUL ŞI CĂPITAN HRISTESCU</head>  
 <p> Întîmplarea făcu să-i iasă înainte doi cunoscuţi cari, deşi nu erau studenţi, dar frecventau cercurile lor şi erau chiar dintre mesagerii cari comunicau tinerimei inspiraţiile supremului consiliu naţional. </p>
 <p> Aceştia erau Marin Sergescu şi postelnicul Hris-tescu. </p>
@@ -1128,9 +1126,9 @@
 <p> Aşa şi făcură. Marin plecă înainte, la vreo treizeci de paşi venea Hristescu iar departe mult venea Gimpa. </p>
 <p> În urma acestuia se auzi uruiala unei trăsuri. Cînd Naţionalul şi Hristescu trecuseră podul Dîmbovi-ţei, trăsura, care era o caretă, ajunse în dreptul lui Gimpa. Trei inşi năvăliră asupra lui pe la spate, îi apucară braţele, îi năbuşiră gura şi într-o clipă fu legat şi aruncat în caretă. </p>
          </div>
-         <div type="chapter" n="13">
+         <div type="chapter">
 <head>MISTERUL ŞI CARCERA </head>
-            <div>
+            
 <p> Să ne întoarcem c-o jumătate oră înapoi. </p>
 <p> Abia ieşise Gimpa din curtea lui Racoveanu, cînd Baboi şi Sclipici întîlniră pe Olteniceanu, un ofiţer nalt şi frumos, însoţit de trei tişti d-ai agiei, iar mai departe stînd o caretă. </p>
 <p> Baboi îi raportă. </p>
@@ -1228,31 +1226,31 @@
 <p> —    Cum aş voi să strivesc capul celor cari mi-au încreţit fruntea! exclamă ea cu o furie-necată; şi apropiindu-se de masa încărcată cu hîrtii urmă: </p>
 <p> —    Să vedem ce ne mai spun rapoartele despre uneltirile lor, rapoarte cari dezmint mîne ce spun azi, dar din cari nu înţelegem decît că vijălia se apropie. </p>
 <p> Şi frumoasa domană, luînd unul din rapoarte, citi: </p>
-         </div>
-         <div type="report">
+         
+         
 <p>„<hi>În casa lui Cîmpineanu...</hi>, Nicolae Bălcescu a zis că m.-sa a întrecut prin jafuri şi împilări pe toţi domnii fanarioţi; că atît de mult îi lipseşte ruşinea de lume, încît a mers a propune să se schimbe legea asupra zestrei ca să poată prăda pe nenorocita doamnă Zoiţa de averea ei. </p>
 <p> Cîmpineanu a zis: — Din fericire pentru moralitatea publică, vodă Bibescu a primit o bună palmă, căci marea majoritate a Adunării a respins cu scîrbă propunerea. Toţi pare că avem naintea ochilor două femei: una, soţia tristă, nebună şi alta, ţiitoarea trufaşă, cutezătoare şi încărcată de onori...”</p>
-         </div>
-         <div>
+         
+         
 <p> —    Ah! strigă doamna cu ochii scînteind de mînie şi bătînd cu pumnul în masă, cum aş înfige o mie de ace în limba care mă huleşte atîta! </p>
 <p> —    Dar, urmă ea, după oarecare gîndire, este o lipsă de respect sau delicateţă din partea lui Bibescu, d-a lăsa ca asemenea ocări scrise să-mi cază în mînă... Este adevărat însă că eu am venit în cabinetul lui... Dar ce să fac? Mi-e atît de mult frică să stau singură! Şi apoi el nu voieşte să se lungească la vorbă cu mine bărbaţii sau femeile; tot se teme că-mi vor comunica din cele ce se spun despre mine... Dar ce-mi pasă! Să vedem ce mai este? </p>
 <p> Şi trecu la un alt raport: </p>
-         </div>
-         <div type="report">
+         
+         
 <p>„<hi>Casa lui Eliade</hi>: Arhitectul Melic a spus că este uimit de neruşinarea m.-sale stăpînitorului, care voieşte ca din clădirea Teatrului să-şi facă un alt palat la Băneasa. </p>
 <p> —    Fiind însărcinat cu facerea teatrului, a zis Melic, am refuzat să dau înscris că am primit o sută mii de cărămizi, iar nu douăzeci şi cinci mii de cărămizi cît primisem. M-a chemat şi mi-a zis: — Ce dracul, trebuie să urli cu lupii! </p>
 <p> —    Nu ştiu să urlu, am răspuns. </p>
 <p> —    Atunci du-te şi lasă pe alţii cari ştiu să urle mi-a zis vodă. Neavînd ce face, m-am retras şi a însărcinat pe altul cu lucrarea. </p>
 <p> Un şcolar dintre cei cari se aflau faţă, Dimitrie Gimpa, a zis: </p>
 <p> —    Mă voi duce la Băneasa unde să lipesc pe ziduri versuri în cari să spun tîlhăriile ce se fac pentru gustul Pompadurei din valea Dîmboviţei”.</p>
-         </div>
-         <div>
+         
+         
 <p> —    A! strigă doamna, scrîşnind dinţii şi sculîndu-se ca o leoaică, şi acel şcolar este aci în beci. Iadul l-a dat în mînele mele. Nu se poate plăcere mai mare decît să-l văd dîndu-şi sufletul sub lovituri. </p>
 <p> Şi trecînd iute în apartamentul ei, îşi înveli capul şi faţa cu o dantelă neagră, prin care i se vedea ochii scăpărînd de furie, se înfăşură într-un şal, şi în acea oră tîrzie a nopţei, pe cînd cîte o lampă fumega ici şi colo, iar sentinelele dormitau rezimate în puşti prin coridoare, doamna păşi ca o fantasmă sinistră, dînd lozinca celor cari voiau s-o oprească. </p>
 <p> Ajunse în uşa beciului unde păzea o sentinelă, o deschise, se opri puţin, apoi ca cum şi-ar fi aţîţat din nou mînia, coborî răpede treptele cari duceau în acel mormînt. </p>
+         
          </div>
-         </div>
-         <div type="chapter" n="14">
+         <div type="chapter">
 <head>MÎNGÎIERI PĂRINTEŞTI </head>
 <p> Să ne întoarcem cîteva momente mai înapoi. </p>
 <p> Vodă Bibescu şi credinciosul său Olteniceanu, ieşind din cabinetul unde lăsase pe doamna, trecură într-o cameră de unde ieşiră cu cite o mască în mînă şi înfăşuraţi în mantale lungi şi largi, cari le ascundeau vestmintele. </p>
@@ -1357,7 +1355,7 @@
 <p> —    Iacă pierim, zise chelarul, dar scapă-l, şi gura-ţi fie mută ca mormîntul căci limbuţia o plăteşte capul. </p>
 <p> Cînd lipcanii ieşiră, bătrînul închise uşa după ei. </p>
          </div>
-         <div type="chapter" n="15">
+         <div type="chapter">
 <head>CĂUTAREA BĂNUITULUI </head>
 <p> Am lăsat pe Marin Naţionalul şi căpitan Hristescu mergînd unul după altul, dar depărtaţi cît puteau vedea cu ochii în noapte. Amîndoi credeau că junele Gimpa îi urmează, căci cum am spus, răpirea acestuia se făcuse iute şi fără cel mai mic zgomot. </p>
 <p> Ajungînd în dreptul bisericii Gorgani, Marin se opri în uşa unei cofetării şi aşteptă pe Hristescu; apoi amîndoi aşteptară pe Gimpa. Aşteptarea lor fu lungă şi deşartă. Pierzînd răbdarea, Marin luă de braţ pe întîiul român căpitan de corabie şi trecu podul spre Mihai-Vodă. </p>
@@ -1489,9 +1487,9 @@
 <p> Apucară spre Crucea de Piatră. </p>
    <p> Poate că cititorii au uitat pe gingaşa copilă Maria, singura fiică a văduvei Dina Andricu. Este timp să le-o amintim. </p>   
          </div>
-         <div type="chapter" n="16">
+         <div type="chapter">
             <head>TURTURICA</head>  
-            <div>
+            
 <p> Ştim dialogul în urma căruia Gimpa îşi luase pălăria şi plecase din casa văduvei Andricu. Maria îl strigase de mai multe ori, el nici nu întoarse capul. Fata se puse pe plîns. Cînd se simţi mai uşurată, îşi şterse ochii şi se dete jos. </p>
 <p> Mama ei văzînd-o cu ochii roşii, o întrebă: </p>
 <p> —    De ce plîngi ? </p>
@@ -1538,14 +1536,14 @@
 <p> —    Auzi colo ce drăcii i-a intrat în cap! exclamă văduva Andricu. Crezi tu că s-ar putea una ca aceasta ? Dar nu s-ar lăsa boierii odată cu capul! Hei, fata mea, mai vorbea gogoşi de acestea Lazăr, care era dascăl la Sîntul Sava, nainte de zaveră; dar l-au pus boierii bine, căci din om sănătos cu mintea întreagă, deodată a început să se vaite că-1 arde ceva la stomac şi numai cu băutura îşi mai alina arsura. A tot băut săracul pînă simţind că o să moară, s-a dus peste munţi în ţara lui şi acolo şi-a dat sufletul. </p>
 <p> —    Aşa răi sînt boierii ? </p>
 <p> —    Ce vrei tu! Toţi oamenii se fac hiare sălbatice cînd este să le iei ceea ce cred că este dreptul lor. Apoi bieţii boieri, din moşi-strămoşi, aşa s-au învăţat: să trăiască din d-a gata, din munca altora; pentru ei toate bunurile, toate plăcerile, pentru ceilalţi sudori şi lacrimi. Hei, hei!... aşa a fost să fie, căci cum zice Oprea Cobzarul: </p>
-         </div>
-         <div type="song">
+         
+         
 <l> A tot bătut vîntul </l>
 <l> De cînd e pămîntul,</l>
 <l> Şi va bate vîntul</l> 
 <l>Cît va fi pămîntul!</l>
-         </div>
-         <div>
+         
+         
 <p> Fata auzind paşi răsunînd pe pămîntul uscat din stradă, ieşi şi se uită prin zăbrelele porţei. Erau cîţiva inşi între cari recunoscu şi pe popa Constandin, veneaui din sus. Se opriră în dreptul porţei. Fata se dete în lături şi se ascunse sub gardul încărcat cu mărăcini, de unde auzi aceste cuvinte: </p>
 <p> —    Cum v-am spus, trebuie să fim gata căci dintr-o zi într-alta poate să ne zică: „Cu Dumnezeu nainte pentru ţară şi binele obştesc!“ Destul ne-au supt şi strivit strigoii aceştia! Şi cînd mă gîndesc că sînt numai o mînă de oameni aceştia cari ne sug măduva de atîtea veacuri şi că am fi fost de ajuns numai noi aceştia din Brad, Crucea de Piatră, Vitan şi Dobro-teasa, ca să le rupem junghetura, îmi vine să-mi arunc potcapul după cîni. </p>
 <p> Şi popa începu să bată în poartă la văduva Dina Andricu, apoi vocea-i răsună în noapte: </p>
@@ -1676,9 +1674,9 @@
 <p> Dar emoţia era prea mare pentru nefericita Mărie, căci încordîndu-şi puterea ce-i mai rămăsese, abia putu să pronunţe cuvintele: „Gimpa, unde este?” dar aşa de încet, aşa de uşor, încît ele-i ieşiră din gură ca o suflare. Apoi căzu leşinată pe nisip. </p>
 <p> Bătrînul bătu în palme, şi venind un servitor, îi ordonă s-o dea în grija servitoarelor. </p>
 <p> Apoi intrigat plecă sus, fără să observe că Iancu Olteniceanu rămăsese lîngă fata care zăcea în neştire. </p> 
+         
          </div>
-         </div>
-         <div type="chapter" n="17">
+         <div type="chapter">
    <head>INTRIGĂ ŞI CALOMNIE </head> 
 <p> Două servitoare alergară. Văzînd o fată din popor, se retraseră speriate, căci aceeaşi bănuială fulgeră în mintea fiecăreia şi acelaşi cuvînt sinistru le ieşi din gură: </p>
 <p> —    Holera! </p>
@@ -1745,7 +1743,7 @@
 <p> Lumea, văzîndu-l, se convinse şi mai mult că, în adevăr, acea femeie era una din victimele lui. </p>
 <p> Olteniceanu izbutise. </p>   
          </div>
-         <div type="chapter" n="18">
+         <div type="chapter">
    <head>IAR LA MOŞ IGNAT!</head>  
 <p> Îndată ce ieşi din curte trăsura cu Maria, leşinată, agentul poliţienesc care primise ordinul lui Olteniceanu, se urcă şi el în trăsură lîngă cel care se declarase că este unchiul fetei. </p>
 <p> Cîteva oftări anunţară că leşinul Măriei era aproape să înceteze. </p>
@@ -1833,7 +1831,7 @@
 <p> Gimpa îi mulţumi printr-o zîmbire care umplu de bucurie pe Maria. </p>
 <p> Ajungînd acasă aflară pe bătrîna Andricu bocindu-se în casă. Cum îi văzu, îi sărută şi începu a se închina la icoane de mulţumire. </p>   
          </div>
-         <div type="chapter" n="19">
+         <div type="chapter">
    <head>NUNTĂ </head> 
             <p> Dacă este un proverb care sună: <quote>„Ce ştie satul, nu ştie bărbatul”</quote>, ar putea să fie şi un altul: „Ce ştie lumea, nu ştiu părinţii, tot aşa de adevărat.” </p>
 <p> Şoaptele lumei nu ajunsese pînă în auzul lui Raco-veanu. El şi soţia lui, văzînd abaterea sufletească a fiicei lor, o atribuiră nepregătirii cu care aceasta se trezea deodată în faţa căsătoriei. George Boldur deşi frumos şi june, era însă un străin, un necunoscut pentru Smaralda. </p>
@@ -1862,7 +1860,7 @@
 <p> După vreo două zile simţindu-se în stare d-a se ţine pe picioare, se sculă şi plecă. Rătăci în jurul lo-cuinţei boierului Racoveanu, ca sufletele morţilor în jurul vetrelor unde au locuit. Un serv îi spuse că juna păreclie a plecat peste Olt încă din ajun. </p>
 <p> „S-a dus!” îşi zise el, şi se îndreptă spre locuinţa lui, pierdut în triste cugetări. </p>
          </div>
-         <div type="chapter" n="19">
+         <div type="chapter">
 <head>MOARTE ŞI REVOLUŢIE </head>
 <p> Cînd ajunse aproape de Sîntul George, se izbi cu cineva în piept. Acela uitîndu-se drept la el, îl recunoscu şi strigă: </p>
 <p> —    Gimpa!.. Dar din ce mormînt ieşi ? </p>
@@ -2014,7 +2012,7 @@ să fiţi şi voi cei arestaţi. V-aş compromite dacă lumea ar vedea că n-aţ
 <p>—     Oricînd şi oricît veţi avea trebuinţă, să-mi scrieţi şi veţi fi îndestulaţi îndată. Vă vom trimite instrucţii prin om de încredere. </p>
 <p> Peste o oră convoiul arestaţilor pleca spre Giurgiu, excortat de călăreţi turci. De la Giurgiu începea expatrierea. </p>
          </div>
-      <div>
+      <div type="chapter">
 <p> Cît despre cel care iubea pe Smaralda, el nu mai putea iubi altă femeie. </p>
 <p> Două icoane rămăsese săpate în sînul lui: plecarea Smaraldei la braţul lui George Boldur şi coborîrea Măriei în mormînt. Cînd cugeta la cea din urmă, fluturau înainte-i trăsurile Smaraldei. Amorul, imaginaţia puneau în faţa celei moarte ale cărei trăsături le uitase, faţa celei vii pe care o iubea. </p>
 <p> Cercetă despre Smaralda şi află că nu este fericită. Boldur, unul din tinerii răsfăţaţi ai soartei, nu ştia ce comoară era în juna-i soţie. El o abandona şi se arunca în braţele plăcerilor, cari gîdilă simţurile dar ucid inima. </p>

@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI
-  xmlns="http://www.tei-c.org/ns/1.0"
-  xmlns:e="http://distantreading.net/eltec/ns"
-  xml:id="ROM001"
-  xml:lang="ro">
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM001" xml:lang="ro">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -16,55 +15,41 @@
         </respStmt>
       </titleStmt>
       <extent>
-        <measure
-          unit="words">9817</measure>
-        <measure
-          unit="pages">128</measure>
+        <measure unit="words">9817</measure>
+        <measure unit="pages">128</measure>
       </extent>
-      <publicationStmt>
-        <p>Încorporat în ELTeC<date>2018-l0-l5</date>
-        </p>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="firstEdition">
+      <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-11"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Încorporat în ELTeC2018-l0-l5
+        --></publicationStmt>
+      <sourceDesc><bibl type="firstEdition">
           <author>Anonymous(MCP)</author>
           <title>Roșcan Haiducul. Nuvelă ilustrată cu două gravuri</title>
           <pubPlace>Bucharest</pubPlace>
           <publisher>Tipo-Litografia și Fonderia de Litere „Dor. P. Cucu”</publisher>
           <date>1894</date>
            <ref target="http://doi.org/10.5281/zenodo.2642505">Facsimile on zenodo</ref>
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
-    <encodingDesc
-      n="eltec-1">
+    <encodingDesc n="eltec-1">
       <p/>
     </encodingDesc>
     <profileDesc>
       <langUsage>
-        <language
-          ident="ro"/>
+        <language ident="ro"/>
       </langUsage>
       <textDesc>
-        <e:authorGender
-          key="U"/>
-        <e:size
-          key="medium"/>
-        <e:canonicity
-          key="low"/>
-        <e:timeSlot
-          key="T3"/>
+        <e:authorGender key="U"/>
+        <e:size key="medium"/>
+        <e:canonicity key="low"/>
+        <e:timeSlot key="T3"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc>
-      <change
-        when="2018-09-28">Initial TEI version generated.</change>
+    <revisionDesc><change when="2019-11-11">Checked by releaseChecker script</change>
+      <change when="2018-09-28">Initial TEI version generated.</change>
     </revisionDesc>
   </teiHeader>
   <text>
     <front>
-      <div
-        type="titlepage">
+      <div type="titlepage">
         <p>ROȘCAN HAIDUCUL</p>
         <p>NUVELĂ</p>
         <p>DE MCP</p>
@@ -76,7 +61,7 @@
       </div>
     </front>
     <body>
-      <div type="chapter" n="1">
+      <div type="chapter">
         <head>CAPITOLUL I. Robul</head>
         <p>— Dar bine măi Vasile, ce ascunzi tu cu atâta grabă? întrebă vătaful Procopie cu vocea
      batjocoritoare când frumosul rob tresărise de o dată la apropierea lui:</p>
@@ -139,9 +124,7 @@
      împotrivire printre țărani, ei se resvrătiră în mai multe ținuturi de la răsare-soarele și
      formau cete de haiduci.</p>
       </div>
-      <div
-        type="chapter"
-        n="2">
+      <div type="chapter">
         <head>CAPITOLUL II.Frânghia tăiată</head>
         <p>Săracul Vasile.</p>
         <p>Când vătaful își aducea aminte de acest nume, înfricoșarea vopsia buzele sele și privirea sa
@@ -301,9 +284,7 @@
         <p> Ea căzu ca leșinată și fu chiar de trebuință ca ea să fie dusă de subțioară și să părăsească
      locul primejdiei.</p>
       </div>
-      <div
-        type="chapter"
-        n="3">
+      <div type="chapter">
         <head> CAPITOLUL III. Resvrătirea</head>
         <p>—Ei bețivule, mormăi îmbătatul Niculcea la dascăl, întinzând mâna sa acestuia, trebue să-ți
      mărturisesc că tu la băut faci parale, că tu nici nu ai de a te teme să pui rămășag cu băutorul
@@ -431,9 +412,7 @@
         <p>Boierul poruncise pe acesta; acuma veni Roșcan și-și însuși dreptul de stăpân pe moșia
      boierului Niculicea.</p>
       </div>
-      <div
-        type="chapter"
-        n="4">
+      <div type="chapter">
         <head>CAPITOLUL IV. În cămara chinurilor</head>
         <p>— Stăpâne, mărite stăpâne, Roșcan haiducul e aci în casa boerească; toți suntem perduți și
      dați morții.</p>
@@ -558,9 +537,7 @@
      înspre tovarășii săi, din cari unul descoperise pe Florica în camera ce a fost încuiată de
      către fratele ei.</p>
       </div>
-      <div
-        type="chapter"
-        n="5">
+      <div type="chapter">
         <head>CAPITOLUL V. Mireasa Robului</head>
         <p>Într’o clipă se apropie Vasile de Florica.</p>
         <p>Ea era învestmântată în frumoase haine țărănesci. Minunatul păr atârna despletit pe umerii ei
@@ -765,9 +742,7 @@
      frunte și cu strigăte și cu chiote de bucurie înspre sat și ca luminație de nuntă se aprinse
      casa boiească.</p>
       </div>
-      <div
-        type="chapter"
-        n="6">
+      <div type="chapter">
         <head>CAPITOLUL VI.Mulțumire și răsbunare</head>
         <p>În fine fu ajuns bordeiul în care locuia Vasile.</p>
         <p>Clădirea era nouă încă. Vasile o lecuise în nădejdea, că va duce în curând acasă la dânsul pe
@@ -875,11 +850,9 @@
       </div>
     </body>
     <back>
-      <div
-        type="notes">
+      <div type="notes">
         <note> Această nuvelă este întocmită după o narațiune germană.</note>
       </div>
     </back>
   </text>
 </TEI>
-

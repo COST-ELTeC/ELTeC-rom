@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM017" xml:lang="ro">
  <teiHeader>
   <fileDesc>
@@ -15,41 +18,37 @@
     <measure unit="words">65702</measure>
     <measure unit="pages">202</measure>
    </extent>
-   <publicationStmt>
-    <p>Încorporat în ELTeC <date>2019-08-28</date></p>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="printSource">
+   <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-11"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Încorporat în ELTeC 2019-08-28--></publicationStmt>
+   <sourceDesc><bibl type="printSource">
      <author>Dimitrie Bolintineanu</author>
      <title>Elena. Roman original de datine politic filosofic</title>
      <pubPlace>Bucharest</pubPlace>
      <publisher>Editura Minerva</publisher>
      <date>1984 (1862)</date>
           <ref target="http://doi.org/10.5281/zenodo.3228831">Facsimile on zenodo</ref>
-         </bibl>
-   </sourceDesc>
+         </bibl></sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
-   <p></p>
+   <p/>
   </encodingDesc>
-  <profileDesc xmlns:e="http://distantreading.net/eltec/ns">
+  <profileDesc>
    <langUsage>
-    <language ident="ro"></language>
+    <language ident="ro"/>
    </langUsage>
    <textDesc>
-    <e:authorGender key="M"></e:authorGender>
-    <e:size key="medium"></e:size>
-    <e:canonicity key="high"></e:canonicity>
-    <e:timeSlot key="T2"></e:timeSlot>
+    <e:authorGender key="M"/>
+    <e:size key="medium"/>
+    <e:canonicity key="high"/>
+    <e:timeSlot key="T2"/>
    </textDesc>
   </profileDesc>
-  <revisionDesc>
+  <revisionDesc><change when="2019-11-11">Checked by releaseChecker script</change>
    <change when="2019-09-28">Initial TEI version generated.</change>
   </revisionDesc>
 </teiHeader>
  <text>
     <body>
-   <div type="chapter" n="1">
+   <div type="chapter">
 <p>Era ziua de mai întîi a anului 1859.</p>
 <p>Mai multe familii de boieri dezbrăcaţi la 24 genariu de privilegele regulamentare, fugind de capitala revoluţionară, se adunau la o moşie lingă Ploieşti unde, fără cea mai mică temere, puteau să critice lucrurile şi oamenii noi.</p>
 <p>Pînă a introduce pe cititori în mijlocul acestui cerc de desprivelegiaţi, ca să le facem cunoştinţa bărbaţilor şi femeilor de care era compus, să vorbim despre moşia boierească.</p>
@@ -114,7 +113,7 @@
 <p>— Minunat orator este Talangiu !... zise Serescu, cînd: vorbeşte se face tăcere adîncă, ar zice cineva că vorbele cură din buzele lui ca mărgăritarele.</p>
 <p>— Nu sînt de această părere, arhon logofete... Şer vorbeşte mai bine !... în Adunarea de sub Bibeseu erau oratori buni!... hei, ce timpuri !... Eram deputat... nu m-ai auzit vorbind îfi Adunare niciodată ? îmi aduc aminte încă cum fulgeram într-o zi opoziţia ! nimeni nu mai ceru să vorbească în seanţa aceea. ...Era cu pricina lui Trandafilor, cînd ceru Rusia să exploateze minele. Grozav băturăm pe opoziţie... a doua zi închiserăm Adunarea.</p>
     <p>Strigătele poştaşilor se auziră acum în curte. Ospeţii alergară în capul scării, servitorii veniră eu luminări. Erau patru trăsuri închise. Călătorii se coborîră, apoi urcară scara, îndată se auziră mulţime de voci zgomotoase de femei.</p></div>
-     <div type="chapter" n="2">
+     <div type="chapter">
       <head>NOII VENIȚI</head>
 <p>Salonul era plin de lume.</p>
 <p>Talangiul cu familia, Şer, Tudorina ; Zoe Şer cu băr-bată-său, şi alţii cu care vom face mai tîrziu cunoştinţă. Deocamdată să ne ocupăm de o persoană necunoscută ce intră cu Şer.</p>
@@ -260,7 +259,7 @@ Această fată este tot ce mi se cuvine, tînără, frumoasă, spirituală. E s
 <p>— Să nu despreţuim materia. Daca sufletul este căldura, materia este flacăra : starea materială decidă de multe ori de starea morală. Să venim spre exemplu la popoli. Toţi popoliî a căror stare materială este mizeră nici nu cugetă, nici nu sunt altfel decît sub inspir aţiunea mizeriei. Acolo nu este nici instrucţiune, nici cugetări înalte, nici morală. Din contra, acolo unde starea materială este înfloritoare, domneşte civilizaţiunea. Ea dă toate mijloacele de perfecţiune intelectuală şi morală. Astfel este şi cu indivizii în parte. Omul care lipseşte de mijloacele vieţii îşi lasă spiritul fără cultură. Vestejeşte, de pere ; inima i se oţeleşte, vede toate în rău, în amărăciune. Cel ce are mijloace se cultivă, tot îi surîde cu plăcere, sufletul lui e împăcat, devine generos... Iată, doamna mea, ce trebuie să dorim. Iată filosofia ce trebuie să medităm, adică care sunt cauzele mizeriei omeneşti pe pămînt.</p>
  <p>în acelaşi timp un serv anunţă că cina era gata.</p>
 <p>D-na Elena luă braţul Talangiului. Postelnicul dete braţul principesei Iordache. Elescu ieşi cu Caterina, ceialţi dupe întîmplare.</p></div>
-     <div type="chapter" n="3">
+     <div type="chapter">
 <head>CINA</head>
 <p>Oaspeţii coborîră în sala de mîncare. O curăţenie escuisă domnea în sală şi pe masă. Sala nu avea nimic straordinar. Pereţi tapisaţi, un plafond de lemn sculptat şi zugrăvit. Scaune simple; dulapuri cu argintării de serviciu şi vase de porţelanuri imitate. Pe masă, candelabre cu luminări aprinse. Două mari buchete de flori fragede.</p>
 <p>Elescu se puse lîngă Caterina, care şedea la stînga postelnicului ; în faţă cu dînsul, puţin mai în dreapta, era Elena. Convorbirea devenise parţială. Şer vorbea cu domnişoara Sereasca.</p>
@@ -293,7 +292,7 @@ Această fată este tot ce mi se cuvine, tînără, frumoasă, spirituală. E s
 <p>— Ce idee î să vede în adevăr că este original!</p>
 <p>— Este O faptă bună.</p>
 <p>— E nebun !... îi plac femeile ?</p>
-<p>— Ca să le aibă metrese şi să le plătească... în viaţa lui nu a iubit.  > </p>
+<p>— Ca să le aibă metrese şi să le plătească... în viaţa lui nu a iubit.  &gt; </p>
 <p>— Nu mai vorbeşti de politică ? strigă postelnicul George către Talangiu.</p>
 <p>— Întn-o societate atît de plăcută, cine se mai gîn-deşte la politică ? zise Talangiu.</p>
 <p>— Dar eu voi vorbi... căci voi să aflu ce zic puterile de cele ce să întîmplă pă la noi ? Rusia ne-a părăsit cu totul! Austria vede şi tace; Francia vede de Garibaldi. Turcii au făcut faliment... ne-a lăsat în mina moldovenilor... Ai noştri de ila Paris ne zic să lucrăm şi nimic mai mult... Ce să lucrezi în gura lupului ? Ştii, arhon logo-fete, că mai bine eram noi cu protectoratul Rusiei decît cu garanţia puterilor ? Ce-mi garantează ăştia daca mi-a luat rangurile şi privilegele ? în loc de un stăpîn, şapte ! copilul cu moaşe multe rămîne cu bu... netăiat!... Astăzi ei ne guvernează, ba încă se ceartă între ei care să aibă mai mare influinţă ! de ce nu hotărăsc mai bine să ia cîrma în mină ? Şapte miniştri; şeapte consoli.</p>
@@ -386,9 +385,9 @@ Această fată este tot ce mi se cuvine, tînără, frumoasă, spirituală. E s
 <p>Elena îi făcu mustrări şi el nu înţelegea pentru ce. Elescu încă nu înţelese bine simţul acestor vorbe. Georges îi spuse la ureche :</p>
 <p>— D-na despre care este vorba are un amant un om de jos.</p>
 <p>Astfel se termină această serată. Oaspeţii se retraseră în camerile ce le erau destinate. Elescu avu aceeaşi cameră cu Georges.</p></div>
-<div type="chaper" n="4">
+          <div type="chapter">
      <head>NOAPTEA</head>
-<div><p>Vom duce pe cetitori o parte din noapte în camera acestor doi juni.</p>
+<p>Vom duce pe cetitori o parte din noapte în camera acestor doi juni.</p>
 <p>Era o cameră mobilată cu gust şi părea a fi budoriul stăpînii casii, două paturi curate îi aşteptau., Ei se dezbrăcară şi se aruncară în pat.</p>
 <p>— Ia spune-mi, ce este această Tudorină ? întrebă pe Alexandru.</p>
 <p>— O damă de două ori văduvă, a trăit puţin cu doi soţi ai săi, cronica scandaloasă pretinde că bărbaţii săi au murit, căci au iubit-o prea mult!... în fine au murit, şi văduva a găsit că este mai bine a nu se mai mărita. Trece zile ţesute de roze şi de amor împărtăşind inima sa la mai mulţi, ca să nu mai omoare pe nimeni. Iată toată istoria ei. E frumoasă, dar fără spirit, fără creştere, vană, face parte din banda voioasă.</p>
@@ -414,9 +413,9 @@ Această fată este tot ce mi se cuvine, tînără, frumoasă, spirituală. E s
 <p>— Ce oroare !</p>
 <p>O idee îi veni.</p>
 <p>„Nu poci să dorm, îşi zise el. Pentru ce nu voi seri ceva în acest album ?”</p>
-<p>Se uită pe masă, vede toate cele de trebuia spre a putea seri. Se puse la masă şi dupe cîteva minute scrise tv în album această poezie a unuia din poeţii români.</p></div>
-<div type="poetry">
- <l>LA FEMEIE</l>
+<p>Se uită pe masă, vede toate cele de trebuia spre a putea seri. Se puse la masă şi dupe cîteva minute scrise tv în album această poezie a unuia din poeţii români.</p>
+
+ <p>LA FEMEIE</p>
  <l><hi>Fiice ale frumuseţii,</hi></l>
 <l><hi>Graţii! coborîţi din cer,</hi></l>
 <l><hi>Cu lumina dimineţii </hi></l>
@@ -460,15 +459,15 @@ Această fată este tot ce mi se cuvine, tînără, frumoasă, spirituală. E s
  <l><hi>Frumuseţile divine</hi></l> 
  <l><hi>Nu mai locuiesc in cer,</hi></l>
  <l><hi>Raiul pe pămînturi vine,</hi></l>
- <l><hi>Fabulele toate per !</hi></l></div>
-<div><p>— Şi acum, zise Alexandru, Elena poate să citească aceste versuri, nimic nu este mai potrivit cu dînsa.</p>
-<p>închise albumul. Uitîndu-se pe masă, văzu altă carte, o deschise... 
+ <l><hi>Fabulele toate per !</hi></l>
+<p>— Şi acum, zise Alexandru, Elena poate să citească aceste versuri, nimic nu este mai potrivit cu dînsa.
+</p><p>închise albumul. Uitîndu-se pe masă, văzu altă carte, o deschise... 
  <hi><foreign>Le lys de la vallée</foreign></hi>, ceti Alexandru. „Iată un roman ce arată mai bine decît toate operile filosofilor ce este o femeie. Elena a trebuit să-l citească, să-l simţă... este o mare asemănare între aceste două suflete de femei... Pe scoarţă este scris cu mina... mina Elenii a fi tras aceste rînduri...</p>
 <p>Să citesc !...”</p>
  <quote><p>„Sufletul meu este trist, în mijlocul bucuriilor. Mă întreb pentru ce, şi nu găsesc cauza. Mi se pare că viaţa îmi lipseşte... Şi ce este mai rău că nu poci a mă plînge, căci ce poci să zic, daca nu ştiu pentru ce sufer. Şi către cine mă voi adresa ? inima mea, sărmana mea inimă, sparge-te în lacrimi. Iată singura consolaţiune ce poţi afla în viaţă !... oh ! aş dori să mor !...”</p></quote>
 <p>„Sărmana femeie ! zise Alexandru, eu cunosc cauza tristeţei tele... Inima ta e pilnă de iluziuni, de dorinţi curate ca fecioarele, de amor, şi cată să se închiză în tăcere. Totul este oprit pentru tine... oh ! legile oamenilor egoişti !...”</p>
-<p>Către acestea Alexandru se puse în pat şi adormi cugetînd la Elena. „Ce inimă curată şi nobilă !...”</p></div></div>
-     <div type="chapter" n="5">
+<p>Către acestea Alexandru se puse în pat şi adormi cugetînd la Elena. „Ce inimă curată şi nobilă !...”</p></div>
+     <div type="chapter">
 <head>ELENA</head>
 <p>Elena se culcase ; dar în deşert invoca somnul. Sistemul nervos îi era iritat. O frigură uşoară şi nesimţită prinsese corpul ei graţios.</p>
 <p>„Muzica m-a obosit ! zise ea. Această lume ce primesc nu poate să mă distreze ; din contra, îmi face rău...nu voi mai priimi pe nimeni... Alexandru pleacă mine... mi se pare un caracter fantasc... Sau un suflet nobil şi delicat... însă pentru ce oare pleacă atît de curînd ?... o să se înturne dupe trei zile... Ce avea Caterina de îl ruga atît să rămîie ?... Ar face mai bine să nu mai revie... Nici nu cred a se înturna...</p>
@@ -484,9 +483,9 @@ Această fată este tot ce mi se cuvine, tînără, frumoasă, spirituală. E s
 <p>Elena înecă un suspin.</p>
 <p>— Nu ştiu, urmă el, ce stare o fi avînd acest Elescu ? Trebuie să-l îngrijim. Cine stië cum vine timpul să am trebuinţă de el... Nu mai sunt în post, nu mai cîştig nimic. Cheltuiesc tot din averea noastră... ipotesierii nu-mi mai aduc gropurile cu lire... Timpii sunt grei...</p>
 <p>Vorbind astfel, postelnicul se scoală şi iese să se plimbe prin grădină.</p></div>
-     <div type="chapter" n="6">
+     <div type="chapter">
 <head>CEARTA</head>
-<div><p>La nouă oare dimineaţa toţi oaspeţii erau în chioşcul din grădină.</p>
+<p>La nouă oare dimineaţa toţi oaspeţii erau în chioşcul din grădină.</p>
 <p>O convorbire aprinsă începuse între Talangiu şi Elescu.</p>
 <p>— De trei ani aproape, zicea cel dintîi, ţara este îngenucheată ; un gemet de durere răsună peste tot; casa statului este falită ; comerţul căzut ! Cine a făcut aceasta ? puterea executivă ce a fost în mina liberalilor. Ce îndreptare se face ? nimic ! Răul creşte pe toată ziua.</p>
 <p>— Aceştia sunt nişte fapţi,-răspunse Elescu, care nu ştim pînă la ce punt pot să fie exacţi. Cu toate acestea, care sunt cauzele lor ? Sub domnia lui A. Ghica, aţi redigeat o doleanţă care începea : Ţara este îngenucheată. Casa statului este falită etc. O ştii, căci ai suscris-o atunci. Aceea ce aţi zis atunci, ziceţi şi acum, aveţi un tipic.</p>
@@ -559,11 +558,11 @@ Această fată este tot ce mi se cuvine, tînără, frumoasă, spirituală. E s
 <p>— Mi se pare...</p>
 <p>— Caterina... Ştii ce mi s-a întîmplat ? tu cunoşti albumul meu. Ieri încă îl foiletam împreună. Astăzi găsii aici o poezie nouă. Pentru cine este, e un secret; cine a scris-o, e un secret.</p>
 <p>— Să vedem !... Ia albumul. în adevăr, nu era ieri...</p>
-<p>Citeşte : <hi>La femeie...</hi> la care femeie ? în genere ? Cine este autorul ?... Să vedem. Ieri nu era scrisă, deci a scris-o astăzi... Cine, din cei de faţă ?... Să cercetăm cine ar fi în stare să facă versuri... Şer nu ştie să scrie româneşte, şi încă îşi face un merit din ignorinţa sa... Bar este tîmpit de spirit, incapabil de a cugeta şi a simţi astfel; Georges nu poate să facă un vers. Bărbată-tău, nici nu mai vorbim. Talangiu, principele Iordache, ceialţi... nu pot seri alte versuri decît de cele ce se scriau în timpii vechi :</p></div>
-<div type="poetry">
+<p>Citeşte : <hi>La femeie...</hi> la care femeie ? în genere ? Cine este autorul ?... Să vedem. Ieri nu era scrisă, deci a scris-o astăzi... Cine, din cei de faţă ?... Să cercetăm cine ar fi în stare să facă versuri... Şer nu ştie să scrie româneşte, şi încă îşi face un merit din ignorinţa sa... Bar este tîmpit de spirit, incapabil de a cugeta şi a simţi astfel; Georges nu poate să facă un vers. Bărbată-tău, nici nu mai vorbim. Talangiu, principele Iordache, ceialţi... nu pot seri alte versuri decît de cele ce se scriau în timpii vechi :</p>
+
  <l><hi>Iar cînd cîntă psaltichia </hi></l>
- <l><hi>Ii sare din cap tichia. </hi></l></div>
-<div><p>Rămîne dar Elescu ! dar şi el de unde ieşi poet d-odată ?</p>
+ <l><hi>Ii sare din cap tichia. </hi></l>
+<p>Rămîne dar Elescu ! dar şi el de unde ieşi poet d-odată ?</p>
 <p>— Ghiceşte ! zise ea.</p>
 <p>— Acest album tu nu l-ai dat niminui, deci autorul s-a introdus aici...</p>
 <p>în camera mea de culcare !...</p>
@@ -710,8 +709,8 @@ Această fată este tot ce mi se cuvine, tînără, frumoasă, spirituală. E s
 <p>. Zise şi se puse la piano.</p>
 <p>Bar se duse la Serescu şi îi zise :</p>
 <p>— Am să-ţi vorbesc ceva serios. Poţi să vii după mine ?</p>
-<p>— Da ! zise Serescu, şi amîndoi se duseră într-o cameră izolată.</p></div></div>
-     <div type="chapter" n="7">
+<p>— Da ! zise Serescu, şi amîndoi se duseră într-o cameră izolată.</p></div>
+     <div type="chapter">
 <head>CEREREA IN CĂSĂTORIE</head>
 <p>Cînd amîndoi şezură, Bar deschise gura şi cu o voce tremurîndă îi zise :</p>
 <p>— De trei ani eram hotărît să mă însor... Voiam să iau pe domnişoara Caterina... Cîte sacrifice nu am făcut pentru această idee ! această căsătorie ar fi fost un mare sacrificiu din parte-mi, o milă, ca să zic aşa, căci ea nu are nimic şi eu sunt om de zece mii de galbeni venit. Cum a răspus ea la o idee atît de generoasă ?... Refuză !... Aşadar, iată ce m-am socotit : să mă leapăd de această idee. Şi... d-ta eşti un om care apreţuieşti talentele, averea... Ştii cum se fac banii ?... Domnişoara d-le este o fată cuminte... Viu şi-i cer mîna !</p>
@@ -743,7 +742,7 @@ Această fată este tot ce mi se cuvine, tînără, frumoasă, spirituală. E s
 <p>„Ce-am făcut ! îşi zicea el. Am vrut să-mi răzbun pe Caterina pentru că rîsese de mine ; dar ea rămîne atît de indiferintă ca cum ar fi vorba de nunta împăratului Bengalului !... Părinţii priimiră cu atîta înlesnire şi plăcere să mă facă ginere, încît îmi vine a crede că nu am căpătat vreun lucru mare... Mîne îmi iau vorba înapoi... dar se mai poate ?... Am anunţat lucrul la toată societatea !...”</p>
 <p>Seara trecu voioasă pentru toată lumea. Un singur suflet era întristat : Elescu.</p></div>
      
-<div type="chapter" n="8">
+<div type="chapter">
 <head>O PATIMA NOUĂ</head>
 <p>Cei doi juni, Alexandru şi Georges, se retrăseseră în camera lor de culcare.</p>
 <p>— Sunt aici două femei care nu-mi plac, zise Alexandru. </p>
@@ -831,7 +830,7 @@ Această fată este tot ce mi se cuvine, tînără, frumoasă, spirituală. E s
 <p>— Regină a balurilor, putem a nu te invita ? răspunse Bar surîzînd.</p>
 <p>Dupe mai multe vorbe în care Caterina şi Georges fură fără milă pentru aceste patru persoane, ieşiră şi se duseră în grădină.</p>
 <p>— Vedeţi această fată ? întrebă Bar. Ei, bine ! nu crez să aibă practica, dar are teoria tutulor misterelor din viaţă !</p></div>
-     <div type="chapter" n="9">
+     <div type="chapter">
 <head>INTRIGANTELE</head>
 <p>În acel timp Zoe şi principesa Iordache, în altă cameră, urzeau contra Elenei o intrigă criminală.</p>
 <p>— A zis, cînd nu eram faţă, că am un amant din popor ; a repetat-o cînd eram faţă că am un amant din popor ; a repetat-o cînd eram faţă... şi nu sufer pentru întîia oară insultele acestui om !... Am jurat pe tot ce iubesc mai mult în lume să-mi răzbun, şi o voi face...</p>
@@ -868,22 +867,22 @@ Această fată este tot ce mi se cuvine, tînără, frumoasă, spirituală. E s
 <p>Cîtă putere îi trebui asupră-i ca să ia congediu de la cei de faţă, să surîză, să fie indiferinte, amabil cu toţi ; să găsească pentru fiecare două vorbe plăcute, să strîngă mîna Elenii şi să plece !...</p>
 <p>Elena rămase la piano. Ea auzi afară uruitura tră-surei, plesnetul bicelor... acea uruitură se alină în depărtare, apoi, cu încetul, se stinse.</p>
 <p>„Unde voi merge ? se întrebă el. Negreşit acolo unde Zoe se află acum. Este ceva care îmi zice că această femeie caută să piarză pe Elena... trebuie să descoper... să o scap, de va fi ceva.”</p></div>
-     <div type="chapter" n="10">
+     <div type="chapter">
 <head>CORISPONDINŢA</head>
-<div><p>Trecuse o lună de la plecarea lui Alexandru. În acel timp el scrisese Elenei un bilet de mulţumire. După ce îi mulţumea, se scuza pentru că nu putuse să se înturne. <hi>„Florile mele,</hi> îi scria el, <hi>au cătat să vestejească de multe zile şi eu încă nu m-am întors...</hi>”.</p>
-<p>Elena priimi cu plăcere acel bilet şi îi răspunse în termenii următori :</p></div>
-<div type="letter"><p><hi>„Domnule !</hi></p>
-<p><hi>Am auzit să ai fost indispus. Este adevărat ?... Daca nu ai venit căci ai fost bolnav, îmi pare destul de rău; daca însă cauza nevenirii aici nu a fost boala, ci negliginţa, atunci îţi mărturisesc că şi mai rău îmi pare. Buchetul d-le a vestejit dupe trei zile, şi poţi să fii sigur că nu i-a lipsit îngrijirea. Vai î nu putea să trăiască mai mult!... Ceialţi oaspeţi au plecat. A rămas numai Caterina, cu care vorbim de multe ori despre domniata. Ea este rouă cugetărilor mele întristate încă din copilărie. Intoarce-te aici ca să consoli cu prezinţa-ţi pe acei ce cugetă totdauna la d-ta.”</hi></p></div>
-<div><p>Această scrisoare aduse oarecare bucurie lui Alexandru şi deschise din nou rana inimii sale...</p>
+<p>Trecuse o lună de la plecarea lui Alexandru. În acel timp el scrisese Elenei un bilet de mulţumire. După ce îi mulţumea, se scuza pentru că nu putuse să se înturne. <hi>„Florile mele,</hi> îi scria el, <hi>au cătat să vestejească de multe zile şi eu încă nu m-am întors...</hi>”.</p>
+<p>Elena priimi cu plăcere acel bilet şi îi răspunse în termenii următori :</p>
+<p><hi>„Domnule !</hi></p>
+<p><hi>Am auzit să ai fost indispus. Este adevărat ?... Daca nu ai venit căci ai fost bolnav, îmi pare destul de rău; daca însă cauza nevenirii aici nu a fost boala, ci negliginţa, atunci îţi mărturisesc că şi mai rău îmi pare. Buchetul d-le a vestejit dupe trei zile, şi poţi să fii sigur că nu i-a lipsit îngrijirea. Vai î nu putea să trăiască mai mult!... Ceialţi oaspeţi au plecat. A rămas numai Caterina, cu care vorbim de multe ori despre domniata. Ea este rouă cugetărilor mele întristate încă din copilărie. Intoarce-te aici ca să consoli cu prezinţa-ţi pe acei ce cugetă totdauna la d-ta.”</hi></p>
+<p>Această scrisoare aduse oarecare bucurie lui Alexandru şi deschise din nou rana inimii sale...</p>
 <p>„Nu am putut să descoper încă nimic despre cugetile Zoei. Poate că a fost o închipuire a mea ?... aş putea dar a mă înturna la Făneşti, unde se află Elena şi Caterina ?... Oricare ar fi patima mea, voi găsi totdauna destulă putere ca să nu mă las să mă tîrăsc la vreo indiscreţiune. Voi pleca peste cîteva zile ; cu toate acestea, nu este rău a seri Elenei cîteva lucruri ce se întîmplară pe aici. Aceasta o va distra."</p>
-<p>Vorbind astfel, ia hîrtia şi face următoarea scrisoare :</p></div>
-<div type="letter"><p><hi>„Doamnă !</hi></p>
+<p>Vorbind astfel, ia hîrtia şi face următoarea scrisoare :</p>
+<p><hi>„Doamnă !</hi></p>
  <p><hi>Ţara noastră este locul privilegiat unde tot sufletul ce a priimit mai multă favoare de la providenţă trebuie să sufere. Nimeni nu a băut din această cupă de amărăciune mai mult decît mine în timpul din urmă. Cu toate acestea, sunt oameni ridiculi, care vin să ne distreze cîteo-dată. Bar, dupe ce a veni la Bucureşti începu să se căiască serios că ceruse mîna Sofiei... Căuta să-şi ia vorba înapoi şi nu găsea nici o idee.</hi></p>
 <p><hi>Sereştii îl siliră să hotărască ziua de nuntă... le răspunse că peste zece zile. Atunci îi veni o idee originală. Voia cel puţin să mai întîrzie pînă cînd va avea cea din urmă explicare cu Caterina. Ştii ce şi-a închipuit să facă ca să amîne nunta ? Să dărîme plafondul din salonul său şi să zică că a căzut singur şi că, prin urmare nu poate face nunta pînă nu se va repara plafondul. Dar, în fine, s-a hotărît pentru Sofia.</hi></p>
 <p><hi>Sofia, din parte-i, anunţă de acum ce are să fie. In zilele din urmă Bar era la dînsa. Era vorbă de cai. Sofia zise că ar fi fericită cînd ar avea caii d-nei N... Bar m zise nimic. Peste zece minute plecă, se duse la d-na N... «Ce te-a costat caii d-le ?», «Cinci sute de galbeni, răspunse ea. Dar nu-i am de vînzare.» «O mie ! răspunse el, numai să mi-i vinzi...» D-na N... văzînd că ţine atîta la cai, îi vîndu pentru o mie de galbeni. A doua zi caii fură duşi şi puşi sub ochii Sofiei. Toate acestea le face ca să necăjească pe Caterina !</hi></p>
 <p><hi>O noutate ! D-na Zoe a renunţat la amantul său din popol; un june fecior de boier, bogat, elegant şi foarte frumos din Moldova, i-a luat locul. Ea îl prezintă la toţi. El trece zilele în salonul ei. Elogiurile ce ea îi face la toţi sunt atît de exagerate, încît lumea aici a început să vorbească.</hi></p>
-<p><hi>Ieri am văzut-o, mi-a zis că are să vie la Făneşti peste zece zile şi o să aducă şi pe junele Ranu. Acesta este numele noului Adonis.”</hi></p></div>
-<div><p>Acum să venim la Zoe, această femeie nu renunţase la planul său de răzbunare. Ea avusese un lacheu care, prin protecţiunea bărbată-său, devenise copist într-un minister. Ea îl chemă şi zice :</p>
+<p><hi>Ieri am văzut-o, mi-a zis că are să vie la Făneşti peste zece zile şi o să aducă şi pe junele Ranu. Acesta este numele noului Adonis.”</hi></p>
+<p>Acum să venim la Zoe, această femeie nu renunţase la planul său de răzbunare. Ea avusese un lacheu care, prin protecţiunea bărbată-său, devenise copist într-un minister. Ea îl chemă şi zice :</p>
 <p>— Tu trebuie să te laşi a face orice voi voi din tine.</p>
 <p>— Voi face tot ce vei voi din mine ! răspunse copistul.</p>
 <p>— Am să te îmbrac ca pe un fecior de boier ; să-ţi dau bani ; să ţii birje cu ziua, să te pui la masa mea, să vii în salonul meu ca să petreci cînd va fi lume mai multă. Să vorbeşti cu damele, să le faci curte... In sfîrşit, să uiţi ce ai fost...</p>
@@ -900,13 +899,13 @@ Această fată este tot ce mi se cuvine, tînără, frumoasă, spirituală. E s
 <p>Alexandru priimise o scrisoare de la Caterina. Ea vestea că Elena era bolnavă.</p>
 <p>Dupe două zile mai priimi o scrisoare de la Elena.</p>
 <p>Ii zicea că acum era mai bine ; dar această scrisoare era atît de tristă, de descuragietoare, încît Alexandru crezu că aude o cucuvaie suspinînd dureros în mijlocul ruinelor.</p>
-<p>Iată această scrisoare :</p></div>
-      <div type="letter"><p><hi>„Domnule !</hi></p>
+<p>Iată această scrisoare :</p>
+      <p><hi>„Domnule !</hi></p>
 <p><hi>Este putinţă să te schimbi atît ? Iată mai multe zile trecute, şi nu ai avut timpul să-ţi aduci aminte de amicii d-le ! Ieri toată ziua şezui cu Caterina pe balcon, ascultătoare la fiece strigare a poştaşilor în depărtare, doară te vom vedea...</hi></p>
 <p><hi>Iluziune !</hi></p>
 <p><hi>Tot se schimbă în lume ! Pentru ce amicia nu se va schimba ? numeroasele ocupări nu-ţi vor permite să vii, astfel mă resemnez a nu te mai vedea poate niciodată. Către acestea proiectul ce aveai de a veni printre noi ne făcuse mare plăcere. Noi suntem aşezate aici pentru viaţă, şi daca ar trebui să părăsesc acest loc, în contra căruia murmur de multe ori, ei, bine ! m-aş crede mai nefericită decît oriunde. Mă bucuram de apropierea primăverei cari avea în toţi anii o înrîurire binefăcătoare asupra mea; dar, în acest an, nu ştiu pentru ce nu mă mulţumeşte, poate că sunt bolnavă şi din aceasta văd toate în negru ? Să sperăm că va trece !</hi></p>
-       <p><hi>Am citit în aceste zile cu Caterina poeziile lui Victor Hugo. M-au încîntat. Sunt frumoase ! sunt sublime ! şi cu toate astea sunt atît de simple. Subiecte din viaţa reală : nici o exageraţiune. Sper că o să lucrez mult în vara aceasta cu piano; dar nu voi avea vreo stavilă ? este probabil, pentru că aceasta este un lucru ce-mi face plăcere ! sunt două oare dupe miezul nopţii, cată dar a termina aici. Adio. Iţi strîng mîna.</hi></p></div>
-      <div><p>Această scrisoare, al cării original există şi se poate arăta, făcu pe Alexandru să plece îndată. „Curios lucru ! observa el pe cale. A auzi vorbele, scrierile Elenei, cîteodată, ar crede cineva că mă iubeşte, şi cu toate acestea nimic !... Eu am devenit amicul său cel mai bun, confesorul său, grotectorele său, în fine, un lucru de care Elena are trebuinţă ca să exprime tot ce sufletul ei are mai intim !”</p>
+       <p><hi>Am citit în aceste zile cu Caterina poeziile lui Victor Hugo. M-au încîntat. Sunt frumoase ! sunt sublime ! şi cu toate astea sunt atît de simple. Subiecte din viaţa reală : nici o exageraţiune. Sper că o să lucrez mult în vara aceasta cu piano; dar nu voi avea vreo stavilă ? este probabil, pentru că aceasta este un lucru ce-mi face plăcere ! sunt două oare dupe miezul nopţii, cată dar a termina aici. Adio. Iţi strîng mîna.</hi></p>
+      <p>Această scrisoare, al cării original există şi se poate arăta, făcu pe Alexandru să plece îndată. „Curios lucru ! observa el pe cale. A auzi vorbele, scrierile Elenei, cîteodată, ar crede cineva că mă iubeşte, şi cu toate acestea nimic !... Eu am devenit amicul său cel mai bun, confesorul său, grotectorele său, în fine, un lucru de care Elena are trebuinţă ca să exprime tot ce sufletul ei are mai intim !”</p>
 <p>Către seară el ajunse la Făneşti. Aceste dame îl întîmpinară cu o politeţă la care el nu se aştepta. Venirea lui făcu mai multă impresiune asupra postelnicului George, care, îndată ce-l văzu, îl luă în braţe şi ii zise :</p>
 <p>— Bine-ai venit... avem să facem o speculare împreună ?...</p>
 <p>Elena nu-i zise nici o vorbă, nici despre scrisoarea ei, nici pentru lunga nearătare acolo. O află mai rezervată decât totdauna. Alexandru nu înţelegea că tocmai taceastă rezervă era un semn care ar fi trebuit să-i facă mulţumire. El luă lucrul pentru răceală. Observă pe Elena [că] evita toate ooaziunile de a rămânea singură cu dînsul.</p>
@@ -1010,9 +1009,9 @@ Această fată este tot ce mi se cuvine, tînără, frumoasă, spirituală. E s
 <p>— Ce bucurie simte domnişoara ! zise Alexandru. Ar zice cineva că i s-a urît aici cu societatea celor de faţă.</p>
 <p>— Poate, zise Caterina.</p>
 <p>— Are dreptate, zise Elena. în loc să fii voios îi vorbeşti de spînzuraţi !...</p>
-<p>— Nu se ucide nimeni pentru amor... zise Caterina. Şi se puse să rîză cu plăcere. Uitaţi-vă la Bar, adoratorul meu, urmă ea. Ştiţi ce mi-a zis odată ? că se omoară singur. „Ce-mi spui mie ? îi răspunsei. Să te omori sau să nu te omori, totuna îmi face !...” Atunci el, furios, zise : „Voi muri !...” şi plecă fără pălărie. Peste trei zile trimise să-şi ia pălăria de la noi. Seara era la bal. „Ce, încă trăieşti ?” îl întrebai. „Ca să-mi răzbun”, răspunse el.</p></div></div>
+<p>— Nu se ucide nimeni pentru amor... zise Caterina. Şi se puse să rîză cu plăcere. Uitaţi-vă la Bar, adoratorul meu, urmă ea. Ştiţi ce mi-a zis odată ? că se omoară singur. „Ce-mi spui mie ? îi răspunsei. Să te omori sau să nu te omori, totuna îmi face !...” Atunci el, furios, zise : „Voi muri !...” şi plecă fără pălărie. Peste trei zile trimise să-şi ia pălăria de la noi. Seara era la bal. „Ce, încă trăieşti ?” îl întrebai. „Ca să-mi răzbun”, răspunse el.</p></div>
      
-     <div type="chapter" n="11">
+     <div type="chapter">
       <head>RANU</head>
 <p>Trei trăsuri intrară atunci pe poartă. Era Zoe, principesa Iordache, Georges şi Ioan copistul, sub nume de Ranu din Moldova. Zoe se înturnă către Elena şi îi zise :</p>
 <p>— Îţi prezint unul din amicii mei, d. de Ranu din Moldova.</p>
@@ -1035,7 +1034,7 @@ Această fată este tot ce mi se cuvine, tînără, frumoasă, spirituală. E s
 <p>Elena nu ştie ce să cugete. „Oare acesta va să rîză de mine sau este unul din acei nebuni ce mă turbură de multe ori prin indiscreţiunele lor ?” îşi zise ea.</p>
 <p>Natura cînd împarte favoarele sale la oameni nu ţine socoteală de nimic. Ranu, sau mai bine Ioan lacheul, fusese favorat cu multă prodigalitate.</p>
 <p>Elena se uită la dînsul să vază daca putea citi în faţa lui ideeâ ironiei. El era serios. Ea văzu o figură frumoasă, pe care nu putu a se opri de a nu o admira.</p></div>
-     <div type="chapter" n="12">
+     <div type="chapter">
 <head>GELOZIE</head>
 <p>Alexandru găsi că Elena vorbeşte prea mult cu acest nou-venit, că prin urmare îi place a vorbi cu dînsul. Pentru întîia oară el simţi o gelozie profundă ca şi amorul său pentru dînsa. „Acest om este frumos ! zise el. Cine poate să ştie daca Elena nu se simte atrasă către dînsul?... Iată cum îl caută!... îi vorbeşte încet!... Ce îi zice ? negreşit ceva care nu poate a-i spune tare... Oare nu îl cunoştea mai înainte ? Să poate... O, femeile !... dar pentru ce nu se scoală de acolo ?... Elena este o femeie ca toate celelalte ; o cochetă... Voi pleca de aici... nu voi să o mai văz... o urăsc...”</p>
 <p>În fine, Elena se sculă şi merse lîngă principesa Iordache.</p>
@@ -1101,7 +1100,7 @@ Această fată este tot ce mi se cuvine, tînără, frumoasă, spirituală. E s
 <p>— Voi pleca, zise el, dar mai departe, şi niciodată # nu mă voi înturna !</p>
 <p>„O, Dumnezeule ! gîndi Elena, trebuie să mă explic cu dînsul !... daca l-aş face să plece, pentru cîteva zile numai. Spiritul său este într-o exaltare deosebită... se va distra; îi va trece...”</p>
 <p>Toată ziua aceea Elena căută să nu vorbească cu Ranu printr-o delicateţă rară. Alexandru păru mulţumit de aceasta. Cu toate că se întrebă el însuşi : „Această rezervă oare nu este o mască ?”</p></div>
-     <div type="chapter" n="13">
+     <div type="chapter">
 <head>RANU SE DESCOPERĂ</head>
 <p>Către acestea cele două dame ce observau pe Elena şi pe Ranu în toate mişcările lor, văzînd oarecare tur-burare în Elena, crezură că era efectul impresiunei ce Ranu făcuse asupră-i. Ele se concertară şi găsiră că este timpul ca Ranu să se arunce la picioarele ei şi să-i descopere amorul său. Zoe chemă pe Ranu şi îi dete instrucţiuni ce avea să facă. Acesta consimţi şi, ieşind din camera lor, se duse să pîndească, doare va găsi pe Elena singură.</p>
 <p>Elena era în salon ocupată a descifra la piano o piesă de muzică, era singură, toţi ospeţii, dame şi bărbaţi, erau în grădină. Ranu intră aici.</p>
@@ -1132,7 +1131,7 @@ Această fată este tot ce mi se cuvine, tînără, frumoasă, spirituală. E s
 <p>Pe de altă parte, în acel moment Ranu raporta celor două intrigante scena ce avusese cu Elena. Ele îl aprobară şi îl îndemnară să meargă înainte.</p>
 <p>— Ce te temi ? îi zise Zoe. Toate femeile se supără cînd amanţii le mărturisesc pentru întîia oară că le iubesc... nu este însă nici una care, cît de crudă s-ar arăta către acela ce o iubeşte, să nu compătimească cu dînsul, să nu simţă ! înainte ! mîne vei reîncepe atacul... prefă-te că suferi.</p>
 <p>Asfel fură cele din urmă recomandaţiuni.</p></div>
-     <div type="chapter" n="14">
+     <div type="chapter">
 <p>O ÎNTÎLNIRE</p>
 <p>Alexandru căuta timpul priincios ca să ceară o explicaţiune Elenei, dar nu era nici un mijloc.</p>
 <p>— Voi să-ţi vorbesc la o parte, zise el Elenei.</p>
@@ -1185,9 +1184,9 @@ Această fată este tot ce mi se cuvine, tînără, frumoasă, spirituală. E s
 <p>— Eu merg, zise Caterina.</p>
 <p>— Tu ?... bine ! dar nu este destul... trebuie să mergem toţi ca să poci merge şi eu... Să consultăm pe ce-ialţi !... Vii ? întrebă ea pe Alexandru... Caută să vii... alfel voi fi nefericită acolo !...</p>
 <p>— Viu, răspunse el.</p></div>
-     <div type="chapter" n="15">
+     <div type="chapter">
 <head>O CĂLĂTORIE spre munţi</head>
-<div><p>Această idee se priimi de toată lumea. Se preparară două trăsuri pentru dame. Zoe se puse într-o trăsură cu principesa şi cu Ranu, în cealaltă trăsură se urcă Elena cu Caterina. Alexandru şi cu Georges să puseră pe capra caleştei. Dupe două ore de cale, trăsurile intrară în Cîmpina, de aici luară o direcţiune către Brebul. Ajunseră în fine la Telega către miazăzi.</p>
+<p>Această idee se priimi de toată lumea. Se preparară două trăsuri pentru dame. Zoe se puse într-o trăsură cu principesa şi cu Ranu, în cealaltă trăsură se urcă Elena cu Caterina. Alexandru şi cu Georges să puseră pe capra caleştei. Dupe două ore de cale, trăsurile intrară în Cîmpina, de aici luară o direcţiune către Brebul. Ajunseră în fine la Telega către miazăzi.</p>
 <p>— Nu ai mai făcut nimic ? întrebă Zoe pe Ranu.</p>
 <p>— De ieri fuge de mine... mi-a fost peste putinţă să o mai întîlnesc singură !</p>
 <p>— Trebuie să o întîlneşti... în această călătorie va fi mai lesne decît acasă... trebuie să te grăbeşti... timpul trece şi planurile mele pot să cază...</p>
@@ -1359,8 +1358,8 @@ Această fată este tot ce mi se cuvine, tînără, frumoasă, spirituală. E s
 <p>— Mi-a zis să fiu discret, mai zise Ranu, căci de nu, va muri !...</p>
 <p>— Merge bine ! înainte... zise Zoe.</p>
 <p>Luntrele se preumblară pe lac... Soarele era aproape de culcare ; umbra şi răcoarea se răvărsa în aer, mulţime de femei, ce albeau pînzele pe malul lacului, acum le strângeau şi se înturnau acasă cu trumbele pe cap.</p>
-<p>Alexandru începu să cînte o barcarolă, atît de dulce, de suavă, de melancolică, cît atinse toate inimile.</p></div>
-<div type="poetry"><l>BARCAROLĂ</l>
+<p>Alexandru începu să cînte o barcarolă, atît de dulce, de suavă, de melancolică, cît atinse toate inimile.</p>
+<l>BARCAROLĂ</l>
  <l><hi>Colo unde se înclină</hi></l>
  <l><hi>Salcia pe un mormînt, </hi></l>
  <l><hi>în a stelelor lumină,</hi></l>
@@ -1372,8 +1371,8 @@ Această fată este tot ce mi se cuvine, tînără, frumoasă, spirituală. E s
  <l><hi>Du-mă, du-mă, lopătare,</hi></l>
  <l><hi>Fie noaptea cît de rea.</hi></l>
  <l><hi>Acolo, în întristare,</hi></l>
- <l><hi>Zace moartă dulcea mea.</hi></l></div>
-<div><p>Această barcarolă pătrunse inima Elenei. Ea simţea o presiune dulce şi dureroasă asupra spiritului ei. Era poate un presimţimînt de dureri ce o aşteptau în viaţă ? era regretul dulce al fericirilor ce nu putuse să guste ?... umbra ascunse ochilor streini lacrimile sale ce îi înrouă faţa.</p>
+ <l><hi>Zace moartă dulcea mea.</hi></l>
+<p>Această barcarolă pătrunse inima Elenei. Ea simţea o presiune dulce şi dureroasă asupra spiritului ei. Era poate un presimţimînt de dureri ce o aşteptau în viaţă ? era regretul dulce al fericirilor ce nu putuse să guste ?... umbra ascunse ochilor streini lacrimile sale ce îi înrouă faţa.</p>
 <p>— Nu mai cînta, zise ea lui Elescu, cînţi aşa de falş astăzi !...</p>
 <p>— Ce e acest capriciu, Eleno ? o întrebă Caterina.</p>
 <p>— Am un presimţimînt, Caterino, că voi muri în curînd...</p>
@@ -1584,8 +1583,8 @@ atât de învinsă ? De cîte ori nu blasfema ziua cînd a cunoscut pe omul car
 <p>— Cum ?</p>
 <p>Zoe se gîndi puţin, apoi luînd un aer cochet şi plecîndu-se la urechea lui Alexandru, îi şopti ceva ce principesa nu auzi...</p>
 <p>Ei se înturnară astă dată fără a se mai opri undeva. Seara erau la Făneşti. Elena se prepară ca să cunune duminica viitoare pe protegeata sa de la Brebu, trimise banii promişi egumenului şi dispuse asfel ca părinţii tinerilor să vie cu dînşii la Făneşti.</p>
-<p>Damele se retrăseseră în camerile lor de culcare.</p></div></div>
-     <div type="chapter" n="16">
+<p>Damele se retrăseseră în camerile lor de culcare.</p></div>
+     <div type="chapter">
       <head>STAFIA</head>
 <p>Zoe se aruncase pe pat. Ea era îmbrăcată cu un capot de batistă fină peste o cămaşe iară de batistă, peste acest capot trecuse un brîu de mătase albă. Pe cap pusese o bonetă elegantă de valansienă, părul ei era strîns cu îngrijire. Văzînd-o cineva asfel, ar fi zis că aşteaptă un amant. Ea se prefăcea că este aproape să adoarmă ; candela era stinsă. După cîteva minute, rădică capul, ascultă : principesa sufla ca o persoană ce doarme. Se scoală pe jumătate... ascultă, coboară din pat... ascultă încă... Se indrep-tează către uşe, o deschide.</p>
 <p>Afară se auzi un tunet. Cerul era coperit de nori ; vîn-tul începuse să sufle.</p>
@@ -1633,7 +1632,7 @@ atât de învinsă ? De cîte ori nu blasfema ziua cînd a cunoscut pe omul car
 <p>— Da !... răspunse Elena cletenînd din cap cu întristare.</p>
 <p>Dar ei cătară să tacă. Oarecine păru. Elena se retrase în camera ei, unde căzu într-o adîncă meditare.</p>
 <p>„Nu voi avea niciodată curagiul a mă despărţi... îşi zise ea : fetiţa mea va fi perdută în lume !...”</p></div>
-     <div type="chapter" n="17">
+     <div type="chapter">
       <head>O NOUĂ ÎNTÎLNIRE</head>
 <p>Era în ziua de sîmbătă. A doua zi era să fie nunta Mariii, acea fată de la Brebu. Nuntaşii veniseră în Făneşti cu toate trebuincioasele şi aşteptau ziua cununiei. D-na Elena din parte-i încă se preparase la aceasta. Sîmbătă seara veniră încă două familii de la Bucureşti, între care se afla Talangiu. Seara aceea se trecu în critice de tot. felul, politica jucă cea dintîi rolă. Toţi se ocupau atunci despre cauza incendiilor de la tabăra din Floreşti.</p>
 <p>— Bine zici, îi răspunse Georges, cu oarecare ironie, din momentul ce oştirea română nu poate să apere nici ţara contra invaziunelor străine, nici ordinea publică, urmează a fi desfiinţată cu totul, ca să nu coprinză în budget douăzeci de milioane în deşert !</p>
@@ -1733,7 +1732,7 @@ atât de învinsă ? De cîte ori nu blasfema ziua cînd a cunoscut pe omul car
 <p>Toate acestea mă fac să crez că este o femeie prea uşoară... Cine ştie la cîţi alţii ea nu a dat ceea ce mi-a dat mie?!...” şi atunci Alexandru devenea gelos, suferea, punea capul în mîini şi plîngea ca un copil.</p>
 <p>A doua zi era duminică, zi de nuntă ţărănească, zi de bucurie. Postelnicul se înturnase de dimineaţă.</p>
 <p>Pe la zece ore, mai multe trăsuri cu cai se preparară. Nuna însoţită de Caterina şi alte două dame se urcară într-o trăsură. Ceialţi făcură cum putură. îndată ce trăsurile ieşiră din curte, cincizeci de flăcăi călări înconjurară trăsura Elenii — alţii alergau înainte şi toţi descărcau pistoalele şi strigau la uşă. Ei spuseră o oraţiă curioasă. Nunta ţinu trei zile, trei zile de banchete, de danţuri, de petreceri.</p></div>
-     <div type="chapter" n="18">
+     <div type="chapter">
 <head>CEL DIN URMA ACT AL COMEDIEI</head>
 <p>Dar este timp a ne înturna la sujetul nostru. După cununie, societatea de dame şi cavaleri ce veniră la nuntă se înturnă cu nunii acasă la postelnicul. Veni un moment în care toţi aceşti oaspeţi se aflară răsipiţi în salon, vorbind despre ale nunţii. Un serv intră şi zise postelnicului că o ţigană bătrînă, ce vine de la Bucureşti, voieşte să-i vorbească lucruri mari.</p>
 <p>— Să vie aici, zise postelnicul.</p>
@@ -1756,17 +1755,17 @@ atât de învinsă ? De cîte ori nu blasfema ziua cînd a cunoscut pe omul car
 <p>Un om ce era aici dispăruse. Cu capul dezvălit ieşea din curte, plîngea peste cîmpuri, fără să ştie nici unde se duce, nici unde este. Era Alexandru.</p>
 <p>Zoe ieşea din salon. După o jumătate de oră trăsura sa fugea spre Ploieşti.</p>
 <p>Elena priimise o lovitură teribilă, faţă cu lumea, cît şi în faţă cu bărbată-său ; de nimic nu-i făcea atîta rău ca opiniunea lui Alexandru. El dispăruse la cele dintîi vorbe ale ţiganei. Va afla el că Elena era inocentă ? daca va afla, nu va fi oare prea tîrziu ? inima lui nu se va fi zdrobit la întîia lovire ?... asfel se întreba Elena, ce căzuse bolnavă de durere. Soţul său o părăseşte. El se lăsă să se ameţească de această calomnie cu intenţiune.</p></div>
-     <div type="chapter" n="19">
+     <div type="chapter">
 <head>DUCEREA LA CAPITALA</head>
-<div><p>Dar să ne înturnăm la Alexandru. După vorbele ţiganei, părăsi salonul într-o despoziţiune de spirit de la care nu mai era decît un pas pînă la perderea totală a facultăţilor sale intelectuale.</p>
+<p>Dar să ne înturnăm la Alexandru. După vorbele ţiganei, părăsi salonul într-o despoziţiune de spirit de la care nu mai era decît un pas pînă la perderea totală a facultăţilor sale intelectuale.</p>
 <p>Trecu repede prin curte, străbătu satul şi ieşi la luncă, apucă peste cîmpuri, cu capul descoperit... Cine l-ar fi văzut asfel ar fi crezut că este vreun nebun scăpat de la vreo mănăstire. Era două oare. El merse pînă aproape de seară fără să se oprească, fără să ştie ce cale a luat; către seară fuse întrecut de o trăsură cu patru cai. Cociul, văzînd pe Alexandru, opri caii şi îi propuse să-l ducă la Bucureşti pentru cîţi va sfanţihi. Alexandru acceptă şi se urcă în trăsură. Era trăsura egumenului de la Tîrşor ee se dusese să caute pe stăpînul ei în capitală.</p>
 <p>Alexandru era zdrobit fiziceşte şi moraliceşte. Elena îi apărea o femeie degradată. El crezu că Ranu fusese amantul ei. „Şi pentru ce nu ? zise el, pentru ce să nu mă amăgească pe mine pentru acela, daca o dată a amăgit pe bărbată-său pentru mine ? ... şi cine îmi spune că nu este o femeie ce-şi schimbă amanţii pe toată sâptămîna ?... Ea nu s-a dat mie ; este adevărat, dar nu a venit în grădină de cîte ori am voit să vie ? Daca nu este astăzi metresa mea, eu nu am voit ! Dar, în fine, a căzut vălul ... şi cu cine, D-zeule ! cu un lacheu !...</p>
 <p>Oh! cât o dispreţuiesc acum!... scandal teribil... cu tot dispreţul ce cată să am pentru dînsa, mi se sfîşie inima de pietate cînd îmi aduc aminte poziţiunea ei umilitoare la vorbele acei fermecătoare !... sărmana femeie !... cum nu a murit îndată de ruşine ? fiul unei ţigance, amantul ei ! ce cădere ! ce umilinţă !...”</p>
 <p>Vorbind astfel, căzu în gînduri profunde : o lacrămă de compătimire curse din ochii săi şi păru că stinge flacăra mîniei care îl consuma. „De unde a venit acest om ?” se întrebă el. Această întrebare fuse de ajuns ca să arunce oarecare lumină în spiritul său. „D-zeule ! zise el, Zoe a adus acolo pe acest om ! Ea l-a prezintat ! oh ! daca dedesubt nu este o intrigă infamă !... această femeie este în stare să facă tot !... Cine ştie daca Zoe nu a cules pe acel lacheu cu speranţă ca să compromită pe Elena ? Cine ştie dacă acea ţigană nu a fost adusă de dînsa ! ... însă pentru care cuvînt ?... voi afla aceasta!... Daca lucrul va fi asfel : daca Elena va fi inocintă... amar acestui intrigante ! voi trage o răzbunare teribilă !... brîul ei cel perdut este în buzunarul meu... trebuie să mă întorc la Făneşti... Dar aceasta nu se mai poate... nu mai poci vedea pe Elena.”</p>
 <p>Asfel cugetând, ajunse la Bucureşti.</p>
-<p>Îndată ce intră înîntru, scrise Caterinii acest bilet :</p></div>
-      <div type="letter"><p><hi>„Am plecat repede, neputînd a mai asista la un scandal ce-mi făcea rău. Rog cerul să ierte rătăcirile acestii femei nenorocite. Ea nu mai poate să aibă în lume nici un alt sprijin decît pietatea d-le... fii bună cu din sa! o voi plînge cît voi trăi, căci, în adevăr, nenorocirile ei sunt mari !... Eu voi pleca în curînd şi de aici... rog cerul să poci să te mai văz înainte de a porn!</hi></p></div>
-<div><p>După ce trase aceste rînduri, chemă pe Petru, un serv vechi şi credincios.</p>
+<p>Îndată ce intră înîntru, scrise Caterinii acest bilet :</p>
+      <p><hi>„Am plecat repede, neputînd a mai asista la un scandal ce-mi făcea rău. Rog cerul să ierte rătăcirile acestii femei nenorocite. Ea nu mai poate să aibă în lume nici un alt sprijin decît pietatea d-le... fii bună cu din sa! o voi plînge cît voi trăi, căci, în adevăr, nenorocirile ei sunt mari !... Eu voi pleca în curînd şi de aici... rog cerul să poci să te mai văz înainte de a porn!</hi></p>
+<p>După ce trase aceste rînduri, chemă pe Petru, un serv vechi şi credincios.</p>
 <p>— Vei pleca îndată la Făneşti, unde vei găsi pe d-ra Caterina X... îi vei da acest bilet în mînă. Mîine să fii aici cu orice răspuns îţi va da ! Vei cere bagagele mele ce sunt acolo...</p>
 <p>Petru luă scrisoarea şi ieşi fără a zice o singură vorbă.</p>
 <p>Era două oare după miezul nopţii. Alexandru încercă să doarmă, în deşert; trecu o noapte teribilă. A doua zi îl prinse frigurile. Doctorul veghea lîngă dînsul tot timpul cît avu delir, în delirul său el vorbea de Elena, de Ranu ; spuse prin fraze întrerupte o parte din scandalul de la Făneşti.</p>
@@ -1783,13 +1782,13 @@ atât de învinsă ? De cîte ori nu blasfema ziua cînd a cunoscut pe omul car
 <p>Petru întră în casă.</p>
 <p>— Ai fost ? întreabă Alexandru.</p>
 <p>— Am fost şi am adus acest răspuns. Ii dete un bilet.</p>
-<p>Alexandru îl deschise, îl citeşte ; iată coprinderea :</p></div>
-      <div type="letter"><p><hi>„Domnule !</hi></p>
+<p>Alexandru îl deschise, îl citeşte ; iată coprinderea :</p>
+      <p><hi>„Domnule !</hi></p>
 <p><hi>Este inocentă, şi victima unor intrigi infame, l-am dat biletul ce mi-ai scris, l-a citit. Acest bilet este insultător; cine ţi-a dat acest drept, nu ştiu, căci în fine nu eşti un profesor de morală. Cu toate acestea, 
 Elena te-a iertat... este bolnavă în pat... voieşte să te vază înainte de a 
 pleca. Dar daca te vei înturna aici, te rog să nu fii atît de sever ca ceialţi!...</hi></p>
-       <p><hi>Caterina”</hi></p></div>
-<div><p>Acest bilet produse o mare schimbare în ideile lui Alexandru. Către acestea o îndoială crudă plana ca un nor pe liniştea inimii sale. Alexandru, cu caracterul său, nu putea să fie ferice în viaţă. El simţea o bucurie vie să nu meargă la Făneşti ; se îmbăta de ideea de a tortura sufletul acestii femei ce iubea mai mult decît viaţa lui; de a se tortura el însuşi.</p>
+       <p><hi>Caterina”</hi></p>
+<p>Acest bilet produse o mare schimbare în ideile lui Alexandru. Către acestea o îndoială crudă plana ca un nor pe liniştea inimii sale. Alexandru, cu caracterul său, nu putea să fie ferice în viaţă. El simţea o bucurie vie să nu meargă la Făneşti ; se îmbăta de ideea de a tortura sufletul acestii femei ce iubea mai mult decît viaţa lui; de a se tortura el însuşi.</p>
 <p>„Voi să petrec cîteva luni la Bucureşti, îşi zise el. Voi să cunosc această societate în care se află femei atît de triste !”</p>
 <p>Georges se prezintă la Alexandru.</p>
 <p>— Ce zici despre cele întîmplate la Făneşti ?</p>
@@ -1852,11 +1851,11 @@ pleca. Dar daca te vei înturna aici, te rog să nu fii atît de sever ca ceial
 <p>„O, femeie ! îşi zise el, tu nu poţi procura mai mult decît o femeie ce se vinde la cel dintîi venit : dezgustul!”</p>
 <p>Postelnicul George rămăsese în opiniunea că Elena era culpabilă. Din acea zi el nu voi să o vază. Trecea timpul pe la alte moşii şi cînd se înturna acasă nici nu cerceta despre soţia sa. Auzise că Elena este bolnavă şi oprise pe toţi d-a trimite să vie vreun medic ; o femeie văduvă din Ploieşti, ce devenise ţinuta sa, nu înceta a-1 întărită contra Elenii cu speranţa să o lase şi asiei să o ia pe dînsa. Postelnicul George ar fi plecat lesne urechea la însînuitoarele consilii ale ţinutei sale, daca avariţia nu l-ar fi consiliat din contra : Elena avea zestre mare şi el nu voia să piarză prin divors.</p>
 <p>— Răbdare ! îi răspundea el. Poate că cerul o va chema în sînul său, este bolnavă, toate mijloacele sunt luate ca să nu o oprească din această călătorie. Astfel vom avea starea ei.</p>
-<p>Către acestea Elena, părăsită de toţi, afară de Cate-rina, începuse a uita lovitura ce i se dase şi sănătatea sa se ameliora pe toată ziua. Ea se informa neîncetat despre Alexandru. Ar fi dat toată viaţa sa numai să-l încredinţeze că este inocentă. în cele din urmă îi scrie această carte :</p></div>
-      <div type="letter"><p><hi>„Domnule !</hi></p>
-       <p><hi>De două luni mă odihnesc cu întristare şi cu durere pe patul meu; nu voi să te ostenesc vorbindu-ţi de cauza acestii suferinţi. Tot ce poci spune este că sufer mult şi nimic nu poate a-mi împăca durerile, m-am schimbat asfel încît cu anevoie vei putea a mă recunoaşte, fiziceşte şi moraliceşte, şi sufer cu pasienţă fără să poci zări un termen. Daca am o zi mai lină, am două de dureri. Aici toţi cîţi mă înconjură parcă suferă cu mine. Acest loc acum este locul unde sufletul suferă, dar nu geme; este încă bine de a nu turbura auzul celoralţi cu plîngerile sale ! Asfel, degetele mele ce s-au dedat să cază pe tonuri minoare(triste), le am în piano şi sunetul muzicii a încetat de a se mai auzi în casa mea ! De întristare aceste degete au slăbit şi au îngălbenit şi, nemaiavînd ce face, se încrucişează în semn de martir închis... voi să las această casă!... îmi pare rău. Am locuit-o mai mulţi ani, şi mai ales regretez iedera ce am plăntat eu însumi pe murul grădinii în această primăvară, şi în care (daca ideile ar putea să se sape) ar citi cineva aci toată istoria cugetelor mele, ce vin şi se duc totdauna mai triste ca rîndurerile la sfîrşitul verii. </hi></p></div>
-<div><p>Această scrisoare era un capodopere de literatură. Ea există încă în original. Elena o trimise lui Alexandru, fără nici un alt comentariu. Alexandru nu putu să-şi oprească lacrămile, citindu-o. Elena era acum inocintă în ochii săi. Se decise să plece la Făneşti. Plecă chiar în ziua cînd priimi scrisoarea Elenei.</p></div></div>
-     <div type="chapter" n="20">
+<p>Către acestea Elena, părăsită de toţi, afară de Cate-rina, începuse a uita lovitura ce i se dase şi sănătatea sa se ameliora pe toată ziua. Ea se informa neîncetat despre Alexandru. Ar fi dat toată viaţa sa numai să-l încredinţeze că este inocentă. în cele din urmă îi scrie această carte :</p>
+      <p><hi>„Domnule !</hi></p>
+       <p><hi>De două luni mă odihnesc cu întristare şi cu durere pe patul meu; nu voi să te ostenesc vorbindu-ţi de cauza acestii suferinţi. Tot ce poci spune este că sufer mult şi nimic nu poate a-mi împăca durerile, m-am schimbat asfel încît cu anevoie vei putea a mă recunoaşte, fiziceşte şi moraliceşte, şi sufer cu pasienţă fără să poci zări un termen. Daca am o zi mai lină, am două de dureri. Aici toţi cîţi mă înconjură parcă suferă cu mine. Acest loc acum este locul unde sufletul suferă, dar nu geme; este încă bine de a nu turbura auzul celoralţi cu plîngerile sale ! Asfel, degetele mele ce s-au dedat să cază pe tonuri minoare(triste), le am în piano şi sunetul muzicii a încetat de a se mai auzi în casa mea ! De întristare aceste degete au slăbit şi au îngălbenit şi, nemaiavînd ce face, se încrucişează în semn de martir închis... voi să las această casă!... îmi pare rău. Am locuit-o mai mulţi ani, şi mai ales regretez iedera ce am plăntat eu însumi pe murul grădinii în această primăvară, şi în care (daca ideile ar putea să se sape) ar citi cineva aci toată istoria cugetelor mele, ce vin şi se duc totdauna mai triste ca rîndurerile la sfîrşitul verii. </hi></p>
+<p>Această scrisoare era un capodopere de literatură. Ea există încă în original. Elena o trimise lui Alexandru, fără nici un alt comentariu. Alexandru nu putu să-şi oprească lacrămile, citindu-o. Elena era acum inocintă în ochii săi. Se decise să plece la Făneşti. Plecă chiar în ziua cînd priimi scrisoarea Elenei.</p></div>
+     <div type="chapter">
 <head>ÎNTOARCEREA LA FANEȘTI</head>
 <p>Locaşul de la Făneşti devenise trist. Singurile locuitoare ale acestii case era Elena şi Caterina. Cea din urmă se prepara a se înturna în capitală. Alexandru sosi noaptea. Elena era în camera sa. Zgomotul poştaşilor o deşteaptă din somn, află despre venirea lui Elescu. E,a se decide să-l priimească în camera sa chiar atunci.</p>
 <p>Caterina dormea într-o cameră alături. Noaptea era înaintată, o noapte frumoasă de vară ; o tăcere adîncă domnea peste cîmpiile ascunse în umbră ; răcoarea ce anunţă că zorile sunt aproape de revărsare se răspîndea în aerul îmbălsămat de parfumul cîmpului.</p>
@@ -1899,7 +1898,7 @@ pleca. Dar daca te vei înturna aici, te rog să nu fii atît de sever ca ceial
 <p>— Crez că cele ce zici le crezi... şi sunt ferice, îm-bată-te de farmecele ce te încîntă !... Părul meu ce îl admiri este al tău, fă să tresară fiecare fir sub o sărutare arzîndă !... oh ! dar aceasta nu s-ar termina în toată viaţa ! şi mîne trebuie să ne despărţim. Să murim poate !... orele nu ne ascultă ; ele revarsă deliciile lor sublime şi zboară neîncetat!...</p>
 <p>— Inima mea ! Elena mea, doamna mea, o sărutare încă ! dar o sărutare al cării termen să fie moartea !... buzele tale tresar de voluptate ; sînul tău palpită sub rozele şi sub crinii săi şi exală parfumul primăverilor !... Să murim !...</p>
 <p>Curgeţi, ore fugătoare ! amoare, revarsă torente de voluptate ! Noaptea era frumoasă, păsările prin cîntecele lor îngînau mugirea rîului, zorile se revărsau, şi Alexandru se înturna în camera sa de culcare.</p></div>
-     <div type="chapter" n="21">
+     <div type="chapter">
 <head>IAR LA BUCUREŞTI</head>
 <p>D-na Zoe era în budoriul său unde priimea vizita intimilor. Principesa Iordache, cea din urmă persoană ce veni aici pe cînd ducem pe cititorii noştri în budoriul Zoei, şi alţi patru bărbaţi, cunoscuţi prin viaţa lor bizară, formau cu cele două dame cercul de intimi.</p>
 <p>Conversaţiunea alerga asupra ministeriului cel nou ce era să se formeze, şi mai ales asupra arestării patrioţilor de la Bosel.</p>
@@ -1960,7 +1959,7 @@ pleca. Dar daca te vei înturna aici, te rog să nu fii atît de sever ca ceial
 <p>— Asta era şi gîndul meu, răspunse Maria.</p>
 <p>— Atunci, lasă cărpeturile şi la Făneşti ! căruţa e uşoară şi caii mei odihniţi... o să zburăm ca vîntul.</p>
 <p>Asfel vorbiră şi, fără să se mai gîndească, purceseră la Făneşti.</p></div>
-     <div type="chapter" n="21">
+     <div type="chapter">
       <head>MARIA</head>
 <p>A doua zi Caterina se miră de venirea lui Alexandru.</p>
 <p>— În fine, ai venit ! îi zise ea. Ştiu, ai petrecut toată vara în capitală şi acum vii să fii faţă la căderea frunzelor ca să te consoli cu arborii de perderea iluziunelor d-le.</p>
@@ -2067,7 +2066,7 @@ pleca. Dar daca te vei înturna aici, te rog să nu fii atît de sever ca ceial
 <p>Postelnicul era ruşinat, în confuziunea sa nu ştiu nici ce va zice, nici ce va face ; se retrase înjurînd cu furie.</p>
 <p>Toţi martorii se retraseră ruşinaţi.</p>
 <p>— Nu v-am spus eu că era o calomnie ? zise omul care la Zoe sprijinise pe Elena.</p></div>
-     <div type="chapter" n="23">
+     <div type="chapter">
 <head>BANCHETUL</head>
 <p>Elescu era la Bucureşti. El chemase pe Georges şi-i comunicase toate cîte erau să se petreacă la Făneşti. El ştiu atît de bine să plede cauza Elenei, încît atrase pe Georges în ideile sale de a o răzbuna.</p>
 <p>— Trebuie să o răzbunăm ! zise Georges, dar mijlocul ?</p>
@@ -2079,30 +2078,30 @@ pleca. Dar daca te vei înturna aici, te rog să nu fii atît de sever ca ceial
 <p>— Un bilet !... de la Elena... dă-mi...</p>
 <p>— Iată-l.</p>
 <p>Elescu citi biletul.</p>
-      <div type="letter"><p><hi>„Timpul deschide şi mai mari rănile inimii mele: dar pe cit te iubesc, pe atît aceste răni cresc, pe atît tu pari că devii indiferent... Ai făcut din mine o Safo... vorbeşte şi voi fi a ta, cînd ? unde ? decide.</hi></p>
+      <p><hi>„Timpul deschide şi mai mari rănile inimii mele: dar pe cit te iubesc, pe atît aceste răni cresc, pe atît tu pari că devii indiferent... Ai făcut din mine o Safo... vorbeşte şi voi fi a ta, cînd ? unde ? decide.</hi></p>
 <p><hi>Zoe</hi></p>
-       <p><hi>P.S. Renunţă la E... Sunt trei zile, bărbată-său a suprins-o în braţele unui ţăran.”</hi></p></div>
-<div><p>„Ah ! ce infamă calomnie !... acest bilet îmi trebuia. Elena va fi acum răzbunată cu uzură.” El răspunde :</p></div>
-      <div type="letter"><p><hi>„Duminecă la zece oare seara: la mine acasă.</hi></p>
-       <p><hi>A. Elescu”</hi></p></div>
-<div><p>„Dară, urmă el vorbindu-şi, voi da un banchet ca acela al lui Baltazar... toată junimea elegantă va asista... Vom avea locuri pentru cele mai graţioase sclave ale Venerei... răzbunarea va fi teribilă...</p>
+       <p><hi>P.S. Renunţă la E... Sunt trei zile, bărbată-său a suprins-o în braţele unui ţăran.”</hi></p>
+<p>„Ah ! ce infamă calomnie !... acest bilet îmi trebuia. Elena va fi acum răzbunată cu uzură.” El răspunde :</p>
+      <p><hi>„Duminecă la zece oare seara: la mine acasă.</hi></p>
+       <p><hi>A. Elescu”</hi></p>
+<p>„Dară, urmă el vorbindu-şi, voi da un banchet ca acela al lui Baltazar... toată junimea elegantă va asista... Vom avea locuri pentru cele mai graţioase sclave ale Venerei... răzbunarea va fi teribilă...</p>
 <p>Asfel vorbi Alexandru şi, dînd biletul servului, chemă mai mulţi antreprenori pentru ca să decidă despre banchet.</p>
 <p>Duminecă seara toate erau preparate. El avea o casă mare şi mobilată cu gustul cel mai rar.</p>
 <p>La 9 ore amicii săi erau adunaţi, fiecare din ei erau înştiinţaţi că are să se treacă un fapt straordinar în acea casă, o pepinieră din cele mai graţioase întreţinute erau să asiste la această sărbătoare.</p>
 <p>Zoe priimise biletul lui Alexandru şi răspunse îndată că va veni la el acasă duminică seara. Ea nu ştia nimic despre banchet.</p>
-<p>Casa lui Elescu era fondată spre fundul unei curţi mari, între curte şi între o grădină minunată. Părintele său avusese gustul frumoaselor arţi. Pe la anul 1820, erau în Bucureşti nişte emigraţi italiani, din care unii artişti remarcabili în arhitectură, pictură, sculptură; aceşti ospeţi, fii ai poeticei Italii, lăsară românilor mai multe case mari cu arhitectură, care pînă astăzi fac ornamîntul Bucureştilor. Unele din aceste case sunt casa Vilara, casa Filip, casa Grigorie Ghica etc., însă casa Elescu se distingea prin lucrările de artă cu arhitectură, sculptură, pictură. Copii după tablourile celor mai mari maisteri orna apartamentul Elescului, vase de marmoră de Carar, amfore antice cu mozaic încrustat în pîntece şi cu ansele albe, busturi de marmură albe şi lucrate cu artă, busturi de bronzul cel mai curat. Stutuie de marmură, în grădină, bazine de marmură albe cu sărituri de ape, le trecem în revistă repede ca să le descrim în urmă cu de-amăruntul. Casa lui Elescu este singură în România unde arta are un altar alături cu luxul. Iconoclastria a ucis frumoasele arţi, la români şi la foţi popolii ce urmează acest rit, precum în vechime la ucisese la ebrei. Arţile în secolii trecuţi nu se puteau cultiva decît în biserici, şi ele erau gonite de aici. Către acestea românii sunt simţualişti ! un simţualism ce nu are nici facultatea de a forma gustul ! Ei sunt datori aceasta rela-ţiunilor cu fanarioţii şi oştirilor streine ; doctrinelor filosofice ale Occidentului, trecute aici într-un secol de criză şi rău înţelese. Caracterul naţional s-a plecat; morala şovăie, virtutea nu mai este o fericire omenească î ferice este acela care poate să dezmerde mai mult simţurile. Credinţa românilor în ei însuşi pare atît de slabă, încît viitorul cade în îndoială : prezintele este tot ; mîne nimeni nu ştie ce va fi. Certe neîncetate de partide, res-bele civile, intervenţiuni de armate streine ; necontenite schimbări de regime, de domni contribuirá asupra lor, spre a sorbi cu voluptate plăcerile. Filosofia epicuriană le împrumută partea sa materială. Gloria, mărirea, onoarea, virtutea sunt nişte ficţiuni : este o nebunie a pune meritul în abnegaţiune şi sacrifice. Plăcerile sunt create de Dumnezeu pentru oameni, pentru ce ne vom priva de dînsele şi vom născoci noi înşine griji ucigătoare ? Viaţa este scurtă şi supusă la dureri : aceasta ne spune că trebuie să ne bucurăm neîncetat... omul nu trăieşte decît o dată.</p></div>
-      <div type="poetry">
+<p>Casa lui Elescu era fondată spre fundul unei curţi mari, între curte şi între o grădină minunată. Părintele său avusese gustul frumoaselor arţi. Pe la anul 1820, erau în Bucureşti nişte emigraţi italiani, din care unii artişti remarcabili în arhitectură, pictură, sculptură; aceşti ospeţi, fii ai poeticei Italii, lăsară românilor mai multe case mari cu arhitectură, care pînă astăzi fac ornamîntul Bucureştilor. Unele din aceste case sunt casa Vilara, casa Filip, casa Grigorie Ghica etc., însă casa Elescu se distingea prin lucrările de artă cu arhitectură, sculptură, pictură. Copii după tablourile celor mai mari maisteri orna apartamentul Elescului, vase de marmoră de Carar, amfore antice cu mozaic încrustat în pîntece şi cu ansele albe, busturi de marmură albe şi lucrate cu artă, busturi de bronzul cel mai curat. Stutuie de marmură, în grădină, bazine de marmură albe cu sărituri de ape, le trecem în revistă repede ca să le descrim în urmă cu de-amăruntul. Casa lui Elescu este singură în România unde arta are un altar alături cu luxul. Iconoclastria a ucis frumoasele arţi, la români şi la foţi popolii ce urmează acest rit, precum în vechime la ucisese la ebrei. Arţile în secolii trecuţi nu se puteau cultiva decît în biserici, şi ele erau gonite de aici. Către acestea românii sunt simţualişti ! un simţualism ce nu are nici facultatea de a forma gustul ! Ei sunt datori aceasta rela-ţiunilor cu fanarioţii şi oştirilor streine ; doctrinelor filosofice ale Occidentului, trecute aici într-un secol de criză şi rău înţelese. Caracterul naţional s-a plecat; morala şovăie, virtutea nu mai este o fericire omenească î ferice este acela care poate să dezmerde mai mult simţurile. Credinţa românilor în ei însuşi pare atît de slabă, încît viitorul cade în îndoială : prezintele este tot ; mîne nimeni nu ştie ce va fi. Certe neîncetate de partide, res-bele civile, intervenţiuni de armate streine ; necontenite schimbări de regime, de domni contribuirá asupra lor, spre a sorbi cu voluptate plăcerile. Filosofia epicuriană le împrumută partea sa materială. Gloria, mărirea, onoarea, virtutea sunt nişte ficţiuni : este o nebunie a pune meritul în abnegaţiune şi sacrifice. Plăcerile sunt create de Dumnezeu pentru oameni, pentru ce ne vom priva de dînsele şi vom născoci noi înşine griji ucigătoare ? Viaţa este scurtă şi supusă la dureri : aceasta ne spune că trebuie să ne bucurăm neîncetat... omul nu trăieşte decît o dată.</p>
+      
        <l><quote><foreign>...Currit mortalibus aevum</foreign></quote></l>
  <l><quote><foreign>Nec nesci bis posse datur.</foreign></quote></l>
-       <p>zicea Silius Italicus.</p></div>
-<div><p>Salonul lui Elescu era raritate, pereţii erau coperiţi de stuc, marmură şi arabescuri, spaţiul unde se termină păreţii şi începe plafondul era coperit cu figuri de marmură reprezintînd diverse zeităţi antice. între aceste figuri se vedeau nişte mozaice de cristal cu diverse colori, formînd diverse figuri de fantazie. Plafondul de lemn, sculptat cu artă şi aurit pe margini, la mijloc lăsa spaţiul liber picturei, care crease tablouri rechemînd scene mitologice. în patru colţuri ale salonului, pe patru piedestale de granit roşu, se înălţau patru statuie în mărime naturală, reprezintînd patru idoli. Zece candelabre de bronz de o înălţime de mai multe picioare, răs-frîngîndu-se asupra lor prin diverse rămuri purtînd diverse figuri, se odihneau în faţa a zece oglinzi mari şi ţineau mulţime de lumini. Şase mese de lemn de palisandru, lucrate cu artă, erau aşezate în faţa a şease canapele de palisandru care erau îmbrăcate cu o stofă de mătase preţioasă.</p>
+       <p>zicea Silius Italicus.</p>
+<p>Salonul lui Elescu era raritate, pereţii erau coperiţi de stuc, marmură şi arabescuri, spaţiul unde se termină păreţii şi începe plafondul era coperit cu figuri de marmură reprezintînd diverse zeităţi antice. între aceste figuri se vedeau nişte mozaice de cristal cu diverse colori, formînd diverse figuri de fantazie. Plafondul de lemn, sculptat cu artă şi aurit pe margini, la mijloc lăsa spaţiul liber picturei, care crease tablouri rechemînd scene mitologice. în patru colţuri ale salonului, pe patru piedestale de granit roşu, se înălţau patru statuie în mărime naturală, reprezintînd patru idoli. Zece candelabre de bronz de o înălţime de mai multe picioare, răs-frîngîndu-se asupra lor prin diverse rămuri purtînd diverse figuri, se odihneau în faţa a zece oglinzi mari şi ţineau mulţime de lumini. Şase mese de lemn de palisandru, lucrate cu artă, erau aşezate în faţa a şease canapele de palisandru care erau îmbrăcate cu o stofă de mătase preţioasă.</p>
 <p>În cele două părţi ale lungimei salonului, veneau alte camere, camera de culcare, camera de îmbrăcare, camera de lucrare, camera de bibliotecă, de recepţiune, camera pentru amici. în toate aceste camere luxul se arată lîngă artă, marmura cu^diverse feţe, porfira, agata reprezintă diverse paseri, naiade, nimfe, animale. Lemnul cel mai preţios pare că a voit să rivalize cu piatra şi să arate că el poate să fie mai docil sub mîna artei, ivoriul se vede pe marginele uşilor şi ferestelor, ebenul se împleteşte cu lemnul de roze pe mese, pe jeţuri, tapete de Turcia coperă planşetul, pereţii sunt decoraţi cu basreli-efe de stuc, vase de marmură de diverse colori.</p>
 <p>Sala de mîncare din etagiul de jos era atît de mare ca salonul, plafondul ei se odihnea pe douăsprezece coloane de granit, douăsprezece statuie, reprezintind atîtea persoane mitologice, apăreau aici candelabre mari aşezate pe piedestale de granit, şi încă atîtea oglinzi mari lipite de pereţi, plafonul reprezintă un consiliu de zei în Olimp.</p>
 <p>Toate aceste obiecte preţioase veneau de la părinţii săi. Elescu le păstrase poate chiar prin lipsa lui de mulţi ani din ţară. Cina fuse splendidă, bucatele, vinurile şi fructele cele mai rari încîntară pe oaspeţi. Nu vom în-tîrzia la cină ; ospeţii se urcară în salon şi în patru camere ce comunicau cu salonul.</p>
 <p>Aceşti oaspeţi erau mai mulţi tineri, amici şi cunoscuţi ai Elescului, luaţi din toate clasele societăţii. Damele erau dintre ţinutele cele mai tinere, mai frumoase şi mai puţin răspîndite în lume. Un piano, o harpe, viori formau instrumentele ce trebuiau să joace ; şease bărbaţi şi şease femei, exersate de trei zile asupra ariilor şi cântecelor date de Alexandru, erau destinaţi să le execute anume.</p>
 <p>Servii purtară tăvi de argint, pe care străluceau cupe de cristal aurit şi carafe cu lichiorile cele mai rari, alţii destupară butilci de vinuri streine. Muzica începu să execute o arie voioasă ce invita la desfătare.</p>
-<p>Oaspeţii rămăseseră uimiţi, bărbaţii se aşezară pe lingă cîte una din damele de faţă. Banchetul ameninţa a deveni o orgie romană ; o femeie însoţi sunetul instrumentelor cu aceste vorbe :</p></div>
-<div type="poetry">
+<p>Oaspeţii rămăseseră uimiţi, bărbaţii se aşezară pe lingă cîte una din damele de faţă. Banchetul ameninţa a deveni o orgie romană ; o femeie însoţi sunetul instrumentelor cu aceste vorbe :</p>
+
       <l><hi>Timpul doruri ne urseşte,</hi></l>
 <l><hi>O, amantul meu sublim !</hi></l>
 <l><hi>Ora trece, se topeşte,</hi></l>
@@ -2114,8 +2113,8 @@ pleca. Dar daca te vei înturna aici, te rog să nu fii atît de sever ca ceial
 <l><hi>Dar mai spune încă mie,</hi></l>
 <l><hi>O, ferice-nvingător,</hi></l>
 <l><hi>Că-n arzînda lui beţie </hi></l>
- <l><hi>Nu s-o stinge-al tău amor !</hi></l></div>
-<div><p>Acest cîntec făcu să tresară de voluptate oaspeţii, fiecare îşi luase cîte o femeie alături pe care o urma cu răsfăţări amoroase. Pudoarea şi rezistinţa nu erau pri-imite aici. Femeile ce formau acest cerc se credeau născute pentru satisfacerea simţurilor oamenilor ; cîteva dame din societatea mare, din banda voioasă cu care făcuserăm cunoştinţă la Făneşti, între care Tudorina şi altele, veniseră aici cu amanţii lor, nevoind să-i lase singuri, cîteva alte dame bogate şi cunoscute, dar de o vîrstă matoră, ce veniră să găsească aici un nou sorginte de plăceri, luau parte activă la această orgie. Pe stradă trăsurele veneau şi reveneau, femeile bărbaţilor ce se aflau aici sau amantele ce ştiau că amanţii lor sunt aici, geloase, neastîmpărate, necutezînd să intre în acest lăcaş, se mulţumeau să alerge pe stradă. Acest banchet făcuse o revoluţiune în familii.</p>
+ <l><hi>Nu s-o stinge-al tău amor !</hi></l>
+<p>Acest cîntec făcu să tresară de voluptate oaspeţii, fiecare îşi luase cîte o femeie alături pe care o urma cu răsfăţări amoroase. Pudoarea şi rezistinţa nu erau pri-imite aici. Femeile ce formau acest cerc se credeau născute pentru satisfacerea simţurilor oamenilor ; cîteva dame din societatea mare, din banda voioasă cu care făcuserăm cunoştinţă la Făneşti, între care Tudorina şi altele, veniseră aici cu amanţii lor, nevoind să-i lase singuri, cîteva alte dame bogate şi cunoscute, dar de o vîrstă matoră, ce veniră să găsească aici un nou sorginte de plăceri, luau parte activă la această orgie. Pe stradă trăsurele veneau şi reveneau, femeile bărbaţilor ce se aflau aici sau amantele ce ştiau că amanţii lor sunt aici, geloase, neastîmpărate, necutezînd să intre în acest lăcaş, se mulţumeau să alerge pe stradă. Acest banchet făcuse o revoluţiune în familii.</p>
 <p>Elescu adresa vorbe tutulor bărbaţilor, tutulor damelor. El se aşeză lîngă o femeie ţinută, una din cele mai frumoase ce erau în sală.</p>
 <p>— Îţi plac aceste petreceri ? o întrebă el.</p>
 <p>— N-am văzut nimic mai frumos, răspunse aceasta, mi se pare că visez... Cine este stăpînul acestii case ?</p>
@@ -2129,8 +2128,8 @@ pleca. Dar daca te vei înturna aici, te rog să nu fii atît de sever ca ceial
 <p>— Nu se poate, zise ea, este tîrziu...</p>
 <p>— Tîrziu ?</p>
 <p>— Dară, nu mai este nimic în corpul şi în sufletul nostru, apoi lumea nu ne dă pace, ascultă cîntecul ce începe acum !</p>
-<p>Un bărbat cîntă următoarea odă pe o arie tristă şi voioasă totdodată :</p></div>
-<div type="poetry">
+<p>Un bărbat cîntă următoarea odă pe o arie tristă şi voioasă totdodată :</p>
+
  <l><hi>Ce-i amorul ? o beţie,</hi></l>
  <l><hi>Dar sublimă-n al ei zbor!</hi></l>
  <l><hi>Dulce-i a sa bucurie !</hi></l>
@@ -2154,8 +2153,8 @@ pleca. Dar daca te vei înturna aici, te rog să nu fii atît de sever ca ceial
  <l><hi>Eu voi celebra amorul </hi></l>
  <l><hi>Şi în parfumul lui ceresc,</hi></l>
  <l><hi>Beat, uitînd ferice dorul,</hi></l>
- <l><hi>Zilele voi să sfîrşesc !</hi></l></div>
-<div><p>— Putem rezista la vocea plăcerilor ? urmă ea.</p>
+ <l><hi>Zilele voi să sfîrşesc !</hi></l>
+<p>— Putem rezista la vocea plăcerilor ? urmă ea.</p>
 <p>Vinul spuma în cupele de cristal. El contribuia să</p>
 <p>aprinză imaginaţiunea oaspeţilor ca picăturile de spirt aruncate în foc; nişte femei elegante cu atîţi bărbaţi executară danţuri naţionale cu o artă rară, în sunetul muzicei. Plăcerile, ele însuşi, semănau că se îmbată.</p>
 <p>— Voi o orgie romană ! zise un oaspet.</p>
@@ -2164,8 +2163,8 @@ pleca. Dar daca te vei înturna aici, te rog să nu fii atît de sever ca ceial
 <p>— Icleea este minunată, zise o damă din banda voioasă. Să deşertăm cupa plăcerilor pînă în fund !...</p>
 <p>— Noi plecăm ! ziseră Tudorina şi amica sa.</p>
 <p>— Rămîneţi încă ! le ziseră amanţii.</p>
-<p>Trei femei ce reprezintau ursitele cîntară atunci însoţite de harpă :</p></div>
-      <div type="poetry">
+<p>Trei femei ce reprezintau ursitele cîntară atunci însoţite de harpă :</p>
+      
        <l>Vin' la noi, streine june,</l>
 <l>Să te-mbeţi de dăsfătări;</l>
 <l>Vin’ să-ţi împletim cunune </l>
@@ -2189,14 +2188,14 @@ pleca. Dar daca te vei înturna aici, te rog să nu fii atît de sever ca ceial
 <l>Timpul fuge... vin' mai tare</l>
         <l>Toate cîte-n lume plac </l>
         <l>Trec cum trece-o sărutare,</l>
-        <l>Toate lacrime se fac.</l></div>
+        <l>Toate lacrime se fac.</l>
       
-<div><p>— Bravo ! strigară oaspeţii.</p>
+<p>— Bravo ! strigară oaspeţii.</p>
 <p>— Vă place această filosofie ? întreabă Elescu. Vai, pare-mi-se că este tot ce iubiţi în lume !... o, virtuţi ! morală, voi nu mai sunteţi !... o, străbuni ! vedeţi pe următorii voştri !... nici o inimă nu locuieşte aceste corpuri !... voi nu căutaţi decît plăcerile ; ei, bine, dezmer-daţi-vă şi sfîrşiţi prin a perde cea din urmă rază divină din inimile voastre !...</p>
 <p>— Cine vorbeşte aici de morală şi de virtute ? !... zise o voce, şi douăzeci de voci se auziră rîzînd cu hohot.</p>
 <p>— Să cînte încă ! strigă Alexandru. Ceea ce este scris caută să se împlinească. Această generaţiune este perdută... pe cenuşa ei va răsări un popol mare şi generos.</p>
-<p>O femeie jună şi frumoasă cîntă oda următoare, rezemată graţios pe braţele unui june :</p></div>
-<div type="poetry">
+<p>O femeie jună şi frumoasă cîntă oda următoare, rezemată graţios pe braţele unui june :</p>
+
  <l>Vinul curge-n cupe pline</l> 
  <l>Şi se varsă spumător,</l>
  <l>Asfel inima în mine,</l>
@@ -2228,12 +2227,12 @@ pleca. Dar daca te vei înturna aici, te rog să nu fii atît de sever ca ceial
 <l>Sînii mei sunt dulci grădine</l>
  <l> Ce amorul, numai el,</l>
 <l>Le deschide pentru tine,</l>
-<l>Pentru tine singurel.</l></div>
+<l>Pentru tine singurel.</l>
       
-<div><p>Zoe era într-una din camerile rezervate ale casei, unde aştepta cu nerăbdare.</p>
-      <p>Elescu îşi aduse aminte de dînsa... El lăsase un bilet pe o masă, cu următoarea coprindere :</p></div>
-      <div type="letter"><p><hi>„O treabă grabnică mă ţine încă afară... voi veni însă... pînă atunci, dezbracă-te şi ia posesiunede patul meu.</hi></p></div>
-<div><p>Zoe urmase coprinderea biletului întocmai.</p>
+<p>Zoe era într-una din camerile rezervate ale casei, unde aştepta cu nerăbdare.</p>
+      <p>Elescu îşi aduse aminte de dînsa... El lăsase un bilet pe o masă, cu următoarea coprindere :</p>
+      <p><hi>„O treabă grabnică mă ţine încă afară... voi veni însă... pînă atunci, dezbracă-te şi ia posesiunede patul meu.</hi></p>
+<p>Zoe urmase coprinderea biletului întocmai.</p>
 <p>Camera în care se afla Zoe era alături cu cea din urmă cameră deschisă oaspeţilor. Ea adormise aşteptînd venirea lui Elescu ; în timpul somnului său o umbră se strecurase aici, luase toate vestmintele Zoei şi dispăruse cu ele. Pe la 2 ore din zi, Zoe se deşteptase. Ea căută orologiul.</p>
 <p>„M-a înşelat, zise ea, mă voi duce !...”</p>
 <p>Se scoală, caută vesmintele, nu le află la locul unde le pusese.</p>
@@ -2248,11 +2247,11 @@ pleca. Dar daca te vei înturna aici, te rog să nu fii atît de sever ca ceial
 <p>Elescu se retrase în camera sa de culcare.</p>
 <p>„Elena e răzbunată mai mult decît am voit, îşi zise el, acum explice-se cu bărbată-său cît va voi !... Iar voi, reprezintanţi ai generaţiunei de astăzi, ruşinea naţiune!, rămîneţi de vă dezmerdaţi pînă mîne, atîta numai, la plecare, să nu furaţi obiectele preţioase din camere !... Inima voastră e moartă, moliciunea s-a aşezat la focarul românilor. Nimic mare, generos, sublim nu mai mişcă aceste inimi putrede ! sclavia nu mai face să roşească fiii românilor. Daca ei ar simte ruşinea soartei ori ar fi încă o speranţă pentru viitor !... streinii au călcat acest pămînt, au insultat părul alb al părinţilor voştri, onoarea naţiunei, a familiilor, şi voi aţi purces înainte-le cu capetele plecate, cu cununi de flori : le-aţi deschis sînul familiii voastre, şi aţi dat lor pă fraţii voştri, care aveau încă inimă pentru ţara lor, ca să-i închiză şi să-i muncească !...”</p>
 <p>Alexandru, vorbind asfel, adormi.</p>
-<p>A doua zi el scrise Zoei următorul bilet :</p></div>
-      <div type="letter"><p><hi>„Doamnă !</hi></p>
+<p>A doua zi el scrise Zoei următorul bilet :</p>
+      <p><hi>„Doamnă !</hi></p>
 <p><hi>Am făcut o laşitate care va rămînea ca o pată pe viaţa mea; dar nu mă căiesc. Veninul ce verşi pe această tristă societate a picat pe mina celor ce iubesc... ai căutat, fără mustrare de cuget, să smulgi onoarea unei femei prin născocirea intrigii căria acel mincinos Ranu a fost instrumentul mizer; ai căzut. In urmă ai făcut pe bărbatul acestii femei să crează că petrece nopţile în braţele mele? ai preparat o călcare infamă, şi ai dus acolo o parte din societatea din Bucureşti... ai căzut încă o dată, dar această femeie e prea delicată ca să mai poată trăi după acest scandal. Ea este astăzi o femeie dezonorată în ochii societăţii ; cel puţin nu a perit fără o amară răzbunare.</hi></p>
-       <p><hi>Elescu</hi></p></div>
-<div><p>Zoe citi biletul şi îl rupse.</p>
+       <p><hi>Elescu</hi></p>
+<p>Zoe citi biletul şi îl rupse.</p>
 <p>„Acest om e nebun ! zise ea, îl iubesc însă şi sunt ferice că am vestejit pe ceea ce iubeşte, dar aceasta nu este destul : îl voi ucide şi pe dînsul !...”</p>
 <p>În seara de banchet Zoe căzuse leşinată în braţele unor juni, cînd se deşteptă era în trăsură eu bărbată-său care o ducea acasă, bărbată-său îi aruncase, ca să o ducă, mantela sa pe dînsa. Acasă se întîmplă o scenă furtunoasă între dînşii.</p>
 <p>— Ruşine ! zise el, ce ai căutat acolo ? cum ai apărut îmbrăcată numai într-o cămaşă fină ?...</p>
@@ -2350,16 +2349,16 @@ pleca. Dar daca te vei înturna aici, te rog să nu fii atît de sever ca ceial
 <p>— Un minister bun poate scăpa ţara daca domnitorul şi Adunarea îl vor sprijini, ziceau ei.</p>
 <p>— Nu vă plîngeţi de domnitor, el va fi cum va fi societatea ! Nu vă plîngeţi de Adunare, ea este expresiunea clasei ce posedă în această ţară, plîngeţi-vă de societate... Voi veţi intra în luptă cu inima plină de speranţă şi de euragiu ; dar retragerea voastră va fi tristă... Aflaţi o dată pentru totdauna, amorul patriei nu este în sînul acestii generaţiuni.</p>
 <p>Oricare ar fi forma unui guvern, fie o republică democratică, aflaţi că totdauna ideile unei mici maiorităţi vor da orice mişcare de acţiune. Astăzi o mică minoritate face aceasta la noi, însă care minoritate ? Este oare acea minoritate pepinieră de inimi generoase şi nobile ce-au răsărit pe ici, pe colo pe aste pămînturi mai din toate clasele ? Nu, negreşit. Ei sunt excluşi şi înlăturaţi. Ce aşteptaţi dar ?</p>
-<p>Sub impresiunea acestor idei triste, Alexandru priimi o scrisoare de la Elena.</p></div>
-      <div type="letter">
+<p>Sub impresiunea acestor idei triste, Alexandru priimi o scrisoare de la Elena.</p>
+      
        <p><hi>„Am auzit cele ce s-a făcut la banchet, Alexandre, ai făcut o faptă nedemnă de un om superior. Cunosc cuvîntul ce ai avut. Sunt mişcată de interesul ce ai luat; dar nu mă poci opri a-ţi zice că ai comis o laşetate ! O laşe-tdte din partea lui Alexandru pentru mine este un cuţit ce mi-a pătruns inima !... Cu ce se va şterge ?... Cîte fapte generoase-ţi trebuie ca să o faci să dispară ?... Eu însumi am cugetat lung la rola omului pe pămînt. îmi place a crede că venirea noastră aici are o ţintă pentru altă viaţă, dar aceasta poate să fie creaţiunea slăbiciunei omeneşti ce tremură în faţă cu moartea : minciuna este rău numită, dar omul o priimeşte totdauna cu plăcere. El ştie de multe ori trista realitate şi cu toate acestea îi place a se minţi singur. Ne simţim murind în noi sau în cei ce iubim, şi ne zicem : vom trăi ! nemurirea cea reală, pentru noi, este pe pămînt, vom trăi; dar vom trăi în memoria urmaşilor. Acest simţimînt de nemurire este mult mai nobil, nemurirea despre care ne vorbeşte teologii este egoistă, interesată. Orientalii, mai materialişti decît noi, visează rîuri, de şerbet şi munţi de pilaf. Cum vor ajunge dar la nemurirea reală sufletele delicate, nobile, suave ca sufletul tăiu, daca nu prin fapte generoase ?... Iată adevărata morală a vieţii, iată scopul ei cel sublim. Soarta nu a păstrat un loc pentru numele meu în lumea nemur ir ei. Ea a voit să pier înainte de a face o faptă; tu, însă, eşti june, o largă carieră ţi se deschide în lume, fii generos, vei fi nemuritor, şi binecuvîntările oamenilor, venite pînă în mormîntul meu, vor face poate să tresară de fericire ţărîna mea. Nu-ţi voi vorbi de banchet... Eu oare îţi voi face morală?... eu, o femeie căzută !... plîngi, Alexandre, slăbiciunele mele.</hi></p>
        <p><hi>Te conjur să nu vii aici pînă nu-ţi voi seri să vii... iar atunci să nu perzi un moment.</hi></p>
         <p><hi>Caută să fii voios, dezmiardă-te ! lucrează !... iată voinţa mea sau mai bine dorinţele mele. Cînd tu vei fi ferice, voi fi ferice...</hi></p>
-       <p><hi>Elena”</hi></p></div>
-<div><p>Această scrisoare făcu să cure lacrimi lui Elescu.</p></div></div>
-     <div type="chapter" n="24">
+       <p><hi>Elena”</hi></p>
+<p>Această scrisoare făcu să cure lacrimi lui Elescu.</p></div>
+     <div type="chapter">
 <head>DUELUL</head>
-<div><p>Servu anunţă lui Alexandru doi bărbaţi ce veneau să-l vază.</p>
+<p>Servu anunţă lui Alexandru doi bărbaţi ce veneau să-l vază.</p>
 <p>Ei fură introduşi.</p>
 <p>Unul era un ofiţer român, celalt, un doctor german, amîndoi se prezintară cu politeţă. Elescu le oferi locuri să şează.</p><p>— Suntem mîhniţi că soarta a voit ca să fim noi anunţătorii unei provocaţi uni din partea baronului... ou toate acestea cunoaştem simţimîntele...</p>
 <p>— Destul, un duel, înţeleg... Cine este acest baron ?...</p>
@@ -2391,22 +2390,22 @@ pleca. Dar daca te vei înturna aici, te rog să nu fii atît de sever ca ceial
 <p>— Am înţeles, zise el. Elescu are dreptate...</p>
 <p>Baronul se întoarse acasă furios.</p>
 <p>Baronul nostru fuse nevoit să şază o lună în pat din cauză că plaga de la braţ întîrzia a se închide. După o lună, fuse mai bine. Elescu îl vizita în toate zilele. Baronul îi zicea : „O să-i tai coada !”</p>
-<p>În acest interval Elena scrise Elescului de mai multe ori. Iată cea din urmă scrisoare :</p></div>
-<div type="letter">
- <p><hi>„Îţi sunt recunoscătoare că nu ai venit aici contra dorinţelor mele ! Caterina m-a lăsat> sunt singură... singură, este o vorbă, sunt cu sufletul tău. Ce companie mai plăcută poci să am?... Bărbată-meu nu mai vine pe acasă. Toţi mă părăsesc !... în zilele din urmă, nişte fete exprimînd maicii lor dorinţa să vie să mă vază, această le răspunse că nu poate să le ducă la o femeie perdută... sunt o femeie perdută, Alexandre... Zoe mi-a făcut această reputaţiune. Nu crede însă că nu am puterea a suferi toate aceste vorbe !... După o lună voi veni la Bucureşti, la maică-mea : atunci îţi voi spune tot ce am suferit, tot ce sufer, că nu poci să te văz în toate zilele, în toate orele. Dar această fericire nu este lăsată mie. Dumnezeu mi-a ascuns totdauna tot ce mi-a făcut plăcere. Poate că plăcerile mele au fost exagerate ?... pentru mine nu mai e§te nici o speranţă în fericire suferinţele au devenit elemetul ce hrăneşte viaţa mea. Simţ că durerile îmi fac rane, ele sunt de mult timp companiile mele; m-am dădat cu ele; a mă despărţi astăzi, le-aş regreta. Ca profetul Iudei poci a zice celor ce vor căuta să mă consoale : «Oh ! lăsaţi-mi durerile mele»</hi></p>
+<p>În acest interval Elena scrise Elescului de mai multe ori. Iată cea din urmă scrisoare :</p>
+
+ <p><hi>„Îţi sunt recunoscătoare că nu ai venit aici contra dorinţelor mele ! Caterina m-a lăsat&gt; sunt singură... singură, este o vorbă, sunt cu sufletul tău. Ce companie mai plăcută poci să am?... Bărbată-meu nu mai vine pe acasă. Toţi mă părăsesc !... în zilele din urmă, nişte fete exprimînd maicii lor dorinţa să vie să mă vază, această le răspunse că nu poate să le ducă la o femeie perdută... sunt o femeie perdută, Alexandre... Zoe mi-a făcut această reputaţiune. Nu crede însă că nu am puterea a suferi toate aceste vorbe !... După o lună voi veni la Bucureşti, la maică-mea : atunci îţi voi spune tot ce am suferit, tot ce sufer, că nu poci să te văz în toate zilele, în toate orele. Dar această fericire nu este lăsată mie. Dumnezeu mi-a ascuns totdauna tot ce mi-a făcut plăcere. Poate că plăcerile mele au fost exagerate ?... pentru mine nu mai e§te nici o speranţă în fericire suferinţele au devenit elemetul ce hrăneşte viaţa mea. Simţ că durerile îmi fac rane, ele sunt de mult timp companiile mele; m-am dădat cu ele; a mă despărţi astăzi, le-aş regreta. Ca profetul Iudei poci a zice celor ce vor căuta să mă consoale : «Oh ! lăsaţi-mi durerile mele»</hi></p>
 <p><hi>Vieaţa de durere are ea însuşi partea de fericire: în toate nopţile, cînd somnul vine de închide ochii mei în lacrimi, îmi pare că eşti Ungă mine... cîte vorbe amabile, cîte răsfăţări tinere, cîte suspine amoroase nu ţi se oferă, o, sufletul meu !... absenţa ta le dă mai multă putere, moi multă căldură, mai multă patimă... oh ! de cîte ori aştept acest timp de singurătate ca să visez la tine cu aceeaşi emoţiune, cu aceeaşi fericire, cu aceeaşi voluptate cu care amanta aşteaptă ora în care buzele sale au să sărute fruntea amantului său !...</hi></p>
 <p><hi>Nu văz şi nu voi să văz pe nimeni, de temere să nu-mi răpească nici unul din momentele în care mă gîndesc la tine. Viaţa mea nu va fi lungă, astfel sunt avară de acele momente. In amorul tău găsesc puterea de a muri, cînd cuget că ochii tăi vor rîura lacrămi pe mormîntui meu, doresc să mor îndată. Soarta mea este a fi pizmuită, nu este aşa?... E frumos a muri înaintea celui ce iubim!... Scrie-mi ce faci în fiecare zi! nu-mi ascunde nimic!</hi></p>
 <p><hi>Grădina noastră este tristă acum, vîntul toamnei suflă frunzele vestejite ale arborilor. Eu nu am curagiul a mai merge acolo. Tot îmi recheamă timpuri ce nu mai sunt, şi acest regret se uneşte cu tristeţa naturei ca să sfîsie cu cruzime sufletul meu.</hi></p>
- <p><hi>Elena</hi></p></div>
-<div><p>Aceste scrisori zdrobeau inima lui Alexandru şi hrăneau simţimînitul său pentru dînsa. Ar fi voit să zboare la Făneşti ; dar Elena îl conjurase să nu vie. El promisese. Asfel se consola cu ideea să o vază în Bucureşti. Carnavalul veni şi fuse voios în acest an. Alexandru mergea la toate balurile mascate, ca să se distreze. Baronul îl urma pretutindeni. De cîte ori era vorba de Zoe, el repeta : „O să-i tai coada !"</p>
+ <p><hi>Elena</hi></p>
+<p>Aceste scrisori zdrobeau inima lui Alexandru şi hrăneau simţimînitul său pentru dînsa. Ar fi voit să zboare la Făneşti ; dar Elena îl conjurase să nu vie. El promisese. Asfel se consola cu ideea să o vază în Bucureşti. Carnavalul veni şi fuse voios în acest an. Alexandru mergea la toate balurile mascate, ca să se distreze. Baronul îl urma pretutindeni. De cîte ori era vorba de Zoe, el repeta : „O să-i tai coada !"</p>
 <p>Zoe auzise că baronul o sfîsie în toată lumea ; tremură şi căută un mijloc ca să se împace. Ea invită pe baron să vie la dînsa la revelionul Anului Noi nu se arătă, dar zise lui Alexandru : „O să-i tai coada!”</p>
-<p>După cîtva timp, Zoe îi scrise următorul bilet :</p></div>
-      <div type="letter"><p><hi>„Nu vei să vii la mine, voi veni eu, căci caută să ne împăcăm. Află-te în sala de bal de la Slătineanu astă-noapte.</hi></p>
-       <p><hi>Zoe”</hi></p></div>
-<div><p>Baronul citi biletul.</p>
- <p>— Bravo ! bravisimo ! strigă el, o să-i tai coada !...</p></div></div>
+<p>După cîtva timp, Zoe îi scrise următorul bilet :</p>
+      <p><hi>„Nu vei să vii la mine, voi veni eu, căci caută să ne împăcăm. Află-te în sala de bal de la Slătineanu astă-noapte.</hi></p>
+       <p><hi>Zoe”</hi></p>
+<p>Baronul citi biletul.</p>
+ <p>— Bravo ! bravisimo ! strigă el, o să-i tai coada !...</p></div>
 
-     <div type="chapter" n="25">
+     <div type="chapter">
 <head>SCHIMBAREA DE COAFURĂ</head>
 <p>Măştile furnicau pe strada Mogoşoaie, în cupele, sănii si pe jos se îndreptau spre sala Slătineanu. Capitala era în sărbătoare pentru ziua de 24 genariu; partida ce era atunci la putere luminase pentru această sărbătoare ; partida reacţionară prefera să lase casele lor în întunerec, aşteptînd să ilumine cînd va veni rîndul ei să fie chemată la minister. Mulţi au zis că Bucureştii este o cetate dată la dezmerdări. Se poate, dar mărturim că starea ei pitorescă nu armoniază mult cu dorinţa desfătărilor. Starea stradelor, pline de pulbere vara, noroi toamna, paveul mizer ce face de scrînteşte picioarele pietonilor, de rupe roatele trăsurilor, de zdruncină oasele locuitorilor, nu sunt oare nişte piedici pentru plăceri ? plăcerile, cu galoşii în picioare şi stropite de tină, sunt nişte plăceri grosolane... Capitala României nu are nimic pentru dînsa, fondatorul ei a trebuit să fie orb. Acest oraş se întinde pe lunca umedă a Dîmboviţei, un rîu ce descreşte din zi în zi, ca şi speranţa în inima acestor locuitori ; lăcomia proprietarilor de mori pe dînsul este cauza principală a scăderii lui. Regulamentul Organic prevăzuse lărgirea rîului prin tăierea acestor mori; dar este în România o voinţă mai mare decît a legilor, voinţa favoarelor. Acest oraş este mai atît de întins cît şi Parisul, deşi are o populaţiune mică, din cauza grădinilor şi curţilor sale. El recheamă oraşele din timpii patriarhilor. Capitala întinsă, veniturile muncipale mici sunt cauza mizeridi acestui oraş. El nu poate să fie capitala României, căci n-are nici o cualitate, nici poziţiuni pitoreşti! nici punt strategic ; nu poate să fie nici un centru de comerţ.</p>
 <p>Astă dată căzuse multă nea pe strade, săniile puteau să alerge fără să sdmţă încovenintele pavagiukii !</p>
@@ -2525,9 +2524,9 @@ pleca. Dar daca te vei înturna aici, te rog să nu fii atît de sever ca ceial
 <p>Dete un bal splendid, şi tot scandalul încetă îndată.</p>
 <p>Baronul, după scandalul ce făcuse, fuse consiliat de autoritatea sa să părăsească ţara.</p>
 <p>El plecă, neregretînd decît pe Elescu.</p></div>
-     <div type="chapter" n="26">
+     <div type="chapter">
 <head>ÎNTOARCEREA</head>
-<div><p>A doua zi de la tăierea coadei Zoei, Elena prezintă pe Alexandru maicei sale. Bătrîna, îndată ce îl văzu, îşi aduse aminte de fiul său şi se înecă de plîns.</p>
+<p>A doua zi de la tăierea coadei Zoei, Elena prezintă pe Alexandru maicei sale. Bătrîna, îndată ce îl văzu, îşi aduse aminte de fiul său şi se înecă de plîns.</p>
 <p>Elena simţea în inima ei o satisfacere că a văzut femeia ce-i făcuse atîta rău, umilită în gradul cel mai mare. Văzîndu-se în casa părinţilor cu Alexandru, ea îşi formă vise dulci de fericire.</p>
 <p>„Soţul meu voieşte să mă lase... îşi zise ea. Atunci Alexandru ar putea să devie bărbatul meu... aş putea fi încă ferice... adevărată fericire... a-l iubi, fără mustrare de cuget... o, Dumnezeule, poate fi mai mare bine în viaţă? Dar nu!... zise ea. Cerul nu a voit aceasta !...”</p>
 <p>Vorbind asiei, începu să tuşească, apoi deveni melancolică.</p>
@@ -2567,36 +2566,36 @@ pleca. Dar daca te vei înturna aici, te rog să nu fii atît de sever ca ceial
 <p>— Nu se poate decide nimic, înainte de divors, zise ea.</p>
 <p>— Să se ceară divorsul !...</p>
 <p>— Nu poci răspunde nimic, înainte de a mă înţelege cu fie-mea, urmă bătrîna.</p>
-<p>Muma scrise fie-sei atunci :</p></div>
-<div type="letter">
+<p>Muma scrise fie-sei atunci :</p>
+
  <p><hi>Pentru ce nu ceri divorsul?... Soţul tău trăieşte cu o concubină, nu mai e un secret. Alexandru mi-a spus că te iubeşte şi te va lua de soţie... Acest om îmi place. El are în sufletul său acea flacără de generozitate ce vine de la Dumnezeu şi care are drept scop a se sacrifica pe sine pentru ceialţi! Tu poţi să fii ferice, o, 
-fata mea, făcînd totdodată fericirea unui om.”</hi></p></div>
-<div><p>Elena nu întârzie a răspunde. Negreşit vă închipuiţi că priimise bucuros propunerile maieă-sei ? vă înşelaţi ; iată ce răspunse :</p></div>
-<div type="letter">
+fata mea, făcînd totdodată fericirea unui om.”</hi></p>
+<p>Elena nu întârzie a răspunde. Negreşit vă închipuiţi că priimise bucuros propunerile maieă-sei ? vă înşelaţi ; iată ce răspunse :</p>
+
  <p><hi>„Mamă,</hi></p>
- <p><hi>Nu poci să fiu soţia lui Elescu, căci m-am dat acestui om !... Îmi vei zice că tocmai pentru acest cuvînt cctută să deviu soţia lui. Eu răspunz că tocmai pentru acest cuvînt nu poci să fiu, am perdut dreptul la stima acestui om: nu mă acuza de idei excentrice! Ceea ce zic din contra este realitatea.”</hi></p></div>
-<div><p>Bătrîna mumă rămase uimită la citirea acestui bilet cinic pe care îl comunică Elescului. Abnegarea cu care Elena declara că se dase lui îl atinse. Se eăieşte ea, oare ? sau un cinism amar îi inspiră aceste vorbe ?... Iubeşte pe altul ?... voi afla !"</p>
-<p>Gelozia deveni putintă ; atunci orice scrupul tăcu în sufletul lui. Trimise pe Petru, servitorul lui credincios, să se aşeze în Făneşti şi să vegheze asupra mişcărilor Elenei. Totodată el scrise Elenei următorul bilet :</p></div>
-      <div type="letter"><p><hi>„Cunosc ce ai scris maică-tei, nu mai este dar nici o îndoială: un nou amor se ascunde astăzi sub vorbele de abnegaţiune cu care te exprimi în acel bilet...”</hi></p></div>
-<div><p>Scrisoarea lui Alexandru făcu să tremure Elena, nu pentru dînsa, timpul era să o reabilite în ochii lui Alexandru ; dar pentru el. Ea îşi închipui că îndoiala lui poate să-i fărâme inima. „Ce voi face? se întreba ea ; în fine, scrise lui Alexandru :</p></div>
-<div type="letter">
+ <p><hi>Nu poci să fiu soţia lui Elescu, căci m-am dat acestui om !... Îmi vei zice că tocmai pentru acest cuvînt cctută să deviu soţia lui. Eu răspunz că tocmai pentru acest cuvînt nu poci să fiu, am perdut dreptul la stima acestui om: nu mă acuza de idei excentrice! Ceea ce zic din contra este realitatea.”</hi></p>
+<p>Bătrîna mumă rămase uimită la citirea acestui bilet cinic pe care îl comunică Elescului. Abnegarea cu care Elena declara că se dase lui îl atinse. Se eăieşte ea, oare ? sau un cinism amar îi inspiră aceste vorbe ?... Iubeşte pe altul ?... voi afla !"</p>
+<p>Gelozia deveni putintă ; atunci orice scrupul tăcu în sufletul lui. Trimise pe Petru, servitorul lui credincios, să se aşeze în Făneşti şi să vegheze asupra mişcărilor Elenei. Totodată el scrise Elenei următorul bilet :</p>
+      <p><hi>„Cunosc ce ai scris maică-tei, nu mai este dar nici o îndoială: un nou amor se ascunde astăzi sub vorbele de abnegaţiune cu care te exprimi în acel bilet...”</hi></p>
+<p>Scrisoarea lui Alexandru făcu să tremure Elena, nu pentru dînsa, timpul era să o reabilite în ochii lui Alexandru ; dar pentru el. Ea îşi închipui că îndoiala lui poate să-i fărâme inima. „Ce voi face? se întreba ea ; în fine, scrise lui Alexandru :</p>
+
 <p><hi>„Refuzul meu ţi-a făcut mare durere... şi astăzi bănuieşti sinceritatea mea, oh ! de ce nu am murit înainte de a putea, fără voia mea, să fiu cguza unui nou nuor ce coprinde fruntea amantului meu ?... am refuzat, pentru că odată nevasta ta, amantul complice al unei fapte va deveni bărbatul scrupulos; odată bărbatul meu, vu nu vei avea pentru mine nici o stimă</hi></p>
 <p><hi>Mă insulţi, cînd bănuieşti... dar aceaştă insultă ar trece sub tăcere daca ea nu ar fi pentru mine o încunoştiinţare că tu suferi sub această funestă idee. Eu nu voi să suferi !... Voi mai face şi acest sacrificiu: adecă mă voi decide a mă expune a fi obiectul dispreţului tău prin cununie, precum ţi-am sacrificat însuşi onoarea mea numai să poci risipi horul grifelor ce plutesc pe fruntea ta... Mă resemnez însuşi la puţina stimă ce vei avea pentru femeia care a trădat înainte datoriile sale, fă dar orice vei voi ! mă voi supune...</hi></p>
-  <p><hi>Elena"</hi></p></div>
-<div><p>Alexandru citi acest bilet printre lacrimi. „Sunt un caracter rău!” îşi zise el. </p>
-<p>După cîteva zile raporturile agintelui său secret din Făneşti îi anunţară că Elena nu priimeşte pe nimeni, că trece zilele în faceri de bine, în rugăciune şi în lacrimi; dar că sănătatea sa suferă mult. Această din urmă ştire îngriji pe Alexandru. El crezu de datorie să o vază sau să-i scrie, îi scrise dar atunci o carte plină de tinereţe :</p></div>
-<div type="letter">
- <p><hi>„Iţi mulţumesc pentru noul sacrificiu, deşi nu voiam să aibă un asemenea nume !... El mi-a redat tinereţea, bucuria, elanul inimei mele. Acum mi se pare că soarele are şi pentru mine o parte de lumină; pămîntul nu mai îmi este strein... A trăi cu tine, prin tine, pentru tine, o, sufletul meu, iată ce poci numi încă fericirea. De acum îmi închipuiesc noua viaţă ce îmi surîde, mi se pare că numai eu sînt ferice, că numai în noua căsătorie se află fericirea ! De cîte ori văz fiinţe omeneşti ce se zic fericite, mă întreb însumi, aceşti oameni ce nu sunt iubiţi de Elena mea, ce nu speră să formeze o căsătorie cu dînsa, cum pot să fie fericiU ?... am aflat că eşti tristă... tristă cînd o nouă viaţă îţi surîde ? cînd eu sunt voios ca un copil ? Viaţa ce ne surîde, Elena mea, va fi o viaţă de tinereţe, de amor, de seninătate. Fericirea noastră va fi un exemplu în lume şi lumea ce a uitat că maritagivl are farmece îşi va re-ntineri credinţele sale în familie. Tu nu vei fi femeia, ci amanta mea... Pentru ce îmi zici totăauna că, odată bărbatul tău, nu voi mai avea stimă pentru tine ? pentru că ai făcut pentru mine cel mai mare sacrificiu ce o femeie poate să facă ? aceea ce numeşti dispreţ va fi considerat ca un mare merit de mine; voi zice şi mai mult, ca o mare virtute. Ştiu ce costă pe o femeie ca să sacrifice celui ce iubeşte onoarea sa; sacrificiul acesta este mai mare decît sacrificiul vieţii sale; între o femeie care se dă amantului său şi o femeie ce nu are puterea a o face (două suflete superioare, înţeleg), în care parte se cere mai multă abnegaţiune ? la aceea ce sacrifică un moment de plăcere ca să se laude de lume, sau la ceea ce sacrifică, cu onoarea, viaţa, fericirea, liniştea ?.. oh l Elena mea ! ştii tu că niciodată nu te-am stimat, nu te-am admirat, nu te-am respectat mai mult decît din ziua cînd tu mi-ai sacrificat totul?.., încetează dar a mai avea asemenea îndoieli l tu ai în ochii mei un merit mai mult! Daca într-o zi sufletul tău va fi întrebat înaintea judecătorului suprem despre amorul tău, o, Elena mea, acest amor va face gloria celui ce a creat omul şi amorul, este parfumul unei abnegaţiuni divine."</hi></p></div>
-<div><p>Această scrisoare fuse ca un balsam pentru sufletul Elenei. Ea citi de mai multe ori şi o udă eu lacrămile sale.</p>
+  <p><hi>Elena"</hi></p>
+<p>Alexandru citi acest bilet printre lacrimi. „Sunt un caracter rău!” îşi zise el. </p>
+<p>După cîteva zile raporturile agintelui său secret din Făneşti îi anunţară că Elena nu priimeşte pe nimeni, că trece zilele în faceri de bine, în rugăciune şi în lacrimi; dar că sănătatea sa suferă mult. Această din urmă ştire îngriji pe Alexandru. El crezu de datorie să o vază sau să-i scrie, îi scrise dar atunci o carte plină de tinereţe :</p>
+
+ <p><hi>„Iţi mulţumesc pentru noul sacrificiu, deşi nu voiam să aibă un asemenea nume !... El mi-a redat tinereţea, bucuria, elanul inimei mele. Acum mi se pare că soarele are şi pentru mine o parte de lumină; pămîntul nu mai îmi este strein... A trăi cu tine, prin tine, pentru tine, o, sufletul meu, iată ce poci numi încă fericirea. De acum îmi închipuiesc noua viaţă ce îmi surîde, mi se pare că numai eu sînt ferice, că numai în noua căsătorie se află fericirea ! De cîte ori văz fiinţe omeneşti ce se zic fericite, mă întreb însumi, aceşti oameni ce nu sunt iubiţi de Elena mea, ce nu speră să formeze o căsătorie cu dînsa, cum pot să fie fericiU ?... am aflat că eşti tristă... tristă cînd o nouă viaţă îţi surîde ? cînd eu sunt voios ca un copil ? Viaţa ce ne surîde, Elena mea, va fi o viaţă de tinereţe, de amor, de seninătate. Fericirea noastră va fi un exemplu în lume şi lumea ce a uitat că maritagivl are farmece îşi va re-ntineri credinţele sale în familie. Tu nu vei fi femeia, ci amanta mea... Pentru ce îmi zici totăauna că, odată bărbatul tău, nu voi mai avea stimă pentru tine ? pentru că ai făcut pentru mine cel mai mare sacrificiu ce o femeie poate să facă ? aceea ce numeşti dispreţ va fi considerat ca un mare merit de mine; voi zice şi mai mult, ca o mare virtute. Ştiu ce costă pe o femeie ca să sacrifice celui ce iubeşte onoarea sa; sacrificiul acesta este mai mare decît sacrificiul vieţii sale; între o femeie care se dă amantului său şi o femeie ce nu are puterea a o face (două suflete superioare, înţeleg), în care parte se cere mai multă abnegaţiune ? la aceea ce sacrifică un moment de plăcere ca să se laude de lume, sau la ceea ce sacrifică, cu onoarea, viaţa, fericirea, liniştea ?.. oh l Elena mea ! ştii tu că niciodată nu te-am stimat, nu te-am admirat, nu te-am respectat mai mult decît din ziua cînd tu mi-ai sacrificat totul?.., încetează dar a mai avea asemenea îndoieli l tu ai în ochii mei un merit mai mult! Daca într-o zi sufletul tău va fi întrebat înaintea judecătorului suprem despre amorul tău, o, Elena mea, acest amor va face gloria celui ce a creat omul şi amorul, este parfumul unei abnegaţiuni divine."</hi></p>
+<p>Această scrisoare fuse ca un balsam pentru sufletul Elenei. Ea citi de mai multe ori şi o udă eu lacrămile sale.</p>
 <p>„Sărmanul meu amic ! îşi zise ea. El se hrăneşte de speranţă şi nu ştie să ursita a voit altfel. Orice am iubit în vieaţă a dispărut; orice s-a ataşat de soarta mea s-a vestejit... pentru ce m-ai iubit tu, o, sufletul meu ?...”</p>
 <p>În timpul acesta postelnicul dete o petiţiune la Mitropolie, cerînd divorsul. Ţinuta sa îi făcea vieaţa amară prin repetatele cereri de a se însura cu dînsa. De aici urmă cearta de toată ziua, de toată ora. Această femeie ordinară sub toate raporturile era la înălţimea spiritului, ini-mei, manierilor postelnicului... acesta avea slăbiciune pentru dînsa : niciodată nu putuse să înţeleagă mai bine o femeie. Simpatia ce-i inspirase deveni mai tare decît avariţia lui, asfel se decise a cere divorsul cu Elena ; i se observă că nu poate să-şi lase soţia, neavînd nici un motiv. Elena fuse chemată la consistoriu ; ea nu veni. Maică-sa se prezintă pentru dînsa. Elescu lucră prin toate mijloacele sale puternice în modul de a se decide divorsul, în fine el reuşi. După cîteva zile postelnicul se însură.</p>
 <p>Elena era încă la Făneşti. Făneştii era moşia sa de zestre, locul unde odihnea ţărîna părintelui ei şi fratelui ei.</p>
 <p>Lumea vorbea despre nunta Elenei cu Alexandru. Muma Elenei era ferice. Alexandru se prepara a deveni soţul celii ce iubea mai mult în viaţă. Ei deciseră a face cununiile la Făneşti, în ziua de mai întîi. Alexandru comandă un 
  <hi><foreign>trousseau</foreign></hi> splendid la Paris.</p>
-<p>Insă într-o zi muma Elenei primi de la Elena următorul bilet:</p></div>
-<div type="letter">
- <p><hi>„Sunt bolnavă în pat. Poţi să vii aci cu Caterina, fără să spui nimic lui Alexandru ?..."</hi></p></div>
-<div><p>Maică-sa şi Caterina plecară îndată la Făneşti. Ele găsiră pe Elena prinsă de friguri, palidă şi slabă. Ea tuşea necontenit, o tuse seacă ; pometele obrajilor «ăi erau neîncetat rumene. Ele găsiră aici un doctor din Ploieşti.</p>
+<p>Insă într-o zi muma Elenei primi de la Elena următorul bilet:</p>
+
+ <p><hi>„Sunt bolnavă în pat. Poţi să vii aci cu Caterina, fără să spui nimic lui Alexandru ?..."</hi></p>
+<p>Maică-sa şi Caterina plecară îndată la Făneşti. Ele găsiră pe Elena prinsă de friguri, palidă şi slabă. Ea tuşea necontenit, o tuse seacă ; pometele obrajilor «ăi erau neîncetat rumene. Ele găsiră aici un doctor din Ploieşti.</p>
 <p> Nu aveţi frică ! le zise Elena, văzîndu-le, nişte friguri trecătoare... cel puţin asfel pretinde medicul!</p>
       <p>— Dară, dară ! zice medicul, cletenind capul cu întristare, friguri trecătoare.</p>
 <p>A doua zi Elena păru mai bine. Se sculă din pat; dar slabă, suferindă, tuşea nu o părăsea. Ea se informă despre Alexandru de la Caterina şi de la maică-sa.</p>
@@ -2611,10 +2610,10 @@ fata mea, făcînd totdodată fericirea unui om.”</hi></p></div>
 <p>— Organismul este atacat, îi zise ea, la mai întîi va fi nunta... va fi nuntă tristă nunta mea, Caterino !</p>
 <p>— Şi eu am scuipat singe ; pentru ce iţi faci aceste idei ?...</p>
 <p>— Vei să mă consoli ? crezi tu că am trebuinţă de consolaţiune ? crezi tu că regret viaţa şi mă speriu de moarte ?... Nu mă consola pe mine, ci pe mumă-mea. Ea să nu auză nimic despre cele ce ţi-am zis... oh ! faceţi ca Alexandru să nu ştie că sunt bolnavă... Cînd voi muri, el va muri asemenea, Alexandru meu mi-a zis-o şi îl cred... cel puţin lăsaţi-l să fie ferice cîtva timp încă !... Astăzi voi să-i scriu un bilet.</p>
-<p>Vorbind asfel, ea îi scrise :</p></div>
-<div type="letter">
-<p><hi>„Niciodată nu am fost mai voioasă ca astăzi, sunt sănătoasă, ferice, oh ! ce dulce este viaţa cînd totul ne surîde cu speranţă !... cred ca o fecioară de cincisprezece ani, cred în amor, în fericire... Viitorul va fi frumos pentru noi, am ales pentru nunta noastră luna lui mai : este un capriciu al meu. Ea ne recheamă tinereţea, frăgezimea, amorul, asfel voi să fie începutul menagiului nostru ! destul am suferit amîndoi în trecut, ca să avem dreptula uita orice dureri. Fii voios, sufletul meu, eu sînt încîntată...”</hi></p></div>
-<div><p>— Iată cum minţi ! zise Caterina..</p>
+<p>Vorbind asfel, ea îi scrise :</p>
+
+<p><hi>„Niciodată nu am fost mai voioasă ca astăzi, sunt sănătoasă, ferice, oh ! ce dulce este viaţa cînd totul ne surîde cu speranţă !... cred ca o fecioară de cincisprezece ani, cred în amor, în fericire... Viitorul va fi frumos pentru noi, am ales pentru nunta noastră luna lui mai : este un capriciu al meu. Ea ne recheamă tinereţea, frăgezimea, amorul, asfel voi să fie începutul menagiului nostru ! destul am suferit amîndoi în trecut, ca să avem dreptula uita orice dureri. Fii voios, sufletul meu, eu sînt încîntată...”</hi></p>
+<p>— Iată cum minţi ! zise Caterina..</p>
 <p>— Minciuna este necesară cînd poate face bine.</p>
 <p>— Sărmană Eleno ! </p>
 <p>După trei zile, cîţiva vecini veniseră să viziteze pe muma Elenei.</p>
@@ -2637,16 +2636,16 @@ fata mea, făcînd totdodată fericirea unui om.”</hi></p></div>
 <p>Ei se depărtară.</p>
 <p>— Ai vorbit prea mult, zise Caterina Elenei, ţi-a făcut rău discuţiunea... tuşeşti mai mult.</p>
 <p>— Acesta va fi tot asfel, răspunse Elena, în genele căria strălucea o lacrimă.</p>
-<p>Elena priimi o scrisoare de la Alexandru. El crezu că Elena este sănătoasă, fericită, astă dată îi scrise într-un stil cu totul comic :</p></div>
-<div type="letter">
+<p>Elena priimi o scrisoare de la Alexandru. El crezu că Elena este sănătoasă, fericită, astă dată îi scrise într-un stil cu totul comic :</p>
+
  <p><hi>„Bucureştii, zicea el, este unicul oraş în lume prin stravaganţele sale. Amicul nostru B... are un fiu ce seamănă lui Georges ca două picături de lapte. Amicii săi îi spun că seamănă lui, el le mulţumeşte la toţi. Ciliu îşi adoară nevasta mai mult decît totdauna şi gelozia îi creşte neîncetat. In zilele trecute a fost o masă mare la X; el era invitat cu nevasta. Pînă a nu se pune la masă, el se strecură în sala de mîncare, citi numele oaspeţilor pe talere, văzînd că numele nevestii era pe un taler lingă altul cu numele unui june, el schimbă biletul şi îl puse Ungă talerul său. Aceasta îmi recheamă altă întîmplare, aceea cînd se duse la bal, unde un adiotant prezintă braţul nevestii lui să o introducă în sală. El avu un abur de gelozie care îl făcu să se uite şi să intre în bal cu şoşonii de pîslă ! şi cu toate acestea femeia sa îl iubeşte atît de mult ! Zoe urmează seratele. Ea pare indiferintă la vorbele ce se desfăşură în contra ei, ieri seară deveni subiectul unui nou scandal... iartă a-i trece în tăcere. Pare în lume cu părul tăiat şi zice fără pudoare că este moda. Mai multe dame crezură să-i facă plăcere imitînd-o. Principesa Iordache este o adevărată caricatură cu pletele tăiate : un cine lăţos ! Sunt trei zile de cînd Ser era să aibă un duel cu un ataşat de la un consulat. Se zice că asemenea lui Ercule la picioarele Dejanirei, el toarce mătasea amorului lîngă spirituala doamna N... Această din urmă întîmpină pe ataşatul de consulat, care'începuse a-i zice vorbe galante asupra unui eventaliu de paie fine, o lucrare de artă. Ea ascunse eventaliul.</hi></p>
 <p><hi>— Pentru ce îl ascunzi ? întrebă acesta.</hi></p>
 <p><hi>— Este de paie, răspunse ea.</hi></p>
 <p><hi>Scandalul se făcu. Ser îi luă apărarea, dar se împăcară.</hi></p>
 <p><hi>Un bărbat şi-a sărutat nevasta la operă în logiă. Aceasta a făcut aici mai mult scandal decît tăierea coadei Zoei.</hi></p>
 <p><hi>Şapte nunţi s-au făcut în aceste zile cu moldavi. Această unire va fi mai temeinică decît unirea politică.</hi></p> <p><hi>Am făcut cunoştinţă cu d-na A... un tip de pedantism, de <foreign>basbleu</foreign>,vorbeşte numai din carte. Este vorba de a trece peste un şiruleţ de apă ce să scură. Ea îţi va zice : <quote>«să trecem Rubiconul»</quote>. Este vorba de o cameră care nu se încălzeşte, îţi va zice că trebuie o vestală să întreţie focul.</hi></p>
-<p><hi>Dar să lăsăm aceste bagatele şi să vorbim de nunta noastră, de fericirea noastră. Sufletul meu e însetat de fericire, am mobilat un mic apartament pentru compania vieţii mele. Este cel mai elegant ce se poate vedea. Lesbia, în lăcaşul lui Catul la Sarmione, nu avea camere mai elegante. Tot este în gustul roman antic. Timpul mi se pare lung pînă la mai, daca aş avea puterea, aş precipita cursul soarelui; dar, vai!... trebuie să sufer numărînd zilele:”</hi></p></div>
-<div><p>Elena cletenă din cap.</p>
+<p><hi>Dar să lăsăm aceste bagatele şi să vorbim de nunta noastră, de fericirea noastră. Sufletul meu e însetat de fericire, am mobilat un mic apartament pentru compania vieţii mele. Este cel mai elegant ce se poate vedea. Lesbia, în lăcaşul lui Catul la Sarmione, nu avea camere mai elegante. Tot este în gustul roman antic. Timpul mi se pare lung pînă la mai, daca aş avea puterea, aş precipita cursul soarelui; dar, vai!... trebuie să sufer numărînd zilele:”</hi></p>
+<p>Elena cletenă din cap.</p>
 <p>„Apartamentul meu, zise ea, va fi un mormînt.”</p>
 <p>A doua zi un nou acces de friguri se declară. Elena vărsă sînge. Se observă că ea deperea pe fiece zi : puterile i se împuţinau.</p>
 <p>„Nu voi putea saluta soarele de mai, îşi zise ea. Şi Alexandru, sărmanul Alexandru !...”</p>
@@ -2662,12 +2661,12 @@ fata mea, făcînd totdodată fericirea unui om.”</hi></p></div>
 <p>„Se duce să comande necesarele nunţii, zise Elena. Un giulgiu şi un sicriu, iată ce îmi va trebui !... mă va regăsi încă în viaţă la reîntoarcerea lui ?...</p>
 <p>Dar cînd te vei înturna, vei găsi toate la locul lor precum le-ai lăsat la plecare... toate, afară de mine... atunci ochii tăi mă vor căuta şi nu vor putea să mă vază şi ochii tăi se vor îneca în lacrămi !</p>
 <p>Alexandru se duce ? mai bine ! nu voi să fie martor agoniei mele... Pentru ce să sufere ?... Nefericirile nu există pentru om decît din momentul ce le cunoaşte... Pentru ce să le cunoască de acum ?...”</p>
-<p>Elena răspunse lui Elescu că face bine să plece. între altele ea trase, cu ochii înecaţi de lacrămi, aceste rînduri :</p></div>
-      <div type="letter"><p><hi>Mă report la gustu-ţi pentru obiectele ce vei comanda pentru mine; voi simţi îndoită plăcere a le purta, alese de tine... voi fi mîndră şi ferice mireasa ta; rog cerul ca ziua de mai să ajungă mai repede. Nu întîrzia afară din ţară. Sufletul meu te va invoca să te îmbrăţişeze..”</hi></p></div>
-<div><p>Elescu priimi acest bilet cu bucurie ; viaţa pentru dînsul luase colori mai fragede ; cu toate aceste, un presim-ţimînt trist îl oprea de a lăsa inima să zboare la bucurie. El plecă repede la Paris, după ce scrise Elenii un bilet plin de tinereţe şi amabilitate :</p></div>
-<div type="letter">
- <p><hi>„Sînt în poziţiunea aceluia, zicea el între altele, care se culcă să doarmă, gîndindu-se cu fericire la ora deşteptărei, menită să-i aducă o mare bucurie. Aci voi ca spaţiul de timp ce desparte momentul aşteptat să se scurteze repede, aci voi ca să se lungească spre a mă bucura mai mult de suprema fericire ce-mi surîde: emoţiunile ce încerc mă ţin într-un fel de beţie divină... încerc acelaşi simţimînt ca omul ce sapă să găsească un tezaur: el stă şi se repaoză, şi se îmbată de speranţă că va găsi şi nu cutează a urma, de temere că nu va găsi ce doreşte. Tezaurul meu eşti tu, sufletul meu, dar vei fi oare al meu ? în momentul cînd voi crede că te-am priimit, nici un nuor nu va veni să te acopere înaintea ochilor mei ?...”</hi></p></div>
-<div><p>Elena fuse mai bine cîteva zile. Tuşea începuse să se împuţine ; sînge nu mai vărsa ; figura ei păru însufleţită de mai multă frăgezime. Niciodată Elena nu avusese mai multă îngrijire pentru toaleta sa. Maică-sa surîdea de fericire văzînd dorinţele fiicei sale pentru elegafiţa toaletei. Ea lua aceste manifestări pentru semne de ameliorare a sănătăţei. Medicul declară că are mare speranţă. Elena ea însuşi începu să aibă iluziuni.</p>
+<p>Elena răspunse lui Elescu că face bine să plece. între altele ea trase, cu ochii înecaţi de lacrămi, aceste rînduri :</p>
+      <p><hi>Mă report la gustu-ţi pentru obiectele ce vei comanda pentru mine; voi simţi îndoită plăcere a le purta, alese de tine... voi fi mîndră şi ferice mireasa ta; rog cerul ca ziua de mai să ajungă mai repede. Nu întîrzia afară din ţară. Sufletul meu te va invoca să te îmbrăţişeze..”</hi></p>
+<p>Elescu priimi acest bilet cu bucurie ; viaţa pentru dînsul luase colori mai fragede ; cu toate aceste, un presim-ţimînt trist îl oprea de a lăsa inima să zboare la bucurie. El plecă repede la Paris, după ce scrise Elenii un bilet plin de tinereţe şi amabilitate :</p>
+
+ <p><hi>„Sînt în poziţiunea aceluia, zicea el între altele, care se culcă să doarmă, gîndindu-se cu fericire la ora deşteptărei, menită să-i aducă o mare bucurie. Aci voi ca spaţiul de timp ce desparte momentul aşteptat să se scurteze repede, aci voi ca să se lungească spre a mă bucura mai mult de suprema fericire ce-mi surîde: emoţiunile ce încerc mă ţin într-un fel de beţie divină... încerc acelaşi simţimînt ca omul ce sapă să găsească un tezaur: el stă şi se repaoză, şi se îmbată de speranţă că va găsi şi nu cutează a urma, de temere că nu va găsi ce doreşte. Tezaurul meu eşti tu, sufletul meu, dar vei fi oare al meu ? în momentul cînd voi crede că te-am priimit, nici un nuor nu va veni să te acopere înaintea ochilor mei ?...”</hi></p>
+<p>Elena fuse mai bine cîteva zile. Tuşea începuse să se împuţine ; sînge nu mai vărsa ; figura ei păru însufleţită de mai multă frăgezime. Niciodată Elena nu avusese mai multă îngrijire pentru toaleta sa. Maică-sa surîdea de fericire văzînd dorinţele fiicei sale pentru elegafiţa toaletei. Ea lua aceste manifestări pentru semne de ameliorare a sănătăţei. Medicul declară că are mare speranţă. Elena ea însuşi începu să aibă iluziuni.</p>
 <p>Dar această asigurare în sănătatea ei îi da idei pline de tinereţe, de răsfăţare. Crezînd pericolul depărtat, ea vorbea de dînsul mai des. Spunea celor ce o încongiurau cugetări ce fac să se umple ochii de lacrimi.</p>
 <p>— Maică, zise ea într-o zi, nu este aşa că viaţa este dulce ?... că este trist a muri plină de frumuseţi, de graţii, de juneţe, de iluziuni atît de plăcute ?... Cela ce rămîne încă în viaţă, în urma celui ce iubeşte şi moare, suferă în adevăr, e demn de plîns, dar orice acţiune are reacţiunea sa : uitarea şterge lacrămile, timpul şterge durerile. Dar cela ce moare este mai demn de plîns, mai ales cînd viaţa avea pentru dînsul atîtea plăceri încă. Acest din urmă singur nu poate să fie mîngîiat. El a plecat şi nu se va mai întoarce. Ochii săi nu va mai vedea pe cei ce au iubit; urechile sale nu va mai auzi vocea unei mumi zicîndu-i : „Copilul meu !”</p>
 <p>Aceste vorbe erau crude pentru sărmana mumă.</p>
@@ -2677,8 +2676,8 @@ fata mea, făcînd totdodată fericirea unui om.”</hi></p></div>
 <p>Caterina se puse la piano.</p>
 <p>— Ce odă vei să cînţi ?</p>
 <p>— Ce odă ? tu ştii...</p>
-<p>Elena, sculîndu-se puţintel, cîntă cu voce dulce şi melancolică acest cîntec :</p></div>
-<div type="poetry">
+<p>Elena, sculîndu-se puţintel, cîntă cu voce dulce şi melancolică acest cîntec :</p>
+
 <l>Multe frumuseţi te-adoară</l>  
 <l>Soarbe, dragă-n sînul lor</l>
  <l> Farmecul ce-l înconjoară</l>
@@ -2694,10 +2693,10 @@ fata mea, făcînd totdodată fericirea unui om.”</hi></p></div>
 <l>Căci, amantul vieţii mele !</l>
 <l>Eu nu-ţi cer p-acest pămînt</l> 
  <l>Decît lacrimile tele</l>
- <l>Pe tăcutul meu mormint.</l></div>
-<div><p>Elena tăcu obosită, două lacrămi curară din genele sale lungi şi creţe, ca două stele ce se coboară dintr-un spaţiu umbros. Frumuseţele ei se exaltaseră prin accesul de friguri, buzele străluceau ca rubinele încuadrate cu artă în ivoriu, părul său cădea în unde pe umeri.</p>
-<p>— Am să cînt şi eu o odă, zise Caterina, de acelaşi poet... Şi Caterina cîntă asfel, cu o voce fragedă ce părea că revarsă plăcerile :</p></div>
-<div type="poetry">
+ <l>Pe tăcutul meu mormint.</l>
+<p>Elena tăcu obosită, două lacrămi curară din genele sale lungi şi creţe, ca două stele ce se coboară dintr-un spaţiu umbros. Frumuseţele ei se exaltaseră prin accesul de friguri, buzele străluceau ca rubinele încuadrate cu artă în ivoriu, părul său cădea în unde pe umeri.</p>
+<p>— Am să cînt şi eu o odă, zise Caterina, de acelaşi poet... Şi Caterina cîntă asfel, cu o voce fragedă ce părea că revarsă plăcerile :</p>
+
  <l>Tu rechemi prin frumuseţe</l>
  <l> Rozele de primăveri</l>
  <l> Şi prin dulcea-ţi tinereţe</l>
@@ -2717,8 +2716,8 @@ fata mea, făcînd totdodată fericirea unui om.”</hi></p></div>
 <l>Voi să fii a mea frumoasă,</l>
 <l>Rouă cerului senin;</l>
 <l>Eu o floare amoroasă,</l>
-<l>Să te beau într-un suspin !</l></div>
-<div><p>— Fii binecuvîntată, fata mea ! zise Elena, cîntaţi! cîntaţi ! mă dezmerdaţi ! înconjuraţi patul meu cu roze ! ea plecarea să fie o sărbătoare !...</p>
+<l>Să te beau într-un suspin !</l>
+<p>— Fii binecuvîntată, fata mea ! zise Elena, cîntaţi! cîntaţi ! mă dezmerdaţi ! înconjuraţi patul meu cu roze ! ea plecarea să fie o sărbătoare !...</p>
 <p>Un somn dulce şi binefăcător coborî pe genele Elenei. Ea dormi. Cînd se deşteptă, era răcorită, părăsi patul.</p>
 <p>Din acea zi fuse mai bine, medicul nu mai apăru.</p>
 <p>Era pe la apriliu, faţa pămîntului tresărea sub suflarea caldă şi parfumată a primăverii, pămîntul coperit de velură verde surîdea ochilor obosiţi de monotonia iernei, aerul era dulce şi binefăcător. Elena se plimba prin grădină sprijinită pe braţul Caterinei.</p>
@@ -2759,7 +2758,7 @@ fata mea, făcînd totdodată fericirea unui om.”</hi></p></div>
  <hi><title>Reforma</title></hi> : „Domnule redactor, a ieşit vorba că un N. T. s-a sinucis... Se va şti, domnul meu, că nu sunt eu N. T. care a murit" — Iată ziarul ! urmă Georges.</p>
 <p>— Cine este acest N. T. ? întrebă Caterina.</p>
 <p>— A fost altădată ministru... astăzi deputat.</p>
-<p>— Mă îndoiam, zise Caterina. Apropo, mai zise ea, nu-mi spuneţi nimic de banda voioasă ?</p></div></div>
+<p>— Mă îndoiam, zise Caterina. Apropo, mai zise ea, nu-mi spuneţi nimic de banda voioasă ?</p></div>
      </body>
   <back>
    <div type="notes">

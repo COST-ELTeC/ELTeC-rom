@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" 
-   xml:id="ROM021" xml:lang="ro">
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM021" xml:lang="ro">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -20,36 +22,32 @@
             <measure unit="words">23575</measure>
             <measure unit="pages">117</measure>
          </extent>
-         <publicationStmt>
-            <p>Încorporat în ELTeC<date>2019-l0-01</date>
-            </p>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="firstEdition">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-11"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Încorporat în ELTeC2019-l0-01
+            --></publicationStmt>
+         <sourceDesc><bibl type="firstEdition">
                <author>V. Demetrius</author>
                <title>Păcatul Rabinului. ROMAN</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>EDITURA LITERARA A CASEI SCOALELOR </publisher>
                <date>1920 (1920)</date>
                <ref target="http://doi.org/10.5281/zenodo.3229234">Facsimile on zenodo</ref>
-                           </bibl>
-         </sourceDesc>
+                           </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
-         <p></p>
+         <p/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
-            <language ident="ro"></language>
+            <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender key="M"></e:authorGender>
-            <e:size key="short"></e:size>
-            <e:canonicity key="low"></e:canonicity>
-            <e:timeSlot key="T4"></e:timeSlot>
+            <e:authorGender key="M"/>
+            <e:size key="short"/>
+            <e:canonicity key="low"/>
+            <e:timeSlot key="T4"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2019-11-11">Checked by releaseChecker script</change>
          <change when="2019-09-20">Initial TEI version generated.</change>
       </revisionDesc>
    </teiHeader>
@@ -59,16 +57,16 @@
             <p>V. Demetrius</p>
             <p>PĂCATUL RABINULUI</p>
             <p>ROMAN</p>
-            <milestone unit="header" rend="circle"/>
+            
             <p>BUCUREŞTI</p>
-            <milestone unit="header" rend="line"/>
+            
             <p>EDITURA LITERARĂ A CASEI ŞCOALELOR</p>
             <p>1920</p>
          </div>
-         <milestone unit="header" type="seal"/>
+         
       </front>
       <body>
-         <div type="chapter" n="1">
+         <div type="chapter">
             <p>Deşi perdelele fuseseră trase de cu vremne, ză-duful moleşitor, de sub fierbintele soare de Iulie, răsbătuse în odae.</p>
             <p>Berta se lăsase numai în cămaşe şi’şi făcea vânt cu evantaiul. Ea nu simţea numai dogoarea, văzduhului; o căldură lăuntrică nu-i dà pace. Fră-mântată de gânduri, femeia nu se putea nici ră-cori, nici odihni.</p>
             <p>După prânz, bărbatu-său plecase grăbit, iar ea, îmbibată de lene, venise în camera de culcare, unde socotea să doarmă, ca de obicei, două ceaiuri împlinite. Işi îmbrăcase dela zece dimineaţa ca-potul de tulpan, socotind că n’are să aibă musa-firi, nici la masă, nici după şi, de cum îi plecase bărbatul, femeia venise să se desbrace şi să se lase cotropită de somn.</p>
@@ -97,7 +95,7 @@
             <p>Intr’un rând i se năzări că cineva, după ce tre-cuse pe sub ferestre, intrase cu paşi tiptili în curte. Femeia neastâmpărată îşi opri suflarea, ne-hotărâtă, aproape înfricoşată, ţeapănă şi cu ochii către ferestrele de către curte. Nu se mai auzi ni-mic, poate că i se păruse...</p>
             <p>Peste câteva clipe, spaima îi pierise cu to-tul şi, urmându-şi jocul, desbrăcată, numai în cămaşa ei străvezie, desculţă, întoarse privirile către sală: David, turburat, aprins, abia mai stăpânin-du-se, o privea lacom.</p>
          </div>
-         <div type="chapter" n="2">
+         <div type="chapter">
             <p>Dela isbucnirea acestei iubiri trupeşti între cum-naţi, între David şi Berta, nevasta Rabinului în-cepuse să simtă pentru bărbatul său o silă tot mai mare şi tot mai îndreptăţită de poftele şi de judecata ei.</p>
             <p>Numai la început şi puţin timp, conştiinţa o judecà aspru şi o făcuse să’i pară rău, să se mustre că se lăsase uşoară vârtejiului care o aruncase în braţele lui David.</p>
             <p>Apoi treptat, tribunalul, lăuntric îşi' schimbă roba judecătorească cu haine obişnuite, amuţi! Dar şi în robă neagră, conştiinţa fusese neputincioasă, ne în stare s’o smulgă din îmbrăţişerile patimei; ştia numai să dojenească.</p>
@@ -126,7 +124,7 @@
             <p>— Merg bucuros! cu tine!</p>
             <p>Şi amantul simţi un fior în spate, de plăcere, dar, şi de îngrijorare, căci începuse s’o cunoască.</p>
          </div>
-         <div type="chapter" n="3">
+         <div type="chapter">
             <p>Solomon era tânăr, n’avea decât treizeci şi patru de ani. Dar îl copleşise învăţătura. Ceiace îl împovărà şi-l strâmtorà şi mai tare, erau miile de priviri, pe care rabinul şi le închipuia necurmat aţintite asupră-i.</p>
             <p>El îşi cerea să fie pilda moralităţii coreligio-narilor lui şi mândria lor. Işi închipuia că este vecinic comparat cu egalii lui de altă religie, eu episcopii, cu profesorii dela facultatea teologică română, — şi tot traiul lui era o stânjeneală.</p>
             <p>Ştia că n’are talent oratoric, cunoştea şi se te-mea de cultura vastă şi de inteligenţa rodnică a unora dintre colegii lui, evrei, din Bucureşti, şi din alte oraşe. Vedea, nefericit, că nu-i rămâne de cât cinstea, cu care să se fălească la nevoe.</p>
@@ -173,13 +171,13 @@
             <p>Dar şi-aduse aminte toată turburarea ce i-o pricinuiau mişcările şoldurilor, portocalele sânilor, întreaga ei siluetă de fată, când el sta plecat de-asupra unei cărţi şi-o privea printre gene. Bănui că dacă se va culcà, înfierbântat cum erà, îşi va nesocoti mărinimia şi nu va dorini toată noaptea. Se încredinţă într’o clipă că a doua-zi i se va părea caraghioasă purtarea lui şi că o altă încercare nu i-ar mai fi cu putinţă.</p>
             <p>— Nu-ţi mai dau drumul! Ai să stai cu mine! hotărî el, mâniat, gata la or ce.</p>
          </div>
-         <div type="chapter" n="4">
+         <div type="chapter">
             <p>E parcă scris aşa, ca necazurile, greşelile, până şi farsele celor mari, să se scuture pe capetele ce-lor mici şi să le căşuneze mai mult rău, decât au suferit ori au vrut ei. </p>
             <p>Pentrucă Berta, când şi-a dat seama că nu’şi iubeşte bărbatul, n’a plecat dela el, sfărâmând energic şi cinstit o stare, de lucruri mincinoasă şi înşelătoare, ea liberi să poată şi ea şi Solomon să’şi clădească o altă viaţă, pe temelii noi:  rabi-nul a căzut ca o pacoste peste cinstea bietei servitoare.</p>
             <p>Chiar a douazi dimineaţa, rabinul nu-şi mai înţelegea patima. Ar fi voit să nu’şi mai a-ducă aminte şi era silit să se gândească fără ră-gaz la omul din ajun, care tot el fusese. Năucit, în-fricoşat, se sbătea ca să’şi ascută mintea şi să cer-ceteze urmările pe care le putea avea fapta lui.</p>
             <p>Femeia, sluga, nu stase până la ziuă în aşternutul stăpânului. Fugise murdară şi tremurând în bucătă-rie, ca să plângă şi să se întrebe ce s’a petrecut cu ea.</p>
             <p>In ziua aceia, Solomon s’a strecurat din casa lui, ca un tâlhar, a mâncat pe la birturi şi s’a întors noaptea târziu, în odaia plină de amintirea greşelii săvârşite. Noroc că pe neaşteptate, a treia zi, Berta şi David, sătuli de călătorie, veneau acasă.</p>
-            <milestone unit="absent"/>
+            <milestone rend="space" unit="subchapter"/>
             <p>Anica a rămas însărcinată.</p>
             <p>Când ea şi-a aflat nenorocirea, stăpână-sa ve-nise şi viaţa în casa rabinului Weiss se urmà ca şi în ajunul plecării cocoanei la Constanţa.</p>
             <p>David venea dela zece dimineaţa şi de multe ori rămânea, ca să se prepare pentru un examen, pretextà el, până de către ziuă.</p>
@@ -238,7 +236,7 @@
             <p>Anica îl aşteptă să treacă înapoi şi urmă:</p>
             <p>— Să-i spui numai decât, domnule, astăzi! Ea îi spun de cum oi vedea-o...</p>
          </div>
-         <div type="chapter" n="5">
+         <div type="chapter">
             <p>La Constanţa, Bertei nu-i priise nici aerul să-rat şi des răscolit de vânt, nici plimbările pe mare.</p>
             <p>După primul ţipăt de admiraţie al sufletului, pentru în zadar închipuita, pentru neaşteptata frumuseţe a mării, Berta şi David făcură cunoştinţă cu hotelul, se treziră rău la mirosul statornic al oraşului Constanţa, miros ciudat de putregai, de latrină veche, cunoscură desgustătorul rău de mare, Cazinul şi frumoasa plajă Mamaia.</p>
             <p>Visurile Bertei pieriră repede. Nu puteà să se plimbe cu vaporul, cot la cot cu bărbaţii frumoşi pe care şi-i închipuise cuceriţi de privirea ei aruncată pe mare şi întoarsă lâncedă, din când în când, sub sprincenele a doi trei inşi, rivali, aleşi de ea. La Cazinou, lumea i se părea subjugată de inte-resul jocurilor de noroc.</p>
@@ -288,7 +286,7 @@
             <p>Berta da din umeri, nepăsătoare, de câte ori auzià pe David vorbind de bărbatu-său.</p>
             <p>Ea torceà ca un motan la soare, aceleaşi visuri de iubire. Mutarea lui David în casa ei îi hărăzise câteva zile fericite. Apoi noutatea pierise, hazul stăruinţei lui Solomon de-asemenea; femeia, sătulă, obosită, tânjeà după închipuirile ei, le chemà de dincolo de saţiul trupului, care le înlăturase, şi le zâmbeà leneşe, gata să ardă.</p>
          </div>
-         <div type="chapter" n="6">
+         <div type="chapter">
             <p>Anica găsise repede alt stăpân: o cucoană bă-trână, care, deşì era văduvă şi trăià singură, îşi schimbă de trei ori până la cinci ori pe zi toale-tele, şi-şi foşneà jupoanele de mătase prin cinci camere mari, luxoase ca şi ea.</p>
             <p>Noua slujbă erà mult mai uşoară. Anica nu aveà alta de făcut decât să măture şi să scuture prin odăi şi pe scară.</p>
             <p>Toată agoniseala Anichii, adică bacşişul lui So-lomon şi simbria ei, eraù o biată sută de lei şi nădejdea în şchioapa.</p>
@@ -328,7 +326,7 @@
             <p>Cât despre Anica, ea n’a suferit mai mult decât alta. A născut o fetiţă, şi i-a fost leuzia scurtă, ca de feinee umilă.</p>
             <p>In spital au vizitat-o şi Mariţa Iordănescu şi cele două foste tovarăşe ale ei, cărora le dăduse spre păstrare sfânta ei sută de lei.</p>
          </div>
-         <div type="chapter" n="7">
+         <div type="chapter">
             <p>Când coana Mariţa o văzu pe Anica în pragul uşii ei, o năpădi o mare neplăcere.</p>
             <p>Câte nu făgădueşte într’o doară omul, câte nu’şi propune, dar găseşte destule pricini, destule piedici pànă la faptă.</p>
             <p>Lăuza era obosită de drumul lung pe care-l făcuse pe jos, rezemându-se de ziduri, stând pe bănci, când le aflà în drum. N’avusese la ea, destui bani ca să se urce într’o trăsură, şi nici nu se gândise. Ar fi putut eà vie până într’un loc cu tramvaiul, dar nu se urcase în viaţa ei într’un vagon.</p>
@@ -337,7 +335,7 @@
             <p>Deşi ziua acea era caldă, zi de Mai, lehuza se simţea pătrunsă de frig, tremurà şi’i clănţăneau dinţii.</p>
             <p>Coana Mariţa, tot făcându-şi cruce, după ce mai întâi aprinsese candela la icoana Maichii Domnului, ca să fie sigură că şi-a pregătit pentru binefacerea ei, calea spre cer, aşeză cumsecade perinele sub căpătâiul bolnavei, îi vâră o perină moale sub spinare, o acoperi cu plapoma şi cu câteva haine vechi şi groase.</p>
          </div>
-         <div type="chapter" n="8">
+         <div type="chapter">
             <p>Se făcuse noapte de demult şi fata coanei Ma-riţa nu venise.</p>
             <p>Artista în broderii naţionale nu se culcà, citea <title>«Universul»</title>.</p>
             <p>— Dumneata nu te culci, coană Mariţo? în-trebă Anica, deşteptându-se.</p>
@@ -370,7 +368,7 @@
             <p>Anica era mulţumită că a scăpat sănătoasă, din zăcere, căci, drept vorbind, îşi iubea puţin pruncul, poate pentrucă prea mult suferise din cauza lui. Numai în prima noapte de găzduire la coana Mariţa cât suferise, pe când la trei paşi departe de caSa din care era să fie svârlită ca un ou clocit, tatăl fetei dormia neturburat, credea ea, pe căpă-tâiul lui.</p>
             <p>- «Eu i l’aş arunc peste gard! zise-se într’o zi Zamfira, privind în curtea vecină. Norocul lor că ne mutăm de aicea, că n’aş putea să tac, dând mereu ochii cu ei!».</p>
          </div>
-         <div type="chapter" n="9">
+         <div type="chapter">
             <p>Doicitul Anichii avea sfârşit. După câtăva vreme dela înţărcarea pruncului alăptat de ea, femeia a rămas fără slujbă.</p>
             <p>Suta de lei, strânsă de demult, o slujea bine; fostele ei tovarăşe i-o dăduseră. Dar şi ea, suta aceia, avea moarte.</p>
             <p>Fira, cum îi scurtase maică-sa numele, împlinise un an şi mergea copăcel pe picioare. Era slăbuţă copiliţa, străvezie la faţă, nu avea destul sânge în vine, dar nu avea nici un cusur la chip.</p>
@@ -418,7 +416,7 @@
             <p>Sărbătoarea şi Duminica, regulat, Anica îşi târă fata din câmpul Teilor, până în mijlocul Bucureştilor.</p>
             <p>De multe ori nu putea să stea de vorbă, ba nici s’o vadă pe coana Zamfira. Naşa cea deşteaptă, cum îi zicea Fira, avea mosafiri, citea, cântâ la pian, nu era acasă; iar când îi primea sus, după câteva cuvinte, da Firei câţiva lei şi plecà în altă cameră.</p>
          </div>
-         <div type="chapter" n="10">
+         <div type="chapter">
             <p>Cărţile sfinte trimit cu putere şi statornicie, tocmai în conştinţa celui ce le cercetează mai amănunţit, o mireasmă adormitoare. Căci oricât de mare ar fi un păcat, el rămâne mic, un punct, pe întinsul câmp al atâtor cugetări, fapte şi mistere.</p>
             <p>Rabinul Solomon Weiss, aplecat pe talmud, reuşea să uite de Anica şi de copilul ei, de care îşi aducea aminte de cum da cu ochii de nevastă-sa şi de David.</p>
             <p>Se ferea de toată lumea rabinul; la templu şi la sinagogă se ducea numai când nu putea să lipsească.</p>
@@ -471,7 +469,7 @@
             <p>El nu scrisese Alianţei; abia o întrebase pe Berta, dacă ar voi să plece cu el în altă ţară. Iar Berta îi răsese în nas.</p>
             <p>Trecură ani întregi, patru ani, şi nici o altă scrisoare, nici o şoaptă măcar nu mai stricară liniştea remuşcărilor încete ale rabinului.</p>
          </div>
-         <div type="chapter" n="11">
+         <div type="chapter">
             <p>Zamfira, frumoasă, trufaşe, plină de visuri de noroc şi de glorie mondială, luată de năzuinţe, plecă într’o bună zi la Paris, lăsându-şi prinţ şi casă.</p>
             <p>Pe prinţ îl lăsă ca să se însoare; gospodăria, lucrurile cu greu într’o vreme strânse, le părăsi pe pe seama mă-si.</p>
             <p>In ziua despărţirii, zi de ceartă cumplită între mamă şi fiică, Zamfira îi poruncişe mă-si să se mute la mahala, într’o casă cu magazie mare, în care să puie lucrurile mai bune la păstrare.</p>
@@ -528,7 +526,7 @@
             <p>Avea acum de lucru; se gândea că banii pe care îi cheltuiseră şi ea şi fie-sa de când se născuse Fira, le îndreptăţeşte s’o socotească drept a lor, şi să se bucure de viitorul ei.</p>
             <p>Dar şi peste trei zile, coana Mariţa, nu se putu învrednici să-i scrie fie-si, mai umbrit, mai po-tolit, despre cuvântarea săpunarului Andrei.</p>
          </div>
-         <div type="chapter" n="12">
+         <div type="chapter">
             <p>In taina patului lor, de multe ori David şi Berta se întrebau ce rost avusese scrisoarea ano-nimă, care spunea desluşit că Solomon are o fe-tiţă, cu o fostă servitoare a casei, cu Anica, pe oare şi-o aminteau foarte bine.</p>
             <p>Cealaltă scrisoare, tot atunci primită, din aceiaş obârşie, desvăluia un adevăr, un secret necontenit şi cu noroc ascuns.</p>
             <p>Se putea oare să fie adevărată şi pâra ciudată şi caraghioasă din epistola primită de Berta?</p>
@@ -565,7 +563,7 @@
             <p>Rabinul avea nevoe decât de mulţi şi de cât de mari vinovaţi: pentru afurisită zi în care gre-şala lui putea să fie aruncată în balanţa judecăţii omeneşti, şi de aceia înclina să creadă destăinuirea scrisoarei anonime.</p>
             <p>Iar dacă tocmai cei din casă lui, cei mai fireşti apărători, ar fi fost curaţi ca omătul, c. negru ar fi trebuit să li se pară el! L-ar mai fi apărat ei? Negreşit că ei, cei dintâi şi până la ur.ă, trebuiau să-l ocrotească !</p>
          </div>
-         <div type="chapter" n="13">
+         <div type="chapter">
             <p>Tot ceiace pregătiseră împrejurările şi parcă de-terminaseră, cele câteva ciocane de rachiu pe care le subseşe săpunarul, anume ca să aibă curaj, dă-râmase şi împrăştiase.</p>
             <p>Răspunsul Zamfirei, lung, pe patru feţe, sosi curând la cucoana Mariţa.</p>
             <p>Cuprindea ocări asupra nerecunoştinţei ome-neşti, dar deplângea soarta bietei fete, acum de cinsprezece ani, «care va cădea in mizeria de mai înainte, alături cu ignoranţa părinţilor ei».</p>
@@ -663,7 +661,7 @@
             <p> — Ce drept? Parcă eu mă duc la poliţie? Să mă ferească sfântul de comisari! De-al de ăştia dau dreptate cui le numără în palmă. Eu am să mă duc da el, la domnul rabin! Ii ştiu numele, să nu crezi că l’am uitat! I’am aflat şi adresa! Cu cine vorbeşti? </p>
             <p> Speriată, Anica tăcea, că doar se va curmà vorba şi bărbatu-său va uità. Acelaş om însă, care se crezuse tatăl Firei, şi se dusese s’o judece pe coana Mariţa, în casa ei, nu da înapoi. Fira, slabă, de altă teapă, aproape pe moarte, nu puteà să fie fata lui şi nici măcar a Anichii,— femeia harnică, cu palmele crăpate, cu faţa arsă.</p>
          </div>
-         <div type="chapter" n="14">
+         <div type="chapter">
 <p>Erà pe la ceasurile nouă dimineaţa. David se pregăteà să plece de-acasă. La nouă jumătate aveà o întâlnire cu un deputat guvernamental, viitor ministru, care voià să-i sufle gazetarului câte-va vederi ale sale şi câte-va intrigi dibace, prin care, socoteà el că aveà să se prăbuşească mai de grabă fotoliul ministrului pe ducă.</p>
             <p>Când să iasă pe uşa antreului, David se lovì piept în piept cu un ins îmbrăcat prost, cu pantaloni creţi, cu pălăria în mână, cu fruntea asu-dată, întunecat şi gânditor.</p>
             <p>— Ce cauţi, dumneata? Cine eşti dumneata? întrebă David, supărat. Dă pe dincolo, pe la bucătărie !... Ce cauţi pe-aici?...</p>
@@ -724,7 +722,7 @@
             <p>— Poftim! îmi pierd vremea! La revedere!</p>
             <p>Strânse călduros mâna comisarului şi plecă.</p>
          </div>
-         <div type="chapter" n="15">
+         <div type="chapter">
             <p>Pe câud săpunarul sta de vorbă cu David, în casa Weiss, Berta se aflà în bucătărie. Intre nouă şi zece, dimineaţa, era şi ea gospodină. Cu mânuşi în mână, lungi până în coate, cerceta zarzavatu-rile, carnea, vasele, şi orânduia masa dela prânz aşi. cina.</p>
             <p>Ea nu auzise nimic din toată cearta şi destăi-nuirea.</p>
             <p>De pe màsa pe care se întinsese, ca o broască lovită în cap, Solomon, numai nervi şi auz, reu-şise să se deslipească şi să se razime de speteaza scaunului. El auzise uşa antreului închizându-se şi, după aceia îndată, paşi şi glasuri trecând din curte pe drum.</p>
@@ -783,7 +781,7 @@
             <p>«Venită din străinătate? în locuinţa asta?». Is-coditorul nu pricepea nimic şi nu se trudea să  afle.</p>
             <p>David se hotărâse să treacă zilnic pe-acolo, în trăsură închisă, până va vedea semne desluşite că e un mort în casă, sau să’şi zărească nepoata. Simţea nevoe s’o vadă, sau să  priceapă că n’o mai poate vedea.</p>
          </div>
-         <div type="chapter" n="16">
+         <div type="chapter">
             <p>Anica nici odată nu se putuse împotri voilor bărbatului ei. Ceia ce-i trăznea prin cap lui Andrei, se făcea faptă, fără nici o schimbare şi fără şo-văire.</p>
             <p>Când săpunarul a spus că se va duce, chiar a doua zi, să dea ochii cu tatăl Firei, Anica se  îm-potririse în felul ei. Mai multă putere ea nu putea pune. Se împotrivise aşa dar.</p>
             <p>Ca să nu le dea casă şi masă gândurilor, nesu-ferite ei totdeauna, Anica, în aşteptarea bărbatului, se apucase de spălat rufele din casă. Cu Fira n’avea ce vorbi; fetiţa nici nu fusese înştiinţată de hotărârea săpunarului, precum nici nu se pome-nise de tată-său adevărat.</p>
@@ -825,7 +823,7 @@
             <p>Ocrotită de mâna dreaptă a maică-si, Fira se culcă iarăş. I se părea ei că e uşoară, ca şi cum era golită de toate măruntaiele, c’ar sbura dacă ar sufla-o vântul. Numai capul i se părea greu. O cută a hainei o supăra sub un şold. Voi să se mişte tânăra de cincisprezece ani, şi gemu de durere. N’ar fi putut spune din care parte a trupului pornia durerea şi unde se oprea. Gemu. Coatele-i ascuţite voiră să se înalţe a desnădejde. Se ridicară de-o palmă.</p>
             <p>Pleoapele, ca de foiţă, se bătură de câteva ori greoi, printre buze trecu o încercare de cuvânt. Anica aprinse făclia de ceară. Fira ridică, de astă-dată şi coate şi palme, ca să le lase să cadă pentru totdeauna. Anica o pipăi, se răcise.</p>
          </div>
-         <div type="chapter" n="17">
+         <div type="chapter">
             <p>In arestul secţiei, bătut, umilit, lui Andrei îi trecuse prin minte să-şi părăsească nevasta şi să nici nu mai dea pe acasă. Toată vina sbuciumă-rilor şi a' suferinţelor lui, dela Anica i se trăgeau.</p>
             <p>Totuş, când a treia zi i se dete drumul, săpunarul veni întins spre casă. Pe toţi cei care întâmplător îl priveau, omul năpăstuit îi fulgera cu plumbul topit în sufletul lui.</p>
             <p>Inţelesese însă bine, că nici odată nu va putea să-şi plătească batjocura îndurată, dar pentrucă fusese închis atâtea ceasuri lungi, şi pentrucă des-nădăjduise de libertatea lui, acum când se găsea slobod pe străzile Bucureştilor, omul se înveselise oarecum. Ziua era de tot frumoasă: nici praf, nici noroi, nici zăduf.</p>
@@ -852,7 +850,7 @@
             <p>Săpunarul oftă şi dădu din umeri. Işi luase gândul răzbunării.</p>
             <p>FINE</p>
          </div>
-         <milestone unit="end" rend="line"/>
+         
 </body>
   </text>
 </TEI>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" 
-      xml:id="ROM010" xml:lang="ro">
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM010" xml:lang="ro">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -20,35 +22,31 @@
             <measure unit="words">63856</measure>
             <measure unit="pages">199</measure>
          </extent>
-         <publicationStmt>
-            <p>Încorporat în ELTeC<date>2019-l0-0l</date></p>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="printSource">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-11"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Încorporat în ELTeC2019-l0-0l--></publicationStmt>
+         <sourceDesc><bibl type="printSource">
                <author>Alexandru Vlahuță</author>
                <title>Dan</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>EDITURA PENTRU LITERATURĂ</publisher>
                <date>1964 (1894)</date>
                   <ref target="http://doi.org/10.5281/zenodo.3407368">Facsimile on zenodo</ref>
-                              </bibl>
-         </sourceDesc>
+                              </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
-         <p></p>
+         <p/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
-            <language ident="ro"></language>
+            <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender key="M"></e:authorGender>
-            <e:size key="medium"></e:size>
-            <e:canonicity key="high"></e:canonicity>
-            <e:timeSlot key="T3"></e:timeSlot>
+            <e:authorGender key="M"/>
+            <e:size key="medium"/>
+            <e:canonicity key="high"/>
+            <e:timeSlot key="T3"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2019-11-11">Checked by releaseChecker script</change>
          <change when="2019-09-06">Initial TEI version generated.</change>
       </revisionDesc>
    </teiHeader>
@@ -64,18 +62,18 @@
             <p>de</p>
             <p>VALERIU RIPEANU</p>
             <p>SCRIITORI ROMÎNI</p>
-            <milestone unit="header" rend="line"/> 
+             
             <p>EDITURA PENTRU LITERATURĂ</p>
             <p>București 1964</p>
          </div>
          <gap unit="page" extent="1"/>
-         <div>
+         <div type="liminal">
             <p>DAN</p>
          </div>
          <gap unit="page" extent="1"/>
       </front>
 <body>
-<div type="chapter" n="1">
+<div type="chapter">
    <head>I</head>
 <p>Un ropot de aplauze, şi cortina de dril se lăsă pe mica scenă acoperită de ramurile a doi salcîmi. Zgomotul de glasuri amestecate se înteţi. Mamele primeau felicitări pentru succesul dramatic al copilelor.</p>
 <p>—    Un adevărat talent... Cine-ar fi crezut ?</p>
@@ -128,7 +126,7 @@
 <p>Ce mai ocazie pentru un tînăr cavaler să protesteze aici, şi să-şi plaseze cele mai galante şi mai parfumate complimente, pe cari le au totdeauna fabricate gata tinerii cu educaţie de salon!</p>
 <p>—    Aş, nu-i vorba de corvadă, domnişoară... da' nu ştiu, răspunse Dan, cu un glas trăgănat, avînd aerul de a se gîndi aiurea.</p>
 </div>
-   <div type="chapter" n="2">
+   <div type="chapter">
       <head>II</head>
 <p>Dan se deşteptă tîrziu. în odaie era o căldură ne-suferită. Şase ani de cînd era în Bucureşti; şi-ntotdeauna vara, după examene, îl apucau aceleaşi gînduri urîte : să nu s-aleagă şi el la sfîrşitul anului, cu cîteva sute de lei, ca să se poată urni, să se ducă undeva, la munte, să se mai răcorească ! Simţea în el o lene, o osteneală ş-o nelinişte apăsătoare.</p>
 <p>Era aşa de zdrobit şi de îndurerat fiziceşte, încît efortul de care avea nevoie ca sa se scoale din pat i se înfăţişa ca o durere de care parcă-î era frică.</p>
@@ -150,7 +148,7 @@
 <p>...Dar cum i s-a încreţit pielea pe frunte, şi pe subt ochi! Şi aceste două crestături adînci pe amîndoi obrajii!... Parcă era mai alb şi mai întins la faţă.</p>
 <p>Ce capete sclivisite aveau aseară unii giovini <ref>9</ref>. Erau fardaţi, se vede, prea semănau a manechini din vitrinele bărbierilor. Cum dracu nu văd oamenii aceştia cît sunt de uricioşi şi de ridiculi aşa linşi, înfrizuraţi şi lustruiţi ca păpuşele de porţelan ! Şi, cu puţin necaz, îşi înfipse pieptenele în păru-i aspru, ce nu părea de loc dispus a se supune încericărei lui de a-şi alege o cărare în stînga, sfîrşi prin a-l da în sus cu mîna, după obicei, îşi luă pălăria şi ieşi.</p>
    </div>
-   <div type="chapter" n="3">
+   <div type="chapter">
       <head>III</head>
       <p>În cămaşă, descheiat la gît, cu părul vîlvoi, foarte aprins şi năduşit la faţă, Cezar Priboianu stă la o masă, plecat pe un teanc de foi patrate de hîrtie albastră, şi scrie zorit articolul de fond. E gras — adecă pare gras, pentru că-i aşa buhav la faţă, şi voluminos — ochii mici, verzi, duşi în fundul capului, fruntea congestionată, nasul gros şi puţin turtit la vîrf, o barbă roşcată şi neîngrijită îi acopere mai mult de jumătate figura. El e directorul şi primul-redactor al ziarului <hi>Alarma</hi>. Singurul copil la părinţi, fusese dat de mic în-tr-un pension de fete, la Cîmpulung, unde tată-său avea o mică fabrică de apă gazoasă. Acolo şi-a făcut el cele patru clase primare. Mă-sa îl răsfăţa şi nu-l lăsa niciodată să se joace cu băieţi de seama lui, ca să nu ia apucături rele. Băiatul creştea ca o floare delicată într-o seră. Era drăguţ, cuminte, şi la expoziţia de lucru a pensionului, în toţi anii, avea şi el horbote împletite, dantele şi monograme cusute pe batiste de mînuşiţa lui. Adus 1a Bucureşti, fu pus într-un pension de băieţi de astă dată, cu toată părerea de rău a mă-sei, şi învăţă bine — cam sfiicios la început, dar s-a dat la brazdă. O dată l-au prins băieţii în dormitor lucrînd cu croşetul la o faţă mică de masă, ş-atîta l-au rîs, că l-au dezgustat pentru totdeauna de acest <hi>talent</hi>, care făcuse gloria copilăriei lui şi la care mă-sa ţinea aşa de mult. După ce-a trecut examenul de bacalaureat, s-a înscris la Drept. Dar acum era liber, şi viaţa de cafenea, ştren-găriile cu prietenii începură a-1 atrage. La început farmecul necunoscutului, nevoia de a-şi cheltui forţa înmagazinată a tinereţei lui virgine, în urmă deprinderea, lipsa de voinţă, discurajarea, acea opresiune a timpului pierdut care se lasă din ce în ce mai greu pe conştiinţa celor abătuţi din cale, un fel dş silă distrugătoare şi de neîncredere în el l-au făcut să-şi piardă patru ani fără să se poată hotărî a trece un examen. Un prieten, corector la <hi>Steaua Romîniei</hi> <ref>10</ref>, l-a luat o dată la redacţie ca să-i ajute. Cînd s-a văzut stînd la un colţ de masă şi făcînd şi el ceva în cercul acesta de oameni importanţi, cari ţineau spiritul naţiunei în vîrful condeiului lor, ceva cald parcă i s-a ridicat de la inimă la cap ş-a simţit trezîndu-se în el un dor nedesluşit, o nelinişte, care îi dedea arsuri pe inimă, dorul de a fi şi el ceva în lumea asta, de a se apuca şi el de-o treabă.</p>
 <p>Peste cîteva luni făcea parte din redacţie. Era cel mai entuziast, cel mai harnic şi nu cel mai puţin inteligent dintre tinerii care făceau, cum se zice, bucătăria gazetei: traduceri, informaţii, dări de seamă, cronici teatrale, din ce în ce mai bine scrise, ce nu poate un tînăr la douăzeci de ani, cînd s-aşterne cu dragoste şi cu entuziasm să facă ceva ?... îşi găsise vocaţia. Acum părăsise cu totul gîndul de a mai da pe la universitate. Pleca dimineaţa şi nu se mai întorcea acasă decît noaptea, de obicei foarte tîrziu şi rupt de osteneală. Cea mai mare parte din zi o petrecea la redacţie. Restul timpului, la birt, la cafenea, la berărie, şi seara, de două ori pe săptămînă, la teatru. În viaţa de ziarist adesea intră ca o parte necesară apucăturile acestea de boem.</p>
@@ -208,10 +206,10 @@
 <p>—    E, domnule director, am şi eu utopiile mele, de mult visez o şcoală, un ideal de şcoală, unde băiatul să vie cu plăcere, să-i fie drag să-nveţe, nu pentru o diplomă, ci pentru a-şi satisface neliniştea, nevoia firească a minţii lui, o şcoală unde să nu fie examene, şi note, şi apel nominal, unde profesorul să fie un prieten bun al elevilor, pentru ca aceştia să-l iubească, să le fie dor de el cînd nu-i de faţa, să li se pară că-i aud mereu cuvîntul lui, blînd şi înţelept, toată viaţa să-şi aduc-aminte de ce-au învăţat cu el la şcoala... în sfîrşit, ce să-ţi mai spun ? Cînd vei fi ministru de culte, îţi voi expune pe larg planul meu de organizare !...</p>
 <p>Şi Dan sfîrşi c-un gest mare, exagerat, ca şi cum ar fi rîs de vorbele altuia.</p>
    </div>
-   <div type="chapter" n="4">
+   <div type="chapter">
       <head>IV</head>
 <p>Dacă pleci din Bucureşti cu trenul care merge spre Predeal, după trei ceasuri de drum — bineînţeles acci-dentele nu intră-n socoteală — şi dacă lenea şi lipsa de dragoste pentru priveliştile naturei te ţin pironit pe bancheta ta plină de purici — să nu te plîngi, cititorule, că nu te-a prevenit nimeni — începi a vedea tot mai des nălucind pe la ferestre rampele podurilor, şi-n aceeaşi clipeală auzi vîjîind pe sub vagon o apă repede şi puternică, ce parcă numai cu acest vuiet al ei îţi dă o senzaţie de răcoare; apoi, dealuri neregulate, din ce în ce mai strînse, mai apropiate, încep a se ivi pe la ferestre, ca nişte pumni monstruoşi, ameninţători, ce parc-ar voi să spargă geamul, să te provoace : scoală, călătorule, c-ai intrat în umbra îmbătătoare a Carpa-ţilor, scoală de vezi munţii cum se ridică nainte ca nişte domuri colosale în ruină, şi Prahova cum fuge, se îndoaie şi şuieră, ca un şarpe formidabil, sub roţile vagoanelor. Priveşte. S-a dus monotonia cîmpului ras. De-aci încolo, clipeşti, şi alt tablou, altă vedere ţi se deschide. Valea se îngustează, de o parte şi de alta maluri surpate, dealuri rupte, prăpăstioase, ca nişte animale fantastice, îşi arată pîntecele desfăcut, cu urme de rugină roşii ca sîngele, pe sus stînci urieşe, diforme, se încalecă, se-nghesuiesc, unele parc-au plecat, ş-o dată s-au răsgîndit, cîte un „in-folio” gigantic îţi dă închipuiri fabuloase. Trenul urcă mereu. Din cînd în cînd vezi şoseaua încingînd ca un brîu puternic şoldurile munţilor. Pe albia-i neregulată, Prahova, verzuie, păstrând încă sălbătăcia şi răcoarea munţilor din cari-a ieşit, aci parcă se leneveşte, se-ntinde molatic, ca braţul ostenit al unei cadîne frumoase, aci spumegînd se repede cu furie şi strigă parcă de frica stîncilor ieşite din pămînt, ca nişte mîni schiloade ce vor s-o cuprindă. Deodată vezi înaintea trenului că drumul se închide, un munte năruit astupă valea de-a curmezişul ; dar o gură neagră se cască în masa vînătă de piatră, toţi se reped la geamuri să le închidă, intri-n întuneric. E primul tunel, apoi altul, şi valea se lărgeşte, codrii întunecaţi îmbracă înălţimele, se întind, se scoboară tot mai aproape, valea se îngustează iar, în dreapta un părete verde-închis — te miri cum stau copacii — dar în stînga începe să s-aşeze un platou la poalele brădi-şului, din care iese gol masivul Bucegiului. Sus pe platou apar vile, din balcoane copii şi bone salută trenul cu stăruitoare fluturări de batistă. Şi ce curios răsună pe-aici, repercutat, huruitul roţilor şi gîfîitul greu, puternic al maşinei. Un şuier lung, speriat, aproape jalnic, trezeşte somnul codrilor, toată valea auieşte de-un ecou frumos, muzical... Sinaia.</p>
-      <milestone unit="header" rend="dots"/> 
+       
 <p>E dimineaţă ; apele aburesc ; somnoroase, vilele încep a-şi deschide ferestrele, ţăranii cu cai pregătiţi de ex-cursiune aşteaptă pe la porţi ; cîte un domn cu ochii împainjiniţi, în cămaşă de noapte, iese-n balcon şi, scărpinîndu-şi coastele, stă cîtva buimac, cu privirea dusă, uitită — copacii par osteniţi, asudaţi: clopotul din deal, de la mînăstire, răsună ca-n pădure, clar, tremurător, duios. Piscurile munţilor se auresc. Sinaia e în umbră. Copii veseli, aduşi la grădină de bone ce fac pe melancolicele, se joacă, aleargă, sub picioruşele lor sună prundul de pe aleele dispuse în amfiteatru, Între cele două oteluri principale. începe lumea să iasă la plimblare. Jos, în parcul de sub ferestrele hotelului „Caraiman”, s-a înfiinţat obicinuita partidă de crochet. Mulţi tineri se opresc<ref>16</ref> în loc sa privească, nu că jocul în sine ar prezinta vreun interes pentru spectatori, dar între parteneri sunt cîteva domnişoare drăguţe, şi între acestea, în primul rînd, e cunoştinţa noastră de la pension, Ana Racliş. Şi, oricum, e o plăcere să te uiţi la o fată frumoasă. Dacă pe stradă, şi-ntorci capul după ea, şi parcă-ţi pare rău că trece aşa, inconştientă de ce fior îţi lasă ; dar cînd poţi ceasuri întregi să stai deoparte şi s-o priveşti cum umblă, cum rîde, cum îşi ridică braţele, cum îşi mlădie trupul... Cel puţin, aceasta trebuie să se petreacă în gîndul domnişorilor de pe de lături, cari de-o oră nu găsesc altă-ceva mai bun de făcut decît să se uite la un joc despre care sunt de acord cu toţii că e cît se poate [de] anost şi la care-ar fi foarte fericiţi să ia şi ei parte.</p>
 <p>Ana, c-o pălărie mare de paie dată cam pe ceafă, într-o rochie de flanelă albă cu dungi albastre, umbla, legănîndu-şi capul şi trupul ca un copil răsfăţat, vorbea tare, rîdea de toate cele. Privirea, gesturile, toată fiinţa ei avea un aer ştrengăresc, care-o prindea de minune. Un ofiţer din roşiori iar îşi ciocni tocurile şi, drept ca-n faţa unui superior, nu ştiu ce-i mai spuse — ceva de haz, probabil, că ea începu să rîdă cu hohot şi, ridi-cîndu-şi capul, ca o vrabie care bea apă, o dată conteni din rîs şi făcu ochii mari ca de ceva neaşteptat...</p>
 <p>— A, domnu Dan, bună dimineaţa, cînd ai venit ? Dă-te jos, c-am să-ţi spun ceva.</p>
@@ -247,10 +245,10 @@
 <p>—    Vezi Albert, trebui să-mi fii recunoscător, numai mie-mi datoreşti asta.</p>
       <p>După masă Dan se duse să-şî scrie foiţa pentru jurnal, ca să fie liber a doua zi. Era cald. Lumea se retrăgea prin odăi. Pe-o bancă umbrită de brazi, Ana citi cu Albert articolul din Alarma. Era o dare de seamă, asupra unei cărţi de curînd apărute în Franţa: <foreign><title><hi>L'irréligion de l'avenir</hi></title></foreign> de Guyau <ref>5</ref>. După ce expunea în scurt cuprinsul volumului, arăta influenţa binefăcătoare pe care o va exercita asupra tinerimei, filozoful modern ce deschidea, prin ideile lui generoase şi umanitare, un nou cîmp de cercetări şi de discuţii, un nou mod de a înţelege lumea şi viaţa.</p>
    </div>
-   <div>
+   <div type="chapter">
         <p> „Veacul care vine, sfîrşea articolul, s-anunţă bine. Peste melancolia şi descurajarea pe care a împrăştiat-o în sufletele noastre, a tinerimii de azi, filozofia amara şi dizolvantă a lui Schoţenhauer, glasul lui Guyau se ridică, mîntuitor, ca un cîhtec profetic, divin, care cheamă la viaţă şi la simpatie.” </p>
    </div>
-   <div>
+   <div type="chapter">
 <p>—    Ce cap distins, zise Albert gînditor, şi. cum seamănă c-un profesor tînăr de la Berlin, Ering !</p>
 <p>—    Da’ să vezi lecţii ce face la pension ! Noi rămî-neam cîteodată extaziate, şi cînd ieşea din clasă, nici nu mai ştiam unde ne găsim.</p>
 <p>—    Păcat că nu-i tata altfel de om ; i-aş spune să facă cunoştinţă mai de-aproape cu el.</p>
@@ -284,7 +282,7 @@
 <p>Lambrino ieşi ; bătrînul încuie uşa după el. Cînd s-a însurat, avea patru moşii mari; ş-asupra împrejurărilor în care le-a vîndut, gîndurile lui se opreau acum ca la nişte date importante, ce-i împărţeau viaţa în epoce deosebite. Ana s-a născut... înainte de vînzarea Cristeş-tilor ; Caterina, nevastă-sa, a murit în anul în care a vîndut Sălcuţa, a treia moşie. Atîţia ani fusese prefect, apoi ambasador pe la curţile străine, fără să primească un ban de la stat. „Cine are avere e dator să-şi slu-jască ţara lui fără leafă ; destui lefegii are ţara asta.” Aşa zicea el, şi, pe unde a fost, a lăsat amintiri de luxul şi de dărnicia lui de „boier mare”. Dar acum îşi făcea mustrări, suferea, nu pentru dînsul, el a trăit... Cum nu s-a gîndit la Ana ? A fost slab, laş, fără voinţă. S-a lăsat dus de nas şi tras pe sfoară de toţi şarlatanii cari-l linguşeau ca să-l adoarmă; şi l-au adormit. Cum nu s-a deşteptat, cum nu s-a gîndit la copilul lui ? Un sentiment de groază, analog cu acel pe care-1 avem cînd ne visăm căzînd de la înălţimi mari, îi strîngea inima ; i se părea că-nnebuneşte. Se vedea vinovat, neputincios, netrebnic în faţa unui ireparabil dezastru.</p>
 <p>Ca o lumină tremurătoare de opaiţ, care aruncă pe păreţi în proiecţiuni mari, fantastice, umbra lucrurilor de nimic, conştiinţa lui slabă, nedeprinsă cu nevoile, apucată de o frică de sălbatic în faţa vieţii pe care n-o înţelegea, îi exagera toate în proporţii spăimîn-tătoare.</p>
    </div>
-   <div type="chapter" n="5">
+   <div type="chapter">
       <head>V</head>
 <p>Pe cai de munte, mărunţi, puternici şi cuminţi, „caravana” urca la pas printr-o rărişte de mesteacăni. Peruianu cu Lambrino, înainte, discutau politică şi finanţe. Peruianu era un avocat mediocru, dar învîrtea afaceri cari nu mai erau mediocre. Foarte activ, totdeauna grav la faţă şi la vorbă, de o cinste exemplară în lucrurile mici, şi de o rară prudenţă în cele mari. Era de patruzeci şi cinci de ani şi-şi păstra curată reputaţia lui de om drept şi dezinteresat. De opt ani administra averea unei milionare bătrîne, care trăia la Paris. Lumea ştia că-i bogat, dar cît îi de bogat, asta el o ştia. Numai zestre luase aproape un milion. Nevasta lui, soră cu Racliş, o femeie limfatică, bolnăvicioasă, sta mai mult în casă şi-şi îngrijea de cei patru copii, doi băieţi mici, fetiţile mai mărişoare, frumuşei toţi ca nişte îngeraşi. îşi iubea bărbatul şi se uita la el ca la un om superior, impecabil, a cărui seriozitate, posomorită, aspră uneori, era pentru ea semnul exterior, îmbrăcămintea firească a forţei ş-a distincţiei lui. De altfel, ea ştia bine că nici în lume Mişu ei nu prea vorbeşte, şi zîmbetele lui sunt remarcate şi se ţin minte ca nişte evenimente.</p>
       <p>Dar el muncise, muncise mult ca s-ajungă aci. Şi nu trebuie să se uite c-avea şi ceva stare de la părinţi cînd s-a însurat. Cine în adevăr se ridicase vertiginos de repede şi de sus era prietenul Lambrino. Fiul unui arhitect, care s-a sinucis în urma unei antreprize neno-rocite, se văzu la vîrsta de 20 de ani rămas fără nici un sprijin la Paris, unde-l trimesese tată-său ca să facă arhitectura. Prietenii îl ajutară vro două luni, îl sfătuiau să se întoarcă în ţară, să facă Dreptul; era băiat frumos, vioi şi seducător la vorbă. De două ori au făcut chetă studenţii pentru repatrierea nefericitului lor amic. Era în timpul expoziţiei <hi>„celei mari”</hi>. De-o lună toţi îl credeau dus — dispăruse. Dar într-o zi un prieten îl întîlni în expoziţie la braţul unei rumene negustoresc — se vedea după găteala ei zorzonată şi bătătoare la ochi — ceva mai în urmă, o fetiţă de vro paisprezece ani ameţea cu nesfîrşitele-i întrebări pe-un domn gras, cu figura plictisită, a cărui vestă albă se întindea la infinit pe-o burtă fenomenală. După un ceas îl întîlni iar, de astă dată domnul cu burtă lipsea. Mai tîrziu au aflat prietenii că Lambrino devenise inseparabilul doamnei şi domnişoarei Marcachi Spiridon, spre marea mulţumire a soţului, care numai astfel putea să-şi petreacă în linişte toată ziua la expoziţia de maşini şi industrie, singura secţie care interesa comerciul său ; căci el nu venise atîta drum ca să caşte gura la fleacuri şi la tablouri cari reprezintau femei despoiate ; el venise să facă cumpărături şi comande pentru marile lui magazii de fierărie din Bucureşti. Patru ani după asta, Lambrino se însura cu domnişoara Marcachi. Lumea spunea că trecuse cam ostenit din braţele mamei în braţele fiicei ; dar lumea spune multe ! Capitalul socrului îi asigură un colegiu în capitală. În Cameră se distinse ca un orator de forţă. Citise cu pasiune biogra-fiele oamenilor mari politici, discursurile lor le ştia pe dinafară ; ambiţios, fără scrupule, dar dulce la vorbă şi mlădios cu toată lumea, înţelegînd perfect jocul grupărilor politice ale zilei, el, în nerăbdarea lui juvenilă, se ilustră chiar din prima legislatură prin cîteva volte de o adresă şi agilitate în adevăr artistice. „E un băiat cu viitor mare”, spuneau bătrînii. După trei ani avu durerea de a-şi pierde soţia. îi rămînea un singur copil, Albert. La un an se însura cu d-şoara Racliş. Era grăbit.</p>
@@ -377,15 +375,15 @@
 <p>—    Da, zise Albert, dînd din cap; e teribil!</p>
 <p>Şi amîndoi tăcură, simţind că au aceleaşi gînduri.</p>
    </div>
-   <div type="chapter" n="6">
-         <div>
-      <head>VI</head>
+   <div type="chapter">
+         
+      <p><label>VI</label></p>
 <p>Dan se întorcea de la redacţie pe-o căldură tropicală. Zgomotul trăsurilor, strigătele precupeţilor, vorbele trecătorilor pe stradă îi intrau în cap ca-n ceva gol, cu un răsunet neobicinuit. El îşi lăsă gîndurile leneşe să alunece peste impresiile din urmă, neizbutind să le fixeze pe ceva ; le simţea jucînd, împrăştiindu-se şi împărechindu-se bizar, ca nişte alice pe-o farfurie care se mişcă: confidenţile lui Albert, logodna cu Miba, raporturile lui curioase cu tată-său i se păreau un roman citit de curînd, în care se amestecau figuri misterioase de conspiratori poloni, faţa tăiată şi plină de sînge a ţăranului Radu, alături de chipul nobil, rumen şi-nveselitor al Anei ; şi cele două surori ale lui, cu nedespărţitul unchi, îi reveneau mereu în minte, figurile lor se multiplicau, ca din reflectarea unor oglinzi paralele, şi un sentiment de nelinişte, de osteneală, de apăsare morală îl grăbea spre casă, ca pe-un om care simte că-i vine rău şi se teme să nu cadă-n stradă. Pe drum scoase iar scrisoarea şi citi, cu pofta chinuitoare pe care ne-o dau uneori lucrurile triste şi crude :</p>
-   </div>
-   <div type="letter">
+   
+   
       <p>„Grecul a murit în postul Sîmpetrului, şi noi stăm cu moşu, Aglaia de astă-iarnă e paralizată şi nu se dă jos din pat...”</p>
-   </div>
-   <div>
+   
+   
 <p>Mai citi o dată şi rupse scrisoarea, aruncînd în mersu-i bucăţică cu bucăţică — păreau nişte fluturaşi albi ce-i zboară din palmă şi se aşază osteniţi pe urmele lui. Acum cuvintele din scrisoare i se repetau obsedant în minte... „Grecul a murit...” Şi gîndul că s-ar putea ascunde o crimă subt acest mod brutal de a vesti moartea unui om cu care atîţia ani ai mîncat din acelaşi blid ş-ai dormit în acelaşi pat la început îi licări, şters şi tremurător ca într-o aţipire de somn, apoi i se roti tot mai strîns, tot mai înfierbîntat, pînă ce i se înfipse, ca un piron, în cap, şi-i rămase acolo cu forţa convingătoare a lucrului văzut. Şi pe cînd fantazia lui surescitată cerca să reconstituie drama în crudele ei amănunte, un văl de groază şi de ruşine simţea că se lasă peste cele mai scumpe şi cele mai duioase amintiri ale copilăriei lui.</p>
 <p>—    Unde mergi, poete, aşa gînditor ?</p>
 <p>—    Domnule Razi... te rog, nu-mi mai zice „poete”.</p>
@@ -434,9 +432,9 @@
 <p>împreună...</p>
 <p>—    Cum nu ! Cu cea mai mare plăcere. Ş-am să te petrec şi la gară...</p>
 <p>Dan simţi că pronunţase prea tare vorbele din urmă. Neliniştea, nevoia de a se mişca îl făcu să se uite la ceas : era aproape vremea mesei. Ieşiră, jenaţi că nu mai găsesc nimic să-şi spună, simţind că amîndoi se gîndesc la acelaşi lucru, de care se păzeau să vorbească : Albert, din discreţie, Dan, din mîndrie.</p>
+   
    </div>
-   </div>
-   <div type="chapter" n="7">
+   <div type="chapter">
       <head>VII</head>
       <p>Drăghici era fiul unui toptangiu de pînzeturi, Hagi Epachi din Iaşi, care-n adevăr dăduse două falimente, dar nu aşa mari după cum se zicea : tot să-i fi rămas bătrînului, din atîta zdruncen, zece mii de lire turceşti, că el aşa-şi socotea paralele ; acum se retrăsese la moşia lui în judeţul Vaslui, îşi măritase fetele, una după un doctor, alta după un avocat din Roman, băiatul îi ieşise printre cei dintîi din şcoala militară, bătrînul îi trimetea patru sute de lei pe lună, ca să aibă Nunuţul lui cu ce-şi ţinea <hi>„grantu”</hi> în lumea nobilă în care trăia.</p>
 <p>Locotenentul era bine făcut, frumos, totdeauna vesel, excelent conducător de cotilioane, trecea de foarte bogat, croitorii îi făceau haine pe datorie, superiorii îl ocroteau, camarazii îl găseau de spirit, cocoanele începeau să rîdă cît îl vedeau. Era în garnizoană la Bucureşti. De trei săptămîni venise la Sinaia în congediu. Cu doamna Lambrino se cunoştea de mult. Într-o zi îi spuse, între două glume, că e pe tabloul de înaintare, ş-o vorbă a domnului Lambrino i-ar pune imediat a treia tresă la chipiu. Ea îl tachina :</p>
@@ -471,7 +469,7 @@
 <p>—    Dacă-i aşa...</p>
 <p>Şi Drăghici nu s-a mai întors la Sinaia.</p>
    </div>
-   <div type="chapter" n="8">
+   <div type="chapter">
       <head>VIII</head>
 <p>Dan se sculă de dimineaţă, hotărît să stea în casă toată ziua şi să scrie. De mult nu mai scrisese versuri, şi parcă-l apucase dorul, ca de-o fiinţă iubită, de-un vers cald, puternic şi sonor, în ritmul căruia să simtă bătăile propriei lui inimi. Era duminică, şi-i era dragă odăiţa asta curată şi liniştită, în care se mutase numai de două zile ; era o casă albă, veche şi simplă, în mijlocul unei curţi largi, cu tufe mari de soc şi de lilieci în faţă, şi-n fund copaci bătrîni; şi era toamnă, şi frunzele îngălbenite, cari se scuturau cu un fior misterios de regret, aveau ceva din melancolia sufletului lui.</p>
 <p>Dan ridică transparentul. Afară era moină, cernea de sus o bură măruntă. Cînd deschise fereastra, un zgomot de trăsuri depărtate năvăli în odaie, ş-un miros plăcut de cîmp şi de pădure udă îl izbi în faţă.</p>
@@ -491,20 +489,12 @@
 <p>Luă o carte, citi de cîteva ori aceeaşi pagina ş-o lăsă. Se aşeză la masă şi-şi deschise caietul de versuri, vechiul lui caiet cu colţurile-ndoite, ale cărui scoarţe vinete, pătate de stearină, îi aduceau aminte nopţi de neodihnă, momente de discurajare, cînd, după ceasuri de munca, adesea stearpă, ostenit ca de-o luptă c-un vrăjmaş invizibil, îşi lăsa caietul pe flacăra luminării şi, întorcîndu-se cu faţa la părete, îşi continua, în întuneric, involuntar, căutarea unei forme ce i se părea c-o prinde, amăgitoare ca o himeră, vecinica alergare a minţii chinuite de setea perfecţiunei. Dan nu era poet. îi lipsea zborul, spontaneitatea, topirea şi turnarea repede a emoţiunei în tiparul limbei; îi lipsea — vedea el bine — acea fluiditate de gînduri ce par a-şi nimeri dintr-o dată forma proprie, fraza clară, cu sensul, ritmul şi sonorităţile cerute, cuvîntul predestinat, fix şi etern ca un adevăr. La el versul se urzea încet, c-o migăleălă penibilă, c-o tortură de minte adesea exasperantă ; şi gîndirea lui se resimţea de această stoarcere dureroasă, purta, parcă, semnele forcepsului, marca unei scîrşniri, a unui chin de facere. Versul era corect, supărător de corect, de o limpeziciune de cristal, dar focul, emoţiunea, care se toarnă deodată ca bronzul cît e fluid, lipsea mai din toate poeziile lui. Şi totuşi avea ceva curios de atrăgător aceste poezii în strălucirea lor rece de lună ; te puneau pe gînduri ca o marmură antică, cum zicea Graur adesea, vorbind cu o prietenească admiraţie despre severitatea de factură şi tăietura sculpturală a versurilor lui Dan. El se deosebise, de cînd era în şcoală, printr-o neobicinuită sobrietate şi preciziune de stil; era în clasa a patra gimnazială cînd profesorul de romîneşte, care nu prea avea obiceiul să citească lucrările şcolarilor, i-a scris pe compoziţie : „Foarte fru-moasă, dar de unde-ai copiat-o ?” Nici nu se putea un elogiu mai mare.</p>
 <p>Citise mult şi cu pasiune. Admiraţia aproape extatică de care îl umpleau operile marilor maeştri, ce i se înfăţişau ca nişte zei dintr-o altă lume, şi ambiţia precoce de a însemna şi el ceva în viaţă îi aţîţau şi-i concentrau într-un singur gînd toate puterile lui sufleteşti. Şi cum a avut o copilărie săracă şi neliniştită, a contractat de mic un fel de reţinere, de ezitare şi de sfială în tot ce făcea ; de aci frica de a-şi descărca impresiile, de a-şi turna gîndurile în prima lor formă.</p>
 <p>Dan îşi trase scaunul mai aproape : primul vers i se închegase. Şi cu slova lui măruntă, chinuită parcă şi ea, scrise încet, în fruntea paginei:</p>
-   </div>
-   <div>
-      <l><hi>„Tot visul meu de-odinioară... în ceasuri de singurătate”...</hi></l>
-   </div>
-   <div>
+  <quote>
 <p>și răzemîndu-şi condeiul pe marginea caietului, îşi răsuci o ţigară, dibuind al doilea vers. Forma aceasta de vers încăpător, lung afară din obicei, i se impunea ca o necesitate de cîte ori lăsa să treacă prea multă vreme între o poezie şi alta ; ca şi cum, după atîta aşteptare, gîndurile lui ardeau de dorul de a se vedea strînse în tiparul versului cu o îmbrăţişare mai lungă, mai caldă, mai plină de frenezie. Nu s-aşeza niciodată la scris pînă cînd nu-şi avea în cap un subiect lămurit şi cel puţin primul vers. Rima, de obicei, nu-l preocupa, era sigur că ea va răsări la sfîrşitul versului următor din însăşi încheierea frazei, va creşte ca o floare din dezvoltarea normală a ideii; totul era să înlăture cu luare-aminte orice umplutură, să găsească cuvîntul precis şi să-l planteze în lumina care-i trebuie ca să poată trăi. Un fir de zgură, o clătire de-o clipă în turnarea unui clopot, cine ştie dacă nu hotărăsc pentru totdeauna de claritatea sunetului...</p>
 <p>Dan îşi rezuma astfel subiectul poeziei pe care-o începuse : „M-apropii de treizeci de ani, şi eu n-am trăit încă. Din tot ce-am gîndit, din tot ce-am încercat să iubesc, nu m-am ales decît cu visul ; eu simt că am în mine un fond de bunătate şi de simpatie, şi nici pînă azi nu ştiu ce să fac cu el; cît am s-aştept ? cît am să stau cu braţele-ntinse spre ceva luminos, care-mi surîde şi-mi spune mereu că vine, şi nu mai vine ? Parc-aş începe ceva... parcă m-aş duce undeva... Şi mi-e frică, sunt aşa de singur... Unul, numai unul să mai fie, ce mare m-aş simţi în faţa vieţii! Ah, un prietin, un suflet care să mă-nţeleagă, şi să deştepte tot ce am bun şi doarme în păcătoasa mea fire ; să-mi întindă mîna şi să-mi zică : «Am venit, haide !»...”</p>
 <p>Gînduri de tînăr, agitat de nedreptăţile şi dezordinele vieţii, gînduri de visător al unei lumi mai bune, pe care-o vede posibilă, şi nu pricepe cum de nu vine mai curînd. Dan le purta de mult, şi le plămădea în el; acum i se păreau legate şi limpezite, aşteptau gata să s-aştearnă în poezie.</p>
 <p>Şi pe cînd îşi isprăvea a doua ţigară, simţi că i s-a-lege, ca dintr-o negură, întreg, versul următor. Luă condeiul, stătu puţin, neclintit, în cumpănă ; apoi se hotărî şi scrise:</p>
-   </div>
-   <div>
-      <l><hi>„Aceleaşi licăriri mă cheamă, ca nişte glasuri depărtate”...</hi></l>
-   </div>
-   <div>
+  </quote>
       <p>Şterse <hi>licăriri</hi> şi puse <hi>zări de foc</hi>; dar nici aşa nu-i plăcea — se necăji şi şterse versul tot, îl înnegri bine, ca să nu se mai poată citi. Se gîndi, se gîndi... Curios; cum i se păruse lui c-avea în cap, foarte lămurit, planul unei poezii ?... O vedea parcă desfăşu-rîndu-se şi curgînd agitată ca o apă mare de munte ; simţea vibrarea versurilor în gîndurile lui, le auzea, aici melancolice, tînguitoare, ca plînsul unui fluier depărtat într-un amurg de seară, aci răsunătoare, puter-nice ca strigătul de alarmă al trîmbiţilor într-o noapte de revoltă... Dar n-avea nimic : unde-i poezia ? Nici urmă de plan, nici o idee lămurită. Se-nşelase, ca acele femei obsedate de dorul maternităţei, cari au uneori toate simptomele unei sarcini, simt în ele copilul miş-cînd, şi-n duioasa, divina lor aşteptare, pregătesc seu-tice pentr-o iluzie.</p>
 <p>Dan şterse şi primul vers şi-nchise caietul.</p>
 <p>Se uită la fereastra din faţă : acelaşi gol căscat ca o gură în întunericul odăiei. Se întrebă dacă nu cumva visase...</p>
@@ -519,9 +509,9 @@
 <p>—    Nici pămîntul, domnule Vasile, ştiu eu...</p>
 <p>Şi Dan rămase singur în odaia lui tristă, din care privea zadarnic la fereastra din faţă. De-o lună n-o mai văzuse. Era iarnă : nopţi lungi, tăcute, de-o apăsare mortală. Fereastra Anei, vecinie îngheţată, îi făcea o impresie de pustiu. Numai alături, la două ferestre, se vedea seara lumină, ş-o umbra se purta mereu de colo-colo, era bătrînul, singur, care se primbla pînă tîrziu. Ce gînduri îl munceau ? Ce se petrecea în casa aceea ?...</p>
    </div>
-   <div type="chapter" n="9">
-         <div>
-      <head>IX</head>
+   <div type="chapter">
+         
+      <p><label>IX</label></p>
 <p>Racliş vînduse moşia şi casa, nu mai datora nimănui nimic ; achitase pe Lambrino pînă-ntr-o para, refuzînd, cu indignarea delicată a omului mîndru şi binecrescut, actul de generozitate al ginerelui său, darul de zece mii de franci pentru Ana.</p>
 <p>Fusese o lună la Paris şi se-ntorsese ceva mai bine. Doctorii îi recomandaseră linişte şi foarte puţină mişcare. Închiriase un mic apartament în strada Armaşului; aici sta cu Ana, căreia nu i se spusese nimic de toate aceste daraveri băneşti. Bătrînul şedea toată ziua în casă, făcea pasenţe şi era sigur că într-o zi are să se întîmple ceva — nu ştia ce — o minune, desigur, care-i va reface averea şi va pune lucrurile la cale din nou, aşa cum au fost. La ce dar să mai arate şi Anei un vis urît, prin care trec vremelnic, din care-or să iasă curînd, poate nu mai departe decît mîine ? Un zgomot de paşi pe scară, o vizită, o scrisoare dedeau mînilor lui slabe un tremurat supărător, imposibil de stăpînit, figura, ochii lui s-aprindeau de-o nerăbdare, de-o nelinişte care-i iuţea, într-un mod dureros, bătăile inimei.</p>
 <p>„Ha ? Ce? Cine e ?”</p>
@@ -574,12 +564,12 @@
       <p>Ana pune semn la o nuvelă din cartea lui Graur. Dan nu-şi avea un volum. Poeziile lui şi cîteva nuvele erau publicate prin reviste. Ana le are pe toate, tăiate cu foarfecă de pe unde le-a găsit şi lipite într-un caiet, pe a cărui scoarţă din faţă a scris, cu oarecari pretenţii de caligrafie : <hi>Proză şi versuri de V. Dan</hi>. Se uită prin ele frunzărind caietul... le ştie : toate sunt frumoase... Ce bine-i pare ! Pe acestea are să le citească la urmă, îşi face ordine pe biurou, îşi aşază-n teanc deoparte cele două cărţi şi caietul, avînd grijă a pune deasupra un cub de cristal, ca şi cum s-ar teme să nu le-mprăştie vîntul peste noapte. Ia lumînarea ş-o pune pe mesiţa de lîngă pat. In faţa patului e un dulap cu oglindă. Ana, gîn-ditoare, îşi descheie corsajul cu mişcări ostenite. Ea nu vede cit îi de frumoasă fata care se dezbraâă în oglindă. Dar cînd se pleacă să-şi dezlege şnurul de la ghete, simte-un fior prin spate, ca şi cum i-ar fi suflat cineva-n ceafă, ş-un zîmbet de surpriză rumeneşte puţin faţa ei distrasă : o aluniţă deasupra umărului stîng... ce curios lucru! Oare cînd i-a crescut ? Şi îndoindu-şi braţul, o pipăie cu degetul arătător, ş-o simte ca pe o insectă ce şi-a înfipt picioarele şi capul în pielea ei albă şi catifelată.</p>
 <p>Se culcă, dar nu-i e somn şi nu stinge lumînarea pentru că-i e frică să gîndească în întuneric... Ce-o fi avînd soră-sa de nu mai vine pe la ei ? S-o fi ameţit fumurile de ministreasă ?... E-n stare. Atîta pagubă. Cum a slăbit bietu tată-său ! Oare la ce se tot gîndeşte ? înainte era aşa de vesel. Cît n-ar da ea să-l vadă fericit! De ce nu vrea să-i spună ei ce are pe suflet ? O crede tot copilă, se vede. Dar ea acum înţelege toate, cugetă ca orice om cuminte. Săptămîna viitoare e bal la soră-sa. N-are să se ducă. Haz ar face să n-o invite... dar nu se poate ! Biata mătuşă-sa, ce viaţă de martiră ! Şi mereu bolnavă. E un om crud unchiu-său... De ce-o fi urînd el aşa pe literaţi ? Cică-s şarlatani... ce prostie ! Dan — şarlatan ! De mult nu l-a văzut. Cum ar vrea să se mai ducă la pension să-l audă... Sunt aşa de idioate fetele alea. Auzi, ce să le dea în gînd ? Să spuie pe acasă că ea iubeşte pe Dan... Ce neghiobie !...</p>
 <p>Şi stîngînd luminarea, închide ochii; aude cum vîjîie vîntul afară, inconştient, repetă mereu în gînd două versuri din Dan :</p>
-   </div>
-   <div type="verse">
+   
+   
       <l><hi>„Toată vibrarea unui suflet sub sfînta artei stapînire</hi></l>
       <l><hi>E o întindere de braţe după o rază de iubire...”</hi></l>
-   </div>
-   <div>
+   
+   
       <p><hi>„Toată vibrarea...”</hi> Ş-adoarme.</p>
 <p>Dimineaţa ridică storul, ochii ei somnoroşi cată-n sus, cerul e închis din toate părţile, apoi îşi lasă privirea peste liliecii uzi, un instinct îi atrage spre fereastra din faţă, şi Ana tresare, cunoscînd pe Dan, ca şi cînd s-ar fi pomenit cu el în odaie. Ea se retrage iute, îşi freacă ochii şi se uită-n oglindă, îşi ridică o viţă de păr care-i atîrna la ceafă ; se-ntoarce iar la geam, şi gîndul ei îl strigă, îi cheamă privirea lui dusă, oarbă... Parcă i-ar fi necaz că n-o vede. „De ce nu se uită-ncoace ? Eu aş simţi cînd m-ar privi cineva aşa.” Şi deschide fereastra, cu zgomot... ca s-audă ; n-a auzit, dar desigur a trecut ceva prin aer, că Dan o dată şi-a ridicat ochii la Ana, ca şi cînd l-ar fi strigat cineva de-acolo. Ea-l salută şi-i zîmbeşte.</p>
 <p>„Aş fi curioasă să ştiu ce gîndeşte de mine. Parc-a mai slăbit. Ce jenat e ! Bine că suntem aproape : am să mă uit, pîn’i-oi sugera gîndul să-mi fac-o poezie... Şi el o să creadă, poate, că-l iubesc. Atît mai bine.”</p>
@@ -621,7 +611,7 @@
 <p>—    O, ce cădere, ce nebunie, ce teribilă nebunie !...</p>
 <p>Şi-nchis în odaia lui, se primblă toată noaptea, cuge-tînd, în spaima oarbă a egoismului lui, nu atît la monstruozitatea faptei şi la nefericirea Anei, cît la răul ce-ar putea rezulta de aci pentru liniştea şi bunul lui trai.</p>
 <p>Ana tresare, se scoală buimacă ş-aprinde luminarea, în primul moment nu pricepe ce i s-a întîmplat, îşi duce mînile la tîmple şi cearcă să-şi aduc-aminte... îi arde şi-i huieşte capul, parc-a bătut-o cineva : tot trupul o doare; o taie, ca nişte cuţite, oasele de la corset; şi pe cînd se dezbracă, i se arată, ca la lumina unui fulger, groaznicul adevăr... Ce ruşine! Şi-şi acopere faţa-n palme, înmărmurită... Dar de ce n-a sărit nimeni la ţipătul ei ? Se vede că toţi au fost înţeleşi cu acel monstru, ca s-o piardă ! Odaia se tulbură, se-nvîrteşte cu ea... Parc-aude un zgomot; şi se repede la uşă de-ntoarce cheia. Tremură toată, i se pare că se scufundă parchetul unde calcă ; ia lumînarea şi se uită în oglindă, pe subt ochi două dungi vinete taie chipul ei de ceară ; o ustură obrazul, şi-l şterge cu scîrbă, parcă simte încă barba lui aspră, şi gura... uh, ce monstru ! şi se scutură, ca de fiorul unei năluci, o picătură fierbinte de stearină se varsă din luminare şi i se sleieşte pe mînă. Sufletul ei, zbuciumat ca o flacără-n vînt, are întunecări repezi de conştiinţă, clipiri de uitare şi deşteptări penibile, reverberaţii de groază. Şi mereu se întreabă dacă nu-i un vis tot ce vede, şi simte, şi gîndeşte. Nu mai poate de osteneală, se culcă, nu stinge lumînarea, căci ar muri de frică pe întuneric. Închide ochii şi se gîndeşte la viaţa ei, la tată-său ; şi, mai mult decît ruşinea, o umple o milă ş-o scîrbă ş-o desperare sfîşietoare — se simte singură şi cumplit de nenorocită ; cu faţa îngropată-n pernă, plînge pînă în ziuă, neavînd altă mîngîiere, altă zare de lumină, în noaptea şi deşertul vieţii ei devastate, decît gîndul, presimţirea c-are să moară... gîndul acesta binefăcător nu ştia nici ea cum i-a venit, dar îi umplea sufletul, îi acoperea durerea ca o speranţă de mîrituire apropiată.</p>
-      <milestone unit="header" rend="dots"/> 
+       
 <p>—    Ce e ? întreabă îngrijat bătrînul, văzînd-o aşa de dimineaţă, şi mîna stîngă începe să-i tremure.</p>
 <p>—    Nimic, tată, ce te sperii aşa ? Nu s-a întîmplat nimic.</p>
 <p>—    A murit Zoe ? spune... Ninico dragă, uite, sunt liniştit, spune-mi, te rog...</p>
@@ -639,13 +629,13 @@
 <p>—    O, nu, te rog, n-am nimic, uite, mi-a trecut.</p>
 <p>Ar mai putea să citească, dar e ostenită, trebuie să fie tîrziu.</p>
 <p>Ana-şi aprinde lumînarea-n odaie şi-ncuie uşa. Ideea c-ar putea aduce tată-său, fără voia ei, un doctor o înspăimîntă. De cîteva zile se simte slabă, la masă îi vine rău, are oroare de tot ce e mîncare, şi adesea osteneala ce şi-o dă ca să se stăpînească îi asudă spatele ş-o moleşeşte. Atît se deprinsese cu gîndul morţii, că în tot</p>
-   </div>
-   <div>
+   
+   
       <gap unit="graphic"/>
       <p>Carul pribegiei din 1916.</p>
-   </div>
+   
    <gap unit="page" extent="1"/>
-<div>
+
 <p>ce simte mai neobicinuit ea vede semne că i s-apropie sfîrşitul. Uneori o înspăimîntă închipuirea păcii şi golului etern; o sfîşiere crudă şi fiziceşte dureroasă, o greutate de foc i se lasă atunci pe piept ş-o arde, i se pare că i-a dat cineva brînci într-un abis, şi cade, cade mereu în întuneric şi-n necunoscut.</p>
 <p>Adesea noaptea, după ce stînge lumînarea, dă tran-sperantul la o parte şi se uită la fereastra lui Dan, vede lumină pînă târziu şi cîteodată i se pare că se mişcă ceva acolo, o dor ochii, aţintindu-i, dar nu distinge nimic, şi totuşi, cînd se stinge lumina, ii trece un fior de o tristeţă neînţeleasă, parcă s-a rupt ceva din viaţa ei.</p>
    <p>E dimineaţă. Racliş se primblă prin odaie, dă cu ochii de călindarul din părete şi-şi aduce aminte să-l descarce de ziua de ieri: <hi>marţi, 27 fevruarie</hi>; trece şi iarna asta; apoi îşi reia şirul gîndurilor: desigur bănuieşte Ninica, poate chiar ştie, şi de aceea nu vrea să vadă pe nimeni; iată patru luni aproape de cînd nu se mai duce nicăieri şi, cum vine cineva s-o vadă, se-ncuie-n odaie. Şi cum a slăbit, mititica de ea. Ştie, trebuie să-i fi spus cineva — Peruianu, poate; deşi se jură că nici n-a gîndit; dar atunci pentru ce s-a arătat dispus să mărească el zestrea Ninicăi — auzi obrăznicie, ca şi cînd Ninica ar fi orfană, ş-ar avea nevoie de pomana lui... Biata copilă! Ea ştie... şi ce delicată e, nici o vorbă de mustrare, căci ar avea dreptul să-l mustre, ca pe un părinte netrebnic ce a fost. Cu toate astea, are să-i spuie, da, are să-i spuie chiar astăzi, chiar acum, cînd o intra ; să-şi ia o sarcină de pe suflet; uite-aşa are să-i zică... sau nu, mai scurt: „Nino, fata mea, copilul meu cel mai iubit, am fost un nebun, nu m-am gîndit...” Nu, nu, nici aşa... de-a dreptul mai bine: „Suntem săraci, am căutat să...”</p>
@@ -657,9 +647,9 @@
 <p>De mult erau îmbrăţişaţi, şi plîngeau amîndoi, amuţiţi de durere, cînd uşa se deschide largă şi apare Zoe, vijelioasă.</p>
 <p>—    Ai spus tu să mă lase Mişu, ca să te ia pe tine ?</p>
 <p>—    Eu?</p>
-</div>
+
    </div>
-   <div type="chapter" n="10">
+   <div type="chapter">
       <head>X</head>
 <p>Peruianu, din ce în ce mai îngrijat de urmările acelui moment de pătimaşă orbire şi uitare de sine, venise mereu pe la cumnatu-său... Dar bine, să nu vadă pe Ana ?... şi se făcea că nu-nţelege ce însemnează sălbăticia ei de a se încuia în odaie şi a fugi aşa de toată lumea ; nici pe el nu vrea să-l vadă ?... asta nu putea să fie decît o boală, o manie; altfel, nu-şi explica,.. Bătrînul îi descria indispoziţiile copilei, lipsa de poftă de mîncare, tînjirea, ameţelile, groaza ei de doctor... şi-şi arăta presupunerile lui:</p>
 <p>—    Ea a răcit probabil de-atunci dimineaţa, de cum a venit am văzut că nu-i e bine... i s-a stricat sto-macu... şi asta i-a dat ca un fel de friguri, nu-i aşa că friguri trebui să fie ?...</p>
@@ -715,9 +705,9 @@
       <p>Invitaţiile primului bal căzuseră tocmai în timpul cînd se paria mai cu furie şi se conta mai mult pe divorţul amfitrionilor. <foreign><hi>„Quelle guigne!...“</hi></foreign></p>
 <p>Şi toate-au reintrat în matca lor obicinuită.</p>
    </div>
-   <div type="chapter" n="11">
-         <div>
-      <head>XI</head>
+   <div type="chapter">
+         
+      <p><label>XI</label></p>
 <p>Oare cînd o fiinţă care sufere se gîndeşte la noi, nu ne-o fi trimeţînd, cu gîndurile, şi o parte din suferinţa ei ? De cîte ori, mergînd pe stradă, sau stînd în odaia noastră, nu ne pomenim, deodată, cuprinşi de-o grijă nedesluşită, de-o melancolie vagă, care nu ştim de unde ne vine, ca un parfum de tristeţă ce trece prin aer şi s-abate asupra noastră ? Probabil că în momente de linişte, cînd propriile noastre patimi sunt potolite, şi cînd se face puţină tăcere-n noi, auzim mai mult din gălăgia vieţii care ne-ncunjoară ; conştiinţa noastră o fi tresărind, ca de nişte strigăte depărtate, de răsunetul suspinelor, de ecoul durerii celor pe cari-i iubim, şi sufăr, şi se gîndesc la noi.</p>
 <p>E cu putinţă ca ceea ce numim noi simpatie, în vecinica ondulaţie a vieţii, să se întindă, mult mai larg şi mai puternic, să aibă vibraţii mult mai depărtate şi mai străbătătoare decît cum le percepem noi cu simţurile şi mintea noastră de azi. Oamenii înzestraţi cu un sistem nervos excepţional de dezvoltat, naturile aşa-numite senzitive au presimţiri şi vederi la distanţă în adevăr uimitoare: semne izolate cari ne dau o idee, de pe acum, de ce-or să fie oamenii viitorului.</p>
 <p>Curios, Dan asculta pe Poteraş, şi i se părea că tot ce-aude îi deşteaptă reminiscenţi de fapte pe cari le ştia. De multe ori gîndul lui mergea înainte şi prevedea exact ce-are să-i spuie. Nu simţise el de-atîtea ori, în liniştea nopţilor lungi de iarnă, că se varsă-n sufle-tul lui valurile unei nemărginite suferinţi ? A, ştia el bine de unde-i vin acele gînduri de o sfîşietoare tris-teţă ; un glas misterios îi spunea adesea că îndărătul acelei ferestre întunecate e un suflet rănit de moarte, care tremură şi se vaită, fără nici o mîngîiere şi fără nici o speranţă.</p>
@@ -730,11 +720,11 @@
 <p>—    Bine, Dinicule, să ştii că te cunun... Ia lasă... ce, eşti nebun ?</p>
 <p>Poteraş se repezise să-i sărute mîna : a trebuit să i-o dea, ca să scape.</p>
 <p>Dan rămase singur. Un ceas se primblă prin odaie; simţea că-i urla capul, şi mereu îi veneau în gînd vorbele acestea : „un amor aprins în umbra unei dureri”... „o floare pe-o ruină” ; îl enervau, şi se hotărî să le scrie; se aşeză la masă, deschise caietul în care-şi nota el unele impresii — nu cel de versuri —şi scrise cu creionul: </p>
-   </div>
-   <div>
+   
+   
          <p>„Cum s-au cunoscut şi s-au iubit Dinu şi Măria lui“</p>
-   </div>
-   <div>
+   
+   
       <p>, apoi, în paranteză, vorbele cari-l obsedau. Cercă să cugete la Ana, la soarta ei, dar îşi simţi gîndurile ostenite şi risipite, ca nişte ostaşi învinşi după uri măcel cumplit. Tot înţelesul şi noima vieţii i se răsturnau în minte ; şi-n lume vedea atîta nedreptate, atîta dezordine, că-i venea nebunie de disperare, scîrşnea de inutilitatea deşertei lui revolte. Un gol imens i se făcea-n viaţă, şi nu mai putea gîndi nimic. Era aproape miezul nopţii. Se culcă, şi cînd stinse luminarea, băgă de seamă că era frig în odaie. Se ghemui în plapomă, atunci îşi aduse aminte iar de suferinţile şi iluziile copilăriei lui, şi, ca să-şi împrăştie vedeniile, începu să fluiere încet o arie din <title><hi>Traviata</hi></title>; adormi cu gîndul silnic că din toată viaţa lui n-are să s-aleagă nimic. Zilele treceau, şi Dan se gîndea tot mai rar la Ana. Uneori se întreba dacă-n adevăr a existat o fiinţă care-a trecut aşa, ca o lumină, prin existenţa lui, sau e numai o amintire mai vie din ce-a citit ori a visat odinioară ; alteori i se părea c-a murit. Într-o dimineaţă, la redacţie, uitîndu-se distras peste hîrtiele răvăşite pe masa lui papa Săndulescu, dete cu ochii de slova Anei: era o cartă poştală din Paris, prin care cerea să se trimeată ziarul acolo.</p>
 <p>—    Îţi mai trebuie asta papa ?</p>
 <p>—    Nu, i-am luat adresa, rupe-o... răspunse „papa”, fără să bage de seamă că Dan e puţin schimbat la faţă.</p>
@@ -750,42 +740,42 @@
 <p>—    Uf, nene, bine c-am isprăvit odată cu licheaua asta ! Şi Priboianu îşi desface braţele şi respiră mulţumit. Îmi sta pe suflet... Ce speţă de pungaş detestabil !</p>
 <p>Din ziua aceea Dan începe iar să se gîndească la Ana. Cînd îşi scrie foiletonul, parcă l-ar scri numai pentru ea, îşi citeşte fiecare rînd prin ochii şi mintea ei; parcă ceva din iubirea lui bolnavă, din dorul lui adînc şi trist se strecoară în fiecare frază ; ca un om care, vorbind, se ascultă în altul, aşa se observă el în cugetul ei, îşi urmăreşte cu luare-aminte toate gîn-durile cum străbat, cum vibrează şi răsună în ondu-laţiile sufletului ei.</p>
       <p>Într-o dare de seamă despre noul volum al lui Graur, <title><hi>Schiţe din trecut</hi></title>, găseşte prilej să scrie: </p>
-   </div>
-   <div>
+   
+   
         <p> „Aşa e. Cele mai sfinte visuri ale noastre se sfarmă uneori de suflarea unei clipe. De la un cuvînt pe care nu l-am spus la vreme, de la un pas întîrziat, de la un moment de nehotărîre atîrnă adesea fericirea noastră, direcţia si planul întregei noastre vieţi...”</p>
-   </div>
-   <div>
+   
+   
       <p>Altă dată, într-o poezie, <hi>Dor de ducă</hi>, îşi aşterne pe cele cinci coloane de foileton tot focul, toată neliniştea visurilor lui de o tristă, sfîşietoare nebunie: sunt strofe ce dau impresia unei căderi de braţe ostenite, a unei fatale renunţări la orice aşteptare, la orice licărire de speranţă :</p>
-   </div>
-   <div type="poem">
+   
+   
 <l><hi>„Nu vezi c-aceleaşi căi s-aştern</hi></l>
 <l><hi>Deşertei tale alergări?</hi></l>
 <l><hi>Că vraja unui vis etern</hi></l>
 <l><hi>Te soarbe-n şterse depărtări?...</hi></l>   
-<p></p>
+<p/>
 <l><hi>Din umbra ce la piept o strîngi</hi></l>
 <l><hi>În veci n-ai s-o-ntrupezi pe Ea!...</hi></l>
 <l><hi>Apleacă-ţi faţa-n mîini şi plîngi,</hi></l>
 <l><hi>Nebun, înamorat de-o stea!”</hi></l>
-   </div>
-   <div>
+   
+   
 <p>A venit primăvara. Acum stau la un loc Stelian, Graur, Petroni şi Dan, în casa lui Priboianu, din strada Fîntînii.</p>
 <p>Petroni a avut o tipografie pe care-a vîndut-o şi-a rămas dator vro două mii de lei; acum e în căutarea unui mic capital pentru a întreprinde un nou negoţ — de astă dată e sigur că s-ar îmbogăţi, acum s-a învăţat minte ; o lăptărie la Şosea ar fi o afacere minunată, şi, pe cînd ceilalţi îşi dau cu piciorul pe sub masă, el face socoteli şi dovedeşte, negru pe alb, că un capital de zece mii de franci ar aduce un venit anual net de cincisprezece mii de franci. Pînă una-alta, a primit un post de secretar la Teatru Naţional—    două sute cincizeci de lei pe lună — din care s-a hotărît să puie deoparte o sută pe fiecare lună, o să dea banii lui Priboianu sa-i capitalizeze; face jură-mînt să nu ia o para din ei pînă cînd nu şi-o realiza suma cu care să-şi poată începe afacerea. Dar aceasta, bineînţeles, rămîne pe „luna viitoare“.</p>
 <p>Ei mănîncă-n casă; le găteşte Maria lui Poteraş. La zece mai, eveniment mare: nunta lui Poteraş; toţi sunt solemni, în fracuri de-mprumut; cunună Dan, c-o mătuşă a lui Graur; cîţiva profesori şi jurnalişti sunt invitaţi; de la biserică vin acasă, unde-i aşteaptă un taraf de lăutari ș-o masă întinsă, cu mîn-cări reci şi băuturi şi mai reci; mirele şi mireasa, foarte jenaţi, stau în capul mesei, lîngă ei nunii, apoi ceilalţi invitaţi: Stelian schimbă tacîmurile, Graur toarnă prin pahaie ; Petroni a pregătit un mic discurs; şi cînd, cu un gest tragic, arată spre miri şi zice cu glasul emoţionat: „Aceşti doi orfani, cari s-au întîlnit in drumul vieţii şi şi-au întins mîna cu iubire...“, Maria izbucneşte într-un plîns cu hohot, Poteraş începe şi el să plîngă, şi oratorul, îngrijat de efectele jalnice ale discursului său, îşi lasă fraza neisprăvită şi strigă ridicînd paharul: „Hai noroc, noroc să vă dea Dumnezeu, că de alelalte...“ şi glasul lui se pierde într-un „ura ! ura !“ cu acompaniament de cobză şi de vioare. Un lăutar începe să cînte:</p>
-   </div>
-   <div type="song">
+   
+   
 <l><hi>„Taci, mireasă,nu mai plînge,</hi></l>
 <l><hi>Că la maică-ta te-oi duce</hi></l> 
 <l><hi>Cînd a face plopul pere</hi></l> 
 <l><hi>Şi răchita vişinele...”</hi></l>  
-   </div>
-   <div>
+   
+   
 <p>Dar Priboianu-1 întrerupe: „Altu mai vesel!“ Şi imediat o dă pe:</p>
-   </div>
-   <div type="verse">
+   
+   
 <p><hi>„Leleo cu scurteica verde”...</hi></p>
-   </div>
-   <div>
+   
+   
 <p>După masă se-ncinge-o horă strămoşească, singurul joc la care se-nfig şi cei care nu ştiu juca.</p>
 <p>Priboianu e mosafir în gospodăria acestor patru prietini. El şi-a oprit pe seama lui două odăi, cu intrare separată : toată ziua e ocupat la tribunal, la redacţie, şi noaptea vine tîrziu acasă ; numai duminica mănîncă cu ei, ş-atunci de regulă le face morală şi le dă poveţe să fie mai prevăzători, să facă economie, ei rîd şi se pîrăsc unul pe altul, unde-i chip ? toţi au gusturi şi slăbiciuni costisitoare : Stelian — şampanie, Graur — birjile, Dan — icrele negre, numai dom' Petroni capitalizează... în bilete de loterie; de neexplicat boala acestuia de a cheltui şi de a-şi face încurcături, din cari nu mai ştia cum să iasă ; şi vecinic afif, şi vecinie furios pe ţară, pe timp şi pe multe alte lucruri concrete şi abstracte. Banul unuia e al tuturora; dar s-a nimerit ca toţi să fie mînă spartă, şi de multe ori sunt zile cînd n-au ce da în piaţă ; noroc de Poteraş — domnu Itidant — care-ntotdeauna-i gata şi foarte fericit să-şi deschidă lădiţa cînd e vorba de „împrumuturi naţionale“.</p>
 <p>Adesea, seara, după o zi de belşug şi de risipă, încep să facă planuri, Petroni adună toate cîştigurile cele mari de la loterie. E o sumă fabuloasă. Şi, fumînd ultimele ţigări, stau pînă-n ziuă şi schimbă faţa lumii.</p>
@@ -831,9 +821,9 @@
 <p>Şi Priboianu ieşi : în urma lui parcă scăzu deodată lumina-n odaie.</p>
 <p>Greu de hotărît care din doi era mai fericit.</p>
 <p>„Ce om bun”, gîndi Dan ; şi tot sensul vieţii parcă i se lămuri în acest gînd...</p>
+   
    </div>
-   </div>
-   <div type="chapter" n="12">
+   <div type="chapter">
       <head>XII</head>
 <p>Dan era de două săptămîni în Paris. Ce s-a ales din toate planurile pe cari şi le făcuse-n tren ? Bucuria cu care plecase, încrederea copilărească în iluziile lui, curajul cu care se vedea intrînd la Ana, vorbele ce gîndea să i le spuie unde erau ? Tot planul lui, atît de sigur şi de clar, rămăsese-n vagon.</p>
       <p>A cincisprezecea zi de cînd bate acelaşi trotuar în <foreign><hi>Place de la République</hi></foreign>. L-or fi luat oamenii la ochi; i se pare că unii trecători întorc capul după el şi-l privesc bănuitor.</p>
@@ -932,7 +922,7 @@
 <p>—    Aşadar, mîine la şapte... şi ochii lor se privesc adînc, adînc, îşi sorb cu lăcomie provizie de fericire pentru lungile, nenumăratele ceasuri ale nopţii.</p>
 <p>Afară e răcoare. Dan pluteşte; instinctiv îşi ţine mîna dreaptă-nchisă, ca şi cum ar strînge în palma lui, caldă încă de impresia pe care i-o lăsaseră degetele subţiri ale Anei, toată senzaţia acelei dulci întîlniri, ceva palpabil din iubirea ei, şi s-ar teme să nu-i scape cînd ar deschide mîna. Stelele de sus, tăcerea nopţii, casele, aerul, luminile de la felinare, toate i se par solemne în momentul acesta. Sufletul lui creşte, un sentiment de infinit îi înfioră gîndurile : lumea în ritmul vieţei lui.</p>
    </div>
-   <div type="chapter" n="13">
+   <div type="chapter">
       <head>XIII</head>
       <p>—    Da, înţeleg, e dureros să vorbim de asta, dar un moment de bună francheţă ne uşurează şi ne scapă adesea de cele mai crude turmente. Eu vreau, şi sunt sigur că pot, să te fac perfect liniştită asupra lucrului acestuia : mie-mi trebuie sufletul tău ; şi-l vreau senin, ca să poată fi bun, şi ca să-l pot avea <hi>tot</hi>... Nino, lasă-mă să-ţi ridic obsesiunea asta de pe suflet. De ce dai din cap ?</p>
 <p>—    Pentru că... tu eşti un sfînt, şi nu vreau să te gîn-deşti la orori...</p>
@@ -1008,7 +998,7 @@
 <p>—    Tu te aperi, ca şi cînd... n-ar fi o glumă...</p>
 <p>Ea începu să rîdă. Dan rămase pe gînduri. îşi închipui o clipă c-o vede într-un cupeu trecînd, vertiginos, pe dinaintea lui şi depărtîndu-se pentru totdeauna, în lumea ei de altădată. Putea dar s-o piardă !... Şi el o strîngea în iubirea lui din ce în ce mai adîncă, mai pasionată, ca şi cum ar fi căutat s-o vindece de-această nostalgie nenorocită.</p>
    </div>
-   <div type="chapter" n="14">
+   <div type="chapter">
       <head>XIV</head>
 <p>E dimineaţă. Afară ninge liniştit. Ei stau la fereastră şi privesc cum se cern de sus fulgii mari, uşori, într-o cădere leneşă, ostenită. Strada, coperişurile caselor sunt albe, de un aspect moale, vaporos, ce predispune la visuri. Un farmec nou, de care nu-şi dau seamă, străbate sufletele lor, şi ei se miră, li se pare că n-au mai văzut niciodată o zi de iarnă.</p>
 <p>Ana surîde visător ; braţul lui Dan îi strînge încetinel mijlocul, şi ea, alintată, îşi razimă capul pe umărul lui. în sobă trosnesc lemnele prididite de para unui foc lacom.</p>
@@ -1039,7 +1029,7 @@
 <p>—    Fostul inspector...?</p>
 <p>—    Da, şi cînd ai şti istoria... Ascultă, mi-a spus-o Damaschin aseară. Cunoşti pe Curţius Borceanu ?</p>
 <p>—    N-am auzit de numele ăsta niciodată. Cine-i ?</p>
-<p>—    Ce dracu, Dane, e nepermis să nu ştii pe domnu Curţius Borceanu, mare academician de la descălecătoare ! Poate l-ei fi văzut vrodată pe stradă, e un prichindel, scurt, cu nişte picioare subţiri şi strîmbe, şi are un barbişon roş, foarte nostim, mi se pare că pentru asta l-a şi fi făcut academician; e el niţel cam hodorogit, şi cam aduce din picior... da’ crai, lucru mare! Trăieşte cu una Măcăreasca, o văduvă cochetă, care de multă vreme are-o fată de măritat... Nu-i aşa că pîn-aici am aerul de a bate cîmpii ? Stai să vezi: domnul, Razi, de cînd a rămas fără slujbă, e vînător, vînător de lei... noi. Ştii că tată-său a murit, şi n-a lăsat decît datorii. De unde şi pînă unde, tînărul Razi — curtezan cum e de felul lui — se întroduce-n casa doamnei Măcărescu în calitate de viitor ginere. Măcă-reasca — încîntată. Se face logodna. Domnu Curţius Borceanu, încîntat şi el că î se limpezeşte terenul. Razi are nevoie de cîteva mii de lei ca să poată intra în moştenire, zicea el. Măcăreasca nu dispune deocamdată, femeie cu minte. Ce-i de făcut ? Atunci el îi spune c-a pus o carte la Academie: un ghiveci naţional întitulat: <title><hi></hi>Auguştii miri</title><ref>7</ref>, n-ai citit-o ? Am să ţi-o aduc, e grozavă, monumentală, are şi versuri; să vezi, mă, linguşire greţoasă; sunt ca vro sută de pagini, pe hîrtie groasă ; de la început pîn* la sfîrşit e o milogeală ţigănească, o înjosire de lichea flămîndă şi laşă, care tremură şi se tîrăşte pe brînci după un codru de pîine...</p>
+<p>—    Ce dracu, Dane, e nepermis să nu ştii pe domnu Curţius Borceanu, mare academician de la descălecătoare ! Poate l-ei fi văzut vrodată pe stradă, e un prichindel, scurt, cu nişte picioare subţiri şi strîmbe, şi are un barbişon roş, foarte nostim, mi se pare că pentru asta l-a şi fi făcut academician; e el niţel cam hodorogit, şi cam aduce din picior... da’ crai, lucru mare! Trăieşte cu una Măcăreasca, o văduvă cochetă, care de multă vreme are-o fată de măritat... Nu-i aşa că pîn-aici am aerul de a bate cîmpii ? Stai să vezi: domnul, Razi, de cînd a rămas fără slujbă, e vînător, vînător de lei... noi. Ştii că tată-său a murit, şi n-a lăsat decît datorii. De unde şi pînă unde, tînărul Razi — curtezan cum e de felul lui — se întroduce-n casa doamnei Măcărescu în calitate de viitor ginere. Măcă-reasca — încîntată. Se face logodna. Domnu Curţius Borceanu, încîntat şi el că î se limpezeşte terenul. Razi are nevoie de cîteva mii de lei ca să poată intra în moştenire, zicea el. Măcăreasca nu dispune deocamdată, femeie cu minte. Ce-i de făcut ? Atunci el îi spune c-a pus o carte la Academie: un ghiveci naţional întitulat: <title><hi/>Auguştii miri</title><ref>7</ref>, n-ai citit-o ? Am să ţi-o aduc, e grozavă, monumentală, are şi versuri; să vezi, mă, linguşire greţoasă; sunt ca vro sută de pagini, pe hîrtie groasă ; de la început pîn* la sfîrşit e o milogeală ţigănească, o înjosire de lichea flămîndă şi laşă, care tremură şi se tîrăşte pe brînci după un codru de pîine...</p>
 <p>—    Ei, ş-a premiat-o ?</p>
 <p>—    A premiat-o. Borceanu încălzise inimile colegilor, le spusese că-i chestie matrimonială la mijloc: „Faceţi această casă, pentru mine!... Sunt tineri şi se iubesc ca doi hulubaşi. Copiii lor or să vă bine-cuvinteze...“ Academia a fost şi de astă dată la înălţimea ei.</p>
 <p>— Mai bine! Preferinţile Academiei au ajuns să fie compromiţătoare... Şi, totuşi, în fundul inimei lui se ascundea un sentiment vag de decepţie, umbra unei păreri de rău, pe carie-i era ruşine s-o spuie.<ref>8</ref></p>
@@ -1096,7 +1086,7 @@
 <p>Şi ea împrumuta inconştient frazele lui Dan ; vorbea de liniştea necesară unui artist, de potrivirea minunată a gîndurilor ş-a dorinţilor lor. Se iubeau aşa de mult, ce li se putea întîmpla ?</p>
 <p>Ei tăcură. Tapiţerul bătea zorit în stinghiile de brad ; un zgomot lugubru se izbea de păreţii goi, tremura în ferestrele fără perdele; toată casa dădea o impresie de moarte şi de pustiu.</p>
    </div>
-   <div type="chapter" n="15">
+   <div type="chapter">
       <head>XV</head>
 <p>Pe valea Racovei, la două ceasuri departe de Vaslui, e tîrguşorul Pungeşti. Nici o privelişte deosebită sunt locuri şterse prin cari treci, fără să le vezi, ca pe lîngă acei oameni după cari nimeni nu întoarce capul, nimeni nu întreabă cine sunt. Pe şesul din faţă, o coamă lungă de lozii şi de papură însamnă cotiturile unui pîrău, a cărui matcă e uscată pe vreme de arşiţă. Numai pe tăpşanul dinspre apus se vede un petic de dumbravă rară ; încolo stau măgurile dezvălite, mirişte şi imaşuri cît bate ochiul. În vatra înclinată a tîrgului, căsuţe albe, cu prispe înguste de jur împrejur ; la uliţă, de o parte şi de alta, sunt înşirate dughene, multe din ele lipite subt acelaşi coperiş de şindrilă înnegrită de vechime; unele strîmbe, pleoştite şi vîrîte-n pămînt pîn-în fereşti, parcă rînjesc la trecători. Unde şi unde răsare cîte-o clădire mai de seamă : casa proprietarului, conacul subprefecturei, cazarma...</p>
 <p>—    <hi>Aicea</hi>-s Pungeştii! Tragem la han ?</p>
@@ -1197,7 +1187,7 @@
 <p>—    Ţi-aduci aminte, la Sinaia, cînd ne suiam călări spre Vîrful-cu-Dor, tu poate că mi-ai spus aşa, fără sa-ţi dai socoteală, c-ai vrea să fii odată deoparte şi sa mă vezi cînd scriu... Cîte visuri frumoase n-am visat eu pe vorba aceea ! De cîte ori, cînd scriam, nu mi se părea că te simt cum te apropii tiptil şi-ţi întinzi capul peste umărul meu ca să vezi ce scriu, ş-atunci puneam o grijă deosebită în alegerea cuvintelor, în forma literilor... îmi închipuiam că toate trec pe subt ochii tăi şi le judeci.</p>
 <p>El tăcu. Ana îi înfăşurase braţele pe după gît şi-l strîngea, îi apăsa capul pe inima ei, ca şi cum ar fi vrut să nu-1 mai audă, să nu se mai gîndească la trecut, nici el, nici ea. Valuri de regrete surde o năvăleau din toate părţile. Sufletul i se umplea de întuneric, ochii de lăcrimi.</p>
 </div>
-   <div type="chapter" n="16">
+   <div type="chapter">
       <head>XVI</head>
       
       <p>Cocoanele mai ales erau furioase. Slava Domnului, aveau şi ele casă, relaţii cu lumea, făceau „suarele“... şi mese mari la zile onomastice. Adecă ce ? nu catadicsea domnu judecător şi „madama dumisale“ să vie măcar o dată, la un Sfîntu Dumitru, patronul lui <hi>Mitu</hi> (subprefectul), la un Sfîntu Mihail, patronul căpitanului... Ce ? Se ţineau mîndri ?... Atîta pagubă! Şi regulat, pînă să-nceapă ghiordumul, îşi vărsau paraponul pe aceste... „persoane fără nici o creştere... de cari nici nu face să se mai ocupe cineva...“ La început erau foarte intrigate : cine-or fi, din ce familie, cum trăiesc ?...</p>
@@ -1314,9 +1304,9 @@
 <p>—    Dar tu ştii bine că te ador...</p>
 <p>Şi Ana plîngînd îşi lăsă capul pe umărul lui. Lori îi privea nedumerită cu ochii ei mari, serioşi, contemplativi...</p>
    </div>
-      <div type="chapter" n="17">
-            <div>
-            <head>XVII</head>
+      <div type="chapter">
+            
+            <p><label>XVII</label></p>
 <p>E o noapte de primăvară. Ana doarme cu Lori în patul din fund ; pe canapeaua de la fereastră doarme Dan. El a scris la drama lui pînă tîrziu, şi cînd a stîns luminarea, i s-a părut c-a auzit un ţipet în curte... a stat puţin ş-a ascultat... nimic ; a dat perdeaua la o parte : afară era lună, ş-o tăcere de pustietate ; se culcă şi-ncepu să se gîndească dacă n-ar fi mai bine să s-apuce de roman... dar acum doarme dus. Ana aude prin somn un zgomot în sală şi se deşteaptă... un fîşiit de hîrtii, apoi paşi nesiguri... o m]nă bîjbîia la uşă. Ana, înlemnită de frică, începe să tremure şi, c-un glas zugrumat, înăbuşit, strigă pe Dan :</p>
 <p>—    Dragă ? dragă !</p>
 <p>—    Ce e ?</p>
@@ -1379,13 +1369,13 @@
 <p>—    Tu mi l-ai spus...</p>
             <p>—    Da, însă-acum, cînd îl văd scris... <hi>„O viaţă pierdută de V. Dan”</hi>?... nu merge ; am să caut altul...</p>
 <p>Apoi citi înc-o dată programul, îl găsea perfect. Aceasta era-ntr-o vineri; se hotărî să-nceapă de luni. A doua zi primi o scrisoare de la Priboianu.</p>
-      </div>
-      <div type="letter">
+      
+      
 <p>„Frate Dane, vei fi aflat din gazete ce tărăboi am avut noi pe-aici cu alegerile; deşi ştiu că pe tine politica nu te interesează, totuşi, întrucît se leagă cu unii din prietenii şi cunoscuţii tăi, şi fiindcă mi-i plin capul numai de asta, vei fi silit s-o înghiţi de astă dată. Eu m-am ales ca <hi>independent</hi>, ş-am luptat din toată inima ca să-l scoatem pe Stelian în locul lui Veronescu-Prisă-cani, dar a fost imposibil, cu tot ajutorul pe care ni l-au dat prietenii din localitate ; a ştiut onorabilul să se facă util şi actualului guvern... se zice că prefectul a luat din afacerea asta opt mii de franci; dar şi-i scoate el, Veronescu ! Şi cînd te gîndeşti că bietul Stelian a luptat şase ani, ş-a scris, ş-a ţinut discursuri, ş-a fost topor de oase, ba s-a bătut şi-n duel pentru domnul <hi>«Glaston»</hi> al său ! Cum îl mai iubeau cînd erau în opoziţie d-nii X. şi Y., îl găseau genial, cîte nu-i făgăduiau ! şi azi, cînd sunt miniştri, nici nu vor să-l mai ştie. Aşa că vorba noastră s-a împlinit din nenorocire : Stelian a rămas păcălit. Pîn-acum nu ştie nici el de ce să s-apuce, eu i-am spus că <title><hi>Alarma</hi></title> îl aşteaptă cu entuziasm. Petroni îi tot bate capul să facă cu el o revistă literară. Graur s-a mutat la mătuşă-sa, nu l-am mai văzut de mult; mi se pare, după cît am auzit, că e în dîrdora însurătorii... c-o profesoară de la Şcoala centrală (d-şoara Mironescu), o fată foarte instruită şi frumuşică, mi s-a spus. Am cunoscut pe tînărul Lambrino, e un băiat de ispravă ; luna viitoare concurează pentr-o catedră la universitatea de aici; dar se zice că dascălii noştri au de gînd să-l radă, fiindc-au aflat că-i socialist. Lambrino tatăl, care nu seamănă de loc cu fiul, de-aceea poate nici nu se iubesc amîndoi, e în căutarea unui portofoliu ministerial... probabil c-are să-l găsească, dar nu aşa curînd, fiind încă nou şi puţin deochiat în partid. Ce-ai zis cînd ai văzut şi pe Razi ales deputat ? Ştii că după ce-a luat premiul de la Academie, nici n-a mai dat pe la Măcăreasca. Bietul Borceanu ! ca pe logodnică n-o plîng. Nu-i aşa că sunt în bună companie? Dar sa mai vezi ce tipuri împodobesc Camera asta ! Avem şi unul despre care se zice că-i femeie; te miri de unde i-a mai scos. Ghici cine mai lipseşte ?... Nepreţuitul Bimbirică! Păcat, Gamulea e menit să fie deputat, şi va fi... s-a mulţumit deocamdată c-un post de subprefect ; frumoasă <hi>administraţie</hi> trebuie să facă el pe-acolo, ce zici ?...</p>
 <p>Dar tu cum o mai duci, ce mai scrii ? Mult o sa mai staţi acolo ? Primiţi gazeta regulat ? Că de citit, nu vă mai întreb. Sper să ne vedem la vară. Mi-e dor de tine, şi-ţi strîng mîna în gînd.</p>
 <p>C. Priboianu</p>
-      </div>
-      <div>
+      
+      
 <p>După o lună, Dan, emoţionat, citea Anei primul capitol din roman : se-ncepea c-un tablou de la sat; o horă în ziua de Paşti, scrînciobul din bătătura circiumei, lăutarii, chiotele şi veselia celor tineri, oala cu vin pe care cei mai în vîrstă şi-o treceau unul altuia, şi sfatul femeilor, şi jocurile copiilor ; ceva mai la o parte, un flăcău slab, cu faţa şi mînile ca de ceară, şedea trist lîngă mă-sa şi privea la horă ; asupra acestuia se îndrepta simpatia şi interesul autorului, el era destinat să fie eroul romanului.</p>
 <p>—    Ce zici ?</p>
             <p>Şi Dan se uita în ochii Anei cu atîta frică, încît ea, numai de milă, îi spuse că-i place. Dar a doua zi, luînd iar vorba despre roman şi văzînd că nici el nu era tocmai mulţumit de ce scrisese, îi spuse drept: părerea ei era că din viaţa unor <hi>oameni de rînd</hi> nu se poate trage un subiect frumos de roman ; ţăranul trăieşte aproape ca un animal; ce sentimente, ce gîndiri ?...</p>
@@ -1396,9 +1386,9 @@
 <p>—    Nu te speria, că nu-ţi fac nimic...</p>
 <p>Îşi lua paiăria şi ieşi.</p>
 <p>Cu mîinele la spate, fluierînd în neştire una şi aceeaşi frază dintr-un cîntec uitat, el mergea încet în liniştea şi răcoarea nopţei. Şi ce limpezi şi uşoare i se păreau gîndurile ; atîta doar că-i lunecau prea repede ; din cînd în cînd el se oprea în loc, atunci nu mai fluiera, şi nici gîndurile nu mai năvăleau aşa iute; privea la pîlcurile de stele de pe cer şi parcă se mira că nu le-aude cum fîşîie prin aer, atît era de adîncă tăcerea din jurul lui, ş-atît îi erau de rafinate şi de atente toate simţurile, dar mai ales auzul; şi mereu se observa, vroia să-şi dea seamă perfect de tot ce simte : mai întîi, o mulţumire generală, care provenea din faptul că s-a stăpînit, şi că n-a lovit-o — s-ar fi mustrat toată viaţa de o asemenea brutalitate; apoi îşi amintea vorbele lui, vorbele ei... şi căuta să se lepede de orice ură, ca să poată judeca senin ; dar tot calmul acesta pe care şi-l impunea era factice : aşa, bunăoară, el nu era în stare să deosebească bine cît adevăr putea rămînea din vorbele Anei dînd mînia la o parte, el nu pricepea că-n beţia ei de a face rău spusese minciuni, îşi defăimase propria ei viaţă, cu pofta cu care unii furioşi îşi smulg părul şi se bat cu pumnii în cap. El credea că e foarte liniştit şi judecă rece cînd îşi propunea să-i spuie : „Doamnă, fiindcă iubeşti aşa de mult pe scumpul dumitale unchi, fa bunătate şi du-te de trăieşte cu el” Şi parc-o şi vedea plecînd cu sluga, cu Lori şi cu tot ce era al ei. Lui nu-i păsa. Se gîndi un moment la ce are să zică lumea... prietenii lui. Ri-dicul ?... de ce sa fie ridicul ? Cîţi nu se despart! Din moment ce nu se mai înţeleg... în clipa aceea îi fulgeră un gînd straniu, înfiorător : „Ana s-a sinucis“. El tresări şi-şi întoarse capul... i s-a părut c-a auzit un glas strigîndu-1 din urmă. Luna se ascunsese după un nor. Dan fugea spre casă, îngrozit de tabloul pe care !nu şi-l mai putea şterge din închipuire. În odaie era întuneric, intră binişor, picioarele îi tremurau de spaimă, trase-un chibrit... Ana dormea, lîngă Lori, cu faţa spre perete.</p>
+      
       </div>
-      </div>
-      <div type="chapter" n="18">
+      <div type="chapter">
             <head>XVIII </head>
 <p>—    De-acu nu mai e nici un pericol, dar putea s-o păţească rău...</p>
 <p>—    Bine, din ce ?... nu pricep.</p>
@@ -1430,9 +1420,9 @@
 <p>Dan îşi veni în fire, şi durerea de cap, întreruptă de emoţiune, iar îl apucă.</p>
 <p>El îi spuse că n-a putut dormi de loc, că zgomotul vîntului de afară îl enervează şi-i dă alucinaţii... Ana nu se mai duse în patul ei; ei adormiră îmbrăţişaţi, ca-n vremile cele bune.</p>
       </div>
-      <div type="chapter" n="19">
-            <div>
-            <head>XIX</head>
+      <div type="chapter">
+            
+            <p><label>XIX</label></p>
 <p>Dan e din ce în ce mai nervos. Împricinaţii nu mai găsesc în el pe judecătorul calm şi bun de odinioară. Prezidentul tribunalului din Vaslui i-a atras atenţia, printr-o scrisoare foarte amicală, asupra cîtorva ho-tărîri „date cam în pripă“. Subprefectul îl săpa. Viaţa cu Ana ajunsese un supliciu. Ea nu putea pricepe cum atîţia oameni, cu mai puţin talent şi or mai puţină învăţătură decît Dan, au ştiut să-şi croiască o cale cu mult mai bună, ş-au mers înainte... pe cînd el tot „neprocopsit“ a rămas. Şi pe subiectul acesta se han* ţuiau vecinie.</p>
 <p>—    Aş mai înţelege să fie cineva mîndru cînd are cu ce ; dar aşa...</p>
 <p>—    Şi ce-ai pofti dumneata ? Să fac ode miniştrilor ? Să linguşesc pe vodă, ca să-şi facă pomană cu mine ? Asta ai vrea ?...</p>
@@ -1460,34 +1450,34 @@
 <p>—    Dane, tu nu mă mai iubeşti! De ce nu mai vorbeşti cu mine ?</p>
 <p>El o privi lung, nedumerit... apoi îşi lăsă ochii în jos şi iar începu să se primble, răsucindu-şi mustaţa, dus pe gînduri. Ea crezu c-o dispreţuieşte, şi, palidă de mînie, c-un gest solemn, îi întinse scrisoarea. Dan o citi, i-o dete înapoi şi, c-un aer distras, indiferent, îi zise : „Du-te“. Pe Ana o podidi plînsul. El îşi luă pălăria şi ieşi liniştit. De vro zece zile nu mai dase pe la judecătorie. Cînd era să iasă pe poartă, simţi răcoare la picioare şi băgă de seamă că era în papuci; se-ntoarse să-şi ia ghetele; un vătăjel îl strigă din urmă:    „Domnule judecător!...“ şi-i dete-un plic galben ; Dan îl deschise : pe ziua de 1 mai era înlocuit. Curios, toate i se răsfrîngeau ca într-un vis urît, obsedant, din care parcă vroia să se deştepte şi nu putea.</p>
 <p>El strigă tare : „Ioviţo ! Ioviţo ! ţi-am spus să-mi încălzeşti apa pentru baie, vezi să fie fierbinte ca atunci!“ Ioviţa îl privi speriată : „Nu mi-aţi spus nimic... da’ ce e asta ?... Dan, cu paşi largi, gesticu-lînd solemn, se primbla prin livadă şi declama „versuri :</p>
-      </div>
-      <div type="poem">
+      
+      
 <l>„Gunicunda şade strîmbă pe spetezele rușinei,</l>
 <l>Cine stoarce două lacrimi din priporul goliciunei</l>  <l>Adormiră-n întuneric desfătările durerii,</l>
 <l>Numai florile din arbori umplu noaptea de mizerii!...</l>
-      </div>
-      <div>
+      
+      
 <p>—    Dane, pentru numele lui Dumnezeu, taci, că te-aude lumea... te rog...</p>
             <p>El, fără a se întrerupe, o privi cu ochi mari şi blînzi, cari nu mai vedeau realitatea. Ana nu se dumerea ; îl ruga să-nceteze şi să n-o mai privească aşa, că-i face frică; îl luă de braţ şi-l duse-n casă; ea era palidă şi tremura toată, el gesticula cu cealaltă mînă şi improviza mereu, uneori nu mai găsea vorbe, şi-atunci continua ritmul într-un <hi>„tam-ta-ra-ra, tam-ta-ra-ra“</hi> pe care-1 repeta de sute de ori cu o linişte imperturbabilă... Ana se uită la el fix, deodată ochii i se umplură de spaimă, tot adevărul i se dezlegă în fulgerarea unui gînd; c-un răcnet sfîşietor, ea fugi din odaie, ca de groaza unui ucigaş.</p>
 <p>—    Doamne, coconiţă, da' de ce te temi aşa ? Ia lasă, c-are să-i treacă, nu-ţi strica inima...</p>
 <p>La dejun Dan înfulica bucături mari şi clefăia repede, c-o lăcomie de bestie. Ioviţa îl întreba mereu dacă-s bune bucatele, el, în neştire, cu gura plină, zicea da. Ana nu se mai putu stăpîni şi-ncepu să plîngă cu hohot. Ioviţa îi făcea semne să tacă. Dan îşi vedea de mîncare, străin de tot ce se petrecea-n jurul lui. După masă îşi aprinse o ţigară şi, c-un aer timid, se aşeză pe un scaun, deoparte. Afară ploua. Ana veni lingă el, duioasă, rugătoare, îi luă mîna rece şi i-o netezi. „Dragă, de ce nu te uiţi la mine ? Ce ţi-am făcut eu de nu mă mai iubeşti ?... Fie-ţi milă de mine, Dane...“ Îi jura că-1 adoră, îl îmbrăţişa, nu ştia ce să-i mai spuie. Glasul îi tremura, ochii i se umplură de lacrimi. Dan fuma tacticos, privind fix înaintea lui. Ea aştepta, pierdută, un cuvînt, o căutătură... El se sculă, foarte preocupat, şi, primblîndu-se cu paşi agitaţi de colo-colo, începu :</p>
-      </div>
-      <div type="verse">
+      
+      
 <l>„Duceţi cîntecele mele în păduri de palisandri...</l>
 <l>Smulgeţi aştrii din deşerturi... tam-ta-ra-ra, tam-ta-ra-ra...</l>
-      </div>
-      <div>
+      
+      
 <p>Şi gesticula teatral, cu amîndouă mîinile.</p>
             <p>Ana îşi îngropase capul în pernă, ca să nu mai vadă, şi se bocea desperată. Fetiţa alerga prin casă, sărea-nain-tea lui, rîdea şi zicea şi ea : „Tam-ta-ra-ra, tam-ta-ra-ra...“ Ea nu mai putea de bucurie că „tăticu face prostii“ şi se joacă cu dînsa. Asupra acestei scene sosi Priboianu, cu Poteraş : el aflase în ajun despre destituirea lui Dan şi venea vesel, să-l ia la Bucureşti. Servi-toarea-i ieşi-nainte şi-l preveni; el nu înţelegea bine ; cînd intră, rămase înlemnit. Dan îl cunoscu ; cum îl văzu, îi ceru o ţigară, îi spuse cu bucurie c-a făcut un <hi>poem</hi> şi-ncepu să-i declame... „Tam-ta-ra-ra, tam-ta-ra-ra...“</p>
 <p>Au plecat în aceeaşi zi. Tot drumul Dan n-a ieşit din poemul lui. Ana plîngea, se ruga de Priboianu să nu i-l ia, zicea că vrea să-l îngrijască ea singură, că numai iubirea ei are să-l facă bine. O ploaie torenţială inunda uliţele capitalei.</p>
-            <milestone unit="header" rend="dots"/>   
+               
 <p>...Două trăsuri plecau de la casa de sănătate a doctorului Şuţu : în una, Albert şi Miba ţineau între ei pe Ana, leşinată; în alta era Priboianu, zdrobit de osteneală şi năuc de ce văzuse; în Calea Victoriei, vizitiul, nemaiştiind încotro să-ntoarcă, opri şi-l întrebă unde să-l ducă; atunci băgă de seamă că e în birjă, se uită la ceas : erau trei... „La Cameră !“ De-o saptămînă se discuta darea în judecată a guvernului trecut.</p>
 <p>În vestibul îl aştepta un alegător... „Nu mă mai cunoaşteţi“, şî-ncepu să-şi spuie păsul... Priboianu se uita la el şi da din cap, dar nu-1 asculta. Din cînd în cînd, uşa de la sala de şedinţi se deschidea, şi se auzeau atunci aplauze, crîmpeie de fraze... „Moralitatea, domnilor, nu se poate despărţi”... „omului politic mai ales eu îi cer să fie moral nu numai în societate, în vaza lumii, ci şi între ai lui, în sînul familiei lui, cu...” ...„Acel care nu ştie mai întîi să respecte cinstea şi sfinţenia casei lui...</p>
 <p>Un uşier trecea zorit. Priboianu îl opri.</p>
 <p>—    Mă rog, cine vorbeşte ?</p>
 <p>—    Domnu Peruianu !</p>
 <p>—    A... Eram sigur.</p>
-      </div>
+      
       </div>
 </body>
          <back>
@@ -1560,7 +1550,7 @@
                      <note> Sorbet — băutură răcoritoare din apă, lămîie şi zahăr, limonadă.</note>
                      <note> Soarea — serată.</note>
                      <note> Ghiordum — numele unui joc de cărţi.</note>
-                           <note > Stosișor — diminutiv de la stos (joc de cărţi).</note>
+                           <note> Stosișor — diminutiv de la stos (joc de cărţi).</note>
                            <note> A se hartoi — a se răsuci, a se întoarce brusc.</note>
                            <note> Paciulie — plantă originară din regiunile tropicale, din care se extrage un ulei eteric folosit în parfumerie</note>
                            <note>Goană-ghinion, nenoroc la jocul de cărți</note>

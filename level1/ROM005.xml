@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM005" xml:lang="ro">
  <teiHeader>
   <fileDesc>
@@ -15,42 +18,38 @@
     <measure unit="words">28565</measure>
     <measure unit="pages">95</measure>
    </extent>
-   <publicationStmt>
-    <p>Incorporated into the ELTeC<date>2018-l0-l5</date>
-    </p>
-   </publicationStmt>
-   <sourceDesc>
-    <bibl type="printSource">
+   <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-11"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Incorporated into the ELTeC2018-l0-l5
+    --></publicationStmt>
+   <sourceDesc><bibl type="printSource">
      <author>Panait Macri</author>
      <title>Ghiță Cătănuță, căpitan de haiduci</title>
      <pubPlace>Bucharest</pubPlace>
      <publisher>Editura Librăriei și Tipografiei H. STEINBERG</publisher>
      <date>1923 (1883)</date>
       <ref target="http://doi.org/10.5281/zenodo.2648455">Facsimile on zenodo</ref>
-              </bibl>
-   </sourceDesc>
+              </bibl></sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
-   <p></p>
+   <p/>
   </encodingDesc>
-  <profileDesc xmlns:e="http://distantreading.net/eltec/ns">
+  <profileDesc>
    <langUsage>
-    <language ident="ro"></language>
+    <language ident="ro"/>
    </langUsage>
    <textDesc> 
  
-    <e:authorGender key="M"></e:authorGender>
-    <e:size key="short"></e:size>
-    <e:canonicity key="low"></e:canonicity>
-    <e:timeSlot key="T3"></e:timeSlot>
+    <e:authorGender key="M"/>
+    <e:size key="short"/>
+    <e:canonicity key="low"/>
+    <e:timeSlot key="T3"/>
     
    </textDesc>
   </profileDesc>
-  <revisionDesc>
+  <revisionDesc><change when="2019-11-11">Checked by releaseChecker script</change>
    <change when="2018-09-28">Initial TEI version generated.</change>
   </revisionDesc>
  </teiHeader>
- <text >
+ <text>
   <front>
    <div type="titlepage">
     <p>GHIȚĂ CĂTĂNUȚĂ</p>
@@ -64,7 +63,7 @@
    </div>
   </front>
 <body>
-<div type="chapter" n="1">
+<div type="chapter">
 <head>GHIȚĂ CATĂNUȚĂ, CĂPITAN DE HAIDUCI</head>
 <head>Ziua omorului.</head>
  <p>Era la anul 1800, adică cu vre-o 20 de ani înainte de ivirea acelui mare haiduc <quote type="name">„Andreiu Popa“</quote>ucis în cele din urmă, după porunca lui Șuțu, de vornicul <hi>Mihaiu Cozoni</hi></p>
@@ -200,7 +199,7 @@
 <p>— Auzi tu colo! popă și să iubească o fată mare.</p>
 <p>— De fă iele, așa ei Dar ce faci cu dragostea? Ea nu te mai întreabă, de ești preot sau dascăl, ci intră așa d’odată, in pieptul românului....</p>
 </div>
- <div type="chapter" n="2">
+ <div type="chapter">
 <head>După trei luni</head>
 <p>Trei luni în urma acelui omor găsim pe părintele Ghiță într’o pădure din ținutul Basarabiei.</p>
 <p>Intr’o noapte luminată de slabele raze ale lunei, ei se plimba printre arborii seculari și fluera alene.</p>
@@ -322,7 +321,7 @@
 <p>Banii fură împărțiți numaidecât de către Ghiță în părți egale. Acum să plecăm din pădurea asta, le zise Cătănuță.</p>
 <p>Zece minute în urmă haiducii părăsiau pădurea lăsând în urma lor 24 de cadavre pe care razele soarelui se încercau în zadar să-le încălziască.</p>
  </div>
- <div type="chapter" n="3">
+ <div type="chapter">
 <head>Fuga Vidrei</head>
 <p>Soarele era aproape să apună, când o trăsură mică cu două roate, trasă de un cal roib, care scotea foc din nări, fugea lăsând un nor de praf în urma sa. În trăsură se vedea un om tânăr ras peste tot.</p>
 <p>Era Ghiță Cătănuță, care zbura spre iubita lui.</p>
@@ -399,7 +398,7 @@
 <p>Ghiță, văzând că se întârzie, înțelese că s’a petrecut ceva.</p>
 <p>— Neghiob ce sunt! își zice el, de ce am lăsat-o să mai intre în casă. Cine știe, poate că nu va mai voi să fuga cu mine. Așâ trebue să pat; am avut prilegiul și i’am scăpat din mână.</p>
 <p>Nu isprăvi însă aceste reflexiuni și ușa sălei deschizându-se de odată apăru Vidra.</p>
-<p>— Draga mea> de ce ai întârziat atâta ? o întrebă el. Nu știi cât e de crudă așteptarea pentru cei care iubește ?</p>
+<p>— Draga mea&gt; de ce ai întârziat atâta ? o întrebă el. Nu știi cât e de crudă așteptarea pentru cei care iubește ?</p>
 <p>— Voinice, vin’o altă dată, îl întrerupse ea; acum nu pot veni cu tine. Mama plânge. A visat ceia ce eră să se petreacă.</p>
 <p>— O, Vidro, o dragă mea, vei fi atât de crudă ca să mă iași să plec fără tine, care ești viața mea! Ai dreptate, nu m’ai văzut decât astă dată și nu poți să mă iubești. Însă eu, care te iubesc în umbră de atâția ani; eu, care te vedeam și nu îndrăsniam să-mi arăt iubirea; care muream de dorul tău, pe când tu treceai nepăsătoare pe lângă mine!</p>
 <p>— De ce nu mă crezi că și eu te iubesc ? Inima mea bate tot așa de tare și tot cu atâta foc ca și a ta! Te-am văzut acum întâia dată, este adevărat; cu toate astea, te iubesc de mult. Mama mi-a povestit adesea vitejiile și frica ce au ciocoii de tine și de atunci în totdeauna te vedeam în visurile mele. Tresăream întotdeauna la auzul numelui tău și rugam pe Dumnezeu să nu-mi dea alt bărbat, când va fi să mă mărit, decât pe tine, sau pe unul ca tine.</p>
@@ -445,7 +444,7 @@
   <p>—N-am iubit’o nici odată, draga mea !</p>
   <p>—Țaci  nelegiuitule, taci! îi răspunse ea și acoperindu-și fața cu mâinile începu să plângă.</p>
  </div>
-  <div type="chapter" n="4">
+  <div type="chapter">
 <head>Ghiță e pretutindeni și nicăeri</head>
 <p>Patru luni trecură. Ghiță Cătănuță trăia acum cu Vidra, însă fericirea pe care o visase mai dinainte, i se schimbase într’o durere nemărginită și într’un traiu plin de amărăciuni.</p>
 <p>De ce zilele treceau, de ce vedea mai mult că Vidra nu-l iubește, că nu poate nici să-l sufere.</p>
@@ -581,7 +580,7 @@
 <p>— Dar bine ! Ghiță Cătănuță e dracu ! exclamară cu toți.</p>
    <p><hi>— Ghiță e pretutindeni și nicăeri,</hi> strigă atunci un țigan, care slobozi două pistoale cu patru focuri, culcând încă trei la pământ. Apoi, ca fulgerul, se făcu nevăzut din ochii tuturora.</p>
   </div>
-<div type="chapter" n="5"> 
+<div type="chapter"> 
 <head>Cel din urmă sărutat.</head>
 <p>În mijlocul unei dese păduri, acolo unde razele soarelui pătrund cu greu, acolo unde iarba crește fără a fi călcată de picioarele oamenilor și unde secura nu a putut încă pătrunde, își făcuse Ghiță Cătănuță cuibul său.</p>
 <p>Intr’un bordeiu frumos, împresurat numai de flori și arbori cari își împleteau ramurile, ședea retras voinicul haiduc, împreună cu mândra lui, cu frumoasa Vidra.</p>
@@ -725,7 +724,7 @@
 <p>Din această zi sărmana Vidra nu-și mai văzu pe mama sa, ea însă o plânse întotdeauna și sănătatea ei se zdruncină din acea zi.</p>
 <p>De atunci buzele ei nu mai râseră și gândul ei întotdeauna se opriâ pe acel negru mormânt, pe care după cum vom vedea mai la vale nu avu nici fericirea ca să-l vadă.</p>
  </div>
- <div type="chapter" n="6">
+ <div type="chapter">
 <head>Potera nimicită</head>
   <p>După ce Ghiță Cătănuță dete porunca, ca să se strângă toți haiducii pe iângă dânsul, Chiriță împreună cu caraula dela pomul <quote>„primejdia"</quote> o luară in spre două părți opuse ale pădurei și băgând două degete în gură începură să fluere. Abia trecură câteva minute și voinicii care se aflau prin toate unghiurile codrului spre a spiona și a pune mâna pe cel dintâiu venetic ce vor vedea, se adunară lângă acei cari îi chemau.</p>
 <p>— Ce este ? întrebară ei.</p>
@@ -877,7 +876,7 @@
 <p>Pe când însă convoiul pășiâ încet, pe când glasul preoților se înălța spre ceruri, un voinic călare se opri la spatele sicriului, aruncă o mână viguroasă după talia Vidrei a ridica în sus, o aruncă pe calul său înspumat și împreună cu ea dispăru in depărtare, lăsând pe toți în cea mai mare uimire și spaimă tot odată.</p>
 <p>Acesta era Ghiță Cătănuță, care răpea pe Vidra Pentru a doua oară.</p>
  </div>
-<div type="chapter" n="7">
+<div type="chapter">
 <head>Trădarea Vidrei</head>
 <p>Era o seară frumoasă. Luna cu blânda ei față arunca neumărate raze argindi peste neagra față a pământului. Vidra era acum ia Ghiță Câtănuță. Noi știm că el a răpit-o tocmai când conducea pe muma ei spre vecinica-i locuință.</p>
 <p>Trecură de atunci mai muite săptămâni și Vidra nu văzuse decât lumea păsărilor și a fiarelor sălbatice.</p>
@@ -1099,7 +1098,7 @@
 <p>Luna esi de sub nori și lumina pădurea.</p>
 <p>Ea văzu într’o parte pe Ghițâ și pe Vidra, brațe în brațe iar puțin mai încolo pe Păunaș, care fugea și se uita inapoi.</p>
 </div>
-<div type="chapter" n="8">
+<div type="chapter">
    <head>Moartea Vidrei.</head>
  <p>Păunaș erâ scăpat, Vidra îl ajută la aceasta și tot pe ea  văzurăm în brațele lui Ghițâ Cătănuță.</p>
 <p>Dar cum a scăpat de urgia haiducului, a cărui furie era așa de mare ?</p>
@@ -1647,7 +1646,7 @@
   <p>—Oh! nelegiuit-o ! esclamă în cele din urmă. Tu iubiai pe acel Păunaș, tu mă înșelai pe mine, ei bine iată-ți răsplata !</p>
 <p>Și zicând aceste cuvinte, își șterse ochii de două lacrimi cari îi alunecară pe față și porni prin pădure.</p>
 </div>
- <div type="chapter" n="9">
+ <div type="chapter">
 <head>Ghiță Cătănuță bătut de poteră</head>
 <p>Inoptase.</p>
 <p>Ghiță Cătănuță rătăcia încă prin pădure.</p>
@@ -1695,7 +1694,7 @@
 <p>O asemenea purtare a marelui căpitan de haiduci fu pentru prima dată.</p>
 <p>Pentru prima dată Cătănuță se ascundea de frica poterii.</p>
  </div>
- <div type="chapter" n="10">
+ <div type="chapter">
 <head>Ghiță în pom</head>
 <head><hi>Nimicirea poterilor</hi></head>
 <p>Era noapte. Cătănuță eră bătut și după cât știm se urcase în pom, pentru a scăpă de urgia vrăjmașului.</p>
@@ -1783,7 +1782,7 @@
 <p>In strângerea lor, sângele care le curgea din rane le uda hainele cele scumpe, dar ciuruite de gloanțe.</p>
 <p>Astfel se împăcară poterile și mulțumind lui Dumnezeu că au mai scăpat dintr’inșii, eșiră din pădure, lăsând în urma lor mai multe sute de cadavre.</p>
  </div>
- <div type="chapter" n="11">
+ <div type="chapter">
 <head>Pedeapsa lui Dumnezeu</head>
 <p>Târziu de tot se coborî Ghiță din pomul în care era ascuns și cu un pas tremurător o luă prin pădure</p>
 <p>în zadar mai fluera acum, în zadar se întorcea să-și mai vaza haiducii venind la strigătul său.</p>
@@ -1807,7 +1806,7 @@
   <p>—Dumnezeule, zise el, mult am păcătuit înaintea ta</p>
 <p>După aceea îsi propuse ca să se faca din nou calugar, si să se retragă într-o peșteră, unde să stea retras în toată viața.</p>
  </div>
-<div type="chapter" n="12">
+<div type="chapter">
 <head>Cătănuță întors în lume</head>
 <p>Trecuse mai multe luni. Nimeni nu mat vorbea despre</p>
 <p>Numai femeile le auzeai din când în când zicând:</p>
@@ -1996,7 +1995,7 @@
    <p><quote>Iartă-mă Dumnezeule! Iartă-mă!</quote></p>
 <p>Cine să fie așa dar acest misterios bătrân ?</p>
  </div>
-<div type="chapter" n="13">
+<div type="chapter">
 <head>Moartea lui Ghiță Cătănuță</head>
 <p>intr’una din diminețele lunei Maiu, atunci când florile umpleau aerul cu mirosul lor, tot satul 
 <hi>Stânca</hi> era în picioare. Bătrâni și tineri, femei și» copii, cu toții se strângeau împrejurul casei lui moș Stroie.</p>
@@ -2018,7 +2017,7 @@
 <p>Toți cari erau acolo se uitară ia el cu milă, și toți acei cari au primit ajutorul lui, căzând în genuche, se rugară.</p>
 <p>,Dumnezeu să-l erte!“</p>
  </div>
- <div type="chapter" n="14">
+ <div type="chapter">
 <head>Cântecul lui Ghița Cătănuță</head>
   <quote type="ballad" n="1">
    <l>Frunză verde peliniță </l>

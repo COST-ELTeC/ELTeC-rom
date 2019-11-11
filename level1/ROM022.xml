@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" 
-   xml:id="ROM022" xml:lang="ro">
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM022" xml:lang="ro">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -20,36 +22,32 @@
             <measure unit="words">29807</measure>
             <measure unit="pages">116</measure>
          </extent>
-         <publicationStmt>
-            <p>Încorporat în ELTeC<date>2019-l0-01</date>
-            </p>
-         </publicationStmt>
-         <sourceDesc>
-            <bibl type="firstEdition">
+         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-11"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Încorporat în ELTeC2019-l0-01
+            --></publicationStmt>
+         <sourceDesc><bibl type="firstEdition">
                <author>P. MACRI</author>
                <title>HAIDUCUL TANDURA. SCRIERE ORIGINAL, CU ADAUSE SI MODIFICARI</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>„CULTURA ROMANEASCA”, S. A. R.</publisher>
                <date>1930 (1894)</date>
                <ref target="http://doi.org/10.5281/zenodo.2648485">Facsimile on zenodo</ref>
-                           </bibl>
-         </sourceDesc>
+                           </bibl></sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
-         <p></p>
+         <p/>
       </encodingDesc>
       <profileDesc>
          <langUsage>
-            <language ident="ro"></language>
+            <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender key="M"></e:authorGender>
-            <e:size key="short"></e:size>
-            <e:canonicity key="low"></e:canonicity>
-            <e:timeSlot key="T3"></e:timeSlot>
+            <e:authorGender key="M"/>
+            <e:size key="short"/>
+            <e:canonicity key="low"/>
+            <e:timeSlot key="T3"/>
          </textDesc>
       </profileDesc>
-      <revisionDesc>
+      <revisionDesc><change when="2019-11-11">Checked by releaseChecker script</change>
          <change when="2019-09-21">Initial TEI version generated.</change>
       </revisionDesc>
    </teiHeader>
@@ -77,7 +75,7 @@
          <gap unit="page" extent="2"/>
          <div type="liminal">
             <head>PREFAȚĂ</head>
-            <milestone unit="header" rend="line"/>
+            
             <p><hi>Sunt mai mulți ani de când un amic al meu îmi lăsă un manuscris rugându-mă să-l revăd și dacă îl voiu găsi bun să-l dau publicității.</hi></p>
             <p><hi>L’am aruncat în mica mea bibliotecă și a rămas acolo uitat...</hi></p>
             <p><hi>Mai zilele trecute, răsfoind prin hârtiile mele pentru a putea găsi vre-un manuscris interesant și pentru a citi încă odată aceea ce scrisesem acum câți-va ani, găsi din întâmplare și acest manus-cris și odată cu citirea inițialelor M. A. îmi adusei aminte și de bunul meu prieten.</hi></p>
@@ -87,13 +85,13 @@
             <p><hi>Haiducii, departe d'a fi niște hoți, după cum îi numesc unii, îi putem trece în rândul martirilor.</hi></p>
             <p><hi><hi>Țandură</hi>, făcând parte din această grupă, am găsit de interes a publica viața lui și complectând manuscrisul prietenului meu, revăzându-l și pre-făcându-l, îl aduc înaintea d-voastră, iubiți cititori, cari singuri sunteți în drept a vă da părerea în bine sau în rău.</hi></p>
             <p><hi>P. Macri.</hi></p>
-            <milestone unit="end" rend="line"/>
+            
          </div>
   </front>
    <body>
-      <div type="chapter" n="1">
+      <div type="chapter">
          <head><hi>Copilăria lui Țandură</hi></head>
-         <milestone unit="header" rend="line"/>
+         
          <p>In anul 1819 Muntenia și Moldova se aflau într’o fierbere și într’o învălmășeală din cele mai mari, din cauza schimbării Domnilor la tron, și din cauza gre-cilor fanarioți și a arnăuților, cari devastau și jefuiau țara fără cruțare, fără ca să se gândească că D-zeu odată va trimite urgia lui pentru a pedepsi faptele lor cele urâte.</p>
          <p>După o iarnă geroasă și cumplită, se arătă primă-vara dulce și voioasă, plină de farmec, zâmbitoare și dătătoare de viață la tot ce întâlnește în calea ei.</p>
          <p>Acest timp frumos, căru’i putem zice ramură ruptă din paradis, face pe ori care muritor să uite de tre-cutul său cel plin de suferințe, privind și respirând aerul cel curat și dulce al naturei.</p>
@@ -142,7 +140,7 @@
          <p>— Dar să vedem ce a făcut voinicul Năstase cu cei 20 de palicari cu care s’a dus. Poate o fi pus mâna pe el.</p>
          <p>— Iar dacă nu l’o putut prinde, mă voi duce eu cu toţi 30 de palicari și îl voi aduce de urechi, viu nevătămat.</p>
          <p>— Să te văz ce-ţi poate osul, zise Chirilis, și bagă de seamă că acest hoț e șiret de n’are mar-gini, bagă de seamă să nu te prinză el pe tine în loc să-l prinzi tu pe el.</p>
-         <milestone unit="middle" rend="dots"/>
+         <milestone rend="dots" unit="subchapter"/>
          <p>Pe când Chirilis și Eftimis ceașul își făceau planul cum ar putea prinde pe Țandură haiducul, o răpăi-tură de cai se auzi venind din mijlocul satului.</p>
          <p>Nu trecu mult și această răpăitură, acest tropot de cai se apropie de poarta curții lui Chirilis care îndată se deschise de un arnăut ce era ca santinelă lăsându-i pe călăreți să intre înăuntru cari nu erau decât cinci și cu vornicul șase. Tot deodată și ser-vitorul care l-am văzut puțin mai înainte că a adus cafea și ciubucul stăpânului său veni și anunță pe Chirilis despre sosirea vornicului.</p>
          <p>— A prins pe hoțu de Țandură? întrebă Chirilis pe servitor.</p>
@@ -249,7 +247,7 @@
          <p>Du-te acum, că el este la bucătărie, după cum știi, și învoește-te cu el.</p>
          <p>In acel timp când vornicul se ducea să se învo-iască și să se plănuiască cu țăranul pentru prinderea lui Țandură, veni și servitorul să anunțe pe stăpânul său despre capegiu, că s’a sculat și că masa e gata.</p>
          <p>— Bine, zise Chirilis, și după aceea trecu în ia-tacul unde se afla capegiul, și după ce îl salută îl învită de a prânzi împreună.</p>
-         <milestone unit="absent"/>
+         <milestone rend="space" unit="subchapter"/>
          <p>Să lăsăm pe Chirilis șezând la masă împreună cu capegiul trimis de vodă și să ne întoarcem descriind viața haiducului înainte cu 4 ani.</p>
          <p>Țandură era din comuna Valea Popii, în etate de 19 ani; părinții lui și el se ocupau cu munca pământului.</p>
          <p>Intr’o dimineață din luna lui Maiu, tatăl său care se numea Aldea, îi zise:</p>
@@ -286,7 +284,7 @@
          <p>După aceasta Țandură le trase pistoalele ce le avu înfipte la brâu, și mai uitându-se puţin la ei cum se sbăteau de moarte, plecă repede pentru a eși la marginea crângului tot pe unde venise.</p>
          <p>Ajuns aci dete peste caii grecilor legați de arbore, se uită la ei și trecu înainte până ce eși tot la câmp liber. Stătu pe loc, își făcu ochii roată împrejur, apoi se întoarse iarăși spre locul unde se aflau caii legați zicând: — Ca să mă mai duc acasă, nici vorbă!... Mă voiu duce la tata numai dacă l’ași găsi, sâ’i spun că ’mi iau rămas bun de la dânsul și să se păzească cum e mai bine de acești nelegiuiți.</p>
          <p>Țandură cugetând la acea ce era de făcut și ce fel de curs o să’și ia această întâmplare nenorocită pentru el și pentru tatăl său, trecuse înainte de locul unde trebuia să se ducă, când fu deșteptat de ne-chezatul unuia din cei doi cai și întorcându-se încă-lecă pe unul care ’i se păru mai bun, sbură ca vântul spre drumul cel mare pentru a întâlni pe tatăl său, de la care trebuia să’și ia rămas bun.</p>
-         <milestone unit="absent"/>
+         <milestone rend="space" unit="subchapter"/>
          <p>Două zile trecură după această întâmplare și găsim pe Țandură în județul Vâlcea într’o pădure unde sosise cu câte-va minute mai înainte și priponind calul unde văzu că e iarbă mai mare se retrase puțin mai la o parte unde era un morman de frunziș adunat de vânt și se aruncă pe el pentru a se odihni.</p>
          <p>Nu trecu mult și Țandură, fiind obosit de călă-toria sa, adormi. Incepuse apoi să viseze niște vise îngrozitoare. Mai întâi i se păru că vede pe tatăl său acuzat de omorâtorul acelor doi arnăuţi și dus înaintea judecății, și după aceea la spânzurătoare, vedea cum slujbașii stâpânirei le confiscă și împart între ei averea tatălui său, cum jefuesc și dau mai pe urmă foc casei, pe urmă se văzu prins și el, și legat strâns, îl duceau spre locul unde trebuia să’și ia adio de la lume. In acest timp să fi văzut cum Țandură se lupta contra acelor ce ’1 duceau, spre locul de supliciu, să’l fi văzut cum își strângea pumnii și cum scrâșnea din dinţi. Ast-fel se luptă el în vis aproape patru ore, când fu deșteptat prin cântecul unei mierle ce era deasupra sa printre crăcile ar-borelui, și văzând că e aproape seară se sculă, luă calul de căpăstu și după ce eși la o potecă care mergea cam alături cu drumul cel mare după cum își făcea el calculul, încălică, și merse pe acea po-tecă până ce începu să înopteze. Odată cu întune-ricul fu silit să iasă spre drumul mare; dar unde avea de gând să meargă? nu știm.</p>
          <p>Un vânt începu să sufle, făcând un sgomot asur-zitor; veverițele și bufnitele se întorceau una cu alta prin t'petele lor cele sonore. Tot-deodată începură și vulpele a chelălăi, apoi mai multi lupi nu întâr-ziară cu urletul lor cel înfiorător. Toate aceste păsări și animale nocturne, împreună cu mugetul pădurei complecta o muzică infernală care făcea să i-se sbur-lească părul oricui s’ar fi aflat pe acel timp acolo. Mai în depărtare se auzea trosnetul unei crăci uscate care nu mai avea putere să se mai țină fiind isbită de o altă cracă verde care și aceia era împinsă de vânt. Mai colea un fâșiit se auzea ca și cum ar fi târât cine-va o grapă, dincolo o scârjiitură care pro-venea din frecarea a două crăci aproape uscate, și la toate acestea asculta Țandură și mergea cam cu băgare de seamă să nu fie lovit de vr'o cracă, când deodată văzu că calul ciulește urechile și începu a sforăi</p>
@@ -368,7 +366,7 @@
          <p>— Cam câți servitori are? întrebă căpitanul.</p>
          <p>— Apoi poate să aibă cam 30 — 40 cu toți.</p>
          <p>— Bine o să-i facem noi de petrecanie, termină căpitanul haiducilor. Acum haidem la masă.</p>
-         <milestone unit="middle" rend="dots" />
+         <milestone rend="dots" unit="subchapter"/>
          <p>După ce trecu trei săptămâni de la intrarea lui Țandură între haiduci, Mereanu, căpitanul lor căzu într’o luptă ce avu cu mai multe poteri și după moartea lui, fu ales și numit căpitan de haiduci Iancu Jianu. Acesta aduse groază și spaima printre turci și grecii turciți și chiar până la domnie, răsuna cu groază numele lui.</p>
          <p>Acesta fu unul din fiii cei mai bravi ai codrilor, hotărât de a-și răsbuna de la cel mai mic și neân-semnat fanariot, până la tron.</p>
          <p>El știu să împartă cete de haiduci în diferite locuri, pe unde inamicul țărei se îngrămădea pentru a suge sângele românului.</p>
@@ -485,7 +483,7 @@
          <p>— Dacă aceștia vor fi niscai-va nelegiuiți apoi le voi săra pielea cu gloanțe, ca să nu se mucezească. Iar dacă vor fi oameni de treabă, mă vor scuti de vr'o câte-va umpluturi de pistoale.</p>
          <p>Astfel își zicea Țandură urmărind pe acei care nu erau decât niște turci care jefuiră pe un biet român în casa lui, profanând și violându-i fiicele și nevasta pe care acum îl duceau să ’l îngroape de viu cine știe unde. Să mergem puțin mai înainte unde vom da de o cârciumă așezată pe marginea drumului, și cu o depărtare cam de două fugi de cal de marginea satului.</p>
          </div>
-      <div type="chapter" n="2">
+      <div type="chapter">
          <head><hi>Cârciuma neagră sau locul de torturi</hi></head>
          <p>In depărtare aproape cu un sfert de poștă de satul C... era o cârciumă ce se numea cârciuma neagră.</p>
          <p>Mai toți locuitorii din satele de prin prejurul acestei cârciumi ’și închipuiau, și unii chiar ziceau, că această cârciumă ar fi dăruită lui satana, din causă că oricine ar fi vrut să deschidă un negoț de vinuri nu trecea trei patru zile și îl găsea mort, sau că nu se mai afla ce s’a făcut.</p>
@@ -494,7 +492,7 @@
          <p>Mulți din trecători se închinau și ziceau câte o litanie sfântă când ajungeau, trecând repede pe di-naintea acestei locuințe infernale.</p>
          <p>Unii ziceau că această locuință este locuită de draci. Alții mai ziceau că poate ciuma ’și va fi făcut culcușul aci, și mai mulți ’și dau fel de fel de păreri care mai de care mai extravagantă, și mai înfiorătoare; ba dela un timp începuse a se răs-pândi un miros greu încât o adiere de vânt dacă venea dinspre acea locuință blestemată trebuia ori-cine ar fi trecut pe acolo să’și astupe nasul, și să’și oprească respirația până să se depărteze de acest loc căci alt-fel l’ar fi apucat durerea de cap.</p>
          <p>Cu toate aceste superstiții ce se împrăștiase printre românii din acele locuri, totuși un grec venind de curând în țară, se așeză în această locuință împreună cu o liotă de servitori de toată mâna pentru a spe-cula și jefui mai bine pe român.</p>
-         <milestone unit="middle" rend="dots"/>
+         <milestone rend="dots" unit="subchapter"/>
          <p>Trecuse o jumătate de an de când acesta sub nu-mele de cârciumar care n’avea decât o sticlă cu apă care mirosea a rachiu, câțiva covrigi și un bu-toiaș cu câte-va vedre de vin oțețit, bântuia și je-fuia pe locuitorii de prin prejur.</p>
          <p>Mulți călători care poposeau la această cârciumă apucându’i noaptea, nu mai eșeau, erau pentru tot-d’a-una adormiți și odihniți, cu deosebire de cei mai săraci care scăpau cu puținul ce aveau.</p>
          <p>Dar mai înainte de toate, fără a ne perde șirul narațiunei noastre, să arătăm în puține cuvinte in-teriorul acestei locuințe, care pe dinafară era luată drept o locuință simplă cu patru încăperi.</p>
@@ -514,7 +512,7 @@
          <p>— Ce ești nebun? O fi vre-unul din palicarii mei, zise stăpânul cârciumei.</p>
          <p>— Aș nici că mai e vorbă, ce eu sunt chior ju-pâne? Dacă nu mă crezi uita-te din ușă, și te vei convinge de adevăr.</p>
       </div>
-         <div type="chapter" n="3">
+         <div type="chapter">
             <head><hi>Descoperirea unei crime.</hi></head>
             <p>Pe când Țandură se ținea cât colea urmărind acea grupă de oameni călări care mergea cam încet înaintea lui, un mormăit neințeles care venea de peste câmp îi lovi urechile, făcându-l să stea puțin locului.</p>
             <p>Acest mormăit devenea din ce în ce mai tare și mai înfiorător.</p>
@@ -637,7 +635,7 @@
             <p>Căutară pe Cristea, stăpânul cârciumei și nu-l găsiră de cât tocmai târziu în pimniță mort.</p>
             <p>— Al blestematule, l’ai ucis... ei bine vei muri de moartea cea mai crudă, strigă unul din ei și-l închiseră într’una din odăi.</p>
          </div>
-         <div type="chapter" n="4">
+         <div type="chapter">
             <head><hi>C h i r i l i s.</hi></head>
             <p>Nu departe de poalele capriciosului rîu, care stră-bate județul Muscel, se întind casele grecului Chi-rilis, unul dintre cei mai mari favoriți ai Măriei sale Vodă.</p>
             <p>Răsturnat pe o sofa și fumând dintr’un ciubuc lung stetea renegatul fanariot și medita la mii de feluri de planuri infernale.</p>
@@ -685,7 +683,7 @@
             <p>Cu multă sfințenie te cinsteau bătrânii noștri... mult s’au mai închinat ție, căci tu erai—pe atunci— mărturia unui suflet curat, unei inimi sfinte.</p>
             <p>Astă-zi tu ești aproape cum se zice o enigmă de care se miră toți și te spionează.</p>
          </div>
-         <div type="chapter" n="5">
+         <div type="chapter">
             <head><hi>M ă r i u c a.</hi></head>
             <p>Aproape de marginea satului unde-l găsim pe Chirilis, se ridica o mică căsuță de o albeață stră-lucitoare și acoperită cu pae.</p>
             <p>Inlăuntru ca și afară respira curățenia cea mai mare.</p>
@@ -736,7 +734,7 @@
             <p>— Negreșit, ziseră toți.</p>
             <p>Și frumoasa copilă fu luată de sbirii plătiți.</p>
          </div>
-         <div type="chapter" n="6">
+         <div type="chapter">
             <head><hi>Cum știa să plătească Țandură.</hi></head>
             <p>Jianu și Țandură sunt două figuri impunătoare. Amândoi haiduci, harnici de codru, cu credință în D zeu și cu dor de țară, sufletul lor mai presus de orice simția durerile care pătrundeau sânul opincăi.</p>
             <p>Jianu și Țandură, pe care făptura-i născuse pentru a aduce o mică ușurare săteanului suferind nu se dădeau niciodată înlături, pentru a da ajutorul cuvenit, ori de unde li se cerea sau d’unde de la ce treaptă venea acest ajutor.</p>
@@ -871,7 +869,7 @@
             <p>— Da, fiul meu, durerea atâtor ani mă oțelește, brațul meu e încă tare, mintea mea bună pentru a'ți da când și când câte o povață.</p>
             <p>Lea Ilinca se sui pe cal și toți ceilalți trei o luară pe jos spre Cârciuma neagră.</p>
          </div>
-         <div type="chapter" n="7">
+         <div type="chapter">
             <head><hi>Stan Ciupercă.</hi></head>
             <p>Cârciuma neagră era în apropiere în satul unde Țandură îmbrăcat în haine turcești mergea la Chi-rilis, pentru a’i aduce ziua de dreptate.</p>
             <p>Era noapte.</p>
@@ -932,7 +930,7 @@
             <p>Fără a le mai zice nici un cuvânt el se repezi spre ei, își trase cuțitul cu două ascuțișuri de la brâu și le străpunse inima.</p>
             <p>— Haide Stane ! haide, zise dupe aceia priete-nului său pe care îl pierdu într’un puț și pe care acum îl putu regăsi în mijlocul unui beciu ce servea ca loc de tortură acelor mizerabile ființe care um-piuseră țara sugrumând-o și sugându-i sângele</p>
          </div>
-         <div type="chapter" n="8">
+         <div type="chapter">
             <head><hi>Pădurea Jurământului.</hi></head>
             <p>Era în luna lui Maiu, luna florilor și a dragostei. Ghioceii începură a se arăta prin văi și pe coastele munților și pe ici-colea se auzea din când în când drăgălaș ciripit al păsărilor.</p>
             <p>In timpul acesta, nu departe de Câmpu-lung, în județul Muscel, într’un sat vechiu, unde străinismul n'a putut încă să pătrunză, unde dorul de ară și iubirea aproapelui s'a păstrat încă în toată mărimea lui, un om mic de stat, dar bine făcut, cu privirile vii, cu faţa totd'auna veselă și râzătoare intra prin drumul cel mare și se abătu la una din casele țără-nești.</p>
@@ -953,7 +951,7 @@
             <p>In urma acestor cuvinte aruncară cu toții zeghile udate de rouă dimineței și încrucișind puștile, pe cari Țandură le puse la dispoziția lor, strigară într’o voce:</p>
             <p><hi>— Jurăm, urăm și moarte în contra străinilor, jurăm pacea și fericirea pentru frații noștri români!</hi></p>
          </div>
-         <div type="chapter" n="9">
+         <div type="chapter">
             <head><hi>Vintilă.</hi></head>
             <p>Intr’una din cele mai pietroase locuri ale Musce-lului, e un sat mărginit spre miază-noapte și apus de un deal presărat de păduri încântătoare, cari par ar fi semănate de mâna poesiei sau a plăcerei.</p>
             <p>In vale, la picioarele acestui nalt deal șerpuește un râu care murmură printre pletoasele sălcii, cu șoapte dulci.</p>
@@ -981,9 +979,9 @@
             <p>— Buna și iubita mea Sofie, voiu fi în curând lângă tine, voiu ști dela Țandură cum să plătesc grecului din Fanar sau bulgarului grecit. Calea mea e aleasă, te voiu scăpa și în urmă... dacă vei voi, mă vei însoți în viața ce ’mi-am ales’o.</p>
             <p>Acum la Țandură, numele său fie bine-cuvântat, urmașii vor ști scopul martirizării tale.</p>
             </div>
-         <div type="chapter" n="10">
-            <div>
-            <head><hi>Lupta din Pădure.</hi></head>
+         <div type="chapter">
+            
+            <p><label>Lupta din Pădure.</label></p>
                <p>Trei luni trecuseră din ziua în care se făcu acel jurământ și de trei luni nu răsună în toată țara de cât un singur nume: Țandură! Ciocoii începură să se înspăimânte, fanarioții tremurau la auzul lui și vai de streinul care ar fi căzut pe mâinile acelor trei-spre-zece haiduci tot unu și unu, șoimani de codru.</p>
                <p>Insuși cârmuirea înspăimântată dădu ordine se-vere pe la toate poterile ca să prindă viu sau mort pe Țandură și să’l ducă la divan.</p>
                <p>Haiducii după o lungă călătorie prin aproape toate județele de prin prejurul Muscelului, se retraseră cu mâinile înmuiate de sânge și cu pungile îndesate cu aur în pădurea supranumită de dânșii «Jurământul».</p>
@@ -1005,8 +1003,8 @@
                <p>— Acum cântecul, să auzim cântecul, strigară toți haiducii într’o voce, înduioșați puțin de aceste cuvinte.</p>
                <p>— Da, să vă cânt, le zise Toader Rotaru, să vă cânt ca să-mi reamintesc de acel timp de plăcere și de durere tot odată. Să vă cânt pentru ca să deschid mai mult focul pe care îl port în peptul meu ca ast-fel să fiu mai setos de răsbunare. Oh! și mi-ar trebui mult sânge, ar trebui să sting multe vieți spurcate pentru ca să-mi pot spăla rana care stă nevindecată în inima mea!</p>
                <p>In urma acestor spuse mai aruncă de vr’o câteva ori ochii în jurul său ca și când ar fi voit să mă-soare desimea pădurei, apoi cu o voce sonoră și tremurătoare cântă acest cântec pe care ecoul nopței îl repeta în depărtare:</p>
-            </div>
-               <div type="song">
+            
+               
                   <l>Pretutindeni ai umblat</l>
                   <l>Să te cat!...</l>
                   <l>Să te cat...</l>
@@ -1028,8 +1026,8 @@
                   <l>Să iubești</l>
                   <l>Și pe mine!...</l>
                   <l>Și pe mine...</l>
-               </div>
-               <div>
+               
+               
                <p>Astfel cântă Toader și după ce fiecare dintre tovarășii lui îi strânse mâna, se sculară de la masă și făcură cruce înălțând cu toții o rugăciune către cer.</p>
                <p>— Măi Vintilă, zise după aceea Țandură, tu du-te în partea despre răsărit, urcă-te pe vârful unui copac și uită-te ca nu cumva să fim călcați de vre-o poteră.</p>
                <p>— Tu, Stroe, zise după aceea adresându-se către un alt haiduc! sue-te pe vârful stâncei numită a lui Nichipercea și când vei zări vre-un semn de pri/mejdie scoate o șuerătură ca de șarpe.</p>
@@ -1041,9 +1039,9 @@
                <p>Cei trei haiduci care făceau de caraulă se repeziră numai de cât prin mijlocul pădurei, se împrăștiară în trei părți deosebite și începură să descarce la focuri. Erau învățați cu ast fel de jucării. O poteră înaintă numai decât prin mijlocul pădurei și slo-bozia la puști în cât credeai că te afli pe vre-un câmp de resbel. Nu trecu mult și o nouă duruitură de puști se auzi din partea cealaltă a pădurei; era potera care venia sub comanda marelui Serdar Pan deli. Cei trei haiduci printr’o dibăcie proprie numai lor conduse ast-fel poterile, în cât ele se văzură față în față. Atunci începu o luptă dintre cele mai crâncene. Din amândouă părțile cădeau gloanțele ca ploaia, din amândouă părțile snopuri-snopuri se culcau la pământ, cadavrele poterașilor, cari fără să știe se omorau între ei. Această luptă dură până aproape de dimineață.</p>
                <p>Când razele soarelui se iviră pe cer și luminară pădurea, haiducii putură număra mai bine de 150 de corpuri care zăceau moarte.</p>
                <p>— Ast-fel vor muri toți acei cari se vor încerca a ne urmări! exclamă Țandură și cu haiducii săi, își aruncară apoi puștile pe spinare și plecară lăsând ca corbii să împartă între dânșii stârvurile acelor 150 de poterași.</p>
-               </div>    
+                   
          </div>
-         <div type="chapter" n="11">
+         <div type="chapter">
             <head><hi>Stoica și Sofia.</hi></head>
             <p>In județul Râmnicul-Sărat e o comună, anume Corbu, astă-zi proprietatea Eforiei, atunci proprietatea lui Serdar-Stoica; pe latura acestei comune curge Siretul limpede ca cristalul.</p>
             <p>Stoica nu venise decât de curând în țară, însă prin ajutorul veneticilor din Fanar, putu în curând să poseadă o avere destul de însemnată.</p>
@@ -1141,7 +1139,7 @@
             <p>Țandură și Stan Ciupercă, căci erau ei, se repe-zise la ceilalți greci pe care i măcelări cu totul.</p>
             <p>Câteva ore în urmă câteși trei, împreună și cu Sofia eșeau din sat cu una din trăsurile lui Stoica. In urma lor casa ardea răspândind o flacără roșie ca sângele ce-l vărsase acești venetici.</p>
          </div>
-         <div type="chapter" n="12">
+         <div type="chapter">
             <head><hi>Mariuca și Sofia.</hi></head>
             <p>Soarele era aproape s'apună când o trăsură s’a-propia de pădurea Jurământului. Mai întâi hai-ducii crezură că e o pleașcă de grecotei. Șueră-turile pătrundeau și o mișcare de pregătire se petrecea printre flăcăii crângului.</p>
             <p>Deodată o șuerătură ascuțită și de un fel cu totul altul decât cele ce se petrecea veni dintr’un vârf de pom.</p>
@@ -1167,7 +1165,7 @@
             <p>Ursul fu ucis.</p>
             <p>De atunci recunoștința Sofiei fu mare și dragostea ei și mai mare.</p>
          </div>
-         <div type="chapter" n="13">
+         <div type="chapter">
             <head><hi>La Domnești</hi></head>
             <p>Țandură era numele ce ’l vesteau sătenii cu drag iar fanarioții cu fior.</p>
             <p>Țandură făcuse atâtea victime printre rândurile acestor lipitori care sugeau cu nesațiu din sângele muncitorilor.</p>
@@ -1228,7 +1226,7 @@
             <p>Apoi luând trăsura plecă la casa săteanului, unde lăsase pe Sofia, trecu în mijlocul satului, împărți pe la toți banii grecilor și plecă urmat de strigătele de veselie ale sătenilor.</p>
             <p>— Trăiască Țandură și haiducii lui! strigară cu toții.</p>
          </div>
-         <div type="chapter" n="14">
+         <div type="chapter">
             <head><hi>Țandură ici, Țandură colea</hi></head>
             <p>Din curtea grecilor Țandură mai luase încă o tră-sură, pe capra căreia se puse Andrei argatul.</p>
             <p>Căpetenia haiducilor dela pădurea Jurământului și cu Vintilă trecuse în trăsura luată și pe Stan îl tri-mise în codru.</p>
@@ -1265,9 +1263,9 @@
             <p>Țandură le dete bani și ’i rugă să se ducă pe la vetrele lor.</p>
             <p>Grecul arendaș plăti cu viața, îndrăsneala ce avu-sese de a trimite o poteră în codrul din «Pădurea jurământului».</p>
          </div>
-         <div type="chapter" n="15">
-            <div>
-            <head><hi>Țandură lasă codrul.</hi></head>
+         <div type="chapter">
+            
+            <p><label>Țandură lasă codrul.</label></p>
                <p>Brațul vânos al lui Țandură, sluji codrului zece ani.</p>
                <p>Numele acestui viteaz martir era pronunțat cu iubire și respect de toți sătenii cari sufereau schin-giuirile veneticilor din Fanar.</p>
                <p>Figura acestui haiduc, care a strălucit prin faptele generoase pentru fratele său român, dacă nu ar fi însoțită de atâtea crime, trebuincioase, ar merita la treapta unui martir.</p>
@@ -1275,21 +1273,21 @@
                <p>Era atât de frumoasă viața lui, era atât de fericit cu Mariuca și cu fratele său Vintilă pe care îl cu/nunase el, încât i se părea că e chemat de D-zeu a trăi numai aici.</p>
                <p>Câte erni și câte primăveri nu petrecură ei aci.</p>
                <p>La dogoarea focului, ori la umbra copacilor din veacuri spunea basme frumoase. — Și de câte ori Țandură și Vintilă auzia de:</p>
-            </div>
-               <div type="poem">
+            
+               
                   <l>Iliana Cosinziana</l>
                   <l>Din cosița’i aur curge.</l>
-               </div>
-               <div>
+               
+               
                <p>Săruta pe mândrele lor.</p>
                <p>Aci în codru se plăteau crimele grecoteilor.</p>  
                <p>Și tot aici în codru veneau sătenii la frații lor, spre a se plânge de păsurile lor.</p>
-               <p>Trecuse zece ani și sătenii din Muscel, Râmnicul->Sărat, Focșani și din județele vecine începuse a mai răsufla căci Țandură spăimântase pe lipitori.</p>
+               <p>Trecuse zece ani și sătenii din Muscel, Râmnicul-&gt;Sărat, Focșani și din județele vecine începuse a mai răsufla căci Țandură spăimântase pe lipitori.</p>
                <p>Nenorocirea face ca Țandură să fie smuls de moarte din mijlocul oamenilor în suferințe.</p>
                <p>Ceilalți se duse pe la vetrele lor; iar Vintilă se așeză în Câmpu-lung cu micii lui copii.</p>
+            
             </div>
-            </div>
-         <div type="chapter" n="16">
+         <div type="chapter">
             <head><hi>Bordeiul trăsnit.</hi></head>
             <p>Omul cel mai de merit are și defectele sale. Țan-dură este o figură impunătoare, este unul din acei martiri, care au luptat pentru scăparea acestei țări de sub acel jug mârșav în care a pus’o fanarioții.</p>
             <p>Țandură iubea pe Mariuca, pe care a scăpat-o din mânele spurcatului Chirilis, dar trebue să spunem că Țandură era unul din acei oameni, cari iubindu-și prea mult țara, iubea prea puțin femeile.</p>
@@ -1418,7 +1416,7 @@
       <note>La jumătatea adâncimei acestui puț a cărui urmă i se cunoaște și astăzi, era vizuina unui șarpe gigante care eșea din când în cândpentru a’și găsi prada sa. Ast-fel că într'o zi mai mulți copii eșiră la câmp pentru a să juca. Din nenorocire unul din ei căzu în acest puț unde părinții lui îl găsi înfășurat de șarpele care ’l sugea, și nu’i scoase de cât mort. Iar șarpele se făcu nevăzut; unde? nu se știe.</note>
    </div>
    <gap unit="graphic" extent="table"/>
-   <div>
+   <div type="liminal">
       <head>Au apărut:</head>
       <p><hi><title>Iancu Jianu Căpitan de haiduci</title></hi></p>
       <p>Preţul Lei 20.-</p>
@@ -1439,7 +1437,7 @@
    </div>
    <gap unit="page" extent="3"/>
    <gap unit="page" extent="4"/>
-   <div>
+   <div type="liminal">
    <p>IN EDITURA LIBRĂRIEI</p>
    <p>CULTURA ROMÂNEASCĂ S. A. R.</p>
       <p><hi>au apărut următoarele cărți:</hi></p>
