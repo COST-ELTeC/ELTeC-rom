@@ -9,8 +9,10 @@ General information about ELTeC releases is available at https://github.com/COST
 
 Contributors:
 
-Collection editor(s): ROXANA PATRAS
-Contributors: Ioana Lionte, Lucretia Pascariu, Alexandra Olteanu
+Collection editor(s): ROXANA PATRAS.
+
+Contributors: Ioana Lionte, Lucretia Pascariu, Alexandra Olteanu.
+
 Sources: Biblioteca Metropolitana din Bucuresti, Biblioteca Universitara "Mihai Eminescu" din Iasi, Biblioteca Judeteana din Botosani, personal micro-collections uploaded on zenodo under the following labels: "Hajduks Library_";"RomanianNovel Library_" and "CityMysteries Library_" .
 
 Licence:
