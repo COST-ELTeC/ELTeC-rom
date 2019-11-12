@@ -1,6 +1,6 @@
 # ELTeC-rom
 This is the Romanian novel collection for ELTeC-The European Literary Collection, produced by the COST action "Distant Reading for European Literary History" (CA16204, https://distant-reading.net).
-The first iteration illustrates the most represented novel sub-genres of the Romanian literary tradition (hajduk, city mystery, and historical) as well as a variety of editorial practices and ortographic standards used between 1840-1920. The ELTeC-rom collection contains 26 novels encoded at level 1. 
+The first iteration illustrates the most representative novel sub-genres in the Romanian literary tradition (hajduk, city mystery, and historical) as well as a variety of editorial practices and ortographic standards used between 1840-1920. The ELTeC-rom collection contains 26 novels encoded at level 1. 
  
 
 Release notes
