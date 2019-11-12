@@ -7,7 +7,7 @@ Release notes:
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC.
 
 
-Contributors:
+
 
 Collection editor(s): ROXANA PATRAS.
 
