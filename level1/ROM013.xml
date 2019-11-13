@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM013" xml:lang="ro">
  <teiHeader>
   <fileDesc>
@@ -30,7 +34,7 @@
    </sourceDesc>
   </fileDesc>
   <encodingDesc n="eltec-1">
-   
+   <p/>
   </encodingDesc>
   <profileDesc xmlns:e="http://distantreading.net/eltec/ns">
    <langUsage>
@@ -53,7 +57,7 @@
             <p>LA GURA SOBEI</p>
         </div>
     </front>
- 
+ <body>
   <div type="chapter" n="1">
   <head>GEORGE</head>
 <p>Intr-o frumoasă dimineaţă...
@@ -1299,7 +1303,7 @@ litere</hi>, oricît de <hi>uşoară </hi> ar fi sau sunt acuzaţi de a fi, e m
 <p>Simţeam sufletul meu zdrobit; trebuia să-l transform, să-l galvanizez cu ideile nouă cari începeau a ocupa toate spiritele; trebuia să dau un element activităţii mele.</p>
 <p>Cînd sufletul nu ştie în ce să-şi cheltuiască viaţa, el se sfîşie pe sine chiar.</p>
 <p>Nu crede însă cu toate acestea că căzui într-o rece mizantropie; nu crede că după buzele mele nu picară decît cuvinte pline de o dureroasă ironie.</p>
-    <note> Numele străine din acest român sunt toate nişte pseudonime.</note>
+
  <p>Nu sunt dintr-acei cari, totdeauna şi eu orice ocaziune, oaut a poetiza puţin lucrurile vieţii şi a nu le vedea decît sub ziua lor cea mai favorabilă; din acei cari consiliez uitarea ca remediu, dar cari păstrează suvenirea ca mîngîiere.</p>
 <p>Da, suvenirea îmi pare de bună voie un paradis pă-mîntesc în care sufletul se aşează şi se odihneşte de ostenelele şi de amăgirile speranţei. De bună voie, după viaţa mea activă şi sfâşietoare, mă opresc prin căi ca să număr florile ce le dă imaginaţiunea mea; mă leagăn cu iluziunile mele.</p>
 <p>Vai! vai! această lume, în adevăr, au nu e totul o iluziune, şi cel mai bun mijloc de a trăi cineva aci cu inima sa nu e acela de a visa deştept?</p>
@@ -2231,7 +2235,7 @@ litere</hi>, oricît de <hi>uşoară </hi> ar fi sau sunt acuzaţi de a fi, e m
    <div type="chapter" n="31">
 <head>XXXI</head>
 <head>JURNALUL UNUI JUNE</head>
-<quote><p><label>Octombrie</label> — Bucureşti, Azi luni seara.</p>
+<p><label>Octombrie</label> — Bucureşti, Azi luni seara.</p>
 <p>—<label>Miezul nopţii.</label></p>
 <p>„Iată o idee nebună ce-mi trece prin minte. Dar ce să fac acum cînd ninge afară, şi cînd stau la gura sobei; ce să fac altceva decît să visez şi să scriu?</p>
 <p>Mai adineaori căutînd într-un sertar, am găsit un mic album, încă neatins, pe care-1 cumpărasem altă dată ca să copiez în el nişte versuri...</p>
@@ -2366,7 +2370,7 @@ litere</hi>, oricît de <hi>uşoară </hi> ar fi sau sunt acuzaţi de a fi, e m
 <l><hi>Vino morţii de-i răpeşte</hi></l> 
  <l><hi>Un biet suflet simţitor.</hi></l>
  
-<div><p>Acest secret aşa de dulce şi aşa de trist, păstrează-! bine, cărticica mea de aur, căci el trebuie să trăiască şi să moară numai între noi.</p></div>
+<p>Acest secret aşa de dulce şi aşa de trist, păstrează-! bine, cărticica mea de aur, căci el trebuie să trăiască şi să moară numai între noi.</p>
 
     <p><label>9 noiembrie</label></p>
 <p>Dumnezeul meu! dar ce-am făcut, care este culpa mea, crima mea, ca ceea ce ar fi pentru alţii o supremă fericire să fie pentru mine un motiv de la-erime şi de dureri? Iubesc pe Mnemosina, am în fine in inimă acel amor care dă viaţă şi inundă de lumină cerească; am visul meu realizat; am totul ceea ce dă speranţa, ceea ce te face să înţelegi şi să binecuvîn-tezi pe Dumnezeu. Am amorul, acea flacără care purifică sufletul, acel vultur care poate privi în faţă soarele, şi care, pe aripa sa, duce inima pînă la cele mai înalte boite ale cerului; am în mine ceea ce-mi trebuie ca să mă măresc, ca să deviu om, ca să mă simţ capabile de toate devotamentele sublime; am viaţa, şi trebuie să înăbuşesc, să distrug, să sfarm, să mă fac destructorul impiu al operei lui Dumnezeu pentru ce?</p>
@@ -2600,7 +2604,7 @@ litere</hi>, oricît de <hi>uşoară </hi> ar fi sau sunt acuzaţi de a fi, e m
 <l><hi>Te iubesc, eşti tu, e totul ce-am dorit şi ce doresc,</hi></l>
 <l><hi>Te iubesc, e şoapta vieţi-mi, e credinţa mea supremă,</hi></l> 
  <l><hi>Te iubesc, îngere dulce, Mnemosino, te iubesc!</hi></l>
- </quote> </div>
+  </div>
    
 <div type="chapter" n="32">
 <head>XXXIV</head>
@@ -2751,13 +2755,13 @@ litere</hi>, oricît de <hi>uşoară </hi> ar fi sau sunt acuzaţi de a fi, e m
 <l><hi>Inima-mi atuncea,c-un adinc oftat,</hi></l>
 <l><hi>Strigă:— Doamne! Doamne, căci m-ai mai lăsat!!!</hi></l>
     
-<div><div><p><hi>12, ianuarie</hi></p>
+<p><label>12, ianuarie</label></p>
 <p>Azi ea m-a întrebat rîzînd dacă poeziile ce-i dădusem să le citească sunt într-adevăr făcute pentru ea? Dar pentru cine pot fi!</p>
 <p>Da, pentru tine, totdeauna pentru tine! ce-ar mai putea să cînte lira mea? Ţie imnul amorului! ţie ruga sufletului meu! Care alt nume poate deştepta azi delirul meu? Invăţat-am eu alte cînturi? cunosc eu vrun alt drum? Da, tu eşti care prin privirea-ţi luminezi întunecoasa mea noapte; imaginea ta lucei veselul meu somn; tu ţii mîna mea cînd merg în umbră; şi razele cereşti îmi vin din ochii tăi! Destinul meu este păstrat de dulcea ta rugă; ea veghează asupră-mi cînd adoarme îngerul meu! Cînd inima mea soarbe vocea ta ea provoacă soarta.</p>
 <p>Au nu sunt în cer voci cari te reclamă? Nu eşti tu o floare străină de cîmpurile noastre? O, soră <hi>fii </hi>virginelor din cer, sufletul tău este pentru sufletul meu reflectul focului lor, şi ecoul cînturilof lor.</p>
  <p>Cînd ochiul tău cel dulce îmi vorbeşte şi mă contemplă, cînd rochia ta mă atinge cu un uşor zgomot, crez că mă ating de vreun colţ al templului, zic ca Tobia:<hi><quote>Un înger este în noaptea mea!</quote></hi></p>
 <p>Cînd tu gonişi norul durerilor mele, am înţeles că de soarta ta căta să se lege soarta mea. Te iubesc, te iubesc, te iubesc! Ah! te iubesc atît, încît la singurul tău nume plîng, plîng* căci viaţa e aşa plină de rele!</p>
-<p>Dumnezeul meu! pune pacea şi veselia lîngă ea! Nu turbura niciodată zilele sale, ele sunt ale tale, Doamne! Tu trebuie s-o binecuvîntezi!</p></div>
+<p>Dumnezeul meu! pune pacea şi veselia lîngă ea! Nu turbura niciodată zilele sale, ele sunt ale tale, Doamne! Tu trebuie s-o binecuvîntezi!</p>
  
  <l><hi>Tu-mi deschizi Cerul cu o zîmbire,</hi></l>
 <l><hi>Şi-mi dai viaţă cu un cuvînt;</hi></l>
@@ -2778,7 +2782,7 @@ litere</hi>, oricît de <hi>uşoară </hi> ar fi sau sunt acuzaţi de a fi, e m
 <l><hi>Cînd şopteşti dulce tu de iubire</hi>,</l>
 <l><hi>Mi-aş vinde Cerul cu jurămînt;</hi></l> 
   <l><hi>îngere dulce de fericire,</hi></l>
-<l><hi>Eu pentru tine azi dar mai cînt.</hi></l></div>
+<l><hi>Eu pentru tine azi dar mai cînt.</hi></l>
  
 <p><label>20 ianuarie</label></p>
 <p>Doamne! ce dulce şi suav lucru e un amor ca al nostru!</p>
@@ -2811,8 +2815,8 @@ litere</hi>, oricît de <hi>uşoară </hi> ar fi sau sunt acuzaţi de a fi, e m
 <p>Nu mai e trebuinţă să mă revezi, George! tu ai omorît, ai zdrobit inima mea sub lovitura unei decepţiuni spăimîntătoare, şi ştiu prea bine ce plăcere ai putea găsi de aci înainte ca să contempli victima ta, ca să citeşti pe fruntea ei searbădă şi palidă ca marmura unui mormînt:</p>
 <p>— Aci zace un suflet!</p>
 <p>N-ai nici o remuşcare; mormîntul înghiaţă toate suferinţele, şi îţi mulţumesc!".</p>
-<p>Vai! iată ce mi-ar fi putut Răspunde! Aşa, prea cu drept nefericirea m-ar fi izbit, căci eu aş fi vrut-o; căci eu, cu inima veselă şi pentru ca să am plăcerea de a seri cîteva ticăloase rînduri, aş fi sfărîmat lanţul fericit care mă uneşte cu Mnemosina! Atunci n-aşi fi cutezat nici chiar să mă mai rog, n-aş fi mai avut drept. Dumnezeu mi-a dat totul şi eu i-aş fi înapoiat tot; ce aş fi putut dar să-i mai cer?</p></div>
-   
+<p>Vai! iată ce mi-ar fi putut Răspunde! Aşa, prea cu drept nefericirea m-ar fi izbit, căci eu aş fi vrut-o; căci eu, cu inima veselă şi pentru ca să am plăcerea de a seri cîteva ticăloase rînduri, aş fi sfărîmat lanţul fericit care mă uneşte cu Mnemosina! Atunci n-aşi fi cutezat nici chiar să mă mai rog, n-aş fi mai avut drept. Dumnezeu mi-a dat totul şi eu i-aş fi înapoiat tot; ce aş fi putut dar să-i mai cer?</p>
+</div>
    <div type="chapter" n="33">
 <head>XXXV</head>
 <p><label>2 februarie</label></p>
@@ -2860,11 +2864,11 @@ litere</hi>, oricît de <hi>uşoară </hi> ar fi sau sunt acuzaţi de a fi, e m
 <p>Noi am stat astfel mult, şi prea puţin; săruturile noastre erau de foc ca răsuflarea noastră, şi simţeam flacăra arzînd amîndouă piepturile noastre, şi, strecurîndu-se prin vinele noastre.</p>
 <p>In acel minut Mnemosina era cu totul a mea.</p>
     
-<div><p><hi>6 februarie</hi></p>
+<p><label>6 februarie</label></p>
 <p>O! eu din întîia zi am înţeles că acest amor eslt un lanţ ale căruia inele sunt numărate, şi ea acum a înţeles asemenea. Lupta care la început ar fi fost de prisos, astăzi ar fi fost şi mai mult! Pentru ce s-ar fi mai luptat ea cu propria sa inimă? Putea să aibă puterea sau plăcerea?</p>
 <p>Afară din acestea eu sufeream, şi cu cit suferinţa mea fu resemnată, cu atît mai mult eâ a înţeles-o, cu atît mai mult ea a fost generoasă.</p>
 <p>Dacă în acest amor este un abis, a zis ea, ne vom pierde în el amîndoi împreună, dar nu-1 voi lăsa să cază numai el.</p>
-<p>Mulţumim! mulţumim! Mnemosina mea!</p></div>
+<p>Mulţumim! mulţumim! Mnemosina mea!</p>
     
     <p><label>5 martie</label></p>
 <p>Iată trei zile de cînd n-am văzut-o! trei zile de cînd ea a plecat departe de mine, şi cine ştie cînd se va întoarce!... Şi am lăsat-o să plece?... vai! n-am avut ce face! Tatăl său era bolnav; îi scria că doreşte s-o vază; o chiamă lîngă dînsul... cum puteam oare s-o opresc de a-şi îndeplini cea mai sacră datorie de inimă?...</p>
@@ -3405,7 +3409,8 @@ litere</hi>, oricît de <hi>uşoară </hi> ar fi sau sunt acuzaţi de a fi, e m
 <l><hi>Tu mi-ai dat fericirea toată, </hi></l>
  <l><hi>Sufleţele fără pată,</hi></l>
 <l><hi>Fie binecuvîntată</hi></l>
- <l><hi>Ziua cînd te-am cunoscut!</hi></l></div>
+ <l><hi>Ziua cînd te-am cunoscut!</hi></l>
+   </div>
    
    <div type="chapter" n="33">
 <head>XXXVI</head>
@@ -3494,7 +3499,8 @@ litere</hi>, oricît de <hi>uşoară </hi> ar fi sau sunt acuzaţi de a fi, e m
 <l><hi>Fii binecuvîntat, Doamne! lampa mea era murindă,</hi></l>
 <l><hi>Şi suflarea ta cea vie i-a dat primele-i splendori!</hi></l></div>
    <trailer>Fine</trailer>
-
+</body>
+ 
   <back>
    <div type="notes">
 <note><p><hi>(La gura sobei)</hi></p>
@@ -3588,7 +3594,7 @@ litere</hi>, oricît de <hi>uşoară </hi> ar fi sau sunt acuzaţi de a fi, e m
 <note>Poemul acesta a apărut anonim cu titlul <hi>La ea,</hi> în Jurnalul 
 <hi>Opiniunea naţională,</hi> nr. 5, martie 1865.</note>
 <note>Acest poem a apărut anonim cu titlul <hi>Cugetare,</hi> în <hi>Opiniunea naţională,</hi> nr.<hi>7,</hi> aprilie 1865.</note>
-</div>
+    <note> Numele străine din acest român sunt toate nişte pseudonime.</note></div>
 </back>
  </text>
 </TEI>
