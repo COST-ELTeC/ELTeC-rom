@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 
-	<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM034" xml:lang="ro">
+	<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM034" xml:lang="ro">
 		
 		<teiHeader>
 			<fileDesc>
@@ -84,13 +84,13 @@
 		
 			<body>
 			<div type="group" n="1">
-							<div>
+							
 								<p>ALDO ȘI AMINTA</p>
 					<p>SAŬ</p>
 					<p>BANDIȚI</p>
 					<p>PARTEA I.</p>
 			<quote><p>Les actions des hommes sont une semence féconde répandue sur les champs obscurs de l′avenir, confiée avec espérance aux divinités fatales.</p>
-					<p>Schiller.</p></quote></div>
+					<p>Schiller.</p></quote>
 				
 			<div type="chapter" n="1">
 					<head>I.</head>
@@ -261,10 +261,10 @@
 					
 						<head>PARTEA II.</head>
 					
-					<div><quote><l><foreign>Helas ! enfants de la douleur, n′oubliez</foreign></l>
+					<quote><l><foreign>Helas ! enfants de la douleur, n′oubliez</foreign></l>
 					<l><foreign>pas que vons etes sur des abîmes, que</foreign></l>
 						<l><foreign>la nuit et la tempete sont derriere vons.</foreign></l>
-						<p>Ossian.</p></quote></div>
+						<p>Ossian.</p></quote>
 					<div type="chapter" n="1">	
 					<head>I.</head>
 					<p>Pe timpulŭ acela vînzătoriĭ și cumpărătoriĭ de ființĭ umane corupse totŭ corpulŭ socialŭ, și Eva încelată de șarpe nu se putea scăpa de o pedeapsă meritată. Dar orĭ cum trădarea avea și ea cuvintele sale; căcĭ ce valoare ar fi avutŭ patria, conștiința, onoaraa, cînd aurulŭ-ĭ scotea din mizerie , și-ĭ arunca în acele cercurĭ dorite de eĭ? . . În adevărŭ aceasta este o enigmă a căria soluțiune a dat-o metalulŭ de multŭ. — Dar ingratitudinea ,vilĭ apostațĭ, va sfărîma astŭ corpŭ îngreșatŭ din valoarea sîngeluĭ vîndutŭ, căcĭ tiraniĭ, servițĭ de instrumente, saŭ îșĭ satură saŭ nu aviditatea lor, acele instrumente trebuesc zdrobite, ca unŭ obiectŭ ce-ar trebui să se împărtășească saŭ să fie responsabilŭ de crimele ce-ĭ a dictatŭ să facă. Mergețĭ însă înainte, oamenĭ vînduțĭ, căcĭ; făcîndŭ altfelŭ , nu vețĭ găsi pîĭne pentru familia voastră !</p>
@@ -489,8 +489,8 @@
 					<div type="group" n="3">
 						<head>PARTEA III.</head>
 					
-						<div><quote><p><foreign>Una salus victis, nullam sperare salutem</foreign></p>
-							<p>Virgil.</p></quote></div>
+						<quote><p><foreign>Una salus victis, nullam sperare salutem</foreign></p>
+							<p>Virgil.</p></quote>
 						<div type="chapter" n="1">
 					<head>I.</head>
 					<p>Cine a uĭtatŭ timpulŭ cînd descendențiĭ divinuluĭ Poetŭ se coalizară pentru liberarea lor ? cine nu-șĭ aduce aminte de aceĭ secolĭ de aurŭ, cînd eĭ îșĭ scuturară jugulŭ, și o mînă de oamenĭ putu să înfrunte, în timpŭ de șase anĭ, trufia uneĭ armate orgolioase, și să calce în picioare stindardulŭ mareluĭ Profetŭ? . . .  Lumea, fără voe-ĭ,a auzitŭ fama acestor eroĭ, și nicĭ Ignorența, nicĭ Tirania nu putu să înece Vocea care, sburîndŭ , vestea popolilor isprăvile lor !</p>
@@ -884,8 +884,8 @@
 				<div type="group" n="5">
 					<head>PARTEA V.</head>
 					
-					<div><p>La seule conquete que nous, emportions du combat de la vie, c′est la perspective du néeant et le mepris profond de tout ce qui nous avait paru grand et digne d′envie.</p>
-					<p>Schiller.</p></div>
+					<quote><p>La seule conquete que nous, emportions du combat de la vie, c′est la perspective du néeant et le mepris profond de tout ce qui nous avait paru grand et digne d′envie.</p>
+					<p>Schiller.</p></quote>
 					
 					<div type="chapter" n="1">
 					<head>I.</head>
