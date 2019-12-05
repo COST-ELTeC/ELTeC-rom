@@ -17,3 +17,10 @@ The first iteration illustrates the most representative sub-genres of the novel 
 ## Licence
 
 All texts included in this collection are in the public domain. The textual markup is provided with a Creative Commons Attribution International 4.0 licence (CC BY, https://creativecommons.org/licenses/by/4.0/).
+
+
+ACKNOWLEDGEMENTS:
+
+This work was supported by a mobility grant of the Romanian Ministery of Research and Innovation, CNCS-UEFISCDI, project number PN-III-P1-1.1-MC-2019-0756, within PNCDI III
+
+
