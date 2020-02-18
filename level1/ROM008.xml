@@ -38,7 +38,7 @@
    <textDesc>
     <e:authorGender key="M"/>
     <e:size key="short"/>
-    <e:canonicity key="high"/>
+    <e:canonicity key="low"/>
     <e:timeSlot key="T3"/>
    </textDesc>
   </profileDesc>
