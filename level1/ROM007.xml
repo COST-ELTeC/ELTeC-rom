@@ -49,7 +49,7 @@
         <textDesc>
            <e:authorGender key="M"></e:authorGender>
            <e:size key="short"></e:size>
-           <e:canonicity key="high"></e:canonicity>
+           <e:canonicity key="low"></e:canonicity>
            <e:timeSlot key="T2"></e:timeSlot>
         </textDesc>
      </profileDesc>
