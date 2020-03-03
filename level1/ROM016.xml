@@ -78,14 +78,14 @@
          </div>
          <gap unit="pages" extent="5"/>
 
-         <div type="titlePage">
+         <div type="titlepage">
             <p>MANOIL</p>
             <p>1855</p>
          </div>
       </front>
 
       <body>
-         <div type="part" n="1">
+         <div type="group" n="1">
             <head>PARTEA I</head>
             <div type="letter" n="1">
                <p>Iubite B,</p>
@@ -1842,7 +1842,7 @@
             </div>
          </div>
 
-         <div type="part" n="2">
+         <div type="group" n="2">
             <head>PARTEA II</head>
             <div n="1" type="letter">
                <p>20 decemvrie</p>
