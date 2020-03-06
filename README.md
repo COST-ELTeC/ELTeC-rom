@@ -11,7 +11,7 @@ The first iteration illustrates the most representative sub-genres of the novel 
 ## Contributors
 
 * Collection editor: Roxana Patras.
-* Contributors: Ioana Lionte, Lucretia Pascariu, Alexandra Olteanu.
+* Contributors: Ioana Lionte, Lucretia Pascariu, Alexandra Olteanu, Alexandra Ruscanu, Laura Ciobanu, Lorena Vlad.
 * Sources: Biblioteca Metropolitana din Bucuresti, Biblioteca Universitara "Mihai Eminescu" din Iasi, Biblioteca Judeteana din Botosani, personal micro-collections uploaded on zenodo under the following labels: "Hajduks Library_";"RomanianNovel Library_" and "CityMysteries Library_" .
 
 ## Licence
