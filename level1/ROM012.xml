@@ -23,12 +23,21 @@
             <measure unit="pages">167</measure>
          </extent>
          <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-11"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Încorporat în ELTeC2019-l0-0l--></publicationStmt>
-         <sourceDesc><bibl type="printSource">
+         <sourceDesc>
+            <bibl type="firstEdition">
+               <author>Grigore H. Grandea</author>
+               <title>Vlăsia sau ciocoii noi</title>
+               <pubPlace>Bucharest</pubPlace>
+               <publisher>Tip. Govora</publisher>
+               <date>1887</date>
+                           </bibl>
+            
+            <bibl type="printSource">
                <author>Grigore H. Grandea</author>
                <title>Vlăsia sau ciocoii noi</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>Minerva</publisher>
-               <date>1975 (1887)</date>
+               <date>1975</date>
                <ref target="http://doi.org/10.5281/zenodo.3229282">Facsimile on zenodo</ref>
                            </bibl></sourceDesc>
       </fileDesc>
