@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+    
+<?xml-model href="../../../ENCODED/LUCRETIA/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM010" xml:lang="ro">
    <teiHeader>
       <fileDesc>
@@ -22,13 +20,22 @@
             <measure unit="words">63856</measure>
             <measure unit="pages">199</measure>
          </extent>
-         <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-11-11"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Încorporat în ELTeC2019-l0-0l--></publicationStmt>
-         <sourceDesc><bibl type="printSource">
+         <publicationStmt><p></p></publicationStmt>
+         <sourceDesc>
+               <bibl type="firstEdition">
+                     <author>Alexandru Vlahuță</author>
+                     <title>Dan</title>
+                     <pubPlace>Bucharest</pubPlace>
+                     <publisher>Graeve</publisher>
+                     <date>1894</date>
+                     <ref target="http://doi.org/10.5281/zenodo.3407368">Facsimile on zenodo</ref>
+               </bibl>
+               <bibl type="printSource">
                <author>Alexandru Vlahuță</author>
                <title>Dan</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>EDITURA PENTRU LITERATURĂ</publisher>
-               <date>1964 (1894)</date>
+               <date>1964</date>
                   <ref target="http://doi.org/10.5281/zenodo.3407368">Facsimile on zenodo</ref>
                               </bibl></sourceDesc>
       </fileDesc>
