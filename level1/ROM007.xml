@@ -30,9 +30,11 @@
    <sourceDesc>
     <bibl type="firstEdition">
      <author>Stefan Stoenescu</author>
+     <title>Corbea. Istorie originală ilustrată cu 7 gravuri</title>
      <date>1892</date></bibl>
     
-    <bibl type="printSource">               
+    <bibl type="printSource">
+      <author>Stefan Stoenescu</author>
      <title>Corbea. Istorie originală ilustrată cu 7 gravuri</title>
      <pubPlace>Bucharest</pubPlace>
      <publisher>EDITURA LIBRĂRIEI H. STEINBERG</publisher>
