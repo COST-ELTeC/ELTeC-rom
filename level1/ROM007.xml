@@ -7,7 +7,7 @@
   <fileDesc>
    <titleStmt>
     <title>Corbea. Istorie originală ilustrată cu 7 gravuri: ediție ELTeC</title>
-<author>Stoenescu, Stefan (?-?)</author>    <respStmt>
+<author>Stoenescu, Stefan (psedo?)</author>    <respStmt>
      <resp>OCR</resp>
      <name>Roxana Patras</name>
     </respStmt>
@@ -29,7 +29,7 @@
    </publicationStmt>
    <sourceDesc>
     <bibl type="firstEdition">
-     <author>Stoenescu Stefan</author>
+     <author>Stefan Stoenescu</author>
      <date>1892</date></bibl>
     
     <bibl type="printSource">               
@@ -50,7 +50,7 @@
    </langUsage>
    
    <textDesc>
-    <e:authorGender key="M"/>
+    <e:authorGender key="X"/>
     <e:size key="short"/>
     <e:canonicity key="low"/>
     <e:timeSlot key="T3"/>
