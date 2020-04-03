@@ -47,9 +47,9 @@
       </langUsage>
       <textDesc>
         <e:authorGender key="M"></e:authorGender>
-        <e:size key="long"></e:size>
-        <e:reprintCount key="high"></e:reprintCount>
-        <e:timeSlot key="T3"></e:timeSlot>
+        <e:size key="medium"></e:size>
+        <e:reprintCount key="low"></e:reprintCount>
+        <e:timeSlot key="T4"></e:timeSlot>
       </textDesc>
     </profileDesc>
     <revisionDesc>
