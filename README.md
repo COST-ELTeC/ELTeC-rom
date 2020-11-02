@@ -28,5 +28,3 @@ All texts included in this collection are in the public domain. The textual mark
 *Romanian Novel Collection (ELTeC-rom)*, edited by Roxana Patras. In: *European Literary Text Collection* (ELTeC). COST Action *Distant Reading for European Literature*. Version 0.6.0, April 19, 2020. URL: https://github.com/COST-ELTeC/ELTeC-rom, DOI: https://doi.org/10.5281/zenodo.3543111. 
 
 ## Acknowledgements:
-
-This work was supported by a mobility grant of the Romanian Ministery of Research and Innovation, CNCS-UEFISCDI, project number PN-III-P1-1.1-MC-2019-0756, within PNCDI III. 
