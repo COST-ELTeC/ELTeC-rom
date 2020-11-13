@@ -8,9 +8,10 @@ This is the Romanian novel collection for ELTeC, the European Literary Text Coll
 
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC.
 
-The current release (v0.6.0) illustrates the most representative sub-genres of the novel in the Romanian literary tradition (hajduk, city mystery, and historical) as well as a variety of editorial practices and orthographic standards used between 1840 and 1920. 
+* v0.7.0, November 2020: 80 novels encoded at level 1. DOI: https://doi.org/10.5281/zenodo.4271645. 
+* v0.6.0: This release illustrates the most representative sub-genres of the novel in the Romanian literary tradition (hajduk, city mystery, and historical) as well as a variety of editorial practices and orthographic standards used between 1840 and 1920. 
 
-For all novels included in this collection, scanning, OCR, and manual clean-up was performed by the Digital Humanities Laboratory (UAIC), Iasi. Currently, the ELTeC-rom collection contains novels encoded at level 1. The corpus composition criteria are not yet fully fulfilled.
+Currently, the ELTeC-rom collection contains novels encoded at level 1. The corpus composition criteria are not yet fully fulfilled.
 
 ## Contributors
 
@@ -18,6 +19,8 @@ For all novels included in this collection, scanning, OCR, and manual clean-up w
 * Contributors (scanning, OCR & encoding): Ioana Lionte, Lucretia Pascariu, Alexandra Olteanu. 
 * Contributors (manual cleanup): Alexandra Ruscanu, Laura Ciobanu, Lorena Vlad, Manuela Ursu, Raluca Miron, Emanuela Gutu, Georgiana Apreotesei.
 * Sources: Biblioteca Metropolitana din Bucuresti, Biblioteca Universitara "Mihai Eminescu" din Iasi, Biblioteca Judeteana din Botosani, personal micro-collections uploaded on Zenodo under the following labels: "*Hajduks Library*"; "*RomanianNovel Library*"; "*CityMysteries Library*"; "*BibliotecaDHL_Iasi*" .
+
+For all novels included in this collection, scanning, OCR, and manual clean-up was performed by the Digital Humanities Laboratory (UAIC), Iasi.
 
 ## Licence
 
