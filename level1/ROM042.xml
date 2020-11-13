@@ -1148,7 +1148,8 @@
    <p>O nădejde nouă îi înseninà acum în suflet, cum se înseninează une-ori vara numai câte-un ochiu de cer albastru. O luptă grea s’a dat în sufletul lui între iubirea de tată și o teamă neînțeleasă. Văzuse lămurit că nu e cu putință să-și apropie pe Marioara lui de el și după multă frământare înțelesese că, cel mai bun lucru ce puteà îndeplinì, erà să facă pe Marioara fericită acolo în lumea ei de jos, în lumea în care crescuse și înflorise. Și nu puteà ajunge aci de cât cununând-o și înzestrând-o cu o dărnicie boierească, în dosul căreia să se ascunză iubirea lui de părinte. Dar pentru acea-sta trebuià să înceapă mai din vreme, spre a nu se băgà de seamă, trebuià să cunune încă o fată două înaintea ei, spo-rind încet-încet darul lui de nun. Atât, numai atât puteà face pentru ea — cel puțin cât mai e în viață.</p>
    <p>Iată de ce se hotârîse boierul Măcieș să cunune în iarna aceea pe fata lui Stan Frunză...</p>
       <milestone unit="line"/>
-      <gap unit="graphic"/>
+      </div>
+ <gap unit="graphic"/>
       <div type="chapter" n="8">
    <head>VIII.</head>
    <head>ÎNVRĂJBIȚI.</head>
@@ -2184,8 +2185,8 @@
    <milestone unit="line"/>
       </div>
       <gap unit="graphic"/>
-</div>
-     <div type="group">
+
+   <!--  <div type="group">
         <head>COPRINSUL.</head>
         <p>pag.</p>
         <p>Criticilor mei............ 5</p>
@@ -2205,7 +2206,7 @@
         <p>XIII. Secetă............ 238</p>
         <p>XIV. Pierzanie............ 168</p>
         <p>XV. Ogorul strămoșesc............ 286</p>
-     </div>
+     </div>-->
 </body>
   </text>
 </TEI>
