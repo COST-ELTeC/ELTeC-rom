@@ -1,13 +1,10 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+﻿<?xml-model href="romane%20istorice%20pt%20ELTEC/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM041" xml:lang="ro">
     <teiHeader>
         <fileDesc>
             <titleStmt>
                 <title> MIHAI VEREANU: ELTeC edition</title>
-                <author>IACOB NEGRUZZI (1842-1932)</author>
+                <author>NEGRUZZI, IACOB  (1842-1932)</author>
                 <respStmt>
                     <resp>ELTeC encoding</resp>
                     <name>Roxana Patras</name>
@@ -64,15 +61,12 @@
     <text xml:lang="ro">
         <front>
             <div type="titlepage">
-                <div>
                 <p>SCRIERI COMPLECTE</p>
                 </div>
-                <div>
+            <div type="notes">
                 <p>Stabilimentul grafic I. V. Socecu </p>
                     <p>59, Strada Berzii, 59</p>
                     <p>(41,903)</p>
-                </div>
-                <div>
                     <p>JACOB NEGRUZZI</p>
                     <milestone unit="header" type="line"/>
                     <p>SCRIERI COMPLECTE</p>
@@ -87,11 +81,10 @@
                     <p>21, CALEA VICTORIEI, 21.</p>
                     <p>1895.</p>
                 </div>
-                <div>
+                <div type="titlepage">
                     <p>MIHAI VEREANU</p> 
                     <p>41903. Scrieri complecte. III</p>
                 </div>
-            </div>
         </front>
         <body>
             <div type="chapter" n="1">

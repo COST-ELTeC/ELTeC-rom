@@ -1,7 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+﻿<?xml-model href="romane%20istorice%20pt%20ELTEC/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ROM055" xml:lang="ro">
    <teiHeader>
       <fileDesc>
@@ -3329,8 +3326,7 @@
  <p>Își făcuse ultima datorie.</p>
 <p>Se culcă din nou în zăpadă, și adormi dus...</p>
                  </div>
-           <div>
-              
+           <div type="liminal">
 <head>EPILOG</head>
 <head>ZECE ANI IN URMA</head>
               <gap unit="page" extent="1"/>

@@ -688,7 +688,9 @@
    </body>
      
      <back>
-        <p>IN EDITURA LIBRĂRIEI</p> <p>H. STEINBERG</p>
+        <div type="liminal">
+        <p>IN EDITURA LIBRĂRIEI</p> 
+           <p>H. STEINBERG</p>
         <p>BUCURESCI aü apărut următor ele cărţi,:</p>
         <p>Drama din Str. Sevastopol, . . 2 voi. Lei 2— Romeo şi Julieta, </p>
         <p>Dramele Monastireî, (Roman). —</p>
@@ -713,5 +715,7 @@
         <p>(Un frumos volum de peste 400 pagini format mare)</p>
         <p>Preciul 5 lei.</p>
         <p>Costul se poate înainta in mărci poştale (în plic recomandat) şi domnii prenumăraţi vor primi cartea francată şi recomandată.</p>
+        </div>
      </back>
-  </text></TEI>
+  </text>
+</TEI>

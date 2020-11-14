@@ -2185,28 +2185,29 @@
    <milestone unit="line"/>
       </div>
       <gap unit="graphic"/>
-
-   <!--  <div type="group">
-        <head>COPRINSUL.</head>
-        <p>pag.</p>
-        <p>Criticilor mei............ 5</p>
-        <p>Închinare............ 7</p>
-        <p>I. Un arendaș............ 9</p>
-        <p>II. Despărțire............ 33</p>
-        <p>III. La țară............ 58</p>
-        <p>IV. Acasă ............ 76</p>
-        <p>V. Tinerețe............ 102</p>
-        <p>VI. Nepotul lui Mihalis............ 124</p>
-        <p>VII. Seri de iarnă............ 155</p>
-        <p>VIII. Învrăjbiții............ 164</p>
-        <p>IX. O afacere............ 190</p>
-        <p>X. La oaste............ 199</p>
-        <p>XI. Alte învoieli............ 211</p>
-        <p>XII. Singură............ 223</p>
-        <p>XIII. Secetă............ 238</p>
-        <p>XIV. Pierzanie............ 168</p>
-        <p>XV. Ogorul strămoșesc............ 286</p>
-     </div>-->
 </body>
+     <back>
+        <div type="liminal">
+           <head>COPRINSUL.</head>
+           <p>pag.</p>
+           <p>Criticilor mei............ 5</p>
+           <p>Închinare............ 7</p>
+           <p>I. Un arendaș............ 9</p>
+           <p>II. Despărțire............ 33</p>
+           <p>III. La țară............ 58</p>
+           <p>IV. Acasă ............ 76</p>
+           <p>V. Tinerețe............ 102</p>
+           <p>VI. Nepotul lui Mihalis............ 124</p>
+           <p>VII. Seri de iarnă............ 155</p>
+           <p>VIII. Învrăjbiții............ 164</p>
+           <p>IX. O afacere............ 190</p>
+           <p>X. La oaste............ 199</p>
+           <p>XI. Alte învoieli............ 211</p>
+           <p>XII. Singură............ 223</p>
+           <p>XIII. Secetă............ 238</p>
+           <p>XIV. Pierzanie............ 168</p>
+           <p>XV. Ogorul strămoșesc............ 286</p>
+        </div>
+     </back>
   </text>
 </TEI>

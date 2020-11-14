@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<?xml-model href="romane%20istorice%20pt%20ELTEC/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM020" xml:lang="ro">
    <teiHeader>
       <fileDesc>
@@ -83,7 +80,7 @@
                <p>„Dragoste neîmpărtăşită“, nuvele, 1919.</p>
                <p>„Oraşul Bucuriei“, roman, 1920.</p>
             
-            <div>
+            <div type="notes">
                <head>Lucrări încă nepublicate</head>
                <p>„Păcatul Rabinului“ roman.</p>
                <p>„Deputatul“ roman.</p>
@@ -91,7 +88,7 @@
                <p>„Povestiri şi poveşti“ nuvele.</p>
                <p>„Poezii“</p>
             </div>
-            <div>
+            <div type="notes">
                <head>Traduceri, publicate</head>
                <p>„In pădurea de portocali“, roman, de Blasco Ibanez.</p>
                <p>„Moartea Zeilor“, roman, de Dimitrie Merejkovschi</p> 

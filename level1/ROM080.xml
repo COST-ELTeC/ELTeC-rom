@@ -66,12 +66,14 @@
   </teiHeader>
   <text>
     <front>
+      <div type="titlepage">
       <p>THEOCHAR ALEXI</p>
       <p>BABETA</p>
       <p>ROMAN ORIGINAL</p>
       <p>BRAȘOV</p>
       <p>TIPOGRAFIA ALEXI.</p>
       <p>1888</p>
+      </div>
     </front>
     <body>
   <div type="chapter" n="1">

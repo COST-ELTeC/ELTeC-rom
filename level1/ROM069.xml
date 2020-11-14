@@ -54,8 +54,14 @@
 </teiHeader>
 <text>
     <front>
+        <div type="titlepage">
+            <p>Th.D. Speranţia</p>
+            <p>Fete de azi</p>
+            <p>Ediţiunea II</p>
+            <p>Bucureşti</p>
+            <p>Editura Librăriei H. Steinberg and fiu. Str. Lipscani, 94</p>
+        </div>
     </front>
-             <gap unit="page" extent="no.pages" n="missing resource text"/>
     <body> 
     <div type="group" n="1">  
    <div type="chapter" n="1">   
@@ -4354,7 +4360,8 @@
 <p>Mamița e bine sănătoasă. In curând se împlinesc cinci ani de când a început să postească Lunea, s’o erte D-zeu, că pe-acolo pe la Paris cîne știe câte o mai fi mâncat ea de pe la Calvini.</p>
 <p>Bătrânul Căpițeanu și cu soția lui, părinții Reții, sunt bine, voinici. Chiar în dimineața asta sunt împreună cu ginerii și fetele și nepoții la unul din gineri, din Crâdina, care fși mărită o fată. Tocmai acuma îi desfac miresei beteala, și pe lângă părinți și rude și ceilalți care plâng, plâng și ei — bătrânii, se bucurie că le-a ajutat D-zeu să vază și nunta unei nepoate. Dar ștergându-și lacrămile, bătrânul Căpițeanu, după un lung și adânc oftat zice :</p>
 <p>— Acum zece ani la nunta Frusicăi era și Reti!... Pe dânsa numai Bucureștiul mi-a mâncat-o.</p>
-    </div></div></body>
-    <back><p></p></back>
+    </div>
+        </div>
+    </body>
 </text>
 </TEI>

@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="romane%20istorice%20pt%20ELTEC/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM022" xml:lang="ro">
    <teiHeader>
       <fileDesc>
@@ -1441,7 +1437,7 @@
    <p>IN EDITURA LIBRĂRIEI</p>
    <p>CULTURA ROMÂNEASCĂ S. A. R.</p>
       <p><hi>au apărut următoarele cărți:</hi></p>
-      <div>
+           <div type="notes">
    <head>Haiduci.</head>
    <p>Lei</p>
          <p><title>Dragoș Haiducul</title>...................................20</p>
@@ -1459,8 +1455,8 @@
          <p><title>Moartea lui lancu Jianu</title> . ............... . ......20</p>
          <p><title>Ilie Marosin</title><hi>de George B. Rareş</hi>.......20</p>
          <p><title>Călina, Fiica Codrilor</title>,<hi>Idem</hi>..........20</p>
-      </div>
-      <div>
+           </div>
+      <div type="notes">
          <head>Basme, Povești, Glume, Păcălituri.</head>
          <p><title>Oraţiuni și evanghelia țigănească</title>........3</p>
          <p><title>Archii și Anadani</title>.............6</p>

@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="romane%20istorice%20pt%20ELTEC/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" 
   xml:id="ROM063" xml:lang="ro">
   <teiHeader>
@@ -157,7 +154,7 @@
           </front>
     
     <body>
-      <div>
+      <div type="liminal">
 <head>DIN VREMEA LUI "CAPITAN COSTACHE</head>
 <head>PROLOG</head>
 <p>Luntrea intra in largul apei, departindu-se mereu de satul Dobrotestilor, care ramanea in urma  strans dinspre rasarit si apus de laturile secularei  paduri a Vlasiei. Razele apusului tiveau un un rosu de  sange creturile albastrui ale valurilor, impurpurau galbenele stufuri, odata cu  varfurile pddurei care, din vremi ne mai stiute, vegheaza in preajma acelui faimos lac al Snagovului. </p>
@@ -2953,7 +2950,7 @@
 <p>Trecuse iarna, cu gerurile ei, cu tristetea covarsitoare a cerului ei fumuriu... veni Primavara.</p>
 <p>Intr'o dimineata de Aprilie, pazitorul vesti pe Radu boer batran a venit sa-i vorbeasca. Esi repede. In curte, tata sau il astepta, aducandu-i ordinul de punere in libertate.</p>
         </div></div>
-      <div>
+      <div type="liminal">
 <head>EPILOG</head>
 <p>Intr'una din acele zile neuitat, cand ma plimbam prin desisurile padurii din preajma manastirii Caldarusanilor, parintele Rafail mi-a făcut teza miscarei, la care odinioara luase si el o parte insemnata.</p>
 <p>Era intr'o dupa amiaza de August. Statea rezemat de un stejar batran, pe marginea lacului. Eu, pe tulpina unui arbore rasturnat, ma uitam in ochii barânului prieten.</p>

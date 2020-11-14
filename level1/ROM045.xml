@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="romane%20istorice%20pt%20ELTEC/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns"
         xml:id="ROM045" xml:lang="ro">
         <teiHeader>
@@ -91,8 +89,7 @@
                                 <p>BIBLIOTECAR LA ACADEMIA ROMANA</p>
                                 <p>EDITURA „SCRISUL ROMÂNESC”/CRAIOVA</p>
                         </div>
-                        <div type="liminal">
-                                <div>
+                        <div type="titlepage">
                                         <p>CIOCOII VECHI SI NOI</p>
                                         <p>SAU „CE NAŞTE DIN PISICĂ</p>
                                         <p>ŞOARECI MĂNÂNCĂ"!</p>
@@ -173,7 +170,7 @@
                                                 edițiune.</p>
                                         <milestone unit="letter"/>
                                 </div>
-                                <div>
+                                <div type="liminal">
                                         <head>PROLOG</head>
                                         <p>Nimic nu este mai periculos pentru un Stat ce voieşte a
                                                 se reorganiza, decât a da frânele guvernului în
@@ -358,8 +355,6 @@
                                                 brâu al timpurilor fanariotice, până la ciocoiul cu
                                                 frac și cu mănuși albe din zilele noastre.</p>
                                 </div>
-                        </div>
-
                 </front>
 
                 <body>

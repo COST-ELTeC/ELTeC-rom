@@ -1,6 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+﻿<?xml-model href="romane%20istorice%20pt%20ELTEC/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" 
   xml:id="ROM048" xml:lang="ro">
   <teiHeader>
@@ -71,9 +69,7 @@
         <p>de</p>
         <p>IOAN POP FLORANTIN</p>
       </div>
-      <div>
         <gap unit="page" extent="1"/>
-      </div>
     </front>
     
     <body> 

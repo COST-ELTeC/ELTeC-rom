@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ROM050" xml:lang="ro">
       <teiHeader>
             <fileDesc>
@@ -71,11 +71,10 @@
                         <p>Iași</p>
                         <p>Tipografia lucratorilor români asociați</p>
                         <p>1885</p>
-                        <p></p>
-                  </div>
-                  <div>
+                        <p></p></div>
                         <gap unit="page" extent="1"/>
-    <head>HOREA</head>
+                        <div type="liminal">
+                              <head>HOREA</head>
 <p>A trecut un vec întreg de atunci și mai bine. Mii de români au fost siliți să vadărnortea crâncenă a unui mare aposte’ șimucenic, mortea unui adevărat Mântuitoral lor.</p>
 <p>Faptele lui, sângele lui au adus în urmă desrobirea lor și a fraților lor.</p>
 <p>Mamele române și astăzi își învață copilașii, să se roge lui dumnezeu pentru sufletul acelui mântuitor si mucenic.</p>
@@ -1688,7 +1687,9 @@
 
    
    </body>
-            <back><p>CUPRINSUL:</p>
+            <back>
+                  <div type="liminal">
+                  <p>CUPRINSUL:</p>
                   <p>Puiul de leu '</p>
                   <p>Horitorul</p>
                   <p>Precupețul</p>
@@ -1713,6 +1714,8 @@
                   <p>Biruința uneltirilor</p>
                   <p>Iuda .</p>
                   <p>Horea Încoronat</p>
-                  <p>Mântuitorul....... , . 152</p></back>
+                  <p>Mântuitorul....... , . 152</p>
+                  </div>
+            </back>
  </text>
 </TEI>

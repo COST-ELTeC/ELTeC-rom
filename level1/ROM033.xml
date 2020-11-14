@@ -761,6 +761,7 @@
 <trailer>  FINE   </trailer>
 </body>         
           <back>
+             <div type="liminal">
 <p>  TABLA DE MATERIE   </p>
    
 <p>        1. Rochia de Mireasă   </p>     
@@ -786,4 +787,7 @@
 <p>    1            </p>
 <p>   Eteriile Greco-Slave erau niște societăți secrete eare lucrau pentru independența Grecilor.   </p>
 <p>  1) După I. E. Rădulescu și loan Ghika, Aleeu Vodă Șuțu ar fi murit la 29 Decembrie 1820.   </p>
-          </back></text></TEI>
+             </div>
+          </back>
+          </text>
+</TEI>

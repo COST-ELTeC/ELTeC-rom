@@ -54,9 +54,6 @@
         </revisionDesc>
     </teiHeader>
     <text>
-        <front>
-            <gap unit="page" extent="no.pages" n="missing resource text"/>
-        </front>
         <body> 
          <div type="group" n="1">
             <div type="chapter" n="1">   
@@ -1142,8 +1139,8 @@
 <p>Postelnicul zâmbi cu amar.</p>
 <p>.....Ai uitat, părinte, frumoasa cazanie ce ne-ai ținut astăzi asupra ursitei oamenilor. A doua zi, după o matură chibzuință între toți amicii postelnicului șarpe, copilul Mihu a fost trimis să crească în frica lui Dumnezeu la Mănăstirea Neamț.</p>
                     <trailer>Sfârșit</trailer>
-            </div></div>
+            </div>
+            </div>
         </body>
-        <back><p></p></back>
     </text>
 </TEI>

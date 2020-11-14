@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
 
+<?xml-model href="romane%20istorice%20pt%20ELTEC/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns"
    xml:id="ROM003" xml:lang="ro">
    <teiHeader>
@@ -74,7 +73,7 @@
          </div>
       </front>
       <body>
-         <div>
+         <div type="chapter">
             <head>TASSO 'N SCOŢIA</head>
             <p>Dumas zice că romanul a existat totdeauna. Se poate. El e metafora vieții. Priviți
                reversul aurit al unei monede calpe, ascultați cântecul absurd al unei zile care n-a
@@ -457,8 +456,7 @@
                răsfoiam prin ele, când într-una găsesc o scrisoare nedesigilată încă, pe care
                desigur că menagera mea, primind-o de la poștă, o aruncase în cartea aceea. O desfac.
                Iată cuprinsul ei: Torino, în nu știu câte.</p>
-         </div>
-         <div type="letter">
+         <quote type="letter">
             <p>Omule,</p>
             <p>Mi-ai trimis poeziile lui Alecsandri. Îți mulțumesc. Citesc adeseori pe Emmi,
                singurul lucru în lume care-mi poate stoarce lacrimi. Într-adevăr, voi ăștia care
@@ -477,8 +475,8 @@
                curând. Voi muri. Scrie-mi curând, căci poate-oi mai primi încă. După ce-oi muri, vei
                căpăta o ciudată moștenire din partea mea. Ține minte. Rămân al pământului cu corpul,
                al tău cu sufletul, cel ce-n curând nu va mai fi. Toma Nour</p>
-         </div>
-         <div>
+         </quote>
+       
             <p>O lacrimă se scurse tremurând din genele [mele] strălucitoare și aruncai scrisoarea
                în foc. Ochii mei painjeniți de lacrimi și insomnie întrevedeau într-o sălbatecă
                fantasmagorie capul vânăt al acelui amic nefericit cu creierii roșii de gândire, cu
@@ -996,7 +994,7 @@
                umilită, mă simțeam fericit ca un rege asupra acelor camarazi horăinzi. La lumina
                fumegândă a lampei am scris versuri, ce le-am găsit în urmă rătăcite printre hârtiile
                mele și pe care ți le citez întocmai: </p>
-         <quote>
+         <quote type="verse">
             <l>Când sufletu-mi noaptea veghea în extaze</l>
             <l>Vedeam ca în vis pe-al meu înger de pază,</l>
             <l>Încins într-o haină de nori și de raze,</l>
@@ -2289,7 +2287,7 @@
                [a]prinde câte-o lumină la zile mari, de sufletul celor [mor]ți. Întristarea-mi
                intrase-n inimă, întristarea și pustiul.</p>
          </div>
-         <div>
+         <div type="chapter">
             <head>POESIS</head>
             <p>M-am dus la Cluș. Am așteptat să vină noaptea pentru ca să mă duc la casa ei, să văd
                ce se-ntâmplase cu ea. Îmi venise ideea să-i iert tot — trădarea ei — și, de-ar fi
@@ -2314,8 +2312,7 @@
                adresată mie și scrisă cu mâna cea fină. Am deschis-o cu repejune și-am citit-o. Era
                scrisă tremurat și cerneala șirurilor era turburată de lacrimi căzute pe hârtie. O
                reproduc tot așa cum era scrisă:</p>
-         </div>
-         <div type="letter">
+                <quote type="letter">
             <p>Amantul meu, dulcele meu amant! M-ai crezut trădătoare, desfrânată, și-ai luat
                lumea-n cap. Da, am fost criminală, inima mea, criminală cum a fost Maria Magdalena.
                Tomo, nu mai cer iubirea ta, căci când vei citi aceste șire, n-ai mai putea iubi
@@ -2342,8 +2339,7 @@
                traversăm de braț, doi îngeri, stelele cerului. Adio, copilul meu! Te iubesc!
                Gândește la mine— de voi putea, voi gândi și eu numai la tine, numai. Nu mă respinge,
                copilul meu, lasă-mă să fiu a ta... A t a P o e s i s</p>
-         </div>
-         <div>
+         </quote>
             <p>Am citit și-am recitit ce scrisese ea și apăsam plângând în hohot, ca un copil,
                șirurile ei șterse de lacrimi de buzele mele vinete și arzătoare.</p>
             <p>— Poesis! strigam eu, strângând aerul camerei la pieptul meu. Poesis, iartă-mă!</p>
@@ -2366,8 +2362,7 @@
                nebunie, totuși fiecare își are momentele sale de trezie, momente în care sinuciderea
                e cugetarea cea dintâi, momente de urât, de scepticism, de decepțiune. De-aceea am
                luat lumea-n cap... Acea epistolă conținea toată istoria mea.</p>
-            <p/>
-         </div>
+        </div>
       </body>
      
    </text>

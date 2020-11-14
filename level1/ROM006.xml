@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-
-
 <?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" 
    xml:id="ROM006" xml:lang="ro">
@@ -2286,7 +2284,7 @@
 </body>
       <back>
          
-         <div type="group">
+         <div type="liminal">
          <p>TABLA DE MATERII</p>
          <p>Prefaţa.......... pag. 3</p>
          <p><hi>Partea I Tinereţea lui Iancu Jianu </hi>.......... » 17</p>
