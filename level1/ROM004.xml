@@ -27,14 +27,14 @@
       </availability>
     </publicationStmt>
     <sourceDesc>
-      <bibl type="printSource">
+     <bibl type="digitalSource">
      <author>Bucura Dumbravă</author>
      <title>Haiducul</title>
      <pubPlace>Bucharest</pubPlace>
      <publisher>Editura Librăriei Școalelor C. Sfetea</publisher>
      <date>1919</date>
-        <note>This is the source of the text</note>
-        <ref target="http://doi.org/10.5281/zenodo.2648457">Facsimile on zenodo</ref>
+     <note>This is the source of the text</note>
+     <ref target="http://doi.org/10.5281/zenodo.2648457">Facsimile on zenodo</ref>
       </bibl>
       <bibl type="firstEdition">
         <author>Bucura Dumbravă</author>
