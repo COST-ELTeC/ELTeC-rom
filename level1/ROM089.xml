@@ -1,0 +1,1110 @@
+
+<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" 
+  xml:id="ROM089" xml:lang="ro">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Scarlat. Romanu originalu: ediție ELTeC </title>
+        <author>Fundescu, I. C. (1836-1904)</author>
+        <respStmt>
+          <resp>codare ELTeC</resp>
+          <name>Alexandra Olteanu</name>
+        </respStmt>
+        <respStmt>
+          <resp>Recorectat si citit de </resp>
+          <name>Alexandra Ruscanu</name>
+        </respStmt>
+      </titleStmt>
+      <extent>
+        <measure unit="words">28429</measure>
+        <measure unit="pages">129</measure>
+      </extent>
+      <publicationStmt>
+        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+        <availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl type="printSource">
+          <author>Fundescu, I. C.</author>
+          <title>Scarlat</title>
+          <pubPlace>Bucharest</pubPlace>
+          <publisher>TIP. NAȚIONALĂ C. N. RĂDULESCU</publisher>
+          <date>1875</date>
+          <ref target="http://doi.org/10.5281/zenodo.4589288">Facsimile on zenodo</ref>
+        </bibl>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc n="eltec-1">
+      <p></p>
+    </encodingDesc>
+    <profileDesc>
+      <langUsage>
+        <language ident="ro"></language>
+      </langUsage>
+      <textDesc>
+        <e:authorGender key="M"></e:authorGender>
+        <e:size key="short"></e:size>
+        <e:canonicity key="low"></e:canonicity>
+        <e:timeSlot key="T2"></e:timeSlot>
+      </textDesc>
+    </profileDesc>
+    <revisionDesc>
+      <change when="2019-09-20">Initial TEI version generated.</change>
+    </revisionDesc>
+  </teiHeader>
+  <text>
+    <front>
+    </front>
+    <body>
+<div type="group" n="1">
+<head>PARTEA ÂNTÊIŬ</head>
+<head>UNDE DUCE UNELE AMORURĬ</head>
+    <div type="chapter" n="1">
+<head>I.</head>
+<p>Scarlat era de vr’o douĕ-ᶁecĭ și cincĭ de anĭ, vêrstă cândŭ spiritulŭ începe se cugete, inima sĕ iubiască, sufLetulŭ sĕ se îmbete de plăcerile viățeĭ. Dérŭ elŭ nu întêlnise pe cine sĕ iubiască, nu dobîndise încă gustulŭ plăcerilorŭ viățeĭ; tótă ocupațiunea luĭ era a citi, a cugeta.</p>
+<p>Elŭ era frumosŭ; însĕ d’o frumusețe transparinte. Talia de miᶁĭlocŭ; pĕrulŭ desŭ și fórte negru, în cătŭ l’arŭ fi luatŭ cine-va dreptŭ unŭ spaniolŭ; fruntea lată și inteligintă; nările deschise, aerulŭ sincerŭ și liniștitŭ. Obrazulŭ sĕŭ avea ce-va care areta măndriă, gândire și nevinovățiă. Profilulŭ, ale căruia liniĭ eraŭ rătunde, fără a înceta de a fi bărbătescĭ, aveaŭ dulceața femeiască. Noĭ, amiciĭ, îlŭ numeamŭ Christos celŭ brunŭ și actrițele de la operă îĭ ᶁicea il bruneto! Manierile séle eraŭ reservate, camŭ recĭ, delicate, puținŭ deschise.</p>
+<p>Nu mergea prin salóne, de cătŭ la vr’o rudă séŭ la vr’unŭ amicŭ de aprópe, unde nu era nicĭ lume multă, nicĭ etichetă mare.</p>
+<p>Era timidŭ ca o fată de 15 anĭ, și simțitorŭ ca flórea ce se ᶁice simțitóre.</p>
+<p>Avea pasiune pentru musică. Cânta ca unulŭ din ceĭ maĭ bunĭ baritonĭ. Avea aplecare către totŭ ce este frumosŭ. Décă arŭ fi studiatŭ sculptura, cum ᶁice Lamartine, arŭ fi eșitŭ din dalta luĭ o Venusă ca acea a luĭ Praxitéle; déca arŭ fi luatŭ unŭ penelŭ în mână, arŭ fi datŭ uneĭ pânze nesimțitóre sufletulŭ seŭ; décă arŭ fi fostŭ născutŭ într’o țéră de acelea unde cine-va are unŭ câmpŭ deschisŭ pentru luptele politice, arŭ fi devenitŭ oratore ca Cicerone, politicŭ ca Cavur; décă arŭ fi scrisŭ poesiĭ, arŭ fi imitatŭ, în versurĭ sonore, cânticulŭ pasĕrilorŭ, frémătulŭ frunᶁelorŭ, murmurulŭ păraelorŭ și melodia sferelorŭ.</p>
+<p>Simția totŭ; dérŭ nu voia sĕ facă nimicŭ. Elŭ era din aceĭ poețĭ carĭ nu voescŭ sĕ scrie sonete pentru curtisane fără inimă și se arunce operile lorŭ mulțimeĭ nesimțitóre, care rîde de durerĭ și nu înțelege simțimantele cele marĭ; care crucifică pe Christŭ și bate ’n palme căndŭ vulturulŭ róde plămâniĭ luĭ Prometeŭ. Aceștĭ poețĭ credŭ că suntŭ ceĭ maĭ bunĭ, căcĭ eĭ simtŭ, iubescŭ și morŭ, precumŭ o flóre simte, trăește și móre pe vêrfulŭ unuĭ munte, unde nu o ajunge de câtŭ sufllarea zefiruluĭ, cânteculŭ paserilor și raᶁele sóreluĭ.</p>
+<p>Eĭ vinŭ pe pămêntŭ cu Dumneᶁeŭ în inimă și totŭ cu elŭ în inimă îșĭ iaŭ sborulŭ către stele, fără ca se fi culesŭ laurĭ pe pămêntŭ.</p>
+<p>Cândŭ am făcutŭ cunoștința sea, eramŭ într’o serată la una din rudele séle. Elŭ ședea tristŭ într’ unŭ colțŭ alŭ canapeleĭ, singurŭ și tăcutŭ. Privea, asculta, cugeta.</p>
+<p>De câte orĭ e maĭ bine a tăcea și a privi în asemenea adunărĭ. Escĭ sicurŭ că nu veĭ da ocasiune femeilorŭ a se sbărli că nu le facĭ micele lor capriciĭ, căcĭ ele suntŭ capricióse, séŭ cum ᶁice Virgil:</p>
+<p><foreign>Varium et mutabile semper femina.</foreign></p>
+<p>Scarlat era fiulŭ unuĭ micŭ proprietarŭ din districtulŭ Ilfovŭ. Părințiĭ seĭ ședéŭ maĭ multŭ la țéră, fiind-că starea lorŭ era prea mică ca sĕ le ajungă a trăi în Bucurescĭ. Pentru elŭ însĕ îngrijise sĕ’i dea tóte miᶁĭlócele spre a’șĭ face educațiunea putinciósă în țéra nóstră.</p>
+<p>Făcuse clasele gimnasiale și pe urmă trecuse la facultatea de litere; căcĭ, cu tóte stărunțele ce încercase pe lângă amiciĭ familieĭ séle, spre aĭ miᶁĭloci mergerea în streinătate pentru complectarea studiuluĭ, nu fusese cu putință. Elŭ era prea măndru a se têrâ la ceĭ marĭ de la putere și a se ruga de ceĭ bogațĭ carĭ, în schimbulŭ unuĭ banŭ, îțĭ cerŭ adesea o mișeliă.</p>
+<p>Déră ceea ce nu făcuse în stăinătate, împlinea prin multa cetire în Bucurescĭ. De câte orĭ mĕ ducémŭ la dênsulŭ, îlŭ găsémŭ citindŭ séŭ vr’o carte asupra ómenilorŭ marĭ, séŭ vr’o broșură de poesiĭ ale luĭ Metastasio și Lamartine.</p>
+<p>Avea nisce frumóse vise pentru țéra sea. Voia liberarea eĭ cu desăvîrșire și unirea tutulorŭ românilorŭ într’unŭ singurŭ statŭ. Lucra pentru acésta câtŭ putea, dupe miᶁĭlocele și vêrsta sea.</p>
+<p>Adăpatŭ cu ideiele ómenilorŭ de la 1848, era revoluționarŭ necontenitŭ, adică progresistŭ vecĭnicŭ; căcĭ, dupĕ cum ᶁicea elŭ, ce este revoluțiunea de câtŭ unŭ progresŭ care rupe, necontenitŭ, burienile cele rele și scóte din pămêntŭ rădăcinile lorŭ ca, într’o ᶁi, totŭ câmpulŭ acesta, care se numește umanitate, se rĕmâiă semănatŭ numaĭ cu florĭ demne de Dumnețᶁeŭ!</p>
+<p>Nu ambiționa nimicŭ, nicĭ posturĭ marĭ, nicĭ gloria de a’șĭ vedea numele tipăritŭ pe o carte, nicĭ de a se amesteca cu turma de curtesanĭ ce înconjóră și tămăiă pe prințĭ câtŭ suntŭ pe tronŭ, și pe urmă se întorcŭ către nouiĭ venițĭ; ambiționa însĕ o gloriă santă, mare, pe care totŭ românulŭ trebue s’o ambiționese: a’șĭ vedea țéra luĭ mare, și între numele care aŭ luptatŭ pentru acea mărire se figureze și alŭ seŭ.</p>
+      <quote type="verse">
+<l><foreign>«Savez-vous quel trésor eût satisfait mon coeur?</foreign></l>
+<l><foreign>«La gloire; mais la gloire est rebelle au malheur.</foreign></l>
+      </quote>
+<p>Ca Gilbert simțea, și ca și dênsulŭ a muritŭ. Maĭ multŭ încă: luĭ Gilbert a rĕmasŭ ce-va din sufletulŭ sĕŭ în poesiile séle. Luĭ Scartat nu ’ĭ-a rĕmasŭ nicĭ o pagină pe care sĕ’ĭ fiă scrisŭ numele, nicĭ măcarŭ o piatră care sĕ aréte unde odihnește!!</p>
+<p>Aprópe unŭ anŭ amŭ petrecut cu dênsulŭ ca douĭ frațĭ. Elŭ nu se ducea nicăierĭ fără mine și eŭ fără dênsulŭ. Mâncamŭ împreună, ne plimbamŭ împreună, citémŭ împreună. Décă nu ne vedeamŭ o oră, începémŭ ca sĕ nu ni se fi întêmplatŭ ce-va.</p>
+<p>Ajunsesemŭ Pilat și Orest.</p>
+<p>Intr’o ᶁi dispăru, și nu l’amŭ maĭ vĕᶁutŭ de câtŭ peste unŭ anŭ.</p>
+<p>Era în o séră de carnavalŭ, a anuluĭ 1865; ședémŭ în camera mea, dinaintea foculuĭ, așteptândŭ sĕ vie ora baluluĭ mascatu și privindŭ la flăcărĭ cumu trecŭ de iute, ca și amorulŭ uneĭ femeĭ. Maĭ mĕ furase somnulŭ în fotoliŭ, cândŭ o bătaiă în ușă mĕ deșteptă. Cine-va intră. Era Scarlat!</p>
+<p>Ce schimbare mare, Dumneᶁeule! In loculŭ aceluĭ Scarlat bunŭ, dulce, timidŭ, cu o palóre transparintă și aprinsă, acumŭ avémŭ dinaintea mea pe unŭ altulŭ cu o figură posomorîtă, de o palóre rece. Acéstă palóre era abia însuflețită prin roșiala albăstrie ce se plimba împrejurulŭ ochilorŭ sĕĭ și care anunța o durere, o preocupațiune.</p>
+<p>Imĭ dete bună séra și șeᶁu.</p>
+<p>— Dérŭ ce te-aĭ făcutŭ de atâta timpŭ, amiculŭ meŭ? îlŭ întrebaiŭ eŭ. N’aĭ fostŭ aicĭ?</p>
+<p>— Te rogŭ, sĕ nu mĕ maĭ întrebĭ nimicŭ în privința acésta, décă mĕ iubescĭ. Amŭ trebuință de serviciulŭ tĕŭ.</p>
+<p>Și voi sĕ se scóle.</p>
+<p>— Ce-felŭ? déca m’aĭ uitatŭ ta aprópe unŭ anŭ de ᶁile, creᶁĭ că eŭ nu te maĭ iubescŭ! Spune și veĭ vedea décă țiŭ încă la tine!</p>
+<p>— Iubescŭ o femeiă.</p>
+<p>— Eramŭ sicurŭ că numaĭ pentru o femeiă m’aĭ părăsitŭ! Eĭ bine! și ce voescĭ sĕ făcŭ?</p>
+<p>— Mi se pare că acéstă femeiă mĕ înșeală!</p>
+<p>— Cine este ea ?</p>
+<p>— Princesa.</p>
+<p>— Și ce probe aĭ?</p>
+<p>— De câte-va ᶁile este cu mine prea bună; dérŭ totŭ de o dată prea distractă.</p>
+<p>— Acéșta într’adevĕrŭ este cea maĭ bună probă.</p>
+<p>— De câte-va ᶁile, cumŭ se înseréză, îmĭ spune că este indispusă și ’mĭ cere’sĕ mĕ retragŭ. A séră m’a gonitŭ de la optŭ ore. Amŭ păzitŭ până diminéța în jurulŭ palatuluĭ sĕŭ, dérŭ n’amŭ veᶁutŭ pe nimenĭ. Cu tóte acestea inima-mĭ spune că este ce-va, și tu știĭ că inima nu se înșală nicĭ o dată.</p>
+<p>— Este adevĕratŭ!</p>
+<p>— Cumŭ m’amŭ sculatŭ aᶁĭ diminéță, m’amŭ dusŭ la o cărturărésă din strada Popa-Tatu. Ea ’mĭ a spusŭ că Princesa mĕ trădéză cu unŭ omŭ blondŭ.</p>
+<p>— Este vina ta că nu escĭ și tu blondŭ.</p>
+<p>— Nu glumi, amice.</p>
+<p>— Cum dracu sĕ nu glumescŭ, cândŭ te veᶁŭ pe tine, unŭ bărbatŭ, unŭ omŭ fără superstițiĭ, că aĭ începutŭ sĕ creᶁĭ ca babele în cărțĭ!</p>
+<p>— Amŭ începutŭ, cu tóte acestea, de câte-va ᶁile, sĕ fiŭ superstițiosŭ! Aᶁĭ, cândŭ m’am sculatŭ de la masă și voiamŭ sĕ ’mĭ puiŭ paltonulŭ, unŭ butonŭ cu numele eĭ, ce-lŭ purtamŭ la mâneca cămășiĭ, s’a ruptŭ și nu l’amŭ maĭ găsitŭ!</p>
+<p>— Eĭ! și ce probéză acésta?</p>
+<p>— Probéză că amŭ perdut’o pentru totŭ-d’auna, séŭ amŭ s’o perᶁŭ!</p>
+<p>Ḑicêndŭ aceste cuvinte, începu sĕ tremure.</p>
+<p>— Vorbisemŭ, adause elŭ, sĕ mergemŭ împreună în acéstă séră la balulŭ mascatŭ de la operă, și étă ce-mĭ scrie:</p>
+      <quote type="letter">
+<p>«Scumpulŭ meŭ!</p>
+<p>«Astă séră nu pociŭ sĕ mergŭ la balŭ, fiind-că suntŭ indispusă; nicĭ nu potŭ sĕ te priimescŭ. Ca sĕ’mĭ probeᶁĭ că mĕ iubescĭ, nu te duce nicĭ tu. Sciĭ că suntŭ gelósă, fiindŭ că te iubescŭ fórte multŭ!</p>
+<p>«Adio, sufletulŭ meŭ, viața mea!</p>
+<p>Margareta</p>
+      </quote>
+<p>— Altă dată, urmă elŭ, era fórte indispusă, de multe orĭ bolnavă rĕŭ, și cu tóte acestea, atuncĭ îĭ făcea maĭ mare plăcere cândŭ veghiamŭ tótă nóptea lêngă patulŭ eĭ! Nu este acésta dérŭ o probă că mĕ tradă?</p>
+<p>— Negreșitŭ; dérŭ ce este de făcutŭ?</p>
+<p>— Ce creᶁĭ tu?</p>
+<p>— Eu creᶁŭ ca sĕ mergŭ la dênsa sĕ vedemŭ déca este acasă.</p>
+<p>— Dérŭ nu ne ve priimi. Și déca va fi la balŭ, trebue sĕ fi închisŭ pórta, prin urmare nu vomŭ putea intra.</p>
+<p>— Nu are vr’o portiță dosnică?</p>
+<p>— Ba da; însĕ și aceia este închisă, și este închisă pentru totŭ-dé-una, afară cândŭ voesce sĕ bage pe cine-va în palatŭ, fără a fi vĕᶁutŭ de slugĭ.</p>
+<p>— Dérŭ zidulŭ este înaltŭ?</p>
+<p>— De duoĭ stânjinĭ.</p>
+<p>— Vom sări zidulŭ, atuncĭ!</p>
+<p>— Se mergem dérŭ!</p>
+    </div>
+  <div type="chapter" n="2">
+<head>II.</head>
+<p>Era una din cele maĭ frumóse nopțĭ de iarnă, de care se găsescŭ fórte multe în țéra nóstră. Luna plutea în seninulŭ albastru alŭ firmanentuluĭ ca o barcă de aurŭ în miᶁĭloculŭ valurilorŭ albastre ale măriĭ. Stelele sclipeaŭ și aruncaŭ scânteie de luminĭ ce se amestecaŭ cu nisce micĭ fulgĭ de zăpadă carĭ sbărniaŭ în aerŭ, produșĭ de tăria geruluĭ. Era unŭ gerŭ care îngheța lemnele și pietrele, cum ᶁice poporalŭ în limbagiulŭ sĕŭ poeticŭ.</p>
+<p>Acéstă nópte semăna maĭ multŭ cu unŭ omŭ albŭ de bătrînețe, dérŭ plin de viață și de vigóre, care sfidéză junețea cea ofilită de astă-ᶁĭ.</p>
+<p>Câte vise frumóse, câte speranțe dulcĭ nu nasce asemenea nopțĭ, și câte nu face sĕ se piarᶁă! Erĭ totŭ acéstă nópte a luminatŭ unŭ amorŭ născutŭ, și astă nópte l’a vĕᶁutŭ stingêndu-se! Câte mâinĭ strânse cu tandreță nóptea trecută, câte jurăminte încredințate umbrelorŭ amice, câte eternitățĭ jurate între douĕ sĕrutărĭ, și câte lacrimĭ astă nópte, câte suspine purtate de zefirĭ!</p>
+<p>Ce s’a făcutŭ aceste vise?</p>
+<p>Ce s’a făcutŭ amorulŭ chiarŭ?</p>
+<p>Ce a maĭ remasŭ din tóte acestea?</p>
+<p>Uitarea!</p>
+<p>Și pentru că eraŭ sĕ se uite așa de curêndŭ, sĕ móră așa de iute, pentru ce s’aŭ maĭ născutŭ ele?</p>
+<p>Pentru ce? Pentru ce? Cuvêntŭ crudŭ și teribilŭ, aflatŭ de filosofia invidiósă la bucuriele sufletuluĭ, și care ni se aruncă c’unŭ hohotŭ de rîsŭ în miᶁĭlloculŭ nebunielorŭ nóstre cele maĭ scumpe și maĭ bine-făcĕtóre</p> 
+<p>Pentru ce? Pentru ca se ne aréte că trebue sĕ profitămŭ de momentele ce maĭ avemŭ. De acea și populațiunea Bucurescilorŭ profita acéstă nópte și de momentele ce maĭ avea, și de timpulŭ frumosŭ. Uniĭ mergeaŭ la balŭ, alțiĭ se plimbaŭ în săniĭ și alțiĭ se duceaŭ sĕ facă curte pe la ferestrele femeielorŭ ce iubescŭ. Musica barbară și agasatóre de la Stele și Vicleime, ce se amesteca cu musica cea falșă a orgelorŭ discordate, făcea pe uniĭ sĕ fugă și pe alțiĭ sĕ se opréscă. Diferite glume se aruncaŭ de trecĕtorĭ măscilorŭ ce mergeaŭ la balulŭ de la Operă.</p>
+<p>Toțĭ rîdeaŭ, toțĭ se înveseleaŭ de acea nópte frumósă, de acea nópte de carnavalŭ! Numaĭ Scarlat nu vedea nimicŭ, nu asculta nimicŭ, nu se gîndea la nimicŭ de câtu la Princesa. Se ruga luĭ Dumneᶁeŭ ca presimțimêntele séle sĕ nu fie adĕvĕrate.</p>
+<p>Cândŭ ajunserămŭ la pórta Princeseĭ, era 11 ore. Pórta era închisă. Sunarămŭ, dèrŭ niminĭ.</p>
+<p>Palatulŭ da în treĭ ulițe. Căutarămŭ ulița cea maĭ dosnică și cercetarămŭ déca era unŭ locŭ maĭ lesniciosŭ de săritŭ. Îlŭ găsirămŭ. La unŭ locŭ zidulŭ era cam dărâmatŭ, și alăturĭ cu sine era săditŭ unŭ plopŭ de douĕ orĭ maĭ înaltŭ de câtŭ zidulŭ.</p>
+<p>Pândirămŭ cândŭ numaĭ trecea nimenĭ p’acolo și sărirămŭ în grădină. Merserăm maĭ întêiŭ la feréstra de la camera fecioruluĭ, care era josŭ. Scarlat bătu; nu’ĭ respunse nimenĭ.</p>
+<p>— Nu este acasă, ᶁise elŭ.</p>
+<p>Apoĭ se duse la ușa scăreĭ din dosŭ; ea era închisă. Din fericire Scarlat avea cheia acesteĭ scărĭ pe care-ĭ o dedese Princesa pe la începutulŭ amoruluĭ lorŭ. Deschise, se urcă încetŭ pe scară și se opri la ușa de la camera femeeĭ din casă. Aci intră fără a maĭ bate.</p>
+<p>Femeia dete unŭ țipătŭ! Dérŭ vĕᶁêndŭ pe Scarlat, frica ce’șĭ făcuse ca de unŭ hoțŭ, se schimbă în acea că nu scia ce sĕ respunᶁă, căcĭ stăpână-sea, se vede, nu se așteptase la acésta și nu o preparase. Deveni confuză.</p>
+<p>— Unde este stăpână-ta? întrebă Scarlat.</p>
+<p>— S’a dusŭ... s’a dus, îngână ea, fără a sci sĕ spue unde s’a dusŭ ... S’a dusŭ la Dómna N***.</p>
+<p>— Ce felŭ? dérŭ era bolnavă?</p>
+<p>— Da; însĕ ’ĭ-a maĭ trecutŭ puținŭ și a eșitŭ sĕ se rĕcoréscă, fiind-că avea căldurĭ.</p>
+<p>— Mințĭ, Lino! Stăpână-ta s’a dusŭ la balŭ mascatŭ! Spune, adevĕratŭ este?</p>
+<p>— Nu, D-le Scarlat; ᶁĕŭ, eŭ sciŭ că s’a dusŭ la Dómna N***; déca s’o fi dusŭ la balŭ, póte s’o fi dusŭ d’acolo.</p>
+<p>— Lasă s’o întrebŭ eŭ, într’unŭ limbagiŭ maĭ auritŭ, ᶁiseiŭ luĭ Scarlat. Spune adevĕrulŭ, dragă Lino, adăogaiŭ, puindu-ĭ în mână douĭ napoleonĭ. Stăpână-ta nu va sci; și chiar de va afla, te iaŭ eŭ fată în casă la mine.</p>
+<p>— Ḑeŭ, Domnule, nu sciŭ de câtŭ cea ce v’amŭ spusŭ, respunse ea, fără a voi se priméscă baniĭ.</p>
+<p>— Atuncĭ te voiŭ face sĕ vorbescĭ de frică, urmaiŭ, restindu-mĕ la dênsa și puindŭ pe masă unŭ revolverŭ ce purtamŭ.</p>
+<p>— Spuiŭ, Domnule, strigă ea speriată!</p>
+<p>— Eĭ bine, s’a dusŭ la balŭ?</p>
+<p>— Da!</p>
+<p>— Cu cine?</p>
+<p>— Cu D-na N***.</p>
+<p>— Numaĭ cu dênsa, nu și cu unŭ bărbatŭ?</p>
+<p>— Nu, D-le, numaĭ cu dênsa.</p>
+<p>— Ce costum pórtă?</p>
+<p>— Unŭ domino albŭ cu stele de aurŭ pe dênsulŭ; mănușĭ albe, pantofĭ albĭ, mască de catifea négră; unŭ mare buchetŭ de cameliĭ în mână, unŭ evantailŭ chinezescŭ și o funtă de panglică rosă în partea stângă a capușonuluĭ.</p>
+<p>— Déca veĭ fi mințitŭ, vaĭ de tine! ᶁise Scarlat femeeĭ, și plecarămŭ.</p>
+<p>Ne oprirămŭ la o garderobă de costume pentru balŭ. Scarlat îșĭ luă unŭ domino negru și o mască, îșĭ puse o altă pereche de mănușĭ, căcĭ pe cea-l-altă o vĕᶁuse Princesa în ᶁiua trecută, și nu voia sĕ aibe nicĭ bănuială măcarŭ.</p>
+<p>Dupĕ ce se găti, pornirămŭ la balŭ. Abia intrarămŭ și unŭ domino îmĭ dete o flóre și-mĭ luă brațulŭ, fără a lăsa mâna unuĭ june.</p>
+<p>Masca era o damă dintr’unŭ orașiŭ de provinciă, care venise în capitală numaĭ pentru simpla plăcere a da o flóre și a supăra în balŭ. Acesta era unŭ capriciŭ alŭ eĭ. Junele era fratele sĕŭ.</p>
+<p>— Fă-mĭ, amice, o poesiă, îmĭ ᶁise masca.</p>
+<p>— Póte se descrie cine-va florile ascunse sub zăpadă, luna sub norĭ? Nu! atuncĭ veᶁĭ bine că nu te pociŭ cănta nicĭ pe tine sub acéstă urîciósă mască care, suntŭ sicurŭ, ascunde o frumusețiă. Scóte masca și veĭ vedea déca sciŭ sĕ daŭ Veneriĭ tămîia poesieĭ.</p>
+<p>— Dérŭ tu mĕ cunoscĭ fórte bine, adause ea, cu vocea schimbată.</p>
+<p>— Atâtŭ maĭ bine, déca te cunoscŭ! Atuncĭ aide sus în fóieră și scóte-țĭ masca.</p>
+<p>— Dérŭ cunósce-mĕ cine suntŭ ast-felŭ, déca poțĭ.</p>
+<p>Apoĭ începu sĕ-mĭ spue o sumă din lucrurile mele cele maĭ intime. Pe cândŭ o ascultamŭ, totŭ-d’o-dată priveghiamŭ și pe Scarlat. Elŭ maĭ ântêiŭ se plimbă prin sală, luă în rândŭ băngile de jurŭ împrejurŭ, se duse la lojele cele marĭ din avanscenă, luă benuarele în rândŭ, apoĭ se apropie de mine și ’mĭ ᶁise încetŭ:</p>
+<p>— Nimicŭ!</p>
+<p>— Șeᶁĭ tu aci, îĭ ᶁiseiŭ, ca sĕ mĕ ducŭ sĕ vĕᶁŭ eŭ în foaierŭ.</p>
+<p>Elŭ șeᶁu numaĭ de câtŭ pe o bancă, căcĭ nu se maĭ putea ține pe picióre. Emoțiunea ce încercase în acea séră îĭ sfărâmase puterile. Străbătuiŭ fóierulŭ în tóte părțile séle; avuĭ chiarŭ indiscrețiunea sĕ mĕ uitŭ pe sub perdele, pe unde se ascundŭ amanțiĭ ca sĕ fie apărațĭ de privirile trecĕtorilorŭ și chiarŭ sĕ-șĭ fure câte unŭ sĕrutatŭ, din care câte odată nasce o corónă de adulteriŭ; dérŭ și aci nimicŭ!</p> 
+<p>Ceruiŭ scuze măsceĭ mele sĕ o părăsescŭ douĕ momente și alergaiŭ sĕ facŭ turŭ logielorŭ de rangulŭ alŭ duoilea.</p>
+<p>Aci era; în logia No. 39.</p>
+<p>Alergaiŭ în sală, luaiŭ pe Scarlat, care abia putu sĕ urce scara; luaiŭ masca și ceruiŭ logiaruluĭ sĕ ne deschiᶁă logia No. 38, care era gólă. Ne așeᶁarămŭ, eŭ și cu masca mea, în faciă. Scarlat se puse în fundŭ, așa că nu se putea vedea.</p>
+<p>Princesa era cu unŭ ofițerŭ de poliție, unŭ felŭ de valetŭ care se vede pe cărțile de jocŭ, cu barbișonŭ blond și cu pĕrulŭ linsŭ.</p>
+<p>Cunosceamŭ pe acelŭ ofițerŭ.</p>
+<p>Era totŭ ce póte fi maĭ vițiosŭ, maĭ ignorantŭ și maĭ stupidŭ. Singura calitate ce avea, era că făcea curte la tóte femeiele, fiă tinere séŭ bătrâne.</p>
+<p>— Cu cine este? mĕ întrébă Scarlat.</p>
+<p>— Cu unŭ ofițerŭ de polițiă.</p>
+<p>— Bine a progresatŭ! Póte cu timpŭ va ajunge și la ipistatŭ!</p>
+<p>— De ce nu, daca a începutŭ cu.......</p>
+<p>Scarlat mĕ întrerupse, puindu-mĭ mâna la gură.</p>
+<p>— Tacĭ, pentru Dumneᶁeŭ, ᶁise elŭ. Orĭ ce sciĭ rĕŭ despre acéstă femeiă, te rogŭ nu’mĭ spune; căcĭ, în locŭ a’mĭ face bine, îmĭ facĭ rĕŭ.</p>
+<p>—  Îți va aduce disprețulŭ, și elŭ este mórtea amoruluĭ.</p>
+<p>— Cândŭ cine-va iubesce, nu póte se desprețuiască. Iubescŭ încă pe acéstă femeiă. In inima omuluĭ suntŭ douĕ pasiunĭ marĭ, ura și amorulŭ. In mine a începutŭ lupta între ele, dérŭ până acumŭ învingĕtorŭ este amorulŭ. Se feréscă Dumneᶁeŭ se învingă ceĭ-l altă; căcĭ atuncĭ suntŭ capabilŭ...... nu suntŭ capabilŭ de nimicŭ în contra eĭ!</p>
+<p>Spusesemŭ masceĭ mele că era cestiunea aci de trădare și o rugasemŭ sĕ stea cu mine până voiŭ pleca. Ea rămase: Lornia, privea, asculta și câte o dată, cândŭ vedea că nu vorbescŭ cu Scarlat, îmĭ adresa câte unŭ cuvêntŭ, douĕ, cu totulŭ străine de noĭ. Imĭ arĕta câte o mască bine îmbrăcată, câte unŭ nătărăŭ de bărbatŭ care ședea în câte unŭ colțŭ, pe cândŭ amantulŭ spunea vorbe frumóse femeieĭ séle la colțulŭ celeĭ-l-alte estremitățĭ a săleĭ. Indată însĕ furămŭ întrerupțĭ de sgomotulŭ uneĭ sărutărĭ ce eșa din logia No. 39. Apoĭ sărutăriĭ urmă acéstă convorbire, care de sicurŭ era începută maĭ nainte și se întrerupsese.</p>
+<p>— Și escĭ sicură, ᶁicea oficierulŭ, că elŭ nu sciă nimicŭ?</p>
+<p>— Fórte sicură; ’ĭ amŭ scrisŭ o scrisóre sĕ nu vie la balŭ, fiind-că eŭ nu viŭ din causă de indisposițiune, și elŭ a creᶁutŭ și n’a venitŭ. Privesce în sală și veᶁĭ că nu este!</p>
+<p>— De ce nu’lŭ congediesĭ atunci?</p>
+<p>— ’Mĭ e milă de elŭ. Nu voescŭ sĕ-ĭ daŭ de-o dată lovitura. Maĭ bine sĕ-lŭ preparŭ.</p>
+<p>— Dérŭ cum aĭ sĕ’lŭ preparĭ, până nu’ĭ veĭ spune ceva, până nu se va face o schimbare în Dumneata faciă cu dênsulŭ? Ș’apoĭ este maĭ rĕŭ a tortura pe unŭ omŭ maĭ multe ᶁile de câtŭ a’ĭ da d’o-dată lovitura. O lovitură omóră séŭ scapă. Tortura nu scapă nicĭ o dată. Déca ᶁici că aĭ milă de dênsulŭ, spune-ĭ mâine că nu’lŭ maĭ poțĭ primi, că nu’lŭ maĭ iubeștĭ, și atuncĭ totulŭ se va sfîrși, afară déca nu’lŭ maĭ iubeștĭ!</p>
+<p>— Ingrate! dérŭ nu ’țĭ amŭ probatŭ că te iubescŭ numaĭ pe tine? N’amŭ venitŭ numaĭ pentru tine la balŭ? Tu sciĭ că nu’lŭ maĭ iubescŭ de multŭ pe dênsulŭ! Ba credŭ chiarŭ că nu l’amŭ iubitŭ nicĭ o dată, cercetêndu’mĭ inima.</p>
+<p>— Jură-mĭ că nu’lŭ maĭ iubescĭ.</p>
+<p>— Ițĭ jurŭ.</p>
+<p>— Pe ce?</p>
+<p>— Pe copilulŭ meŭ, la care țiŭ fórte multŭ.</p>
+<p>Scarlat tresări. Nu’ĭ vedemŭ facia prin mască; dérŭ trebia sĕ fie fórte palidŭ. Vĕᶁuiŭ că’șĭ pune mâinile la inimă, pare că arŭ fi voitŭ s’o opréscă sĕ nu sbóre.</p>
+<p>— Ingrata! infama! miserabila! strigă elŭ, tremurândŭ! Totŭ acelașŭ jurămêtŭ care mi l’a făcutŭ și mie!</p>
+<p>Apoĭ machinalmente mâinele séle se deslipiră de lângă inimă și se pomeniră la pozunarulŭ meŭ, în care se afla revolverulŭ.</p>
+<p>— Ce vreĭ sĕ facĭ? îlŭ întrebaiŭ!</p>
+<p>— S’o omorŭ! sĕ-ĭ omorŭ! Acésta nu maĭ este femeiă, este unŭ demonŭ.</p>
+<p>— Maĭ adinéorĭ ᶁiceaĭ că nu escĭ capabilŭ sĕ’ĭ facĭ vre unŭ rĕŭ.</p>
+<p>— Adinéorĭ n’o credeamŭ încă atâtŭ de culpabilă, atâtŭ de mizerabilă!</p>
+<p>— Acumŭ, cândŭ escĭ convinsŭ, desprețuesce-o și las’o sĕ se têrască în disprețulŭ tĕŭ. Și déca vreĭ sĕ ’țĭ rĕsbunĭ maĭ bine, aidemŭ acasă și mâine, cum nu sciă că aĭ fostŭ aicĭ și aĭ vĕᶁut’o, îĭ veĭ trimite o scrisóre prin care îĭ veĭ spune că unŭ altŭ amorŭ ’țĭ a ocupatŭ inima și numaĭ poțĭ sĕ te ducĭ la dênsa. Acesta este miᶁĭloculŭ celŭ maĭ bunŭ spre a lovi amorulŭ propriŭ alŭ acestorŭ femeĭ. Ele părăsescŭ surîᶁêndŭ, fără a le păsa câtu-șĭ de puținŭ că póte sfărâma o inimă; dérŭ suntŭ tigrese cândŭ se vĕᶁŭ părăsite.</p>
+<p>— Bine! bine! strigă Scarlat, vĕᶁêndŭ că renasce o mică scănteiă de speranță în sufletulŭ sĕŭ. Dérŭ ia-mă de aicĭ că mĕ înecŭ!</p>
+<p>Dedeĭ brațulŭ măsceĭ, o duseĭ în sală, o dedeĭ frateluĭ-seŭ și mĕ întorseiŭ sĕ iaŭ pe Scarlat. Plecarămŭ; dérŭ cândŭ era sĕ coborîmŭ scara, elŭ ’mĭ ᶁise sĕ maĭ așteptămŭ până va pleca și ea. Ne întórserămŭ în fóierŭ. Peste o jumătate de oră eĭ treceaŭ pe lêngă noĭ și coboraŭ scara.</p>
+<p>De o dată vĕᶁuiŭ pe Scarlat ca unŭ fulgerŭ alergândŭ, tăindu-le drumulŭ, puindu-se în dreptulŭ lorŭ și smulgêndŭ cu o mână masca princeseĭ și cu cea laltă pe a sea.</p>
+<p>— Josŭ masca, îĭ ᶁise elŭ, ca sĕ véᶁă lumea că subt ea este o gură ce minte!</p>
+<p>Princesa remase încremenită. Apoĭ d’odată totŭ sângele i se urcă în capŭ și era sĕ caᶁă, déca nu punea măinele privitoriĭ sĕ o ție.</p>
+<p>Acéstă scenă fuse făcută cu atâta iuțélă, că, până sĕ se bage de sémă, se și terminase.</p>
+<p>Pe cândŭ Dómna N***, care tocmaĭ sosise cu feciorulŭ sĕŭ și alŭ Princeseĭ, o ducea la trăsură, oficerulŭ veni lîngă Scarlat și ’ĭ ᶁise:</p>
+<p>— Domnule, îmĭ veĭ da cuvêntŭ de acéstă faptă.</p>
+<p>— Cu tóte că acésta nu te privesce pe D-ta câtu-șĭ de puținŭ, rĕspunse Scarlat; dérŭ de vreme ce voeștĭ, suntŭ gata totŭ-dé-una. Étă carta mea.</p>
+<p>In urma acesteĭ scene, se perduse tótă speranța. Trebuia sĕ se arunce unŭ vălŭ peste acest amorŭ; căcĭ elŭ murise în inima Princeseĭ, déca va fi trăitŭ vr’o dată.</p>
+  </div>
+  <div type="chapter" n="3">
+<head>III.</head>
+<p>Dupĕ scena de la balŭ ne întorserămŭ acasă la Scarlat. Elŭ era într’o posițiune de plînsŭ. Nu’mĭ venea sĕ-lŭ părăsescŭ în starea în care se afla. Rămăseiŭ, dérŭ, hotărîtŭ sĕ staŭ tótă nóptea cu dênsulŭ. E tristă, e durerósă ântêia nópte ce petrece unŭ omŭ dupĕ o desfacere de femeia ce iubea, orĭ câtŭ de puținŭ, maĭ cu sémă cândŭ lângă dênsulŭ veghiaᶁă încredințarea că acea ce l’a părăsitŭ petrece acéstă nópte în brațele altuia, fără părere de rĕŭ, fără aducere aminte, fără remușcare.</p> 
+<p>Tóte suvenirile cele maĭ dulcĭ, cele maĭ plăcute îțĭ trecŭ pe dinainte, îțĭ întindŭ braciele, te chiamă. Toțĭ câțĭ aŭ iubitŭ sincerŭ și s’aŭ despărțitŭ, păstreᶁŭ aducerĭ aminte ale unorŭ asemenea nopțĭ, și numaĭ eĭ înțelegŭ durerea ce încércă cine-va.</p>
+<p>Aésră te-aĭ dusŭ la theatru séŭ la o adunare. Era acolo cine-va care se făcea că nu te privesce, că nu te cunósce, și cu tóte acestea ’țĭ ᶁicea o miă de lucrurĭ pe furișŭ. O mână care sĕ juca cu o dantelă; o mănușă scósă într’unŭ minutŭ óre care; o gătélă, o apărătóre, o lornetă care se plimba peste tótă lumea și care nu vedea de câtŭ pe unulŭ; aceste florĭ, acéstă culóre de rochiă, care tóte aŭ unŭ înțelesŭ particularŭ pentru duoĭ ochĭ cu luare aminte, perduᶁĭ în sală, pentru o inimă care bate în umbră. Tóte acestea care vorŭ sĕ ᶁică: — Amŭ primitŭ scrisórea ta! Cugetŭ în tine! Ómeniĭ aceștia ’mĭ suntŭ nesuferițĭ. Te iubescŭ! Diséră! Mâine!</p>
+<p>Apoĭ dama se scólă din logiă séŭ dupe fotelŭ, îșĭ pune șalulŭ și pécă. Tu eșĭ dupĕ dênsa, fără a căuta déca s’a terminatŭ serata séŭ sprectacolulŭ, o urmărescĭ ca o umbră în întunericŭ și te plimbĭ în jurulŭ caseĭ séle până cândŭ o raᶁă de lumină, apărêndŭ printre cortinele uneĭ ferestre, dă unŭ semnalŭ așteptatŭ. Intri.........femeia te primesce cu brațele deschise și fericirea cade din cerŭ asupra capetelor vóstre.</p>
+<p>Astă séră numaĭ este nimicŭ din tóte acestea! La theatru numaĭ este nicĭ o damă. Numaĭ aĭ pe cine urma. Lumina nu se maĭ vede. Dama nu te maĭ primesce în brațele séle! Fericirea s’a întosŭ la Dumneᶁeŭ de unde venise! Acum nimiculŭ în tóte, golulŭ în tóte.</p>
+<p>Scarlat, cum sosi acasă, căᶁu pe unŭ fotoliŭ ca unŭ corpŭ mortŭ, cum ᶁice Dante. Îșĭ puse facia în mâinĭ și începu se plîngă; dérŭ n’avea nicĭ ură, nicĭ înâniă în lacremile séle. Puseĭ mâna pe fruntea sea; era ferbinte. Iĭ cercetaiŭ pulsulŭ; bătea cu furia. Avea frigurĭ.</p>
+<p>Ordonaiŭ fecioruluĭ sĕ aprinᶁă foculŭ; apoĭ îlŭ priviiŭ. Nu ᶁicea nicĭ o vorbă. Se gîndea. Nicĭ eŭ nu cuteᶁamŭ sĕ’lŭ întrebŭ nimicŭ. Cu tóte acestea privirile séle rătăcite spuneaŭ maĭ multŭ de câtŭ tóte cuvintele. Voi sĕ se scole de o dată dupĕ fotelŭ, pare că ’ĭ arŭ fi venitŭ o ideiă fără veste, dérŭ slăbiciunea îlŭ pironise pe elŭ.</p>
+<p>— Culcă-te, amicalŭ meŭ, îmĭ ᶁise elŭ, privindu-mĕ lungŭ. Eŭ voiŭ sta pe acestŭ fotoliŭ până la ᶁiuă. N’amŭ nicĭ de cumŭ somnŭ. Ș’apoĭ maĭ suntŭ încă treĭ ore până sĕ se lumineᶁe de ᶁiuă.</p>
+<p>— Nu’mĭ e somnŭ nicĭ mie, îĭ ᶁiseiŭ. Cândŭ suntŭ supăratŭ, nu dormŭ nicĭ o dată. Tu ar trebui sĕ te culcĭ puținŭ; căcĭ, alt-felŭ, obosiala și acele cugetărĭ pe totŭ momentulŭ, te vorŭ omorî.</p>
+<p>— Atâtŭ maĭ bine. Suntŭ tușŭ sĕ mĕ omorŭ singurŭ; voiŭ căuta miᶁĭlóce prin care sĕ morŭ cu încetulŭ.</p>
+<p>— Escĭ nebunŭ! Nu móre cine-va de amorulŭ uneĭ femeĭ, și maĭ cu sémă cândŭ acea femeiă nu merită amoralŭ sĕŭ. Curagiŭ! Trebue sĕ te vindecĭ de elŭ, trebue sĕ’lŭ uițĭ cu orĭ ce prețŭ.</p>
+<p>— Daca așŭ putea sĕ uitŭ că trebue sĕ gêndescŭ, așŭ uita și acestŭ amorŭ.</p>
+<p>— Veĭ uita, căutândŭ distracțiunea. Vomŭ trăi cum amŭ trăitŭ înainte, într’o lume a nóstră proprie; vomŭ petrece; vomŭ avea amante chiarŭ, însĕ fără amorŭ seriosŭ; și cândŭ veĭ fi sătulŭ de acéstă viéță, déca veĭ găsi vre-o fată cu calitățĭ distinse care sĕ te iubéscă și sĕ’țĭ fie soțiă, o veĭ lua-o în căsătoriă, ᶁicêndŭ: — M’amŭ regulatŭ, amŭ devenitŭ bărbatŭ.</p>
+<p>— Vise, amiculŭ meŭ; parigoriĭ de omŭ bolnavŭ.</p>
+<p>— Maĭ bine e a trăi cine-va cu asemenea vise, de câtŭ cu realitățĭ ca Princesa! Sĕ ᶁice că în cititŭ găsesce cine-va uitarea orĭ căreĭ suferințe, vorbindŭ cu ómeniĭ ceĭ marĭ, studiindŭ societatea. Citesce, scrie chiarŭ, póte că’țĭ va veni inspirațiunea.</p>
+<p>— Inspirațiunea! Ea nu visitéᶁă nicĭ odată sufletulŭ unde încă mișcă durerea. Aștéptă ca durerea sĕ trécă la starea de aducere aminte. La mine uitarea nicĭ n’a începutŭ până acumŭ.....Dérŭ ce se maĭ vorbimŭ de acésta, adause elŭ, sculându-se cu forță dupe fotelŭ, pare că arŭ fi voitŭ sĕ uite pentru unŭ momentŭ, și plimbăndu-se prin casă cu măinele în bozunare.</p>
+<p>Apoĭ se opri lingă scriitorŭ; șeᶁu pe unŭ scaunŭ, îșĭ réᶁămă capulŭ pe mâna dréptă și, negreșitŭ, în acelŭ minutŭ tóte aducerile aminte trecură cu sgomotŭ prin spiritulŭ seŭ.</p>
+<p>Deschise scriitorulŭ și scóse unŭ pachetŭ de chârtiĭ. Eraŭ scrisorile Princeseĭ și unŭ portretŭ copiatŭ de elŭ dupĕ o fotografia.</p>
+<p>Luă scrisorile, le citi și voi sĕ le arᶁă; dérŭ le lăsă. Voi sĕ pue unŭ termenŭ la trecutŭ, sĕ rupă portretulŭ, dérŭ i se păru că acestŭ portretŭ îĭ ᶁicea: — Eŭ nu’țĭ amŭ făcutŭ nimicŭ!» Și dupĕ ce l’a privitŭ unŭ cartŭ de oră, l’a îmbrățișatŭ cum ar fi îmbrățișatŭ însușĭ pe Princesa.</p>
+<p>Vĕᶁêndŭ însĕ că acesta, în locŭ sĕ-ĭ facă bine, îĭ făcea maĭ rĕŭ, le aruncă érŭ pe scriitorŭ și, voindŭ sĕ schimbe convorbirea, voindŭ sĕ’șĭ prefacă figura, ᶁise cu unu rîsă nervosŭ:</p>
+<p>— Mĕ veĭ fi creᶁutŭ mortŭ în timpŭ d’unŭ anŭ, câtŭ nu ne-amŭ vĕᶁutŭ?</p>
+<p>— Mărturisescŭ că eramŭ fórte îngrijatŭ. Amŭ întrebatŭ din amiciĭ nostriĭ și nicĭ unulŭ n’a sciutŭ se’mĭ spue. Tu aĭ fostŭ așa de discretŭ!</p>
+<p>— Da.... pentr’o ingrată! Căndŭ cugetŭ ce amŭ făcutŭ pentru dênsa, nu mĕ potŭ opri de a nu rîde.</p>
+<p>Ḑicêndŭ aceste vorbe, clențenea din dințĭ, ca unŭ omŭ apucatŭ de frigurĭ.</p>
+<p>— Dérŭ, pentru Dumneᶁeŭ, schimbă vorba, adause elŭ sculêndu-se érŭ dupe scaunŭ și plimbându-se prin casă. Pare că suntem jurațĭ astă nópte sĕ nu ne ocupăm de câtŭ numaĭ de dênsa!... Orĭ ce subietŭ de convorbire deschidemŭ, se termină totŭ cu ea!......Unde aĭ fostŭ astă-ᶁĭ? Aĭ maĭ vĕᶁutŭ pe Dómna S**? Masca de astă séră îțĭ este rudă séŭ amantă?</p>
+<p>— Nicĭ una, nicĭ alta, o amică.</p>
+<p>— Este frumósă?</p>
+<p>— Prea frumósă?</p>
+<p>— Du-mĕ mâine la dênsa.</p>
+<p>— Bine; dér promite-mĭ că nu te veĭ maĭ gândi la Princesa.</p>
+<p>— Ițĭ promitŭ......Este unŭ momentŭ de cândŭ demnitatea s’a desceptatŭ în sufletulŭ meŭ, de unde a începutŭ sĕ depărteᶁe tóte lașitățile amoruluĭ.</p>
+<p>Apoĭ se trânti pe o canapea. Peste ᶁece momente adormi. Avea unŭ somnŭ agitatŭ, nervosŭ, însĕ dormia. Eŭ n’amŭ pututŭ sĕ închiᶁŭ ochiĭ până la ᶁiuă.</p>
+<p>Cugetamŭ la acestŭ amorŭ. Elŭ îmĭ arĕtă îndestulŭ că déca o legătură nu este născută din simpatie, din potrivirea caractarelorŭ, din respectulŭ reciprocŭ, se sfărâmă îndată, și cu ea și o esistență, afară décă amândoĭ nu vorŭ fi fără inimă.</p>
+<p>Femeile strigŭ contra bărbațilorŭ că suntŭ inconstanțĭ, fără inimă, cruᶁĭ. Bărbațiĭ strigŭ contra femeielorŭ că suntŭ cochete, perfide, înșelătóte. Nicĭ ele, nicĭ ei n’aŭ dreptate. Suntŭ în ambele părțĭ și bunĭ și rĕĭ. Numaĭ alegerea se face greșită.</p>
+<p>Décă Scarlat arŭ fi găsitŭ o femeiă, séŭ, ca sĕ mĕ esprimŭ maĭ bine, o fată cu unŭ caracterŭ blândŭ, liniștitŭ, ca alŭ seŭ, fericirea arŭ fi înfloritŭ în casa lorŭ. Décă Princesa arŭ fi găsitŭ unŭ omŭ care s’o domineᶁe, nu prin puterea brutală, dérŭ prin demnitate, printr’unŭ amorŭ ne manifestatŭ până în acelŭ puntŭ care face pe femeiă sĕ fiă sicură de omulŭ care o iubesce, sĕ fiă sicură de eternitatea amoruluĭ sĕŭ, ea, Princesa, arŭ fi fostŭ o femeiă respectată și onestă. Dérŭ amoralŭ e inconsecuentŭ cu elŭ singurŭ. Elŭ pune ochelarĭ cândŭ e vorba de a prepune și-șĭ pune legătură le ochĭ cândŭ e vorba de a vedea.</p>
+<p>Caracterulŭ luĭ Scarlat era blândŭ, încreᶁĕtorŭ, pasionatŭ. Alŭ princeseĭ era iute, aspru, măndru, predominătorŭ, violentŭ, nervosŭ. Numaĭ tinerețea și frumusețea luĭ Scarlat o trăsese către dênsulŭ. Ea nu înțelesese în viața sea ce este amorulŭ adevĕratŭ; dérŭ vorbia de elŭ cu multă aprindere. Era din acele femeĭ care intră fără luptă în întĕiulŭ amorŭ, ca cumŭ ar fi unŭ lucru convenitŭ maĭ dinainte; apoĭ într’unŭ alŭ doilea și alŭ treilea; din acele femeĭ care, creᶁêndu-se neatacabile dupĕ posițiunea lorŭ de dame marĭ, sfidéᶁă opiniunea, spăimăntéᶁă prin scandalele lorŭ și se ornéᶁă cu greșélele lorŭ ca cu nisce florĭ carĭ trăescŭ pentru acestŭ amorŭ, și alŭ cărorŭ amorŭ surîᶁêndŭ ucide pe celŭ ce te iubesce sincerŭ.</p>
+<p>Princesa era fata unuĭ micŭ proprietarŭ dintr’unŭ districtŭ de la munte. Maĭ întêiŭ, în vêrstă de 18 anĭ, se mărită cu unŭ advocatŭ din capitală. Caracterulŭ avocatuluĭ fiindŭ cu totulŭ contrariŭ de alŭ sĕŭ, din cete dintêiŭ ᶁile începu certurile între dênșiĭ, ast-felŭ că, dupe douĭ treĭ anĭ, bietulŭ bărbatŭ se atacă și muri, dupe ce lăsă în urmă douĭ copiĭ și onórea sea veștejită, căcĭ femeia sea avusese estrema plăcera a face prieteșugŭ intimŭ cu unŭ tênărŭ ce se înturnase de curând din streinătate.</p>
+<p>Dupĕ mórtea bărbatuluĭ, vĕᶁêndŭ-se liberă, ea creᶁu că póte se lase și pe acelŭ tênărŭ, lăsându-ĭ însĕ suvenirŭ unŭ copilŭ bastardŭ, pe care ea l’a aruncatŭ, dérŭ pe care elŭ l’a luatŭ ca pe unulŭ ce făcea parte din sângele seŭ.</p>
+<p>In timpŭ de treĭ anĭ de vĕduviă, ea a făcutŭ o mare esperiență în lume. A încercatŭ atâta până a finitŭ la Principele D*** și l’a luatŭ de bărbatŭ. Principele era bătrânŭ; nu’lŭ iubea, dupe cum n’a iubitŭ pe nimenĭ; însĕ ea l’a luatŭ numaĭ pentru că avea perspectiva de a se face ministru, și ambițiunea sea cea mare era sĕ véᶁă la ușiă ómenĭ în uniformă. Décă i s’a împlinitŭ acéstă ambițiune, nu voimŭ sĕ cercetămŭ; totŭ ce știmŭ este, că ea era de o cam dată mulțumită că avea trăsură cu marca princiară, se numea princesă și avea lacheĭ ce străluciaŭ la sóre, făcêndŭ sĕ casce gura pe gugumanĭ privindu-ĭ.</p>
+<p>Era într’adevĕrŭ frumósă; însĕ nu de o frumusețe castă, ci de acele frumusețĭ simțuale, care se ᶁise că are atâta imperiŭ asupra ómenilorŭ! Avea unŭ caracterŭ curiosŭ, variabilŭ. Vorbea despre tóte fără sĕ scie nimicŭ; vorbea despre emoțiunile inimeĭ, fără sĕ le simță; avea tóte fisionomiele, fără sĕ aibă vre una; era batjocoritóre, neconsecuentă. Aᶁĭ vorbea de rĕŭ pe o femeiă, spunea că este intrigantă, rĕŭ crescută și a doua ᶁĭ o vedeaĭ cu dênsa în trăsura. Aᶁĭ arĕta că iubesce pe unulŭ și a doua ᶁĭ îșĭ da ochiĭ peste capŭ la privirile altuia. Erea Dómnă mândră a omuluĭ care o iubea și cochetă têrătóre către toțĭ aceĭ carĭ nu s’arŭ fi têrâtŭ la piciórele séle, séŭ i-arŭ fi pusŭ cu orgoliulŭ piciorulŭ pe frunte. Nu-ĭ a trecutŭ nicĭ o dată prin minte dorința de a avea virtuțĭ casnice. Aceste petre scumpe, carĭ suntŭ numaĭ pentru virgine și pentru femeĭ cu inimă, pentru ea eraŭ ascunse în fundulŭ măriĭ; aceste tesaure nu suntŭ nicĭ o dată ale acelora carĭ staŭ pe supra-facia valurilorŭ, ale cărora eĭ suntŭ jucăriĭ! Suntŭ unele profunditățĭ solitariĭ și mișterióse pe care nu le vorŭ pătrunde nicĭ o dată vederile cele scurte séŭ debile.</p>
+<p>Se făcea că resistă totŭ déuna, și totŭ déuna cădea maĭ lesne decâtŭ tóte femeiele. Protesta óre carĭ principiĭ bune, dérŭ nu avea de câtŭ nisce aspecte bizare, nisce principiĭ cinice, nisce cugetărĭ cutezătóre, carĭ arŭ fi revoltatŭ pe orĭ care omŭ cu sufletulŭ înaltŭ. Voia sĕ trécă de unŭ Don-Juan femeescŭ; areta că desprețuesce succesele facilĭ, că lupta îĭ priesce, că pedicile o încântă, că se pasionéᶁă pentru imposibilŭ; dérŭ nu era de câtŭ o Margaretă de Burgonia, cu deosebire că acea regină a Franceĭ, dupe ce petrecea în Turnulŭ de Nesle cu amanțiĭ seĭ de o nópte, îĭ aruca în Sena, îĭ omora fisicesce, pe cândŭ eroina nóstră, pe ceĭ slabĭ îĭ omora moralmente, îĭ arunca pe strade paliᶁĭ și desfigurațĭ ca niște umbre eșite din mormêntŭ.</p>
+<p>Precum Auguriĭ nu puteaŭ sĕ se uite uniĭ la alțiĭ, fără a rîde, ast-felŭ ea nu putea sĕ se uite la acela care a căᶁutŭ odată în giarele eĭ. Ea era de principiŭ că amorulŭ nu este cea maĭ mare pasiune de câtŭ tóte, ci că de maĭ multe orĭ predomină voința.</p>
+<p>Amoralŭ adevĕratŭ și profundŭ aduce abnegare, delicateță, bunătate. Voința aduce înăsprire, bruscheță și de multe orĭ violență. Cândŭ o femeiă cade printr’unŭ amorŭ adevĕratŭ, cade cu unŭ felŭ de îmbătare castă și pudică. In órba sea têrâre, ea are consciința păcătuiriĭ séle, numaĭ dupe ce a făcut-o. Are o remușcare, o voluptate arᶁĕtóre și amară. In cele din urmă, are nisce resimțimânte ca cea maĭ nobilă femeiă din lume, căcĭ unŭ amorŭ sincerŭ ridică adesea inimile cele maĭ perdute până la înălțimea inimelorŭ celorŭ maĭ curate. Cândŭ o femeiă cade însĕ prin voință, de plăcere, de cochetărie, în fine, raționândŭ, se afundă în gunoiulŭ corupțiuniĭ și din gunoiŭ în gunoiŭ ajunge de se înomolesce astŭ felŭ în câtŭ nu se maĭ póte rîdica, nicĭ spăla.</p>
+<p>Astŭ-felŭ ajunsese Princesa. Odată căᶁută, s’a rostogolitŭ din rĕŭ în maĭ rĕŭ în câtŭ ĭ-a fostŭ cu neputință a se maĭ rîdica.</p>
+<p>Principile o iubea, și de aceia îlŭ predomina ca pe unŭ copilŭ, ceia ce o încuragia și maĭ multŭ în romanele séle cele dese. Spunea la tótă lumea că l’a luatŭ numaĭ pentru rangulŭ seŭ, dérŭ că nu’lŭ iubește câtŭ-șĭ de puținŭ. Câțĭ ómenĭ veneaŭ sĕ visiteᶁĕ pe Principe, ea tutulorŭ le făcea curte, le da avansurĭ, dérŭ nu sciŭ cum se întêmpla că nicĭ unulŭ nu băga de sémă aceste avanse; se vede că toțĭ țineaŭ la Principe și nu voiaŭ sĕ-lŭ înșele.</p> 
+<p>Atuncĭ începu sĕ-șĭ recruteᶁe amanțiĭ din ceĭ necunoscuțĭ cu bărbatulŭ seŭ.</p>
+<p>Int’o ᶁi unŭ june ca de 21 anĭ veni din provinciă, cu o scrisóre de la unŭ unchiŭ alŭ sĕŭ către principe, ca sĕ-ĭ înlesnéscă o bursă se-șĭ pótă urma studiulŭ. Intâmplarea aduse ca scrisórea se i sĕ dea eĭ de băiatŭ. Ea, vĕᶁĕndulŭ frumosŭ, desceptŭ, îĭ promise că îndată se va face totŭ; dérŭ până atuncĭ îlŭ invită sĕ se mute la dênșiĭ, oferindu-ĭ una din cele maĭ bune camere, masă și cele necesariĭ. Băiatulŭ, cumŭ era streinŭ și fără miᶁĭlóce, priimi oferirea, fără a se gândi câtușĭ de puținŭ la intențiunile protectóreĭ séle. Peste câteva ᶁile băiatulŭ, refusâdŭ se înșele pe Principele, care consimțise cu plăcere la priimirea sea în casă, fu isgonitŭ și i se refusă chiarŭ de a interveni pentru acea bursă. Ca scusă, ea spuse bărbatuluĭ seŭ că băiatulŭ ĭ-a făcutŭ curte, a atentatŭ la onórea eĭ!</p>
+<p>Altă ᶁi, avêndŭ unŭ lacheŭ frumosŭ, desceptŭ, făcutŭ bine, se prosternă luĭ fără rușine, și a doua ᶁi îĭ dete drumulŭ. Cândŭ acela voi sĕ maĭ vie la dênsa, puse slugile de’lŭ bătură și’lŭ deteră afară din curte ca pe unŭ omŭ care a avutŭ curagiulŭ sĕ se întroducă în buduarulŭ Princeseĭ ca se fure.</p>
+<p>Cu unŭ astŭ-felŭ de caracterŭ ne-amŭ miratŭ, dérŭ, fórte multŭ, cum amorulŭ sĕŭ a ținutŭ atâtŭ de multŭ pentru Scarlat, cândŭ ea era învĕțată a face dintr’o nópte de vară o nópte de carnavalŭ! Aci vedeaĭ că avea unŭ oficerŭ cu șapca albă, aci altulŭ cu gulerulŭ roșiŭ, aci unŭ profesore, aci unŭ lionŭ. Schimba, ca Venera antică, cândŭ pe Marte cu Apolonŭ, cândŭ pe Mercur cu Vulcanŭ. Sĕrmanulŭ Principe! Ajunsese de lua, în tóte serile, fără scirea luĭ negreșitŭ, ceaiŭ cari ’lŭ făcea sĕ nu simță tótă nóptea.</p>
+<p>Bătrânețile, acéstă bĕutură, cicălitura eĭ tótă ᶁiua, leșinurile ce-ĭ areta că are și care luĭ îĭ aducea palpitațiunĭ și atacŭ de nerve, tóte acestea contribuiră ca ea se remâe vĕduvă pentru a doua óră.</p>
+<p>Cu asemenea caractere deosebite nu putea, dérŭ, sĕ esiste multŭ timpŭ acéstă relațiune între Scarlat și ea. Scarlat, de și maĭ micŭ cu ᶁece anĭ de câtŭ Princesa, o iubea pentru că era primulŭ amorŭ. Princesa îlŭ iubea de obiceiŭ.</p>
+<p>Indată ce obiceiulŭ ș’a făcutŭ și elŭ vaculŭ, ca tóte lucrurile pământescĭ, amorulŭ ș’a luatŭ sborulŭ.</p>
+  </div>
+  <div type="chapter" n="4">
+<head>IV.</head>
+<p>Scarlat peste o oră se sculă. Vĕᶁêndŭ-mĕ deșteptŭ, îmĭ mulțumi de interesulŭ ce ’ĭ portŭ.</p>
+<p>— Dupĕ acestŭ somnŭ, îmĭ ᶁise elŭ, mĕ simțŭ maĭ liniștitŭ. Décă voeștĭ, dupĕ dejunŭ, vomŭ merge la țéră la familiă. Amŭ trebuință de aerŭ și de distracțiune. Vomŭ ședea maĭ multe ᶁile acolo. Mumă-mea, maĭ cu sémă, va fi încântată. Afară déca tu nu aĭ trebuință în Bucurescĭ!</p>
+<p>— Eŭ voiŭ face totŭ ce voescĭ. ’Mĭ voiŭ cere congediŭ pentru câte-va ᶁile și voiŭ merge cu plăcere.</p>
+<p>— Și apoĭ chiarŭ décă veĭ avea trebuințŭ, suntŭ treĭ ore de acolo pênă aicĭ. Cândŭ voescĭ n’aĭ de câtŭ sĕ te repeᶁĭ sĕ ’țĭ facĭ tréba și sĕ te întorcĭ lêngă noĭ.</p>
+<p>Dupĕ dejunŭ închiriarămŭ o trăsură de birje și plecarămŭ. Cândŭ mumă-sea îlŭ vĕᶁu în starea în în care era, îĭ veni rĕŭ. Ilŭ îmbrăcișa, îlŭ strânse cu frenesiă pe sînŭ, îlŭ sĕrută de o sută de orĭ pe amânduoĭ obrajiĭ și plânse. Ilŭ certă, plângêndŭ și surîᶁêndŭ totŭ-de-o-dată, că nu i-a scrisŭ de atâta timpŭ. Îlŭ întrebă déca n’a fostŭ bolnavŭ de este așa de slabŭ.</p>
+<p>Elŭ îĭ rĕspunse că a fostŭ totŭ-dé-una bine. Se prefăcu că este veselŭ, că rîde; îĭ promise că va repara crima ce a făcutŭ pênă aci, prin șederea maĭ multorŭ ᶁile la țéră, și mĕ luă pe mine de martorŭ alŭ promisiunilorŭ séle.</p>
+<p>Tótă ᶁiua o petrecurămŭ alergândŭ pe câmpurĭ, vĕnândŭ, plimbându-ne prin satŭ și vorbindŭ de viața ce amŭ petrecutŭ împreună unŭ anŭ și maĭ bine. Séra sosirămŭ obosițĭ și ne puserămŭ la masă.</p>
+<p>Părințiĭ luĭ Scarlatu eraŭ niște ómenĭ fórte cumŭ se cade. Tatălŭ sĕŭ era unŭ bărbatŭ respectabilŭ, plinŭ de vivacitate, de bunĕtate și îndatoritorŭ. Muma-sea era blândă, religiósă, bună pentru țĕranĭ, astŭ-felŭ că toțĭ vorbeaŭ de dênsa cu idolatriă. Avea unŭ singurŭ copilŭ, pe Scarlat și tótă fericirea, tótă speranța lorŭ era pusă într’ ênsulŭ. Ilŭ iubeaŭ așa de multŭ, în câtŭ îlŭ perdeaŭ din ochĭ uitêndu-se la dênsulŭ.</p>
+<p>Dupĕ masă Slarlat dispăru. Așteptaiŭ o oră și maĭ bine și elŭ nu se maĭ vĕᶁu. Intrebaiŭ și nimenĭ nu scia sê’mĭ spue ce s’a făcutŭ. Căutaiŭ birjarulŭ, plecase. Pe locŭ îmĭ veni ideia că a plecatŭ la Bucurescĭ singurŭ, fără a voi sĕ’mĭ spue de frică ca se nu’lŭ oprescŭ. Mĕ temuiŭ unŭ momentŭ ca sĕ nu facă vr’o nebuniă, cu tótă liniștea ce aretase; de acea mĕ duseiŭ în satŭ, închiriaiŭ unŭ calŭ și plecaiŭ, lăsândŭ rĕspunsŭ părințilorŭ că ne-amŭ dusŭ la unŭ arendașŭ amicŭ alŭ familieĭ, cale de o oră și jumĕtate.</p>
+<p>Sosindŭ în Bucurescĭ, mĕ duseiŭ acasă la dênsulŭ. Nu era. Trecuiŭ pe lângă palatulŭ Princeseĭ, mĕ uitaiŭ prin întunerecŭ sĕ vedemŭ déca nu era pe lângă zidŭ, și nu’lŭ vĕᶁuiŭ nicĭ aci. Din întêmlare îmĭ aruncaiŭ ochiĭ la feréstra unuĭ birtŭ ce este faciă de acelŭ palatŭ și mi se păru că ᶁărescŭ pe cine-va care semăna cu dênsulŭ și care se uita ne-contenitŭ la pórta Princeseĭ.</p>
+<p>Intraiŭ înăuntru. Era elŭ, cu o sticlă de vinŭ dinainte, pe care o golise. Era jumĕtate beatŭ. Cumŭ mĕ vĕᶁu, se posomorî. Se aștepta se vede sĕ-ĭ facŭ vr’o observațiune. Eŭ însĕ nu’ĭ ᶁiseiŭ nimicŭ. Mĕ apropiaiŭ de masă și-ĭ ceruĭ sĕ’mĭ tórne și mie unŭ paharŭ cu vinŭ!</p>
+<p>— Se maĭ aducă, ᶁise elŭ, schimbândŭ posomoréla în veseliă! Se maĭ aducă, căcĭ în vinŭ uită cine-va tóte necaᶁurile. Ș’apoĭ e maĭ bună beția de vinŭ de câtŭ de amorŭ. Eĭ garçon! vinŭ!..... Dérŭ cum m’aĭ găsitŭ aicĭ? mĕ întrebă elŭ.</p>
+<p>Iĭ spuseiŭ cum.</p>
+<p>— Dérŭ ce facĭ, pentru D-ᶁeŭ? îĭ ᶁiseiŭ, vĕᶁêndŭ că bea necontenitŭ. Eŭ nu voiŭ sĕ beaŭ de catŭ unŭ singurŭ paharŭ, restulŭ îțĭ va ajunge, maĭ cu sémă că aĭ bĕutŭ destulŭ.</p>
+<p>— Destulŭ! ᶁise elŭ, deșertêndŭ încă unŭ paharŭ și turnândŭ altulŭ. Destulŭ! Nu! Astă séră voiŭ bea câtŭ voiŭ putea. Voiŭ sĕ uitŭ...... înțelegĭ? voiŭ se uitŭ...L’amŭ vĕᶁutŭ intrândŭ înăuntru, miserabilulŭ.</p>
+<p>A doua sticlă se aduse, și o destupă și pe acea.</p>
+<p>— Trebue sĕ iasă, adause elŭ, cletinându-se pe scaunŭ. Amŭ sĕ-lŭ pălmuescŭ ca sĕ se bată.</p>
+<p>— Ce felŭ? Dérŭ te-a provocatŭ elŭ!</p>
+<p>— Da, însĕ n’a trimesŭ nicĭ unŭ martorŭ. Se vede că’ĭ este frică séŭ că Princesa l’a opritŭ a se bate ca sĕ nu se facă scandalulŭ maĭ mare.</p>
+<p>— Și déca îlŭ veĭ provoca, te veĭ bate, și chiarŭ déca îlŭ veĭ omorî, ce câștigĭ? Ea va fi maĭ furiósă atuncĭ.</p>
+<p>— Aĭ dreptate, adause elŭ, deșertândŭ unŭ altŭ paharŭ cu vinŭ. Ce e de făcutŭ atuncĭ?</p>
+<p>— Aide sĕ te presentŭ la masca de-aséră.</p>
+<p>— In posițiunea acésta nu voiŭ merge nicĭ o dată. Mâine.... Acumŭ trebue sĕ beaŭ!</p>
+<p>Umplu érŭ paharu și începu sĕ cânte pe o ariă din Traviata următórele versurĭ, împrovisate de dênsulŭ în acelŭ momentŭ:</p>
+    <quote type="verse">
+<l>«Vinulŭ e o bĕutură</l>
+<l>«C’o elastică liquóre,</l>
+<l>«Unora le dă căldură,</l>
+<l>«Altora le dă răcóre:</l>
+<l>«Unŭ paharŭ te-a răcoritŭ;</l>
+<l>«Ḑece însĕ te-a ’ncălᶁitŭ!</l>
+    </quote>
+<p>— Apropos, urmă elŭ, dupĕ ce termină cânticulŭ, ce ᶁicea mumă-mea și tată-meŭ de plecarea mea?</p>
+<p>— Nu le-amŭ spusŭ. Le-amŭ lăsatŭ numaĭ vorbă că ne-amŭ dusŭ împreună la arendașulŭ de la moșia***</p>
+<p>— Scumpŭ amicŭ!..... Vin’o sĕ te sĕrutŭ.</p>
+<p>Cândŭ voi sĕ se scóle se mă sĕrute, nu putu, căcĭ căᶁu pe scaunŭ și dupĕ scaunŭ era sĕ caᶁă josŭ décă nu’lŭ ținemŭ eŭ.</p>
+<p>Era bétŭ mortŭ.</p>
+<p>Viciulŭ începuse sĕ bată la pórta sufletuluĭ sĕŭ!</p>
+<p>Trimiseĭ dupĕ o birje, îlŭ puseĭ într’ênsa și’lŭ duseĭ acasă.</p>
+<p>Nu maĭ scia nimicŭ.</p>
+<p>O! cândŭ arŭ sci aceste femeĭ ce crimă făcŭ arŭ fugi totŭ-dé-una de astŭ-felŭ de caractere.</p>
+  </div>
+  <div type="chapter" n="5">
+<head>V.</head>
+<p>Precumŭ suntŭ nenorocirĭ așa de repeᶁĭ în câtŭ nu se potŭ vedea în tóte amĕnuntele lorŭ, totŭ asemenea suntŭ inimĭ atâtŭ de profunde în câtŭ nu se potŭ măsura suferințele ce încércă și care le sfășia. Așa fuse cu Scarlat! Lovitura fuse așa de mare, așa de adâncă in acéstă inimă slabă și simțitóre, în câtŭ o sfărâmă. Din seara de la restaurantŭ, viciulŭ luase dimensiunĭ marĭ. Nu’lŭ maĭ vedea cine-va nicăerĭ de câtŭ la restaurantŭ; nu’lŭ întâlnea de câtŭ mergêndŭ acolo diminĕța și înturnăndu-se pe la douĕ óre dupĕ meᶁulŭ nopțiĭ.</p>
+<p>Căndŭ aveamŭ sĕ’lŭ cautŭ, totŭ-dé-una îlŭ găsémŭ numaĭ acolo. Din cândŭ în cândŭ, numaĭ atuncĭ cândŭ Princesa se ducea la vr’o rudă séŭ la vr’o amică, Scarlat, sciindŭ maĭ de vreme de la slugĭ, se ducea acasă, se strevestea într’unŭ costumŭ țĕrănescŭ séŭ de cerșetorŭ, și astŭ-felŭ îĭ ținea drumulŭ și o urmărea fără sĕ fie vĕᶁutŭ. Cândŭ voia sĕ fie vĕᶁutŭ, nu se strevestea. Scia totŭ ce se petrecea în casa eĭ, totŭ ce sĕ făcea, unde se ducea dênsa, de multe orĭ până și ce vorbea și cu cine vorbea. Organisase o polițiă secretă care se póte face cu banĭ mulțĭ, dérŭ pe care elŭ o făcuse cu puținŭ și cu bunătatea sea.</p> 
+<p>De la despărțirea sea de Princesa, Scarlat nu maĭ trăia pentru societate; îșĭ formase o lume a luĭ care se compunea din vre-o câte va butilcĭ cu vinŭ și câte-va țigărĭ de tutunŭ.</p>
+<p>Pe cândŭ Scarlat mergea cu pașĭ uriașĭ spre pierderea sea, adică spre spitalŭ, ce făcea acéstă Mesalinà modernă? Avea ea óre milă de elŭ? Suferea puținŭ măcarŭ? Avea puțină remușcare? Nu. Fiarele sălbatice aŭ milă ? aŭ remușcare?</p>
+<p>Aflase starea amantuluĭ sĕŭ, pe care la începutŭ arĕtase că ’lŭ iubesce atâtŭ de multŭ, dérŭ îșĭ făcea o plăcere din acéstă suferință, din acéstă tortură.</p>
+    <quote type="verse">
+<l>«Domnea ca tigrulŭ prada rănită,</l> 
+<l>«Domnea ca șoimulŭ stănca ’negrită,</l> 
+<l>«Și de câtŭ chinurĭ altŭ nu voia.»</l>
+    </quote>
+<p>Cândŭ îlŭ vedea trecêndŭ pe sub ferestrile séle, ea se ascundea dupe cortine, privea până trecea și începea sĕ rîᶁă cu hobotŭ.</p>
+<p>Cândŭ îlŭ întâlnea pe stradă, privea în altă parte până trecea, și apoĭ se uita dupĕ elŭ până îlŭ perdea din ochĭ ca se véᶁă ce face. Elŭ, care de atâtea orĭ îmĭ ᶁisese că arŭ voi sĕ aibă douĕ treĭ viciurĭ de câtŭ unŭ ridicolŭ, devenise ridicolŭ. Nu se sfia a spune starea sea tutulorŭ, fără a spune însĕ și persóna.</p>
+<p>Pe mine nu vrea sĕ mĕ véᶁă de câtŭ fórte rarŭ, din causă că îĭ făceamŭ observațiunĭ, îlŭ sfătuiamŭ pentru scăparea sea. Acu nŭ nu’lŭ vĕᶁusemŭ de vr’o douĕ treĭ lunĭ. Credémŭ că a plecatŭ la familiă.</p>
+<p>Intr’o séră îlŭ vĕᶁuĭ intrândŭ la mine, plinŭ de prafŭ, ne rasŭ, cu barba mare și cu hainele pătate!</p>
+<p>Se schimbase atâtŭ de multŭ! Figura îĭ era slabă în câtŭ nu se maĭ vedea de câtŭ ósele fălcilorŭ, roșite puținŭ de vêntŭ și de sóre; ochiĭ turburĭ de vinŭ și de plînsóre; fruntea încrețită și capulŭ seŭ, care până aci n’avea nicĭ unŭ firŭ de pĕrŭ albŭ, acumŭ era albŭ pe jumătate.</p>
+<p>— Dérŭ de unde dracu viĭ? îlŭ întrebaiŭ eŭ. Nu te-amŭ vĕᶁutŭ de nu se ține minte!</p>
+<p>— Amŭ fostŭ la țéră.</p>
+<p>— La familiă?</p>
+<p>— Nu.</p>
+<p>— Dérŭ unde?</p>
+<p>— La moșia Princeseĭ.</p>
+<p>— Cu ea?</p>
+<p>— Nu. Ea s’a dusŭ cu oficierulŭ și eŭ singurŭ.</p>
+<p>— Și ce aĭ făcutŭ acolo?</p>
+<p>— Amŭ șeᶁutŭ douĕ lunĭ străvestitŭ în haine țerănescĭ, la unŭ țeranŭ căruia îĭ recomandasemŭ tăcere.</p>
+<p>— Și ea nu scia acésta?</p>
+<p>— La începutŭ nu scia, dérŭ maĭ pe urmă a aflatŭ.</p>
+<p>— Și ce a făcutŭ?</p>
+<p>— Nimicŭ! A tăcutŭ și s’a făcutŭ că nu sciă, până într’o ᶁi cândŭ, plecândŭ oficerulŭ la Bucurescĭ, ’ĭ-amŭ scrisŭ, cerêndu-ĭ voia sĕ mĕ priméscă se ne esplicămŭ.</p>
+<p>— Și a priimitŭ?</p>
+<p>— Nu. Atuncĭ ura a intratŭ în sufletulŭ meŭ. Avémŭ unŭ pistolŭ cu douĕ țeve. Le-amŭ umplutŭ pe amândouĕ, destinate una pentru ea și alta pentru mine. Șése ᶁile amŭ umblatŭ ca nebunŭ cu pistolulŭ în pozunarŭ, otărîtŭ ca, orĭ unde voiŭ întălni-o, s’o omorŭ; dérŭ cumŭ îmĭ eșea înainte, o emoțiune mĕ coprindea, inima îmĭ batea, mâna îmĭ tremura și nu putémŭ nicĭ măcarŭ se tragŭ cocoșulŭ! Ce mizerabilŭ caracterŭ amŭ! Puțină voință maĭ multŭ, puținŭ curagiŭ încă și a’șŭ fi scăpatŭ lumea de o Circeiă, érŭ eŭ de suferință.</p>
+<p>— Ce nebunŭ escĭ!... Și cumŭ a remasŭ? Te-aĭ întorsŭ singurŭ înainte séŭ dupe ce a plecatŭ dênsa?</p>
+<p>— Ea a plecatŭ erĭ diminéță, și eŭ dupe prânᶁŭ? și astă séră amŭ fostŭ aicĭ.</p>
+<p>— Și ce escĭ hotărîtŭ sĕ facĭ?</p>
+<p>— I’amŭ scrisŭ astăᶁĭ și ’ĭ-amŭ ᶁisă că, daca în termenŭ de douĕ-ᶁecĭ și patru de ore nu’mĭ va da o întâlnire sĕ ne esplicămŭ, voiŭ usa de pistolulŭ meŭ.</p>
+<p>— Ascultă, îĭ ᶁiseĭ. Eŭ creᶁŭ că n’aĭ cuvêntŭ sĕ urmeᶁĭ astŭ-felŭ. Mi se pare că aĭ căᶁutŭ in esagerațiunea simțămêntuluĭ opusŭ cu acela care îlŭ simțĭ. Eraĭ sicurŭ, cândŭ aĭ plecatŭ la țéră, că iubescĭ încă pe Princesa, maĭ multŭ de câtŭ totŭ-dé-una, și aĭ creᶁutŭ că póte sĕ vĕ împăcațĭ. Acum escĭ sicurŭ că n’o maĭ iubescĭ și că o sĕ pocĭ sĕ esecuțĭ planulŭ D-tale? Eŭ nu creᶁŭ, și de aceea nu-țĭ facŭ nicĭ unŭ obstacolŭ. Cândŭ a’șŭ fi sicurŭ, a’șŭ face o hârtie la polițiă sĕ te triméță la Mărcuța. Nu face cine-va c crimă ca acésta, fără a fi cu creeriĭ clătinațĭ din locŭ.</p>
+<p>—Veᶁĭ, de aceia nu viŭ eŭ la tine, ᶁise elŭ, sculându-se supăratŭ dupe canapea. Imĭ pare rĕŭ că ’țĭ amŭ maĭ spusŭ. Trebuia sĕ facŭ și sĕ tacŭ.</p>
+<p>— Cândŭ cine-va are unŭ amicŭ, trebue sĕ’lŭ consulte. De aceea suntŭ amiciĭ. Eĭ trebue sĕ ᶁică ca philosofulŭ grecŭ: Bate-mĕ, dérŭ ascultă-mĕ. Tu iubescĭ încă pe acéstă femeiă. Ea, escĭ sicurŭ că nu te maĭ iubesce. Ce e de făcutŭ? Sĕ plângĭ? Acésta este lucru vulgarŭ. S’o întorcĭ în elegiă și sĕ te facĭ martirŭ? Acésta arŭ fi afară din natura omenéscă, fórte necomptabilă cu vêrsta ta, cu inteligența și cu neatârnarea spirituluĭ neapăratŭ unuĭ sufletŭ de poetŭ.</p>
+<p>Elŭ se trânti érășĭ pe canapea și se făcu că ascultă fără a ᶁice unŭ singurŭ cuvêntŭ.</p>
+<p>— Ce’țĭ rămâne sĕ facĭ? urmaĭ eŭ. S’o vorbescĭ de rĕŭ? Arŭ fi fapta unuĭ omŭ fără creștere. Nu trebue sĕ vorbimŭ de rĕŭ pe o femeiă, care amŭ iubit’o, orĭ de ce clasă arŭ fi ea, chiarŭ décă ne-a trădatŭ, maĭ cu sémă cândŭ amŭ primitŭ de la acea femeiă óre cândŭ semne de amorŭ și cândŭ amŭ petrecutŭ cu dênsa maĭ multe momente fericite. S’o uitămŭ, étă singurulŭ lucru ce ne maĭ rămâne de făcutŭ, dupe cum ’țĭ amŭ maĭ spusŭ.</p>
+<p>— O! Arŭ fi anevoiă, ᶁise elŭ, oftândŭ! Arŭ fi peste puterile mele!</p>
+<p>— Atuncĭ suferă și tacĭ. Lasă timpuluĭ sĕ aducă desnodământulŭ acestuĭ romanŭ. Aceia ce ți s’a întêmplatŭ ție, s’a întêmplatŭ și la alțiĭ, și eĭ nicĭ n’aŭ căutatŭ sĕ asasine pe fostele lorŭ amante, căcĭ atuncĭ am fi vĕᶁutŭ pe fie care ᶁi cu sutele asasinate, nicĭ n’aŭ muritŭ de durerea acesteĭ delăsărĭ, căcĭ atuncĭ nu ’ĭ-arŭ fi maĭ încăputŭ cimitirile.</p>
+<p>— Da; însĕ caracterulŭ meŭ se deosibesce de alŭ mulțimeĭ. Acesta este întêiulŭ meŭ amorŭ. Voiŭ sĕ fie și celŭ din urmă.</p> 
+<p>— Cine te opresce sĕ nu fiă. Poțĭ s’o iubescĭ tótă viața.</p>
+<p>— S’o iubescŭ, în brațele altuia?</p>
+<p>— Acela se numesce amorŭ, care merge până la abnegațiune.</p>
+<p>— Dérŭ amorulŭ propriŭ? Ce ᶁicĭ despre elŭ?</p>
+<p>— Amorulŭ propriŭ, sfăramă-lŭ, înécă-lŭ.</p>
+<p>— Da! însĕ elŭ are, ca Hydra din Lerna, o sută de capete: îĭ sfărâmĭ unulŭ, rĕmâne nouĕ-ᶁecĭ și nouă; îĭ sfărâmĭ ᶁece, rămânŭ nouĕ-ᶁecĭ. Chiarŭ nouĕ-ᶁecĭ și nouĕ sfărămându-ĭ, ceea ce este fórte greŭ, totŭ rămâne unulŭ, și acela e destulŭ.</p>
+<p>— Atuncĭ ce este, dérŭ, de făcutŭ?</p>
+<p>— Eŭ țiŭ la ideia mea. Déca în termenulŭ otărîtŭ nu-mĭ va priimi propunerea, voiŭ face ce’mĭ va dicta capulŭ. O voiŭ omorî, și cu ea și pe mine.</p>
+<p>Vĕᶁuiŭ că’ĭ intrase acéstă ideiă în capŭ și numaĭ putea sĕ’ĭ iasă, cu totŭ sfatulŭ ce’ĭ dedesemŭ.</p>
+<p>Numaĭ era nimicŭ de făcutŭ. Negreșitŭ că pe lingă viciulŭ bețieĭ, care intrase în sufletulŭ sĕŭ, acumŭ începuse sĕ bată la pórta creerilorŭ sĕĭ și acelŭ alŭ nebunieĭ. Plecă de la mine camŭ supăratŭ.</p>
+  </div>
+  <div type="chapter" n="6">
+<head>VI.</head>
+<p>Acea ce scriŭ aicĭ este o istorie adevĕrată. N’am căutatŭ nicĭ odată se inventeᶁŭ în nuvelele mele, maĭ cu sémă acum în istoria luĭ Scarlat. Copiesŭ numaĭ. Și daca copia nu e destulŭ de esactă, lipsescŭ multe lucrurĭ, vina nu este a mea, ci a împrejurărilorŭ. Toțĭ amiciĭ noștriĭ, carĭ cunosceaŭ pe Scarlat, îșĭ vorŭ aduce aminte de cea ce scrimŭ noĭ; căcĭ, toțĭ l’aŭ vĕᶁutŭ pe la începutŭ curatŭ, nepătatŭ de nicĭ unŭ viciŭ și plinŭ de demnitate; și éră, maĭ pe urmă, până în momentulŭ cândŭ a intratŭ în mormântŭ, l’a vĕᶁutŭ împleticindu-se pe ulițile Bucurescilorŭ, cântândŭ prin cafenele și dormindŭ pe biliardurĭ.</p>
+<p>Din séra descrisă maĭ susŭ, elŭ n’a maĭ venitŭ la mine. Cu tóte acestea, pusesemŭ pe feciorulŭ meŭ sĕ-lŭ urmăréscă și, la cazŭ de a voi sĕ se sinucidă, sĕ’ĭ ia pistolulŭ din mână. Trecuse maĭ multe sĕptămânĭ și nu se întêmplase nicĭ unŭ accidentŭ. Trecu apoĭ o lună, douĕ, treĭ și feciorulŭ îmĭ raporta numaĭ că merge necontenitŭ la restaurantulŭ din facia palatuluĭ princeseĭ și la câte-va cafenele. Nu-șĭ maĭ vedea de funcțiunea sea, negligență care ’ĭ a cauzatŭ și destituirea. Sfârșise paralele cu desăvêrșire, se împrumutase la maĭ mulțĭ cunoscuțĭ și amicĭ și, fiindŭ că nu le plătise, nu-ĭ maĭ da nimenĭ. Părințiĭ nicĭ eĭ nu maĭ aveaŭ. Ajunsese dérŭ într’o lipsă complectă.</p>
+<p>Ișĭ vêndu maĭ întêiŭ mica bibliotică ce maĭ avea; dérŭ ce era aceia la nesățiosulŭ seŭ viciŭ? Ișĭ vêndu așternutulŭ, mobilile, până și puținele haine ce maĭ avea. Apoĭ sfărșindŭ și aceștĭ banĭ, începu sĕ céră la unulŭ și altulŭ din amicĭ câte unŭ sfantŭ, douĭ ca sĕ nu lipséscă de la birtŭ.</p>
+<p>Și acestea se sfîrșiră. Vĕᶁêndŭ că nu maĭ este nicĭ unŭ miᶁĭlocŭ, începu sĕ mérgă pe la amicĭ și cunoscuțĭ, sĕ le ĭa haine și alte obiecte de prețŭ și se le vĕnᶁă ca sĕ-șĭ pótă potoli setea ce’lŭ ardea.</p>
+<p>Venise tómna. Era o séră din cele de pe urmă ale luneĭ luĭ Octombre. Unŭ vêntŭ sufla cu putere. O plóiă mărunțică, amestecată cu zăpadă, îțĭ băga frigulŭ până în óse. Mĕ dusesemŭ la theatru, fiindŭ-că se juca o piesă nouă, Dalila, fără a spune fecioruluĭ unde mĕ ducŭ.</p>
+<p>Cândŭ mĕ întorseĭ acasă, feciorulŭ îmĭ spune că m’a căutatŭ de douĕ ore ca sĕ’mĭ aréte că nisce băețĭ de la birtŭ întindea de d-nulŭ Scarlat pentru că n’arŭ fi plătitŭ ce mâncase și ce bĕuse, și că chiarŭ, în nesupunerea sea, îlŭ loviseră,</p>
+<p>Mĕ puseĭ într’o trăsură și alergaĭ numaĭ de câtŭ acolo. Ilŭ găsiĭ dinaintea birtuluĭ, trântitŭ în noroiŭ și numaĭ în cămașă și vestă, căcĭ surtuculŭ ĭ’lŭ luase la birtŭ. Numaĭ simțea; înghețase. Ilŭ puseĭ în trăsură și îlŭ duseĭ acasă la mine,—căcĭ nicĭ casă nu maĭ avea; îlŭ dedese afară pentru neplata chirieĭ și dormea pe la unulŭ și pe la altulŭ. Chiămaĭ numaĭ de câtŭ unŭ medicŭ care îĭ dete pentru unŭ momentŭ ajutorulŭ trebuitorŭ; îmĭ spuse însĕ că numaĭ este speranță de scăpare. Suferințele și bĕuturile îĭ atacase plămâniĭ.</p>
+<p>— Era sĕ móră în curîndŭ, adause doctorulŭ, dérŭ acéstă séră ia grăbitŭ mórtea. Nu maĭ are de câtŭ vr’o șése ᶁile.</p>
+<p>Scriseĭ părințilorŭ, dérŭ nu voiŭ sĕ le scriŭ că e rĕŭ tare, ca sĕ nu le facŭ și lorŭ vre unŭ rĕŭ maĭ mare.</p>
+<p>Adoua-ᶁi, cândŭ se deșteptă, era galbenŭ ca mórtea; se uită împrejurŭ și apoĭ la mine.</p>
+<p>— Dérŭ cumŭ se întêmplă sĕ fiŭ la tine? mĕ întrebă elŭ miratŭ.</p>
+<p>Iĭ spuseĭ cumŭ, și elŭ începu sĕ plîrgă.</p>
+<p>— Mĕ erțĭ că m’amŭ purtatŭ așa rĕŭ cu tine? ᶁise elŭ. Tu ’mĭ aĭ fostŭ celŭ maĭ bunŭ amicŭ; aĭ fostŭ fratele meŭ; aĭ făcutŭ totŭ pentru mine, și cumŭ te-amŭ răsplătitŭ? Cu ingratitudine. Celŭ puținŭ, cu piciorulŭ pe marginea grópeĭ ce’mĭ este deschisă, îmĭ pare bine că morŭ pe braciele tale și nu pe ale aceleĭ care amŭ iubit’o atâtŭ și care ’mĭ a causatŭ mórtea. O ertă...... s’o erte și Dumneᶁeŭ. .....</p>
+<p>Apoĭ se sculă și ceru sĕ’ĭ aducă o birjă.</p>
+<p>— Unde vreĭ sĕ te ducĭ? îlŭ întrebaiŭ eŭ.</p>
+<p>— Mĕ ducŭ la unŭ amicŭ cu care amŭ mare trebuință.</p>
+<p>— Dérŭ cumŭ vreĭ sĕ te ducĭ în acéstă posițiune? Nu veᶁĭ ce slabŭ escĭ? Lasă sĕ te maĭ întremeᶁĭ.</p>
+<p>— Sĕ mĕ maĭ întremeᶁŭ? In mormêntŭ póte! Mĕ simțŭ eŭ; nu’mĭ pare însĕ rĕŭ: scapŭ fără sĕ mĕ fi omorîtŭ singurŭ.</p>
+<p>Vĕᶁêndŭ că voesce sĕ plece cu orĭ ce prețŭ, îĭ dedeĭ o jachetă dintr’ale mele și trimiseĭ sĕ-ĭ aducă o birje. Nu putu însĕ sĕ se stăpânéscă fără a se abate pe la Princesa, căcĭ auᶁiĭ ᶁicêndŭ birjaruluĭ se trécă prin strada unde locuia dênsa.</p>
+<p>Cincĭ ᶁile în urmă, primiĭ unŭ plicŭ mare. Era de la elŭ. Îlŭ desfăcuiŭ și găsiĭ într’ênsulŭ unŭ altulŭ maĭ micŭ pe care scria «sĕ’lŭ deschiᶁĭ peste treĭ ᶁile», și o scrisóre care ᶁicea «vin’ola Spitalulŭ Brâncovenescŭ. Suntŭ pe mórte. Adu’mĭ totŭ de-o-dată și poesiele tale.»</p>
+<p>Alergaĭ. Cumŭ mĕ vĕᶁu, îlŭ podidiră lacremile.</p>
+<p>— Morŭ, îmĭ ᶁise elŭ, și totŭ tu și numaĭ tu lângă mine! Pentru ce maĭ are cine-va în lume amicĭ, amante, familiă, déca e condemnatŭ a muri pe brațele unuia, și acela care e celŭ maĭ de departe? Amŭ scrisŭ acasă, adause elŭ, și vĕᶁŭ că n’a venitŭ până acumŭ nimenĭ. Se vede că lipsescŭ.</p>
+<p>Căutaiŭ sĕ-lŭ consolŭ că nu este nimicŭ, cu tóte că ochiĭ îĭ eraŭ în fundulŭ capului și pămêntulŭ îĭ eșise în obraᶁŭ, cum ᶁise poporulŭ.</p>
+<p>— Lasă, ᶁise elŭ, nu mĕ maĭ consola. Maĭ bine citește-mĭ poesia ta Suferința, căcĭ ea se potrivesce tocmaĭ cu cea ce simțŭ eŭ.</p>
+<p>’I-o cetiĭ.</p>
+<p>Cândŭ asculta, nu plângea dérŭ facia i se posomora. Apoĭ ceru cartea și o reciti singurŭ.</p>
+<p>Étă acea poesiă:</p>
+  <quote type="verse">
+<p>SUFERINȚA</p>
+<l>Cine escĭ tu și pentru ce amoralŭ tĕŭ</l>
+<l>Face atâta reŭ.</l>
+<p>G. Sand.</p>
+    
+<l>Ce? nu’țĭ ajunge ce-amŭ suferitŭ,</l> 
+<l>Vreĭ suferința eternŭ se-mĭ fiă;</l>
+<l>Se n’am ᶁi, oră de veseliă</l> 
+<l>Și se vĕrsŭ lacremĭ necontenitŭ?</l>
+    
+<l>Cândŭ vênătorulŭ lațulŭ ș’a ’ntinsŭ</l>
+<l>Din sborŭ se lasă o păsĕrică</l> 
+<l>Și, pe cândŭ cântă fără de frică,</l> 
+<l>Elŭ trage lațulŭ și ea s’a prinsŭ.</l>
+    
+<l>Așa o dată veselŭ și eŭ</l>
+<l>Cântamŭ în pace, în fericire,</l> 
+<l>N’avemŭ dorințe, n’avémŭ gîndire,</l> 
+<l>Iubémŭ părințiĭ și Dumneᶁeŭ.</l>
+    
+<l>De cândŭ amoru-țĭ însĕ m’a ’nvinsŭ,</l>
+<l>Trăescŭ ca mierla în coliviă,</l> 
+<l>În închisórea ce-țĭ place ție</l> 
+<l>Și a mea pace de totŭ s’a stinsŭ.</l>
+    
+<l>Și tu d’acésta te îngâmfezĭ!</l>
+<l>Domnescĭ ca tigrulŭ prada rănită,</l> 
+<l>Ca șoimulŭ agerŭ stânca ’negrită</l> 
+<l>Și de câtŭ chinurĭ nu vreĭ se veᶁĭ!</l>
+    
+<l>Ce-amŭ făcutŭ óre? Ce-țĭ amŭ greșitŭ</l> 
+<l>Se fiĭ scurtarea ᶁilelorŭ mele;</l>
+<l>Se străbatŭ câmpurĭ, munțĭ și vâlcele?</l> 
+<l>Pentru ce óre? Căcĭ te-amŭ iubitŭ?</l>
+    
+<l>Décă e crimă alŭ meŭ amorŭ,</l> 
+<l>Atuncĭ acusă dumneᶁeirea</l>
+<l>Că ’mĭ a datŭ ochiĭ, ’mĭ a datŭ simțirea</l> 
+<l>Și ție chipulŭ încântătorŭ!</l>
+    
+<l>Tu pentru mine escĭ Dumneᶁeŭ....</l> 
+<l>Templu în sufletŭ amŭ ziditŭ ție,</l> 
+<l>Și imne sacre de poesiă</l> 
+<l>Îțĭ scotŭ adesea din pieptulŭ meŭ.</l>
+    
+<l>Totulŭ în tine amŭ concentratŭ:</l>
+<l>Pace, speranță și fericire;</l>
+<l>Și alŭ meŭ sufletŭ plin de iubire</l> 
+<l>Numaĭ d’amoru-țĭ s’a inspiratŭ.</l>
+    
+<l>Vreĭ se uită óre ală meŭ amorŭ?</l> 
+<l>Flămândulŭ uită se céră hrană?</l> 
+<l>Copilulŭ uită se ᶁică mamă,</l> 
+<l>Și esilatulŭ alŭ țereĭ dorŭ?</l>
+    
+<l>Décă tu însĕ mĕ osândescĭ</l>
+<l>Se ducŭ nopțĭ negre de întristare,</l> 
+<l>Ḑile noróse fără de sóre</l> 
+<l>Și suferința îmĭ otărăscĭ,</l>
+    
+<l>Voiŭ primi totulŭ mulțumitorŭ:</l> 
+<l>Chinurĭ eterne, adâncĭ suspine,</l> 
+<l>Mormântulŭ rece, totulŭ ce vine</l> 
+<l>De la acea ce eŭ adorŭ.</l>
+    
+<l>Căcĭ totŭ e dulce și ângerescŭ</l>
+<l>De la icóna viselorŭ mele;</l>
+<l>Și chiarŭ la mórte ochiĭ ’mĭ prin stele</l> 
+<l>Vorŭ vedea chipu-țĭ Dumneᶁeescŭ!</l>
+    
+<l>Fluturulŭ d’aurŭ, strălucitorŭ,</l> 
+<l>In mâinĭ copile vĕᶁêndŭ că móre</l> 
+<l>Totŭ maĭ aruncă ochiĭ pe flóre,</l> 
+<l>Și se sfîrșesce mulțumitorŭ.</l>
+    
+<l>Pân’ alŭ meŭ sufletŭ va esista</l> 
+<l>Și ’n pieptŭ ca unda încă va bate;</l>
+<l>Până ce ochi ’mĭ lacrĕmĭ vorŭ scóte,</l> 
+<l>Eŭ, dulce ângerŭ, nu te-oiŭ uita!</l>
+    </quote>
+<p>Familia veni dupe ce-lŭ îngropase, fiindŭ că într’adevĕrŭ lipsise la Galațĭ, la o rudă a sea. Ea nu găsi de câtŭ unŭ mormêntŭ pe care depuse singură câte-va florĭ udate de lacremĭ.</p>
+<p>Peste treĭ ᶁile, cândŭ desfăcuiŭ pliculŭ ce’mĭ trimisese, găsiŭ acéstă scrisóre, însocită de următorulŭ manuscriptŭ întitulatŭ: O fatalitate!</p>
+  </div>
+  <div type="chapter" n="7">
+<head>VII.</head>
+    <quote type="letter">
+<p>Spitalulŭ Brăncovenescŭ, 1865, Noembre 15.</p> 
+<p>Décă amŭ plecatŭ ᶁilele trecute de la tine, amŭ făcutŭ-o că sciamŭ starea în care mĕ aflamŭ și nu voiamŭ sĕ’țĭ făcu o greutate. Ițĭ mulțumescŭ de câtŭ aĭ făcutŭ pentru mine, căcĭ ar făcutŭ maĭ multŭ de câtŭ toțĭ din lumea acesta. Tu aĭ fostŭ maĭ multŭ de câtŭ amiculŭ meŭ; aĭ fostŭ fratele meu. Nu amŭ avutŭ pe altulŭ care sĕ mĕ iubéscă maĭ multŭ; acésta o sciŭ, maĭ cu sémă astă-ᶁĭ.</p> 
+<p>O! Déc’așŭ fi ascultatŭ adesea cuvintele tale, carĭ atuncĭ mi se păreaŭ severe, dérŭ carĭ astă-ᶁĭ le înțelegŭ că veneaŭ dintr’o inimă sinceră, de câte amărăciunĭ n’așĭ fi scăpatŭ! Póte chiarŭ de acestŭ êngerŭ care se numește mórtea și care pentru uniĭ e celŭ maĭ teribile, însĕ pentru mine celŭ maĭ frumosŭ.</p>
+<p>Ție dérŭ, și numaĭ ție, amŭ creᶁutŭ că trebue sĕ’țĭ încredințeᶁŭ acestŭ manuscriptŭ, unŭ micŭ jurnalŭ alŭ ᶁilelorŭ mele celorŭ maĭ frumóse și celorŭ maĭ triste; ție care cunoscĭ o parte din viața mea.</p>
+<p>Avémŭ atâta nevoia de alinare la tóte suferințele, în câtŭ acelŭ sgomotŭ alŭ loviriĭ suvenirilorŭ trecute, care încetase în sufletulŭ meŭ, s’a deșteptatŭ. Atuncĭ îmĭ veni în minte, în urma reflecțiunilorŭ bizare ce sburaŭ în jurulŭ meŭ, în acéstă sală imensă și infectată de aerulŭ celŭ stricatŭ alŭ bolnavilorŭ, îmĭ veni în minte că omulŭ îșĭ alină și îșĭ mistue întristările încredințândule altuia. Amŭ creᶁutŭ că acéstă confesiune mută îmĭ va da repausulŭ. Amŭ cugetatŭ asemenea că voiŭ afla unŭ felŭ de bucuriă, revenindŭ pentu cea din urmă dată asupra trecutuluĭ, culegêndŭ încă câte-va florĭ precióse dintr’ênsulŭ, de și uscate, și aruncândŭ restulŭ în vêntulŭ uităriĭ.</p>
+<p>Amŭ scrisŭ, și nu m’amŭ înșelatŭ nicĭ de cum, amiculŭ meŭ. Acéstă mărturisire a amoruluĭ meŭ celŭ maĭ sântŭ și celŭ dintêiŭ, m’a ușuratŭ; fantasmele, de care se spăimênta imaginațiunea mea, s’aŭ făcutŭ nevĕᶁute. Dândŭ o aruncătură de ochiŭ asupra timpuluĭ care nu maĭ este, făcêndŭ contŭ lacremilorŭ mele, calculândŭ cu rĕcială căușele lorŭ, o alinare tristă și melancolică a luatŭ loculŭ durereĭ.</p>
+<p>Acumŭ pociŭ sĕ morŭ liniscitŭ și fără părere de rĕŭ.</p>
+<p>Adio, amiculŭ meŭ, fratele meŭ! Cândŭ timpulŭ îțĭ va permite se citescĭ acestŭ manuscriptŭ, adu’țĭ aminte de acela care nu maĭ este.</p>
+<p>SCARLAT</p>
+    </quote>
+  </div></div>
+     <div type="group" n="2">
+   <head>PARTEA A DOUA</head>
+<head>O FATALITATE</head>
+       <div type="chapter" n="1">
+<head>I.</head>
+<p>Este unŭ destinŭ care ne conduce nu unde voimŭ noĭ, ci unde voesce elŭ. In zadarŭ dorimŭ sĕ ’ĭ ocolimŭ calea, în zadarŭ căutămŭ sĕ ne opunemŭ voințeĭ séle, căcĭ nu putemŭ: voința sea este o lege pe care a făcutu-o și a subscrisu-o Dumneᶁeŭ cu mâna sea. Acesta este unŭ adevĕrŭ pe care astă-ᶁĭ îlŭ înțelegŭ maĭ multŭ de câtŭ orĭ cândŭ.</p>
+<p>Eramŭ de 17 anĭ, cândŭ acestŭ destinŭ m’a luatŭ din braciele familieĭ, din sînulŭ fericireĭ câmpenescĭ, din miᶁĭloculŭ florilorŭ în care crescusemŭ și de subtŭ arboriĭ sub care mĕ umbrisemŭ; m’a luatŭ din miᶁĭloculŭ linișteĭ și m’a aruncatŭ în acéstă babilonia care se numesce Bucurescĭ.</p>
+<p>Bucuresciĭ aŭ ᶁisŭ uniĭ că este miculŭ Paris. Astŭ-felŭ fiindŭ, elŭ este unŭ infernŭ, unŭ cuibŭ alŭ corupțiuniĭ și alŭ perᶁĕreĭ. Cea ce dérŭ ᶁise Paul Feval despre Paris, eă voiŭ ᶁice despre Bucurescĭ: Câte tinerețĭ vestejite în elŭ în câte-va lunĭ, câte reputațiunĭ pătate, câte vise perdute.</p>
+<p>O! tinerĭ din provinciă, voĭ pe care hasardulŭ nu v’a adusŭ în sînulu seŭ, în atmosfera sea năbușită, décă trebue frumóselorŭ vostre imaginațiunĭ ᶁile de credință și de liniște, de vise d’amorŭ perdute în cerŭ; décă vi se pare că este unŭ lucru dulce de a vă da sufletulŭ uneĭ viețĭ iubite pentru a o urma și a o adora, nu venițĭ în Bucurescĭ, fugițĭ de dênsulŭ.</p> 
+<p>Fugițĭ, décă unŭ sunetŭ armoniosŭ din cântarea cea eternă a ângerilorŭ a rĕsunatŭ în inimile vóstre! Nu aruncațĭ mulțimeĭ secretulŭ acelorŭ deliciurĭ împungĕtóre în care sufletulŭ plânge tóte bunurile ce viséză și pe care le sciă că suntŭ numaĭ în cerŭ.</p>
+<p>Aci nu vețĭ avea de câtŭ decepțiunĭ.</p>
+<p>Amiculŭ care vĕ va întinde mâna, vĕ va vorbi de rĕŭ.</p>
+<p>Confidentulŭ vostru va fi unŭ spionŭ.</p>
+<p>Femeia care vĕ va surîde, care vĕ va jura că vĕ iubesce, va fi o Veneră a luĭ Pasiphae, a luĭ Myraha și a Phedreĭ; va fi Venera ardinte și curtisană, pentru care se celebraŭ afroditele furióse de la Corinth și de la Paphos; va fi Venera Aphacită care ’șĭ va vêrî suflarea sea înflăcărată și arᶁĕtóre în pieptulŭ vostru fragetŭ și curatŭ; va fi Venera care vĕ va arunca în cóstă acea săgéta înveninată și arsă în foculŭ cochetărieĭ și alŭ sensualismuluĭ ce întărită, ațâță, rĕtăcesce și prăvălesce în amorurĭ smintite, precum tăunulŭ, puindu-se pe nările nobiluluĭ armăsarŭ, îlŭ face îndată nesupusŭ, neîmblânzitŭ, furiosŭ; îlŭ împinge, rencheᶁêndŭ cu strigărĭ sălbatice și duresóse, peste crângurĭ, peste râpĭ și peste torente, până cândŭ cade sfâșiatŭ, sdrobitŭ, plinŭ de sânge și tină, și, în luptă, îșĭ dă suflarea subt insecta care ’lŭ mușcă, îlŭ arde și ’lŭ ucide.</p>
+<p>Fugițĭ de Bucurescĭ, décă voițĭ se vedețĭ sburându-vĕ ilusiuile în primăvéra junețeĭ vóstre, ca frunᶁele pălite de tómna.</p>
+<p>Aci nu vețĭ putea trăi: décă vĕ ve-ți lipi pe lângă cine-va cu sinceritate, vețĭ fi calomniațĭ; décă vețĭ avea inimă, vețĭ fi tratațĭ de imbecilĭ.</p>
+<p>Décă în sufletulŭ vostru avețĭ o scănteia de amorŭ propriŭ, de demnitate, de sinceritate, de aspirațiunĭ frumóse, fugițĭ de Bucurescĭ de nu voițĭ sĕ le perdețĭ pe tóte! Fugițĭ de Bucurescĭ, de nu voițĭ se perdețĭ maĭ multŭ de câtŭ speranța, se perdețĭ castitatea intiligențeĭ vóstre.</p>
+<p>Bucuresciulŭ este cazailulŭ în care se fierbe tóte pasiunile. Fugițĭ de elŭ, décă nu voițĭ ca mirosulŭ celŭ infectŭ alŭ fumuluĭ seŭ se vĕ îmbete, sĕ vĕ înece, sĕ vĕ asficsiese.</p>
+<p>Décă nu putețĭ sĕ vĕ têrâțĭ, se lingușițĭ, se înșelațĭ, se facețĭ intrige, se speculațĭ cu credulitatea publică, se facețĭ fanfaronadŭ, se vĕ însînuațĭ, fugițĭ de Bucurescĭ, căcĭ ve-țĭ muri în miseriă și obscuritate. Miseria, acestŭ viciŭ care omóră corpulŭ! Obscuritatea, acestŭ viciŭ care omóră spiritulŭ!</p>
+<p>Inimĭ nobile, naturĭ blânde și generóse, carĭ ațĭ împrumutatŭ de la ângerĭ tóte bunurile unuiŭ sufletŭ mare și sântŭ, fugițĭ de Bucurescĭ, décă voițĭ se trăițĭ și se fițĭ fericițĭ.</p>
+<p>Cândŭ amŭ sositŭ în Bucurescĭ nu avémŭ nicĭ o cunoscință. Dupe ce amŭ intratŭ în colegiŭ, amŭ făcutŭ maĭ multe cu scolarĭ de vêrta mea; amŭ legatŭ chiarŭ căte-va amiciĭ. Dérŭ cumŭ eramŭ sfiosŭ de caracterŭ și de atitudine, neavêndŭ nimicŭ din acea încredere în mine ce făcea pe uniĭ din camaraᶁiĭ meĭ de colegiŭ a se încerca la întêlnirĭ și familiaritățĭ aventuróse, nu mĕ gîndémŭ nicĭ sĕ vĕᶁŭ, nicĭ sĕ fiŭ vĕᶁutŭ. Cu multŭ maĭ puținŭ mĕ gîndémŭ sĕ iubescŭ aci pe cine-va, maĭ cu sémă că cugetamŭ la o fată, la unŭ ângerŭ, la o amică din copilăria cu care-mĭ trecusemŭ tóte ᶁilele cele maĭ frumóse în viața unuĭ copilŭ. Pe dênsa, dupe mumă-mea, o iubémŭ maĭ multŭ; dérŭ o iubémŭ cumŭ așŭ fi iubitŭ o soră, o amică. Se vede că nu se aprinsese încă în sufletulŭ meŭ acea flacără care arde în inimile de 17 anĭ. Imĭ făcusemŭ o deprindere din intimitatea Eleonoreĭ. Alergamŭ pe câmpŭ singurĭ, prindémŭ fluturĭ, culegiamŭ florĭ, ședémŭ împreună la umbra vre unuiŭ stejarŭ bătrânŭ, cândŭ ea resemată cu capulŭ de umărulŭ meŭ, cândŭ eŭ de alŭ seŭ.</p>
+<p>Părințiĭ sĕĭ mĕ vedea ca pe copilulŭ lorŭ. Eĭ ședeaŭ totŭ în acelașŭ satŭ, fiindŭ-că sătulŭ era pusŭ pe douĕ petice de moșia, jumĕtate a nóstră și jumĕtate a lorŭ. Părințiĭ noștriĭ eraŭ ceĭ maĭ legațĭ ómenĭ din lume; nu era între eĭ nicĭ o neînțelegere, nu fusese nicó o cértă de acelea de care se găsește maĭ totŭ-dé-una între douĭ proprietarĭ vecinĭ. Avéŭ chiar intențiunĭ pentru noĭ amândouĭ; căcĭ, la plecare, cândŭ ’mĭ amŭ luatŭ adio de la eĭ, tatălŭ Eleonoriĭ ’mĭ a ᶁisŭ:</p>
+<p>— Dute în Bucurescĭ și învéță bine. Eștĭ de 17 anĭ. Eleonora este de 12. Peste 6 anĭ, cândŭ veĭ termina colegiulŭ, amŭ o socotélă cu Dumnéta. Voiŭ aduce și pe Eleonora anulŭ acesta în Pensionŭ la Bucurescĭ, de și a maĭ făcutŭ 5 anĭ în Pensionulŭ din Ploescĭ.</p>
+<p>Apoĭ dupe ce’ĭ amŭ promisŭ că mĕ voiŭ sili câtŭ se póte de multŭ, m’a îmbrățișatŭ și m’a sărutatŭ. Eleonora plângea. Plîngeamŭ și eŭ fără sĕ sciŭ pentru ce. Se vede că inimile nóstre presimțéŭ că nu aŭ sĕ se maĭ întĕlnéscă.</p>
+<p>Șése anĭ în Bucurescĭ ĭ-amŭ petrecutŭ la colegiŭ și în casă cu câte-va cărțĭ ce-mĭ împrumutase din camaraᶁiĭ meĭ de colegŭ. Patru anĭ mĕ ducémŭ în fiă-care véră de petrecémŭ la țéră la familiă cele douĕ lunĭ ale vacanțeĭ. Ceĭ douĭ anĭ din urmă însĕ n’amŭ maĭ pututŭ sĕ mergŭ, fiind-că, neputêndŭ trăi numaĭ cu mica sumă ce-mĭ trimitea de acasă, mĕ amploiasemŭ la unŭ Ministerŭ, dupe obiceiulŭ țereĭ.</p>
+<p>Nu mĕ ducémŭ în nicĭ o casă; nu cunosciamŭ nicĭ o familia. Cândŭ mi se ura cu lecțiunile și cu cititulŭ, plecamŭ pe josŭ la Bănésa, la Fierastrĕŭ séŭ la Filaretŭ, mĕ așeᶁamŭ subtŭ vre unŭ arbore, citeamŭ, respiramŭ aerulŭ celŭ curatŭ și câte-o dată adormémŭ. Acésta îmĭ aducea aminte de țéră, de familia, de Eleonora. Déca mi se făcea fóme, mĕ ducémŭ prin prejurŭ, luamŭ ceva și mâneamŭ pe érbă verde. Ce fericitŭ eramŭ atuncĭ! Dupe ce se însera și era lună, mĕ ducémŭ la móră la Florésca, privémŭ maĭ întêiŭ la acelŭ tabloŭ câmpenescŭ, cumŭ țerancele ducéŭ vitele la apă; ascultamŭ scârțâitulŭ puțurilorŭ, sbierătulŭ vițeilorŭ și mugetulŭ vacilorŭ; apoĭ mĕ ducémŭ și mĕ așeᶁamŭ pe marginea eleșteuluĭ. Aci contemplamŭ apa și acelŭ firmamentŭ ce atrage cugetările sufletuluĭ, astŭ-felŭ dupe cum atrage abisuluĭ pe celŭ ce se aplécă într’ênsulŭ, ca și cum arŭ vrea sĕ-ĭ spue nisce secrete.</p>
+<p>Adormitŭ în acéstă mare de cugetărĭ, de unde nu căutămŭ nicĭ unŭ țĕrmŭ, mĕ pomenémŭ acasă obositŭ, dérŭ cu sufletulŭ plinŭ de mulțumire. Mĕ culcamŭ, și, adoua-ᶁĭ, deșteptându-mĕ și terminându-mĭ tóte ocupațiunile, reîncepémŭ din noŭ acéstă plăcută și fericită viață! Dérŭ fericirea nu ține multŭ, precumŭ seninătatea unuĭ cerŭ nu ține multŭ! Nisce norĭ s’aŭ ridicatŭ pe cerulŭ sufletuluĭ meŭ. Precumŭ paserile răpitóre fîlfîe în aerŭ așteptândŭ se-șĭ véᶁă prada și, îndată ce o vede, se repede asupra eĭ așa amorulŭ pândea o pradă; m’a găsitŭ pe mine.</p> 
+<p>Unŭ camaradŭ de colegiŭ, unulŭ din ceĭ maĭ buni amicĭ aĭ meĭ. Alesandru S......... se afla bolnavŭ de câte-va ᶁile. M’amŭ dusŭ sĕ-lŭ vĕᶁŭ. Elŭ era bolnavŭ de tifosŭ. Nicĭ unulŭ din amiciĭ sĕĭ nu voise sĕ ’lŭ véᶁă. S’a bucuratŭ atâtŭ de multŭ cândŭ m’a vĕᶁutŭ, în câtă a voitŭ sĕ sară din patŭ sĕ mĕ sĕrute, déca o damă care era acolo nu’lŭ oprea.</p>
+<p>Imĭ recomandă pe acéstă damă. Era Princesa Margareta, sora-sea. Cumŭ eramŭ timidŭ, nu sciŭ ce-ĭ amŭ rĕspunsŭ la câte-va întrebărĭ ale séle, ce se atingeŭ despre amicia mea cu fratele-sĕŭ. Imĭ mulțămi că eŭ amŭ fostŭ singurŭ care ’mĭ amŭ espusŭ póte viața pentru unŭ amicŭ.</p>
+<p>— Suntŭ rare astŭ-felŭ de amiciĭ, îmĭ ᶁicea ea; și felicitŭ pe fratele meŭ de alegerea ce a făcutŭ în persóna Dumitale.</p>
+<p>Eŭ îĭ mulțumiĭ, spuindu-ĭ că datoria unuĭ amicŭ adevĕratŭ este a se jerfi pentru amiculŭ sĕŭ.</p>
+<p>— Se făcea odată, îmĭ respunse Princesa, pe timpulŭ luĭ Pilade și Orestŭ; dérŭ astăᶁĭ suntŭ fórte rare aceste amiciĭ, și de aceia eă amŭ felicitatŭ pe fratele meŭ.</p>
+<p>O oră câtŭ amŭ șeᶁutŭ la amiculŭ meŭ, amŭ pututŭ sĕ observŭ pe Princesa. Era între 32 și 34 de anĭ. Nu era de totŭ frumósă, dérŭ era plăcută. Iĭ lipsea puținŭ din regula trăsurilorŭ. Avea însĕ o gură mică, nisce dințĭ albĭ ca sidefulŭ și nisce ochĭ carĭ nu se potŭ descrie. Eĭ avéŭ tótă mândria, tótă măreția ochilorŭ negrĭ și totŭ de o dată tótă tinerețea ochilorŭ albaștriĭ. Eraŭ marĭ și micĭ, căcĭ une-orĭ curiositatea spirituluĭ, admirarea, îĭ ținea de totŭ deschișĭ; altă dată îĭ înota jumătate închișĭ în îndoliata lînceᶁeală a unuĭ sufletŭ obositŭ, și cu câtŭ se micșoraŭ cu atâtŭ foculŭ lorŭ devenea maĭ viŭ și maĭ pătrunᶁĕtorŭ. Dérŭ cea ce caracterisa aceștĭ ochĭ, cea ce le da moliciunea ochilorŭ de nordŭ unitŭ cu strălucirea ochilorŭ de orientŭ, era cerculŭ ca facia rugineĭ care-ĭ înconjura și subtŭ care îĭ simțeaĭ bătêndŭ, căcĭ acestŭ cercŭ nu era altŭ ce-va de câtŭ reflectulŭ orbiteĭ lorŭ din năuntru pe pelea cea maĭ fină și maĭ străvĕᶁĕtóre ce-ĭ înconjura.</p>
+<p>Mâinile și piciórele eraŭ așa de potrivite, în câtŭ décă arŭ fi fostŭ puținŭ maĭ marĭ, arŭ fi fostŭ vulgare; décă arŭ fi fostŭ puținŭ maĭ micĭ, arŭ fi fostŭ de cârtiță.</p> 
+<p>Purta o rochiă de mătase albastră, închisă până susŭ. Gâtulŭ albŭ ca marmora, străbătutŭ de nisce vine albastre, era înconjuratŭ de o mică batistă de gazŭ. Capulŭ sĕŭ era incadratŭ de unŭ pĕrŭ castaniŭ închisŭ, în câtŭ de departe l’aĭ fi pututŭ lua de negru, undatŭ de natură, împărțitŭ în douĕ vițe late, dese și cu îndemânare umflate, și din care câte-va vițișóre, neregulate, pline de cochetăriă, despărțite de cele l’alte, lăsa sĕ se véᶁă între dênsele, în douĕ treĭ locurĭ, pielea albă a frunțeĭ séle albe, lată și naltă. Părea unŭ surîsŭ în pĕruiŭ seŭ! Sprîncenile de o nuanță ceva maĭ dulce de câtŭ pĕrulŭ, ne încărcândŭ de locŭ pleopa, lăsa ochilorŭ tótă valórea lorŭ.</p>
+<p>O! De ce amŭ vĕᶁutŭ pe acéstă femeiă! De ce nu mi s’a ruptŭ piciórele cândŭ amŭ urcatŭ scara eĭ! De ce n’amŭ orbitŭ înainte de a o vedea!</p>
+<p>Tóte aceste frumusețĭ, amestecate cu spiritulŭ și cu mândria sea, m’aŭ fermecatŭ. Amŭ începutŭ sĕ iubescŭ p’acéstă femeiă. Nu fusesemŭ până în acelŭ momentŭ ’naintea uneĭ femeĭ de unŭ asemenea rangŭ, de o asemenea bunătate și de unŭ spiritŭ așa de distinsŭ. Câtŭ amŭ șeᶁutŭ acolo, m’a tratatŭ ca și pe fratele seŭ. Părea că eramŭ cunoscutŭ de maĭ mulțĭ anĭ! Cu tóte acestea, eŭ stamŭ multŭ înaintea eĭ; nu aflamŭ nicĭ o vorbă: o privémŭ numaĭ și eramŭ mulțumitŭ. Din cândŭ în cândŭ articulamŭ câte unŭ cuvêntŭ, douĕ. Ea băgase de sémă timiditatea mea, și de aceia îșĭ înduoise amabilitatea.</p>
+<p>Mĕ invită se maĭ viŭ se vĕᶁŭ pe fratele seŭ, fiindŭ adesea singurŭ, și, pretestândŭ că are sĕ facă câte-va visite, ne părăsi. Cincĭ minute în urmă plecaiŭ și eŭ.</p>
+<p>Tótă ᶁiua aceĭa cugetaiŭ la Princesa. Séra însĕ cetitulŭ, ideia că póte Princesa nicĭ că se gândesce la mine, séŭ se gândesce ca la unŭ copilŭ; séŭ că, de și vĕduvă, déră póte sĕ aibă vr’unŭ legământŭ de inimă; tóte acestea mĕ liniștiră și adormiŭ.</p>
+<p>A doua ᶁi nu mĕ maĭ gîndeamŭ la dênsa, cu sufletulŭ și cu inima, cumŭ mĕ gîndisemŭ în ᶁiua trecută.</p>
+<p>Ce era acésta óre? Era crisa bóleĭ care aduce agravarea și póte mórtea!</p>
+       </div>
+         <div type="chapter" n="2">
+<head>II.</head>
+<p>De cândŭ vĕᶁusemŭ pe Alexandru, trecuse maĭ multe ᶁile și nu mĕ dusesemŭ la elŭ. Mĕ temémŭ nu de bóla luĭ, ci de o alta maĭ mare, maĭ incurabilă, de care n’amŭ pututŭ scăpa. Din cea ce este scrisŭ pentru unŭ omŭ în cartea destinuluĭ nu se póte schimba nimicŭ. Dorémŭ se vĕᶁă și sĕ nu vĕᶁŭ pe Princesa. Eramŭ ca omulŭ care arŭ voi sĕ se răcoréscă în rîŭ, dérŭ frica de a nu se îneca îlŭ opresce. ’Mĭ era frică sĕ nu mĕ înecŭ în acelŭ rîŭ turburatŭ de pasiunile sociale, în fundulŭ căruia nu putémŭ se vĕᶁŭ nimicŭ, maĭ cu séma că avémŭ în memoria mea, înaintea mea, unŭ pîrîŭ limpede, curatŭ, ne periculosŭ, care era sufletulŭ Eleonoriĭ și în care m’așŭ fi pututŭ răcori.</p>
+<p>Pe Eleonora o vedeamŭ fórte desŭ. Se făcuse mare și multŭ maĭ frumósă. In tóte duminecile o întêlnémŭ la o mătușe a sea, care era însărcinată s’o ia din Pensionŭ în ᶁilele de sĕrbătóre și s’o îngrijéscă. Cândŭ mĕ ducémŭ s’e vĕᶁŭ, o găsémŭ totŭ-dé-una asteptându-mĕ cu câte unŭ coșulețŭ de păpușe plinŭ cu fructe adunate din grădină, chiarŭ în ᶁiua aceia; îmĭ da cafea în céșcă de păpușe; mĕ trata, în fine, ca pe timpulŭ acela cândŭ nu gândémŭ de câtŭ la jucăriĭ, timpulŭ copilărieĭ. Era mare, dérŭ era totŭ copilă. Mie ’mĭ plăcea fórte multŭ, căcĭ era resfrîngerea caracteruluĭ meŭ.</p>
+<p>— Îțĭ aducĭ aminte?...... îmĭ ᶁicea, cu aerulŭ celŭ maĭ plăcutŭ din lume...... îțĭ aducĭ aminte?</p>
+<p>Și începea se-mĭ enumere tóte suvenirile trecutuluĭ. O! ce frumóse eraŭ! Și cu ce dulcéță, cu ce entusiasmŭ le spunea ea!! Vorbea lîmba aceia care se aude în fundulŭ inimeĭ, cum ᶁice Petrarca:</p>
+<p><foreign>«Il parlar che nell anima si sent»</foreign></p>
+<p>Plângeamŭ de fericire.</p>
+<p>Cu vre-o câte-va lunĭ însĕ înainte de a vedea pe Princesa, Eleonora plecă la țéra, de vacanța Crăciunuluĭ, și o bólă o ținu tótă érna aceea și tótă véra. Nevederea eĭ de atâta timpŭ lăsase unŭ golŭ în sufletulŭ meŭ. Amŭ fostŭ destinatŭ se mi-lŭ umple Princesa!</p>
+<p>Cincĭ ᶁile în urma primeĭ întrevederĭ cu Princesa, mĕ întorcémŭ acasă pe Strada Francecă. Mergeamŭ cugetândŭ la nisce afacerĭ de familia. Acéstă cugetare îmĭ fuse întreruptă de sgomotulŭ uneĭ trăsurĭ. Ridicaiŭ ochiĭ și vĕᶁuiŭ la douĕ-ᶁecĭ de pașĭ în facia mea o trăsură fórte elegantă, cu nisce caĭ negriĭ ca smeiĭ și cu lacheĭ muiațĭ numaĭ în firŭ. Cândŭ ajunse în dreptulŭ meŭ, d’o dată vĕᶁuiŭ o mână mică, strânsă într’o mânușiă ca facia paiuluĭ, că-mĭ face semnŭ sĕ mĕ apropiŭ de trăsură și cu cea l’altă mână făcêndŭ semnŭ vizitiuluĭ se opréscă. Mĕ apropiaiŭ de trăsură. Era Princesa!</p>
+<p>— Alexandru e fórte rĕŭ,—îmĭ ᶁise ea, cu unŭ aerŭ ce semăna maĭ multŭ cu alŭ unuĭ generalŭ care a câștigatŭ o bătăliă de câtŭ cu alŭ uneĭ femeĭ care spune că fratele seŭ e bolnavŭ. —De ce n’aĭ maĭ venitŭ se-lŭ veᶁĭ? Te-a așteptatŭ mereŭ ᶁilele acéstea. Sciĭ că pe altulŭ n’ascéptă, fiindŭ că nu vine nicĭ unulŭ.</p>
+<p>Mĕ scusaiŭ ca amŭ fostŭ și eŭ bolnavŭ și-ĭ promiseiŭ că mĕ voiŭ duce adoua-ᶁĭ negreșitŭ. O întrebaiŭ însĕ la ce oră.</p>
+<p>— Vin’o pe la douĕ, îmĭ ᶁise ea. Atuncĭ voiŭ fi și eŭ gata.</p>
+<p>Ne salutarĕmŭ și trăsura porni în galopŭ.</p>
+<p>O! Acea trăsură ajunsese, pentru mine, clopoțelulŭ care vestesce venirea cuĭ-va. In urmă cu câte-va luĭ cunosceamŭ la o sută de pașĭ depărtare sgemotulŭ rótelorŭ, fluerulŭ mașinelor, tropătulŭ cailorŭ. Décă era acésta unŭ presimțimêntŭ alŭ inimeĭ, apoĭ inima nu ’nșélă nicĭ o dată! Chiar pașiĭ eĭ începusemŭ sĕ-ĭ cunoscŭ!</p>
+<p>A doua ᶁi, la ore fixată, eramŭ la Princesa. Feciorulŭ avea ordine a mĕ introduce lângă dênsa în salonașŭ.</p>
+<p>Amŭ vĕᶁutŭ maĭ multe salonașe în Bucurescĭ, dérŭ acesta ara superiorŭ tutulorŭ celorŭ l’alte; pociŭ ᶁise era complectŭ. Tapetulŭ de chărtiă grefată cu florĭ de catifea négră; cortine de damascŭ; policandru; sobe de marmoră; pendulă cu Sapho aruncându-se dupe stîncă și cu Diana jucându-se cu câiniĭ seĭ; candelabre cu Venera jucându-se cu amoriĭ și cu capete de sfincsĭ; mobilele cele maĭ nuoĭ și maĭ elegante; unŭ tapetŭ cu florĭ; o masă rotundă de scrisŭ; oglinᶁĭ marĭ câtŭ perețiĭ; etajere pe la colțurĭ pline cu cele maĭ frumóse lucrurĭ de artă și, în fine, câte-va tablourĭ. Cele maĭ principale din aceste tablourĭ eraŭ: celŭ dântêiŭ, Perderea ilusiunilorŭ de Ch. Gleyre, care represinta pe unŭ bătrânŭ, trecutulŭ, cu mâna la capŭ, cugetândŭ la ᶁilele trecute, și maĭ departe nisce copiĭ, vitorulŭ, jucându-se la sóre; érŭ celŭ d’aldoilea era Psiche și Amorulŭ, de Gérard.</p>
+<p>Cea ce făcea însĕ și maĭ frumosŭ, și maĭ artisticŭ salonașulŭ Princeseĭ, era neregula în care se afla: colea lângă sobă unŭ fotelŭ, pe care araŭ nisce jurnale de modă; pe masă câte-va cărțĭ, între care una deschisă; pe canapea o batistă și unŭ evantailŭ aruncate; colea unŭ port-monè, dincolo jurnale politice. Piano deschisŭ și o mulțime de note staŭ respândite pe elŭ; pe pupitru era închisă Serenada luĭ Schubert. Totulŭ areta gustulŭ elegantŭ alŭ uneĭ dame marĭ, totulŭ respîndea parfumulŭ femeieĭ de o societate distinsă.</p>
+<p>Aci ședea femeia care era sĕ jóce o mare rolă în viața mea. Cum mĕ vĕᶁu, Princesa se sculă în picióre și’mĭ întinse mâna sĕ ’ĭ-o sĕrutŭ. Facia eĭ era purpuriă, nu sciŭ de ce! Era fórte simplu îmbrăcată.</p>
+<p>— Fratele meŭ, îmĭ ᶁise ea, făcêndu-mĭ semnŭ se șeᶁŭ, te-a așteptatŭ până acumŭ; dérŭ o căldură și o durere de capŭ grósnică, care l’a coprinsŭ în acestŭ momentŭ, l’a făcutŭ sĕ céră a rĕmânea puținŭ singurŭ. Acumŭ dórme. Îlŭ veĭ aștepta la mine până cândŭ se va scula, décă acésta îțĭ face plăcere!</p>
+<p>— Nu creᶁŭ, Dómnă, îĭ respunseĭ eŭ, cu destulă sfiială; nu creᶁŭ sĕ se găséscă unŭ singurŭ omŭ, de orĭ-ce vêrstă și de orĭ-ce condițiune, care se nu-ĭ placă a fi în societate cu Dumnéta!</p>
+<p>— Estĭ fórte galantŭ, Domnule Scarlat! La întêia vedere te-amŭ cunoscutŭ ca băiatŭ bunŭ; astă-ᶁĭ te vĕᶁŭ și galantŭ; mâine póte sĕ descoperŭ și alte calitățĭ!</p>
+<p>— Vedețĭ cu ochiĭ iubireĭ ce avețĭ pentru fratele D-vóstă, Dómnă!</p>
+<p>— Nicĭ de cum. Vĕᶁŭ cu ochiĭ adevĕruluĭ.</p>
+<p>Se sculă apoĭ, trase unŭ cordonŭ care era lângă ușiă și unŭ lacheŭ apăru. Nu sciŭ ce-ĭ spuse încetŭ, căcĭ auᶁiiŭ numaĭ aceste douĕ cuvinte: nu suntŭ a casă.</p>
+<p>— Amŭ spusŭ, urmă ea, dupĕ ce îșĭ reluă unŭ altŭ locŭ pe canapea, în façiă cu fotoliulŭ meŭ, amŭ spusŭ că îndată ce fratele meŭ se va scula se vie se ne anunciă.</p>
+<p>Apoĭ începu convorbirea. Vorbirămŭ de litere, de arte, de politică și chiarŭ de mode. Princesa este dreptŭ nu era o femeiă învĕțată, dérŭ avea ideiă de tóte. Era unŭ felŭ de encyclopediă resumată.</p>
+<p>Dulciața limbagiuluĭ eĭ și modestia séŭ timiditatea mea, precumŭ și contactulŭ privirilorŭ nóstre la schimbarea fie căruĭ cuvêntŭ, făcu pe Princesa se aducă convorbirea pe terâmulŭ amoruluĭ. Dupe ce făcurămŭ și eŭ și Princesa diferite disertațiunĭ asupra fiuluĭ Venereĭ, Princesa mĕ întrebă cu unŭ ochiŭ scrutătorŭ:</p>
+<p>— Aĭ iubitŭ vre o dată, Domnule Scarlatŭ?</p>
+<p>— O suvenire, Dómnă; unŭ amorŭ de copilăriă. Cea ce se ᶁice unŭ amorŭ seriosŭ, n’amŭ încercatŭ nicĭ o détă.</p>
+<p>— Adevĕratŭ?</p>
+<p>— Fórte adevĕratĭ.</p>
+<p>— Și nu aĭ găsitŭ pe nimenĭ care se poțĭ iubi, séŭ n’aĭ întêlnitŭ pe cine-va care sĕ te iubéscă?</p>
+<p>Acéstă întrebare, posițiunea sea, căutătura și zîmbetulŭ sĕŭ îmĭ deteră curagiŭ. Amorulŭ dă aripĭ la călcâiă luĭ Mercurŭ, curagiŭ fricosuluĭ și credință ateuluĭ. Incepémŭ sĕ simțŭ c’o iubescŭ. O iubémŭ chiarŭ.</p>
+<p>— Ba amŭ întêlnitŭ pe cine-va, Dómnă, îĭ ᶁiseiŭ, uitându-mĕ dreptŭ în ochiĭ sĕĭ, ca sĕ vĕᶁŭ ce impresiune îĭ facŭ cuvintele mele; amŭ întêlnitŭ o femeiă frumósă, nobilă, bună, plină de calitățĭ distinse, pe care, din ᶁiua de cândŭ amŭ întêlnitŭ-o, o iubescŭ ca unŭ nebunŭ și care nu sciŭ décă trebue sĕ sperŭ că mĕ va iubi și ea vre o dată!</p>
+<p>La cele din urmă cuvinte, érășĭ priviiŭ în ochiĭ sĕĭ, pe carĭ ea îĭ lăsă în josŭ. Nu respunse nimicŭ însĕ. Tăcerea, s’a ᶁisŭ adesea, este aprobarea, de acea eŭ o luaĭ ca jumĕtate bătălia câștigată. Începuiŭ sĕ sperŭ că am sĕ fiŭ iubitŭ de acéstă femeiă, séŭ că póte deja suntŭ.</p>
+<p>— Și de multŭ cunoscĭ pe acea femeiă? mĕ întrebă ea.</p>
+<p>— Numaĭ de cincĭ ᶁile, îĭ respunseiŭ, privindu-o érŭ în faciă.</p>
+<p>Ea îșĭ lăsă érŭ ochiĭ în josŭ.</p>
+<p>— Și potŭ întreba, fără a fi indiscretă, cine este acea femeiă? adaose ea, făcêndu-se că n’a înțelesŭ de cine este vorba.</p>
+<p>— Iubescŭ mulŭ pe acéstă femeiă ca sĕ o potŭ spune la cine-va. Dérŭ fiindŭ-că Dumnéta nu facĭ parte din lumea ceĭ l’altă, îțĭ voiŭ spune.</p>
+<p>— Cine este? întrebă ea, uitându-se cu ochiĭ marĭ la mine.</p>
+<p>— Acea femeiă frumósă, nobilă, cu calitățĭ distinse......</p>
+<p>— Și pe care o iubeștĭ, mĕ întrerupse ea......</p>
+<p>— Eștĭ Dumnéta.</p>
+<p>— Eŭ! esclamă ea.</p>
+<p>— Dumnéta! strigaiŭ eŭ cu entusiasmŭ, căᶁêndu-ĭ la picióre și sărutîndu-ĭ mâna cu frenesiă! Dumnéta, pe care din momentulŭ cândŭ te-amŭ vĕᶁutŭ inima mea s’a aprinsŭ d’unŭ amorŭ nebunŭ, eternŭ; d’unŭ amorŭ care nu l’amŭ încercatŭ până acumŭ.</p>
+<p>— Scólă, Domnule, strigă ea, trăgêndu-șĭ mâna tremurândŭ dintr’ale mele .. Scólă sĕ nu intre cine-va; sĕ nu intre fociorulŭ séŭ băiatulŭ meŭ, căcĭ n’așŭ maĭ da ochĭ cu elŭ!</p>
+<p>— Nu, dómnă, strigaiŭ eŭ cu aprindere; nu mĕ voiŭ scula până nu-mĭ veĭ spune décă mă iubeștĭ séŭ nu; până nu veĭ da sentința de mórte séŭ de viață. Eștĭ cea dintêiŭ femeiă lângă care încercŭ acestŭ simțimêntŭ mare ce se numește amorŭ. Lîngă Dumnéta simțŭ că suntŭ unŭ altulu maĭ forte, maĭ mare, maĭ bunŭ. Décă vrei unŭ sclavŭ orbŭ, supusŭ, lăsatŭ în voia sórteĭ, mĕ aĭ pe mine. Te iubescŭ... Te iubescŭ!</p>
+<p>— Eștĭ nebunŭ .. ᶁise ea, confusă.</p>
+<p>— Da, nebunŭ de fericire că te vĕᶁŭ aicĭ înaintea mea, nebunŭ de amorŭ! Cine n’arŭ fi nebunŭ ca mine cândŭ arŭ fi înaintea flacărilorŭ ce esŭ din luminele ochilorŭ Dumitale? Spune-mĭ că mĕ iubeștĭ, și-țĭ voiŭ ridica unŭ templu în imina mea, unde se fiĭ adorată cum n’a maĭ fostŭ altă femeiă.</p>
+<p>— Eĭ bine ..... ᶁise ea repede.</p>
+<p>Apoĭ tăcu, par’că arŭ fi opritu-o ceva.</p>
+<p>— Eĭ bine? o întrebaiŭ eŭ.</p>
+<p>— Eĭ bine! te iubescŭ și eŭ!</p>
+<p>Nu terminase bine cuvêntulŭ celŭ din urmă și lacremile mele începură se curgă în câtŭ, în câte-va secunde, mâinile séle eraŭ ude de ele și de sărutări. Plângea și ea.</p>
+<p>— Din momentulŭ în care te-amŭ vĕᶁutŭ, adaogase ea, Dumnéta aĭ ocupatŭ sufletulŭ meŭ. Te așteptamŭ, te dorémŭ, te iubémŭ. Câte-va ᶁile, în care ’mĭ-aĭ spusŭ că aĭ fostŭ bolnavŭ și n’aĭ veᶁutŭ, suferiamŭ. Cândŭ te-amŭ întêlnitŭ în Strada Francesă, nu m’amŭ pututŭ stăpâni de a tresări și de a te chiăma. Suntŭ mistere în viața omenéscă carĭ nu se pótŭ esplica. Am vĕᶁutŭ ómenĭ carĭ vreŭ totŭ ca sĕ fie iubițĭ; stăruescŭ timpŭ îndelungatŭ pe lângă o femeiă și nu potŭ sĕ fiă chiarŭ terorisațĭ de sórtă a le săruta mâna; amŭ vĕᶁutŭ alțiĭ, carĭ, de la prima vedere, inspiră simpatiă, amorŭ. Dumnéta eștĭ dintre ceĭ din urmă.</p>
+<p>0 ascultamŭ inundêndu-mĕ de acestŭ glasŭ atâtŭ de dulce și plăcutŭ ce vibra în sufletulŭ meŭ cu o cântare ceréscă. Ținémŭ mâinile eĭ într’ale mele; căutăturele mele eraŭ pironite într’ale eĭ, și sufletulŭ meŭ mergea la dênsa și alŭ seŭ venea la mine și se reînturnaŭ din ce în ce maĭ fericite, maĭ avute, maĭ mândre.</p> 
+<p>Iubeamŭ pe acéstă femeiă, și nu cerémŭ de la dênsa de câtŭ inimă și totŭ binele ce dă amorulŭ celŭ mare și sântŭ.</p>
+<p>Amŭ vĕᶁutŭ prea curândŭ, fără sĕ cunoscŭ, pe acéstă femeiă și amŭ cunoscutŭ-o prea târᶁiŭ.</p>
+<p>Ah! îmĭ voiŭ aduce aminte totŭ déuna de acéstă ᶁi, chiarŭ de așŭ trăi o sută de anĭ! Dérŭ nu voiŭ sci sĕ descriŭ cu de-amănuntulŭ tóte simțimêntele încercate, tóte faptele petrecute. Mișcarea ce voiŭ păstra totŭ dé-una din aceste câte-va ore ale viățiĭ mele, singure cele maĭ fericite, e sicură, viă, pipăită; dérŭ suvenirea, ce ochiĭ și urechile arŭ fi voitŭ se păstreze, e deșartă, mișcătóre, peritóre ca umbra care mĕ înconjóră!</p>
+<p>Mărturisirea sea îmĭ părea atâtŭ de dréptă, atâtŭ de naturală, atâtŭ de sinceră, în câtŭ nu-ĭ puteamŭ respunde de câtŭ prin lacrĕme și prin suspine.</p>
+<p>— O! îĭ ᶁiseiŭ eŭ, dupe câte-va momente de tăcere, décă m’aĭ iubi jumĕtate precum te iubescŭ eŭ, amŭ aduce Paradisulŭ pe pămêntŭ! N’amŭ scrisŭ nicĭ o dată versurĭ, dérŭ așŭ fi capabilŭ sĕ te cântŭ ca Dan te pe Beatrice, ca Petrarca pe Laura, ca Lamartine pe Elevira; așŭ fi capabilŭ se suferŭ închisórea ca Tasso pentru tine.</p>
+<p>Capulŭ îmĭ ardea ca unŭ cuptorŭ, pieptulŭ îmĭ bătea cu furia, inima mi se îneca de fericire când spunémŭ aceste cuvinte.</p>
+<p>—Nu ’țĭ-amŭ spusŭ că te iubescŭ? Linișteștete acum, adaose ea, uitându-se cu milă la mine! Nu veᶁĭ că aĭ îngălbinitŭ și arᶁĭ, pare că aĭ frigurĭ! Décă nu te veĭ liniști, aĭ sĕ te bolnăveștĭ și pe urmă nu veĭ putea sĕ viĭ sĕ mĕ veᶁĭ.</p>
+<p>Și ca sĕ schimbe situațiunea, se sculă de pe canapea, se puse la piano și începu se cânte serenda luĭ Schubert, acea flóre furată de compositorŭ din grădina melodielorŭ cereștĭ.</p>
+<p>Eŭ m’amŭ pusŭ pe unŭ taburelŭ la piciórele séle.</p>
+<p>Cine a iubitŭ și n’a fostŭ lângă femeia ce iubea cândŭ cântă serenada luĭ Schubert, n’a înțelesŭ nicĭ o dată ce este musica și ce este iubirea.</p>
+<p>Torente de armoniă se strecoraŭ în sufletulŭ meŭ; în totŭ corpulŭ meŭ alergaŭ fiorĭ de plăcere. Încetulŭ cu încetulŭ mĕ apropiaiŭ de Princesa fără sĕ sciŭ și fără sĕ simțŭ, în câtŭ ea începuse se simță palpitările mele în minutulŭ celŭ maĭ încântătorŭ alŭ cereșteĭ melodiĭ. Acestŭ curatŭ sentimentŭ alŭ mișcăriĭ celeĭ maĭ adâncĭ fibre din inima omuluĭ ne pătrunse pe amândouĭ de o dată. Degetile séle se jucaŭ pe piano; érŭ ochiĭ eĭ eraŭ țintațĭ într’aĭ meĭ. Ea avea o privire rătăcită și mină de focŭ care aprinse și pe a mea.</p>
+<p>De o dată, pe cândŭ armonia vibra în sufletele nóstre, unŭ felŭ de magnetŭ atrăgea buzele nóstre. Ea îșĭ aplecă puținŭ capulŭ către mine, fără se simță. Eŭ ridicaiŭ pe alŭ meŭ puținŭ. Atuncĭ mâinile séle se ridicară dupe clapele pianuluĭ și se luncară de gâtulŭ meŭ și buzele nóstre se atinseră. Totŭ corpulŭ ni se înfioră. Inimile nóstre începură se bată; apoĭ numaĭ simțirămŭ nimicŭ. Sufletele nóstre, ca douĕ columbe, îșĭ luase sborulŭ către cerulŭ fericiriĭ.</p>
+<p>Nu maĭ rămăsese pe pămêntŭ de câtŭ douĕ bucățĭ de lutŭ.</p>
+         </div>
+       <div type="chapter" n="3">
+<head>III.</head>
+<p>Șése lunĭ de ᶁile amŭ trăitŭ cu Princesa într’o plină fericire. Micĭ norĭ veneaŭ câte-o dată de turburaŭ cerulŭ fericiriĭ nóstre; dérŭ aceștĭ norĭ dispăreaŭ la privirile nóstre, la surîsurile nóstre. Alesandru, fratele Princeseĭ, se făcuse bine de bóla ce suferise unŭ momentŭ; dérŭ avea o altă bóla care era perpetuă, și de care nu putea sĕ scape nicĭ o dată: urâtulŭ.</p>
+<p>De și de 23 de anĭ, dérŭ se desgustase de lume ca unŭ omŭ care a trăitŭ 70. Nu maĭ iubea nimicŭ, nicĭ chiarŭ pe soru-sea. Societatea nóstră conruptă îlŭ făcuse neîncreᶁĕtorŭ. Curtase 20 de femeĭ pe rândŭ și se părea că iubesce pe acea căria’ĭ face curte; dérŭ unŭ cuvêntŭ alŭ seŭ, unŭ surîsŭ maĭ deosebitŭ aruncatŭ unuĭ altŭ bărbatŭ, îĭ inspira neîncrederea în acea femeiă și, în fine, o lăsa și începea cu alta. Astŭ-felŭ, n’a iubitŭ nicĭ una, n’a înțelesŭ nicĭ odată ce este amorulŭ în lumea acésta. Surîdea la declamațiunile acelorŭ ómenĭ carĭ aŭ necontenitŭ în gură cuvêntulŭ onóre, patriă, libertate! Vĕᶁuse pe câțĭ-va carĭ înșelase o dată poporulŭ și nu maĭ credea nicĭ pe ceĭ sincerĭ. Cândŭ i se propuse sĕ ia și elŭ parte la actele politice carĭ se sucedară în aniĭ din urmă, elŭ dete din umerĭ și respunse:</p>
+<p>— Ce voițĭ sĕ facŭ? Nu pociŭ lua parte; căcĭ nu mĕ încreᶁŭ în nimenĭ. Îmĭ pare că nu vĕᶁŭ nicăerĭ sinceritate. Póte sĕ mĕ înșelŭ; suntŭ sicurŭ că mĕ înșelŭ, fiindŭ-că într’o societate de câte-va milióne, neapăratŭ trebue sĕ fiă câți-va ómenĭ cumŭ se cade; dérŭ astŭ-felŭ este credința mea.</p>
+<p>Acestŭ caracterŭ nu putea, dérŭ, sĕ trăéseă în miᶁĭloculŭ societățeĭ nóstre. Intr’o ᶁi plecă țéră; maĭ întêiŭ priimiiŭ scire că sĕ află în Italia; apoĭ în Mecsicŭ; pe urmă în Statele Unite; și maĭ pe urmă nu sciŭ unde; căcĭ n’amŭ maĭ priimitŭ nicĭ o scire de la elŭ până astă-ᶁĭ.</p>
+<p>Princesa rĕmăsese cu copilulŭ sĕŭ și cu o femeiă, numită Dómna N...... care venea în tóte ᶁilele. Copilulŭ, dândulŭ în pensionŭ, rĕmăsese numaĭ cu D-na N...... Eŭ, dreptŭ sĕ spuĭ, nu o puteamŭ suferi nicĭ de cumŭ. Ea era o femiă destulŭ de neplăcută. Scumpă, egoistă, lacomă, urândŭ juneția pentru că n’o maĭ avea, și frumuseția pentru că n’o avusese nicĭ o dată. Avea asupră-ĭ unŭ mirosŭ secŭ de defăimare bătrână și de tóne rele. Ea avusese bărbatŭ și copiĭ; dérŭ nu iubise pe nimenĭ. Avea o limbă de acelea care unde mușcă lasă veninŭ. Figura îĭ era fórte ciudată: unŭ pĕrŭ căruntŭ, dérŭ rarŭ în câtŭ se vedea pielea maĭ prin tóte părțile capuluĭ; nisce ochĭ micĭ; grumaziĭ prea groșĭ; unŭ nasŭ camŭ strîmbŭ; o bărbiă macră și o gură supțire și întórsă înăuntru.</p>
+<p>De câtă-va timpŭ începuse se vie la Princesa fórte desŭ; câte o dată și de treĭ orĭ pe ᶁi. Acésta mĕ făcea s’o urascŭ și maĭ multŭ; căcĭ de multe orĭ îmĭ turbura cele maĭ frumóse momente ce trebuia se petrecŭ cu femeia ce iubiamŭ. Cea ce mĕ revolta însĕ și maĭ multŭ, era micele secrete ce avéŭ împreună, semnele ce suprindémŭ, cuvintele pe jumĕtate ce’mĭ loveaŭ auᶁulŭ și de unde deducémŭ că și ea nu putea se mĕ sufere și lupta din tóte puterile a rĕci amorulŭ nostru. Astă-ᶁĭ suntŭ sicurŭ că ea a făcutŭ sĕ se sfărime acea legătură ce credeamŭ că va trăi câtŭ și noĭ.</p>
+<p>Într’o ᶁi spuseiŭ Princeseĭ bănuelile mele și o rugaiŭ se otărască o dată pentru totŭ dé-una la cine ține maĭ multŭ, la mine orĭ la D-na N......</p>
+<p>Ea se roși și-mĭ respunse că n’amŭ cuvêntŭ sĕ urăscŭ pe D-na N...... fiindŭ că ea are o mare simpatiă pentru mine și-ĭ vorbesce totŭ dé-una bine de mine.</p>
+<p>— Eŭ suntŭ convinsŭ că acéstă femeiă lucréᶁă sĕ răcéscă amorulŭ nostru, ᶁiseiŭ Princeseĭ. Ea trebue se-țĭ vorbéscă de cine-va cu care sĕ mĕ schimbĭ.</p>
+<p>— Ce felŭ? Mĕ bănueștĭ! strigă ea supărată. Ce? eŭ suntŭ femeiă de ulițŭ, se-mĭ iaŭ amanțĭ dupe comandă?</p>
+<p>— Nu......Margareto; n’amŭ voitŭ sĕ ᶁicŭ astŭ-felŭ; dérŭ sciĭ proverbulŭ acela care ᶁice că picătura fărâmă piatra. Amorulŭ tĕŭ póte se fiă tare ca granitulŭ; dérŭ stăruința Dómneĭ N...... fiindŭ și ea necontenită ca picătura, póte se facă ca proverbulŭ sĕ aibă dreptate.</p>
+<p>— O! Ce ingratŭ eștĭ, adaose ea începândŭ sĕ’șĭ îmbunese aerulŭ. Dérŭ nu sciĭ câtŭ de multŭ te iubescŭ? Nu sciĭ că pentru tine suntŭ capabilŭ se facŭ tóte sacrificiele? Cere și veᶁĭ décă te iubescŭ!</p>
+<p>— Se nu maĭ primeștĭ în casă pe acea femeiă.</p>
+<p>— Acésta nu se póte. Cumŭ amŭ se daŭ eŭ o femeiă afară fără nicĭ unŭ motivŭ?</p>
+<p>— Dă ordine fecioruluĭ se spue că nu eștĭ a casă.</p>
+<p>— ’Țĭ-amŭ probatŭ, amiculŭ meŭ, până acumŭ îndestulŭ că te iubescŭ! Îțĭ jurŭ, pe copilulŭ meŭ, că te iubescŭ cumŭ n’amŭ iubitŭ unŭ altŭ omŭ în lumea acésta: dérŭ te rogŭ nu-mĭ cere se închiᶁŭ ușa Dómneĭ N...... că nu voiŭ putea.</p>
+<p>— Atuncĭ rămâĭ cu dênsa, fiindŭ că țiĭ la ea maĭ multŭ de câtŭ la mine.</p>
+<p>Și luându-mĭ pălăria, plecaiŭ. Ea era destulŭ de mândră ca sĕ-mĭ pótă ᶁice ceva, sĕ mĕ oprească; dérŭ vĕᶁuĭ în facia eĭ frica de a nu o părăsi, cu tótă sicuranța ce avea de amorulŭ meŭ. Ea avea esperiența trecutuluĭ. Unŭ micŭ lucru sfăramă în inima omuluĭ unŭ amorŭ mare, și unŭ mare lucru nu póte sfărâma unŭ amorŭ mică, o legătură.</p>
+<p>Mĕ duseiŭ acasă și-ĭ scriseiŭ acéstă epistolă:</p>
+        <quote type="letter">
+<p>Dómnă,</p>
+<p>«Aᶁĭ ’mĭ aĭ probatŭ că nn mĕ iubeștĭ și nu m’aĭ iubitŭ nicĭ o dată. Trebue sĕ fie între Dumnéta și Dómna N... unŭ obiectŭ care vĕ légă atâtŭ de multŭ, unŭ obiectŭ ce iubeștĭ. De ce nu ’mĭ aĭ spusŭ de la începutŭ ca sĕ mĕ preparŭ la acéstă lovitură? Te-amŭ iubitŭ, te iubescŭ, voiŭ căuta sĕ te uitŭ.</p>
+<p>«Amŭ plecatŭ fără sĕ’mĭ iaŭ adio; îmĭ pare camŭ bruscŭ și de aceia amŭ găsitŭ de cuviință a-țĭ scrie și a’mĭ cere scuse.</p>
+<p>«Adio! Dómnă. Póte că nu ne vomŭ maĭ revedea nicĭ o dată. Mâine plecŭ la țéră, la părințĭ.</p>
+<p>SCARLAT.</p>
+         </quote> 
+<p>Amŭ pus’o într’unŭ plicŭ, amŭ sigilatŭ-o și amŭ trimisŭ-o. Tótă séra aceia amŭ umblatŭ ca nebunŭ, maĭ cu sémă orele care altă dată le petrecémŭ lângă dênsa. Nóptea n’amŭ dormitŭ nicĭ de cumŭ. In sufletulŭ meŭ se lupta uĭtarea séŭ ura și amorulŭ.</p> 
+<p>La ce draculŭ amŭ cugetatŭ de amŭ luatŭ la seriosŭ petrecerea ce’șĭ a făcutŭ o damă mare cu mine, unŭ copilŭ, unŭ omŭ cu inimă? Suntŭ óre amantulŭ sĕŭ? Mĕ iubește ea óre? Simțimêntulŭ ce are pentru mine de ce atuncĭ prețuesce maĭ puținŭ de câtŭ pentru Dómna N...? Nu mĕ înșélă ea óre? Atuncĭ îmĭ veni în gândŭ, pentru întêia dată de cândŭ cunósceamŭ pe Princesa, numele, figura chiarŭ a Eleonoriĭ. Nu maĭ sciamŭ de multŭ nimicŭ de dênsa. Hotăriŭ în acelŭ momentŭ ca a doua ᶁi se mĕ ducŭ negreșit se vĕᶁŭ pe acelŭ ângerŭ plină de candóre, pe care Dumneᶁeŭ îlŭ trimisese pe pămêntŭ se aréte ce este bunătatea și virturea.</p>
+<p>Dérŭ eŭ nu sciamă ce este unŭ omŭ prinsŭ între an orŭ și necasŭ. Mĕ coboramŭ în sufletulŭ meŭ și simțiamŭ că iubescŭ, și iubescŭ fórte multŭ, pe Princesa. Mĕ urcamŭ în capulŭ meŭ, și găsémŭ necasulŭ contra eĭ pentru nepăsarea ce’mĭ arĕtase. Ideia de a vedea pe Eleonora venea numaĭ unŭ momentŭ și apoĭ trecea. Cugetarea care se amesteca și în ura și în amorulŭ meŭ era numaĭ pentru Princesa. Cu tóte acestea voiamŭ se pedepsescŭ pe Princesa, prin părăsirea de câtŭ-va timpŭ, de și simțémŭ că eŭ era se suferŭ maĭ mutlŭ pedepsa. Făcémŭ ca copiĭ ce refusă bombónele ce nu li s’a datŭ cândŭ voiaŭ eĭ, și plângŭ cândŭ vĕdŭ pe altulŭ mâncândule.</p>
+<p>Adoua ᶁi de diminéță o scrisóre de la mumă-mea, fórte tristă și plină de adevĕrurĭ, mĕ hotărâ și maĭ multŭ sĕ plecŭ la țéră și se părăsescŭ pe Princesa. Étă ce ’mĭ scria mumă-mea:</p>
+         <quote type="letter">
+<p>Fiulŭ meŭ!</p>
+<p>«Aĭ făcutŭ reŭ de ne-aĭ uitatŭ, și cu atâtŭ maĭ multŭ pe Eleonora. Ea sĕ află fórte reŭ bolnavă. Astă-ᶁĭ abia amŭ pătrunsŭ secretulŭ bóleĭ séle. Obiectulŭ principalŭ escĭ tu. Te iubesce fórte multŭ, sermana fată! Déca arŭ fi mărturisitŭ maĭ nainte amoralŭ ce are pentru tine, póte nu aĭ fi căᶁutŭ în ghiarele aceleĭ femeĭ. De și astă-ᶁĭ este camŭ tărᶁiŭ, dérŭ eŭ creᶁŭ că totŭ o putemŭ scăpa de mórte, déca veĭ veni se o veᶁĭ, sĕ-ĭ spuĭ că numaĭ pe ea o iubescĭ și că acea femeiă, cu care scie tótă lumea și Eleonora chiarŭ că eștĭ în relațiĭ, a fostŭ numaĭ o prietină.</p>
+<p>«Ce luptă crudă nu s’a petrecutŭ în sufletulŭ acesteĭ copile mândre și virtuóse, cândŭ a aflatŭ că aĭ uitatu-o pentru alta! Ea, care era o fată francă, de câtŭ-va timpŭ se petrecea în sufletulŭ seŭ o parte misteriósă și tăcea. Acésta îĭ causă o melancolia, care maĭ pe urmă se prefăcu într’o bólă de pieptŭ. Amŭ întrebatu-o adesea causa întristăriĭ séle, dérŭ ea făgăduia, ᶁicêndŭ că nu are nicĭ una. Amŭ urmăritu-o de aprópe și, în fine, amŭ aflatŭ că cauza este, cum ’țĭ-amŭ spusŭ, amoralŭ ce are pentru tine. De la plecarea ta ea nu se maĭ gândea de câtŭ la tine. Totŭ déuna vorbia cu entusiasmŭ de ᶁilele ce le-ațĭ petrecutŭ împreună. Cândŭ priimiamŭ scrisorĭ de la tine, în care vorbiaĭ și de dênsa, ea maĭ întêiŭ se roșia, apoĭ bătea din palme, rîdea și, fără sĕ vrea póte, îșĭ manifesta bucuria ce simția în fundulŭ inimeĭ. Dintr’o ᶁi,—îmĭ pare c’am d’atuncĭ tu n’aĭ maĭ scrisŭ nimicŭ — din acea ᶁĭ sufletulŭ eĭ se coprinse de o tristețiă profundă. Ceru la tatălŭ seŭ se vie la Bucurescĭ, și, cum elŭ o are numaĭ pe dênsa, ca sĕ’ĭ facă plăcerea, consimți. Venită la Bucurescĭ, dupe cumŭ ’mĭ-a spusŭ tatălŭ seŭ, căută tóte miᶁlocele se afle totulŭ despre tine. Se ducea la teatru, la soarele, cerceta, întreba.</p>
+<p>«Nu sciamŭ causa acesteĭ cererĭ de a merge la Bucurescĭ; maĭ târᶁiŭ însĕ amŭ aflatu-o. Ea primise o scrisóre anonimă, nu sciŭ de la cine, prin care îĭ spunea că tu escĭ cu acea femeiă.</p>
+<p>«O! ce miserabilĭ suntŭ aceĭ ómenĭ carĭ scriŭ anonimŭ, fără sĕ se gândéscă că potŭ sfărâma o inimă slabă!</p>
+<p>«A mersŭ, a cercetatŭ și a aflatŭ. Atuncĭ s’a întorsŭ la țéră și d’atuncĭ nu maĭ are ᶁi senină. Maĭ ᶁilele trecute, era unŭ timpŭ frumosŭ. Ea, ridicându-se din patulŭ eĭ și uitându-se pe feréstră afară, treseri și ᶁise cu durere.</p>
+<p>«— Ah! ce timpŭ frumosŭ! Câte ᶁile de acestea, altă dată, le-amŭ petrecutŭ fericită! Ce este lumea acésta! ce schimbare, Dumneᶁeule!</p>
+<p>«Eramŭ singură cu dênsa. O întrebaiŭ cuvêntulŭ aceleĭ esclamărĭ dureróse și ea îmĭ respunse:</p>
+<p>«— Nŭ scia pentru ce adinăorĭ ’mĭ-a venitŭ așa de reŭ cândŭ amŭ vĕᶁutŭ o ᶁi de primăvéră așa de frumósă! Dérŭ nu e nimicŭ! Acumŭ a trecutŭ totŭ.</p>
+<p>«Altă détă, înaintea mea și a mumeĭ séle, nu sciŭ cum venise vorba de rândunele, vĕᶁêndule venindŭ; căcĭ ochiĭ seĭ se umplură de lacreme dulcĭ. Ea ne ᶁise c’unŭ surîsŭ ângerescŭ:</p>
+<p>«— Nu sciŭ pentru ce cândŭ vĕᶁŭ și cândŭ auᶁŭ vorbindu-se de rândunele simțŭ în mine o mișcare streină și’mĭ vine sĕ plângŭ!</p>
+<p>«Era érŭ vr’unŭ suvenirŭ d’ale tale.</p>
+<p>«Maĭ în urmă o amică a familieĭ desfăcu albumulŭ, și, cândŭ veni la fătografia ta, stătu maĭ multŭ sĕ o privéscă. Eleonora îșĭ aruncă ochiĭ, tresări ca o căprióră la sunetulŭ cornuluĭ de vênătóre, și câte-va lacreme se strecură pe obrajiĭ seĭ;</p>
+<p>«— Értă-mĕ, îmĭ ᶁise ea, sărindŭ de gâtulŭ meŭ! Értă-mĕ; suntŭ o nebună. N’amŭ pututŭ se-mĭ țiŭ acéstă mișcare. Veᶁĭ cum îmĭ bate inima?</p>
+<p>«Într’adevĕrŭ inima îĭ bătea cu furiă. Ce misterŭ e și amorulŭ! Nu putémŭ ceti în acelŭ momentŭ, în acelŭ sufletŭ purŭ, limpede ca cristalulŭ, o pasiune așa de mare! Cine n’a iubitŭ séŭ n’a urîtŭ nicĭ o détă, nu sciă ce va sĕ ᶁică o pasiune mare, ᶁicea cine-va. Acesta este unŭ adevĕrŭ pe care l’amŭ constatatŭ însu-mĭ.</p>
+<p>«Amŭ vĕᶁutŭ puținŭ câte puținŭ acéstă flore preciósă, care nu avea consciința profumuluĭ seŭ ce îlŭ esala, séŭ a culóreĭ ce o nuanța, crescêndŭ, desvoltându-se, înflorindŭ sub auspiciele luĭ Dumneᶁeŭ, și apoĭ ofilindu-se, stingêndu-se numaĭ la suflarea unuĭ amorŭ. Amŭ vĕᶁutu-o tênără, veselă, plină de viață, și astăᶁĭ o vĕᶁŭ palidă ca mórtea și tristă ca durerea.</p>
+<p>«Erĭ ducêndu-mĕ prin satŭ se visitezŭ nisce femeĭ bolnave, afiaiŭ că se găsesce reŭ de totŭ. M’amŭ dusŭ la dênsa. Ah! ce spectacolŭ durerosŭ, Dumneᶁeulŭ meŭ! Figura sea palidă, ângeréscă, încadrată cu bendele pêruluĭ seŭ, abia se vedea în miᶁĭloculŭ albețiĭ așternutuluĭ. Ochiĭ seĭ ceĭ marĭ, maĭ fără căutare, eraŭ semi-închșĭ sub pleopele lorŭ cele lungĭ, care aruncaŭ o urmbră transparentă pe obrajiĭ eĭ, ce acumŭ eraŭ săpațĭ de urmele bóleĭ. Une-orĭ buzele eĭ se mișcaŭ ușorŭ. Îșĭ ținea amândouĕ mâinile séle pe pieptŭ într’o atitudine plină de graciă și de modestiă. Nu vĕᶁusemŭ pe Eleonora de câte-va ᶁile și acumŭ fuiŭ spăimântată de schimbările trăsurilorŭ séle.</p>
+<p>«Te conjurŭ, dérŭ, vin’o îndata ce veĭ priimi acéstă epistolă. Eleonora va muri, décă nu veĭ veni, și eŭ nu voiŭ maĭ putea sĕ te vĕᶁŭ de câtŭ ca pe omorîtorulŭ sĕŭ.</p>
+<p>«Te așteptŭ chiarŭ astă-séră. La revedere.</p>
+<p>CATERINA*</p>
+         </quote>
+<p>Cum am cetitŭ acéstă scrisóre, amŭ trimisŭ pe feciorulŭ meŭ se-mĭ aducă o trăsusă și eŭ amŭ începutŭ se’mĭ facă giamantanulŭ. Cuvêntulŭ «nu te voiŭ privi de câtŭ ca pe omorîtorul sĕŭ», suna la urechile mele. Eramŭ gata de plecare. Trăsura venise și se și așeᶁase bagagiulŭ într’însa, cândŭ unŭ cupé intră în curte la mine. Feciorulŭ îmĭ anunciă pe Princesa. Ḑiseiŭ se-ĭ spue că nu suntŭ acasă și că m’amŭ dusŭ la barieră înainte se așteptŭ trăsura; dérŭ până sĕ se întórcă feciorulŭ se-ĭ spue, ea și intrase.</p>
+<p>— Amŭ venitŭ se-țĭ cetescă o scrisóre de la fratele meŭ, care te privesce, ᶁise ea, stăpânindu-șĭ turburarea, provenită la vederea trăsuriĭ de drumŭ.</p>
+<p>Trăseĭ Princeseĭ unŭ fotelŭ, îĭ mulțămiŭ cu aerulŭ celŭ maĭ rece din lume, luaiŭ scrisórea și o cetiŭ. Era vorba de banĭ. Cerea se iaŭ de la arendașulŭ seŭ și se-ĭ trimitŭ printr’unŭ bancherŭ la Neapole. Promiseiŭ Princeseĭ că îndată voiŭ merge la unŭ bancherŭ, voiŭ lua baniĭ și îĭ voiŭ trimite. Și fiindŭ că acumŭ suntŭ în momentŭ de a pleca, voiŭ depune eŭ garanțiă până cândŭ arendașulŭ, dupe o scrisóre a mea, va aduce acea sumă.</p>
+<p>Vĕᶁêndŭ ea că nu este glumă, și că eramŭ decisŭ cu orĭ-ce prețŭ s’o părăsescŭ, de o dată ochiĭ i se umplură de lacrĕmĭ.</p>
+<p>— Nu se póte, nu se póte, strigă ea, ne maĭ putêndu-șĭ stăpâni suspinele. Nu se póte sĕ mĕ părăsescĭ așa, cândŭ eŭ te iubescŭ atâta!</p>
+<p>Eraŭ óre acestea lacrămĭ scóse din iubire séŭ din rana amoruluĭ propriŭ? Amŭ vĕᶁutŭ maĭ pe urmă că eraŭ provenite din ambițiunea de a nu fi părăsită. Ce bine făceamŭ atuncĭ de urmamŭ impresiunilorŭ ce’mĭ cauzase scrisórea mumeĭ mele! Lacremile însĕ, maĭ cu sémă ale femeieĭ ce iubimŭ, aŭ o putere fórte mare asupra nóstră. N’amŭ pututŭ se resistŭ la acelea ale Princeseĭ. Rĕciala mea s’a prefăcutŭ în milă; m’amŭ apropiatŭ de dênsa; ’ĭ-amŭ luatŭ mâna și ’ĭ-amŭ sărutatŭ-o. Ea a săritŭ de gâtulŭ meŭ, m’a sĕrutatŭ cu unŭ zîmbetŭ care semăna cu surîsulŭ auroreĭ cândŭ ese dupe unŭ munte, și ’mĭ a ᶁisŭ:</p>
+<p>— Nu e așa că nu mĕ veĭ face sĕ suferŭ? Tu sciĭ câtŭ te-amŭ iubitŭ și câtŭ te iubescŭ! Voescĭ, pe lângă sacrificiile ce amŭ făcutŭ, se maĭ facŭ și pe acela de a nu maĭ priimi pe D-na N***? îlŭ voiŭ face, numaĭ rămâĭ.</p>
+<p>Uitaiŭ totulŭ înaintea rugămintelorŭ, înaintea lacremelorŭ séle, până și scrisórea mumă-meĭ, și rămăseiŭ.</p>
+       </div>
+       <div type="chapter" n="4">
+<head>IV.</head>
+<p>Câte-va momente stăturămŭ îmbrățișațĭ. In acelŭ timpŭ uitasemŭ scrisórea mumă-meĭ, pe Eleonora și chiarŭ pe Dumneᶁeŭ. Ertați-mĕ ființe scumpe și iubite, voĭ care suntețĭ în cerurĭ și voĭ care suntețĭ încă pe pămêntŭ, ertați-mĕ pentru acéstă ingratitudine! De și nu m’ațĭ blestematŭ atuncĭ; dérŭ acéstă călcare a datorieĭ de omŭ și de fiŭ m’a ajunsŭ! Amorulŭ este însĕ care m’a abătutŭ de la acéstă datoriă. Décă elŭ arŭ raționa, lumea n’arŭ fi aceia ce este astă-ᶁĭ și elŭ nu s’arŭ maĭ numi astŭ-felŭ.</p> 
+<p>Iubeamŭ pe Princesa, amŭ spusu-o de o sută de orĭ în acestŭ manuscriptŭ, și totŭ îmĭ place s’o repetŭ, căcĭ o iubescŭ încă. Incendiurile marĭ nu se stingŭ lesne. Pasiunile marĭ nu disparŭ numaĭ de câtŭ; ele trăescŭ câte-odată câtŭ omulŭ care le încércă, și de multe orĭ ele ’ĭ causéᶁă mórtea.</p>
+<p>Dupĕ acea îmbrățișare, cândŭ ne-amŭ trasŭ îndărătŭ și ne-amŭ privitŭ în faciă, obrazulŭ eĭ ca și alŭ meŭ era vĕrgatŭ de urmele lacremilorŭ ce lăsase în calea lorŭ.</p>
+<p>Nu putémŭ sĕ vorbimŭ. Într’adevărŭ, cuvêntulŭ cată sĕ tacă cândŭ cugetarea vorbește cu sufletulŭ.</p>
+<p>Dupe câte-va momente de contemplare dulce și plină de mulțumire, Princesa rupse tăcerea.</p>
+<p>— Aĭ tu încredere în mine? întrebă ea.</p>
+<p>— Décă amŭ! Dérŭ tu eștĭ conducătórea viețeĭ mele!</p>
+<p>— Acéstă trăsură, care este în curte, era destinată sĕ ie ducă la țéră, nu este așa?</p>
+<p>— Da.</p>
+<p>— Eĭ bine! acéstă trăsură va merge la țéră; însĕ nu acolo unde otărâseșĭ. Mĕ urmezĭ?</p>
+<p>— La marginile lumeĭ, de va fi.</p>
+<p>— Îțĭ mulțumescŭ, adaose, strângându-mĭ mâna cu tandrețiă.</p>
+<p>Apoĭ chemă pe lacheulŭ seŭ, îĭ dete ordine sĕ se întórcă acasă cu trăsura sea, se pue caiĭ la postalionŭ, se pue cele necesariĭ pentru o lună și se vie unde’lŭ va anunța peste douĕ ore. Dupĕ aceste ordine îmĭ luă braciulŭ și-mĭ ᶁise:</p>
+<p>— Aĭdemŭ.</p>
+<p>Mergémŭ, fără sĕ știŭ unde; dérŭ mergémŭ cu mulțumire. Ne urcarămŭ în trăsură și ea porni spre bariera Têrguluĭ d’Afară, în locŭ de a porni spre aceea a Têrgovișteĭ, destinată maĭ nainte.</p>
+<p>Cândŭ eșirămŭ din Bucurescĭ, și ajunserămŭ în luciulŭ câmpieĭ, întrebaiŭ pe Princesa cumŭ de a sciutŭ pentru ce plecamŭ la țérră!</p>
+<p>— Dupe ce amŭ cetitŭ scrisórea ta, îmĭ respunse ea, și dupe modulŭ cum m’aĭ părăsitŭ, eramŭ sicură că aĭ sĕ mĕ schimbĭ pentru altŭ-cineva. Amŭ trimisŭ, dérŭ, unŭ omŭ alŭ meŭ se te spioneze. Elŭ a aflatŭ totŭ, până și coprinderea scrisoriĭ ce aĭ priimitŭ de la mumă-tea, și a venitŭ de ’mĭ a spusŭ. Atuncĭ amorulŭ propriŭ, sângeratŭ, a învinsŭ ambițiunea, orgoliulŭ meŭ, și, înarmată de ocasiunea cu scrisórea frateluĭ-meŭ, convinsă că nu va suferi câtușĭ de puținŭ demnitatea mea, amŭ venitŭ, sicurŭ că te voiŭ opri, fiindŭ-că sciŭ câtŭ mĕ iubescĭ.</p> 
+<p>— Dérŭ déca n’aĭ fi reușitŭ se mĕ oprescĭ?</p>
+<p>— Atuncĭ... atuncĭ nu sciŭ ce așŭ fi făcutŭ. Eramŭ sicurŭ însĕ de reușită, de acea m’amŭ asardatŭ.</p>
+<p>— Cumŭ te jocĭ cu viața mea!</p>
+<p>Vorbindŭ, uitasemŭ posițiunile cele frumóse și pitorescĭ ce începuserămŭ a întêlni, verdeața care în luna luĭ Maiŭ este tênără și d’o colóre ca smarandulŭ și profumulŭ care se ridica din florile dupe poene.</p>
+<p>O fericire mare te confundă</p>
+<p>Patru ore câtu ținu acéstă călĕtotiă, Princesa fu pentru mine plină de luare aminte și de prevenințe grațióse. Vorbele eĭ eraŭ însoțite de o bunătate rară, puținŭ gravă și ațintată. Ea simțea, ca și mine, că cine-va nu se póte iniția într’o fericire de câtŭ trecêndŭ prin încercărĭ.</p>
+<p>Pe la șése ore trăsura nóstră coti drumulŭ și o luă pe marginea unuĭ întinsŭ lavŭ, limpele și puținŭ camŭ albastru, care semăna multŭ cu lacurile din Elveția și Italia; apoĭ, finindu-se laculŭ, urmă marginea uneĭ grădinĭ cu arborĭ secularĭ și mari înaintea unorŭ porțĭ marĭ, așezate în miᶁĭloculŭ unuĭ lungŭ grilagiŭ. Pórta se deschise și noĭ ne pomenirămŭ într’o curte-grădină în miᶁĭloculŭ căria era o casă mare cu douĕ etagie. Pe din afară semăna multŭ cu o Vilă dupe marginea laculuĭ Majore. Casa Princeseĭ, ca și acele. Vile, fiindŭ însă p’o óre care înălțime, domina laculŭ. Interiorulŭ era de o bogățiă nedescriptivă.</p>
+<p>Eșirămŭ îndată în balconŭ. Princesa, surîᶁêndŭ la surprisa mea, se uĭta la mine cu amorŭ, pare că arŭ fi voitŭ se mĕ întrebe:</p>
+<p>— Heĭ! cum găsescĭ loculŭ unde te-amŭ adusŭ ici? Este totŭ așa ca acela la care voiaĭ sĕ te ducĭ, séŭ este maĭ frumosŭ?</p>
+<p>Ea era sicură că e maĭ frumosŭ!</p>
+<p>Ordonă sĕ ne facă prînzulŭ și ne coborîrămŭ în grădină. Sórele da cea din urmă sĕrutare selberŭ ce ne înconjura. Aerulŭ era îmbălsămatŭ de parfumulŭ a miĭ de fiorĭ ale primăvereĭ. Frunᶁe, carĭ avéŭ încă o verdéță tênără, tremuraŭ în suflarea cea ușóră a zefiruluĭ. Păserile de totŭ felulŭ ciripeaŭ, sburaŭ, se căutaŭ între arborĭ și numaĭ ele turburaŭ, cu micile lorŭ strigărĭ voióse, profunda tăcere a selbeĭ. Inima îmĭ crescea cu putere. Resuflamŭ c’unŭ nesațiŭ nespusŭ tóte problemele, tóte emanațiunile suave ale natureĭ. Umblamŭ încetŭ unulŭ resematŭ de celŭ l’altŭ. Abia schimbamŭ din cândŭ în cândŭ câte-va cuvinte distracte. Unŭ momentŭ voiiŭ se-mĭ aducŭ aminte câte-va impresiunĭ ale primeĭ mele junețĭ petrecute cu Eleonora; dérŭ îmĭ fuse peste putință! Amorulŭ Princeseĭ copleșise totŭ.</p>
+<p>— Cumŭ găseștĭ tu acestŭ locŭ? mĕ întrebă Princesa, rupândŭ tăcerea.</p>
+<p>— Unŭ Paradis.</p>
+<p>— Voescĭ tu, amiculŭ meŭ, se ședemŭ maĭ multŭ timpŭ aicĭ?</p>
+<p>— Tótă viața, décă vreĭ tu. Ce felŭ? cândŭ cine-vă pune mâna pe fericire, trebue sĕ-ĭ dea drumulŭ îndată? Și ce sĕ facemŭ în lume? N’o cunoscemŭ îndestulŭ?</p>
+<p>— Aĭ dreptate, îmĭ ᶁise ea, suspinândŭ? Pentru ce se ne întórcemŭ, cândŭ avemŭ aicĭ totŭ? Suntŭ atâtea farmece aicĭ, în esistența acésta, în câtŭ arŭ fi păcatŭ s’o părăsimŭ și sĕ ne aruncămŭ în prevalea cea scînteietóre ce se numesee lume!</p>
+<p>Póte că amŭ fi vorbitŭ până la ᶁiuă, décă nu venea sĕ ne chieme la masă!</p>
+<p>Ḑilele ce urmă acestia fură ᶁilele cele adevĕrate fericite ale viățeĭ mele. Simțiiŭ, în tótă îmbătătórea deplinătate, ce va sĕ ᶁică a iubi și a fi iubitŭ. Mi se părea că acéstă iubire n’are sĕ se termine nicĭ o dată. Iubiamŭ! Eramŭ iubitŭ! Acestŭ simțimêntŭ îmĭ ocupa tótă inima. Acéstă îmbătate era așa de complectă în câtŭ nu maĭ aveamŭ nevoiă nicĭ de suvenire, nicĭ de speranță. Presentulŭ era tótă viața mea. Cea ce fusesemŭ, cea ce voiŭ ajunge nu putea nicĭ de cumŭ sĕ isbutéscă a mĕ ocupa: iubémŭ! iubémŭ!</p>
+<p>Acumŭ, cândŭ cugetarea, singurătatea, disperarea m’aŭ luminatŭ asupra atâtorŭ lucrurĭ ce Princesa îmĭ ᶁicea atuncĭ, și ce s’a petrecutŭ în urmă, mi se pare că ea, care vorbea de amorŭ, nu iubise nicĭ o dată, séŭ maĭ bine că eŭ iubeamŭ precumŭ nimenĭ n’a iubitŭ în lume. Princesa era sufletulŭ meŭ, gândirea mea, viața mea. Nu eramŭ ca aceĭ care facŭ proecte de viitorŭ pentru ca sĕ fiă fericițĭ împreună. Acésta arŭ fi fostŭ pentru mine o gândire afară din cea ce simțiamŭ și nu putemŭ s’o amŭ. Imĭ simțiamŭ inima atărnândŭ de o mulțumire maĭ presusŭ de tóte calculele și de tóte prevederile. Puterile viățiĭ și cugetările mele abia eraŭ de ajunsŭ acesteĭ îmbĕtărĭ.</p>
+<p>O! femeiă! Te-amŭ iubitŭ și te iubescŭ, chiarŭ acumŭ, dându-țĭ viața mea, priimindŭ chinulŭ de mórte în care trăescŭ; dérŭ nu te iubescŭ ca atuncĭ. Acumŭ sciŭ cea ce facŭ; amŭ o voință; atuncĭ nu aveamŭ nicĭ una: iubémŭ, acésta era pentru mine datoriă, onóre, virtute.</p>
+<p>Cea ce s’a petrecutŭ între mine și Princesa în timpŭ de o lună, câtŭ am statŭ la țéră, la moșia eĭ, nu așŭ putea sĕ descriŭ. ’Mĭ-arŭ trebui o pénă de maestru și memoriă. Totulŭ aci îmĭ plăcea și mĕ îmbĕta. Décă ea era lângă mine, eramŭ fericitŭ. Décă lipsea unŭ momentŭ, eramŭ nenorocitŭ. Cândŭ îmĭ vorbia, vocea sea resuna în mine și deștepta unŭ ecoŭ așa de putinte care murmura neîncetatŭ, astŭ-felŭ că o ascultamŭ încă și cândŭ numaĭ vorbia.</p>
+<p>Amŭ trăitŭ óre eŭ altă viață în acelŭ timpŭ? N’amŭ fostŭ óre răpitŭ în cerŭ, într’o atmosferă necunoscută? Nu era óre unŭ visŭ în care numaĭ amorulŭ era deșteptŭ, pe cândŭ înțelepciunea și datoria dormiaŭ în inimă-mĭ?</p>
+<p>Intr’adevĕrŭ a fostŭ unŭ visŭ, unŭ delirŭ, o îmbătare fără nume; căcĭ, cândŭ a venitŭ realitatea, m’amŭ vĕᶁutŭ singurŭ numaĭ c’unŭ resimțimêntŭ care’șĭ avea bucuria sea durerósă. Inima mea este sdrobită de cerésca îmbrățișare care a ținutu-o așa de multŭ.</p>
+<p>Mi se pare, de cândŭ amŭ intrată în singurătate, că décă acea stare arŭ fi ținutŭ maĭ multŭ, puterea mi s’arŭ fi topitŭ cu încetulŭ ca o céră albă într’o sobă de porțelanŭ și că sufletulŭ meŭ s’arŭ fi evaporatŭ ca unŭ aburŭ la sóre.</p>
+<p>Ah! de ce n’amŭ muritŭ atuncĭ, Dumneᶁeulŭ meŭ, érŭ nu dupe cumŭ morŭ astă-ᶁĭ! Așŭ fi muritŭ cu credință că este fericire pe pămêntŭ și că o dă numaĭ femeia!</p>
+<p>Cu câtŭ înaintezŭ cu povestirea faptuluĭ, cu atâtŭ mĕ apropiŭ de unŭ momentŭ care, cu câtŭ a fostŭ de plăcutŭ, de mare la începutŭ, cu atâtŭ a fostŭ de durerosŭ în urmă.</p>
+<p>Pe la finele uneia din lunele de tómnă, căcĭ amŭ petrecutŭ tótă véra la țérră, era una din acele serĭ frumóse de care se găsescŭ numaĭ la noĭ și în Italia. Princesa îmĭ propuse se facemŭ o preumblare cu barca pe lacŭ. Priimiŭ cu cea maĭ mare mulțumire, și, ca douĭ copiĭ, alergarămŭ sĕ vedemŭ care din duoĭ ajunge maĭ curândŭ. Se’nțelege că eŭ așŭ fi ajunsŭ; dérŭ trebue totŭ deuna sĕ lăsămŭ acestuĭ secsŭ slabŭ, care în realitate este celŭ maĭ tare, se-ĭ lăsămŭ satisfacerea că póte birui și elŭ. Princesa dérŭ a ajunsŭ cea dintêiŭ și a și săritŭ în luntre, unde amŭ urmatu-o. Avémŭ de conducĕtore pe unŭ țeranŭ care servia la Princesa de 20 de anĭ. Ia câte-va momente furămŭ în miᶁĭoculŭ apeĭ!</p>
+<p>Era unŭ tabloŭ minunatŭ. Luna, ce privea pe furișŭ printre sălciele plîngĕtóre dupĕ marginea laculuĭ, se juca în undele cele line ale apeĭ. Tăcerea cea maĭ solemnă domnea peste totŭ. Stelele sclipeaŭ dé-supra nóstră ca niște flăcărĭ în depărtare. Vêntulŭ, ce abia adia, aducea dupe câmpia îmbătătorulŭ profumnŭ alŭ florilorŭ. Eŭ ședeamŭ lungitŭ la piciórele Princeseĭ, cu bărbia pe genuchiulŭ seŭ și cu ochiĭ țintițĭ în aĭ seĭ. Nimicŭ nu ne turbura din acéstă încântare meditativă de câtŭ sunetulŭ lopețilorŭ.</p>
+<p>— Nu voeștĭ, îmĭ ᶁise Princesa, se depunemŭ la malŭ pe acestŭ conducĕtore și se lăsămŭ barca în voia eĭ pe lacŭ? Mi se pare că fericirea nu este complectă cândŭ suntŭ treĭ!</p>
+<p>— Aĭ apucatŭ înainte. Tocmaĭ acésta voiamŭ se-țĭ propuiŭ și eŭ.</p>
+<p>— Care va se ᶁică ne-amŭ înțelesŭ? ᶁise ea, bătândŭ în palme ca unŭ copilŭ care a câștigatŭ ceva. Cheorghe, adaose ea, trage la malulŭ celŭ l’altŭ, la covercă.</p>
+<p>Conducĕtorulŭ trase barca unde i se ordonase; și, cândŭ ajunse la malŭ, i se ᶁise sĕ se cobóre</p>
+<p>Aceste cuvinte le ᶁise cu o atâta putere, cu o atâta încredere, în câtŭ îĭ făcu o emoțiune teribile. Atârnă amêndouĕ mâĭnile de gâtulŭ meŭ, astŭ-felŭ că obrazulŭ mi se atinse de alŭ eĭ. Ardéŭ amândouĭ. Închiseiŭ ochiĭ. Nu dormémŭ, dérŭ nu sciamŭ ce făcŭ. Câtŭ amŭ stătŭ în acéstă nesimțire sublimă, nu potŭ spune; sciŭ numaĭ că m’amŭ pomenitŭ într’unŭ tremurŭ de acelea care’lŭ aduce spaĭma.</p>
+<p>Și étă cumŭ:</p>
+<p>Pe când stamŭ cu ochiĭ închișĭ și trebuia sĕ vĕᶁŭ în întunericŭ, eŭ vedeamŭ într’unŭ orisonŭ de lumină. La miᶁĭoculŭ aceleĭ lumine vĕᶁuiŭ o figură ângeréscă adormită înaintea mea. Era óre o eternă durere, o eternă adorațiune ce ’mĭ prepara acea nópte în misterulŭ sĕŭ, séŭ cea ce’mĭ va aduce dimineța împreună cu desceptarea, remușcarea?</p>
+<p>Vaĭ! acésta era.</p>
+<p>Ea semăna c’o mórtă. Cérșafulŭ trasŭ maĭ josŭ, lăsa sĕ se véᶁă gâtulŭ jumĕtate golŭ și braciulŭ dreptŭ. Perulŭ îĭ cădea ca nisce inele marĭ de aurŭ pe gâtu-ĭ aplecatŭ pe perină. Într’unulŭ din degete îĭ lucea unŭ inelŭ. Ochiĭ îĭ eraŭ închișĭ. Era óre mórtă? Mĕ apropriaĭ maĭ lângă dênsa. Vaĭ! era mórtă și era Eleonora! Atuncĭ unŭ fiorŭ rece începu sĕ ’mĭ alerge prin totŭ corpulŭ și mĕ deșteptaĭ din acéstă meditare, cumŭ spuseĭ, tremarândŭ de frică și de remușcare.</p>
+<p>— Ce aĭ? mĕ întrebă Princesa, speriată.</p>
+<p>— Sĕ mergemŭ, căcĭ ’mĭ este frigŭ.</p>
+<p>Ne întórserăm acasă.</p>
+<p>Omulŭ presimte nenorocirea precum și fericirea, și în somnŭ și deșteptŭ.</p>
+       </div>
+       <div type="chapter" n="5">
+<head>V.</head>
+<p>Gândŭ ajunseiŭ acasă, eramŭ ca unŭ omŭ care s’a sculatŭ dupe o bețiă.</p> 
+<p>Suntŭ unele emoțiunĭ morale ca unele fapte fisice care îțĭ daŭ o lovitură violinte în capŭ și te restórnă. La începutŭ nu simte cine-va nimicŭ, fără numaĭ o comoțiune profundă, o amețială durerósă care’țĭ stinge tótă cugetarea. Caᶁĭ, avêndŭ numaĭ cunoscință deșartă a unuĭ pericolŭ mare. Astŭ-felŭ a fostŭ pentru mine acea vedenia fulgerătóre. Priimisemŭ în inimă o lovitură plină de spaimă; ideile mi se turburară într’o amețială penibile. O secundă nu maĭ vĕᶁuĭ nimicŭ, nu maĭ auᶁiŭ nimicŭ. Apartamentulŭ meŭ mi se părea întunecosŭ; nu maĭ în mᶁlocŭ vedeamŭ unŭ punctŭ luminosŭ și în elŭ acea închipuire mută ce vĕᶁusemŭ și în barcă.</p>
+<p>Era numaĭ o închipuire; dérŭ cu tóte acestea o remușcare disperată mĕ apăsa pînă în rerunchĭ. N’amŭ pututŭ se dormŭ tótă nóptea. Amŭ cerutŭ Princeseĭ sĕ mĕ lase singurŭ, pretestândŭ o indisposițiune, și ea m’a lăsatŭ. Tótă nóptea douĕ cugetărĭ se isbeaŭ în sufletulŭ meŭ: se plecŭ a doua ᶁi séŭ sĕ nu plecŭ! A muritŭ séŭ n’a muritŭ! Décă va fi muritŭ, pentru ce sĕ maĭ mĕ ducŭ? Dérŭ décă nu va fi muritŭ? Atuncĭ póte s’o scapŭ! Insĕ Princesa, ce sĕ făcŭ cu Princesa? Ce preteste se găsescŭ? Și décă va afla adevĕrulŭ, nu se va rĕci ea de mine? Nu mĕ va părăsĭ chiarŭ? Luptă teribile și disperată din care nu sciamŭ cum se esŭ! Supliciŭ înfiorătorŭ, impusŭ sufletuluĭ meŭ nevoitŭ de a vărsa lacremĭ curate pentru unŭ ângerŭ în miᶁloculŭ cochetărieĭ și desfrînăriĭ. Vaĭ! când nu scie cine-va aicĭ pe pămêntŭ sĕ vorbéscă altă limbă de câtŭ acea a ângerilorŭ, se află în mare pericolŭ de a fi desperechiatŭ.</p>
+<p>Vĕᶁuĭ înaintea mea pe Princesa amorósă, pe mumă-mea severă și blestemându-mĕ și pe Eleonora murindŭ cu numele meŭ pe buze. Amorulŭ astă dată fuse maĭ slabŭ și mĕ deciseiŭ sĕ plecŭ. Cum se făcu ᶁiuă dedeĭ ordine a’mĭ găti postalionulŭ. Dérŭ Princesa nu se sculase încă și eŭ nu puteamŭ sĕ plecŭ fără sĕ o vĕᶁŭ, fără sĕ’ĭ spuĭ; însĕ ce sĕ’i spuĭ? Ce motivŭ se găsescŭ? Sĕ’ĭ spuĭ că mumă-mea este bolnavă? Mĕ va întreba că de unde sciŭ și îmĭ va cere scrisórea! Sĕ’ĭ spuĭ că a venitŭ unŭ omŭ într’adinsŭ și a și plecatŭ pe locŭ, acesta era celŭ maĭ bunŭ miᶁlocŭ. Așteptaĭ, dérŭ, sĕ se scóle Princesa. Astă dată, ca nicĭ o dată, dormi fórte multŭ! Abia pe la 10 ore se desceptă și putu sĕ mĕ priméscŭ. Insĕ, tocmaĭ când mĕ pregătémă sĕ intru la dênsa, feciorulŭ îmĭ anunță pe unŭ omŭ cu o scrisóre.</p> 
+<p>— De unde este? întrebaiŭ.</p> 
+<p>— De la familia D-tale, îmĭ respunse.</p>
+<p>Mĕ făcuiŭ galbenŭ ca turta de ciară. Presimțirea érŭ îmĭ veni viă în sufletŭ. Ḑiseiŭ sĕ intre. Elŭ era cu capulŭ golŭ, dupe cum umblă aceia carĭ alergŭ în afacerea unuĭ mortŭ. Cândŭ mă vĕᶁŭ, îmĭ întinse scrisórea și începu sĕ plângă.</p>
+<p>— A muritŭ? îlŭ întrebaiŭ eŭ, fără a avea curagiulŭ se iaŭ scrisórea din mâna sea.</p> 
+<p>— A muritŭ, Domnule, respunse elŭ, dândŭ din capŭ...... Și în ce felŭ? Se feréscă Dumneᶁeŭ pe toțĭ vrăjmașiĭ și pismașiĭ.</p>
+<p>Acestea le ᶁicea cu unŭ aerŭ care îțĭ sfîrșia inima. Elŭ era unulŭ din aceĭ ómenĭ care se devotéză, pentru o familiă ce’ a servitu-o, precum se devotéză câinele celŭ maĭ credinciosŭ. Fusese maĭ întêiŭ slugă la familia mea vr’o patru anĭ, și apoĭ la tatălŭ Eleonoriĭ nouă. Scia tóte copilăriele nóstre, tóte ᶁilele fericite ce petrecusemŭ împreună cu acestŭ ângerŭ de bunătate. Când rătăciamŭ pe câmpurĭ, cândŭ ne uitamŭ la umbra vre-unuĭ arbore, cândŭ admiramŭ posițiunile cele frumóse și culegeamŭ florile cu miĭ de fecie, elŭ venea de ne chiăma la masă séŭ ne spunea că s’a făcutŭ séră și că părințiĭ noștriĭ s’aŭ îngrijatŭ de lipsa nóstră. Era o umbră care juca unŭ rolŭ în suvenirele nóstre.</p> 
+<p>Nu-mĭ venea sĕ deschizŭ scrisórea. Eramŭ într’unŭ momentŭ de acelea în care se află omulŭ condamnatŭ la mórte, asceptându-șĭ ora esecuțiuniĭ. Cu tóte acestea o deschiseiŭ și abia putuiŭ sĕ citescŭ cele dintêiŭ treĭ cuvinte:</p>
+<p>«Omorîtorŭ! Omorîtorŭ! Omorîtorŭ!»</p>
+<p>Apoĭ căᶁuĭ fără simțire. Cândŭ m’amŭ deșteptatŭ amŭ găsitŭ pe Princesa lângă căpătêiulŭ meŭ; însĕ, în locŭ sĕ fie compătimitóre, suferindă de posițiunea mea, ea era din contra posomorâtă, plină de mâniă până în fundulŭ ochilorŭ. Ținea scrisórea în mână. Ea o citise. Eŭ însĕ n’amŭ cititu-o de-câtŭ peste unŭ anŭ, cândŭ aveamŭ trebuință de ceva prin care se potŭ uita unŭ demonŭ și sĕ mĕ închinŭ unuĭ ângerŭ care a sburatŭ în cerurĭ.</p>
+<p>Copiezŭ aci acea scrisóre ca istoria sĕ-șĭ urmeze cursulŭ eĭ.</p>
+         <quote type="letter">
+<p>«Fiulŭ meŭ,</p>
+<p>«Omorîtorŭ! omorîtorŭ! omorîtorŭ! Acesta este epitetulŭ ce ți se cuvine cu dreptŭ cuvêntŭ! Ițĭ scriŭ cu ea mórtă dinaintea mea de o oră. Nu te blestemŭ, căcĭ și ea te-a ertatŭ. Ș’apoĭ mama nu trebue sĕ-șĭ blesteme copilulŭ chiarŭ cândŭ a făcutŭ o crimă în contra eĭ; trebue se caute se-lŭ scótă din rătăcire și se-lŭ aducă pe calea adevĕruluĭ.</p>
+<p>«Cred că trebue sĕ-țĭ scriŭ prin câte peripețiĭ a trecutŭ bóla sermaneĭ fete, de atuncĭ de cândŭ ’țĭ-amŭ trimisŭ întêia scrisóre. Mĕ înfiorezŭ gândindu-mĕ numaĭ! N’a avutŭ o ᶁi veselă, o ᶁi fericită. Bóla mergea fórte încetŭ, ce e dreptŭ; dérŭ avea momente care făceaŭ câtŭ ᶁece anĭ de bólă. Nu sciamŭ că era espusă și la alte pericole.</p>
+<p>«Mĕ duceamŭ fórte desŭ s’o vĕᶁŭ; pociŭ ᶁice de douĕ orĭ pe ᶁi. De vr’o câte-va ᶁile însĕ, începuse sĕ se simță maĭ bine, maĭ puternică, maĭ veselă. Se vede că era aproprierea criseĭ celeĭ marĭ. Alerga pe câmpurĭ, se așeᶁa pe la umbra unorŭ arborĭ vechĭ unde a’țĭ stătŭ împreună, dupe cumŭ îmĭ spunea ea; aduna florĭ, le făcea buchete și le punea la rădăcina acelorŭ arborĭ. Citea totŭ d’a-una pe o carte numită Noua Eloisă și pe alta numită Werter. Aceste cărțĭ nu le lăsa nicĭ o détă. Dormia chiarŭ cu ele la căpĕtêiŭ. Cu tóte acestea de atuncĭ părea maĭ schimbată; avea o privire de și maĭ veselă, dérŭ puținŭ maĭ râtăcită; unŭ surîsŭ care te înghiăța; unŭ umbletu ca acela alŭ lebedeĭ cândŭ este în ajunulŭ de a scóte cea dintêiŭ cântare, care prevestesce mórtea sea; se îmlădia ca trestia care este în ajunulŭ de a fi frîntă de o furtună. Plîngea câte-o détă, dérŭ plîngea surîᶁêndŭ!</p>
+<p>«Alaltă-ierĭ séră m’amŭ dusŭ s’o vĕᶁŭ, cu tóte că o vĕᶁusemŭ și ᶁiua. Mare Dumneᶁeŭ! ce schimbare în câte-va ore! Privirea, care maĭ de diminéță îĭ era veselă, acumŭ îĭ era turburată și posomorîtă. Era culcată în patŭ și ținea într’o mână pe Werler, fără a ceti. Mumă-sea sta în genuchĭ la capulŭ eĭ și-ĭ observa tóte mișcările.</p>
+<p>«— Ce aĭ, Eleonoro, îĭ ᶁiseiŭ eŭ? ce simțĭ?</p>
+<p>«Ea se uĭtă la mine lungŭ, apoĭ întórse capulŭ spre perete, fără a’mĭ respunde nimicŭ. O apucaĭ de mână, era uscată și ardea. Resuflarea eĭ cea tare semăna penibile, îngreuiată.</p>
+<p>«— A trimisŭ cine-va la doctorŭ în Bucurescĭ? întrebaiŭ pe mumă-sea.</p>
+<p>«— Vaĭ! nu, prietina mea, îmĭ respunse ea, cu lacremile în ochĭ și sculându-se de josŭ. Crisa a fostŭ așia de repede, în câtŭ nu ne-a datŭ timpŭ sĕ ne maĭ gândimŭ de câtŭ cumŭ sĕ-ĭ dămŭ ajutorulŭ momentanŭ, Bărbatulŭ meŭ șeᶁu până acumŭ aci; dérŭ, ne maĭ putêndŭ răbda privirea eĭ, s’a retrasŭ în camera luĭ într’o posițiune de plînsŭ.</p>
+<p>«— Și de ce nu vorbesce când o întrebĭ câte ceva?</p>
+<p>«— Nu veᶁĭ că numaĭ cunósce? Este nebună.</p>
+<p>«— Nebună! strigaiŭ eŭ, simțindu-mĭ puterile slăbindŭ și corpulŭ tremurîndŭ, coprinsă ca de unŭ fiorŭ mortalŭ.</p> 
+<p>«— Nebună, repeta ea, frîngêndu-șĭ mâinele de disperare.</p> 
+<p>«Plînsetele eĭ deveniseră convulsive. Apoĭ încetară de o dată; îĭ stătură lacremile; i se îndoui corpulŭ și fu îndată prada unuĭ atacŭ de nerve spăimântătorŭ.</p>
+<p>«Chemaiŭ femeia din casă, îĭ dedeiŭ ajutorulŭ necesarŭ spre a o transporta în camera eĭ și eu remăseiŭ cu Eleonora până la ᶁiuă. Maĭ tótă nóptea vorbea nisce cuvinte neînțelese. Din cândŭ în cândŭ auᶁeamŭ pronunțândŭ numele tĕŭ.</p>
+<p>«—Elu va veni, ᶁicea ea. Voiŭ merge cu elŭ la biserica din satŭ și acolo... și acolo...</p>
+<p>«Nu maĭ auᶁémŭ, séŭ maĭ bine nu maĭ înțelegeamŭ finalulŭ. Apoĭ începea sĕ cânte unŭ felŭ de baladă, ale căreĭ cuvinte le pronunța fórte bine:</p>
+           <quote type="verse">
+<l>Intr’o verde grădiniță</l>
+<l>Sta o jună copiliță</l>
+<l>Floricele adunândŭ</l>
+<l>Și dulcĭ lacrime vĕrsândŭ.</l>
+<l>Unŭ băiatŭ atuncĭ trecea</l>
+<l>Și copileĭ îĭ ᶁicea:</l>
+           
+<l>— Spune’mĭ mie, îngerașŭ,</l>
+<l>Frumușelŭ și drăgălașŭ,</l>
+<l>De ce plângĭ? de ce suspinĭ?</l>
+<l>De ce fruntea ta înclinĭ?</l>
+<l>Plânsulŭ ție nu-țĭ e datŭ,</l> 
+<l>Mândră fată de ’mpăratŭ!</l>
+           
+<l>Plânsulŭ este datŭ la stele,</l> 
+<l>Ca sĕ ude floricele,</l> 
+<l>Se răsară și sĕ créscă,</l> 
+<l>Și pe sînu-țĭ sĕ ’nfloréscă,</l> 
+<l>Ca pe ele-unŭ fluturelŭ</l> 
+<l>Sĕ se jóce singurelŭ..</l>
+           
+<l>Fluturelulŭ s’a jucatŭ</l> 
+<l>Și în urmă a sburatŭ!!</l>
+           </quote>
+<p>«Dupe terminarea cânteculuĭ îșĭ puse mâinile la ochĭ, părêndŭ că voia sĕ nu întêlnéscă privirile unorŭ vedeniĭ.</p>
+<p>«Despre ᶁiuă adormi puținŭ și, cândŭ se desteptă, era maĭ liniscită; însĕ totŭ nu mĕ cunoscea; era totŭ în acea stare de nesimțire!</p>
+<p>«Trimiseiŭ la doctorŭ. Elŭ veni tocmaĭ peste ᶁi. Pe mamă n’o maĭ lăsaiŭ se vie s’o véᶁă de câtŭ maĭ pe séră. Dupe ce doctorulŭ îĭ dete câte-va lingurĭ de unŭ medicamentŭ fórte tare, în câtŭ făcu o sguduire în totŭ interiorulŭ seŭ, peste vre-o douĕ ore se maĭ linisci. Doctorulŭ plecândŭ, vĕᶁŭ și pe mamă, o cercetă și găsi că nu este nimicŭ gravŭ; ba chiarŭ îĭ dete voiă sĕ șéᶁă lângă fică-sea, maĭ cu sémă că spera aĭ aduce o mare schimbare medicamentele séle.</p>
+<p>— Este concentrarea de sânge, ᶁicea elŭ. Indată ce elŭ va începe se circule în regulă, fata se va face bine; căcĭ bóla nu este așa gravă, pe câtŭ s’a aretatŭ pe la începutŭ.</p>
+<p>«Intr’adevĕrŭ, îndată ce a înseratŭ, s’a și făcutŭ o mare schimbare. A începutŭ se vorbéscă maĭ regulatŭ. A chematŭ pe mumă-sea s’o sărute. Mie ’mĭ a întinsŭ mâna surîᶁêndu-mĭ.</p>
+<p>«— Ce vise frumóse amŭ avutŭ în somnulŭ meŭ, ᶁicea ea! Amŭ avutŭ și unulŭ urîtŭ, dérŭ acela a trecutŭ lesne.</p>
+<p>«— Și care este acela urîtulŭ, fata mea?</p>
+<p>«— Se făcea că eramŭ p’o stîncă de piatră și unŭ vulturŭ, repeᶁindu-se asupra mea, cu cioculŭ seŭ ascuțitŭ, ’mĭ a smulsŭ inima. Pipăindu-mĕ însĕ, ndată dupe ce m’amŭ deșteptatŭ, și vĕᶁêndu-mĭ inima la locŭ, spaima a trecutŭ!</p>
+<p>— Acestea suntŭ vise de nópte!</p>
+<p>«— Vise! Dérŭ așŭ fi voitŭ ca unele din ele se fie realitățĭ, adaose ea, uitându-se lungŭ la mine.</p>
+<p>«Nu sciamŭ ce voesce se înțelégă; dérŭ eramŭ sicură că eștĭ tu la miᶁĭlocŭ.</p>
+<p>«Se înoptase bine. Suntŭ câte-va ore de atuncĭ. Mumă-sea mĕ rugă se mĕ întorcŭ acasă ca sĕ mĕ odihnescŭ, căcĭ astă nópte nu maĭ are nevoiă de mine și că póte veghia ea. Vĕᶁêndŭ că nu maĭ este pericolŭ, m’amŭ întorsŭ indată acasă. Eraŭ ᶁece ore din nópte și o lună frumósă se plimba pe nemărginitulŭ albastru alŭ ceruluĭ. Cum ajunseiŭ acasă, căᶁuiŭ în patŭ, doborîtă de ostenélă și nesomnŭ. Peste treĭ ore însĕ auᶁiiŭ pe cine-va bătêndŭ la ușiă cu furiă. Tatălŭ teŭ se sculă și deschise. Era sermana mumă, cu pĕrulŭ despletitŭ, cu piciórele unulŭ golŭ și altulŭ în pantofŭ, disperată.</p>
+<p>«— Unde’mĭ este fiica mea? strigă ea, căᶁêndŭ p’aicĭ?</p>
+<p>«— Ce felŭ? Nu este acasă? o întrebaiŭ mirată!</p>
+<p>«—Nu!</p>
+<p>«Și fiă care cuvĕntŭ îlŭ spunea tremurândŭ.</p>
+<p>«— Nu, adause plîngêndŭ. Unŭ momentŭ amŭ părăsitu-o ca sĕ mĕ ducŭ sĕ’ĭ fierbŭ doctoriele; căcĭ nu voiamŭ sĕ maĭ neodihnescŭ pe biata femeiă din casă, care a suferitŭ, sărmana, destule nopțĭ de nesomnŭ; dérŭ cândŭ m’amŭ întorsŭ, ea nu maĭ era în patŭ, puiulŭ sburase din cuibulŭ seŭ. Unde se fiă? Dumneᶁeulŭ meŭ, unde se fiă? strigă biata mamă, ca eșită din mințĭ.</p>
+<p>Imĭ luaiŭ o haină maĭ grósă, și eșirămŭ se o căutămŭ. Visitarămŭ tóte locurile pe unde sciamŭ că se ducea ea singură; dérŭ nimicŭ! Ne întórserămŭ acasă, se vedemŭ décă nu s’o fi întorsŭ. Totŭ nimicŭ. Căutaiŭ prin curte se vĕᶁŭ décă nu voiŭ găsi ceva dupe care sĕ mĕ orientezŭ. O! teribilŭ! teribilŭ! Tocmaĭ lângă puțulŭ din curte, la lumina luneĭ, vĕᶁuiŭ o panglică. Era panglica albastră care-ĭ ținea pĕrulŭ. O luaiŭ repede fără sĕ véᶁă mumă-sea. Cu tóte acestea nu’ĭ scăpă din vedere. Alergă la mine, ’mĭ-o luă din mână și strigă, arĕtândŭ la puțŭ:</p>
+<p>«— Trebue sĕ fie aicĭ! trebue sĕ fie aicĭ!</p>
+<p>«Acéstă ideiă îmĭ venise și mie. Strigaiŭ, și tatălŭ, sluga, femeia și duoĭ lucrătorĭ carĭ eraŭ în curte alergară. Cândŭ ne uitarămŭ, ceva albŭ plutea ca o lebădă pe unŭ lacŭ în fundulŭ celŭ adâncŭ alŭ puțuluĭ. Părințiĭ, la acestŭ spectacolŭ căᶁură unulă în brațele altuia, și póte că ară fi căzută josu decă nu le damă ajutorulŭ necesariŭ și nu-ĭ transportamŭ în camera lorŭ. Apoĭ amŭ pusŭ de a scosŭ pe sărmana fată din puțŭ.</p>
+<p>«Mâine se va îngropa, sub stejarulŭ celŭ mare din vale, dupe dorința eĭ, găsită scrisă pe una din cele douĕ cărțĭ.</p>
+<p>«Vin’o măcarŭ astă dată se-țĭ veᶁĭ victima, ducându-o la mormêntŭ.</p>
+<p>CATERINA</p>
+         </quote>
+<p>Acesta e sfîrșitulŭ ce avu amorulŭ sărmaneĭ fete</p>
+<p>— Te veĭ duce? mĕ întrebă Princesa, aretându-mĭ scrisórea.</p>
+<p>— Mĕ voiŭ duce, îĭ respunseiŭ. Datoria mĕ chiamă.</p>
+<p>— Datoria, adause ea cu unŭ rîsŭ ironicŭ: datorŭ d’a vedea o mórtă! Morțiĭ se ’ngrópă.</p>
+<p>— Dérŭ mumă-mea, tatălŭ meŭ?</p>
+<p>— Eĭ aŭ făcutŭ și vorŭ face maĭ multŭ de câtŭ tine. De se facĭ acolo? Se plângĭ? se te vaețĭ? Acésta e comunŭ. Se rîᶁĭ? Acésta arŭ fi o insultă adusă mórteĭ. Nu creᶁŭ că veĭ face nimicŭ din tóte acestea. Veĭ ședea acasă, și d’acolo póte veĭ suferi o durere óre-care. Acésta poțĭ s’o facĭ și aicĭ, maĭ cu sémă că aicĭ mĕ aĭ pe mine care te iubescŭ și te voiŭ consola.</p>
+<p>— Dérŭ amorulŭ mumeĭ, nu consolŭ elŭ óre?</p>
+<p>— Da; însĕ nu ca alŭ uneĭ amante.</p>
+<p>— In fine, orĭ ce va fi, adăogaiŭ eŭ, dupe câteva momente de gândire, trebue sĕ mĕ ducŭ, și mĕ voiŭ duce.</p>
+<p>— Te veĭ duce, adaose ea, cu întristare! Te veĭ duce și mĕ veĭ părăsi?</p> 
+<p>— Nicĭ de cumŭ, iubita mea; mĕ voiŭ întórce peste câte-va ᶁile.</p>
+<p>— Ascultă, urmă ea, luându-mĭ mâinile într’ale séle. Mĕ iubescĭ tu unŭ sfertŭ dupe cumŭ te ubescŭ eŭ?</p>
+<p>— D’o sută de orĭ maĭ multŭ! strigaiŭ eŭ. Tu sciĭ acésta.</p>
+<p>— Eĭ bine, adaose ea, cu lacremele în ochĭ, rămâĭ astă-ᶁĭ, te rogŭ. Peste patru ᶁile vomŭ merge împreumă la Bucurescĭ, și d’acolo veĭ merge și’țĭ veĭ vedea familia. Ce felŭ? Creᶁĭ tu că eŭ nu compătimescŭ îndestulŭ la întristarea ta? Așŭ fi o ingrată, o femeiă fără inimă, cândŭ așŭ sta indiferință la o lovitură așa de gravă!</p>
+<p>De și aceste cuvinte conținéŭ o ironiă destulŭ de fină, totușĭ nu o băgaiŭ de sémă în preocuparea și întristarea mea.</p>
+<p>— Rămâĭ, — îmĭ ᶁise cu vocea cea maĭ dulce din lume, puindŭ amândouĕ mâinile dupe gâtulŭ meŭ și privindu-mĕ în faciă cu ochiĭ seĭ frumoșĭ, strălucitorĭ de flăcărĭ și de lacremĭ. —Rămâĭ. Décă veĭ face și acestŭ sacrificiŭ pentru mine, se sciĭ că îțĭ voiŭ fi recunoscĕtorŭ tótă viața. De la atitudinea ta depandă se întărimŭ pentru totŭ déuna lanțul ce ne légă aᶁĭ séŭ sĕ’lŭ slăbimŭ, sĕ’lŭ dĕșirămŭ. Tu estĭ bunŭ însĕ, eștĭ generosŭ, aĭ inimă și prin urmare nu mĕ veĭ facese suferŭ, de óre ce poseᶁĭ aceste cualitățĭ și de óre ce mĕ iubescĭ, căcĭ mĕ iubescĭ încă, nu este așa?</p>
+<p>Acéstă rugăciune o făcu cu utâta graciă perfidă în câtŭ consimțiiŭ și rĕmăseiŭ.</p>
+<p>A doua-ᶁi de diminéță, cândŭ veni timpulŭ dejunuluĭ, mĕ coborâiŭ în sala de mâncare. Așteptaiŭ pe Princesa sĕ viŭ, dérŭ nu veni. Intrebaiŭ și mi se spuse că a plecatŭ de diminéță la Bucurescĭ.</p>
+<p>Plecase fără sĕ-mĭ spue nimicŭ, și maĭ cu sémă dupe convorbirea ce avusesemŭ în ajunŭ! Acésta era o trădare; era fapta uneĭ femeĭ miserabile.</p>
+<p>Luaiŭ o trăsură și porniiŭ la Bucurescĭ. Mĕ duseiŭ la dênsa, nu mĕ priimi. A doua-ᶁi mĕ priimi când îmĭ spuse că nisce afacerĭ d’o mare importanță o făcuse sĕ plece de diminéță, și, fiindŭ că eu dormémŭ, nu voise sĕ mĕ deștepte.</p>
+<p>De atuncĭ începu sĕ mĕ priméscă maĭ rece, apoĭ maĭ rarŭ, până ajunse acolo unde se sciă.</p>
+       </div></div>
+      <div type="group" n="3"> 
+<head>PARTEA A TREIA</head>
+<head>LUCRURILE RELE SE TERMINĂ PRIN REŬ</head>
+        <div type="chapter" n="1">
+<head>I.</head>
+<p>Era destulŭ sĕ se arunce o mână de pămêntŭ peste corpulŭ rece alŭ luĭ Scarlat, ca Princesa, ne maĭ avêndu’lŭ nicĭ în faciă, nicĭ în memoriă, se arunce și ea vĕlulŭ uĭtăreĭ peste amorulŭ seŭ cu oficerulŭ.</p> 
+<p>Valetulŭ de trefŭ numaĭ era amantulŭ acesteĭ femeĭ, chiarŭ în ajunulŭ anuluĭ următorŭ. Cum însĕ ea nu putea trăi fără amorŭ, séŭ maĭ bine cum ᶁicŭ femeiele de bulevardŭ, fără amusamentŭ îșĭ luase unŭ altŭ obiectŭ alŭ petrecerilorŭ séle de carnavalŭ.</p>
+<p>Dérŭ acestŭ obiectŭ ’ĭ a fostŭ fatalŭ!</p>
+<p>Noulŭ amantŭ alŭ Margareteĭ era unŭ tênărŭ proprietarŭ, cu destulă stare, cu destulŭ amorŭ propriŭ și cu unŭ caracterŭ violentŭ peste măsură. Elŭ îșĭ terminase studiile de dreptŭ în Paris, dérŭ nu-șĭ făcuse o profesiune din acea ce învĕțase. Pleda câte-o détă pentru unŭ amicŭ, în procese politice; maĭ desŭ însĕ pleda pentru săracĭ. Elŭ avea destulă stare cu care sĕ trăiască și nu făcea ca aceia carĭ, de și aŭ destulŭ, totŭ caută se strîngă necontenitŭ pentru eĭ, fără sĕ se gândéscă la miseria celorŭ l’alțĭ, fără sĕ se convingă că datoria unuĭ omŭ în societate este de a fi folositorŭ concetățenilorŭ seĭ.</p>
+<p>Avea tóte calitățile unuĭ omŭ de inimă: bunŭ, milosŭ în câtŭ arŭ fi fostŭ în stare se’șĭ dea cea din urmă para pentru unŭ omŭ în miseriă; dérŭ avea și unŭ defectŭ: contradicțiunea.</p>
+<p>Era destulŭ se-ĭ vorbescĭ reŭ de unŭ omŭ, ca elŭ se prindă simpatiă de acela. Nu trebuia de câtŭ sĕ se spue de o femeiă că e infidelă, că e fără inimă și fără caracterŭ, pentru ca acea femeiă se devie amanta luĭ.</p>
+<p>Tocmaĭ acestŭ defectŭ l’a apropiatŭ de Princesa.</p>
+<p>Curândŭ dupe mórtea luĭ Scarlat elŭ se afla la mine cu maĭ mulțĭ amicĭ. Se deschise vorba tocmaĭ despre nenorocitulŭ amorŭ alŭ luĭ Scarlat pentru Princesa și de purtarea aceștia către omulŭ care a iubitu-o atâta și care ș’a sacrificatŭ viața pentru dênsa.</p>
+<p>Toțĭ o sfâșiaŭ, toțĭ îĭ daŭ calificativele cele maĭ grozave. Unulŭ din ceĭ de faciă chiarŭ luă manuscriptulŭ luĭ Scarlat și ceru voie celorŭ l’alțĭ a’lŭ ceti. Dupe ce se termină cetirea, toțĭ eraŭ și maĭ indignațĭ, vĕᶁêndŭ câtă inimă avea acelŭ nenorocitŭ poetŭ și câtă indiferință se găsea în acelŭ coprŭ de femeiă fără inimă. Numaĭ Manoilŭ — așa sĕ numea amiculŭ nostru;— numaĭ elŭ nu ᶁicea nimicŭ; părea că cugetă la ceva seriosŭ.</p> 
+<p>— La ce te gândeștĭ tu, Manoilŭ? îlŭ întrebă unulŭ dintre ceĭ presințĭ.</p>
+<p>— Mĕ gândescu că voiŭ facețĭ pe draculŭ negru ca tăciunie, pe câdŭ elŭ nu este tocmaĭ așa, dupe cum ne spune Millton.</p>
+<p>— Cumŭ? —Ilŭ întrebaiŭ eŭ.— Creᶁĭ tu că este ceva esageratŭ în cele spuse despre Princesa? Din contra, acea ce se ᶁice despre dênsa este fórte puținŭ în comparațiune cu adevĕrulŭ. Suntŭ lucrurĭ carĭ nu se potŭ spune, fără a face se roșiască pe acela care le ᶁice.</p>
+<p>— Tocmaĭ pentru că voĭ avețĭ acéstă opiniune de Princesa eŭ amŭ se-ĭ facŭ curte. Suntŭ curiosă se vedemŭ décă se va purta și cu mine ca cu amiculŭ nostru Scarlat! Chiarŭ décă arŭ avea aceiașĭ purtare, totușĭ eŭ nu voiŭ muri ca dênsulŭ de amorŭ. Prin urmare, încercândŭ, nu voiŭ perde nimicŭ.</p>
+<p>— Câtŭ de multŭ te înșelĭ, amiculŭ meŭ, îĭ ᶁiseĭ. Acéstă femeiă are o manieră a eĭ proprie prin care légă pe bărbațĭ de dênsa cu unŭ lanțŭ pe care nu ’lŭ póte rupe de câtŭ mórtea unuia din douĭ. Este atâta de abilă, în câtŭ totŭ déuna ea este care triumfă până în fine.</p>
+<p>— Fia. Voiŭ merge până la estremitate. Te potŭ asicura însĕ că acela care va cădea, în acéstă luptă ce începŭ, nu voiŭ fi eŭ.</p>
+<p>— O! Câtŭ despre acésta nu mĕ îndoiescŭ! Dérŭ trebue se sciĭ că viața, dupe cum a ᶁisŭ unŭ mare romanțierŭ, este unŭ concertŭ în care și ceĭ bunĭ musicanțĭ ca și ceĭ rĕĭ suntŭ pe acelașŭ piciorŭ în orchestă, subt direcțiunea șefuluĭ. Asemenea și cu femeia. In facia eĭ toțĭ ómeniĭ aŭ aceiașĭ valóre și se pórtă cu toțĭ dupe notele ce are înainte.</p>
+<p>— Creᶁŭ că nicĭ eŭ, nicĭ Dumnéta, nicĭ alțiĭ nu cunoscŭ pe femeiă într’unŭ chipŭ absolutŭ, îmĭ ᶁise elŭ zîmbindŭ. Care e acela ce póte pretinde că cunósce pe femeiă în tóte amănuntele? Cu tóte acestea, precum îmĭ spuĭ că Princesa are maniera eĭ de a lega pe cine-va la carulŭ seŭ triumfătorŭ, amŭ și eŭ manierele mele dea opri carulŭ în locŭ!</p>
+<p>— Nu te prinde nu te juca cu foculŭ! Veᶁŭ că ’țĭ a intratŭ în capŭ se deviĭ amantulŭ Princeseĭ; nu potŭ se te opresceŭ. Dérŭ aduțĭ aminte totŭ-dé-una de acea ce’țĭ ᶁicŭ: nu perde din vedere esemplele recente carĭ suntŭ pline de învĕțăminte.</p>
+<p>— Sciĭ că maĭ mulțĭ fluturĭ perŭ unulŭ dupe altulŭ în flăcărĭ, mergêndŭ se ia focŭ de la lumânare; dérŭ din toțĭ, până în fine, sĕ găsesce unulŭ care stinge lumânarea!</p>
+<p>— Se dea dumnedeŭ se fiĭ tu fluturile celŭ din urmă!</p>
+<p>Toțĭ prietiniĭ ceĭ l’alțĭ privéŭ pe Manoilŭ cu milă. Eĭ îlŭ crdéŭ deja ca și perdutŭ, căcĭ cunoscéŭ caracterulŭ Princeseĭ. Despre resistența eĭ, nu era nicĭ o bănuială. Unŭ băiatŭ ca Manoilŭ era o achisițiune escelentă pentru dênsa. Pe urmă Manoilŭ, pe lângă frumusețiă și tinerețe, avea stare care, de și nu servesce totŭ déuna a cumpăra o femeiă, dérŭ ajută fórte multŭ în cale până se ajungĭ la orĭ care.</p>
+<p>Manoilŭ, ce e dreptŭ, nu prea avusese relațiunĭ multe cu femeiele. Una singură era cunoscută publicŭ cu care trăise maĭ mulțĭ anĭ, cu care călătorise prin Europa, cu care trecuse nopțĭ frumóse pe undele laculuĭ Majore și Lemane, la lumina luneĭ, și cu care admirase frumósele grădinĭ și ruinĭ carĭ înconjóră Neapole. Dérŭ de acéstă femeiă nu l’a despărțitŭ nicĭ unŭ altŭ amorŭ, nicĭ certurile carĭ suntŭ propriĭ între amanțĭ, ci mâna misteriósă a destinuluĭ, mórtea.</p>
+<p>Ea a muritŭ iubindŭ pe Manoilŭ și fiindŭ iubită de dênsulŭ.</p>
+<p>Pe câtŭ Alesandru, fratele Princeseĭ, era scepticŭ, pe atâtŭ Manoilŭ era omŭ alŭ inspirațiuniĭ, alŭ imaginațiuniĭ. Avea inimă care bătea la orĭ ce sentimentŭ mare, la orĭ ce ideiă generósă. L’amŭ vĕᶁutŭ adesea posomorîndŭ sprîncenele la comiterea uneĭ crime cetită într’unŭ romanŭ, la facerea uneĭ intrige infame spre a specula séŭ deposeda pe unŭ omŭ de amorŭ orĭ de banĭ precumŭ și pe o femeiă. L’amŭ vĕᶁutŭ însĕ plîngândŭ cu lacremĭ șiróie, cu sughițurĭ chiarŭ, la cetirea uneĭ fapte generóse, uneĭ abnegațiunĭ sublime.</p>
+<p>Simțea emoțiunĭ de o dulciață neesprimabilă, cândŭ făcea vre unŭ bine pe subtŭ ascnnsŭ, de care nu avea se roșiască.</p>
+<p>Ș’apoĭ, acea ce nu se întêmplă sufleteloŭ celorŭ rele, celorŭ stricate, îĭ plăcea se contêmple natura în tótă magnificiența eĭ. Vederea uneĭ strălucite rpunerĭ de sóre îĭ causa o bucuriă copilăréscă. Era fericitŭ cândŭ găsea, într’o carte, mângâitórea pictură a unuĭ simțimântŭ generosŭ și bunŭ; profunda simpatiă ce făcea se vibrese cu plăcere în elŭ acéstă cetire, dovedea că nu suntŭ rupte tóte córdele cele nobile a le inimeĭ séle.</p>
+<p>Pe câtŭ iubea cu pasiune pe Lamartine, Thomas Moore, Petrarca, Bolintménu și Alexandri, aceștĭ marĭ bine făcĕtorĭ ai cugetăriĭ suferinde alŭ cărorŭ geniu îțĭ lasă, cum ᶁice Eugenia Sue — totŭ dé-una gura atâtŭ de fragetă și atâtŭ de suavă, pe atâtŭ fugea de Byron, Alfred de Musset și aceĭ poetașĭ de pe la noĭ, imitatorĭ aĭ acestora, alŭ cărorŭ scepticismŭ sterpŭ și sfășiitorŭ nu’țĭ lasă pe buze de câtŭ amărăciune.</p>
+<p>Ințelegea așa de bine tóte miseriile, tóte nenorocirile în câtŭ adesea împingea delicateța și temerea d’a nu atinge durerea celorŭ ce suferă până la cele maĭ esagerate amănunte. Cerca fără cuvêntŭ o întristare sfășiitóre; câte-o dată simțea o mare trebuință de a iubi și a’șĭ depune unde-va totŭ devotamentulŭ. Cea dintêiŭ pornire a sea era totŭ-dé-una naivă, sinceră și bună. O singură refiecțiune venea, dupe cum amŭ maĭ ᶁisŭ, ca se turbure aceste nobile calitățĭ: contraᶁicerea! Din acestŭ punct de vedere, era într’ênsulŭ o luptă neîncetată între aceste simțimênte și între omenire! Simtimêntele inimeĭ îĭ ᶁiceaŭ: fă totŭ cea ce’țĭ ᶁice lumea, érŭ capulŭ îĭ ᶁicea: fă din contra.</p>
+<p>Simțimêntele cele nobile și frumóse le avea de la marnă, érŭ încĕpêțânarea de la tată.</p>
+<p>Orĭ de câte orĭ a ascultatŭ numaĭ capulŭ, a fostŭ înșelatŭ, precum s’a întêmplatŭ și cu Princesa.</p>
+        </div>
+          <div type="chapter" n="2">
+<head>II.</head>
+<p>Nu vomŭ spune aci miᶁĭlócele prin care Manoilŭ a pututŭ ajunge sĕ se facă amantulŭ Princeseĭ. Aceste miᶁĭlóce suntŭ cunoscute, și numaĭ este trebuință a le repeta, căcĭ arŭ fi greŭ pentru noĭ se repetămŭ lucrurĭ neplăcute nouă.</p> 
+<p>Vomŭ spune numaĭ atâta că, dupe desfacerea cu oficerulŭ, nu a trecutŭ multŭ timpŭ ca Manoilŭ se-ĭ ia loculŭ.</p>
+<p>Cele dintêiŭ douĕ lunĭ de érnă, tótă primăvéra și cea dintêiŭ lună de véră, aceștĭ douĭ amanțĭ trăiră astŭ-felŭ cum scia Princesa sĕ trăéscă în primele lunĭ ale amoruluĭ eĭ, și Manoilŭ totŭ dé-una. In carnavalŭ mergeaŭ la theatre, la balurĭ, séŭ petrecéŭ acasă la Princesa. Primăvéra și véra pe timpulŭ frumosu se ducéŭ din cândŭ în cândŭ la țéra, unde căutaŭ repausulŭ contra oboselelorŭ produse de eticheta capitaleĭ.</p>
+<p>Intr’o ᶁi, aflându-se împreună la țéră la moșia Princeseĭ, ea apucă de mână pe Manoilŭ și, privindulŭ cu o căutătură pasionată, îĭ ᶁise:</p>
+<p>— Sciĭ tu, amiculŭ meŭ, că trebue se plecŭ în Francia ca sĕ’mĭ ducŭ copilulŭ în scólele din Paris? Nu e așa că mĕ veĭ însoți și tu?</p>
+<p>Acéstă nuvelă și acéstă propunere fuse pentru Manoilŭ o surprindere! De cândŭ se cunosceaŭ nu-ĭ spusese nicĭ o dată că voesce se-șĭ ducă copilulŭ în streinătate. Cum îĭ veni acéstă ideiă tocmaĭ acum, cândŭ scia că Manoilŭ, din causa neplățiĭ arendașuluĭ, cauta singurŭ moșia sea și era tocmaĭ timpulŭ cosituluĭ, adunatuluĭ și apoĭ alŭ aratuluĭ de tómnă!</p>
+<p>Unu felŭ de bănuialŭ trecu prin mintea amiculuĭ nostru!</p>
+<p>— Nu’mĭ spusese-șĭ nicĭ o dată acéstă decisiune a ta,—îĭ dise elŭ.—Cum ’țĭ a venitŭ tocmaĭ acum, cândŭ sciĭ că suntŭ fórte ocupatŭ? Lasă se trécă aceste treĭ lunĭ, cândŭ munca câmpuluĭ cere presința mea la moșiă, și apoĭ te voiŭ urma chiarŭ la marginile lumeĭ!</p>
+<p>— Nu se póte, amicumŭ meŭ. Tu sciĭ că eŭ țiu fórte multŭ la tine, dérŭ trebue se îngrijescŭ și de copilulŭ meŭ. Apoĭ sănătatea mea este cam sdruncinată și trebue se mĕ ducă la băĭ. Prin urmare, voiŭ face o cură la Ems, unde ’mĭ a recomandatŭ mediculŭ meŭ, și de acolo voiŭ trece la Paris unde voiŭ ședea atâta câtŭ îmĭ trebue se instalesŭ pe Iorgușoșŭ, (așa se numea copilulŭ). Décă estĭ ocupatŭ, décă nu poțĭ veni cu mine, óre n’aĭ încredere se mĕ veᶁĭ plecândŭ singură?</p>
+<p>Orĭ din disposițiunea mâhnită a spirituluĭ seŭ, orĭ din grăbirea cu care Princesa voia sĕ se desparță de elŭ, aceste proecte aduseră aminte luĭ Manoilŭ vorbele cele rele ce se ᶁiceaŭ de amanta luĭ, și maĭ cu sémă misteriósele aventurĭ ce se spunéŭ că se petrecŭ totŭ dé-una în viața acesteĭ femeĭ. Pentru prima óră Manoilŭ simți bănuiala, îndouiala și chiarŭ gelosia.</p>
+<p>Amețitŭ de ideia uneĭ fericirĭ ce gustase în timpulŭ câtŭ durase amoruluĭ lorŭ, elŭ nu se maĭ gîndise unŭ momentŭ la trecutŭ. Lângă acésta femeiă plăcută creᶁuse orbesce, acea ce este așa de comodŭ, așa de bunŭ, așa de înțelepțesce de creᶁută, că era singurŭ iubitŭ; creᶁuse orbesce în nobila închipuire ce’șĭ făcuse despre dênsa; uitase totŭ ce se ᶁisese și totŭ ce cetise despre dênsa în manuscriptulŭ luĭ Scarlat și în cea ce-ĭ ᶁisesemŭ noĭ.</p>
+<p>Acum tóte aceste sarcasme ale nóstre, tóte acele cuvinte asicurătóre, tóte acele vorbe îĭ veneaŭ cu sgomotŭ în minte și îĭ clătinaŭ credința așa de tare clădită la începutŭ.</p>
+<p>Elŭ rĕmase pentru unŭ momentŭ mutŭ în facea proectelorŭ Princeseĭ. Nu scia ce se-ĭ ᶁică se nu arĕta nicĭ că o bănuesce, nicĭ că îĭ dă voe sĕ se ducă cu tótă liniccea de spiritŭ.</p>
+<p>Princesa însĕ, care avea destulă intiligență pentru ca se pótă vedea dupĕ figură situațiunea unuĭ omŭ, înțelese óre cumŭ posițiunea amantuluĭ eĭ.</p>
+<p>Ea rupse tăcerea.</p>
+<p>— Nu te teme. Nu voiŭ ședea multŭ în streinătate. În totŭ timpulŭ lipseĭ mele vomŭ comunica împreună. Din tóte orașiele în care voiŭ ajunge, îțĭ voiŭ scrie. De unde voiŭ rămânea maĭ multŭ, de esemplu din Ems și Paris, îțĭ voiŭ scrie celŭ puținŭ de douĕ orĭ pe septămână. Décă are apoĭ cine-va maĭ multă dorință de a nu sta departe, aceia suntŭ eŭ, căcĭ tu sciĭ câtŭ țiŭ la tine, câtŭ te iubescŭ! Voiŭ face tóte miᶁilócele sĕ mĕ întorcŭ câtŭ se póte maĭ curând. Odată întórsă, voiŭ fi numaĭ pentru Dumnéta, numaĭ pentru tine. Din cândŭ în cândŭ te veĭ areta la theatru; în colo veĭ veni în tóte ᶁilele, în tóte serile, în totŭ momentulŭ se petrecĭ lângă amanta ta, lângă acea care te iubesce ca sufletulŭ seŭ, ca viața sea. Ah! dragulŭ meŭ! décă aĭ sci bucuria copilăréscă ce’mĭ facŭ cândŭ gândescŭ la esistența ce’mĭ pregătescŭ pentru noĭ amândouĭ, la misterulŭ ce va înveli amorulŭ nostru, la acele lungĭ preumblărĭ séra resematŭ unulŭ de braciulŭ celuĭ l’altŭ, la acele ore petrecute singurĭ departe de o lume grețósă și gelósă!</p>
+<p>Este câtu-va timpŭ de gândŭ gândescŭ, adaose Princesa, că cine-va póte fi fericitŭ cu viața cea maĭ isolată și cea maĭ cumpătată, și că avemŭ se judicămŭ prin noĭ înșine despre acele esistențe modeste ale cărora condițiunĭ nouă ăstora bogați nicĭ nu ne trece prin gêndŭ.</p>
+<p>Séŭ că Manoilŭ fuse răpitŭ de limbagiulŭ Princeseĭ și de acele promisiunĭ de unŭ viitorŭ fericită, séŭ că delicateția sufletuluĭ seŭ îlŭ făcu se ’șĭ înece în inimă orĭ ce presimțimêntŭ, căcĭ elŭ consimți la pornirea amanteĭ séle, fără măcarŭ a maĭ ᶁice ce unŭ cuvêntŭ prin care se caute a o reține.</p>
+<p>Plecarea se hotărî în cea dintêiŭ Sâmbătă.</p>
+<p>Eĭ veniră la Bucurescĭ. Princesa se pregăti de plecare și într’adĕvărŭ, în ᶁiua otărîtă, trăsura Princeseĭ cu caĭ de poste era pe drumulŭ de la Bucurescĭ la Giurgiu. Neapăratŭ Manoilŭ era cu dênsa ca se o petrécă până se va îmbarca pe vaporŭ.</p>
+<p>Cum se întêmplă în acea ᶁi că vaporulŭ veni tocmaĭ nóptea târᶁiŭ. Până la acea oră, Princesa și cu Manoilŭ nu se maĭ perdéŭ din vedere. Deosebirea era atâtŭ, că pe cândŭ ea era veselă peste măsură, elŭ avea în inimă unŭ felŭ de apăsare grea care îlŭ strivea.</p>
+<p>Ora despărțiriĭ sosi. Princesa recomandă luĭ Manoilŭ păstrarea credințeĭ intacte. Se sărutară, plânseră și, din douĭ care vărsa lacremĭ maĭ multe și maĭ ferbințĭ, era Princesa. Veporulŭ se depărtă de malŭ și batistele fâlfâiră din amândouĕ părțile până nu se se maĭ putură vedea în întunericŭ.</p>
+          </div>
+        <div type="chapter" n="3"> 
+<head>III.</head>
+<p>Ah! iubițĭ lectorĭ, voĭ carĭ ațĭ avutŭ asemenea momente de despărțirĭ cu obiectulŭ iubireĭ vóstre, numaĭ voĭ putețĭ înțelege trista stare morală în care se afla amiculŭ nostru! Voĭ, carĭ v’ațĭ întorsŭ de la Smîrda la Giurgiu singurĭ într’o trăsură, în care cu câte-va ore séŭ minute maĭ nainte duseserățĭ o persónă iubită, scițĭ ce golŭ se face atuncĭ în jurulŭ vostru și în inima vóstră!</p> 
+<p>O greutate apăsa pe sufletulŭ luĭ Manoilŭ. Cândŭ ajunse la otelŭ, în Giurgiu, nu maĭ era în starea sea normală. Mulțime de ideĭ veneaŭ și trecéŭ prin mintea luĭ. Câte-o détă îĭ părea rĕŭ că nu a plecatŭ cu Princesa.</p>
+<p>Dérŭ speranța, acestŭ balsamŭ bine făcĕtorŭ pentru inimile suferinde și nobile, venea îndată și îĭ spunea că obiectulŭ iubireĭ séle se va reînturna. Dérŭ cândŭ? Cândŭ?</p>
+<p>Ce se va face elŭ singurŭ o lună, douĕ, póte chiarŭ treĭ?</p>
+<p>Ea ’ĭ a promisŭ însĕ că-ĭ va scrie. Acéstă ideiă îĭ veni în minte și așteptă. Așteptă treĭ ᶁile, șése, nouĕ, douĕ-spreᶁece, dérŭ nicĭ o scrisóre. Elŭ calcula în fie-care momentŭ, cu guidulŭ în mână, distanța, localitățile. Dupe calcululă seŭ, Princesa ajunsese de douĕ séŭ treĭ ᶁile la Ems, și cu tóte acestea nicĭ măcarŭ douĕ rîndurĭ nu’lŭ anunțaŭ décă ea a ajunsŭ și se află bine.</p>
+<p>Trecură încă atâtea ᶁile, și încă atâtea, și elŭ nu scia nimicŭ despre obiectulŭ amoruluĭ seŭ!</p>
+<p>Atuncĭ îșĭ aduse aminte că ochiĭ carĭ nu se vedŭ se uită.</p>
+<p>Pe la finele luĭ Augustŭ, déră, se decise se părăséscă țéra spre a merge se găséscă pe Princesa</p>
+<p>Secerișulŭ și strânsulŭ eraŭ terminate. Nu maĭ rămăsese de câtŭ aratulŭ de tómnă. Pentru acesta însărcină pe ipistatulŭ seŭ și rugă pe unŭ amicŭ proprietarŭ vecinŭ se observe acea ce se va face.</p>
+<p>In cele dintêiŭ ᶁile ale luniĭ luĭ Septembre stilŭ vechiŭ Manoilŭ intră la mine.</p>
+<p>— Sciĭ — îmĭ ᶁise elŭ, — că mâine plecŭ în streinătate? Suntŭ douĕ lunĭ de cândŭ Margareta a plecatŭ, și cu tóte acestea până aᶁĭ n’amŭ nicĭ douĕ rîndurĭ de la dênsa. Ce creᶁĭ tu de acéstă purtare?</p>
+<p>— Mĕ întrebĭ aᶁĭ pe mine, ce creᶁŭ de acéstă purtare, tu care rîdeaĭ altă détă de consiliele mele? Ce creᶁŭ eŭ? Acea ce amŭ creᶁutŭ totŭ dé-una. Acesteĭ femeĭ a trebuitŭ atâta timpŭ câtŭ sĕ se despartă de tine pentru a găsi unŭ altŭ omŭ cu care se petrécă. Ea nu este femeia amoruluĭ, ci numaĭ a capriciuluĭ, a aventurilorŭ galante.</p>
+<p>Manoilŭ, la aceste cuvinte, îșĭ puse mâna pe frunte, îșĭ așeᶁă cotulŭ pe masă și începu se cugete. Prea târᶁiŭ, dérŭ cugeta!</p>
+<p>Atuncĭ îĭ veni în minte câtŭ de greŭ lucru este ca cine-va se fie încăpĕțênatŭ, se aibă defectulŭ contradicțiuniĭ!</p>
+<p>— Creᶁĭ,—ᶁise elŭ, dupe unŭ momentŭ de cugetare,—creᶁĭ că mĕ voiŭ lăsa eŭ a fi așa lesne jucatŭ de o curtisană? O! nu. Te potŭ asicura despre acésta. Voiŭ merge se o cautŭ până la marginile lumeĭ și, dupe cele ce ’țĭ voiŭ scrie, veĭ vedea décă acéstă femeiă a înșelatŭ unŭ omŭ ca mine fără a fi pedepsită!</p>
+<p>A doua ᶁi plecă.</p>
+<p>Elŭ însĕ nu făcu ca Princesa, se promită că scrie și se nu se ție de vorbă. Nu trecu multe ᶁile, dupe plecarea sea, și scrisorile începură a veni.</p>
+<p>Le damŭ aci astŭ-felŭ cum le-am priimitŭ:</p>
+          <quote type="letter">
+<p>Paris, l1/23 Septembre, 1866.</p>
+<p>Suntŭ patru ᶁile de cândŭ mĕ aflu în Paris. Amŭ cercetatŭ despre Margareta și abia amŭ aflatŭ erĭ că locuesce într’unŭ hotelŭ din Rue Viviene. Alergŭ acolo, însĕ ea plecase. Amŭ cercetatŭ despre faptele séle, câtŭ a locuitŭ acestŭ hotelŭ, și amŭ aflatŭ totulŭ. Fiindŭ că nu maĭ sta acolo ca sĕ se témă de vr’o indiscrețiune, și fiindŭ că amŭ datŭ vr’o 40 francĭ unui garçon, elŭ ’mĭ a spusŭ tóte amănuntele din ᶁilele câte a petrecutŭ Princesa acolo.</p>
+<p>Ți le comunicŭ și ție:</p>
+<p>Cândŭ a sositŭ în Paris, era încocita de unŭ tênărŭ ungurŭ, baronulŭ Keteny. Trecea în ochiĭ lumeĭ d’acolo de femeia acestuĭ ungurŭ, pentru ca sĕ nu fie aflată séŭ cunoscută de compatrioțiĭ și compatriótele séle. Ca se acopere maĭ bine acestŭ misterŭ, în cele dintêiŭ ᶁile ea puse pe fiulŭ seŭ în lyceulŭ Louis le Grand și rămase singură cu amantulŭ seŭ.</p>
+<p>De unde va fi găsitŭ pe acesta tênărŭ, nu sciŭ. Ilŭ va fi luatŭ de la Pesta séŭ l’a aflatŭ la Ems, garçonulŭ n’a sciutŭ se’mĭ spue. Totŭ ce a pututŭ se’mĭ aréte, este că ea eșia cu dênsulŭ în tóte părțile, atâtŭ ᶁiua câtŭ și séra. Acésta a făcutŭ pe câțĭ-va românĭ, șeᶁĕtorĭ și trecĕtorĭ prin capitala Francieĭ, se afla despre esistența eĭ în Paris, și uniĭ se o visitese, cam indiscretŭ este dreptŭ, cea ce o supăra fórte multŭ.</p>
+<p>De la unulŭ din aceștĭ românĭ amŭ aflatŭ eŭ locuința Princeseĭ. Ce folosŭ însĕ, căcĭ sosisemŭ prea târᶁiŭ. Ea plecase cu treĭ ᶁile înainte de sosirea mea în Paris.</p>
+<p>Unde s’o fi dusŭ? Acésta era întrebarea ce’mĭ făcémŭ. Unŭ ᶁiarŭ însĕ veni sĕ’mĭ aréte urma eĭ.</p> 
+<p>Se întêmplase unŭ accidentŭ pe drumulŭ de ferŭ între Paris și Dijon, chiar cu trenulŭ acela care ducea pe Margareta. Ḑiarulŭ de care vorbimŭ areta atâtŭ persónele carĭ s’aŭ rănitŭ câtŭ și acelea carĭ aŭ scăpatŭ neatinse. Intre acestea din urmă se afla și baronulŭ Keteny cu femeia sea.</p>
+<p>Trenulŭ acela mergea la Geneva.</p>
+<p>Mulțumescŭ luĭ Dumneᶁeŭ că a conservatu-o sănătósă pentru răsbunarea mea!</p>
+<p>Erĭ amŭ cetitŭ în ᶁiarulŭ acesta amănunte și astă séră cu trenulŭ de la 8 ore și 40 minute pornescŭ pentru Elveția.</p>
+<p>Veĭ auᶁi de mine încurîndŭ și veĭ fi satisfăcutŭ.</p>
+<p>MANOILU</p>
+          </quote>
+          <quote type="letter">
+<p>Vevey, l3/25 Septembre, 1866.</p>
+<p>Étă-mĕ de erĭ în Vevey. Nu este în Elveția unŭ orașŭ maĭ rîᶁĕtorŭ, maĭ frumosŭ, maĭ admirabilŭ situatŭ ca Veveyulŭ. Așeᶁatŭ pe marginea laculuĭ Leman, în facia nalțilorŭ munțĭ carĭ domină Saint Gigolph și Meillerie de romantică memoriă, elŭ este adăpostitŭ de vêrfurĭ ce se ridicŭ unulŭ peste altulŭ coronațĭ de boschete și carĭ formesŭ între ele vălcele, a cărorŭ răcóre și umbragiŭ facŭ clima dulce și temperată.</p>
+<p>O plimbare încântătóre ce se întinde în aceste vâlcele servă mulțimeĭ călĕtorilorŭ și presintă la fie care pasŭ unŭ aspectŭ noŭ și pespective totŭ déuna frumóse.</p>
+<p>«Eŭ călătorescŭ în acestŭ momentŭ ca o rîndunică,—ᶁise Victor Hugo.—Unde vĕᶁŭ unŭ colțŭ de cerŭ albastru, mĕ oprescŭ. Suntŭ la Vevey, frumosŭ orasŭ albŭ, curatŭ, englesŭ, și umbritŭ de Alpĭ ca de unŭ paravanŭ. Amŭ înaintea mea unŭ cerŭ de vară, sóre, délurĭ carĭ acoperă viele și acelŭ încântătorŭ Leman, închisŭ între munțĭ albĭ de zăpadă ca într’unŭ vasŭ d’argintŭ.»</p>
+<p>Veveyulŭ are treĭ lucrurĭ maĭ cu sémă încăntătóre: proprietatea, clima și biserica sea. Elŭ este, pentru aceste calitățĭ, întâlnirea tutulorŭ streinilorŭ din tótă lumea carĭ visitéză Elveția. Otelele luĭ suntŭ totŭ déuna pline. Aci se întêlnesce chinesulŭ cu australianulŭ, arabulŭ cu rusulŭ și cu danesulŭ. Americanele și englesele suntŭ în abondență. Veᶁĭ câte ᶁece femeĭ de acéstă naționalitate venindŭ cu câte unŭ singurŭ bătrânŭ se petrécă vara și tómna aci, fără bărbațiĭ séŭ frațiĭ lorŭ, căcĭ aceștia, fiindŭ ómenĭ de afacerĭ, interesele lorŭ nu’ĭ lasă se însociască pe femeiele și surorile lorŭ.</p>
+<p>Asemenea se întêmplă și cu rusóicele.</p>
+<p>Mĕ aflu la Grand Hôtel de Vevey.</p>
+<p>Intêiŭ amŭ sositŭ la Geneva. Amŭ cercetatŭ despre Margareta, séŭ maĭ bine despre baronulŭ eĭ. Plecaseră. Cândŭ însĕ în ᶁiarulŭ călĕtorilorŭ amŭ vĕᶁutŭ că se aflaŭ la Vevey, în Hôtel Trois Couronnes, amŭ venitŭ erĭ aicĭ.</p> 
+<p>Séra era, dupe obiceiŭ, balŭ la Grand Hôtel. Amŭ creᶁutŭ că va veni acolo, și n’am voitŭ sĕ mĕ ducŭ la dênsa la holelŭ, lăsândŭ se-ĭ facŭ surprindere în balŭ. Eŭ, care nu m’amŭ dusŭ la asemenea petrecerĭ de multŭ, care n’amŭ danțatŭ de nu se ține minte, amŭ fostŭ ispititŭ se mĕ punŭ în francŭ și se mĕ coborŭ în sală. Cu tóte acestea amŭ așteptatŭ până la mieᶁulŭ nopțiĭ și ea nu s’a vĕᶁutŭ. Amŭ danțatŭ, amŭ observatŭ, amŭ convorbitŭ cu câte-va dame cu care făcusemŭ cunoscință la masă; m’amŭ plimbatŭ prin spațiosulŭ parcŭ, ce înconjóră hotelulŭ despre lacŭ și despre apusŭ, cu o damă englesă, cunoscință din alte rîndurĭ cândŭ amŭ fostŭ aicĭ, dérŭ pe Margareta séŭ pe baronulŭ eĭ nu amŭ întêlnitŭ nicăerĭ.</p>
+<p>M’amŭ retrasŭ din balŭ și amŭ alergatŭ la hotelulŭ la care trăsese. Amŭ întrebatŭ pe portarŭ și elŭ ’mĭ a spusŭ că plecase de douĕ ᶁile pentru Italia pe calea Simplonuluĭ. Acésta scire îmĭ causă o tulburare peste mĕsură. Mĕ întorseiŭ la hotelŭ, intraĭ în camera mea, mĕ așeᶁaĭ în patŭ, însĕ mulțimea cugetărilorŭ, agitarea în care mĕ aflamŭ, nu mĕ lăsă se dormŭ.</p>
+<p>In acelŭ timpŭ îțĭ scriseiŭ acéstă epistolă. Aᶁĭ plecŭ pentru Italia, dupe ce maĭ întêiŭ voiŭ visita Clarens, Montreux, Chillon și Saint-Maurice, se vedemŭ décă nu se va fi opritŭ într’unulŭ din aceste orașiele.</p>
+<p>MANOILU</p>
+          </quote>
+          <quote type="letter">
+<p>Milan, 18/80 Septembre, 1866.</p>
+<p>In tótă calea n’amŭ găsitu-o nicăerĭ. Pare că scia că o urmărescŭ și fugea totŭ-déuna înaintea mea, care alergamŭ dupe dênsa cum ne spune fabula că alérgă sórele dupe lună fără sĕ o pótă ajunge.</p>
+<p>Amŭ trecutŭ prin Clarens, fără a ’mĭ maĭ aduce aminte că aci este loculŭ unde eroiiĭ luĭ Rousseau din Noua Eloisă așeᶁase templulŭ amoruluĭ lorŭ și unde este chiar mormêntulŭ Eloiseĭ. Castelulŭ de Chillon, pe care altă dată îlŭ visitam cu plăcere, dupe marginea căruia privémŭ laculŭ ce mi se areta unŭ întinsŭ. Ocian în partea despre Geneva, îmĭ părea acum o colibă țerănéscă ca tóte colibele. Frumósele versurĭ ale luĭ Byron asupra acestuĭ castelŭ, pe care altă dată le citémŭ cu esaltațiune, nu-mĭ maĭ veneaŭ nicĭ chiar în minte. Hôtel Byron, unde acestŭ mare poetŭ își scrisese o mare parte din operele luĭ, a dispărutŭ vederilorŭ mele.</p> 
+<p>Nu maĭ vedeamŭ de câtŭ umbra dupe care alergamŭ, paserea dupe care sburamŭ.</p>
+<p>Laculŭ Leman, celŭ maĭ frumosŭ lacŭ din Elveția, care scaldă piciórele munțilorŭ Jura, Jorat și Alpiĭ ce îĭ servŭ de cadru, îmĭ părea unŭ lacŭ de la noĭ dupe lângă Borcea.</p>
+<p>Uĭtasemŭ până și aceste versurĭ pe care altă dată le cetémŭ cu plăcere pe malurile séle, séŭ în barcă pe undele luĭ, cu o ființă iubită alăturĭ:</p>
+            <quote type="verse">
+<l><foreign>Dieu dit, et le Léman étale son rivage;</foreign></l>
+              <l><foreign>L’existence au néant sucède dans ces lieux;</foreign></l>
+              <l><foreign>Du verdoyant coteau le riche paysage</foreign></l>
+              <l><foreign>Déploie élégamment ses contours gracieux,</foreign></l>
+              <l><foreign>Et du mont argenté la majesté sauvage</foreign></l> 
+              <l><foreign>Porte son éclat dans Ies cieux.</foreign></l>
+              
+              <l><foreign>Sur tes bords enchanteurs, où règne l’abondance,</foreign></l> 
+              <l><foreign>Partout où l’homme libre a su la mériter,</foreign></l> 
+              <l><foreign>Où le même bonheur orne de sa présence</foreign></l> 
+              <l><foreign>Et le palais du riche et le toit du berger,</foreign></l> 
+              <l><foreign>Beau lac, quand la nature est rendue au silence,</foreign></l> 
+              <l><foreign>Su tes bords j’aime à méditer.</foreign></l>
+              
+              <l><foreign>Mais j’aime mieux encor, couché sur la verdure,</foreign></l> 
+              <l><foreign>Du haut du Pélerin, au déclin d’un beau jour,</foreign></l> 
+              <l><foreign>Admirer du bleu lac l’élégante courbure,</foreign></l>
+              <l><foreign>Image de la lune au temps de son retour,</foreign></l> 
+              <l><foreign>Et nos monta étalant la briliante ceinture</foreign></l> 
+              <l><foreign>Qui forme notre heureux séjour.</foreign></l>
+              
+              <l><foreign>Mont riant, qu’il est doux sur ta pente embellie</foreign></l>
+              <l><foreign>D’admirer de nos flots les changeantes couleurs!</foreign></l>
+              <l><foreign>Heureux qui, soutenu par une main chérie,</foreign></l> 
+              <l><foreign>Peut suivre de tes bois les contours enchanteurs;</foreign></l> 
+              <l><foreign>Heureux qui, sur ces bords, peut voir couler sa vie</foreign></l> 
+              <l><foreign>Au sein des vertus et des fleurs.</foreign></l>
+              
+              <l><foreign>Des bosquets de Clarens, quand la liquide plaine</foreign></l> 
+              <l><foreign>Se déroule à mes yeux dans toute sa beauté;</foreign></l> 
+              <l><foreign>Quand déployant au loin leur éclatante chaine,</foreign></l> 
+              <l><foreign>Nos Alpes à l’azur mêlent leur pureté,</foreign></l>
+              <l><foreign>Au-delà de ces monts, je me souviens à peine</foreign></l> 
+              <l><foreign>Qu’il est un pays plus vanté.</foreign></l>
+              
+              <l><foreign>Mon lac ne retentit que de cris d’allégresse</foreign></l>
+              <l><foreign>Qu’aux champs comme à la viile y diete le pleisir;</foreign></l> 
+              <l><foreign>Le pauvre satisfait s’y passe de richesse,</foreign></l> 
+              <l><foreign>Et l’olivier de paix ne cesse d’y fieurir.</foreign></l>
+</quote>
+<p>Pe lângă tóte acestea, de la care altă dată îmĭ luamŭ adio cu părere de rĕŭ, astă dată trecémŭ ca pe lângă unŭ omŭ necunoscutŭ.</p>
+<p>Ce este amorulŭ! Séŭ maĭ bine, ce este amoralŭ propriŭ, care nasce totŭ déuna ideia resbunăreĭ!</p>
+<p>Trecuiŭ Saint-Maurice cu grota sea, Cascada Pissevache, Gorge de Trient, Martigny, Sion și sosirămŭ cu drumulŭ de ferŭ la Sierre. Aci luaiŭ diligența și începurămŭ urcarea Simplonuluĭ, nóptea pe la 12 ore.</p>
+<p>Nesomnulŭ din nóptea trecută, obosiala drumuluĭ mĕ făcu se adormŭ îndată ce m’amŭ urcatŭ în diligență. Cândŭ m’amŭ deșteptatŭ, era ᶁiuă. Trecusemŭ orășelulŭ Brig și urcasemŭ necontenitŭ. Sórele se ridica surîᶁĕtorŭ de pe unŭ munte depărtatŭ la spatele călĕtorilorŭ și îĭ încăᶁia, pe cândŭ în faciă munțiĭ albĭ de ghiață, ce se ridicaŭ și le trimetéŭ unŭ vêntŭ rece, îĭ înghiățaŭ. Eŭ însĕ nu simțémŭ nicĭ căldura nicĭ frigulŭ, așa îmĭ era de preocupată cugetarea. Eramŭ în trăsură cu unŭ tênărŭ serbŭ și cu o familie englesă. Serbulŭ se vede că numaĭ călĕtorise pe munțĭ, căcĭ era numaĭ într’o jachetă de vară și cu unŭ tartanŭ destulŭ de subțire. Din acéstă causă tremura ca varga. Eŭ care avémŭ, pe lângă o jachetă grósă, paltonulŭ și unŭ tartanŭ englesŭ, amŭ fostŭ silitŭ se împumutŭ tartanulŭ tênăruluĭ serbŭ, căcĭ altŭ-felŭ până se trecemŭ acele ghiățurĭ, carĭ facŭ frumuseția munțilorŭ Elvețieĭ, arŭ fi rămasŭ înghețatŭ pe drumŭ.</p>
+<p>Trecusemŭ teribila și profunda rîpă ce generaliĭ elvețianĭ Bethencourt și Quatremère d’Isjonval aŭ străbătutŭ în capulŭ a 810 ómenĭ, atârnațĭ de fringhiĭ, spre a surprinde și bate întêiele posturĭ inemice. O inscripțiune la pólele uneĭ stîncĭ arétă numele oficerilorŭ ce comandaŭ pe aceĭ bravĭ. Săr bătusemŭ calea numită Galerie de Gondo și ne oprirămŭ la Noulŭ Ospiciŭ. De și vĕᶁusemŭ acestŭ drumŭ altă dată în nisce momente maĭ liniscite, ba chiarŭ fericite, alăturĭ cu femeia ce iubémŭ; de și astă dată mĕ aflamŭ într’o urîtă desposițiune de spiritŭ, totușĭ n’amŭ pututŭ se staŭ indiferintŭ; din cândŭ în cândŭ mĕ damŭ josŭ din diligentă se admirŭ frumusețile estraordinare ale natureĭ.</p>
+<p>Acestŭ drumŭ îmĭ făcuse atâtŭ poftă de mâncare căcĭ, cândŭ amŭ ajunsŭ la ospiciu, eramŭ într’adevĕrŭ în prada uneĭ fóme teribile. Cerurămŭ se ne dea ceva, însĕ nu găsirămŭ de câtă o bucatŭ de pâine uscată de o sĕptĕmână și o bucată de brânză. Cu tóte acestea, pâinea uscată și brănza ni se păru atuncĭ cele maĭ bune bucate din lume.</p>
+<p>Urmarămŭ apoĭ calea, străbăturămŭ coborîndŭ frumósele și romanticele posițiunĭ până la Domo d’Orsolo și ne oprirămŭ la Palanzo pe malulŭ laculuĭ Majore.</p>
+<p>Remăseĭ aci. Visitaiŭ frumósă și feerica insulă, numită Insula bela, dérŭ nicăerĭ nu întêlniŭ urmele Margareteĭ.</p>
+<p>Plecaiŭ de acolo la Arona, și de la Arona étă-mĕ la Milano.</p>
+<p>Nmicŭ. Ea s’a opritŭ numaĭ o séră aicĭ și a plecatŭ la Veneția.</p>
+<p>In curândŭ decĭ îțĭ voiŭ scrie din cetatea dogilorŭ.</p>
+          </quote>
+        </div>
+        <div type="chapter" n="4">  
+<head>V.</head>
+        <quote type="letter">
+<p>Veneția, 1/13 Octomlre, 1866.</p>
+<p>Te salutŭ din Veneția liberă!</p>
+<p>Ce este și destinulŭ în lumea acésta! Altă dată eŭ eramŭ veselŭ, rîdémŭ, cântamŭ, și mă plimbamŭ în gondolă alăturĭ cu aceia ce iubémŭ, pe cândŭ Veneția plîngea cernită pentru mórtea libertățiĭ séle, se svărcolea disperată subt călcâiulŭ austriaculuĭ!</p>
+<p>Cu tótă întristarea mea însĕ, n’amŭ simțitŭ nicĭ o dată o bucuriă maĭ mare, o emoțiune maĭ dulce ca în momentulŭ cândŭ amŭ intratŭ la 2 Octombre în acestŭ orașŭ clăditŭ nu de mâna omenéscă, ci de mâna amoruluĭ.</p>
+<p>In trenulŭ cu care amŭ venitŭ eŭ, eraŭ peste 60 garibaldianĭ cu cămășile lorŭ roșiĭ, tinerĭ ale cărorŭ familiĭ eraŭ în Veneția și carĭ se întorcéŭ în libertate la căminulŭ părintescŭ de unde despotismulŭ și peisecuțiunea până la mórte a austriacilorŭ îĭ gonise.</p>
+<p>Toțĭ aceștĭ tinerĭ aŭ luatŭ maĭ multe gondole și aŭ intratŭ o dată În orașŭ. Eŭ singulŭ între dênșiĭ eramŭ cu haine țivile.</p>
+<p>Ce spectacolŭ încântătorŭ și atingetorŭ totŭ de o dată! Tóte ferestrele eraŭ împodobite cu covóre și cu stindarde naționale. Pe amândouĕ malurile Canaluluĭ grande era o mare de lume ale căreĭ valurĭ se ridicaŭ până la ferestrele cele maĭ înalte. Toțĭ fluturaŭ batistele în aerŭ și salutaŭ pe liberatoriĭ Italieĭ. Miĭ de benoclurĭ se îndreptaŭ spre noĭ și fie care căuta se véᶁă unii fiŭ, unŭ frate séŭ unŭ amicŭ!</p>
+<p>Din cândŭ în cândŭ câte o gondolă se despărția dintre cele l’alte ca o rândunică care se desparte de stolulŭ celŭ mare. Acea gondolă se oprea înaintea uneĭ scărĭ de marmoră, o esclamare de bucuriă eșia de la o feréstră séŭ dintr’unŭ balconŭ,care se comunica între toțĭ spectatoriĭ din prejurŭ și în tóte gurile se auᶁea unŭ nume iubitŭ!</p>
+<p>Plângeamŭ, amiculŭ meŭ, și plângŭ și aᶁĭ scriindŭ aceste rîndurĭ, cândŭ ’mĭ aducŭ aminte de acelŭ spectacolŭ mărețŭ și unicŭ care s’a presentatŭ vederilorŭ mele.</p>
+<p>Cândŭ amŭ ajunsŭ în facia Piaceteĭ și în facia Palatuluĭ Ducale, pe unde trecemŭ la Albergo reale, pe riva degli Schiavoni, spectacolulŭ a devenitŭ și maĭ atingĕtorŭ. Pe cândŭ cincĭ miĭ de ómenĭ salutaŭ pe garibaldianĭ cu urărĭ entusiastice, la giamurile de susŭ ale închisoriĭ politice,—căcĭ cele de josŭ eraŭ mânjite cu cretă,—se grămădise o mulțime de capete, negreșitŭ ale prisonierilorŭ carĭ așteptaŭ din momentŭ în momentŭ liberarea lorŭ.</p>
+<p>In momentele acelea, te asicurŭ, amiculŭ meŭ, uitasem pe Princesa, și mi se părea că amŭ venitŭ se mĕ bucurŭ de fericirea venețienilorŭ.</p>
+<p>Austriaciĭ plecaseră toțĭ, afară de o bateriă de artileriă și o companiă de infanteria, carĭ aveaŭ se plece chiarŭ a doua ᶁi, cândŭ trebuia se plece și prefectulŭ de polițiă austracŭ și se vie comisarulŭ francesŭ.</p>
+<p>Totŭ orașulŭ este păᶁitŭ de o gardă națională, improvisionată și îmbrăcată dupe cumŭ póte fie care. Numaĭ unŭ semnŭ aretă calitatea fie căruĭ cetățianŭ: o marcă cu colorile națiouale.</p>
+<p>Paza ordineĭ publice este încredințată Municipalitățiĭ.</p>
+<p>Din ᶁiua sosireĭ mele, amŭ asistatŭ la maĭ multe lucrurĭ frumóse și amŭ visitatŭ încă o dată raritățile din Veneția, de care nu mĕ saturŭ nicĭ o dată.</p>
+<p>A doua-ᶁi de sosirea garibaldienilorŭ, cu douĕ ore maĭ têrᶁiŭ de intrarea comisaruluĭ francesŭ, prefectulŭ de polițiă austriacŭ, voindŭ sĕ se îmbarce dupe Paiațetă, a fostă uiduitŭ, flueratŭ și urmăritŭ cu aruncăturĭ de pietre din partea unuĭ numerosŭ poporŭ.</p>
+<p>Amŭ visitatŭ localulŭ unde se construesce vasele de apă și amŭ vĕᶁutŭ noulŭ Bucentaur care se pregătesce pentru regele, cândŭ va veni în Veneția.</p>
+<p>Este admirabilŭ de eleganță și de bogăția!</p>
+<p>’Țĭ amŭ vorbitŭ de totŭ până acumŭ, numaĭ de acea miserabilă femeiă nu’țĭ amŭ vorbitŭ încă.</p>
+<p>Amŭ lăsatŭ se sfîrșescŭ cu ea.</p>
+<p>In totŭ timpulŭ escursiunilorŭ mele n’amŭ pututŭ da peste dênsa. Se vede că priimise vre o scire că o urmărescŭ și schimbase numele, căcĭ la nicĭ unu hotelŭ n’amŭ aflatŭ pe baronulŭ ungurŭ.</p>
+<p>Tocmaĭ alaltă-ierĭ séră, plimbândumĕ pe canalŭ în gondolă, gondola mea se lovesce de alta. Unŭ țipătŭ de femeiă éși dintr’ênsa. Ilŭ recunoscuiŭ, era țipătulŭ eĭ. Urmărescŭ acea gondolă, până în facia hoteluluĭ di Luna. Aci douĕ persóne se daŭ josŭ și vĕᶁŭ pe Princesa cu ungurulŭ eĭ că urcŭ cheiulŭ și intră în hotelŭ.</p>
+<p>Plătescŭ gondolieruluĭ meŭ și iaŭ pe celŭ l’altŭ cu care fusese Margareta.</p>
+<p>— Umbliĭ de multŭ cu aceste persóne? îlŭ întrebŭ eŭ.</p>
+<p>— De cândŭ suntŭ aicĭ, respunse elŭ.</p>
+<p>— Și se plimbă în tóte serile?</p>
+<p>— In tóte serile, în tóte ᶁilele, și câte odată și’nóptea târᶁiŭ. Chiarŭ mâine nópte ’mĭ-a ᶁisŭ că voescŭ se mérgă la Lido se véᶁă rĕsăritulŭ luneĭ și rĕsăritulŭ sóreluĭ.</p>
+<p>— Și te veĭ duce?</p>
+<p>— Negreșitŭ, décă ’mĭ plătescŭ...... și eĭ îmĭ plătescŭ bine.</p>
+<p>— Vreĭ sĕ umbli și cu mine, cândŭ nu mergĭ cu eĭ, și îțĭ voiŭ plăti și maĭ bine?</p>
+<p>— Cu plăcere, Domnule.</p>
+<p>— Dérŭ cumŭ te chiamă?</p>
+<p>— Martin.</p>
+<p>— Ascultă, Martine, de câțĭ anĭ aĭ acéstă gondolă?</p>
+<p>— De mult, Domnule: de vr’o duoĭ-spre-ᶁece anĭ.</p>
+<p>— Cum vĕᶁŭ e vechiă!</p>
+<p>— Vechiă; însĕ ce se facŭ? n’amŭ banĭ cu ce se-mĭ cumpărŭ una nouă.</p>
+<p>— Dérŭ décă ’țĭ-așŭ cumpĕra eŭ una, aĭ voi se-mĭ daĭ mie pe acésta, făcêndu-mĭ și unŭ micŭ serviciŭ?</p>
+<p>— O! Domnule! ’țĭ-așŭ face orĭ ce-aĭ voi.</p>
+<p>— Condițiunea nu este anevoiă. Mâine voiŭ merge cu tine, îțĭ voiŭ cumpăra gondola și, nóptea, veĭ pune pe acele persóne totŭ în gondola cea vechiă, érŭ eŭ voiŭ sta în cea nouă până veĭ sosi tu cu eĭ în miᶁĭloculŭ lagunelorŭ. Acolo ne vom întîlni și veĭ veni cu mine, lăsândŭ gondola singură. Aĭ înțelesŭ?</p>
+<p>— Amŭ înțelesŭ.</p>
+<p>— Priimescĭ?</p>
+<p>— Priimescŭ, ᶁise gondolierulŭ cu bucuriă.</p>
+<p>— Semnalulŭ, ca te cunoscŭ, va fi unŭ cântecŭ.</p>
+<p>— Il capriciosa, seniore.</p>
+<p>— Bine. Ne-amŭ înțelesŭ.</p>
+<p>A doua ᶁi mĕ ducŭ, cumpĕrŭ gondola și o daŭ în priimirea gondolieruluĭ; însĕ îĭ cerŭ a face o spărtură în fundulŭ celeĭ vechĭ și aĭ pune unŭ dopŭ. Așa se și făcu.</p>
+<p>Nóntea, pe la ora unulŭ, mĕ ducŭ cu gondola în lagune și, peste o jumĕtate de oră, audŭ sgomotulŭ lopețilorŭ celeĭ l’alte gondole care venea cu iuțélă unei lebede, și următórele versurĭ cântate de gondolierŭ:</p>
+          <quote type="verse">
+<p><foreign>Come la nuvela</foreign></p> 
+<p><foreign>Che porta il vento</foreign></p> 
+            <p><foreign>Ogni memento</foreign></p> 
+            <p><foreign>Cangio d’amor.</foreign></p> 
+            <p><foreign>Onda volubile</foreign></p> 
+            <p><foreign>Che scende e s’alza,</foreign></p> 
+            <p><foreign>Ape che balza</foreign></p> 
+            <p><foreign>Di fiore in fior,</foreign></p>
+            <p><foreign>Finchè m’accomodi,</foreign></p> 
+            <p><foreign>Finchè mi piaci</foreign></p> 
+            <p><foreign>Cerco i tuoi baci,</foreign></p> 
+            <p><foreign>Vivo in te sol:</foreign></p> 
+            <p><foreign>Ma quando il palpito</foreign></p> 
+            <p><foreign>Del cor vien meno</foreign></p> 
+            <p><foreign>Sovr’altro seno</foreign></p> 
+            <p><foreign>Racchuido il voi.......</foreign></p>
+          </quote>
+<p>Gondola trecu pe lângă mine astŭ-felŭ de aprópe în câtŭ putuiŭ sări într’ênsa. Eĭ eraŭ închișĭ în cabină, cu perdelele lăsate, de sicarŭ vorbindu-șĭ de fericire și de amorŭ.</p>
+<p>Ḑiseiŭ gondolieruluĭ se trécă în ceĭ l’altă gondolă și se ne urmăréscă de aprópe. Apoĭ apropiindu-mĕ de cabină, auᶁiiŭ următórele cuvinte:</p>
+<p>— Dérŭ ce aĭ,—întreba elŭ;—de ce eștĭ atâtŭ de tristă, atâtŭ de melancolică, cândŭ eŭ te iubescŭ atâtŭ de multŭ și cândŭ suntemŭ numaĭ noĭ, apa și cerulŭ?</p>
+<p>— Nu sciŭ nicĭ eu ce amŭ, dérŭ sufletulŭ meŭ s’a întristatŭ în momentulŭ cândŭ amŭ intratŭ în acésta gondolă. Presimțŭ că o se ni se întêmple o nenorocire!</p>
+<p>— Ce copilă eștĭ! Cândŭ eștĭ lângă mine n’aĭ de ce te teme. Impreună, legațĭ vecĭnicŭ prin amorŭ, vomŭ învinge orĭ ce nenorocire!</p>
+<p>— Nu sciŭ de ce, ca nicĭ o dată, ’mĭ e frică. Aĭ se ne întórcemŭ îndărătŭ.</p>
+<p>— Déca tu o voeștĭ, se ne întórcemŭ... Eĭ, gondolierŭ, adause elŭ, întórce la hotelŭ.</p>
+<p>— E prea târᶁiŭ, rĕspunseĭ eŭ în limba română!</p>
+<p>Ea dete unŭ țipătŭ! Imĭ cunoscuse vocea.</p>
+<p>Scoseĭ dopulŭ, săriĭ în gondola ceĭ l’altâ și ᶁiseĭ se mâne. De o dată vĕᶁuĭ gondola cufundându-se și’pe eĭ țipândŭ și întiᶁêndŭ mâinile către noĭ.</p>
+<p>Peste cincĭ momente nu se maĭ vedea nicĭ gondolă, nu se maĭ auᶁia nicĭ țipătŭ. Lagumele intraseră în tăcerea lorŭ obicĭnuitŭ.</p>
+          <p>MANOILU</p>
+          </quote>
+<trailer>FINE</trailer>
+</div></div>
+</body>
+  </text>
+</TEI>
