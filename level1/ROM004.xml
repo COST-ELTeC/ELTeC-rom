@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ROM004" xml:lang="ro">
   <teiHeader>
   <fileDesc>
    <titleStmt>
     <title> Haiducul : ELTeC edition</title>
-    <author> Dumbravă, Bucura (Fany Seculici/ Fanny Szeculicz)(1868-1926)</author>
+    <author> Dumbravă, Bucura [Fany Seculici/ Fanny Szeculicz](1868-1926)</author>
      <respStmt>
        <resp>codare ELTeC</resp>
        <name>Roxana Patras</name>
@@ -19,9 +19,9 @@
     <measure unit="words">124789</measure>
     <measure unit="pages">507</measure>
    </extent>
-    <publicationStmt>
+   <publicationStmt> <publisher/>
       <distributor ref="https://www.distant-reading.net/">COST ACTION "Distant Reading for European Literary History" (CA16204)</distributor>
-      <date when="2021-01-04"/>
+     <date when="2021-01-04"/>
       <availability>
         <licence target="https://creativecommons.org/licenses/by/4.0/"/>
       </availability>
