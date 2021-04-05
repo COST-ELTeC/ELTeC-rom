@@ -8,6 +8,7 @@ This is the Romanian novel collection for ELTeC, the European Literary Text Coll
 
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC.
 
+* v0.9.0, April 2021: 95 novels encoded at level 1. DOI: https://doi.org/10.5281/zenodo.4662599. 
 * v0.7.0, November 2020: 80 novels encoded at level 1. DOI: https://doi.org/10.5281/zenodo.4271645. 
 * v0.6.0: This release illustrates the most representative sub-genres of the novel in the Romanian literary tradition (hajduk, city mystery, and historical) as well as a variety of editorial practices and orthographic standards used between 1840 and 1920. 
 
@@ -28,6 +29,5 @@ All texts included in this collection are in the public domain. The textual mark
 
 ## Citation suggestion
 
-*Romanian Novel Collection (ELTeC-rom)*, edited by Roxana Patras. In: *European Literary Text Collection* (ELTeC). COST Action *Distant Reading for European Literature*. Version 0.6.0, April 19, 2020. URL: https://github.com/COST-ELTeC/ELTeC-rom, DOI: https://doi.org/10.5281/zenodo.3543111. 
+*Romanian Novel Collection (ELTeC-rom)*, edited by Roxana Patras. In: *European Literary Text Collection* (ELTeC). COST Action *Distant Reading for European Literature*. Version 0.9.0, April 2021. URL: https://github.com/COST-ELTeC/ELTeC-rom, DOI: https://doi.org/10.5281/zenodo.4662599. 
 
-## Acknowledgements:
