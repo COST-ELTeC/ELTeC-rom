@@ -1,5 +1,8 @@
-
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ROM082" xml:lang="ro">
   <teiHeader>
     <fileDesc>
@@ -20,21 +23,23 @@
         <measure unit="pages">476</measure>
       </extent>
       <publicationStmt>
-        <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-        <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-03-14"/>
-        <availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl type="firstEdition">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3543111">ELTeC-rom</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662599">ELTeC-rom release 0.9.0</ref>
+</publicationStmt>
+      <sourceDesc><bibl type="firstEdition">
           <author>Elena Bacaloglu</author>
           <title>În luptă</title>
           <pubPlace>Bucureşti</pubPlace>
           <publisher>Tipografia "Gutenberg" Josph Gobl</publisher>
           <date>1906</date>
-          <ref target="http://doi.org/10.5281/zenodo.4589201">>Facsimile on zenodo</ref>
+          <ref target="http://doi.org/10.5281/zenodo.4589201">&gt;Facsimile on zenodo</ref>
             <ref target="http://doi.org/10.5281/zenodo.4589210">Facsimile on zenodo</ref>
-        </bibl>
-      </sourceDesc>
+        </bibl></sourceDesc>
     </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>
@@ -46,11 +51,12 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
         <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
       <change when="2021-02-16">Annotation in ELTeC format: Lucretia Pascariu</change>
       <change when="2020-05-30">Ocerization by: Lucretia Pascariu</change>
     </revisionDesc>
@@ -675,7 +681,7 @@
         <p>Și, nu-și culcase apoi pe suflet cuvintele dulci ale lui Virgil, pe cari râsul ei le legănau ?</p>
         <p>Cuvintele scumpe ale unei nedumeriri ca o bătae fricoasă de aripă a pasării prinse: «cu ce ai putut, ce forță ai putut să ai, să mă robești, să mă legi de tine, Doro ?</p>
         <p>Și răspunsul ei îndrăsneț, al femeiei care are sentimentul unei cuceriri— unei cuceriri scumpe:</p>
-        <p>«Cu calitățile mele>>.</p>
+        <p>«Cu calitățile mele&gt;&gt;.</p>
         <p>Răsese împreună, răspunsul ei plăcuse și ecoul veseliei ei, se prelungise puțin mai mult decât trebuise, cu cascadele argintii ale unui glas de femeie— de femeie sigură- pe ea, care sub impresia momentului fericit, se simțeà biruitoare.</p>
         <p>In Virgil însă, siguranța asta de dânsa, îi sgândărise, se vede — după desmeticirea undei de dragoste adevărate— o semeție jignită, ceva din răutatea omului mândru— dominător.</p>
         <p>Se agățase natural, fără sforțare de râsul ei, care într’adevăr păcătuià în ochii— nu a omului amorezat, nici măcar ai <hi>omului</hi>— dar a individului social care dominà pe Virgil câteodată.</p>

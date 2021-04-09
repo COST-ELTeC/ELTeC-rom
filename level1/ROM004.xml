@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ROM004" xml:lang="ro">
   <teiHeader>
   <fileDesc>
@@ -19,15 +22,16 @@
     <measure unit="words">124789</measure>
     <measure unit="pages">507</measure>
    </extent>
-   <publicationStmt> <publisher/>
-      <distributor ref="https://www.distant-reading.net/">COST ACTION "Distant Reading for European Literary History" (CA16204)</distributor>
-     <date when="2021-01-04"/>
-      <availability>
-        <licence target="https://creativecommons.org/licenses/by/4.0/"/>
-      </availability>
-    </publicationStmt>
-    <sourceDesc>
-     <bibl type="digitalSource">
+   <publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3543111">ELTeC-rom</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662599">ELTeC-rom release 0.9.0</ref>
+</publicationStmt>
+    <sourceDesc><bibl type="digitalSource">
      <author>Bucura Dumbravă</author>
      <title>Haiducul</title>
      <pubPlace>Bucharest</pubPlace>
@@ -35,15 +39,13 @@
      <date>1919</date>
      <note>This is the source of the text</note>
      <ref target="http://doi.org/10.5281/zenodo.2648457">Facsimile on zenodo</ref>
-      </bibl>
-      <bibl type="firstEdition">
+      </bibl><bibl type="firstEdition">
         <author>Bucura Dumbravă</author>
         <title>Haiducul</title>
         <pubPlace>Bucharest</pubPlace>
         <publisher>Editura Librăriei Școalelor C. Sfetea</publisher>
         <date>1908</date>
-      </bibl>
-    </sourceDesc>
+      </bibl></sourceDesc>
   </fileDesc>
     <encodingDesc n="eltec-1">
       <p/>
@@ -55,11 +57,12 @@
       <textDesc>
         <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
         <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-        <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+        <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
       </textDesc>
     </profileDesc>
     <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
       <change when="2018-09-28">Initial TEI version generated.</change>
       <change when="2020-10-30">Annotation in ELTeC format: Roxana Patras</change>
       <change when="2020-05-30">Ocerization by: Roxana Patras</change>
@@ -186,7 +189,7 @@
 <p>— „Plugul dracului! da, acela ar trebui!" mârâi Iancu.</p>
 <p>Sburase veselia și molateca sindrofie, ce domnise înainte de sosirea acestor doi musafiri cu capetele aprinse.</p>
 <p>Se mai făcu multă politică, ca de obiceiu, în formă de plângeri bine alcătuite și de pilde, spuse în zeflemea și cu mult haz. Dar pentru o ceartă bărbătească hotărîtă lipsiâ și puterea1 și libertatea. Afară de aceasta Amza era foarte supărat, că băietanul Iancu, înldrăsnise să vorbească astfel în de fața lui și a celorlalți boieri mlai bătrâni, și dacă n’ar fi fost Slugerul Tudor, vestitul căpitan de panduri, potrivnicul lui în vorbă, fără îndoială i-ar fi porunct lui Iancu să tacă din gură.</p>
-<p>>Dar fiindcă era Ia mijloc Slugerul Tudor Vladimirescu, pe care-l deosebise marele Țar Alexandru, după sfârșitul răsboiului, cu ordinul Sfântul Vladimir și pe care nu putea să-l dojenească ca pe Iancu, și de vreme ce el găsise de cuviință să stea de vorbă serioasă cu Iancu, era peste putință pentru Amza, gazda casei, să facă altceva, decât să-și înghită supărarea.</p>
+<p>&gt;Dar fiindcă era Ia mijloc Slugerul Tudor Vladimirescu, pe care-l deosebise marele Țar Alexandru, după sfârșitul răsboiului, cu ordinul Sfântul Vladimir și pe care nu putea să-l dojenească ca pe Iancu, și de vreme ce el găsise de cuviință să stea de vorbă serioasă cu Iancu, era peste putință pentru Amza, gazda casei, să facă altceva, decât să-și înghită supărarea.</p>
 <p>Atunci Crețescu încercă să schimbe mersul vorbei zicând : </p>
  <p>—„înțeleg acum, Slugerule Tudor, că poți să înfierbânți inimile pandurilor! Cuvintele frumoașe, pe care le-ai spus".</p>
 <p>Vladimirescu îi curmă vorba cu asprime: </p>
@@ -224,7 +227,7 @@
 <p>— „Tot mai cântă ei cântece revoluționare Grecești prin București? Și tot se mai închină la proorocul lor, poetul Rhigas? Tot mai visează o mare împărăție libera Elinicească cu comerție libera de lămâi?" zise Cretescu în bătaie de joc.</p>
 <p>— „Dacă doresc slobozenie în tara lor, atunci li se cuvine toată cinstea", zise Tudor aspru.</p>
 <p>Iancu care tăcuse până acum, se apucă cu amândouă .mâinile de cap și clătinându-se în dreapta și în stânga zise: </p>
- <p>—„Puternice Dumnezeule! Mai ai tu răbdare să privești la'această politică scârboasă? Ruși, Turci, Greci, și printre ei și Rumâni de ai noștri vărsându-și sângele ba pentru unii, ba pentru alții! Ingenuchiați și căleați ca vai de ei, și totuși m>ai flecărind despre libertate! Mare Dumnezeule din ceruri! nu mă pedepsi, dacă, în asemenea vremuri, copacii mei din codru îmi simit din zi în zi mâi dragi !"</p>
+ <p>—„Puternice Dumnezeule! Mai ai tu răbdare să privești la'această politică scârboasă? Ruși, Turci, Greci, și printre ei și Rumâni de ai noștri vărsându-și sângele ba pentru unii, ba pentru alții! Ingenuchiați și căleați ca vai de ei, și totuși m&gt;ai flecărind despre libertate! Mare Dumnezeule din ceruri! nu mă pedepsi, dacă, în asemenea vremuri, copacii mei din codru îmi simit din zi în zi mâi dragi !"</p>
 <p>— „Ajunge!" se răsti acum Amza la el. </p>
 <p>Dar Crețescu se grăbi a bate pe Iancu pe umăr zicând: </p>
  <p>—„Filosof! Filosof fără cărți! Mă făcuși să-mi aduc aminte de un alt filosof, cu cărți, a căruia poveste am păstrat-o anume, ca să v'o istorisesc astăzi. Și întorcându-se spre Vladimirescu: „Poate că-o cunoști? Afacerea cu Logofătul Nicola, grămăticul Marelui Spătar al Măriei Sale".</p>
@@ -1029,7 +1032,7 @@
   <p> — „Nu e nimica, <foreign>Arhonda</foreign>”, fu grăbitul răspuns, liniștitor. „Nimica, zău! nu e nimica. — Am căutat  pe urma câinilor cu lumânări, cu felinare. Nu s’a văzut nimic nicăiri!”</p>
 <p>— „Nimica!” îngână glasul delă fereastră. „Pentru ațeea hrănesco eu acea leota de câini scumpi, ai? leneșilor! După țte nu sunteți in stare sa păziți singuri, apoi niți când va deșteaptă câinii, tot nu r vedeți nimica! Curți chiore, ce sunteți !"</p>
 <p>— „Puternice stăpâne'', încercă să-l liniștească un al doilea Arnăut cu glas gros, din piept, cum vorbesc Osmanlîn, „va fi trecut vreun epure prin curte, sau vre-o nevăstuică”.</p>
-  <p>Grecul de sus trânti fereastra și-i ocărî pe Turcește: <foreign>„Ghider, ghider, deveyeh ciuș der"</foreign>, adică : „Dl merge, merge, și-i zice cămilei: ciuș!” ceeace dovedește o leneșe prostie, de oarece; precum se știe, numai măgarul înfelege vorba întețitoare, > „ciuș'' care se întrebuințează, Ia Turci, numai pentru el.</p>
+  <p>Grecul de sus trânti fereastra și-i ocărî pe Turcește: <foreign>„Ghider, ghider, deveyeh ciuș der"</foreign>, adică : „Dl merge, merge, și-i zice cămilei: ciuș!” ceeace dovedește o leneșe prostie, de oarece; precum se știe, numai măgarul înfelege vorba întețitoare, &gt; „ciuș'' care se întrebuințează, Ia Turci, numai pentru el.</p>
 <p>Arnăuții trecură înainte. Erau obișnuiți să se schimbe aserffenea vorbe, în cursul nopții, cu Chir Hristofor.</p>
 <p>Sus, în pod, Căpitanul șopti lui Toaderi Prisăcarul: „Acum au să adoarmă și mai greu ca ’nainte". Pe când vorbea cu el, atinse umărul Prisăcarului și simțise că tremură. „Răbdare, omule, îi zise, într’o jumătate de cias omorîtorul Mitanei va fi în mânele tale".</p>
 <p>Și după o jumătate de cias, când nici în casă, nici afară nu se mai mișcă nimic, Căpitanul scoase un felinar de șupt ghebă, scăpără din cremene și-l aprinse.</p>
@@ -1983,7 +1986,7 @@ rămâie pribeag prin lume; numele lui să fie șters din cartea celor vii, și 
 <milestone unit="unnumbered"/>
 <p>Svârlugă, tânărul uriaș, fu trimis la ciobani. Când ajunsera Haiducii odată cu răsăritul lunei, pe coama muntelui, găsiră acolo o roată de cai, pe z care o păziâ trimisul împreună cu un alt om. Acesta era David, băiatul cel de șaptesprezece ani. El se rugase, să-i se deâ voie, să ducă el, calul lui Jianu, și cu ochii luminați stă acolo acum, ținând șargul Căpitanului de căpăstru. Îi împletise cosite în coamă și în coadă.</p>
 <p>Iancu se apropiă de el: </p>
-<p>-„Ce mai face baciul <gap></gap>?”</p>
+<p>-„Ce mai face baciul <gap/>?”</p>
 <p>— „O fi mai bine", răspunse David, cum zic țăranii, adică în formă totdeauna îndoelnică. În vieata țăranului rumân, nefiind nimica sigur, el s’a desvățat de arce expresie afirmativă categoric.</p>
 <p>Intraceea făcuse ocol printre haiduci povestea cu ursul, pe care David o spusese lui Svârlugă.</p>
 <p>Hotărîți la luptă și mândri, că aveau acum și pe Iancu Jianu în mijlocul lor, ei se porniră. Noaptea caii se urcau cu ușurință. Aerul răcoros pătrundea, ca o apă proaspătă, în plămânii lor și ai călăreților.</p>
@@ -2746,7 +2749,7 @@ rămâie pribeag prin lume; numele lui să fie șters din cartea celor vii, și 
 <p>Fiindcă aceste cuvinte fură spuse scurt și posomorit, cum era felul lui Tudor sa vorbească, ele stârniră, cu atât și mai mult, rîsul Arhimandritului.</p>
 <p>— „Elelei!” zise el, „ce vrei, fiule, tu ai avut prilej să vezi de aproape, că la urmă tot numai oameni suntem cu totii, chiar și acel uriaș de împărat Napoleon, care a fost pironit de stâncă, ca Prometheus, furătorul fulgerului, într’o insulă pierdută în mare.  Da, negreșit acei mari boieri dela Viena vor fi jucat și vor fi spus Ia palavre, dar totuși ei înfățișau o mare patere, puterea numărului, și puterea unei 'idei, care îi mișca. La porunca lor, oștirile sburau la Waterloo și biruiau pe temutul biruitor de până atunci”.</p>
 <p>Furat de venitura vorbelor sale însăși, Ilarion făcu un logos tăcutului Tudor despre însemnătatea congresului dela Viena. Acest logos însă-l convingea numai pe jumătate, pe Vladimirescu, fiindcă se împtrivia firei lui de ostaș, și nu-r veniau la socoteală încurcăturile diplomaticești, și i-ar fi tăiat vorba părintelui Arhimandrit Ilarion, dacă ar fi Știut, cum închinase odată Generalul Blucher, la o masă în Paris: „Ceeace câștigam noi acum cu săbiile, să nu lăsati voi să se piarză cu condeiul”.</p>
- <p>Deși Vladimirescu era totdeauna gata la răspuns, și era neatâmat în judecata lui, totuș se lăsă adesea călăuzit de părerile lui Ilarion și de ale lui cunoștințe, de lume. Firea lui de om, făcut pentru fapte istorice, îl supunea la inrîurirea Arhimandritului, înzestrat cu darul vorbei și care citise mult. Tudor simțiâ, că cine vrea să croiască istoria unui popor, trebuie să învețe mai întâiu, cum a fost soarta altor popoare, și fiindcă aceasta rau-i era înlesnit iprintr’o învățătură, pe care ar fi primit-o mai nainte, de aceea el împrumută bucuros lumina dela Arhimandritul Ilarion. Ce-l făcuse să fie ciracul, tocmai al acestui om, nu era atât mulțimea de cărți, pe care le cetise Arhimandritul, și pentru care un diplomt francez, care petrecuse în Țară, îl numise: <foreign>„une bibliotheque renversee”</foreign> cât mai ales acel interes viu, pe care-l avea dânsul pentru trecutul României, îngropat de Fanarioți supt povara disprețului lor. La întrebarea, ce i-o făcut <gap></gap> cum a făcut Arhimandritul Ilarion ca să <gap></gap> acel trecut, primi răspunsul: „În biserica dela Mănăstirea mea, Dealu, se află căpățâna lui Mihaiu Viteazul. A dus-o acolo la Târgoviște, sunt acum două sute de ani si mai bine. Radu Buzescu, prietenul și tovarășul lui Mihaiu, scăpând-o din tabăra dela Turda, unde a fost ucis Domnul său prin vânzare. După vecernie, când încetează toaca și clopotele, rămân' adeseori, eu ’singur, în biserică și stau de vorbă cu țeasta. Ne înțelegem mai bine cu morții, decât cu cei vii, fiindcă îi ascultăm cu evlavie, și fiindcă împrejurul lor se revarsă domnia păcei. Eu am învățat mult dela acel Viteaz. El mi-a spus: „Dacă vrei să înțelegi viitorul, cercetează trecutul! Numai dela rădăcină vine puterea copacului. Dacă o găsești acolo, și o simți, atunci nu mai desnădăjduești. Eu, Mihaiu, sunt rădăcină".</p>
+ <p>Deși Vladimirescu era totdeauna gata la răspuns, și era neatâmat în judecata lui, totuș se lăsă adesea călăuzit de părerile lui Ilarion și de ale lui cunoștințe, de lume. Firea lui de om, făcut pentru fapte istorice, îl supunea la inrîurirea Arhimandritului, înzestrat cu darul vorbei și care citise mult. Tudor simțiâ, că cine vrea să croiască istoria unui popor, trebuie să învețe mai întâiu, cum a fost soarta altor popoare, și fiindcă aceasta rau-i era înlesnit iprintr’o învățătură, pe care ar fi primit-o mai nainte, de aceea el împrumută bucuros lumina dela Arhimandritul Ilarion. Ce-l făcuse să fie ciracul, tocmai al acestui om, nu era atât mulțimea de cărți, pe care le cetise Arhimandritul, și pentru care un diplomt francez, care petrecuse în Țară, îl numise: <foreign>„une bibliotheque renversee”</foreign> cât mai ales acel interes viu, pe care-l avea dânsul pentru trecutul României, îngropat de Fanarioți supt povara disprețului lor. La întrebarea, ce i-o făcut <gap/> cum a făcut Arhimandritul Ilarion ca să <gap/> acel trecut, primi răspunsul: „În biserica dela Mănăstirea mea, Dealu, se află căpățâna lui Mihaiu Viteazul. A dus-o acolo la Târgoviște, sunt acum două sute de ani si mai bine. Radu Buzescu, prietenul și tovarășul lui Mihaiu, scăpând-o din tabăra dela Turda, unde a fost ucis Domnul său prin vânzare. După vecernie, când încetează toaca și clopotele, rămân' adeseori, eu ’singur, în biserică și stau de vorbă cu țeasta. Ne înțelegem mai bine cu morții, decât cu cei vii, fiindcă îi ascultăm cu evlavie, și fiindcă împrejurul lor se revarsă domnia păcei. Eu am învățat mult dela acel Viteaz. El mi-a spus: „Dacă vrei să înțelegi viitorul, cercetează trecutul! Numai dela rădăcină vine puterea copacului. Dacă o găsești acolo, și o simți, atunci nu mai desnădăjduești. Eu, Mihaiu, sunt rădăcină".</p>
 <p>Această limbă o înțelegea Tudor Vladimirescu, puiul de Oltean.</p>
 <milestone unit="unnumbered"/> 
 <p>Viscolul de afară nu încetă, aruncă pânze întregi, de zăpadă pe ferestrele, lângă care străluceau florile lui Ilarion. Prin odaie plutiau norișori albăstrii de fum de tutun. Eră noaptea târziu și pietenii tot mai ședeau împreună, adânciți în vorbă.</p>
@@ -2810,7 +2813,7 @@ rămâie pribeag prin lume; numele lui să fie șters din cartea celor vii, și 
 <p>Dar mai mare cinste făcea filozofiei sale, felul cum își alesese domnișoara de onoare. Ori era cea mai înaltă cochetărie intelectuală, care punea fru-museței Sultanei drept folio pentru sine? Fără pizmă, ba chiar cu admirare pentru prietena sa, Ralu Caragea lăsă să străluciască, alături, ace drăguță ființă. Mai presus de toate însă prețuia puterea acestei tinere Rumânce, de a-și însuși înaltele cugetări și simțiri frumoase. Aceste fete nu aveaiu o mulțumire mai mare, decât atunci, când vorbiau împreună, până într’un târziu din noapte, despre artă sau de metafizică.</p>
 <p>—„Ei? ce te gândești?, zise Ralu, văzând pe Sultana pierdută în gânduri și jucându-se cu lanțul de mărgean, care-i atârnă împrejurul gâtului. „Spune-mi, vorbește !"</p>
 <p>— „Îmi vine prea greu", răspunse Sultana cu sfială.</p>
-<p> — „Să știi iubita mea", o povățui tânara fanariotă „să știi că, dacă este grea și ad <gap></gap> care trebuise s'o spunem, atunci vorbele pe cari le întrebuințăm trebuiesc să fie cât mai nemeșteșugite. Vreau să te ajut să ieși la mal. despre ce lucru vrei să-mi vorbești?”</p>
+<p> — „Să știi iubita mea", o povățui tânara fanariotă „să știi că, dacă este grea și ad <gap/> care trebuise s'o spunem, atunci vorbele pe cari le întrebuințăm trebuiesc să fie cât mai nemeșteșugite. Vreau să te ajut să ieși la mal. despre ce lucru vrei să-mi vorbești?”</p>
  <p>— „Deapre Karl Moor”, furăspunsul încețișor al Sultanei. </p>
  <p>— „Karl Moor,” zise domnița cu aprindere, „este șuferința pentru un ideal întrupată într-un om!El are simțiri atât de vii cum nu le pot avea oamenii de rând!Puțini tineri ar fi căzut la asemenea desnădăjduire, numai din pricina că n-au fost pricepuți de părinții lor. Și nu vor fi desigur mulți cari, după ce au fost siliți să se facă tâlhari, să întrebuințeze această meserie mai ales pentru scopuri atât de mărețe, foarte puțini cărora nedreptatea suferită de ei le inspiră compătimirea pentru suferințele altora! Căci mai ales de acest lucru se ferește omul de rând, ca de ceva ridicol, ca de ceva nepractic. El crede că e venit pe lume numai ca să se bucure. Supărarea și compătimirea nu sunt însă bucurii. Cu supărare și compătimire se poate hrăni numai un suflet copilăresc, un suflet idealist, un suflet atât de simțitor, iubitor de alții, cum aera al acestui Căpitan de hoți. Amestecătura de mare visător și de o sălbatecă bărbăție este ceea ce ne face să fim așa de încântat de Karl Moor. Vezi tu, un astfel de om aș putea și eu să-l iubesc, eu care sunt atât de pătrunzătoare în judecata bărbaților, cum spune fratele meu. Eu aș putea iubi un asemenea om, dacă s-ar găsi undeva pe lume!</p>
 <p>Sultana-i răspunse:</p>
@@ -2961,7 +2964,7 @@ rămâie pribeag prin lume; numele lui să fie șters din cartea celor vii, și 
 <milestone unit="unnumbered"/>
 <p>Ceeace nu spusese Jianu frumoasei Domnica era că, aflase, prin boierul Vasile Moangă, că ocârmuirea se pornise, în anul acesta, din vreme, să pună mâna pe groaznicul haiduc, și că spre acest sfârșit a fost trimis anume Cârc Sărdarul Iamandi în Oltenia, cu o potera mare de peste trei sute de oameni. Că căutasera pe Jianu mai întâiu în Mehedinți, și că acum Cârc Sărdarul ar fi în Târgu-Jiului. Că apoi se va îndrepta, cum se crede, spre Râmnic, că toată ziulica el înjură mereu, fiindcă știrile, ce se află despre ascunzătoarea lui Jianu, se lovesc în capele una cu alta.</p>
 <p>Iancu, care chemase roata lui Svârlugă, ca să calce cu ei mănăstirea Horezului, unde „stăpânia" igumenul Grec Chrisant, cu chefuri și zaiafeturi, se hotărî acum, să nu mai iasă din călea poterei, ci vesti în grabă încă două cete, să vie cu el.</p>
-<p>Din lunga odihnă de peste iarnă și din ceasurile de mulțumire, firea lui de luptător ieșise acum cu noile puteri. Plăcerile dragostei, în mica odăiță, aveau farmec pentru el numai atâta timp, cât nu înverzise iarba și copacii. Dar chiar și atunci Iancu pismuia câteodată pe vulturii și urșii, cari puteau să steâ în codru pe viscol și în zăpada. Abia intrase în pădure și abia trase în piept mirosul! de primăvară al pământului, al frunzișului dintâiu, abia șezuse lângă foc și auzise, ațipind, cel din urmă tușit al cailor și bătaia lor din picioare, abia simțise iară și văzuse, cum viforul, gonind nor <gap></gap> cea prin vârfurile copacilor, — și îndată sângele lui se liniști și se răcori, fiindcă numai sângele fusese în joc peste iarnă.</p>
+<p>Din lunga odihnă de peste iarnă și din ceasurile de mulțumire, firea lui de luptător ieșise acum cu noile puteri. Plăcerile dragostei, în mica odăiță, aveau farmec pentru el numai atâta timp, cât nu înverzise iarba și copacii. Dar chiar și atunci Iancu pismuia câteodată pe vulturii și urșii, cari puteau să steâ în codru pe viscol și în zăpada. Abia intrase în pădure și abia trase în piept mirosul! de primăvară al pământului, al frunzișului dintâiu, abia șezuse lângă foc și auzise, ațipind, cel din urmă tușit al cailor și bătaia lor din picioare, abia simțise iară și văzuse, cum viforul, gonind nor <gap/> cea prin vârfurile copacilor, — și îndată sângele lui se liniști și se răcori, fiindcă numai sângele fusese în joc peste iarnă.</p>
 <p>Acuma se vedea iară în mijlocul codrului de stejari, cu verdele lui frunziș de primăvară, așa de deschis, încât chiar când cădea ploaia, se părea că-l mai străbate încă lumina soarelui. Cetele de privighetori cântau așa de tare, încât pare că se simția lovirea cântecului lor în ureche. Care glas de femeie se putea asemăna cu asemenea cântare?. Buzele cărei femei puteau să mângâie așa de lin cum mângâie vântul. Brațele cărei femei puteau să strângă așa de tare și să să legene așa de puternic ca vijelia? Cine a dormit vreodată la sânul naturei are o măsură cu totul altfel pentru toate, lucruri și simțiri. Iancu Jianu era unul dintre acei fericiți, carii nu poț să fie subjugați vreme îndelungată de simțurile lor.</p>
  <p>Căpitanul,avea acum dorința să se măsoare cu o întreagă oștire, și oamenii lui se uitau la el ca la un Dumnezeu.</p>
 <p>Abia se adunaseră  cele patru cete de haiduci, vreo cincizeci de oameni cu toții, când și aduseră iscoadele vestea ca potera se apropie.</p>
@@ -2984,7 +2987,7 @@ rămâie pribeag prin lume; numele lui să fie șters din cartea celor vii, și 
 <p>Treizeci sau și mai mulți Arnăuți fură culcați iarăși la pământ, și în loc să se arunce asupra- lui Jianu, cum ardea de dorință să facă, Iamandi trebui să-și încordeze toate puterile, spre a-și aduna potera împrăștiată, fiindcă haiducii, îndemnați de minune, răsbăteau când în gloate, când intra în ichiu prin șirurile poterașilor.</p>
 <p>Nu era cu putință a se împotrivi la năvala lor, fiindcă ei nu erau lefegii. Fiecare din haiduci se luptă hotărît pentru ceeace-l privia deadreptul. Și toți se luptau cu acea vitejie a desnădăjduirii, care  i adusese în codri. Cu țipete turbate și cu gemete sse repeziau la bătălie. împușcăturile se auziau numai rare, dar era groaznică încăierarea, pe piept luminată de sfințitul scoarelui.</p>
 <p>Iamandi încă nu găsise prilejul pentru o luptă dreaptă cu Jianu. fiindcă, dela început, haiducii îi împușcasera pe cei trei buluc-bași ai lui, așa încât n’avea cine să-l ajute să-și adune oamenii și să-i stăpânească. Deocamdată nici Jianu nu doriâ de loc o „luptă dreaptă" cu Iamandi, ci silința lui era să-i nimicească toată potera, care era de șase ori mai numeroasă decât haiducii lui; Vroiâ s’o nimicească înaintea ochilor Cârc Sărdarului. Pe umnă' putea să vină și rîndul lui Iamandi. </p>
-<p>Nu mai încăpea îndoială, Arnăuții începe <gap></gap> retragă pe supt copaci, pe unde se lățiau <gap></gap>de seară. Haiducii se repeziau, sărind dup <gap></gap> ca niște pisici sălbatice, obișnuiți cum erau, cu codrul și cu ale lui.</p>
+<p>Nu mai încăpea îndoială, Arnăuții începe <gap/> retragă pe supt copaci, pe unde se lățiau <gap/>de seară. Haiducii se repeziau, sărind dup <gap/> ca niște pisici sălbatice, obișnuiți cum erau, cu codrul și cu ale lui.</p>
 <p>Iamandi striga la poterașii săi: „Stați! Dați focuri!"</p>
 <p>Vreo câteva împușcături mai porniră.</p>
 <p>Un șuerat pătrunzător însă străbată pădurea, și deodată încetă toată gălăgia. Noaptea cu tăcerea ei împresură pe Arnăuți. Parcă bezna înghițise pe toți haiducii.</p>
@@ -3004,8 +3007,8 @@ rămâie pribeag prin lume; numele lui să fie șters din cartea celor vii, și 
 <p>Sus la poarta cea dintâiu, întărită cu fierarie, numele Cârc-Sărdarului, precum și frumoasa lui vorbă „Romeica", îi înlesni intrarea, iar întreaga potera fu găzduită în curtea cea mare a argaților, unde se aflau grajdurile Prea Sfinției Sale.</p>
 <p>Prin poanta a doua intră Iamandi, singur.</p>
 <p>Tocmai se sfârșise rugăciunea de seară și prin ușa, luminată roșiatic, a bisericii, ieșia un șir lung de mici lumânărele, ale căror șubredă lumină făcea să se vadă umbrele călugărilor, precum și fetele lor. În fruntea tutulor, cu cârja în mână, păși igumenul Chrisant, un om tânăr, foarte frumos, puternic și care era mare iubitor de petreceri.</p>
-<p>Când se vesti musafirul și se înfățișă în igumenul îl primi cu prietenie, și-i întinse mâna cea albă, ca s-o sărute. „Dumnezeu să te aibă în pază, viteazule Cârc Sărdar <gap></gap> face, că te văd. Tu știi cât <gap></gap> torati acum de tâlharii de <gap></gap></p>
-<p>— „Vin tocmai din <gap></gap> Sfinte Părinte", zise <gap></gap> de ceasuri ne-am luptat. Eu și cu o sută a mea de oameni împotriva lor, cari erau cel puțin o suită și cincizeci de haiduci, urcați încă și întăriți prin copaci. Erau conduși de însuși Iancu Jianu".</p>
+<p>Când se vesti musafirul și se înfățișă în igumenul îl primi cu prietenie, și-i întinse mâna cea albă, ca s-o sărute. „Dumnezeu să te aibă în pază, viteazule Cârc Sărdar <gap/> face, că te văd. Tu știi cât <gap/> torati acum de tâlharii de <gap/></p>
+<p>— „Vin tocmai din <gap/> Sfinte Părinte", zise <gap/> de ceasuri ne-am luptat. Eu și cu o sută a mea de oameni împotriva lor, cari erau cel puțin o suită și cincizeci de haiduci, urcați încă și întăriți prin copaci. Erau conduși de însuși Iancu Jianu".</p>
 <p>— „Conduși de Jianu?" trecu vorba din gură în gură printre Călugării speriați, cari-și făceau la cruci.</p>
 <p>Igumenul mai porni și un blestem, fierbinte, împotriva lui Jianu, acest câine de Vlah, râios, și Iamandi adaose: „Era cât pe-aci să pun mâna pe el, fiindcă l-am rănit, eu, cu mâna mea. L-aș avea acuma, dacă n’ar fi fugit, și n’ar fi dosit, dimpreună cu cei o sută cincizeci de oameni ai lui".</p>
 <p>— „Unui viteaz ca tine, nu poate să-i mai scape a doua oară", îl mângâia igumenul, „Și am de gând să înștiințez chiar eu pe Vodă, — fiindcă  tocmai un lipcan la Măria Sa, încă mâine dimineața, — că ești pe calea cea mai bună, ca să scapi Țara aceasta, nemernică, de cea mai mare pacoste care o bântuiește. Știi că eu am trecere la Vodă, și dacă ai avea vreo dorință...."</p>
@@ -3369,7 +3372,7 @@ rămâie pribeag prin lume; numele lui să fie șters din cartea celor vii, și 
         
 <milestone unit="unnumbered"/> 
 <p>În seara zilei următoare se vedea pe cer, la Apus, pe deasupra satului Corlătești, moșia lui Dumitru Jianu, o mulțime de nori prelungi, cenușii-albaștri. Pe supt ei atârnă o perdea roșie ca jeratecul, cu multe cute, ca o stofă de profir, cusută cu aur. Incepuse sa se întunece, și numai fâșiile acestea de foc mai Luminau în zare, și roșiau fetele caselor din sat, care erau așezate spre Apus.</p>
-<p>Aceeași lumină neobișnuită juca și în <gap></gap>, pe care intră acum un călăreț în curtea boierului Dumitru. Câinii se porniră pe lătrat, și slugile se repeziau să iasă întru întâmpinarea musafirului.</p>
+<p>Aceeași lumină neobișnuită juca și în <gap/>, pe care intră acum un călăreț în curtea boierului Dumitru. Câinii se porniră pe lătrat, și slugile se repeziau să iasă întru întâmpinarea musafirului.</p>
 <p>Călărețul le zise: „Vestiți pe stăpânul-vostru că a sosit zapciul din plasa Obârșia, dorind să-i vorbească".</p>
 <p>În curând se auzi din pridvor prietenosul glas al stăpânului casei: „Bine ai venit, boierule Tache, bine ai venit!"</p>
 <p> Călărețul descălică și se urcă în sus la ciardac. Acolo era lumină, fiind deschisă ușa dela sală.</p>

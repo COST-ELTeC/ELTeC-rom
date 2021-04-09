@@ -1,7 +1,9 @@
-﻿
-<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" 
-    xml:id="ROM095" xml:lang="ro">
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM095" xml:lang="ro">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,36 +27,39 @@
                 <measure unit="pages">468</measure>
             </extent>
             <publicationStmt>
-                <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-                <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-                <availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-            </publicationStmt>
-            <sourceDesc>
-                <bibl type="printSource">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3543111">ELTeC-rom</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662599">ELTeC-rom release 0.9.0</ref>
+</publicationStmt>
+            <sourceDesc><bibl type="printSource">
                     <author>Baronzi, George</author>
                     <title>Misterele Bucurescilor</title>
                     <pubPlace>Bucharest</pubPlace>
                     <publisher>Typographia jurnaluluĭ Naționalul, Otelul Bossel, Nr. 18.</publisher>
                     <date>1862</date>
                     <ref target="http://doi.org/10.5281/zenodo.4589423">Facsimile on zenodo</ref>
-                </bibl>
-            </sourceDesc>
+                </bibl></sourceDesc>
         </fileDesc>
         <encodingDesc n="eltec-1">
-            <p></p>
+            <p/>
         </encodingDesc>
         <profileDesc>
             <langUsage>
-                <language ident="ro"></language>
+                <language ident="ro"/>
             </langUsage>
             <textDesc>
-                <e:authorGender key="M"></e:authorGender>
-                <e:size key="long"></e:size>
-                <e:canonicity key="low"></e:canonicity>
-                <e:timeSlot key="T2"></e:timeSlot>
+                <e:authorGender key="M"/>
+                <e:size key="long"/>
+                <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+                <e:timeSlot key="T2"/>
             </textDesc>
         </profileDesc>
         <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
             <change when="2019-09-20">Initial TEI version generated.</change>
         </revisionDesc>
     </teiHeader>
@@ -2289,7 +2294,7 @@
                     <head>AMOR ȘI AUR.</head>
                     <p>Dup’o asceptare de mai multe dile, Dalia vĕdênd chĕ sociul ei nu mai venia, și credêndu-se în-fine părăsită de dînsul, de și nu făcuse nici un pas, nici o cercare spre a descoperi retragerea sa, sau a se încredința chĕ nu trebuia sĕ mai spere nimicu în privința reîntrunirei sale cu Danibal, vĕdêndu-se dară scăpată de un jugu ce devenise nesuferit pentru dînsa, Dalia sĕ detesĕ cu totul dupe voia plăcerilor și a petrecerilor de la quari, dicea ea, era în dreptu sĕ céră mînghîerea unei femei părăsite.</p>
                     <p>Érna era încă în culmea asprimei sale, și puçinele dile de carnaval ce mai remăseseră, Dalia nu voiea sĕ le vadă trecênd cu indiferință, fără qua sĕ tragă din ele un profit, sub tótă resĕrva bunelor cuviințe și a moralității nevătĕmate, dupe cum pretinde cea mai mare parte a publicului.</p>
-                    <p>Optu óre bătuseră quând Dalia, dupe ce se înserbători cu tot ce avea mai elegant, mai frescu, mai >de bunu gustu, mai modernu, dupe ce a făcut mai de multe ori revista gătelei sale prin desele și pline de esperiință ochiade aruncate din quând în quând asupra unei psichee, în façia quăria stătuse mai multu de doĕ ore, sĕ aședă pe un fotoliu al quăruia spate se afla în vecinătate c’un cămin bine aprovisionat cu focu, și aștepta cu multă nepace și cu un neastîmpĕr învederat visita unui omu quare ’i o promisese chiar în diminéța acelei dile.</p>
+                    <p>Optu óre bătuseră quând Dalia, dupe ce se înserbători cu tot ce avea mai elegant, mai frescu, mai &gt;de bunu gustu, mai modernu, dupe ce a făcut mai de multe ori revista gătelei sale prin desele și pline de esperiință ochiade aruncate din quând în quând asupra unei psichee, în façia quăria stătuse mai multu de doĕ ore, sĕ aședă pe un fotoliu al quăruia spate se afla în vecinătate c’un cămin bine aprovisionat cu focu, și aștepta cu multă nepace și cu un neastîmpĕr învederat visita unui omu quare ’i o promisese chiar în diminéța acelei dile.</p>
                     <p>Persóna asceptată încă de la începutul înserării veni abia pe la nouĕ ore; sosirea sa resipi norii îndoelei în quare sĕ afla biata femeiă.</p>
                     <p>Acestu omu era maiorul Orosin.</p>
                     <p>— Bună séră, domnule baron, dise Dalia spre a respunde salutării acestuia. În fine te vĕdu sănătos și scăpat ca prin minune de pericolul quare te amenința. Sunt fórte voiósă chĕ ai putut înfrunta furia fantasmelor între quari ai fost nevoit sĕ locuesci în óre-quare suterană fără lumină și fără aer. Dar mi închipuescu ce temere cată sĕ fi simțit în singurătatea acelui locu spăimîntător și cu nisce óspeți, a quărora vedere singură înghiaçiă sângele în vinele unui omu. . . Ce înfiorător lucru! Bietul baron! . . Dar trage-ți un fotoliu mai lîngă focu; salonul è quam rece. . . Credu chĕ nu mĕ vei fi luând și pe mine dreptu vre una din fantasmele cu quari ai petrecut atâte dile ; așa è? Uită-te în façia mea și spune-mi daqua am cea mai mică asemănare cu compania ce ți a ținut de urît pene mai de-ună-di.</p>

@@ -1,4 +1,8 @@
-﻿<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM093" xml:lang="ro">
  <teiHeader>
   <fileDesc>
@@ -19,36 +23,39 @@
     <measure unit="pages">153</measure>
    </extent>
    <publicationStmt>
-     <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-     <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-     <availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-   </publicationStmt>
-   <sourceDesc>
-     <bibl type="firstEdition">
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3543111">ELTeC-rom</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662599">ELTeC-rom release 0.9.0</ref>
+</publicationStmt>
+   <sourceDesc><bibl type="firstEdition">
              <author>Zamfirescu, Duiliu</author>
      <title>Anna (ceea ce nu se poate). Roman</title>
      <pubPlace>Bucharest</pubPlace>
       <publisher>EDITURA ȘI INSTITUTUL DE ARTE GRAFICE C. SFETEA</publisher>
      <date>1911</date>
            <ref target="http://doi.org/10.5281/zenodo.4589404">Facsimile on zenodo</ref>
-    </bibl>
-   </sourceDesc>
+    </bibl></sourceDesc>
   </fileDesc>
    <encodingDesc n="eltec-1">
-   <p></p>
+   <p/>
   </encodingDesc> 
    <profileDesc>
    <langUsage>
-    <language ident="ro"></language>
+    <language ident="ro"/>
    </langUsage>
      <textDesc>
-       <e:authorGender key="M"></e:authorGender>
-       <e:size key="short"></e:size>
-       <e:canonicity key="high"></e:canonicity>
-       <e:timeSlot key="T4"></e:timeSlot>
+       <e:authorGender key="M"/>
+       <e:size key="short"/>
+       <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+       <e:timeSlot key="T4"/>
      </textDesc>
    </profileDesc>
   <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
    <change when="2021-02-20">Initial TEI version generated.</change>
   </revisionDesc>
  </teiHeader>
