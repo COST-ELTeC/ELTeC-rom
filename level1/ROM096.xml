@@ -17,6 +17,10 @@
                                                             <resp>Recorectat si citit de </resp>
                                                             <name>Smarandita Vasilache</name>
                                                 </respStmt>
+                                                <respStmt>
+					<resp>Generat Transkribus </resp>
+					<name>Roxana Patras</name>
+				</respStmt>
                                     </titleStmt>
                                     <extent>
                                                 <measure unit="words">24946</measure>
