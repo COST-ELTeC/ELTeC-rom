@@ -7,7 +7,7 @@
         <author>Aricescu,C.D. (1823-1886)</author>
         <respStmt>
           <resp>codare ELTeC</resp>
-          <name>Smarandita Vasilache</name>
+          <name>Smarandita Vasilachi</name>
         </respStmt>
         <respStmt>
           <resp>codare ELTeC</resp>
@@ -15,7 +15,7 @@
         </respStmt>
         <respStmt>
           <resp>Recorectat si citit de </resp>
-          <name>Smarandita Vasilache</name>
+          <name>Smarandita Vasilachi</name>
         </respStmt>
       </titleStmt>
       <extent>
@@ -53,7 +53,7 @@
       </textDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2021-09-15">Annotation in ELTeC format: Smarandita Vasilache, Lucretia Pascariu</change>
+      <change when="2021-09-15">Annotation in ELTeC format: Smarandita Vasilachi, Lucretia Pascariu</change>
       <change when="2019-03-19">Ocerization: Lucretia Pascariu</change>
     </revisionDesc>
   </teiHeader>
