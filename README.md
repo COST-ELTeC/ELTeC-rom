@@ -18,7 +18,7 @@ Currently, the ELTeC-rom collection contains novels encoded at level 1. The corp
 
 * Collection editor: Roxana Patras.
 * Contributors (scanning, OCR & encoding): Ioana Lionte, Lucretia Pascariu, Alexandra Olteanu. 
-* Contributors (manual cleanup): Alexandra Ruscanu, Laura Ciobanu, Lorena Vlad, Manuela Ursu, Raluca Miron, Emanuela Gutu, Georgiana Apreotesei.
+* Contributors (manual cleanup): Alexandra Ruscanu, Laura Ciobanu, Lorena Vlad, Manuela Ursu, Raluca Miron, Emanuela Gutu, Georgiana Apreotesei, Smarandita Vasilachi.
 * Sources: Biblioteca Metropolitana din Bucuresti, Biblioteca Universitara "Mihai Eminescu" din Iasi, Biblioteca Judeteana din Botosani, personal micro-collections uploaded on Zenodo under the following labels: "*Hajduks Library*"; "*RomanianNovel Library*"; "*CityMysteries Library*"; "*BibliotecaDHL_Iasi*" .
 
 For all novels included in this collection, scanning, OCR, and manual clean-up was performed by the Digital Humanities Laboratory (UAIC), Iasi.
