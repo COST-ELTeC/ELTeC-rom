@@ -27,11 +27,11 @@
                                                 <measure unit="pages">292</measure>
                                     </extent>
                                     <publicationStmt>
-                                                <distributor ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</distributor>
+                                                <!--<distributor ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</distributor>
                                                 <date when="2021-04-27"/>
                                                 <availability>
                                                             <licence target="https://creativecommons.org/licenses/by/4.0/"></licence>
-                                                </availability>
+                                                </availability>--><p/>
                                     </publicationStmt>
                                     <sourceDesc><bibl type="firstEdition">
                                                 <author>Pelimon, A</author>
