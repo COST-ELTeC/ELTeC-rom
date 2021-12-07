@@ -15,7 +15,7 @@
             </respStmt>
          </titleStmt>
          <extent>
-            <measure unit="words">9817</measure>
+            <measure unit="words">10128</measure>
             <measure unit="pages">128</measure>
          </extent>
          <publicationStmt>
@@ -45,7 +45,7 @@
          </langUsage>
          <textDesc>
             <e:authorGender key="U"/>
-            <e:size key="medium"/>
+            <e:size key="short"/>
             <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
             <e:timeSlot key="T3"/>
          </textDesc>
