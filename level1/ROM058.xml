@@ -55,7 +55,7 @@
         
         <textDesc>
             <e:authorGender key="M"/>
-            <e:size key="medium"/>
+            <e:size key="short"/>
             <e:reprintCount key="high"/>
             <e:timeSlot key="T2"/>
         </textDesc></profileDesc>
