@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:e="http://distantreading.net/eltec/ns" xml:id="ROM024" xml:lang="ro">
    <teiHeader>
       <fileDesc>
@@ -23,7 +19,7 @@
             <measure unit="pages">381</measure>
          </extent>
          <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<!--publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher-->
 <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
 <availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
 <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
@@ -48,10 +44,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender key="F"/>
-            <e:size key="long"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-            <e:timeSlot key="T4"/>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+            <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+            <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -8524,4 +8520,1387 @@
             <p>Căpitanii veneau din toate unghiurile taberii; ei se strângeau împrejurul băncii, pe
                care şedeau adjutantul şi tunarul. Fiecare, privind la lumina focului, pe oel
                spânzurat, îşi făceau cruce, şi cu cât se uitau la el cu atât creştea fierberea
-               printre ei. Vorbeau pe înăbuşite. Vorbeau de Urdăreanu ca de floarea panduri
+               printre ei. Vorbeau pe înăbuşite. Vorbeau de Urdăreanu ca de floarea pandurilor şi-i
+               jeleau tinereţele, frumuseţea, vitejia bunătatea înţeleaptă a firii. „Băeţii îl
+               ascultau ca şi cum ar fi fost om încercat, pentru că era drept, şi pen-trucă, după ce
+               răcnise la ei, se însenina repede”.</p>
+            <p>„Oamenii lui stau acolo lângă salcie şi plâng”, zise scurt Frunte-Lată, şi apoi tăcu,
+               căci şi lui i se înecase graiul.</p>
+            <p>„Vai de biata mumă-sa”, zise altul, şi adăogă, în-dreptându-se către Caleţeanu şi
+               Cioreanu; „să vă răsplătească Dumnezeu că l-aţi scăpat pe celălalt. Unde e
+               Enescu?”</p>
+            <p>Unii aflaseră că Sârbii îl ascunseseră.</p>
+            <p>„Dar Oarcă? şi Cuţui? — De nu i-ar fi ucis şi pe ei”.</p>
+            <p>„Oarcă şi Cuţui sunt aci”, grăi o voce în întuneric. </p>
+            <p>Răspunsul era dat de Oarcă, dar cu un glas atât de stins, încât ceilalţi nu-1
+               recunoscură pe dată.</p>
+            <p>Apoi li se făcu loc în mijlocul căpitanilor. Cuţui tăcea ;bărbaţii nu vedeau,din
+               pricina beznei, lacrămile ce curgeau pe faţa sa slabă. Tăceau toţi ca la biserică, ca
+               să-l asculte pe Oarcă.</p>
+            <p>Fraţilor, stăm rău”, începu acesta, care trecea după Tudor Vladimirescu ca oel dintâi
+               în adunarea norodului. „Ion Urdăreanu şi-a pierdut viaţa, Ene Enescu însă a pierdut
+               şi mai mult. Venim delà casa dascălului, unde-1 duse Hagi Prodan. Ii bate inima aşa
+               de tare, încât nu poate vorbi. A pierdut mai mult decât Urdăreanu, — şi ce pierdu el,
+               pierdurăm şi noi. Căci dumnezeul ostaşului este căpitanul său.</p>
+            <p>Şi nu ne mai putem încrede în dreptatea căpitanului nostru. Fraţilor, ne pierdurăm
+               dumnezeul nostru.</p>
+            <p>Deodată se auziră lovituri dinăuntru „Cine e?” întrebă straja.</p>
+            <p>„Eu sunt, eu Makedonski”, fu răspunsul răstit „deschide”.</p>
+            <p>Makedonski ieşi, ducând un cal alb de frâu.</p>
+            <p>„Să fie adevărat”, întrebă el grăbit, „că slugerul a spânzurat pe Urdăreanu?”</p>
+            <p>Drept răspuns i se arătă priveliştea din lumina focului.</p>
+            <p>„Şi voi staţi aci şi vă jeliţi şi răbdaţi;?” se răsti arnâutul către Români, „ori
+               n’aveţi sânge în vine. Ucide azi pe unul, mâine pe altul, fără nici o jude cată. Vă
+               ia drept ce sunteţi, vite încălţate. Credeţi ca puteţi da seamă pandurilor voştri de
+               ce sa întâmplat Să ştiţi, că toţi sunt nemulţumiţi şi sătui să fie jertfele mâniei
+               lor oarbe, şi că se vor scula împotriva voastră, de mai ţineţi ai nebunul acesta,
+               care taie floarea neamului său, — şi de ce? Pentru ce atârna acolo de salcie
+               mândreţea aceea de tânăr? Cu doua ceasuri înainte trăia şi el ca voi şi ca mine, şi
+               îl urma nebănuitor pe comandirul său...”</p>
+            <p>„Doamne, Sfinte Doamne”, se ridică vocea lui Cu ţui cu atâta jale, încât arnăutul se
+               opri din cuvântarea sa plină de focul urei. „De ce, în loc să ne ascundem, nu ne
+               duserăm şi noi, când ne chemă Domnul Tudor? Noi îl cunoşteam şi ştiam că se gândea la
+               răzbunare. Cum de nu ne ziserăm noi că o să cheme şi pe băeţi! De eram noi, îl scăpăm
+               pe Urdăreanu, cum îl scăpară Cioreanu şi Caleţeanu pe Enescu. Suntem bătrâni, nu
+               făcea slugerul cu noi ce făcu cu copiii”.</p>
+            <p>„La nimic nu izbuteaţi, frate Cuţui”, zise Frunte-Lată, „ceata uciderii fu chemată la
+               sălcii”.</p>
+            <p>Dar Cuţui nu se putu mângâia şi zicea mereu: „Numai noi suntem de vină!”</p>
+            <p>Makedonski izbucni iarăş: „Iar bocete. E încă timp să scăpaţi cu viaţă, deci spuneţi
+               un cuvânt hotărîtor. Ce voiţi să faceţi? Vreţi să-l ascultaţi, ca înainte pe
+               smintitul de colo de sus'?”</p>
+            <p>Toţi se împotriviră: „Nu, nu mai putem”.</p>
+            <p>„Atunci lăsaţi-vă pe mine”, urmă Makedonski. ,.şi pc Hagi Prodan, ştiţi bine că vă e
+               un tovarăş credincios. Vreţi să vă ajutăm?”</p>
+            <p>Ei primiră.</p>
+            <p>„Aşteptaţi-mă până mâine, pentru că-1 voi înştiinţa pe Iordache. Pe Tudor
+               Vladimirescu îl las în paza voastră”, zise Makedonski.</p>
+            <p>Apoi sări călare şi o luă spre Piteşti.</p>
+            <p>Căpitanii ţinură încă un sfat scurt, după care doi din ei intrară în curte, doi
+               rămaseră lângă poartă cu Cioreanu şi Caleţeanu, pe când ceilalţi plecară în grabă
+               spre tabără.</p>
+            <p>Scânteia răzvrătirii sărea ca fulgerul delà o inimă Ia alta. Căci căpitanii aveau
+               mare trecerre pe lângă panduri.</p>
+            <p>Caleţeanu şi Cioreanu se gândeau în zadar, cum puteau să prevestească pe Domnul
+               Tudor; tovarăşii lor nu se mişcau de lângă ei şi îi împiedicau chiar să vorbească
+               împreună, căci văzuseră bine, că nici adjutantul, nici tunarul nu se uniseră cu
+               părerea lui Makedonski.</p>
+            <p>Se făcu ziuă. Una din străji ieşise din foişor şi zise că Domnul Tudor se sculase, şi
+               când comandirul se coborî, găsi pe toţi căpitanii săi aşteptându-1. Insă erau
+               întunecaţi la faţă, şi tăcerea lor îl înconjurară ca un zid. El se uită spre sălcii,
+               se întoarse către Cioreanu şi zise: „Daţi-1 jos pe Urdăreanu şi îngropa-ţi-1”, şi
+               după o clipă adăogă: „cu paradă ostăşească, după cinul său de căpitan”.</p>
+            <p>Noaptea potolise întru câtva mânia sa. Nu pomeni nici de Enescu, nici de ceilalţi doi
+               căpitani.</p>
+            <p>După un ceas câteşi trei stăteau cu companiile lor la groapa tovarăşului lor. Enescu,
+               cu toate rugăciunile celor doi bărbaţi mai bătrâni, nu voise să lipsească delà
+               înmormântare. Din când în când ei aruncară o privire părintească şi îngrijorată
+               asupra tânărului căpitan. Acesta părea îmbătrânit cu câţiva ani: era tras la faţă, şi
+               sprâncenele îi tresăreau câte odată de durere. Azi Enescu răbda tot.</p>
+            <p>Răbda să vadă apropiindu-se sicriul deschis, purtat pe umeri de opt panduri, şi privi
+               lung în faţa prietenului său. Fiindcă ştreangul îi rupsese şira spinării, capul bălan
+               cu pletele sale aurii, fusese aşezat foarte sus în sicriu, şi aceasta îi dădea o
+               măreţie, care se uni cu măreţia morţii. Frumuseţea lui era uimitoare, în casa
+               preotului, unde fusese pus în cosciug, femeile îl acoperiseră cu liliac înflorit, şi
+               cu el însăşi primăvara părea dusă la groapă.</p>
+            <p>După ce clopotele, focurile de puşcă şi bătăile tobelor tăcură, Cioreanu se întoarse
+               la foişor, pentru a vesti pe Domnul Tudor, că porunca îi fusese împlinită.</p>
+            <p>Aci găsi o ceată de arnăuţi străini. Venise căpitanul Iordache, şi era sus cu
+               Vladimirescu. t</p>
+            <p>Grecii păzeau sub poartă şi sub scară. Iar jos şi sus stăteau mulţi panduri cu
+               chipurile întunecate şi ame ninţătoare.</p>
+            <p>In odaia din foişor Domnul Tudor şedea cu Olimpianul pe divan şi bea cafeaua, pe care
+               o făcuse Preda, şi pandurul întindea tocmai tava cu feligene celorlalţi arnăuţi,
+               sălbatecului Farmache şi căpitanilor Mihalea şi Ghenciu. Căci ceremonia turcească a
+               cafelelor în-soţia chiar întâmplările cele mai grave.</p>
+            <p>După ce băuse, Olimpianul zise: „Voim să aflam, arhon sluger, de ce ai spânzurat
+               ieri, fără judecată pe căpitanul Urdăreanu, şi în drumul dela Bucureşti până la
+               Goleşti, pe cei trei zeci de ostaşi? nu e asta pravilă ostăşească, şi ne-a amărît
+               rău”.</p>
+            <p>Domnul Tudor răspunse: „Sunt în ţara mea, cu sabia mea”.</p>
+            <p>„Nedreptate tot nedreptate rămâne”, zise Iordache „şi oamenii se plâng de tine”.</p>
+            <p>„Pusu-te-au judecător peste mine?”</p>
+            <p>„Mi-au cerut ajutor. Şi beizadeaua Gheorghe Yp-silanti, îţi trimite vorbă, că, cu
+               toate că v’aţi înţeles ieri, el nu se mai poate încrede în tine, căfci i s’a adus,
+               azi noapte, o nouă dovadă că ţii cu Turcii. Iacă”. Şi Olimpianul scoase iarăş o
+               scrisoare, pe care o întinse căpeteniei pandurilor cu o mână tremurătoare, căci îl
+               scuturau frigurile rău.</p>
+            <p>Era acea scrisoare către paşaua delà Silistra, Ia care Vladimirescu nu primise
+               răspuns; fuse c deci prinsă, şi acuma slujea ca armă împotriva lui. Aceasta nu putea
+               fi decât fapta căpitanului Sava.</p>
+            <p>Domnul Tudor privi hârtia şi tăcu.</p>
+            <p>„E iscălitura ta?” întrebă lordache.</p>
+            <p>„Este”, fu răspunsul.</p>
+            <p>Olimpianul sări în picioare: „Ce mai aşteptaţi?” strigă el ofiţerilor, „mărturiseşte
+               că voia să vândă Turcilor şi eteria şi oştirea sa”.</p>
+            <p>Tudor Vladimirescu dădu din umeri.</p>
+            <p>lordache însă deschise uşa spre săliţa şi striga aceleaşi cuvinte; pe urmă se repezi
+               pe scară, şi ţipa în gura mare lângă poartă, unde se adunau din ce în ce mai mulţi
+               căpitani. Kleftul slobozia acuma tot amarul, toată îndoiala, pe care le înăbuşise de
+               câteva luni. Ridicând scrisoarea în sus el zbiera: „Aci sta scris ce avea de gând să
+               facă cu voi Tudorin al vostru, părintele vostru. Vrea să vândă ţara păgânului. De
+               aceea vă omora fără cruţare şi fără vină. El aştepta oştirea turcească, ce-i mai
+               trebuia pandurimea. Acuma îl ţinem, nu-şi poate tăgădui iscălitura. Şi tot voiţi să-l
+               urmaţi pe vânzătorul neamului şi al credinţei?”</p>
+            <p>Nici unul din căpitani nu citi scrisoarea, puţini din tre cei cari stăteau mai
+               aproape văzură iscălitura. Insă moartea tinerilor panduri era înaintea ochilor, ei
+               veneau delà groapa lui Urdăreariu, şi cel care le vorbea acuma cu tot focul
+               convingerii, era un om de cinste, preţuit de toţi.</p>
+            <p>„Nu-1 mai voim de căpitan pe slugerul Tudor!” strigară ei, „voim pe Hagi Prodan sau
+               pe Makedonski”.</p>
+            <p>lordache se sui iarăşi în foişor, se apropie de Tudor Vladimirescu şi zise: „Ai auzit
+               ce au strigat căpitanii tăi? Te sfătuesc să mă urmezi de bună voie la Piteşti, de
+               unde beizadeaua Qheorghe te va trimite la Târgovişte, ca să dai seama Arhiului de
+               faptele tale. Ypsilanti îţi voeşte binele. De te căeşti, el te va ierta şi te va
+               trimete iarăşi la pandurii tăi. Ar-hon slugere, dă-mi armele tale?”</p>
+            <p>Se ‘întâmplase acuma cecace Tudor Vladimirescu prevăzuse de mult: Grecii îl
+               prinseseră în cursă. Numai la una nu se aştepta: să-l bage chiar Oltenii s;n la
+               capcană. Deci nu mai avea mijloc de apărare. Fără nici un cuvânt lăsă pe arnăutii lui
+               lordache să-i scoată pistoalele din aii, şi desagii săi plini de hârtii şi de bani.
+               Insă când Olimpianul întinse mâna spre sabia, pe care Domnul Tudor o purta atârnată
+               de umăr cu un găitan roşu, căpitanul pandurilor privi împrejurul său, ca după ajutor.
+               Şi printre toate feţele duşmănoase care îl înconjurau, nu zări decât doi ochi
+               credincioşi, aţintiţi cu durere asupra sa; erau ochii lui Caleţeanu. Trecu găitanul
+               peste cap şi întinse sabia tânărului căpitan zicând: „De ne-om revedea, mi-o dai
+               înapoi; de nu, ţine-o în amintirea prieteniei mele. Ia şi inelul acesta, pe care-1 am
+               delà părinţi”.</p>
+            <p>lordache însă grăbea plecarea. Ei se scoborîră pe scară. Caii stăteau sub poartă.
+               Tudor Vladimirescu în-călecă. Dar hăţurile le luă căpitanul Qhenciu şi îl trecu
+               astfel prin tabără. Pandurii văzură asta, şi rămaseră întunecaţi şi tăcuţi.</p>
+            <p>Caleţeanu rămase singur sus în foişor. Stătea ca înrădăcinat. In mâna stângă ţinea
+               inelul ce i-1 dăduse Domnul Tudor, un inel de aur cu piatră verde săpată, în mâna
+               dreaptă ţinea sabia, al cărei mâner era de argint şi teaca de catifea roşie ţintuită
+               cu argint.</p>
+            <p>Cioreanu intră.</p>
+            <p>Cei doi prieteni priviră unul la altul, cu jale şi cu nedumerire. Insfârşit
+               adjutantul zise: „Crezi tu, c’a voit să ne vândă?”</p>
+            <p>Caleţeanu îi arătă darurile ce le primise: „Crezi tu, că astfel se desparte un
+               vânzător de oştirea sa? De vedeau pandurii, cum îmi dădu sabia, îl luau la goana pe
+               căpitanul lordache cu toţi arnăuţii săi”.</p>
+            <p>Cioreanu lăsă capul în jos. „Şi noi nu puturăm să-i dăm de veste”.</p>
+            <p>„Tot nu dosea”, zise tunarul, „nu pune preţ pe viaţă”.</p>
+            <p>O voce strigă afară numele adjutantului.</p>
+            <p>Makedonski il chemă şi ii porunci să meargă la căpitanul lordache, şi să-l roage să
+               pregătească cartier şi zaherele pentru panduri la Piteşti.</p>
+            <p>Cioreanu sosi acolo seara târziu. In aer era numai cântece de privighetori şi miresme
+               de liliac Ar-năuţii tăbărau prin curţile bisericilor şi ale caselor părăsite, şi îşi
+               găteau mâncarea lângă foc.</p>
+            <p>Solul găsi în curând casa căpitanului lordache. Intrând în tinda întunecoasă, zări la
+               celălalt capăt, prin-trio uşă deschisă, o odaie luminată. Acolo Domnul Tudor stătea
+               pe divan, păzit de căpitanul Ghenciu cu puşca în mână, pe când Olimpianul se plimba
+               prin odaie. Cioreanu, adânc mişcat, se opri o clipă şi auzi pe Domnul Tudor zicând:
+               „Ce mai vreţi dela mine, după ce cu vicleniile voastre îmi întoarserăţi oştirea ca să
+               mă dea în mâinile voastre? Ce vreţi cu mine, oameni fără căpătâi şi străini de
+               această ţară? să mă omorîţi? Eu nu mă tem de moarte. Am înfruntat-o de multe ori.
+               Cămaşa morţii mi-o îmbrăcai de când ridicai să mă lupt pentru drepturile norodului.
+               Turcii sunt în ţară. Voi însă nu puteţi să-i bateţi, şi nici nu veţi putea
+               vreodată”.</p>
+            <p>Cioreanu nu îndrăzni să stea la pândă mai mult, trecu prin tindă, intră în odaie, şi
+               închinându-se mai întâi înaintea lui Tudor Vladimirescu, care îi răspunse în tăcere,
+               îşi îndeplini sarcina către Olimpianul.</p>
+            <p>A doua zi cinci cărucioare de poşte erau trase in faţa casei. Domnul Tudor fu urcat
+               în cea dintâi şi adjutantul beizadelei Niculae Ypsilanti se aşeză lângă el. In
+               celelalte cărucioare erau câte doi arnăuţi. Surugii, călări pe înaintaşii din stânga,
+               pocniră din bicele lor lungi şi în zăngăneala clopoţeilor căruţele goniră prin valea
+               minunată în găteala ei primăvăratecă, prin care sclipeşte râul Doamnei şi pe care o
+               închide, la miazănoapte, cununa Carpaţilor.</p>
+
+            <p>Ispravnicul judeţului alergase toată noaptea din casă in casă, ca să găsească cartier
+               pandurilor. Venişi la boreul Radu Enescu, dar îl primise Liliana, căci ea era acum
+               sufletul casei; bărbatul nu mai părăsea patul de durere. Lilianei ii povesti
+               ispravnicul groaznica tragedie delà Goleşti şi îi spuse, că Tudor Vladimirescu era în
+               oraş, închis sub pază în casa boerului Mavrodol.</p>
+            <p>După plecarea sa, Liliana se rugă in genunchi lânca icoane. Pe urmă se grăbi să cheme
+               slugile şi le struni, ca boemi Radu să nu afle decât ceeace i se putea spune. Mai
+               ales trebuia să i se ascundă primejdia de moarte, prin care trecuse fiul său, şi
+               prinderea Domnului Tudor de Greci. Trimise o slugă înaintea oştirii, cu însărcinarea
+               să vorbească cu Ene, şi să se întoarcă apoi în grabă, astfel Liliana să aiba răgaz,
+               să-şi poată înştiinţa din vreme bărbatul despre sosirea fiului său.</p>
+            <p>De aceea căpitanul Enescu, intrând cu compania sa, zări în pridvor pe tânăra soţie a
+               boerului Radu. Dar ea se înspăimântă, când îl văzu, urcând încet scara şi oprindu-se,
+               fără nici un cuvânt înaintea ei. In ochii săi, pe faţa sa era ceva mai amar decât
+               durerea, şi Liliana, deşi învăţată să vadă din plăpânda copilărie jalea scrisă pe
+               chipurile omeneşti, uită de spaima ceeace voia să-i spună, „Slavă Domnului că
+               trăeşte”, grăi ea încet, şi pentrucă el tăcea mereu, urma sfios: „Tatăl-tău te
+               aşteaptă. Te rog nu-i spune...”</p>
+            <p>„Ştiu”, îi tăie el vorba, „îmi spuse feciorul”.</p>
+            <p>Liliana se temu de întoarcerea fiului său vitreg. După grozăviile pe cari le trăise,
+               cum se va înfăţişa? Bolnav, frânt, ameţit? Cum să se ascundă astea de tatăl său?
+               Inima plină de grije a Lilianei prevăzuse fel de fel de lucruri, numai adevărul nu:
+               purtarea dârză şi duşmănoasă a lui Ene. Întrevederea cu tatăl însă fu astfel
+               uşlurată, căci fiul se arătă liniştit, şi boerul Radu nu bănuia furtuna ce se
+               ascundea sub acea linişte amăgitoare. Era şi prea slab pentru întrebări multe. 1 se
+               spusese, că Domnul Tudor, cu o parte a pandurimii sale, nu se oprise decât foarte
+               scurt timp în Piteşti, şi boerul Radu rugă pe tânărul căpitan, să-i ureze sănătate
+               bună din partea sa.</p>
+            <p>Ea ieşi din camera bolnavului înfrigurat şi cu ochii arzători, şi se întâlni cu
+               Liliana, care-i pândise ieşirea, ca să se întoarcă numai decât la soţul ei.</p>
+            <p>Ene se opri.</p>
+            <p>„Fii pe pace”, zise el printre dinţi, „comedia îi fu pe plac”.</p>
+            <p>Ea ridică ochii, întrebători: „Comedia?”</p>
+            <p>„Ce e oare viaţa dacă nu e comedie? Şi mai în-drăzni-vei, mamă, să-mi spui, că face
+               să fie trăită? Păcat că nu m’a spânzurat Domnul Tudor, căci astfel eram cel puţin
+               scutit de ură împotriva lui. De oarece cei mai buni sunt la fel cu dânslul, mi-e
+               scârbă -dej oameni. Sfatul tău, să-mi închin sufletul şi munca neamului meu, să-l
+               păstrezi pentru fete mici, care habar n'au de vieaţă”.</p>
+            <p>Cuvintele sale cădeau ca piatră şi trăsnet pe biata femee. Pe capul ei se deslănţuia
+               straşnicul amar al tânărului suflet, de care Oarcă zisese, cu drept cuvânt, că-îşi
+               pierduse Dumnezeul. Sufletele de seamă cred uşor şi cu drag, că cei puşi deasupra lor
+               sunt Înzestraţi cu o putere tainică, dar în schimb le cer, cu</p>
+            <p>O logică nestrămutată, ca superioritatea lor să le fie dovedită nu prin titluri, ci
+               prin fapte. Când poporul şi tineretul fac această cerere, nu cunosc nici răbdare,
+               nici scutire. Şi cu drept cuvânt, căci altfel n’ar mai fi leac împotriva
+               fariseismului. Şi iarăşi focul tinere-ţelor face, ca tinerii, în răzvrătirea lor
+               împotriva celor ce le-au înşelat credinţa, să meargă prea departe, şi să
+               dispreţuiască şi cauza, căreia se închinase cel ce a greşit. In furia durerii sale,
+               firea pătimaşe a lui Ene se ridica chiar împotriva femeii, vorbise de lupta pentru
+               binele ţării, cercând să vindece inima lui rănită. El îi arătă cu crudă amărăciune,
+               ca rănile inimii îi erau azi cu totul otrăvite, li zisese „mamá” cu o batjocură rece,
+               râzând de nevinovăţia, cu care ea îi ceruse odinioară acest nume.</p>
+            <p>Sufletul de femee al Lilianei, simţea măreţia acestei dureri, deşi izbucnirea ei era
+               atât de straşnică; rămăsese însă prea ameţită şi nu mai ştia ce să răspundă.</p>
+            <p>Dar nici Ene nu-i dădu răgaz s’o facă, ci plecă din casa.</p>
+            <p>II trăgea inima la Oarcă şi Cuţui, cari erau rărnă-şitile idealului său ostăşesc şi
+               patriotic, şi îl înţelegeau.</p>
+            <p>Oarcă, cum sosise la Piteşti, chemase la dânsul pe toţi căpitanii români, şi ţinuse
+               sfat cu ei într’o biserică, căci fierberea era mare între panduri. Cum îi surprinsese
+               de iute răzvrătirea, tot aşa de repede îi stăpânea acuma desnădejdea. Le lipsise, la
+               plecarea lor dela Goleşti, asprul lor căpitan, înaintea căruia toţi tremurau, dar ale
+               cărui porunci bine chibzuite le dădeau încredere; le lipsea omul care ştia de
+               fiecare, din ce sat era, care le vorbea graiul şi le gândea gândul. Acuma îşi aduceau
+               aminte, de câte ori el le desluşise planul său. Ba unul, ba altul, întrebau pe
+               căpitanii lor, dacă eri, nu se lăsaseră să fie înşelaţi de Greci, şi dacă ar fi de
+               crezut că Domnul Tudor, care scăpase ţara de birurile cele cumplite, voia să robească
+               păgânilor pe fraţii săi? „N’avea nevoie de Turci nici ca să ajungă la domnie; nu-1
+               făcurăm noi Domn?' ziceau Oltenii.</p>
+            <p>Şi căpitanii oftau.</p>
+            <p>„Şi de cine să ascultăm? grăiau pandurii. „Hagi Prodan e om de ispravă. Dar nu e
+               singur. Sunt şi Makedonski, Jordache, Farmache, Mihalea, Ghenciu şi cum le-or fi
+               zicând la toţi. Şi fiecare din aceşti ar-năuţi se crede mai mare şi mai tare ca
+               tustrei Ypsi-lanţi. Turma cu câini mulţi lătrători nu e bine păzită, căci javrele
+               zgomotoase fug de urs. Au intrai Turcii în ţară, şi femeile noastre şi copii sunt
+               singuri. Mai bine o pornim să ne vedem fiecare de casă cum vom putea . Şi pe fiecare
+               ceas, câţiva dintre dânşii părăsea oştire, nu numai pe drumul scurt între Goleşti şi
+               Piteşti, dar şi după sosirea lor in acest orăşel.</p>
+            <p>Cei mai mulţi dintre căpitani gândeau ca pandurii, şi sfatul lui Oarcă, să rămâie
+               strânşi laolaltă şi să îndeplinească voinţa lui Tudor Vladimirescu, nu avea răsunet.
+               Numai el, Cuţui, Enescu şi Cioreanu răspun-deau de ostaşii lor. Iar ceilalţi pierdură
+               orice nădejde, când Hagi Prodan le aduse ştirea, că Iordache voia să-i trimită peste
+               Olt, pe dânsul şi pe panduri, însă numai cu trei tunuri şi fără muniţii şi zaherele.
+               O adevărată furtună de păreri încâerate se ridica atunci, până ce Enescu răcni: „Ce
+               ne trebue muniţii? Avem unghii şi dinţi. Lăsaţi palavrele şi să ne batem odată”.
+               Stătea pe treptele unui amvon; în faţa lui albă ochii fulgerau, îi era frică, o frică
+               nebună, sa nu-1 înşele şi cea din urmă a lui nădejde: bătălia.</p>
+            <p>Pandurii tăcură o clipă înaintea sălbaticei sale tur-burări. Oarcă apucă mâna
+               fierbinte a tânărului, ca să-l liniştească, şi rugă pe Hagi Prodan să cheme pe
+               căpitanul Iordache.</p>
+            <p>Olimpianul veni, însă, întemeindu-se pe poruncile Arhiului, nu-şi schimbă hotărîrile.
+               Dar jură pe icoana Maicii Domnului, că va urma pe panduri în douăzeci şi patru de
+               ore; atât era nevoit să mai zăbovească, ca să primească alte porunci dela Târgovişte.
+               Şi spre întărirea jurământului făcu trei cruci mari.</p>
+         </div>
+         <div type="chapter">
+
+            <p><label>XVII.</label></p>
+            <p>Arhiul şedea la Târgovişte în una din cele mai frumoase case. Era a Grecului
+               Giartoglu, un eierist înfocat. Primise pe Alexandru Ypsilanti ca pe un semizeu; şi de
+               oarece nu putea să-i ridice un templu, scornise gândul să numească una din scările
+               care duceau la pridvor „scara sacră”, şi nu îngăduia să fie folosită decât de Arhiu
+               şi de fraţii lui.</p>
+            <p>In dimineaţa zilei de 24 Martie intră, val-vârtej, in acea curte, un căpitan de
+               arnăuţi, călare, care ţâra un om de guler şi urla aşa de grozav, încât locuitorii
+               caselor ieşiţi în fugă nu înţeleseră decât după o vreme dece era vorba.</p>
+            <p>In sfârşit beizadeaua Gheorghe Ypsilanti se înfăţişă pe pridvor, şi arnăutul strigă
+               de astădată mai desluşit, tot scuturând şi bruftuind pe cel, pe care-1 trăgea după
+               sine: „Câinele astă minte si zice că Turcii au intrat în Bucureşti. Pentru minciuna
+               aceasta am să-i tai capul !”</p>
+            <p>„Aman! Aman!” ţipă celălalt, „nu o zic eu, o zice un negustor, care a fugit din
+               Bucureşti. II pot aduce ca martor”.</p>
+            <p>Arnăutul care era beat, zbieră din nou la el, cu ameninţări înspăimântătoare.</p>
+            <p>Prinţul se aplecă de pe pridvor şi strigă: „Generale, Generale, Caravia,
+               linişteşte-te! Lasă să-l ascultăm întâi pe ispravnic”.</p>
+            <p>Căci nenorocitul, pe care Caravia îl ţinea de guler, era ispravnicul judeţului.</p>
+            <p>„Ce să-l ascultăm”, urla generalul, „e un vânzător, o iscoadă. Vrea să bage frica în
+               oştire. Am să-i tai capul drept pildă”.</p>
+            <p>„Fără judecată? Ar fi o nelegiuire. Trebue să cerem şi părerea Arhiului. Şi el nu e
+               aci”.</p>
+            <p>Atunci arnăutul se mânie şi pentru asta: „Nu e aci?” scrâşni el, „iar nu e aici?”</p>
+            <p>In timpul acesta mai mulţi ofiţeri se strânseră pe pridvor, generalul Christaris,
+               Lassanis, adjutantul şi casierul Scufas.</p>
+            <p>Cara nu putea suferi pe Christaris, pehtru că nu ea mitarnic şi se temea de dânsul ca
+               de unul ce cunoştea întrebuinţarea otrăvei. Dar ţinea la Lassanis şi la Scufas, căci
+               casa eteriei era în mâinile lor.</p>
+            <p>Şi pentrucă toţi erau de părerea beizadelei, arnăutul cu înjurături straşnice, trânti
+               la pământ pe bietul ispravnic, dându-i cu piciorul, îşi zmuci calul care sforăia, şi
+               ieşi din curie, răcnind ca un tigru care şi-a pierdut prada.</p>
+            <p>Gheorghe Ypsilanti îngălbenise şi intră repede în casă. Pe ispravnic îl ridicară
+               câteva slugi, îl luară în odaie şi-1 îngrijiră. Apoi veni Lassanis, ca să afle ce
+               zise negustorul delà Bucureşti.</p>
+            <p>A doua zi după plecarea lui Vladimirescu, Ahmed, paşaua delà Silistra, se înfăţişase
+               cu opt mii de oa-meni înaintea Bucureştilor. Puţinii boeri râmaşi în oraş, împreună
+               cu bancherul Băltăreţ, şi cancelarul Udritzky, îi ieşiseră înainte şi fuseseră bine
+               primiţi. Paşaua spusese, că era trimes numai împotriva „apostaţilor”, adică Tudor şi
+               eteriştii; însă ceru toate armele locuitorilor. Spaima era mare în oraş. Aproape o
+               sută de oameni fugiseră cu tot avutul lor ia consulatul prusesc. Toţi erau îndârjiţi
+               împotriva lui IJ-dritzky, care, până în clipele cele din urmă, zisese cu tărie, că nu
+               vin Turcii. Şi paşaua dela Vidin trecuse Dunărea, cel dela Brăila intrase în
+               Moldova.</p>
+            <p>Lassanis se duse cu aceste ştiri la beizadea Gheor-ghe.</p>
+            <p>Tânărul se plimba turburat prin odaie.</p>
+            <p>„Ah, de-ar veni în curând frate-meu Dimitri cu trupe împărăteşti din Rusia!” strigă
+               el.</p>
+            <p>Christaris, lângă fereastră, privea afară; o dunga dureroasă! i se adâncise între
+               sprâncene. Lassanis, repede, făcu din ochi lui Scufas.</p>
+            <p>Misiunea beizadelei Dimitri în Rusia şi sosirea lui grabnică cu trupe de ajutor, era
+               una din acele legende, care se răspândeau necontenit în tabără, şi în care fraţii
+               Ypsilantti înşişi începeau să creadă.</p>
+            <p>„Mă voiu duce, mai de vreme decât voiam, la vie, unde se află Arhiul, şi voiu căuta
+               să-l văd între patru ochi, şi să-i povestesc cele întâmplate”, zise beizadeaua, cu
+               străşnicia unui om, care a luat o hotărîrc de mare însemnătate. </p>
+            <p>Arhiul plecase de dimineaţă la via gazdei sale, alte scări mai puţin sacre.</p>
+            <p>„N’ar fi mai bine, Măria Ta”, zise Christaris, „să le întorci îndată aci cu'
+               generalisimii, şi să ţinem sfat”.</p>
+            <p>„Nu se poate”, răspunse Gheorghe Ypsilanti, „cum ar rămâne Chiartoglu, care a făcut
+               atâtea pregătiri pentru sindrofia dela vie?”.</p>
+            <p>Scufas şi Lassanis zâmbiră iaraşi a râde, iar prin ochii medicului trecu un fulger de
+               disperare.</p>
+            <p>„Ţi-aş fi îndatorat, dragă Scufas” urmă beizadeaua”, să trimeţi pe cineva la mine, să
+               poruncească să pue caii şi să vie aci să mă ia”.</p>
+            <p>Casierul eteriei îi îndeplini grabnic dorinţa.</p>
+            <p>Fiecare beizadea îşi avea casa, ca şi fiecare general.</p>
+            <p>De aceea fiecare avea nevoie de o mulţime de slujitori. Numai curtea Arhiului
+               înghiţea zilnic o sută douăzeci şi patru de oca de carne, cincizeci sau şaizeci de
+               pâini, şi câtimi de unt, de ouă, de lapte, de făină, de zahăr şi de băcănii pe
+               potriva celor de carne şi pâine. Nu mai puţină risipă făceau şi generalii.</p>
+            <p>Oraşul de mult nu izbutea să plătească acest bir. Pentru a-1 aduna, cete de arnăuţi
+               cutreerau satele, strângând vitele şi păsările, pe care le duceau la Târ-govişte. Ei
+               sparseră şi pivniţele din vii; iar butoaiele, care nu puteau fi ridicate din lipsa de
+               căruţe, sau care nu puteau fi pe dată golite, chiar cei mai beţivi fiind sătui, le
+               ciuruiau cu pistoalele, aşa încât vinul curgea pe jos, preschimbând pivniţele în
+               cisterne bine mirositoare.</p>
+            <p>Cei jefuiţi nu primeau nici un ban; şi pe lângă aceasta femeile şi copii lor erau
+               schingiuiţi. Ţăranii fugeau în munţi, şi în fiecare zi zavergii trebuiau să împingă
+               prădările lor în locuri mai îndepărtate. Lăcomia şi cruzimea lor creşteau mereu;
+               prădau şi bi-scricele. I</p>
+            <p>La toate acestea simandicoasele beizadele închideau ochii; ei ştiau, cu mare
+               meşteşug, să nesocotească politicos primejdiile ameninţătoare şi neajunsurile cele
+               mai strigătoare. Şi pe lângă aceasta, Arhiul era bolnav de dragoste.</p>
+            <p>Sofiana Pantas îl însoţise la Târgovişte, dar era ui nişte toane înfricoşat (de rele.
+               Ea nu mai avea nevoie să-l cucerească pe prinţul Alexandru, şi să se prefacă,
+               pentrucă el îi era rob, ai trup şi cu suflet, ba se purta acum cu dânsul cum se
+               purtase pe vremuri cu Leventis şi îi aţâţa gelozia în aşa chip, încât se certase din
+               pricina ei cu unul dintre cei mai buni ofiţeri ai săi, cu Gheorghe Cantacuzino, care
+               venise cu el din Rusia, şi pe care acuma îl trimisese în Moldova cu misiunea, foarte
+               puţin desluşită, să ocupe iaşii.</p>
+            <p>Sofiana însă ştia să-I chinuiască pe ibovnicul ei în chip mai rafinat încă prin
+               critica înveninată ce i-o fă:ea lui şi întreprinderii sale. Şi când îl vedea scos din
+               fire, ridica din frumoşii ei umeri albi şi rotunzi şi zicea: „Ce vrei, Ypsilotate,.
+               din toate popoarele de pe pământ, Grecii sunt aceia cari au mâncat prea mult din
+               rodul pomului ştiinţei; ils se sont donne une indigestion spirituelle: Le-a mai dat
+               şi Chilon o po-vaţă cu două tăişuri: Cunoaşte-te pe tine însuţi, ceeace vrea să zică,
+               aflaţi că nu sunteţi buni de nimic, şi că totul e zadarnic. E drept însă, că ţie îţi
+               mai lipseşte mult până la această ştiinţă, Măria-Ta”.</p>
+            <p>Rănit adânc, beizadeaua răspunse: „Dar cum ar trebui să fie bărbatul, care ar afla
+               har înaintea ochilor tăi?”.</p>
+            <p>„Ar trebui să mă despreţuiască”, rosti dânsa apru, dar totuşi cu înfocare, şi adăogă,
+               visătoare: „Ar trebui să fie fiul unui popor, care ar avea dreptul să aibă
+               încrederea, în puterea sa, un popor ca acela al Dacilor, până n’am venit noi peste
+               ei”.</p>
+            <p>„Aiurezi”, încercă să glumească beizadeaua, „vrei să pui pe Valahi mai sus decât pe
+               noi, Elinii?”</p>
+            <p>„Nu uita, dragă”, zise Fantasia, „că titlurile tale le datoreşti Valahilor”.</p>
+            <p>„Kira Sofiana!” strigă el înfuriat.</p>
+            <p>„Mii rog, mă rog”, zise ea, „vă făliţi peste tot cu armele Moldovei şi ale Valahiei,
+               le aşezaţi ori unde se nimereşte, pe butci, pe cearceafuri, pe tabacheri, pe săbii şi
+               pe batistele voastre. Deci, sau înseamnă poporul acesta ceva, sau armele sale sunt
+               fără vaiere”.Ochii îi scânteiau acuma; ştia că fiecare să-</p>
+            <p>geata îşi nimerea ţinta, şi nu avea bucurie mai mare, decât $ă-l înjosească pe
+               Arhiul.</p>
+            <p>El se roşea şi iar se ’ngălbenea, şl vocea ii tremura când începu: „Pe steagul
+               eterici.</p>
+            <p>„Tocmai, vream să ţi-o spun de mult”, ii tăie ea vorba, bine „ai face să-l schimbi,
+               şi să pui să zugrăvească un struţ în locul fenixului”.</p>
+            <p>La aceasta Ypsilanti ieşi. In tindă se întâlni cu fratele său, care sosea în aceiaşi
+               clipă la vie.</p>
+            <p>Prinţul Qheorghe îi ceru o convorbire; Arhiul îl primi pe dată, şi timp de cinci
+               minute ascultă pe fra-te-său cu băgare de seamă; pe urmă însă mândria şi duda ce le
+               simţise, gândindu-se la Sofiana, se preschimbară în teamă că ar putea sa-i fi pierdut
+               iubirea. El răspunse zăpăcit, se nelinişti, trăgea cu urechea la orice zgomot în
+               casă, şi când i se păru că aude paşi îndreptându-se în spre odaia Sofianei,
+               întrerupse grăbit pe frate-său: „Bine bine, mâine dimineaţă vom mai vorbi,
+               întorcându-ne la oraş”, se repezi la uşa ei, şi, după oarecare zăbavă, îndrăzni să
+               intre şi să-i ceară iertare.</p>
+
+            <p>Cristaris, în sufletul său, trăgea nădejdea, că Arhiul, după ce vorbise cu frate-său,
+               era să alerge la oraş şi era p’aci să scoată un strigăt de bucurie, când căpitanul
+               Dimitrie Soutzos intră la dânsul zicând: „Generale, a venit o ştafetă de la via lui
+               Giartoglu”, sfârşitul cuvintelor însă îl scoase din fire: „mai cere praf de puşcă şi
+               iască pentru artificii. Dar la regimente nu vrea să dea nimeni fără plată. Şi noi
+               n’avem’.</p>
+            <p>Dimitrie Soutzos, care, vorbind, ţinuse milităreşte mâna la şapcă, o lăsă să cadă, şi
+               bărbaţii priviră unul la altul în tăcere. Tânărul căpitan nu era dator să facă
+               această îpştinţare, orice soldat putea să îndeplinească.</p>
+            <p>Christaris înţelese, că numai nerozia cererii, când duşmanul era în apropiere,
+               împinsese pe Dimitrie</p>
+            <p>Soutzos să vie la dânsul, şi citi, pentru prima oara desnădejde în ochii săi. Această
+               dovadă de nepricepere a comandirului zdruncinase chiar eroicul optimism al tânărului
+               mavrofor. Şi deodată Dimitrie Soutzos îşi vărsă tot focul: „Generale, nu găsesc
+               răspunsuri la îndoiala mea cumplită, — de aceea viu la d-ta, care eşti una cu Elada,
+               care o iubeşti atâta în cât ea grăeşte prin gura d-tale. Jură-mi generale, că
+               într’a-devăr ne coborîm din acei eroi de cari cântă Omer: „mânuitori de suliti şi
+               dornici să străpungă cu frasinul întins zalele ce scrâşnesc, de pe pieptul
+               duşmanilor”.</p>
+            <p>Christaris încercă să scape printr’o dovadă apa-gogică.</p>
+            <p>„Eşti desamăgit, căpitane”, zise el, „pentrucă nu sunt toate cum ar trebui să fie.
+               Pentrucă îi vezi pe compatrioţii d-tale că greşesc, bănuieşti că niciodată nu am avut
+               însuşiri bune. Dar tocmai asprimea judecăţii d-tale e o dovadă de mărirea Eladei. De
+               nu avem pravila virtuţii, nu ne-am lupta împotriva greşelii. Dar ce este adevărul? Nu
+               numai materia, dar mai presus de toate idealul. Dacă sufletul Elinilor simte şi vrea
+               mărirea Elinilor, aceasta va fi. Cât timp vom crede în eroii noştri, vom naşte eroi,
+               chiar împotriva tuturor slăbiciunilor, cu care singuri ne împiedicăm drumul
+               înaintărei. De aceeaţ să slujim patriei, nu numai cu sabia, dar şi cu credinţă în
+               nemărginita e virtute.</p>
+            <p>Şi astfel idealistul, mângâind pe altul, se mângâia singur.</p>
+            <p>Dimitrie Soutzos oftă adânc gi zise: „Acuma iar pot trăi”, şi în calda sa
+               recunoştinţă voi să sărute mâna aceluia, care îl scăpase de un ucigător chin
+               sufletesc. Christaris îl strânse în braţe.</p>
+
+            <p>Arhiul abia sosise dela vie, şi Lassanis înştinţă ca adjutantul prinţului Niculae
+               adusese pe Tudor Vla-dimirescu în curte, şi cerea voie să-i dea o scrisoare a lui
+               lordache.</p>
+            <p>Ypsilanti foarte mâhnit, pentmcă Sofiana Pantas nu voise să-l însoţească la oraş,
+               răspunse răstit: „Ce să fac cu prostul de Valah ?”</p>
+            <p>„Măria Ta, Pai chemat ca să-ţi dea seama de corespondenţa sa trădătoare cu Turcii”,
+               îi aduse aminte Lassanis.</p>
+            <p>In acea clipă sosiră Christaris şi Caravia; beizadeaua se stăpâni şi porunci să cheme
+               pe adjutantul fratelui său Niculae.</p>
+            <p>Olimpianul nu zicea altceva In scrisoare, decât că trimetea pe Tudor Vladimirescu sub
+               pază la Târgo-vişte şi îndrăznea să dea prinţului sfatul să fie îngăduitor cu
+               pandurul.</p>
+            <p>„O scaldă”, zise rânjind Lassanis.</p>
+            <p>„Sfatul e prăpăstios”, zise înfocat adjutantul beizadele Niculae, şi înşiră un logos
+               despre greutatea misiunii îndeplinita, arătând că Vladimirescu era un om primejdios.
+               Lângă Câmpulung, spre pildă, le ieşiră înainte treizeci de Valahi călări, primind pe
+               „Domnul Tudor” în strigăte de bun sosit şi mulţumindu-i că scăzuse birul de la 25 la
+               5 piaştri. Aceasla fusese o stratagemă a prinţului Niculae. Ca să nu încerce Valahii
+               din Câmpulung, negustoraşii şi meseriaşii, — boerii erau fugiţi,— să-l scape pe Tudor
+               Vladimirescu, se răspândise svonul, că slugerul se duce la Târgo-vişte, ca să se urce
+               cu mare alai pe scaunul Domnesc. Şi încheiă, povăţuind o purtare aspră faţă de
+               trădător.</p>
+            <p>Lassanis şi Caravia erau de aceiaşi părere.</p>
+            <p>Christaris zise: „înainte de toate să-i dăm ascultare—”. Scufas intră la aceste
+               cuvinte şi strigă: „înainte de toate să-l închidem! Prostimea valahă se a-dună în
+               faţa curţii”. </p>
+            <p>,Nu vă spuneam!” strigă adjutantul delà Câmpulung. Arhiul făcu o mişcare poruncitoare
+               şi ieşi pe pridvor. In curte, Tudor Vladimirescu era călare pe o mârţoagă, cu
+               hăţurile proaste şi scări de lemn; un lanţ îi lega picioarele, trecând subpântecele
+               calului. Doi arnăuţi îl păzeau. Adjutantul delà Câmpulung alesese acest alai, ca să
+               treacă mai nebăgat în seamă prin oraş.</p>
+            <p>De sus, Alexandru Ypsilani privi cu dispreţ pe căpetenia pandurilor şi zise: „Ai vrut
+               sâ vinzi creştinii păgânilor? E o ruşine”, şi întorcându-se către Caravia: „Ţi-1 dau
+               pe sluger ca prizonier, generale’'. Apoi către Christaris: „Astă seară ţinem sfat.
+               Ştii cine trebue să fie de faţă, fratele meu, Generalul Caravia, Lassanis, — ştii
+               d-ta. Dar poate mai bine mâine dimineaţă”, şi se opri oftând obosit.</p>
+            <p>Pe urmă intră în casă, chemă pe medicul său Mavro-mati şi zicând că e bolnav.ceru să
+               fie scutit de afaceri.</p>
+            <p>„E bolnav, ca s’o afle Sofiana Pantas”, zise Lassanis lui Scufas.</p>
+            <p>„Sau mai bine zis, boala lui se numeşte Sofiana Pantas”, răspunse casierul.</p>
+            <p>In mare grabă Caravia duse mârţoaga pe care şedea Tudor Vladimirescu prin uliţele
+               oraşului printre grădiniţele căsuţelor, printre grădinile mari ale caselor boereşti
+               dărăpănate, printre zidurile de biserici şi in sfârşit peste maidanul mare până la
+               clopotniţa Mitropoliei; aci şedea Caravia.</p>
+            <p>Pe maidan mişunau oamenii; era jumătate bălciu, jumătate tabără arnăuţească. In
+               curtea Mitropoliei era oarecum linişte.</p>
+            <p>Domnul Tudor, când trecu pe sub poartă, şi zări biserica, făcu semnul crucii. I se
+               dădu o chilie, la stânga lângă intrare.</p>
+            <p>Scurt timp după aceea, Lassanis şi Scufas cerură lui Caravia o întrevedere.</p>
+            <p>„Generale”, zise Lassanis, „numai dumneata eşti om hotărât. Numai dumneata te pricepi
+               să ţii oştirea strânsă laolaltă şi să împiedici dezertarea. Aveai dreptate ieri, când
+               ai vrut să tai pe ispravnic. Ieri noapte sute de eterişti au fugit. Numai dumneata ai
+               văzut că nu e vremea să fim îngăduitori cu Tudor Vladimirescu, după cum ne
+               povăţuieşte Iordache, pentrucă Valahul e înţeles cu Turcii”.</p>
+            <p>Şi Scufas adăogă: „Se zice că e putred de bogat, se zice că a trimes milioane
+               familiei sale în Ardeal. Şl fără doar şi poate are galbeni şi pietre scumpe cu-ute în
+               hainele sale. Ar fi deci de mare folos pentru eterie, să ne laşi sâ-1 cercetăm astă
+               noapte’’.</p>
+            <p>Pe la orele patru, arnăutul îl pofti pe Domnul Tudor la masă. Doi paznici îl însoţiră
+               prin curte, până’n trapeza pardosită cu cărămidă roşie; oameni mulţi se îmbulziră să
+               slujească la masă, ca să-l vadă pe capul pandurilor. Printre ei era şi un preot al
+               Mitropoliei, care aducea talerele şi sticlele.</p>
+            <p>Domnul Tudor mancă puţin şi nu vorbi. Numai la sfârşitul mesei, când i se ‘dădu
+               ciubucul, zise către Caravia: „Aş vrea să mă plimb prin curte”.</p>
+            <p>Şi amândoi, cu ciubucul în gură, se plimbau înaintea bisericii. Stâlpii mândri a
+               tindei se ridicau deasupra treptelor înalte, şi cele nouă turnuri rotunde se înălţau
+               în roşeaţa cerului. Un lucrător scotea înve-litoarea de plumb de pe acoperiş.</p>
+            <p>„De ce scoate învelitoare?” întrebă Domnul Tudor.</p>
+            <p>„Ca să toarne gloanţe pentru apărarea patriei”, răspunse Caravia cu ifos.</p>
+            <p>„Aş intra în biserică”, zise Vladimirescu.</p>
+            <p>Arnăutul chemă preotul, care slujise la masă, şi care stătea acum cu mulţi, la
+               oarecare depărtare; el aduse cheia şi deschise uşa bisericii.</p>
+            <p>Vladimirescu şi Caravia rezemară ciubucele lor de zid şi intrară. Domnul Tudor scoase
+               de pe pletele sale lungi, căciula înaltă oltenească cu peticul ei de postav alb,
+               Grecul scoase fesul de pe capul ras, şi amândoi făcură semnul crucii. Vladimirescu
+               privi împrejurul său şi zise: „Acest sfânt locaş văzu lucruri mari, atunci când mai
+               fu mărire prin ţară. 11 împodobiră voevozii cei mai buni, pe din năuntru şi pe din
+               afară”, şi întorcându-se către intrare, se uită la şirul falnic al ctitorilor
+               zugrăviţi la dreapta şi la stânga uşii,domnitorii şi doamnele lor în haine lungi de
+               mătase înflorită, în caftane îmblănite, cu hangia-rul cu pietre scumpe, la brâu şi cu
+               coroane domneşti pe cap, pe deasupra cărora erau scrise numele lor.</p>
+            <p>Luând pe rând Domnul Tudor îi privi pe toţi şi zise: „Asta de aici e Mihai Viteazul.
+               Ca Mihai Arhanghe-</p>
+            <p>lui el fu scutul creştinătăţii, — pana ce-1 rupserâ trădătorii0. Cuvintele sale
+               răsunară în tăcerea 'bisericii, şi după câteva clipe urmă: „Moşneagul ăsta de colo
+               este Matei Basarab. Fu şi el viteaz ca Mihai. Şi pe el îl mâncară fript trădătorii...
+               cu zile”.</p>
+            <p>Olteanul grăia cu evlavie, ca un preot care-şi citeşte slujba singur în biserică. Şi
+               întradevăr Domnul Tudor era singur. Arnăutului puţin îi păsa de amintirea voevozilor
+               mari ai ţării. Şi preotul care-i însoţea, auzea cuvintele dar nu era viteaz.</p>
+            <p>Domnul Tudor îl întrebă, în cotro se află mănăstirea Dealu, în care e capul lui Mihai
+               Viteazul.</p>
+            <p>„Dincolo, peste Ialomiţa”, fu răspunsul „se vede din clopotniţă”.</p>
+            <p>„Aş vrea să mă urc în clopotniţă, zise Vladimi-rescu lui Caravia.</p>
+            <p>Ieşiră din biserică, şi pe când pandurul şi Grecul se îndreptau spre turn, preotul
+               încuia uşa. Apoi alergă la un tovarăş cărui îi încredinţase toate catrafusele sale,
+               şi o luă la fugă spre graniţă. Nu era viteaz. Dar cincizeci de ani după aceia,
+               pomenea încă cuvintele marelui Oltean rostite în Mitropolie.</p>
+            <p>Domnul Tudor, urmat de arnăut, se sui până la clopote, unde lumina asfinţitului intra
+               în valuri aurii. Târgoviştea era la picioarele lui cu vechea chindie, care se ridica
+               deasupra verdeţii' grădinilor, pe subtoiul ei pătrat. De mult ea slujea drept ornic
+               al oraşului. Pe vremurile de fală ale scaunului Domnesc, de ceasul mesei aflau şi cei
+               ce nu vedeau turnul, căci din vârful său răsunau trâmbiţele şi ţimbalele lui Vodă;
+               curtea domnească, azi dărăpănată, era alături.</p>
+            <p>Privirea Domnului Tudor însă plutea mai departe, spre răsărit, unde pe dealurile
+               înalte, dealungul zăvoaielor Ialomiţei, se vedea lucind, roşie, sub ultima rază de
+               soare, cununa zidurilor mănăstirii Dealului. Prietenul slugerului, Episcopul Ilarion,
+               fusese stareţ acolo, ani îndelungaţi, şi el zisese odată: „Capul lui Mihai e în
+               biserica mănăstirii Dealului. Adeseori stau de vorbă cu dânsul. Mai de grabă
+               înţelegem pe cei</p>
+            <p>morţi decât pe cei vii, pentrucă pe cei morţi îi ascultăm cu evlavie, şi pentrucă e
+               tăcere împrejurul lor. Viteazul rrfa învăţat multe. Dela dânsul ştiu; De vrei să
+               cunoşti viitorul, priveşte în trecut. Din rădăcină răsare toată puterea copacului. De
+               vei găsi-o la rădăcină, teamă să nu mai ai. Eu, Mihai, sunt rădăcina”. Şi Domnul
+               Tudor gândi: „Când voi fi printre morţi, mă va înţelege neamul meu şi pe mine”.</p>
+            <p>In aceeaş noapte, dela 26 la 27 Mai i se împlini ursita.</p>
+
+
+            <p><label>XVIII.</label></p>
+            <p>Urgia turcească se deslănţui însfârşit asupra ţării. Hagi Prodan şi Pandurii aflară a
+               doua zi după plecarea lor la Piteşti, că dincoace de Olt Turcii arfseră orăşelul
+               Slatina şi că dincolo de râu, trei mii dintre ei înaintaseră până la Drăgăşani. Un
+               fugar de acolo găsise pandurii la Vultureşti, şi îi rugase să vie în ajutorul a
+               şasezeci de fete, care erau în mâna eniqe-rilor, şi să scape pe şaptesprezece
+               negustori închişi de ei şi ameninţaţi cu moartea.</p>
+            <p>Aceasta se petrecea Vineri seara.</p>
+            <p>Hagi Prodan chemă pe preotul din sat, şi-i ceru să citească aghiasma cea mare.</p>
+            <p>Cei cinci mii de oameni stăteau tăcuţi sub cerul de plumb, pe când preotul citea din
+               marele aghiasmatar:</p>
+            <p>„Doamne, Dumnezeul nostru, Dumnezeul puterilor, cel puternic întru tărie şi tare în
+               războaie, care de mult ai dăruit putere prea minunată robului tău David, spre
+               învingerea potrivnicului hulitor Qoliat, tu şi acum cu milostivire primeşte
+               rugăciunile noastre cele umilite şi trimite binecuvântarea ta asupra armelor
+               acestora, şi dă putere şi tărie robilor tăi acestora, cari doresc a le purta spre
+               întărirea şi apăraea bisericii tale cele sfinte şi a orfanelor şi văduvelor şi fă-i
+               ai dânsele înspăimânttători şi înfricoşetori la toată înarmarea vrăjmaşului şi
+               totdeauna-i arată purtătorii de biruinţe, spre slava ta”.</p>
+            <p>Apoi preotul trecu cu botezul printre rândurile pan durilor.</p>
+            <p>Căpitanii îl urmau şi desluşeau oamenilor planul ce-1 făcuseră cu Hagi Prodan. O
+               ceată de ostaşi trebuia să treacă Oltul noaptea, să se întărească in casele şi viile
+               dela Drăgăşani, să-i ademenească pe Turci să vie pân’acolo, şi să le ţie piept, până
+               la sosirea oştirii, ce trebuia să-i ia pe la spate. Cei ce erau gata pentru asta, să
+               iasă din grămadă.</p>
+            <p>Atunci în grabă şi în tăcere, două mii de oameni, căpitani, ca şi soldaşi, ieşiră la
+               front.</p>
+            <p>„Ajungă, fraţilor”, strigă însfârşit Cuţui, „trebue să mai rămâe şi pentru
+               mâine”.</p>
+            <p>Din cei două mii Hagi Prodan şi Oarcâ aleseră trei sute, bărbaţi de câte treizeci,
+               patruzeci de ani, căci lovitura trebuia dată cu sânge rece. Erau cât p’aci sa treacă
+               cu vederea pe Ene Enescu, când Oarcă întâlni privirea poruncitoare a ochilor săi
+               întunecaţi şi zise Sârbului: „Să meargă şi ăla”.</p>
+            <p>Cei trei sute schimbară repede cişmele, punându-şi opincile, şi după ce fiecare din
+               ei primi o traistă cu brânză, pâine, pastramă şi o ploscă de ţuică, plecară în adâncă
+               tăcere, călăuziţi de fugarul dela Drăgăşani.</p>
+            <p>Părea că piciorul lor cunoştea drumul, pe care ochiul lor nu-1 mai putea zări în
+               întunericul nopţii. Scoborîră către Olt, printr'o scobitură a malului înalt până
+               ajunseră la trei poduri umblătoare, pe care trecură puhoiul puternic şi slab lucitor
+               al râului.</p>
+            <p>Iar când dealurile şi câmpiile se iviră în lumina zorilor, cei trei sosiră în viile
+               din spre miazănoapte a Drăgăanilor. De acum nu-şi mai păzeau mişcările. Străjerii
+               turceşti îşi dădură repede seama, că se petrece ceva neobişnuit în casele albe
+               împrăştiate d’a coasta, şi un ceas după răsăritul soarelui pandurii văzură cetele
+               mohorîte ale oştirii duşmane, cum eşiau din grădinile oraşului pe câmpia verefe. In
+               curând, auziră bătaia furtunoasă a tobelor, sunetele ascuţite ale fluerelor şi
+               clopoţeii muzicii păgâne; ei veneau</p>
+            <p>tot mai repede, aşa încât un nor alb de praf se ridică val-vârtej după ei. Acum se
+               răriră şi caii şi fâlfâirea numeroaselor flamuri şi scânteie de lumină sclipind din
+               arme; apoi duşmanul se năpusti asupra viilor.</p>
+            <p>Din trei case aşezate pe deal, cam în acelaş rând, ieşiră trosnind limbi roşii de
+               foc. Iar duşmanul, slobozind şi ei puştile, urla aşa de tare, încât înăbuşi aproape
+               zgomotul împuşcăturilor.</p>
+            <p>Lupta ţinu până la apusul soarelui.</p>
+            <p>Dulce şi caldă era adierea primăvăratecă ce trecea peste frumosul şi pajnicul ţinut,
+               unde numai pe un petec de deal se ridica vuet, unde numai într’un singur loc se
+               rostogoleau, sub cerul albastru, nori de fum alb. Acolo, via abea înflorită era
+               stropită cu sânge de om.</p>
+            <p>Hagi Prodan, în acest timp, trecu Oltul ascuns de zăvoi, şi îşi aşeză oştirea în şir
+               de război. Amuţiseră acum focurile de puşcă, pe care le auzise de departe, dar, spre
+               miazăzi, se înalţă pe cerul de seară o lumină din ce în ce mai roşie; Turcii
+               aprinseseră Drăgăşanii.</p>
+            <p>După ce înoptase, pandurii ieşiră din vie. Erau neînvinşi şi duceau cu ei
+               şaptesprezece răniţi; treizeci şi trei morţi zăceau în casele de pe deal. Duşmanii
+               pierduseră optzeci şi şase de oameni, două sute erau răniţi, iar ceilalţi se
+               închiseseră într'o mănăstire în apropierea Drăgăşanilor.</p>
+            <p>Oştirea Domnului Tudor petrecu noaptea cu pază mare şi în cea mai adâncă tăcere. Nu
+               ardea nici un foc, afară de pălălaia uriaşă de deasupra Drăgăşanilor, din care se
+               ridicau nori groşi de fum portocaliu. Când spre dimineaţă, cerul se lumină şi fumul
+               se ine-gri, pandurii mai văzură câţiva Turci scoborînd în fugă din vii şi alergând
+               către mănăstirea, unde erau închişi tovarăşii lor. I</p>
+            <p>Era în ziua de Rusalii. Creştinii se bucurau de sfânta sărbătoare, care li se părea
+               norocoasă pentru lupta lor cea dintâi.</p>
+            <p>Atacul sună. Pandurii, în trei coloane, se repeziră înainte, se ciocniră cu cavaleria
+               turcească, care ieşise</p>
+            <p>din mănăstire, şi o respinseră. Cincizeci şi şase de morţi râmaseră pe câmpie, iar
+               vre-o doisprezece armăsari, cu hăţurile şi cu coama în vânt, goniră încolo şi
+               încoace.</p>
+            <p>Şi salvă după salvă trosniră din mănăstire.</p>
+            <p>Hagi Prodan ascunsese cavaleria şi pedestrimea după copaci şi în adânciturile
+               pământului, şi răspunse focului artileriei turceşti cu două tunuri mici, cărei i se
+               îngăduise să le ia din Piteşti.</p>
+            <p>Nici o ghiulea nu-şi greşise ţinta. Plumbul turcesc cădea ca o grindină printre
+               panduri, cari îşi ştergeau năduşeala, sângele şi fumul de pe obraz şi trăgeau cu
+               aceeaşi pricepere şi chibzuială ca odinioară, pe plaiul Cotrocenilor, când făceau
+               şcoală de tragere cu Oheorghe Lazăr; de unde cădea unul sărea altul în locul lui.</p>
+            <p>Pe la amiazi însă li se isprăvi iarba de puşcă, şi căpitanii, siliţi să sune
+               retragerea, duseră trupele spre miază noapte, între Olt şi vii.</p>
+            <p>Toate inimile erau cuprinse de mânie.</p>
+            <p>Hagi Prodan era galben la faţă şi scuturat de friguri; fierbea veninul
+               într’însul.</p>
+            <p>Ostaşii vorbeau cu necaz de Iordache, care nici azi, după patru zile, nu se ţinuse de
+               cuvânt, deşi oştirea ar fi avut acele trei tunuri mari, muniţiile ei toate, cele trei
+               care pline de lopeţi, de casmale şi de topoare, pe care Domnul Tudor le ducea
+               totdeauna cu sine pentru săparea de şanţuri, Turcii din mănăstirea Dră-găşani ar fi
+               fost siliţi să se predea chiar înainte de asfinţitul soarelui, căci pe la amiazi
+               focul lor slăbise, pentrucă tunurile pandurilor crâpasera zidurile în mai multe
+               locuri, clădirea era p’aci să se aprindă şi apă nu era în curtea mănăstirii.</p>
+            <p>Era pentru toţi o jale sfâşietoare să oprească lupta aşa aproape de izbândă; dar ce
+               erau să facă fără, praf de puşcă, şi când duşmanul putea să primească în orice clipă
+               ajutor delà Craiova. Şi cu toată sfânta sărbătoare, înjurăturile căzură droaie pe
+               Greci.</p>
+            <p>Căpitanul Oarcă, călărea, adâncit în gânduri negre; inima-i era plină de dorul lui
+               Tudor Vladimirescu. Se căia amar, că îngăduise plecarea dela Goleşti, şi când zări pe
+               Ene Enescu lângă dânsul, zise de odată: „Băiete, să nu zici râului de munte, că în
+               calea sa prea rostogoleşte tot: numai el duce morile din câmp”.</p>
+            <p>Ene îl privi, dar abia îl auzi; sângele îi curgea cald şi uşor prin vine, şi inima, a
+               cărei greutate o simţise de săptămâni, azi îi era uşoară, golită şi de ură şi de
+               iubire, numai stăpânită toată de o beţie războinică. „Când ne mai batem, căpitane?”
+               întrebă el.</p>
+            <p>„In curând, de o vrea Dumnezu”, ofta celălalt, „trebue însă să-l aşteptăm pe
+               Iordache”.</p>
+            <p>„Să aşteptăm şi iar să aşteptăm”, strigă Ene, „ şi azi am fi putut să tragem înainte.
+               Fiecare om din pe-destrime şi din călărime mai avea cu ce trage înnodată”.</p>
+            <p>„Vorbeşti ca un copil”, zise Oarcă, „iarba n’ar fi ajuns ca să sileşti pe Turci la
+               predare, şi am fi pierdut încă din ai noştri”.</p>
+            <p>„Ei şi?” răspunse tânărul, şi în ochi săi negri se aprinse o flacără ciudată.</p>
+            <p>Atunci Oarcă se răsti mânios la dânsul: „Ei şi? Şi de ce te baţi? De petrecere„ sau
+               pentru ţara ta? Nu e vorba să cădem în zadar, ci să biruim, de o vrea Dumnezeu să ne
+               ajute”.</p>
+            <p>Se părea însă, că Dumnezeu nu vroia să le ierte păcatele.</p>
+            <p>Numai după două zile cercetaşii pandureşti, aduseră vestea, că Iordache şi Ypsilanti
+               sosiseră în faţa Râmnicului. Câteva trupe răsleţe eteriste fuseseră bătute de Turci
+               în apropierea Târgoviştii, până nu fugise întreaga oştire, în mare goană, din acest
+               oraş. Un căpitan trecuse la duşmani, altul o luase la sănătoasa peste munţi. Doi se
+               apăraseră vitejeşte intr'o mănăstire dar după ce Tiu mai avusese muniţii, alergaseră
+               noaptea la Târgovişte, şi ziseră Arhiului care-i mustrase: Dojana e uşoară când stai
+               departe de lupta.</p>
+            <p>„Dar unde e slugerul Tudor?” întrebară pandurii.</p>
+            <p>Aceasta cercetaţii n’o aflaseră.</p>
+            <p>Hagi Prodan cu oştirea sa toată se îndreptă spre Olt.</p>
+            <p>Apele umflate curgeau galbene căluţul printre ză-voaiele verzi, căci la munte ploua,
+               în aer era zăduf, cerul era posomorit şi zarea învineţită de ploi.</p>
+            <p>In jos de Râmnic era un pod plutitor. Hagi Prodan cu căpitanii săi cei mai mari trecu
+               de celălalt mal, unde se vedeau mişunând cetele negre ale oştirii eteriste.</p>
+            <p>Arhiul stătea în una din casele ţărăneşti împrăştiate. Pandurii merseră la
+               dânsul.</p>
+            <p>Alexandru Ypsilanti şedea pe pridvor. Era palid, două pete roşii ardeau pe obrajii
+               săi slabi, ochii-i sticleau şi buzele-i tresăreau nervos. Fraţii săi stăteau lângă
+               el, pleoştiţi; Lassanis era neliniştit, ca o vulpe închisă. Pe faţa lui Iordache nu
+               se putea citi nimic ca de obicei. De undeva se auzeau urletele lui Cara-via, apoi se
+               apropie şi el cu paşi lungi, legănaţi.</p>
+            <p>Semeţ şi obosit, Alexandru Ypsilanti întrebă pe căpitanii de pandurii, dece se
+               retrăseseră înaintea duşmanului?</p>
+            <p>Atunci, Hagi Prodan, cu toată gălbinarea lui, se înroşi de mânie şi zise: „Căpitanul
+               Iordache e de vină, că nu sa încrezut în noi şi-şi închipuieşte, că suntem înţeleşi
+               cu Turci; şi de aceea a oprit tunurile şi muniţiile noastre la Piteşti, sub cuvânt că
+               n’are poruncă dela Măria Ta. De am fi avut cele două tunuri mari, în trei ceasuri
+               făceam mănăstirea praf, şi nu se prăpădeau degeaba cei mai viteji dintre noi. Două
+               zile n'a îndrăznit să iasă picior de Turc din mănăstire, şi ieri au fugit păgânii la
+               Craiova cu răniţii lor. N’a rămas decât o ceată mică”.</p>
+            <p>Iordache şi Niculae Ypsilanti, ceifmai harnici printre ostaşii eterişti, simţiră
+               ciudă la auzul acestei cuvântări. ,</p>
+            <p>Arhiul însă zise: „Trebuia să ţineţi poziţia încă trei zile, până veneam eu”, şi
+               adăogă cu dispreţ fatalist: „Dar ce s’a făcut s?a făcut”.</p>
+            <p>„i).ai eu ce era sa ne ţinem poziţia ?” strigam H agi Prodan şi căpitanii săi, „dacă
+               nu mai aveam muniţii?”</p>
+            <p>Ypsilanti ridică barţul său schilod: „Acuma voi merge eu cu oştirea mea intreagă
+               înaintea Turcilor, si voi pune capăt acestui război”.</p>
+            <p>Cu aceste cuvinte se curmă audienţa pandurilor; le iu îngăduit să treacă Oltul, să
+               intre în Râmnic şi sa aştepte acolo poruncile Arhiului.</p>
+            <p>Hagi Prodan se opri lă episcopia din deal, şi se culcă. Convorbirea cu Ypsilanti îi
+               întărîtase gălbi-narea.</p>
+            <p>Oarcă şi Cuţui stăteau lângă patul Sârbului şi ziceau: „Ce prost îngâmfat e ăst
+               Ypsilanti. Iatâ-1 că vorbeşte, ca şi când acest război nu l-ar mai privi pe
+               dânsul”.</p>
+            <p>Makedonski intră strigând: „Ştiţi ce l-a scos din fire pe Ypsilanti? L-aţi văzut că
+               nu mai ştia ce zicea? Am aflat delà câţiva eterişti, veniţi de peste Olt, după
+               merinde. I-a fugit ibovnica, nevasta unui oarecare Pantais, şi a fugit cu Scufas—şi
+               cu casa eteriei. Oştirea a murit de foame, în drum, delà Piteşti până aici, căci
+               toată zahereaua au lăsat-o la Târgovişte. ( )ameni s’au hrănit cu cireşi verzi. Şi
+               i-a plouat năstruşnic”.</p>
+            <p>„Dar cu Domnul Tudor ce-a făcut?” întrebă Oarcă.</p>
+            <p>Makedonski dădu din umeri.</p>
+            <p>Oarcă ieşi, adună pe toţi căpitanii, cari erau patruzeci la număr, şi puse pe unul
+               dintre ei„ măi meşter la carte, să facă o jalbă către Arhiu, prin care cereau sa li
+               se dea slugerul Tudor, cel care-i luase delà casele lor ca să-i ducă la război.</p>
+            <p>Cei patruzeci trecură iarăşi Oltul şi înmânară jalba lui Ypsilanti.</p>
+            <p>Acesta puse pe un Grec ştiutor de alte limbi, să i-o tălmăcească, tăcu câtva timp,
+               privind în depărtare, ca unul cu mintea aiurea, şi pe urmă răspunse cu a-ceeaş
+               mândrie ca odinioară: „Voi chema pe Tudor Vladimirescu din Rusia, căci slugerul a
+               fost chemat</p>
+            <p>Pandurul.</p>
+            <p>acolo. Românii insa, până va veni, sa nu stea la parte, ci să meargă împotriva
+               Turcilor, la Drăgăşawi.</p>
+            <p>Pandurii, desamâgiţi şi uluiţi, se întoarseră la Râmnic. Frunte-Lată zise amărît:
+               „Acuma ni l-au luat pe Tudor, care ne-a ridicat de pe la vetrele noastre; ce să mai
+               rămânem la un Grec călare pe cal? Gâ-diţi-vâ la copiii noştri, cari sunt în mâinile
+               Turcilor”.</p>
+            <p>Tocmai acesta era gândul lor; în noaptea aceea trei sferturi dintre panduri plecară,
+               prefirându-se printre mii de primejdii şi de întâmplări, spre nevestele şi copiii
+               lor, fiecare dintre ei gata să-şi apere casa chiar împotriva unei oştiri întregi.</p>
+            <p>Numai Oarcă, Cuţui, Cioreanu, Caleţeanu şi E-nescu rămaseră. Oarcă încercă să-şi
+               spele purtarea faţă de Domnul Tudor, luptând până la sfârşit pentru îndeplinirea
+               gândului şi voinţei lui. Cuţui, Cio-rcarm şi Caleţeanu rămaseră de dragul lui Oarcă.
+               Iar Enescu voia să se bată, şi ducea în sufletul său ta-nar nădejdea să cadă, într’o
+               răzvrătire îndârjita împotriva ursitei.</p>
+            <p>In ambele tabere de lângă Olt se pregătea furtuna. Căpitanii, certaţi între ei, nu se
+               încredeau, unii in alţii şi în adunarea pestriţă a oştirilor fierbeai! duşmănii
+               cumplite. Inimile Românilor \erau aprinse de mânie împotriva Grecilor, ,de cari voiau
+               să scape, şi cu cari acuma, 'după viclenia lor le luase .pe Domnul Tudor, /trebuiau
+               să lupte laolaltă împotriva Turcilor. Sârbii ţineau cu‘Românii, însă nu erau plătiţi
+               de mult şi erau nemulţumiţi.</p>
+            <p>Haimanalele, cajri se alipiseră de Ypsilanti zicân-du-şi eterişti, fiindcă hainele
+               lor boite în negru la Târgovişte şi prefăcute în uniformă îi semuiau întru câtva cu
+               mavroforii, erau înfuriaţi, că nu li se plătea şi idaveau ce prăda, că nu venea
+               ajutorul Rusiei şi că luptele împotriva Târgoviştei fuseseră toate nenorocite pentru
+               Greci.</p>
+            <p>Singurii cari nu erau în vrajbă cu ursita, enati tinerii din batalionul sacru. Cu
+               leacul doctorului Chris-taris, căpitanul Dimitrie Soutzos se vindecase de des-</p>
+            <p>midejdt: el voia manrca Eladei, şi această mărire fit. nu mimai pentru dânsul, dar şj
+               pentru tovarăşii sal. pe cari ii rapea entuziasmul sau. Din tabara de lângă Olt,
+               Dimitrie Soutzos scria acasă la Constantinopole : „Am răni la picioare. De câteva
+               zile umblu neincălţat, dorm in mlăştini, mănânc poame verzi, rareori o bucata de
+               pâine uscată. Dar această lipsa mi-e planta, viaţa aceasta plină de întâmplări mi-e
+               draga. De mic copil am visat ziua liberării noastre. Pentru prima oară în viaţă
+               conduc oameni cari nu-mi dau titluri goale, ci mă chiamă cu scumpul nume de frate.
+               Rămâneţi cu bine. Ne vom revedea... Unde?... numai Dumnezeu ştie”.</p>
+            <p>Furtuna se coborîse de pe munţi, cu tunete şi trăsnete şi vijelii grozave, cari
+               rupeau frunzele de pe comici. Pe Oltul galben, vărgat de spumă albă, se legănau
+               trunchiuri desrădăcinate, şi dintr’odată piatra căzu din cer, ca mii de suliţi albe,
+               ferfeliţând iarba, stufişurile şi florile, ropotind pe căruţe, pe grămezile de puşti,
+               pe tunurile din tabăra eteriei şi gonind pe oameni sub orice adăpost găseau. Piatra
+               era mare ât nuca. Mavroforii abia scăpară sub un grajd.</p>
+            <p>Dincolo de Olt, la Râmnic, apele curgeau şiroaie si spumegând pe uliţele povârnite,
+               şi tot liliacul în-Vlorii zăcea acum la pământ, rupt şi tocat, în grămezi vinete. Şi
+               ploaia mai ţinu două zile, de credeai ca va îneca tot ţinutul.</p>
+            <p>Luni sosi ştirea, că se iviseră iarăşi trei mii de Turci la Drăgăşani, şi pe dată
+               începu cearta între căpitani despre planul de atac. Caravia voia să plece, să fie
+               Marţi de dimineaţăla Drăgăşani, şi să surprindă pe duşman, lordache Olimpianul însă
+               ţinea că Marţea 1 zi nenorocită, şi că nu se putea face vreun atac fără o
+               recunoaştere.</p>
+            <p>Marţi trupele trebuiau împărţite astfel, ca, în timpul bătăliei, întăririle să
+               sosească repede şi pe neaşteptate, iar atacul cel mare să se facă numai Mier-curi, cu
+               atât mai mult, cu cât din pricina ploilor regimentele se putea înfunda în noroi,
+               puteau sa se despartă uneh de altele, şi aveau nevoie de timp mai mult ca sa sosească
+               la Drăgăşani.</p>
+            <p>Totul fu în zadar. Caravia era beat şi răcnea asum zitor. Deci Ypsilanti porunci, ca
+               bătălia sa se faca Marţi.</p>
+            <p>Oarcă însă cu oamenii săi se împotriviră la porunca, pentrucă Ypsilanti luase
+               comandamentul peste Românii lui Magi Prodan şi îl trecuse lui lordaene. Iar pandurii
+               erau foc pe Olimpianul, în care vedeau pe duşmanul Domnului Tudor. De aceea Mag;
+               Preda, care era bolnav, fu adus cu trăsura din Râmnic ca să'i potolească pe căpitanii
+               săi.</p>
+            <p>Trupele plecară, în sfârşit, spre amiazi, şi tein a înaintea lui Alexandru Ypsilanti,
+               care stă;ea călare în mijlocul adjutanţilor săi şi a unui pâlc de cazaci cu suliţi,
+               obosit şi aproape' fără să bage de seama cele cc se petreceau în juru-i.</p>
+            <p>Mavroforii, insa strigau de bucurie, trecând înain-tea lui, şi pe drum cântau toate
+               cântecele lor patriotice, mai ales Marseilieza, cu cuvintele potului. Rhigas:</p>
+
+
+            <l><foreign>„Fiii mu simpatriote,</foreign></l>
+            <l><foreign>Du 1 i nametha os pote</foreign></l>
+            <l><foreign>Ton ac irion Muvulmanon</foreign></l>
+            <l><foreign>Tis Elados ton tyrannon?”</foreign></l>
+
+
+            <p>Arnăuţii bombăneau, zicând că broaştele erau destule prin mocirle; de ce mai ocărăiau
+               şi baeţii</p>
+            <p>Mersul pandurilor era „tare ca vântul, tăcut ea pământul”. Dar inima le era ca de
+               plumb, căci zvonul îngrozitor, că Domnul Tudor ar fi fost omorît la Târgovişte, le
+               ajunsese la urechi. Oarcă şi Cuţui, după ce statură la cumpănă, nu deteră crezământ
+               acestui zvon; mintea lor dreaptă, oricât de mişei ii socoteau pe Greci, tor nu
+               credeau că, fiind de o lege ai Românii ar fi puiuţ să săvârşească acest omor. Insă,
+               lama care invaluia peirea domnului Tudor, apasa greu pe sufletul tuturor.</p>
+            <p>Drumul între Râmnic şi Drâgăşani se poate face in opt ceasuri, ruptura de nori însă
+               il desfundase cu toni. Oştirea creştină nu spsi decât noaptea târziu. Poziţia luata
+               după sfatul căpitanilor, se afla la poalele viilor. Iar după cunPo prevăzuse
+               lordacie, nimeni mi avea habar de poziţia duşmanilor.</p>
+            <p>Pentru acest cuvânt, şi pentrucâ nu conteneau laudele de sine şi mutrele de
+               feldmareşal ale lui Ca-ravia, Arhiul nu-şi urmase încă oştirea, — ca și din pricina
+               beţiei arnăuţiîor, cari jefuiseră câteva pivniţe în drum. Olimpianul se înfuriase
+               atât de rău, încât spuse pandurilor, Marţi dimineaţa: „Fraţilor, noi sa-i privim de
+               departe, căci vă zic vouă: bătălia asta e pierdută”.</p>
+            <p>Parcâ era de aceeaş părere şi hotărîrâ să stea în adăstare.</p>
+            <p>Caravia işi aşeză oştirea într’un triunghiu, al cărui vârf se rezima de vii şi a
+               cărui ipotenuză era înfăţişată de batalionul sacru. Mavroforii, udaţi până la piele,
+               plini de noroi, aproape desculţi, râu înarmaţi, lipseau baionetele la puşti, — îşi
+               luasera poziţia in marş, de paradă, în cap cu „muzica Golescului”, adusă dela
+               Goleşti, şi care le cânta cântece greceşti.</p>
+            <p>Abia se opriseră, şi aerul se cutremură de urlete vajnice. Din spre Drăgăşani,
+               pedestrimea turceasca se repezea drept asupra batalionului sacru, ieşind din pădurea,
+               care înconjura pe jumătate larga câmpie.</p>
+            <p>Un fior trecu printre rândurile celor cinci sute de tineri, inimile lor bătură
+               tare.</p>
+            <p>Staţi pe loc!” le strigă căpitanii, cu glasul ascuţit de turburare. Ei nu se mişcară,
+               priviră cu ochii mari vârtejul de oameni, care se apropia, şi la comanda de foc,
+               pocni ur/ropot de gloanţe, atât de bine socotit, încât frânse avântul duşmanilor
+               rândurile cele dintâi căzură ca grâul sub seceră.</p>
+            <p>Pedestrimea turcească se opri pentru câteva clipe, apoi îsi întoarse calea.</p>
+            <p>Mavroforilor li se taie răsuflarea de bucurie; p unii ii ineca un plâns scurt.
+               Trăiseră însfârşit atacul cel dintâi şi nu se clătinasera. mai mult chiar, inamicul
+               fugea dinaintea lor.</p>
+            <p>Atunci răsună pământu.</p>
+            <p>Venea cavaleria turcească.</p>
+            <p>Dimitrie Soutzos porunci îndreptarea tunurilor.</p>
+            <p>Tinerii deschiseră în grabă chesoanele celor cin.’ tunuri, şi rămaseră trăsniţi de
+               groază, căci în loc de praf de puşcă şi de iască nu aflară decât fân şi nisip. Asta
+               era administraţia lui Caravia.</p>
+            <p>„O cremene, un burete!” strigară ei, ca sa slobi /casca cel puţin încărcătura din
+               tunuri.</p>
+            <p>Unii dintre ei alergară printre rânduri, până găsii ce căutau. Clipele părură
+               veşnicii. In sfârşit scânteii, săriră, şi, tunând şi zguduind pământul, ghiulele
+               ieşiră din gurile de aramă. De astădată nu se gândise nimeni să ochiască bine.
+               Ghiulele zburau prea sus. Fumul se ridicase încă înaintea frontului batalionului
+               sacru, şi tinerii auziră aproape de tot ropotul copitelor.</p>
+            <p>Căpitanii strigară : „apăraţi-vă cu sabia. Gândiţi-vă la Elada. Muriţi pentru
+               patrie!” şi cu toată desna-dejdea lor erau fericiţi, fiindcă stătuseră locului
+               vitejeşte, şi fiindcă trupul lor urmase porunca sufletului si prin puterea voinţei
+               lor sprijiniră tot batalionul vacru. Nici unul nu dosi, nici când simţiră suflare;
+               cailor în obraz şi văzură fulgerarea iataganelor, nici când primiră in cap, în piept
+               şi braţe lovituri arzătoare, nici când copitele cailor călcară pe picioarele lor
+               goale; în mijlocul înfricoşatei îmbulzeli loveau orbeşte atâta vreme cât i lăsau
+               rănăile dureroase si pierderea de sânge.</p>
+            <p>Cinci sute de copii rău înarmaţi, împotriva unei mii de călăreţi bine conduşi. Dupâ
+               zece minute, nu râmase din batalionul sacru decât un morman de le-suri
+               ciopârţite.</p>
+            <p>In aceste zece minute, mavroforii salvasera cinstea Eladei, atât de zdruncinată prin
+               această răscoală. O salvaseră cu toate lipsurile celorlalte trupe etenste pe câmpul
+               de luptă delà Drăgăşani.</p>
+            <p>Nici o divizie nu venise în ajutorul batalionului sacru. Numai Caravia, care statea
+               cu arnăuţii săi cam la cincizeci de paşi de flancul drept al mavroforilor, se
+               mişcase; când văzu iu rusul'fără stavilă al cavaleriei turceşti, frica de moarte
+               umplu capul său de beţiv. îşi întoarse calul. Oamenii îl urmară, se aruncară pe
+               regimentele, care la spatele batalionului sacru, formau vârful triunghiului, şi le
+               târîră, cu toată împotrivirea disperată a prinţului Niculae, în fuga lor, până la
+               podurile umblătoare de pe Olt, pe care se repeziră, călăreţi şi pedeştri, în goană
+               nebună împingându-se si imbrâncindu-se între ei, astfel încât mulţi pieriră in
+               valurile râului.</p>
+            <p>Pe timpul acela trupele Sultanului bateau falnic pe tobele mavroforilor, şi un enicer
+               striga greceşte la marginea pădurii, în care se aciuaseră vreo cincizeci de tineri:
+               „Ieşiţi, au fugit Turcii!” Băeţii ieşiră şi fura culcaţi la pământ ca vânatul de
+               vânători.</p>
+            <p>Atunci se cutremură sufletul pandurilor. „Vai de bietele lor mame”, ziceau ei. Şi
+               când căpitanul lor-dache trecu înaintea lor şi striga pe româneşte: „Fraţilor, să
+               nu-i lăsăm să se prăpădească de tot, sunt creştini ca şi noi!” pandurii se aruncară
+               asupra duşmanului.</p>
+            <p>Iapa Olimpianului fu ucisă pe dată, şi el, rănit, ramase în urmă.</p>
+            <p>Oarcă luă comanda. Şi cei opt sute de panduri curmară bătălia începută de zece mii de
+               eterişti. Vânătorii de urşi şi de capre din Gorj şi Mehedinţi stăteau ca un zid;
+               căpătaseră una din căruţele lor cu muniţii şi trăgeau cu răbdare şi fără greş.
+               Duşmanii, deşi de trei ori mai numeroşi, nu Ie puteau lua nici o palmă de pământ,
+               nici nu puteau urma pe fugarii Greci</p>
+            <p>Spre noapte, Turcii se retraseră la Drăgăşani. Numai atunci pandurii lăsară din mână
+               puştile lor înfierbântate.</p>
+            <p>Japilanii se adunară, trecând cu bagarc de seama printre lacurile de sânge, printre
+               leşuri, printre răniţi şi printre cei ce trăgeau să moara.</p>
+            <p>„Fraţilor”, zise Oarcă, „iara am isprăvii pradii de puşca şi gloanţele. Nimeni n’a
+               ţinut cu noi afară de Chiriac Popes cu cu Sârbii săi. Nimeni nu va mai veni in
+               ajutorul nostru. Toţi câţi erau viteji printre Cireci, zac acolo in mijlocul câmpiei,
+               ceilalţi fug, căpetenia lor nici nu fu defTaţă, la bătălie. Comandirul nostru
+               Dumnezeu ştie unde e. Fraţilor, luptarăm cum puturăm. Numărul nostru scade, Turcii se
+               ’nmulţcsi Fu nu am cu ce să vă ţiu. Duceţi-vă cu Dumnezeu, unde vă trage inima”.</p>
+            <p>La trei ceasuri de Drăgăşani, Arh iul călărea incet in capul Grecilor săi îmbrăcaţi
+               căzăceşte. Mai mult atârna de cal, decât şedea pe el. Picioarele-i apăsau scările,
+               grele ca plumbul. Ar fi vrut să-şi lase capul de toi pe spate. Frigurile şi ameţeala
+               îi sleira puterile.</p>
+            <p>La întâlnire il trase din amorţeala. Pădurea, prin care trecea drumul, mişună deodată
+               de fugari, cari la cea dintâi ciocnire, luându-se unii pe alţii drept duşmani, sc
+               înfricoşară straşnic. Pe urmă însă spaima Arh iu lui crescu şi mai mare, căci cu cei
+               cari se întâlnise, ii strigau pe toate dialectele greceşti, c’o luaseră la fugă
+               dinaintea Turcilor, pentrucă eteriştii pierduseră bătălia delà Drăgăşani.</p>
+            <p>Trezit de valul de sânge fierbinte, cane i se urcase in obraz, Alexandru Ypsilanti se
+               ridica în şea -i strigă cu toată tăria pe care o putea avea glasul său slab: „înapoi,
+               fii ai Eladei! Înapoi la datoria voastră, înapoi ai mine la luptă!”</p>
+            <p>Dar vocea-i fu înăbuşită de urletele fugarilor, cari se îmbulzeau din ce în ce mai
+               mult. Ei ţipau că s’au săturat de comânduirea lui şi că vroiau să scape de urgia
+               Turcilor.</p>
+            <p>Pentru cea dintâi oară Ypsilanti se află faţa ia fată cu ostaşii săi, pentru cea
+               dintâi oară grăia către</p>
+            <p>dânşii fain mijlocirea adjutanţilor, şi pentru cea (liniai oara ostaşii ii răspundeau
+               deadreptul.</p>
+            <p>El caza grămadă pe şea.</p>
+            <p>Atunci Lassanis, ca şi Christaris, pe care prinţul ii luase ca medic în locul
+               doctorului Mavromati, fugii mai de mult, sfâtuirâ pe Arhiu să nu se mai împotrivească
+               prostimii înfuriate, ci să se retragă spre Râmnic.</p>
+            <p>Dar şi in drumul său grăbit spre acest oraş, prinţul nu fu cruţat de nici o înjosire.
+               Fiecare arnăut care trecea işi batea joc de Arhiu. 11 făcea mincinos, pentrucă-i
+               momise cu ajutorul rusesc; il făcea înşelător, pentru că nu le plătise simbria, şi-l
+               făceau mişel pentruca se afla la o depărtare de trei ceasuri de câmpul de rezbel, pe
+               când bătălia era pierdută de mult.</p>
+            <p>Aceste chinuri deşteptară urmele de bărbăţie rămase1 in inima lui Ypsilanti; el uită
+               boala şi jalnica lui dragoste, şi luă hotărîrea să se întărească în valea Oltului, ca
+               să aştepte, acolo pe Turci. A doua zi de dimineaţa, Chiriac Popescu, care sosise şi
+               el la Râmnic, fu trimis să cerceteze întăririle făcute lângă mănăstirea Cornet în
+               1788 de Austriaci, împotriva Turcilor sub domnia lui losif al 11-lea.</p>
+            <p>Sărbul plecă cu şaptezeci de oameni.</p>
+            <p>Soarele ieşea printre nori, şi frunzişul ud al stejarilor strălucea; din pricina
+               răscoalei neobişnuite a anotimpului, verdeaţa era incă fragedă, şi fiecare foaie
+               părea luminoasă. Razele soarelui trăgeau mirezme îmbătătoare din ierburile şi
+               buruienile codrului; cu mirosul aspru al stejarilor se amesteca o adiere dulce i
+               înviorătoare, care trecea prin văzduh ca o mângâiere. leşia din halânga înflorită,
+               ale cărei buturi a -târnau de pe copaci ca funii groase şi cenuşii, pe când frunzişul
+               ei li se urcă până’n creştet.</p>
+            <p>De unul din aceşti copaci se rezima un ţăran, bătrân si orb: şi când auzi călăreţi
+               trecând prin pădure. Înălţă capul şi întrebă: „Cine trece călare?”</p>
+            <p>„Nişte ostaşi”, răspunse Chiriac Popescu.</p>
+            <p>„Din care oştire?”</p>
+            <p>„Din oştirea Domnului Tudor. Dar dumneata cine eşti?14</p>
+            <p>„Un biet pandur neputincios. Dar spune-mi, căpitane, adevărat să fie oane, că se
+               prăpădi Domnul Tudor?”</p>
+            <p>„Adevărat”.</p>
+            <p>Moşneagul făcu semnul crucii şi zise: „Sa tii, fătul meu, că fără Domnul Tudor nu
+               puteţi ţine tara nici şapte zile măcar. Numai el cunoaşte firea pandurilor şi ştia
+               cum să-i ducă. De e adevarat ca muri, toţi Românii se vor întoarce pe la vetrele lor.
+               iar voi, fără el, nu vă puteţi ţine în ţară, şi o să fiţi siliţi să fugiţi peste
+               graniţi”.</p>
+            <p>Chiriac Popescu trecu înainte. Ştia câta dreptate avea moşneagul.</p>
+            <p>Ostaşii ieşiră din pădure. Drumul trecea acum pe marginea Oltului.</p>
+            <p>Aci, în mândra singurătate a vâei, patru mănăstiri erau încuibate. Ostaşii nu o
+               văzură pe cea dintâi, Ostrovul, ascunsă într’o insulă, sub o pădure seculară de plopi
+               de anini, de sălcii şi de fagi. Un ceas mai departe cercetaşii dădură de Cozia
+               falnică, a! cărei ctitor era Mircea, puternicul voevod, căruia Car păţii nu-i
+               înfăţişaseră hotar. Era un pătrat de ziduri albe, cu acoperişuri de ţigle roşii,
+               peste care se vedeau trei turnuri, un vârf de brad şi unul de tei; poarta era
+               zăvorită.</p>
+            <p>Chiriac şi oamenii lui trecură înainte, - n’aveaii ce căuta aci deocamdată, — şi se
+               îndreptară către munţii cei de tot aproape.</p>
+            <p>Oltul iese aci ca printCo poartă, intre zidurile nalte, falnic zimţelate ale
+               Carpaţilor; venit din miazănoapte, din Ardeal, îşi deschide lunga cale printre munţi,
+               mugind pe un pat de stânci, printre pereţi de piatră şi păduri străbune. Poteca era
+               primejdioasa pentru călăreţi, unde cotea pe lângă coaste repezi, ale căror poale, le
+               rodeau'apele clocotitoare. In acesU chei, drumurile, după voinţa Sultanului, nu
+               trebuiau întreţinute, ea nu cumva să înlesnească oştirilor stra ine intrarea, şi
+               boerilor obiceiul lor viclean al fugii din ţara. Plouase cu săptămânile, şi
+               trecătoarea era cu totul prăpădită. Din jghiaburile, răcoroase, la stânga
+               călăreţilor, năruiau parade umplute, înnecând dru-mul; vine de apa limpede curgeau pe
+               toate stâncile. Cheia toata, în găteala ei văratecă, picura. De pe fagi si de pe teii
+               uriaşi, perniţele de muşchiu luceau umflate de apă, razele soarelui se restrângeau
+               verzi şi aurii prin frunzişul des, şi picături mari scânteiau pe florile, care, în
+               acest an, erau mai mândre, ca oricând. Dincolo, peste râu, la poalele unei păduri, o
+               poiană părea că revarsă valuri de flori până la Olt Trifoiul, ochiul boului,
+               garofiţele, felfele, degeţelele. clopoţeii, guşa porumbului, cimbrul, drobiţa, răsu.
+               rele şi socul umpleau văzduhul cu miresmele lor. Ascunsă în fundul acestor pocni,
+               într’o ascunzătoare aproape de negasit, se afla mănăstirea Turnu.</p>
+            <p>Arnăuţii ajunseră la amiazi la ţelul lor, Cornet, a patra mănăstire. Era aşezată pe
+               un picior de stâncă cu suiş greu; mai ales pentru cei cari făceau drumul in butcă,
+               partea cea mai groaznică a călătoriei era aci. Cornetul era părăsit; călugării
+               fugiseră. Popescu nu găsi decât urmele întăririlor nemţeşti. „Şi chiar daca ar fi in
+               stare bună”, zise Sârbul, „fără tunuri nu ie poţi apăra. Aci în pustietate Turcii
+               ne-ar birui prin foame”, — şi întorcându-şi calul se înapoie la Cozia.</p>
+            <p>Acolo sosise Ypsilanti.</p>
+            <p>Călugării priviră îngroziţi intrarea trupelor eterister si rabdară opt zile tăbărîrea
+               Grecilor înăuntrul si împrejurul mănăstirii domneşti. Căci numai atunci se întoarse
+               Gheorghe Lassanis, care fusese trimis la graniţă, la Turnu-Roşu, ca să ceară liberă
+               trecere către Austria pentru Arhiu şi pentru fraţii săi. Arnăuţii însă nu ştiau
+               nimic, altfel ar fi nimicit acest plan. Zbierau şi zi şi noapte cerând plata, şi
+               Arhiul nu mai îndrăznea să se arate printre ei.</p>
+            <p>i I statea sus, iu una din odăile marelui Mircea, dinspre răsărit, deasupra zidului
+               uriaş spălat de salurile Oltului. Culcat pe un divan, se jeluia de netrebnicia
+               oştirii, de desfrânarea ofiţerilor, care-1 furaseră - -1 minţiseră, şi de. zădărnicia
+               jertfelor de tot felul făcute de familia Ypsilanti. Iar noaptea isi îngropa capul in
+               perne şi gemea. Trădarea Sofianei Pantas rănise, mai adânc ca toate, firea sa
+               pătimaşă şi moale. In ziua de 27 Mai, Sofiana sosise dela vie la Tar govişte şi
+               intrase deodată in camera lui Ypsilanti. care zăcea bolnav. Am auzit, că l-ai prins
+               in sfârşit pe Tudor Vladimirescu?” zisese ea cu un râs unt, „ce ai să faci cu el?” —
+               „Voiu lua o hotărire îndata ce voiu putea să mă ţin pe p:cioare, la viitorul
+               consiliu”, răspunse prinţul. „Parcă aşteaptă' pandurii până te ţii în picioare”, fu
+               răspunsul ironic, „au să vie sa ceară pe căpitanul lor”. „N’aş crede, căci ei mi l-au
+               predat”, zise prinţul. Atunci ea voise să afle. cum se petrecuse aceasta, şi pentrucă
+               Ypsilanti tăcea amant de batjocurile ei şi de născocirea boalei sale, Sofiana ieşi
+               zicând: „Lasă să întreb pe ofiţerii tăi. Doar se va găsi unul printre ei, care sâ
+               ştie ce se întâmpla în ţară, mai bine decât struţul eteriei”. După aceasta Ypsilanti
+               se mai stăpâni cu greu, timp de patru ceasuri, ca să-şi arate supărarea, ţinându-şi
+               uşa încuiată. Pe urmă însă chemase pefLassanis, ca să-şi verse foml si să-l trimeată
+               la Sofiana. Dar beizadeaua se sperie, când văzu, la întoarcerea adjutantului,
+               turburarea lui aproape isterică. Nu mai era în stare să împărtăşească cu cânge rece
+               Arhiului ştirile rele, pe care le aducea, ci striga blesteme şi înjurături, că
+               mişelul de Scufas fugise cu casa eteriei şi cu Sofiana Pantas. Mai trecu o bucata de
+               vreme, pană ca Ypsilanti. care tremura din cap pâiTn picioare izbuti să afle ce se
+               întâmplase. Sofiana pusese pe Caravia şi pe alţii sa-i povestească prinderea lui
+               Tudor Vladimirescu: in timpul povestirii însă leşinase, iar când îşi venise in fire,
+               strigase: „Pământul acestei ţări îmi arde talpa picioarelor!” intrase apoi în odaia
+               ei, cu Scufas, care se tot invârtea împrejurul ei, dar acolo acuma nu mai era nimeni.
+               Beizadeaua de te porunci încurcate pentru prinderea fugarilor, dar nimeni nu se gândi
+               sa le urmeze, căci era întuneric beznă şi ploua tare, şi toţi îşi ziceau, că cel ce
+               fuge cu o casă plină cu bani, e nu mimai bine înarmat, dar şi hotărît să lupte,
+               Ypsi-lănti nu-şi mai reamintea de a doua zi; Lassanis ii spuse ea aiurise. Pe urmă
+               veniseră Turcii. Dar ce sc tăcuse cu Tudor Vladimirescu? Doar la Râmnic, când
+               căpitănii de panduri i-1 ceruseră pe Tudor, îşi adusese aminte ce-i spuseseră Caravia
+               şi Lassanis, că Sluge-rul ar fi fost chemat de Muscali. Şi chiar acuma la ora aceasta
+               îl lasă foarte nepăsător pe struţul eterici. Căi capul îngropat în perne, ţipa tare
+               sub chinurile indurate de inima lui slabă şi bolnavă, pentruca pierduse pe
+               Sofiana.</p>
+            <p>In sfârşit Lassanis se întoarse. El spuse fraţilor Yp-silanti, ca graniţa austriacă
+               le era deschisă, dacă depuneau armele; amanţilor însă, le spuse, că Nemţii o
+               intraseră în ţară, ca să ajute eteriei împotriva Turcilor, şi călugărilor le porunci
+               să cânte un Te-Deum pentru fericita întorsătură a lucrurilor. La sunetul clopotelor,
+               arnâuţii intrară in biserică'îmbrâţişându-se; in sfârşit scăpaseră de duşmanul, de
+               care se temeau in fiecare ceas. Lassanis adăogase, că a doua zi, toţi trebuiau sa fie
+               gata, ca să urmeze oştirea austriacă în trecerea ei în spre Râmnic.</p>
+            <p>A doua zi de dimineaţă, căpitanii, gata de plecare, nu găsiră nici pe beizadeaua,
+               nici pe Lassanis. înţeleseră atunci că fuseseră momiţi, şi că Arhiul fugise in
+               Austria.</p>
+            <p>Nebuni de mânie se luară după el. Voiau plata lor. Goniră prin trecătoare ca o haită
+               de lupi flămânzi năvălind unii peste alţii, cei tari peste cei slabi, cei călări
+               peste cei de jos. înghesuiala fu mai straşnică in locurile primejdioase ale drumului
+               şi mai ales la gura Lotrului, ale cărui ape repezi erau revărsate; aci mulţi căzură
+               în apă şi se înecară. Ceilalţi prinseră pe Arise să răscumpere de ceata turbata,
+               care-1 blestema, cu cine sute de galbeni.</p>
+            <p>In sfârşit ofiţerul grănicerilor austriaci veni, cu mâna la şapcă, şi duse pe fraţii
+               Ypsilanti la vama. Li se părea că scăpaseră din iad; adânc uşuraţi trecuseră prin
+               cele două regimente, înşirate la dreapta si la stânga drumului, şi priviră cu
+               recunoştinţă către tunurile aşezate pe muchia dealului, care împiedecau intrarea în
+               Ardeal a îndrăciţilor arnăuţi.</p>
+            <p>Lassanis, înainte de a trece graniţa, înmânase un sul de hârtie lui bimbaşa Anastasie
+               Arghirokastritui, care dăduse năvală cu mai multă obrăznicie asupra lui Ypsilanti. In
+               el erau mai mulţite copii ale cuvân-tărei celei din urmă a Arhiului către armata sa,
+               care glăsuia astfel:</p>
+
+
+            <p>„Ostaşilor. Nu, nu vreau să necinstesc acest nume, dându-1 vouă, vouă cari nu sunteţi
+               decât o turma ticăloasă de fugari fricoşi. Vânzarea şi nemernic a voastră mă silesc
+               să vă părăsesc. Nu vă mai cunosc. Dar mi-e ruşine că v’am fost căpitan. Aţi trădat pe
+               Dumnezeu, patria şi nVaţi trădat şi pe mine în clipa când nădăjduiam să biruesc sau
+               să mor cu voi. Treceţi la Turci, dezertorilor, toţi sunteţi de teapa lor; duceţi-vă,
+               sărutaţi-le mâinile, care sunt încă roşii de sângele sfânt al patriarhului şi al
+               episcopilor săi, duceţi-vă robia pe preţul vieţii voastre şi al cinstei nevestelor şi
+               copiilor voştri. Voi, însă o suflete a batalionului sacru, voi adevăraţi fii ai
+               Eladei, şi cari prin vânzare aţi căzut jertfă pentru libertatea patriei, primiţi prin
+               mine mulţumirea simpatrioţilor voştri. A-mintirea voastră va fi singura mângâiere a
+               sufletului meu”.</p>
+
+            <p>Şi jalnica înjghebare se sfârşea cu o listă a celor fiţeri, al căror nume, după
+               voinţa Arhiului, trebuia nai ales înfierat şi dispreţuit de posteritate. </p>
+            <p>Pe mândra vale a lalomiţei, cea mai mândra din arpaţi, în lumina asfinţitului,
+               treceai un cioban: lângă el mergea câinele lui lăţos, cu ochii cuminţi, iar in urina
+               lui venea turma de oi, în mijlocul căreia umbla măgăruşul încărcat. Râul cânta
+               printre păşu-nele de un verde strălucitor, înconjurate cu păduri de brazi întunecate,
+               din care se iveau ici şi colo stei de piatra albă. Spre miazănoapte, de unde venea
+               Ialomiţa, se ridica o căldare stâncoasă, de pe sâmeeaua care ia cădeau uriaşe pânze
+               de zăpadă. Aerul era tran-dafiriu şi cununa vârfurilor lucea, aproape străvezie,
+               numai aur şi p-orfiră.</p>
+            <p>Ciobanul şi turma înaintau în tihnă, până ce câinele începu să latre.</p>
+            <p>Nu departe de ei un om şedea pe o piatră. Ciobani il privi cu luare aminte, şi
+               deodată alergă către cel pe care-1 recunoscuse drept pandur.</p>
+            <p>Istovit, incovoiat de osteneală, omul se uită la el cu ochi mari şi întunecaţi. Nu
+               s'ar fi putut zice de era tânăr sau bătrân, aşa de supt era la faţă, aşa de amărâte
+               ii erau buzele, aşa de ameninţătoare sprâncenele îmbinate.</p>
+            <p>Ciobanul însă strigă: „Tu eşti, Ene, tu eşti!”</p>
+            <p>Pandurul încercă să vorbească, dar buzele îi erau uscate.</p>
+            <p>Celălalt ii dădu să bea o înghiţitură de ţuică din plosca lui de lemn şi peste câteva
+               clipe Ene Enescu -opti: „Dimitrie Jianu, tu eşti?”</p>
+            <p>Straşnica greutate a vremurilor îşi pusese pecetea i pe fruntea lui Dimitrie Jianu,
+               şi ochii săi verzui nu mai aveau privirea tinereţii.</p>
+            <p>„Eu sunt”, zise el întunecat, „ascuns sub straele acestea, după sfatul ce mi-1 dădu
+               Iancu Jianu, la trecerea sa prin Bucureşti, când îl sloboziră Turcii. El uni spuse:
+               „Când piere norocul Românului, îi rămâne codrul. Du-te în munţi, pe Bucegi. La
+               obârşia lalomiţei, e o mănăstire întEo peşteră. Să stai acoRpana ce o trece urgia
+               turcească. Tudor s’a prăpădit. Și căpitanii săi vor fi goniţi ca câinii turbaţi”, el
+               s’a dus greu bolnav, la Caracal acasă. Dar tu”, adâogă Dumitru cu o râvna dureroasa,
+               „tu de unde vii cu toate armele tale?”</p>
+            <p>„De dincolo”, zise Ene Enescu.</p>
+            <p>,.Ce făcuşi acolo?”</p>
+            <p>„M’am bătut”.</p>
+            <p>„Te-ai bătut?” strigă Dumitru. „Cine se bate a colo? Cine vă ducea şi împotriva
+               cui?”</p>
+            <p>Încet cu glasul stins, Ene răspunse întrebărilor fui tunoase După bătălia delà
+               Drăgăşani m'am dus c i un căpitan al lui lordaclie si cu patru sute de arnăuţ . prin
+               Câmpulung, peste munţi, în valea Muerii. Acob e loc bun de aşteptat duşmanul. Veniră,
+               Turcii, c : Sava, trădătorul. Şase ceasuri ne luptarăm, si apo furăm siliţi să ne
+               retragem peste graniţă, Ia Bran. Sava ne urmări până la vama şi ceru predarea
+               noastră. Atunci noi ne luarăm armele înapoi delà Nemţi şi trecurăm iarăşi în valea
+               Muerii şi ne mai băturăm timp de trei ceasuri. Am ucis mulţime de Turci. Da erau de
+               trei ori mai mulţi ca noi. La urmă puţini din noi mai râmaseră. Pe căpitanul nostru
+               Tau prins”, si Ene tăcu, răsuflând din greu.</p>
+            <p>„Şi tu?” îl întrebă Dumitru.</p>
+            <p>Întâi un rânjet strâmbă faţa tragică a tânărului pandur, apoi se porni pe un râs, cum
+               nu-1 auzise râzând nimeni vreodată.</p>
+            <p>Dumitru, speriat îi puse mâna pe umăr. „Ce ai. Ene?”</p>
+            <p>Enescu se lovi în cap cu pumnii amândoi: , Nu vezi tu că sunt un blestemat şi că nu
+               pot mor strigă el. i</p>
+            <p>Prietenul său stătea aiurit. Şi sufletul său era ca un pom bătut de grindină in toiul
+               înfloririi. Sufletul lui Enescu însă era ca un pom trăsnit pana 'n măduvă.</p>
+            <p>Pe creste vraja luminii se stinse; ele se înălţau acum, albe catifelate, într'un cer
+               albastru, şi blana creață a pădurilor de brazi curgea neagră de pe toate linierile
+               pietroase, jur împrejurul văii, a cărei talpa lata mai lucea verde, ca smaraldul.</p>
+            <p>Câinele începu sa latre; un călugăr, care ţâra un eopac, se scobora de pe o
+               coastă.</p>
+            <p>„Mănăstirea trebue să fie aproape, n'am greşit drumul” strigă Dumitru Jianti şi
+               alerga înaintea paliului: „Plecăciune, părinte, să-ţi dau ajutor?”, ii zise el.</p>
+            <p>Bătrânul râse: „Iţi mulţumesc, fiule, nu duc eu povara, o duce Cel de sus”. Vorba lui
+               era voioasă.</p>
+            <p>„Ai venit cu oiţele? Nu v’aţi temut de zăpada de pe plai Daca ăla nu e cioban”,
+               adăoga el. „are arme”.</p>
+            <p>„Ai ochi buni, părinte”, zise Dumitru.</p>
+            <p>„Ai fi fost şi eu şoim odată”, glumi călugărul, şi nu mai puse altă întrebare. „Acuma
+               mă duc”, zise el, „căci se face târziu, şi mă ia la trei părintele stareţ”.</p>
+            <p>„Ţi-ai pierdut vremea cu mine şi trebue sa fii obosit”, zise Jianu.</p>
+            <p>Nu e nimic, fiule, sunt numai decât acasă şi trântesc apoi şi povara şi oboseala. Să
+               veniţi pe la noi. Doar sunteţi şi voi creştini. Nemeriţi uşor.</p>
+            <p>Dealungul apei, până la o stâncă, unde vi se pare ca e sfârşitul lumii. Şi tocmai
+               atunci au sosit. O potecuţa urcă printre pietre, împrejurul colţului stâncii. La
+               spatele ei e peştera cu schitul. Tot astfel şi eu viaţa omului: când crezi că ţi s’au
+               înfundat drumuri le, iată că ţi se deschide o cale bună, de Dumnezeu croită”.</p>
+            <p>Şi moşneagul plecă. Cum trecea încet pe poiene, tArind după el bradul cu crăci
+               uscate, părea vre-o lighioană din basme, cu o coadă lungă şi cu ţepi.</p>
+            <p>Dumitru se întoarse la Ene. „Mâine dimineaţă mă duc la schit. Se vede că schimnicii
+               sunt oameni buni, daca seamănă ceilalţi cu acesta. Şi acuma, hai sa ne alegem un loc
+               de odihnă”.</p>
+            <p>„Eu merg mai departe”, mormăi Ene.</p>
+            <p>„Dude?” întrebă mirat Dumitru.</p>
+            <p>Ma cobor la câmp.</p>
+            <p>Dar nu te mai ţin picioarele .</p>
+            <p>Celalalt nu răspunse.</p>
+            <p>-Şi ce sa faci la câmp?” urma Dumitru.</p>
+            <p>„Să mă bat”.</p>
+            <p>„Nu-ţi mai spusei odinioară, ca mi mai cap tic luptă dreaptă? Ce se petrece acuma e
+               numai omor și jaf. Nu viu eu de acolo? Trei zile dearândul a putea să-ţi spun
+               păţaniile mele. până sosii aci .</p>
+            <p>„Ei şi?”</p>
+            <p>.Eşti zmintit!” strigă Dumitru.</p>
+            <p>Enescu se sculă ca dintr’o bucată.</p>
+            <p>Dar Jianu îl ruga repede: „Iariă-mâ”, căci acuma înţelesese, că sufletul prietenului
+               său era atât de rănit, încât cea mai mică atingere îl durea. „iarta-mă si stai cu
+               mine. Vezi bine, a vrut pronia cereasca sa ne întâlnim aci, în creeri munţilor, la
+               capul cel mai depărtat al ţării, tu venind din Ardeal si ca din Bucureşti”.</p>
+            <p>„Nu cred în pronia cerească, nu cred în nimic , scrâşni Ene.</p>
+            <p>„Crede, cel puţin că te iubesc şi că-mi fam rău daca mă părăseşti”, îl rugă Jianu. </p>
+            <p>Enescu se opri şi zise întEun geamăt: „Cum ma chinuiţi cu iubirea voastră”. /</p>
+            <p>Insă ascultă de rugăciunea prietenului.</p>
+            <p>Focul pandurilor ardea pe o pajişte, lângă un pârâu ce curgea către Ialomiţa, intre
+               păduri de bra/i şi cetăţi de stânci înalte. Noaptea era răcoroasă m mibălsămatâ dc
+               minunatele miresme ce ies din tot creşte şi înfloreşte pe munte, la începutul veni.
+               Miroseau mugurii tineri de brad, iarba şi ferigele cu aroma lor subțire. Fiecare
+               răsuflare era făcătoare de bine, un somn scurt in aerul acesta era cea mai puternica
+               întărire pentru trup şi minte.</p>
+            <p>Dar când, după miezul nopţii, Dumitru se trezi, ca sa vaza de foc, el zări cu
+               îngrijire pe Ene Enescu stând a pc o buturugă şi privind în jăratec.</p>
+            <p>N'ai dormit? il întrebă.</p>
+            <p>Ene dădu din cap.</p>
+            <p>Te-ai bătut și eri și alatăieri, ai făcut tot ur-cuşul munţilor si acum nu dormi? Cum
+               aşa? Oare im poţi dormi? t</p>
+            <p>„Nu vroi”, mormăi Enescu.</p>
+            <p>„Nu vroi?” zise încet Dumitru, si măsurând toata baccimea durerii în ochii negri ai
+               prietenului, el adaogă: ,.Dar ar trebui să încerci să uiţi, măcar penam câteva
+               ceasuri”.</p>
+            <p>„Şi când mă deştept, ma apucă tot ce fu. parca s’ai fi întâmplat în clipa aceea”,
+               răspunse Enescu, ..încercai şi crezui că înebunesc”.</p>
+            <p>Dumitru oftă. Îşi aducea aminte de zilele, când il lasase ameţeala frigurilor şi când
+               simţise din nou toata jalea dragostei sale abia înflorite şi aşa de timpuriu
+               nimicită. Cunoştea groaznicele amintiri, care-1 chinuiau pe Ene Enescu, jâpindu-i
+               toată liniştea sufletească, şi aflase dela preotul dela Goleşti cele petrecuţi sub
+               sălcii şi in foişor. In zori de zi el pusese pc mormântul lui Urdăreanu, o cruce de
+               lemn, pe rare o săpase noaptea lângă foc, cu multe gânduri erele si cernite.</p>
+            <p>O spuse lui Enescu.</p>
+            <p>Acesta înnsă râse batjocoritor: „O cruce. Şi crezi ca acuma s’a dres totul”.</p>
+            <p>Dumitru, feciorul Catincăi Jianu, căreia in Craiova i sc zicea „Bună”, nu răspunse;
+               se tot gândea, cum -a găsească o alintare pentru desnădejdea prietenului. 'i acesta
+               era si leacul cel mai bun chiar pentru inima lui, căci pentru rănile sufleteşti nu e
+               decât o tămăduire: grija pentru alţii. Dumitru îşi dădu seama, ca nici ca unui om
+               istovit. Ura şi boala frământau firea nu trebuia sa vorbească lui Ene nici ca unui
+               bolnav, puternică a tânărului pandur. Mai bine era să-1 laşi in voia lui„ până ce i
+               se stingea patima în suflet, sau până ce boala îl culcă la pământ.</p>
+            <p>In zilele ce urmară iei făcură un bordei pentru merinde şi o strungă pentru oi. Ene
+               muncea si tăcea. Abia mânca, nu dormea, şi grija lui Dumitru creştea din ceas în
+               ceas. Dar se bucura, că nu-1 părăsise pr c tenul şi câ nu .se împotrivi, când îi
+               zise: .,Hai la mănăstire, să ducem ceva urdă călugărilor”.</p>
+            <p>Aflară poteca întocmai cum le, spusese bătrânul.</p>
+            <p>La poalele unui zid de piatră făcea o cotitura şi ducea printre flori şi ierburi
+               mătăsoase la schit. Aşezat chiar sub bolta peşterii, acesta umplea toată gura ei.
+               Trecând pragul uşii scunde, zăriră bisericuţa alba ca zăpada pe fundul negru al
+               peşterii şi intrară in curte, unde pătrundea înăbuşit mugetul apelor la lomiţei. In
+               colţul stâng, un călugăr cu plete cărunte lucra la un butoi. Adâncit în muncă,
+               singurătate si tihnă sufletească, nu ridică ochii către dânşii.</p>
+            <p>Dintr’una din chiliuţe ieşi bătrânul voios, primi ploconul ai mulţumire şi rugă pe
+               tineri să rămân până la vecernie.</p>
+            <p>Din spre intrarea bisericii, îndreptată către fundul peşterii, se auzi toaca. Din
+               clopotniţă, deasupra porţii răsună glasul limpede al clopoţelului, şi alţi doi
+               călugări ieşiră din chiliile lor. Dogarul îşi puse uneltele la o parte, scoase rasa
+               din brâu, şi cu toţii intrară în biserică.</p>
+            <p>Dumitru şi Ene i urmară. Pe acesta il potolise minunata linişte a locului. Nimic din
+               rătăcirile de la câmp nu pătrunseră pân’aci. In tainicul colţ de stanca, sfântul
+               locaş stătea întărit de munţi încununaţi ci zăpadă si cu smirdar, şi ceeace omul
+               numeşte timp, părea ca a se fi oprit aci.</p>
+            <p>Dumitru, și mai ales Enescu fura siliţi sa se aplece malt, ci si intre iu biserică.
+               Aceasta era aşa de ne-mestesuL'ita, a.a de potrivită singurului ei scop de a li a da
+               post de rugă pentru pocăinţa sufletelor incarne de păcate, zidirea toată se întocmea
+               atât de bine eu împrejurimile deosebite în care se afla. în cât era frumoasa ea o
+               mare operă de artă.</p>
+            <p>Împrejurul păreţilor văruiţi stăteau stranele făcute n fratele dogar. In fund sclipea
+               iconostasul cu feţe multe si eu aur. Zuruind se cobori candela, delà care im călugăr
+               luă lumină pentru sfeşnicele împărăteşti, iu bisericuţa mohorîtă, care mirosea a
+               ceară, a tămâie i a mucegai, călugării se mişcau încet, fără sgomot.</p>
+            <p>Si melopcea rugăciunilor începu, împăciuitoare şi ieganătoare: se ridică când un
+               glas, când altul unul mai gmv, altul mai lămurit, toate cu cuviosă impersonalitate,
+               până ce veni rândul fratelui dogar. El trebuia sa zică „Tatăl nostru”. Şi aceasta fu
+               o mişcătoare cuvântare către Domnul. Fiecare rugă izvorea din adâncimea unei credinţi
+               smerite, din bogăţia unei lunci si grele cunoştiinţi a vieţii. Mai zguduitoare ca
+               frica răsunară vorbele: — „şi ne iartă nouă greşelile noastre, precum şi noi iertăm
+               greşiţilor noştri”, apoi pline de dor adânc, fură rostite cele următoare: ..m nu ne
+               duce pe noi în ispită, ci ne izbăveşte de cel viclean”, iar stareţul încheia delà
+               altar cu liniştita iarie : .d atei a Ta este puterea şi mărirea şi viata veacurilor,
+               amin”.</p>
+            <p>Dumitru Jianu simţi deodată că Enescu se razimă ren de dânsul şi-l scoase din
+               biserică. Ene căzu pe apta de zid, care ocolea mica clădire. Cum stinge aga focul,
+               aşa liniştea neprihănită a mănăstirii stinsese tot amarul in sufletul tânărului
+               pandur, şi a-atunci il lăsară şi puterile.</p>
+            <p>Părintele Varsanufie, moşneagul vesel, îngriji de Ine II culcă în una din odăiţele,
+               unde se adăposteau drumeţii.</p>
+            <p>A doua zi de dimineaţa, când Dumitru veni la mănastire împins de grija ce o ducea
+               prietenului, călugărul zisc: „M’am rugat astă noapte lui Dumnezeu să-l scape pe
+               tânăr, nu numai de dogoeeaîa timpului, dai şi de dogoreala sufletului. Din aiurările
+               lui am înţeles, ca inima-i se zbate ca păstrăvul pe jarateuc şi punând mâna pe braţul
+               ciobanului, el urma : Ce s’a întâmplat în ţara, fătul meu? Bolnavul vorbește de
+               bătălii, de slugerul Tudor, căruia ii zice Domn, și de spânzurătoare. L’am cunoscut
+               si eu pa sluger, cari arn fost şi eu pandur. M’am călugărit acuma imsprc zece ani,
+               când, intorcându-mă de la rezbel impotriva Turcilor, mi-am găsit casa arsă, şi copii
+               ş: ne\asta ucişi. Celui de sus nu te poţi împotrivi”.</p>
+            <p>Si Dumitru Jianu ii povesti ce se întâmplas m ţara. Jalea cuprinse sufletele
+               călugărilor. Zi si noapte citiră rugăciuni pentru neamul românesc. Iar celor doi
+               panduri, pe cari vijelia răscoaldi i cuprinsese pâ ia m munţi. Le arătară prietenie
+               şi milostivire.</p>
+            <p>Părintele Varsanufie, nu ştia multe, dar bunataiea şi credinţa îi erau atât de mari,
+               încât, după opt /i!e, putu sa zică lui Dumitru: „Azi nu te las sa-l vezi,
+               doarme”.</p>
+            <p>Jianu simţi sub gene lacrămi de bucurie.</p>
+            <p>Lnc câştigă puteri văzând cu ochii; sufletul sau insa zăcea încă subt un zăbranic de
+               adâncă intlistare, mai ales în zilele de ploaie şi de furtuna, rând nu putea să se
+               culce înaintea casei, la -oare.</p>
+            <p>Intr’o zi cu tunete şi trăznete Dumitru Jianu a-lăuzi până la mănăstire trei orăşeni
+               fugari. Ploaia u udase până la piele, picioarele lor erau numai răni, ş: erau aiuriţi
+               de grozăviile munţilor.</p>
+            <p>Fratele dogar aprinse focul în soba din ociaiţa de lângă Ene, aduse fân şi câteva
+               plocate şi încerca sad îmbărbăteze şi sâd mângâie duhovniceşte. Dar unul din
+               bejenari, pântecos, roş la faţa şi cu mustăţi groase ii taie cuvântul şi îşi uşura
+               inima cu o dram de blesteme. Blestema munţii, şi apoi groaznica ur sila, care-1
+               adusese aci, pe el pe bogatul negustor bucureștean, care in viața lui nu ieşise pe
+               jos din casă, până acum, când era sa fie măcelărit de turci.</p>
+            <p>În aceeaș clipa intra părintele Varsanufie, speriat de larma făcută aşa aproape de
+               bolnavul său si vrând s'o potolească. </p>
+            <p>Negustorul insa îi lua mişcarea drept o alta incer-care de mângâiere, şi striga şi
+               mai înfuriat: Daţi-mi ace eu patalamalele! Vâzut-aţi ce am văzut eu? Mor-hu.mil de
+               capete în curtea paş.alei delà Bucureşti? Şi fiecare cap se plătea o mahmudie. Era
+               vorba sa fie mc de arnăuţi, sa fie măcelărită ceata lui Sava, după nemernicul fu
+               împuşcat în casa paşalei. Dar ui n ., mai găsit arnăuţi, Turcul a luat capete de pa
+               numi. Iată ce se petrece in ţară. Acolo degeaba zăngănesc clopotele bisericilor.
+               Acolo nu mai e Duni-! e/i u. Ac lo e iad, iad. Şi pe toate”, strigă el şi mai tare di
+               ce Rău era înainte, dar e mai bine acuma? ! aracii traiau in sărăcie, dar cel puţin
+               plăteau birul; oamul ca omorît. i-a spânzurat, şi birul nu-1 mai , ia ti a nimenea.
+               Şi banii unde sunt? Cui a folosit. Dcc mimai lui, tâlharului. S’a răsculat ca să fure
+               mai; ca toti Grecii si ca toti voevozii, hoţul, nemernicul!</p>
+            <p>Atunci uşa se deschise sub pumnul încleştat al caua, la al cărui vedere negustorul
+               tăcu înlemnit. Knescu, cu ochii inflăcâraţi, îmbrăcat în rasa calcg.n casca, stătea
+               înaintea lui.</p>
+            <p>„Minţi !” strigă pandurul. „Nu e adevărat ce zici a Domnul ludor. Ne spânzura şi ne
+               împuşca, dar nu-si insusi lăscaie din banul ţarii. Dar tu, de unde n 1 pricepi; l-ai
+               luat drept unul ca tine. Taci deci si nu chelalăi, javră!”</p>
+            <p>Trecute erau nepăsarea şi desnădejdea Iui Ene , credința redobândita ardea iaras
+               pară. învinuirea ne-dreapta adusa omului, pe care era rau supărat, ii aratase din nou
+               lot preţul acestui oni dar si curat la suflet.</p>
+            <p>Fugarii, a doua zi plecară. Părintele Varsanmh se duse până la Strunga, unde se
+               deschid pereţii de stânca intre munţii Bătrâna şi Tătarii, şi pe muie trecea graniţa,
+               li privi câtva timp, cum se scohorau cu greu, sub zidul de piatră uriaş al Bătrânei,
+               a cum treceau poenele verde deschis şi printre jnepeiii negri. Dela Strunga până în
+               depărtări albastre, pop privi munţii, cari se ţin lanţ intre Ardeal si România.
+               Soarele apune, scăldând într’o bruma purpurie creasta lunga a Pietrei lui Crai,
+               aşezată de-a eunuc zisul priveliştei. i</p>
+            <p>Bătrânul prea adâncit în gânduri. Pe deasupra munţilor era lumină şi pace
+               dumnezeiască. Iu văile înecate in umbra serii, era jale omenească, în văile înecate
+               in umbra serii uni popor mic ducea cea mai uriaşa luptă din lume, nu pentru aur sau
+               pentru putere, nu pentru un petec de pământ, ci pentru un bine mai sfânt, atât de
+               sfânt încât omul nu-1 va dobândi niciodată pe deplin poate, decât dincolo de viaţa sa
+               pământească, dar pentru care e cea mai sfânta datorie a lui să lupte: pentru dneptate
+               se ridicase cel mai mândru fiu al ţării, Olteanul Tudor, Vladimi-rescu, pentru
+               dreptate îşi dusese neamul la lupta.</p>
+            <p>Când călugărul, se întoarse să plece, luna, care răsărea roşie aprinsă, il privi
+               deasupra munţilor învineţiţi, dincolo de Ialomiţa. Iar când părintele ajunse în vale,
+               la malul apei, luna lucea alba si umbra brazilor cădea neagră pe poenele
+               argintii.</p>
+            <p>Călugărul zări în curând focul lui Dumitru Jiana se îndreptă către el şi găsi pe
+               Enescu lângă prietenul sau. Acesta îi zise surâzând: „Mi-e mai bine, părinte, si
+               Dumitru a fost destul singur”.</p>
+            <p>Moşneagul se aşeza lângă ei. Câteşitrei tăceau prieteneşte şi din când în când aţâţau
+               focul. O mare linişte, liniştea ceasului, în care se aprind stelele, îi învăluia.
+               liniştea tainică, în care îi este îngăduit omului să arunce o privire în nesfârșit,
+               dincolo de lumea, sa presimțind cât de uriașă și de nepătrunsă este puterea
+               carmuitoare a lumilor, ale cărei legi sunt scrise îm slove de lumina pe cerul nopţii.
+               Fireşte în sufletul celor trei bărbaţi, liniştea era alia pentru fiecare. Vrajbele
+               nu-1 mai rătăceau pe bătrân din credinţa sa ea ti 1 Domnul. Şi tinerii luptaseră şi
+               suferiseră atât de mult, încât tinereţe le lor îşi cereau din nou dreptul ba la
+               nădejde. Vorba ceea: că Românul are şaple şidleiu. Arc şapte suflete şi doi prieteni
+               buni, codrul -i munţii.</p>
+            <p>După un timp, părintele Varsanufic zise: „Iacă, am gândit aşa: Slugerul Tudor a păţit
+               ca Moise. ; ra şi el omul lui Dumnezeu, dar era om, şi pentru că a greşit odată.
+               Domnul îl pedepsi, şi nu-1 lasă a pună piciorul pe pământul făgăduinţei, către care
+               ducea poporul. Voi însă, fii mei, de acuma cu-noașteți drumul”.</p>
+            <p>Şi cuvintele sale căzură ca sămânţa bună pe pă-mant prielnic.</p>
+
+            <gap unit="page" extent="1"/>
+         </div>
+      </body>
+      <back>
+         <div type="liminal">
+            <p>ACEST VOLUM S'A TIPĂRIT IN ATELIERELE .CARTEA ROMÂNEASCĂ . A. R. —Cartea
+               Românească</p>
+            <p>prezintă ultimele noutăţi literare ale</p>
+            <p>editurii:</p>
+            <p>O</p>
+            <p>Ionel Teodoreanu LA PORŢILE NOPŢII</p>
+            <p>o</p>
+            <p>C. Manolache POEZIA TRUPULUI o</p>
+            <p>Octav Dessila PORŢI FĂRĂ NUMĂR</p>
+            <p>o</p>
+            <p>Ştefana Velisar Teodoreanu</p>
+            <p>ACASĂ</p>
+            <p>o</p>
+            <p>R. H. Zambaccian MONOGRAFIA PICTORULUI „GH. PETRAŞCU” MONOGRAFIA PICTORULUI „N.
+               GR1GORESCU” o</p>
+            <p>Al. Nora</p>
+            <p>UN OM UITAT: OTIN MILLE</p>
+            <p>Catalogul cărjilor se trimete gratuit la cerere de către editurr—Calea Moşilor 64 —
+               Bucureşti</p>
+            <p>59806-946</p>
+            <p>PREŢUL LEI 300.</p>
+            <p>1</p>
+            <p> EDITURA „CARTEA ROMANEASCĂ”, BUCUREŞTI</p>
+         </div>
+      </back>
+   </text>
+</TEI>
