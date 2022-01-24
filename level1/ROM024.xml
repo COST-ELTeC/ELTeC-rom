@@ -19,7 +19,7 @@
             <measure unit="pages">381</measure>
          </extent>
          <publicationStmt>
-<!--publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher-->
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
 <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
 <availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
 <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
