@@ -11,7 +11,7 @@
       <fileDesc>
          <titleStmt>
             <title>Manoil: ediție ELTeC</title>
-            <author>Bolintineanu, Dimitrie (1819-1872)</author>
+            <author>Bolintineanu, Dimitrie (1819-l872)</author>
             <respStmt>
                <resp>codare ELTeC</resp>
                <name>Roxana Patras</name>
@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2021-04-09"/>
+            <date when="2022-03-02"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -59,6 +59,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [’'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checkUp script for new release</change>
          <change when="2020-11-14">Converted by checkUp script for new release</change>
@@ -82,7 +83,7 @@
             <p>Editura Minerva</p>
             <p>București—1984</p>
          </div>
-         <gap unit="pages" extent="5"/>
+         <gap n="[missing]" unit="page" quantity="5"/>
          <div type="titlepage">
             <p>MANOIL</p>
             <p>1855</p>
@@ -97,7 +98,7 @@
                <p>Dar societatea de femei frumoase şi spirituale, întru care mă aflu, adaog fermecul acestui loc încîntător! Ce femei! ce viaţă dulce!... Ah! bunurile vieţei nu cunoscusem pînă aice şi ades ziceam în mine: „Am trăit şi traiul este amar!...„Ce vrei, dragul meu? eu nu cunoşteam ce fericire gustă acela care are o familie: pîn-a nu mă naşte, moartea a secerat pe tatăl meu; pîn-a nu cunoaşte lumea, maică-mea s-a dus după tatăl meu; am trăit şi am crescut, pînă la vîrsta aceasta, străin ca un copil picat din lună.</p>
                <p>Astăzi, am găsit viaţa intimă, familia... căci trebuie să ştii, aici sînt în familia mea. Dl. N. Colescu mă iubeşte ca pe copilml său; femeile mă răsfaţă... Smărăndiţa, soţia d-lui N. Colescu, mă cheamă <hi>poetul ei favorit</hi> de multe ori <hi>copilul său</hi>... Are douăzeci şi cinci de ani, şi este un tip de frumuseţă; fără exagerare, o frumuseţă rară, dar seamănă cu o floare ce în dimineaţa vieţei sale se înclină melancolică!... un suflet plin de blîndeţă; o inteligenţă superioară; multe cunoştinţe, mai ales pentru o damă din timpul şi din ţara noastră!... Nu sînt mare cunoscător în femei, dar Smărăndiţa mi se pare femeia ce am visat.</p>
                <p>D-nul N. Colescu este boier mare. Nu are nici spirit, nici învăţătură; asemine el n-are voinţă, şi mai ales pe lingă soţia; dar are bună judecată şi inima îngerească.</p>
-               <p>Zoe este nepoată Smărăndiţei: o copilă de cincisprezece anişori; chipul mătuşe-sei, dar strălucitor de frăgezime. Ai asemăna-o cu un bobocel de roză pe care fluturii încă nu-1 bagă în seamă; plină de spirit şi de inimă...</p>
+               <p>Zoe este nepoată Smărăndiţei: o copilă de cincisprezece anişori; chipul mătuşe-sei, dar strălucitor de frăgezime. Ai asemăna-o cu un bobocel de roză pe care fluturii încă nu-l bagă în seamă; plină de spirit şi de inimă...</p>
                <p>Mărioara este o amică a Smărăndiţei: o fată de boier mare, de 18—20 de ani; nu este prea frumoasă, dar drăgălaşă ca luna lui mai!... vorbele ei răsună ca o muzică sublimă; ideile cele mai comune în gura ei se îndum-nezeiesc!</p>
                <p>Duduca este cu totul altceva: o fată de cincizeci de ani, rămasă nemăritată; un lucru ridicol, atît pentru spiritul, cît şi pentru fizicul ei. Cu toate aceste, are inimă. Natura face uneori cîte o compensaţie: acolo unde nu este spirit, este inimă; acolo unde nu e frumuseţă, este spirit.</p>
                <p>Această duducă — după cum îmi spune dl. N. Colescu — de la vîrsta de 16 ani pînă astăzi, visează un bărbat!... dar ceva perfect, ideal, ca Făt-Frumos cel din basme. In tinereţile sale, mai mulţi, atraşi de fermecu! averei ei, îi ceruseră mina; ea nu voi pe nici unul, fiindcă nici unul nu se asemăna cu idealul viselor sale. Mai tîrziu nime nu se arătă! Atunci, Duduca plecă în străinătate să găsească vreun conte seau baron scăpătat, să împarţă cu dînsul averile şi inima sa; dar peste doi ani, se reîntoarse iarăşi singură. In timpul ocupaţiei Principatelor, inima ei bătu, doar o va cere vreun ofiţer; însă nici macar un doboşăr nu o ceru!... cu toate aceste, ea tot aşteaptă un soţ. O femeie ce nu află pe nimene în lume care să vrea să se lege de ursita ei trebuie să sufere; această suferinţă o face rea; dar Duduca, din contra, pare fireşte voioasă... poate că speranţa, ce nu a lă-sat-o încă, face acest efect asupra caracterului său.</p>
@@ -354,13 +355,13 @@
                <p>— Colo, în sat?</p>
                <p>— Ah, zise copila, pînă ieri, dar astăzi...</p>
                <p>— Astăzi, ce?</p>
-               <p>— L-au închis la subcîrmuire, ca să dea arendaşului patru sute de lei ce i-ar fi dator., după ce i-a vîndut tot pînă şi ferul plugului!... Ei, boierule, nu este dreptate pe pămînt!... am fost şi m-am rugat de subcîrmuitor să-i dea drumul ca să poată munci şi plăti cu încetul; subcîrmuitorul se vede om bun, dar mi-a zis că sînt alţii care nici pe el nu-1 lasă să mă asculte... Mi-a zis să mă rog de proprietarul moşiei... M-am rugat... dar îmi crapă faţa de ruşine, cînd mă gîndesc ce mi-a zis!... Of, of! nelegiuiţi sînt unii oameni!</p>
+               <p>— L-au închis la subcîrmuire, ca să dea arendaşului patru sute de lei ce i-ar fi dator., după ce i-a vîndut tot pînă şi ferul plugului!... Ei, boierule, nu este dreptate pe pămînt!... am fost şi m-am rugat de subcîrmuitor să-i dea drumul ca să poată munci şi plăti cu încetul; subcîrmuitorul se vede om bun, dar mi-a zis că sînt alţii care nici pe el nu-l lasă să mă asculte... Mi-a zis să mă rog de proprietarul moşiei... M-am rugat... dar îmi crapă faţa de ruşine, cînd mă gîndesc ce mi-a zis!... Of, of! nelegiuiţi sînt unii oameni!</p>
                <p>La aceste vorbe, vrui să-i dau banii ce-i trebuia; dar nu aveam asupră-mi.</p>
                <p>— Unde şezi? o întrebai.</p>
                <p>— Cea dintîi casă din sat, la stînga.</p>
                <p>— Fii mîine acasă. Pe la ameazăzi îţi voi aduce banii.</p>
                <p>— Vrei să rîzi? îmi zise ea.</p>
-               <p>— Nicidecum, drăguţă. Un creştin bun trebuie să facă^bine. Deşi nu sînt prea bogat, dar acest bine ţi-1 pot face fără să mă struncin şi fără să-ţi cer nici o slujbă. Fii sigură, mîine viu.</p>
+               <p>— Nicidecum, drăguţă. Un creştin bun trebuie să facă^bine. Deşi nu sînt prea bogat, dar acest bine ţi-l pot face fără să mă struncin şi fără să-ţi cer nici o slujbă. Fii sigură, mîine viu.</p>
                <p>— O, Dumnezeule! strigă ea, încrucişîndu-şi mîinele şi uitîndu-se la cer. Aşadar tot sînt oamni buni pre pămînt!... Eu, domnule, vezi d-ta, sînt o fată proastă; nu ştiu să vorbesc, nu ştiu să-ţi mulţămesc... Ea nu putu să urmeză: lacrimile o înecaseră.</p>
                <p>Noi ne despărţirăm.</p>
                <p>O, Dumnezeule! pentru ce oamenii sînt aşa de răi</p>
@@ -380,7 +381,7 @@
                <p>— Ruşine şi păcat!</p>
                <p>— <hi>
                      <foreign>Sang-dieu</foreign>
-                  </hi>! Ascultă, părinte Dorotei! cei ce au făcut legile erau mai învăţaţi decît tine. Găseşte-mi un singur paragraf într-o condică, unde legiuitorul pedepseşte fapta, cu bună învoială făcută între doi, şi care nu supără pe a doua persoană. Nu e vorba de nevrîsnicie, de silă, de înşelăciune, ci de bună învoială. Vezi dar că eu nu ies din spiritul legiuitorului; cît pentru conştiinţă, asta e o marfă de care uşor mă pot desface. Eu nu mai sînt Alexandru acela pe care-1 cunoşteai tu; cu toată ideea ce-i fi avînd despre uşurinţa caracterului meu, am suferit multe de la oameni. Cînd întrai în lume, credeam că am a face cu îngerii; mai tîrziu văzui că mă înşelasem; lumea mi se arătă ceea ce era: o societate de nerozi şi de tîlhari. Unii mă înşelară, alţii mă despreţuiră!... atunci a trebuit să iau o rolă, şi iată ce zisei: „Oamenii sînt răi; dacă m-oi asemăna lor, voi merge înainte, şi ei îmi vor întinde mîna; de nu, mă vor zdrobi. între aceste două alternative trebuie să aleg.” Mă făcui ca ceialalţi. Atunci veni rîndul meu. Oamenii mă înşelară, îi înşelăi şi eu; mă despreţuiră, îi despreţuii şi eu. Ce necuviinţă vezi întru aceasta? mi-am răzbunat î răzbunarea este singura dreptate pe pămînt. Am fost drept. Oamenii niciodată n-or fi mai buni!... cel ce are puterea în mână şi-ţi vorbeşte de fericirea altora te înşală; demagogul care strigă pe strade te înşală; femeia ce-ţi zice că te iubeşte te înşaiă; cel ce-ţi strînge mina te înşală; cel ce vorbeşte ca tine din vise şi din morale te înşală. Ce mai aştepţi dar?</p>
+                  </hi>! Ascultă, părinte Dorotei! cei ce au făcut legile erau mai învăţaţi decît tine. Găseşte-mi un singur paragraf într-o condică, unde legiuitorul pedepseşte fapta, cu bună învoială făcută între doi, şi care nu supără pe a doua persoană. Nu e vorba de nevrîsnicie, de silă, de înşelăciune, ci de bună învoială. Vezi dar că eu nu ies din spiritul legiuitorului; cît pentru conştiinţă, asta e o marfă de care uşor mă pot desface. Eu nu mai sînt Alexandru acela pe care-l cunoşteai tu; cu toată ideea ce-i fi avînd despre uşurinţa caracterului meu, am suferit multe de la oameni. Cînd întrai în lume, credeam că am a face cu îngerii; mai tîrziu văzui că mă înşelasem; lumea mi se arătă ceea ce era: o societate de nerozi şi de tîlhari. Unii mă înşelară, alţii mă despreţuiră!... atunci a trebuit să iau o rolă, şi iată ce zisei: „Oamenii sînt răi; dacă m-oi asemăna lor, voi merge înainte, şi ei îmi vor întinde mîna; de nu, mă vor zdrobi. între aceste două alternative trebuie să aleg.” Mă făcui ca ceialalţi. Atunci veni rîndul meu. Oamenii mă înşelară, îi înşelăi şi eu; mă despreţuiră, îi despreţuii şi eu. Ce necuviinţă vezi întru aceasta? mi-am răzbunat î răzbunarea este singura dreptate pe pămînt. Am fost drept. Oamenii niciodată n-or fi mai buni!... cel ce are puterea în mână şi-ţi vorbeşte de fericirea altora te înşală; demagogul care strigă pe strade te înşală; femeia ce-ţi zice că te iubeşte te înşaiă; cel ce-ţi strînge mina te înşală; cel ce vorbeşte ca tine din vise şi din morale te înşală. Ce mai aştepţi dar?</p>
                <p>— Alexandre! vorbeşti ca un om în ajunul de a se face tîlhar sau de a-şi curma viaţa singur, însă sînt încredinţat că ceea ce zici este o glumă. Intr-un caz sau în altul, nu pot să-ţi dau nici un răspuns...</p>
                <p>— Mergeţi la stupină? zise Smărăndiţa, ce intră în casă.</p>
             </quote>
@@ -977,7 +978,7 @@
                   </l>
                   <p>Toată adunarea rîsă.</p>
                   <p>— Ce face asta? răspunse d-na S... din contra, găsesc o originalitate rară: <hi>
-                        <foreign>c'est le sublime du laid...</foreign>
+                        <foreign>c-est le sublime du laid...</foreign>
                      </hi> şi chiar de se află vreun vers rău, nu face nimic, lîngă atîte altele sublime.</p>
                   <p>— Din nenorocire, lîngă atîte răle abia se află cîte unul bun. Eu credeam insă că coroana poeţilor noştri erau Cîrlova, Alexandrescu, Alecsandri, Sion, Negruzzi, Murăşanu, Donici...</p>
                   <p>— Uf! ce nume! ce grozăvii! cum v-aţi stricat gustul! acuma, înţăleg; pe Cîrlova să-l mai pui între poeţi, fiindcă e mort; pe Alexandrescu iarăşi, fiindcă-a făcut ceva şi fiindcă acum a încetat de a mai scrie... dar ceilalţi pe care mi-i numeşti, nu înţăleg cu ce obraz se mai pot acăţa pe Parnas.</p>
@@ -1130,7 +1131,7 @@
                      </hi>... <foreign>ecarte</foreign>! sfichiu, <foreign>panţarola</foreign>... <foreign>ghiordum</foreign>... stos... şi altele multe, de care, deşi învăţasem multe pe unde am umblat, dar, drept să-ţi spun, nu le ştiam pe toate.</p>
                   <p>Ce frumos! pe fiecare masă cîte două luminări; împregiur jucători şi spectatori, bărbaţi, copii şi femei... Ce? crezi că copiii şi femeile nu joacă? te înşăli, frate; acel ce nu joacă cărţile nu ştie rostul vieţei... Nu ştie a trăi...</p>
                   <p>Nu cunoşteam pe nime, şi credeam că voi face tristă figură în societatea asta. Dar nu apucai încă a colinda toate mesele şi deodată mă văzui împresurat de mai mulţi care mă îndemna la joc, ba sfichiu, ba <foreign>preferanţ</foreign>, ba una, ba alta.</p>
-                  <p>Mă determinăi a mă prinde la preferanţ, în care excelam mai bine decît în alte jocuri. Partizanii mei era o damă ca de 50 de ani şi doi băieţăi, unul mai tînăr şi altul mai bătrîn decît mine. Jucarăm două taloane; intrasem în al treilea. Eu aveam un curs de carte extraordinar şi cîştigam mai două mii de fise, care, socotite cîte 20 parale, cum jucam, îmi da o perspectivă de cîştig frumoasă. Cucoana nu prea avea chef, căci nu avea favoare: la un joc ce a făcut, am pus-o platcă... ce să vezi? Se face foc cucoana!... începe a striga, a mă insulta, a ţipa... încep a mă apăra... ea, atunce, se scoală, ia peria şi şterge tot de pe masă; şi se scoală, zicînd că ea nu plăteşte, că nu mai joacă, că nu e drept, că nu ştiu ce... Neavînd la cine apela, m-am sculat şi am voit să mă pun la stos. Bancherul nu mă priimi să pun mai jos de 10 galbeni pe carte, asta era condiţia lui. Voi să ies. Coborîndu-mă jos, văd toţi ciocoii, adică slugile, grămădiţi împregiurul unei luminări. Mă apropii: ce să văd? unul făcea stos şi toţi ceilalţi juca la stosul său, care nu era mai mult de vro 10 iermeliici. „Hai să joc aice, am zis, nime nu mă cunoaşte.” Joc... Sparg bancul... el atuncea scoate ceasornicul... i-l iau... pune <foreign>burnuzul</foreign> în preţ de 5 galbini... i-1 iau, şi mă duc...</p>
+                  <p>Mă determinăi a mă prinde la preferanţ, în care excelam mai bine decît în alte jocuri. Partizanii mei era o damă ca de 50 de ani şi doi băieţăi, unul mai tînăr şi altul mai bătrîn decît mine. Jucarăm două taloane; intrasem în al treilea. Eu aveam un curs de carte extraordinar şi cîştigam mai două mii de fise, care, socotite cîte 20 parale, cum jucam, îmi da o perspectivă de cîştig frumoasă. Cucoana nu prea avea chef, căci nu avea favoare: la un joc ce a făcut, am pus-o platcă... ce să vezi? Se face foc cucoana!... începe a striga, a mă insulta, a ţipa... încep a mă apăra... ea, atunce, se scoală, ia peria şi şterge tot de pe masă; şi se scoală, zicînd că ea nu plăteşte, că nu mai joacă, că nu e drept, că nu ştiu ce... Neavînd la cine apela, m-am sculat şi am voit să mă pun la stos. Bancherul nu mă priimi să pun mai jos de 10 galbeni pe carte, asta era condiţia lui. Voi să ies. Coborîndu-mă jos, văd toţi ciocoii, adică slugile, grămădiţi împregiurul unei luminări. Mă apropii: ce să văd? unul făcea stos şi toţi ceilalţi juca la stosul său, care nu era mai mult de vro 10 iermeliici. „Hai să joc aice, am zis, nime nu mă cunoaşte.” Joc... Sparg bancul... el atuncea scoate ceasornicul... i-l iau... pune <foreign>burnuzul</foreign> în preţ de 5 galbini... i-l iau, şi mă duc...</p>
                   <p>A doua zi, aflîndu-mă pe pod, îmbrăcat cu <foreign>burnuzul</foreign> cîştigat, mă văzui întîmpinat de un domn care s-a oprit cu trăsura în dreptul meu.</p>
                   <p>— Domnule, <foreign>burnuzul</foreign> este al meu.</p>
                   <p>— Eu l-am cîştigat în cărţi.</p>
@@ -1173,7 +1174,7 @@
                   <p>Cătră acestea, domnul N. Colescu se întoarse de la vînătoare. Zoe ieşi înainte să-i vestească ajungerea mea.</p>
                   <p>Acesta mă priimi cu o bucurie exaltată.</p>
                   <p>Nimic nu-i putea rechema mai mult pe Smărăndiţa decît eu, şi aceasta îl îmbăta de fericire. Cum mă văzu, mă luă în braţele sale, unde mă ţinu strîns mai la cinci minute fără să poată zice o vorbă.</p>
-                  <p>Moartea soţiei sale îl schimbase atît, încît abia putui a-1 recunoaşte; părul său albise ca ninsoarea, faţa i se îngălbinise, ochii îi erau stinşi; se gîrbovise şi pierduse bucuria şi vorba.</p>
+                  <p>Moartea soţiei sale îl schimbase atît, încît abia putui a-l recunoaşte; părul său albise ca ninsoarea, faţa i se îngălbinise, ochii îi erau stinşi; se gîrbovise şi pierduse bucuria şi vorba.</p>
                   <p>— Am auzit că ai cheltuit prin ţări streine tot ce-ţi rămăsese de la unchiul tău... moşia ţi s-a vîndut la licitaţie pentru datorii... ai răjnas sărac şi strein... trebui să te gîndeşti la viitor... averea pentru un om este libertatea... şi iată ce ai perdut... Dar să lăsăm acestea pentru altă dată... acum să mergem să cinăm. Zoe! ia braţul lui Manoil!</p>
                   <p>Vorbind astfel, ne duserăm în sala de mîncare, în sala aceea unde, sînt aproape doi ani, îmi aveam locul între Zoe şi Smărăndiţa. Zoe era încă acolo, mai formată, mai graţioasă; dar Smărăndiţa trecuse ca un vis frumos î Îmi aruncai ochii în dreapta mea, unde altădată eram obicinuit să o văd şi să-i vorbesc... lucru ciudat! scaunul ei era acolo, talerul, şervetul erau acolo, ca cînd o aştepta dintr-un minut într-altul să vie la masă!...</p>
                   <p>Domnul N. Colescu, după cum îmi spuse Zoe mai pe urmă, dase ordin ca nimini niciodată să nu ocupe acel loc şi în toate zilele să se puie talerul ei la masă, ca cînd ar fi fost încă în vieaţă! De multe ori el se întîmpla să rămîie singur la masă: atunci închipuindu-şi că Smărăndiţa este acolo, vorbea oare întregi cu fantasma imaginaţiei sale. La masă, cercetînd de mai multe cunoştinţe, întrebai şi de Mărioara. La acest nume nimeni nu voi să-mi răspundă. Tăcerea asta are o însemnătate, înţălegi tu?</p>
@@ -1330,7 +1331,7 @@
                      <p>— Zoe... ce nume ai pronunţat!...</p>
                      <p>— Ah! vezi?... Am gîcit! Zoe ţi-e dragă!... dar nu sînt geloasă... ea nu te iubeşte... căci nu poate să iubească doi deodată... sărmana copilă! amorul ce are pentru L... are s-o ucidă!...</p>
                      <p>— Ceea ce zici este o calumnie, Froso! zi-mi că muma mea s-a prostituat la lacheii tăi, zi ce vrei despre mine; nu-mi pasă! dar ceea ce ai zis despre Zoe nu-ţi dau voie a o repeta!... căci eşti femeie şi nu pot să o răzbun... Dacă un altul decît tine ar fi zis aceasta, un bărbat... pe D-zeul meu!...o vieaţă am şi ţin la dînsa mai puţin... decît la paharul aces-ta!...</p>
-                     <p>Paharul ce aveam în mînă, trîntindu-1 pe masă, se sparse în bucăţi.</p>
+                     <p>Paharul ce aveam în mînă, trîntindu-l pe masă, se sparse în bucăţi.</p>
                      <p>— Manoile! tu mă amerinţi?</p>
                      <p>— Voi să stimezi şi tu pe acei ce stimez eu.</p>
                      <p>— Această este un despotism nesuferit!... îţi spun că femeia asta nu-mi place, pentru că o iubeşti... dovideşte din contra!</p>
@@ -1427,7 +1428,7 @@
                   <p>Străbăturăm, cu destulă osteneală, mulţimea ce era adunată ca să admire pe Zoe; şi ajunserăm pînă la dînsa.</p>
                   <p>Frosa îi adresă cîteva vorbe pe care nu le auzii. Eu o salutai. Zoe îmi răspunsă printr-o rece închinare din cap.</p>
                   <p>— Cine este tînărul acesta? o întrebă generalul rus.</p>
-                  <p>— Nu-1 cunosc, răspunsă ea, şi răspunsul ei veni pînă la urechile mele.</p>
+                  <p>— Nu-l cunosc, răspunsă ea, şi răspunsul ei veni pînă la urechile mele.</p>
                   <p>— Auzi tu? Zoe, îngerul acela... o, indignitate!... fiindcă-i la braţ cu generalul nu mă cunoaşte!... In adevăr, iubită, mi-e teamă să nu nebunesc!...</p>
                   <p>— Ce ai? mă întrebă Frosa. Eşti preocupat şi palid!...</p>
                   <p>— O să-ţi cer iertare, dacă nu pot sta mai mult aice... Eşti prea delicată, ca să nu-mi dai voie să plec... nu mi-e bine... pămîntul se învîrteşte cu mine...</p>
@@ -1527,7 +1528,7 @@
                   <p>Era Mărioara.</p>
                   <p>Vederea aceasta îmi făcu o impresie curioasă. Ochii mi se umplură de lacrămi.</p>
                   <p>— Cine-i stăpînul casei? mă întrebă ea.</p>
-                  <p>— Iată-1, îi răspunse unul; Manoil...</p>
+                  <p>— Iată-l, îi răspunse unul; Manoil...</p>
                   <p>— Manoil? zise Mărioara gînditoare.</p>
                   <p>— Ce ai, Nebiruito? ce ai rămas pe gînduri?</p>
                   <p>— Nimic... o suvenire... am cunoscut, sînt doi ani, un Manoil... Vede? întrebă ea pe un june. *</p>
@@ -1649,7 +1650,7 @@
                   <p>— Adevărat, strigară doi inşi, noi am fost marturi la aceasta.</p>
                   <p>— Dacă este aşa, zisă Mărioara, îţi fac reverinţele mele, domnule Manoile! vei plăti scump farsa ce ne-ai jucat!...</p>
                   <p>— Dacă este aşa, zisă birtaşul, vei avea bunătate să-mi laşi aice fracul...</p>
-                  <p>— Bravo! strigă altul, dezbrăeaţi-1!</p>
+                  <p>— Bravo! strigă altul, dezbrăeaţi-l!</p>
                   <p>Oameni şi femei puseră mîna pe mine; într-un minut eram jumătate dezbrăcat.</p>
                   <p>— Aide! zise un vechi camarad, fă-ne ceva versuri» să te iertăm!</p>
                   <p>— Ce? este poet acesta?</p>

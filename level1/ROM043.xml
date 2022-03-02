@@ -8,7 +8,7 @@
       <fileDesc>
          <titleStmt>
             <title>Radu Buzesku: editie ELTeC</title>
-            <author>Dumitrescu, Ioan (1830-1912)</author>
+            <author>Dumitrescu, Ioan (1830-l912)</author>
             <respStmt>
                <resp>codare ELTeC</resp>
                <name>Smarandita Vasilachi</name>
@@ -64,6 +64,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [’'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-09-15">Annotation in ELTeC format: Smarandita Vasilachi, Lucretia Pascariu</change>
          <change when="2019-03-19">Ocerization with Transkribus: Roxana Patras</change>
@@ -148,7 +149,7 @@
             <p>Atins de respectuasele lor înkinăciunĭ, pașa le zâmbește puțin... după un mement devine iarășĭ sever... își aruncă vînoasa mînă pe mînerul iataganuluĭ, adresînduse către aceștĭ treĭ șefĭ musulmanĭ.</p>
             <p>— Voĭ știțĭ dragiĭ meĭ vitejĭ că giauri saŭ hainit și aŭ jertfit o mulțime de osmanliĭ... Padișahul aŭ trimis un ferman pentru pierderea luĭ Mihaiŭ prințul lor, dar vaĭ! infortunatul Emir saŭ făcut ciopățĭ cu toțĭ neferi luĭ și saŭ aruncat în dupăre.</p>
             <p>—Pentru perderea capuluĭ său vor fi toate acestea, răspunsă ceĭ treĭ răsboĭnicĭ.</p>
-            <p>— Slăvitul nostru padișah a hotărît să trimiță pe Cara-Mustafa cu o sumă mare de oștire, să robească toată țara necredincomilor și s'o prefacă în pașalic.</p>
+            <p>— Slăvitul nostru padișah a hotărît să trimiță pe Cara-Mustafa cu o sumă mare de oștire, să robească toată țara necredincomilor și s-o prefacă în pașalic.</p>
             <p>„Alah să-ĭ ajute! Alah! să-ĭ ajute! — strigară toțĭ de odată.</p>
             <quote type="verse">
                <l>Padișahul să trăiască!!</l>
@@ -190,7 +191,7 @@
             <p>V.</p>
             <p>Haremul este liniștit, nicĭ un sgomot de petrecerĭ orientale nu se aude în lăuntru, tăcerea domnește în toate camerile și totul apare mister!</p>
             <p>Dar cine-ĭ fecioara care se vede în camera vecină?... ce imaginĭ arbitrare vine să-ĭ turbure odihna și o face să suspine din cînd în cînd lăsînd să pice cîte o prețiosă lacrămă din robitoriĭ eĭ okĭ? — este fiĭca luĭ pașa de o talie mlădioasă și o frumusețe rară... fața sa smeardă plină de grațiĭ, este decorată cu negre sprîncene ce se întind ca niște arcurĭ d′asupra a doĭ okĭ subt jucătorĭ, și genele sale cele bogate îĭ adaogă nuoă grațiĭ!.. Privirea sa este plăcută ca aurora dimineți și vocea-ĭ încîntătoare ca delirŭ juneți; iar mica eĭ mînă de alabastru ce atinge tînăra frunte, servă a alunga paloarea răspîndită pe încîntătoarea-ĭ față, creată numaĭ de roze!..Un pas maĭ departe se vede mandolina abandonată... în misterioasa tăcere, ea maĭ sloboade din cînd în cînd, cîte un sunet de mizericordie și apare că rekiamă cu pasiune acele mîĭni gingașe care nu de mult, o făcea să întoneze delicioase manele, și să resune tot haremul...</p>
-            <p>Oare de mult eczistă cruda melancolie lîngă dînsa?... care sînt motivele ce voesc a ofili această minunată frumusețe?... din care pricină este ea nemulțumită în brilantul harem decorat numaĭ cu scumpe covoare de Îndiea și bogate sofale poliite cu aur?... oare mulțimea sclavelor și a eunucilor, nu îndeplinesc cu respect ordinile eĭ, saŭ pașa părintele săŭ, nu o adoară din destul?... poate că amorul turbură tînăra eĭ odihnă.... vre-un emir saŭ pașă i-aŭ rănit inima și să află în momeniele acestea departe de dînsa?... nu! nu!... în darn să muncesc toțĭ vasali pașalîculuĭ să o afle... Misterul este maĭ presus de dînșĭ... niminĭ nu'l nu-l cunoaşte decît inima sa... și una din sclave... tăcere!... cea ușoară bănuială aduce perzare!...</p>
+            <p>Oare de mult eczistă cruda melancolie lîngă dînsa?... care sînt motivele ce voesc a ofili această minunată frumusețe?... din care pricină este ea nemulțumită în brilantul harem decorat numaĭ cu scumpe covoare de Îndiea și bogate sofale poliite cu aur?... oare mulțimea sclavelor și a eunucilor, nu îndeplinesc cu respect ordinile eĭ, saŭ pașa părintele săŭ, nu o adoară din destul?... poate că amorul turbură tînăra eĭ odihnă.... vre-un emir saŭ pașă i-aŭ rănit inima și să află în momeniele acestea departe de dînsa?... nu! nu!... în darn să muncesc toțĭ vasali pașalîculuĭ să o afle... Misterul este maĭ presus de dînșĭ... niminĭ nu-l nu-l cunoaşte decît inima sa... și una din sclave... tăcere!... cea ușoară bănuială aduce perzare!...</p>
             <milestone unit="section" n="6"/>
             <p>VI.</p>
             <p>„Părintele meŭ este foarte iritat asupra creștinilor, zicea tînăra fecioară... Alah să′l îmblînzească!... nu pocŭ suferi a să pricinui cea maĭ mică vătămare acestor duumanĭ aĭ patriĭ șele. De cînd Catarina m′a făcut să cunosc o mică parte din cultul creștinesc, parcă sînt alta acum. — Ah! iată adevărata lege luminată! lege sîntă!... de cîte orĭ mă rog către fecioara Maria patraona secluluĭ meŭ, simțŭ o mare ușurință într acel moment, și de cîte orĭ sărut această mică cruciuliță ce o țiŭ ascunsă în sînul meŭ, mi se umple inima de bucurie și de speranță...Ah! cum așĭ dori să fiŭ și eŭ creștină!.. cu așĭ dori să am un consorte creștin... o! cît de legitimă este călătoriea la dînși! Catarina mi-a spus că în legea lor, nu este permis unuĭ bărbat a avea maĭ multe soțiĭ, ci numaĭ o singură consoartă care să se îndulcească de amorul conjugal, și nu iarășĭ maltratată ca la noĭ, nicĭ condamnată la o eternă înkisoare,subt paza cruzilor eunucĭ... nu! ci liberă! și adorată pînă în sfîrșit!.. o! tu lege luminată! o tu! credință sîntă!... Alah să-mĭ ajute şi mie că să te îmbrăţişez vre-o dată! — urăsc din suflet pe toțĭ musulmani și doresc să fiŭ creștină. — Vaĭ! cînd ar ști părintele meŭ acest secret al inimiĭ mele... or ce zic?... numaĭ vre-un eunuc de-l va încredința, m ar omorĭ negreșit... iată dar ce cruzĭ sînt Musulmani...iată cît sînt de departe cu simțimîntul de aceĭ bunĭ creștinĭ.... o! sîntă este legea creștinească!...</p>
@@ -211,7 +212,7 @@
                <l>„O musulmană!...</l>
             </quote>
             <p>Un sgomot ușor se aude la ușcioara secretă... copila tresare! — cine a intrat?.. temerea este mare, dar îndată dispare.</p>
-            <p>— „Este Catarina... grație! grație!.. Alah m'a scăpat.</p>
+            <p>— „Este Catarina... grație! grație!.. Alah m-a scăpat.</p>
             <milestone unit="section" n="7"/>
             <p>VII.</p>
             <p>— Ah! tu ești Catarino?.. tremuram de surprindere!</p>
@@ -453,7 +454,7 @@
             <p>— Eŭ voesc să știu cine lăcuește în această parte a haremuluĭ, și doresc să mă uĭt kiar acum în lăuntru pe această ferestrue.</p>
             <p>— Daca generalul ordonă, totul se face; repetă unul din ceĭ-l-anțĭ doĭ cavalerĭ, și se așază în formă de treaptă din josul ferestrui.</p>
             <p>Acum junele cavaler se urcă pă spatile camaraduluĭ săŭ și privește pîntre grilele miciĭ ferestruĭ, toată scena precedentă a celor doă femeĭ infortunate... se miră de ceia ce aude și fără voe-ĭ simte cîte o lacrămă picînd din albastri luĭ okĭ, care se strecoară încitinel pîntre grile. El compătimește de suferințele ambelor creature și voește să le dea ajutor kiar într′acel moment; dar îndată își aduce aminte că este inconito, și că a venit pentru altă kestie maĭ importantă, de la care poate atîrnă libertatea patrii sale. La vederea tineri fetițe, el simte o-mare pietate, și fie-care suspin al eĭ, se pare a fi rupt din inima sa kiar... Infine el jură a deveni liberatorul ambelor creature.</p>
-            <p>O! cînd ar ști juna musulmană cine este acela care sufere de o potrivă cu dînsa?.. cînd ar zărĭ într'acest moment trăsurile feţi unuĭ june cavaler creștin în dosul grilelor de fier ale ferestrui, și cînd ar vedea frumoși luĭ okĭ innunațĭ în lacrămĭ pentru suferințele eĭ, numaĭ dintr o singură vedere?... o! atuncĭ i-sar părea că atinge momentul cel maĭ sublim al fericiri, și ar alerga să ceară grația luĭ... Dar nu... soarta tot nu saŭ îndulcit... ea maĭ păstrează pentru plăpînda eĭ ființă și alte valurĭ maĭ grele decît cele pînă acuni, spre așĭ vîrfui cu prisosință furoarea sa cea ne împăcată!</p>
+            <p>O! cînd ar ști juna musulmană cine este acela care sufere de o potrivă cu dînsa?.. cînd ar zărĭ într-acest moment trăsurile feţi unuĭ june cavaler creștin în dosul grilelor de fier ale ferestrui, și cînd ar vedea frumoși luĭ okĭ innunațĭ în lacrămĭ pentru suferințele eĭ, numaĭ dintr o singură vedere?... o! atuncĭ i-sar părea că atinge momentul cel maĭ sublim al fericiri, și ar alerga să ceară grația luĭ... Dar nu... soarta tot nu saŭ îndulcit... ea maĭ păstrează pentru plăpînda eĭ ființă și alte valurĭ maĭ grele decît cele pînă acuni, spre așĭ vîrfui cu prisosință furoarea sa cea ne împăcată!</p>
             <milestone unit="section" n="14"/>
             <p>XIV.</p>
             <p>Pașa maĭ nainte de a intra în așternutul său de noapte, voeşte să viziteze haremul încă odată ca să maĭ vază ne fiesa, daca maĭ stăruește tot în hainiea din zioa precedentă, și să o prepare a se prezenta hotărîtuluĭ eĭ consorte, Emirul Abdul Șemi, carele în zioa viitoare este gata să sosească de la Stambol.</p>
@@ -513,7 +514,7 @@
             <milestone unit="section" n="19"/>
             <p>XIX.</p>
             <p>Acum ceĭ doĭ neferĭ aŭ ajuns la țărm...aci aruncară sacul pe nisin, și se ocupă amîndoĭ cu derijarea une-ĭ felucĭ plulitoare.</p>
-            <p>În momentul kînd sînt aşezaţi într'însa şi gata avîsli, de o dată se aude pocnetul flintelor omorîtoare și doă bale le sfărîmă capetele...</p>
+            <p>În momentul kînd sînt aşezaţi într-însa şi gata avîsli, de o dată se aude pocnetul flintelor omorîtoare și doă bale le sfărîmă capetele...</p>
             <p>Faclele cad alăturĭ în apă stingînduse, și sacul cu victima, este transportat în barca desupt bandiera romînă. Ea acum se află în centrul dupări despicînd undele cu cea maĭ mare repezicune.</p>
             <milestone unit="section" n="20"/>
             <p>XX.</p>
@@ -607,7 +608,7 @@
             <p>— Sînt romînă ca și voi Căpitane! Da romînă! — răspunse Catarina cu învăpăere și lacrămile, nu o lăsa să termine de tot, ceia ce voia să maĭ zică.</p>
             <p>— Eștĭ romînă zicĭ?.. eĭ bine, atuncĭ nu mă voiŭ teme de nicĭ o trădare, nobilă doamnă, căcĭ o romînă nu este capabilă a o face; însă trebue să fie o pricină importantă care vă aduce aci?</p>
             <p>— Căpitane! vă voiŭ nara în scurt aventurile mele:</p>
-            <p>„Patria mea este Moldaviea; într o zi am fost răpită și trecută în Rușcug ca o sclavă, acolo după opt sre-zece anĭ de suferințe, înkisă într'o culă secretă care eczistă subt temeliile haremuluĭ Pași, nu știŭ prin ce minune am fost scăpată de la moarte și re-dusă aicĭ, pe pămîntul romîn. Pînă în momentele acestea am fost dată îngrijirilor celor maĭ generoase, de către liberatorul meŭ, pe care din nenorocire, eŭ încă nu l′am putut vedea, să-ĭ mărturisesc prin lacrămile mele; căcĭ altă putere nu am. — Acum iată că știțĭ cine sînt.</p>
+            <p>„Patria mea este Moldaviea; într o zi am fost răpită și trecută în Rușcug ca o sclavă, acolo după opt sre-zece anĭ de suferințe, înkisă într-o culă secretă care eczistă subt temeliile haremuluĭ Pași, nu știŭ prin ce minune am fost scăpată de la moarte și re-dusă aicĭ, pe pămîntul romîn. Pînă în momentele acestea am fost dată îngrijirilor celor maĭ generoase, de către liberatorul meŭ, pe care din nenorocire, eŭ încă nu l′am putut vedea, să-ĭ mărturisesc prin lacrămile mele; căcĭ altă putere nu am. — Acum iată că știțĭ cine sînt.</p>
             <p>Capitan Preda îșĭ aduse aminte de noaptea trecută, și cunoscu îndată în această femeiă, victima ce să liberase, cu pericolul a treĭ eroĭ creștinĭ.</p>
             <p>Catarina cade la picioarele Capitanuluĭ și îl imploră cu stăruință, să o conducă către adevăratul săŭ liberator. În darn i se propune a adăsta pînă la zioă, căcĭ ea nu are paciință, re-înpinge or ce obstacol și cere kiar în această oră să fie prezantată generalutuĭ Buzescu.</p>
             <p>— Eĭ bine dar, nobilă doamnă! — îl veĭ vedea... parolă de onoare! îl veĭ vedea...</p>
@@ -698,7 +699,7 @@
             <p>Cum? întrebă Buzescu ce rămăsese în tăcere dela începutul narațiuni aceste-ĭ avanturiere; acel june cavaler numaĭ trezește?.. de unde aĭ știința asta?</p>
             <p>— O! bravule general... el și-a pierdut vieața încă de atuncĭ, precum vețĭ afla maĭ la vale.</p>
             <p>Îndată ce mă deșteptaiu din amețeala în care căzusem, urcaiŭ treptele după bărbată-meŭ; acolo îl găsiiŭ foarte skimbat. Elinu meŭ știa să se prefacă așa de bine, în cît nu-l putea cunoaște niminĭ, în ce stare aŭ fost cu un moment maĭ nainte.</p>
-            <p>Dînsul sta în picioare din′aintea posesorilor săĭ, și să arăta prea voios de venirea lor; însă numaĭ eŭ, și el, știeam cît de mare dorință avea să-ĭ depărteze d′aci maĭ curind, pe care o și făcu printr′o mincună dibace, maĭ cu seamă observînd că junele boer, nu-mĭ li'ua oki de ka mine, de şi eŭ mă feream să-ĭ întimpin privirea; dar cu toată fereala mea și cu toată amerințarea luĭ Kara-Iane, care mă inspirase maĭ mult, în loc să mă înpietrească, n aŭ fost cu putință să nu ne întâlnim okirile.</p>
+            <p>Dînsul sta în picioare din′aintea posesorilor săĭ, și să arăta prea voios de venirea lor; însă numaĭ eŭ, și el, știeam cît de mare dorință avea să-ĭ depărteze d′aci maĭ curind, pe care o și făcu printr′o mincună dibace, maĭ cu seamă observînd că junele boer, nu-mĭ li-ua oki de ka mine, de şi eŭ mă feream să-ĭ întimpin privirea; dar cu toată fereala mea și cu toată amerințarea luĭ Kara-Iane, care mă inspirase maĭ mult, în loc să mă înpietrească, n aŭ fost cu putință să nu ne întâlnim okirile.</p>
             <milestone unit="section" n="13"/>
             <p>XIII.</p>
             <p>— Coconașu are mare plăcere să privească pă nevastă-mea; zise Kara-Iane, parcă n′a maĭ văzut alte femeĭ în lume, și la lașĭ maĭ cu seamă.</p>
@@ -719,7 +720,7 @@
             <p>După prînz totul era gata de plecare. Kara-Iane să arăta cel maĭ sprinten la înteprinderea aceasta. Aranjase foarte bine pregătirea plecări, și toate bagajele, se afla la locul lor.</p>
             <p>— Să înhame cai la trăsură! striga hătmăneasa, ca să putem ajunge la Galațĭ maĭ de vreme.</p>
             <p>Ordinul acesta era un balsam pentru Elinu meŭ; el sări ca fulgerul în curte și după un moment, trăsura să afla la scară.</p>
-            <p>În vremea aceasta, comisu Radu se înkisese în salon; eŭ avuiŭ ne-răbdarea să știu ce face, și mă uĭtaĭŭ p′în locu kei dela ușă... el scriea un bilet. După ce a isprăvit, la sigilat și îl puse în buzunar. Eŭ m'am depărtat îndată, ca să nu fiŭ văzută. — Hătmăneasa se gătise și adăsta în scară.</p>
+            <p>În vremea aceasta, comisu Radu se înkisese în salon; eŭ avuiŭ ne-răbdarea să știu ce face, și mă uĭtaĭŭ p′în locu kei dela ușă... el scriea un bilet. După ce a isprăvit, la sigilat și îl puse în buzunar. Eŭ m-am depărtat îndată, ca să nu fiŭ văzută. — Hătmăneasa se gătise și adăsta în scară.</p>
             <p>— Radule! strigă ea; nu mă face să aștept fătul meŭ... o să ne apuce noaptea pe drum....</p>
             <p>— Iată-mă-s gata, scumpă maĭcă; voesc să măltuisesc oamenilor casi domnului Capitan.</p>
             <p>— Bravo! copilul meŭ; tu porțĭ nobila mîndrie a tatăluĭ-tăŭ.</p>
@@ -730,7 +731,7 @@
             <p>În fine, trăsura porni... patru caĭ negri corb din ceĭ maĭ iuţĭ, o făcea să sboare pe suprafaţa cîmpiilor, și după cîte-va momepte, dispăru din okiĭ meĭ.</p>
             <p>Nu știŭ de ce îmĭ plăcea să mă uĭt în urma trăsuri? aci mi să părea că o zăresc fugînd, aci mi să părea că se îptoarce iarășĭ înnapoĭ... În cele din urmă, simțeam că acea trăsură ducea cu dînsa o parte din corpul meŭ, din inima mea kiar!..</p>
             <p>Mă miram foarte mult de această streină turburare a simțurilor mele, și hotărîiŭ să pu mă maĭ gîndesc la oaspeți precedepțĭ.</p>
-            <p>Kara-Iane observase mișcările mele, ordonă să înkiză porțile țeapăn, și se puse să zică de patru-sute de orĭ; kirie! eleison! — Apoĭ veni lîngă mipe să mă copsole și să mă încurajeze, gîndind că m′am sperieat de fabula tîlharilor înkipuiţĭ. Îmĭ zice să n'am nicĭ o temere, căcĭ el va fi deștept toată noaptea, și va pune custozĭ în giurul casteluluĭ să privegeze, și în sfîrșit daca odată am luat de bărbat pe un Elin, este un disprețŭ să mă maĭ gîndesc la frică.</p>
+            <p>Kara-Iane observase mișcările mele, ordonă să înkiză porțile țeapăn, și se puse să zică de patru-sute de orĭ; kirie! eleison! — Apoĭ veni lîngă mipe să mă copsole și să mă încurajeze, gîndind că m′am sperieat de fabula tîlharilor înkipuiţĭ. Îmĭ zice să n-am nicĭ o temere, căcĭ el va fi deștept toată noaptea, și va pune custozĭ în giurul casteluluĭ să privegeze, și în sfîrșit daca odată am luat de bărbat pe un Elin, este un disprețŭ să mă maĭ gîndesc la frică.</p>
             <p>Eŭ îĭ mulțumiĭŭ de interesul ce putrea pentru mine și îĭ promiseĭŭ că voiŭ fi cea maĭ curagioasă femeiă astă seară.</p>
             <p>Kara-Iane plecă să se maĭ preumble prin sat după trebuință, și eŭ am rămas iarășĭ singură.</p>
             <milestone unit="section" n="15"/>
@@ -756,7 +757,7 @@
             <p>Solitudinea este afecțiea cea maĭ necesară amoruluĭ și poezii!.. ea este consolațiea și nutrimentul ambelor simțimînte... numaĭ prin tr′însa se îndulcește vulnele înnamoratuluĭ și se mărește lamantațiea poetuluĭ... Amorul și poeziea sînt strîns legate între dînsele.... poeziea se inspiră prin Amor, și Amorul prin poezie!.. Poetul se consolă prin rimele sale și în′amoratul prin amanta ce adoară... suferințele lor sînt de o notrivă grave! de o notrivă resnectate!.. Cerul se pare că aŭ ordonat acestor doă încîntătoare simțimînte, a se asecura unul pe altul!..</p>
             <milestone unit="section" n="17"/>
             <p>XVII.</p>
-            <p>Eŭ rămăse-ĭu singură... cît de mult adoram singurătatea care pînă erĭ, ′mi era foarte nesuferită!.. sniritul meŭ se transnorta în depărtare fără voea-mĭ, mi bruna figură a juneluĭ comis, mi se nărea că stă de față!.. încremenisem cu biletetul în mînă, și canul mĭ-era prea amețit... vruiŭ să rup sigilul, dar iarăș mă opriĭŭ gîndindu-mă la datoriea mea... Amorul mă îndemna să-l deskiz! onoarea îmĭ ordona să-l arunc în foc. — În cele din urmă hotărîiŭ a nu da ascultare nicĭ unuea nicĭ altiea, și biletul rămase sigilat în păstrarea-mĭ, pînă să va ivi vre-o ocazie să-l înnanoez autoruluĭ săŭ. Această hotărîre însă, suferința mea creștea din zi, în zi... Amorul străbătuse nițel cîte nițel, pînă în centrul inimi-ĭ mele și compătimeam foarte mult... remediu nu maĭ era! — Aș fi dorit să mă destăĭnuesc la cine-va ca să maĭ respir, dar n'aveam nicĭ o amică...Marii îĭ ordonasem să nu-mĭ maĭ vorbească, și nu mă erta ambițiea să reclam ceia ce singură aruncasem... în sfîrșit eram prea neconsolată!..</p>
+            <p>Eŭ rămăse-ĭu singură... cît de mult adoram singurătatea care pînă erĭ, ′mi era foarte nesuferită!.. sniritul meŭ se transnorta în depărtare fără voea-mĭ, mi bruna figură a juneluĭ comis, mi se nărea că stă de față!.. încremenisem cu biletetul în mînă, și canul mĭ-era prea amețit... vruiŭ să rup sigilul, dar iarăș mă opriĭŭ gîndindu-mă la datoriea mea... Amorul mă îndemna să-l deskiz! onoarea îmĭ ordona să-l arunc în foc. — În cele din urmă hotărîiŭ a nu da ascultare nicĭ unuea nicĭ altiea, și biletul rămase sigilat în păstrarea-mĭ, pînă să va ivi vre-o ocazie să-l înnanoez autoruluĭ săŭ. Această hotărîre însă, suferința mea creștea din zi, în zi... Amorul străbătuse nițel cîte nițel, pînă în centrul inimi-ĭ mele și compătimeam foarte mult... remediu nu maĭ era! — Aș fi dorit să mă destăĭnuesc la cine-va ca să maĭ respir, dar n-aveam nicĭ o amică...Marii îĭ ordonasem să nu-mĭ maĭ vorbească, și nu mă erta ambițiea să reclam ceia ce singură aruncasem... în sfîrșit eram prea neconsolată!..</p>
             <milestone unit="section" n="18"/>
             <p>XVIII.</p>
             <p>Amiciea! este unicul remediŭ al înnamoraților!.. amiciea! această neprețuită și nobilă misie... o! cît de ferice este muritorul acela care are un amic! — Am zis un amic, căcĭ este imposibil a avea maĭ mulțĭ; — însă aicĭ este vorba pentru un adevărat amic!... un amic de ale căruea consultărĭ să profițĭ... un amic care să te încălzească cu dragostea amicii sale! un amic care să compătimească de suferințele tale!.. un amic in-fine care să moară alăturĭ cu amicul săŭ!....o! dar unde este acel amic în zioa de astăzĭ?..</p>
@@ -768,13 +769,13 @@
             <p>XIX.</p>
             <p>Hotărîsem să-mĭ dobîndesc și eŭ o amică. Prioteasa din sat mi să părea femeia care-mĭ trebue, fiind și noĭ amîndoă, cam de o etate; de și ea să părea ceva maĭ înaintată la anĭ, dar n′aveam pe care alta să o găsesc maĭ comparabilă cu mine.</p>
             <p>Preotul Eftimie venea în toate sîmbetele de făcea paraclis; fiind că Elinu meu, ce e dreptul, era foarte evlavios!</p>
-            <p>Într′o zi îmĭ veni bine așa, și față cu bărbată-meŭ rugaiŭ pă preotŭ să zică femei sale ca să vie pe la mine cîte odată, să ne maĭ petrecem din vreme amîndoă. La această reclamare a mea, Cara-iane cam zbîrci din nas, dar n'avea ce să facă, ne prevăzînd decît numaĭ o simplă dorință, pe care mĭ-o acordă cu răceală; mie atîta- mĭ trebuia.</p>
+            <p>Într′o zi îmĭ veni bine așa, și față cu bărbată-meŭ rugaiŭ pă preotŭ să zică femei sale ca să vie pe la mine cîte odată, să ne maĭ petrecem din vreme amîndoă. La această reclamare a mea, Cara-iane cam zbîrci din nas, dar n-avea ce să facă, ne prevăzînd decît numaĭ o simplă dorință, pe care mĭ-o acordă cu răceală; mie atîta- mĭ trebuia.</p>
             <p>Preotul să bucură oare-cum şi-mĭ promise că ordinul meŭ se va pune în mișcare kiar de astăzĭ.</p>
             <p>Este cunoscut că țărani noștri, respectează foarte mult pe superiori lor, și aŭ de mare onoare spre a se afla în relațiĭ amicale cu cocoanele saŭ cu boeri. Această nobilă manieră caracterizează pe toți țărani care sînt romînĭ adevărațĭ.</p>
             <p>Adoa zi duminică după terminarea liturgiĭ, începu relațiile mele amicale cu preoteasa. Ea mi se înfățișă cu față vesele și voioasă... din cîte-va vorbe cunoscuiŭ îndată că nu greșisem în alegerea mea. Preoteasa era o femee dejgețată! vorbea slobod și rezona binișor; însfîrșit era dotată cu un spirit natural... cîtă bucurie simțeam atuncĭ pentru acestă femeiă!.. mi se părea că am regăsit o sor! atît de mult o iubeam.</p>
             <p>— Coconiță, îmĭ zise ea, dumneata trebue să știĭ maĭ bine care fuse pricina dă porniră așa în grabă hătmăneasa și cu fiu-săŭ, proprietari moșiĭ aceștiea?... era vorba precum am auzit să petreacă maĭ multe zile aicĭ... sărăcuț′an de mine! și dă mine!.. eŭ mă aflam dusă la sorumea cînd veniră d-lor; aŭ trimis îndată să mă keme, dar pînă să viŭ, și plecaseră. O! nu știĭ coconiță cîtă părere de răŭ am în sufletul meŭ că n′am avut norocire să revăz pe buna mea stăpînă și pe drăgăstosul coconașŭ!</p>
             <p>Această convorbire mă interesa prea mult, și mă siliŭ a mulțumi dorința preoteși parîndu-ĭ originala pricină care a grăbit plecarea hătmănesi.</p>
-            <p>— O! doamne! sfîntule! zise ea; ce seacă de noroc am fost eŭ că nu m′am aflat de față să-ĭ fac cora;, că poate maĭ rămînea. Aceĭ hoțĭ ĭ-a pricinuit numaĭ o spaimă zadarnică, fiînd-că nu este adevărat, ș apoĭ kiar de ar fi așa, nu să află la noĭ în sat destuĭ voĭnicĭ care putea s′o apere de or ce primejdie măcar. — zăŭ! Doamne iartămă coconiță... asta trebue să fi fost numaĭ o plăsmuire a jupînuluĭ ca să-ĭ depărteze maĭ curînd d'aicĭ... eŭ sînt cam răzdrăvană coconiţă.</p>
+            <p>— O! doamne! sfîntule! zise ea; ce seacă de noroc am fost eŭ că nu m′am aflat de față să-ĭ fac cora;, că poate maĭ rămînea. Aceĭ hoțĭ ĭ-a pricinuit numaĭ o spaimă zadarnică, fiînd-că nu este adevărat, ș apoĭ kiar de ar fi așa, nu să află la noĭ în sat destuĭ voĭnicĭ care putea s′o apere de or ce primejdie măcar. — zăŭ! Doamne iartămă coconiță... asta trebue să fi fost numaĭ o plăsmuire a jupînuluĭ ca să-ĭ depărteze maĭ curînd d-aicĭ... eŭ sînt cam răzdrăvană coconiţă.</p>
             <p>— Ce vreĭ să zicĭ draga mea? o întrebaiŭ eŭ.</p>
             <p>— Vescă greci ăștiea așa sînt coconiță... aŭ mare temere pentru nevestile lor; adicătele, să fie cu ertăcune, bunioară dumneata... tinerică! frumușică!... bag seamă ′ĭa fost teamă bietuluĭ Kara-Iane să nu să înnamoreze dă dumneata coconamu nostru... Asta a fost toată șireteniea. mă prinz pe capul meŭ.</p>
             <p>Mă miraiŭ foarte mult de istețimea priotesi și îmĭ fu cu neputință de a maĭ păstra secretul! Ĭ-am narat toată aventura biletuluĭ, păstrînd numaĭ sentimentul meŭ către acel june.</p>
@@ -865,7 +866,7 @@
             <p>În zioa aceia, Cara-lane nu veni de prînz și am fost silită să aștept pînă seara cu masa pusă. Această întîrziere a luĭ, contribui foarte mult la întremarea de care aveam necesitate.</p>
             <p>Toată noaptea n am putut să înkiz oki gîndindu-mă la critica poziție în care mă aflam...tristețea cea maĭ profundă domina intermitatea mea, și nimic nu putea să mă liniștească. O înfierbințeală grozavă să răspîndi în toate membrile corpuluĭ meŭ, și ardeam într′un foc nestins...abia despre zioă mă fură somnu nițel; dar fuiŭ silită să mă deștept la sgomotul une-ĭ serenade!</p>
             <p>Anticul bucum suna în depărtare însoțit de încîntătoarea voce a luĭ Radul!.. el improviza-se pentru mine niște versurĭ pline de cel maĭ ardinte Amor! — Această noă strategemă a sa, mă făcu să scap un lung oftat din inimă!..</p>
-            <p>O! maledicție!.. de o mie de orĭ maledicție!.. Kara-Iane observase mișcarea mea... se sculă binișor din pat și eși afară ca să se asigureze maĭ bine. După ce rămăseiŭ singură în casă, mă ridicaiu binișor cu inima palpitîndă, să văz ce o să facă el... tremuram de frică să nu se întîmple ceva!... l'am zărit eşind pă poarta casteluluĭ, și apoĭ l′am pierdut din vedere fiind-că era întunerec beznă.</p>
+            <p>O! maledicție!.. de o mie de orĭ maledicție!.. Kara-Iane observase mișcarea mea... se sculă binișor din pat și eși afară ca să se asigureze maĭ bine. După ce rămăseiŭ singură în casă, mă ridicaiu binișor cu inima palpitîndă, să văz ce o să facă el... tremuram de frică să nu se întîmple ceva!... l-am zărit eşind pă poarta casteluluĭ, și apoĭ l′am pierdut din vedere fiind-că era întunerec beznă.</p>
             <p>El aŭ zăbovit peste un cart de oră, pînă ce a tăcut serenada; apoĭ veni iarășĭ lîngă mine fără să-mĭ zică doă boabe.</p>
             <p>Eŭ vruseiŭ să mă încredințez daca el într′adevăr a bănuit ceva, și îl întrebaiŭ cu indiferință despre acea serenadă. El îmĭ răspunse cu politeță că niște țăranĭ să preumbla desfătîndu-se.</p>
             <p>Acest răspuns al săŭ mă maĭ liniști nițel, și îmĭ ridică grija ce aveam că va fi devinat adevăratul motiv al serenadi.</p>
@@ -903,18 +904,18 @@
             <p>Asemenea și voĭ nelegiuiților asasinĭ din zioa de astăzĭ!.. fițĭ bine asigurațĭ că sublimul Creator, vă va cere într′o zi socoteală pentru cea maĭ mică picătură de sînge ce o vărsațĭ!..</p>
             <milestone unit="section" n="27"/>
             <p>XXVII.</p>
-            <p>Cînd m'am trezit din leşinatul meŭ, am simțit că eram în trăsura cea ușoară a bărbată-meŭ... el gonea cursieri de foc, spre a se depărta maĭ curînd de locul unde să comisese crimina!</p>
+            <p>Cînd m-am trezit din leşinatul meŭ, am simțit că eram în trăsura cea ușoară a bărbată-meŭ... el gonea cursieri de foc, spre a se depărta maĭ curînd de locul unde să comisese crimina!</p>
             <p>Înțeleseiŭ îndată că el fugea de pericol; dar nu știeam unde merge, la Iașĭ, saŭ în altă parte de lume?</p>
-            <p>Pentru mine era tot una or unde ar fi voit să meargă; atît eram de desperată și in-consolabilă. În vremea aceștiĭ călătoriĭ mă gîndeam la dureroasa scenă ce să petrecuse... eram în mirare de Cara-lane, cum de nu m′a jertfit și pe mîne în momentul furii sale? — Socoteam însă, că el a cunoscut innocența mea, și de aceia m'a cruțat; dar vaĭ!.. eram prea greșită... mizerabilul fanariot păstra pentru mine o răsbunare maĭ teribilă de cît moartea kiar... o răzbunare mișăloasă...</p>
+            <p>Pentru mine era tot una or unde ar fi voit să meargă; atît eram de desperată și in-consolabilă. În vremea aceștiĭ călătoriĭ mă gîndeam la dureroasa scenă ce să petrecuse... eram în mirare de Cara-lane, cum de nu m′a jertfit și pe mîne în momentul furii sale? — Socoteam însă, că el a cunoscut innocența mea, și de aceia m-a cruțat; dar vaĭ!.. eram prea greșită... mizerabilul fanariot păstra pentru mine o răsbunare maĭ teribilă de cît moartea kiar... o răzbunare mișăloasă...</p>
             <p>Cursieri spumega de iuțeală și trăsura noastră sbura pe cîmpie ca o pasăre ușoară ce străbate eterul cu agerimea aripilor sale.</p>
-            <p>Gonirăm mereŭ pînă seara și toată noaptea următoare. În timpul acestu-ĭ voiagŭ misterios, n'am skimbat nicĭ o parolă între noĭ.</p>
+            <p>Gonirăm mereŭ pînă seara și toată noaptea următoare. În timpul acestu-ĭ voiagŭ misterios, n-am skimbat nicĭ o parolă între noĭ.</p>
             <p>Despre ziuă ne oprirăm la un bordeiŭ subteran care ținea loc de Otel pe drumul Bucureștilor. Aci repauzarăm o oră, și iară-șĭ am luat′o la goană.</p>
-            <p>După treĭ zile de călătorie ne'ntreruptă, noĭ trecusem orașul București, și am ajuns în cele din urmă la Gurgu.</p>
+            <p>După treĭ zile de călătorie ne-ntreruptă, noĭ trecusem orașul București, și am ajuns în cele din urmă la Gurgu.</p>
             <p>Atuncĭ acest mic orășel era ocupat de Semiluni... eĭ îl poseda pe timpul acela... Principele Romînilor numaĭ putea ordona aicĭ... o! cîtă skimbare astăzĭ... glorie ceruluĭ că acum iarășĭ s′aŭ încorporat cu prințipatul prin bravura voastră generale.</p>
             <milestone unit="section" n="28"/>
             <p>XXVIII.</p>
             <p>Turci viermuiaŭ pe strade... rar zărea cine-va cîte un creștin, icĭ colea... o frică teribilă mă domina și tremuram pe tot momentul.</p>
-            <p>În cele din urmă poposirăm la un hănișor în centru orașuluĭ și ne descărcarăm bagagele într'o mică odăiță.</p>
+            <p>În cele din urmă poposirăm la un hănișor în centru orașuluĭ și ne descărcarăm bagagele într-o mică odăiță.</p>
             <p>După restaurarea noastră într′acel otel, întrebaiŭ pe Kara-Iane, ce avea de gînd să facă aicĭ cu mine? — El îmĭ răspunse că voește a se așeza într′acest orășel pentru treĭ anĭ, ocupînduse cu comerțul pescării. La acest răspuns mă maĭ liniștiiŭ nițel și începuiŭ să-mĭ regulez cășcioara; însă această politețe a lui Kara-Iane, era o trădare din cele maĭ nelegiuite!..</p>
             <p>A-doa-zi, îl văzuiŭ că vine urmat de doĭ turcĭ și intrară drept la mine în odăiță... Eŭ mă înfioraiŭ de-o-cam-dată, dar el asigură că aceștiea sînt companioni săĭ de comerț, și că trebue să-ĭ priimesc cu politeță.</p>
             <p>După ce skimbară cîte-va frase turceștĭ între dînși, pe care eŭ nu le puteam înțelege, fumară cîte un ciubuc și apoĭ se depărtară foarte mulțumiți din preună cu bărbată-meŭ.</p>
@@ -976,7 +977,7 @@
             <p>XXXIII.</p>
             <p>Zece anĭ trecură de cînd mă aflam renegată și noă de cînd eram mumă.</p>
             <p>Amina creștea în toată splendoarea sa corporală... nicĭ odată n′am cutezat să pronunț dulcele nume de mamă înnaintea eĭ; cu toate acestea ea mă adora maĭ mult de cît puteam spera de la dînsa.</p>
-            <p>Într'o zi șezînd amîndoă de vorbă, mă întreba cu stăruință să-ĭ spuiŭ cine a fostŭ adevărata sa mumă, daca eŭ nu sînt?</p>
+            <p>Într-o zi șezînd amîndoă de vorbă, mă întreba cu stăruință să-ĭ spuiŭ cine a fostŭ adevărata sa mumă, daca eŭ nu sînt?</p>
             <p>Atuncĭ ca să-ĭ astîmpăr nerăbdarea, improvizaiŭ o anegdotă. — I-am spus că muma eĭ, era o femeiă din țara creștinilor; și de o dată cu venirea ta în lume, îĭ ziseiŭ, a murit din facere!</p>
             <p>— Așa dar mumă-mea era creștină? întrebă ea.</p>
             <p>— Așa, creștină a fost scumpa mea stăpînă, și în urmă a devenit renegată; iar la ora morți sale, s′a căit foarte mult de fapta ce a comis!</p>
@@ -996,10 +997,10 @@
             <p>Numaĭ pașa șși bătrînul temnicer cunoștea acest secret.</p>
             <p>După ce mă transportară în lăuntru, temniceru îmĭ depuse nutriment pentru treĭ zile și îmĭ zise cu sălbătăcie: eștĭ osîndită să morĭ de foame!.. astfel să pedepsesc călcători de lege aĭ mareluĭ nostru Profet!..</p>
             <p>Eŭ cercaiŭ să îmblînzesc pe acest om grozav... mă aruncaiŭ la picioarele sale vărsînd lacrămĭ și rugîndu-mă să-ĭ fie milă de mine, să nu mă lase să mor!.. dar în van eraŭ toate...el rămase ne înduplecat, trînti ușa cu repeziciune și eși bombănind.</p>
-            <p>Acum rămăseiŭ singură într'această întunecoasă înkisoare... Doă zile n′am mîncat nimicŭ iar a treia zioă, frînseiŭ nițică pîĭne și sorbiŭ o lingură de apă ca să mă maĭ întremez din slăbiciune.</p>
+            <p>Acum rămăseiŭ singură într-această întunecoasă înkisoare... Doă zile n′am mîncat nimicŭ iar a treia zioă, frînseiŭ nițică pîĭne și sorbiŭ o lingură de apă ca să mă maĭ întremez din slăbiciune.</p>
             <p>Cînd mă gîrdeam că sfîrmirea nutrimentuluĭ va fi sfîrșitul vieți mele, îmĭ perea toată pofta de mîncare.. nu-mĭ părea răŭ de mine că o să mor, ci numaĭ pentru Anica mă întristam..,. sîrmana copilă!.. ce va fi făcînd ea fără mine? — ziceam în sine-mĭ. — poate va muri de întristare; dar iarăș mă întorceam, că dînsa nu mă cunoscuse de mumă adevărată a eĭ, și poate să va mîngiia curînd și va trăi. Măltumiam pași că mi-a ordonat din vreme să nu mă descoper de muma eĭ.</p>
             <p>Zece zile se strecuraseră de cînd mă aflam înkisă!.. nutrimentul meŭ se sfîrșise din zioa precedentă și î-mĭ așteptam ora cea maĭ de pre urmă; dar cerul care îngrijaște de ceĭ imfortunațĭ, nu mă lăsă ca să mă sfîrșesc de moartea cea maĭ oribilă!</p>
-            <p>După miezul nopți auziiŭ oare-care sgomot la ușa prințipală a temniți... ea se deșkise binișor și cine-va se strecurase în lăuntru... după un moment zăriiŭ o mică rază de lumină dintr′un felinar purtativ... era bătrînul temnicer... el aducea ceva într'un coşuleţ... înnaintea doĭ treĭ pașĭ, și se opri să asculte; dar ne auzindumă nicĭ de cum respirînd, începu să mă strige încet:</p>
+            <p>După miezul nopți auziiŭ oare-care sgomot la ușa prințipală a temniți... ea se deșkise binișor și cine-va se strecurase în lăuntru... după un moment zăriiŭ o mică rază de lumină dintr′un felinar purtativ... era bătrînul temnicer... el aducea ceva într-un coşuleţ... înnaintea doĭ treĭ pașĭ, și se opri să asculte; dar ne auzindumă nicĭ de cum respirînd, începu să mă strige încet:</p>
             <p>— Ăre! femeiă!.. ăre! femeiă.., maĭ trezește la tine?.. unde eștĭ?.</p>
             <p>Eŭ abia pututŭ să articulez cîte-va vorbe; atît de mare sfîrșanie aveam.</p>
             <p>Atuncĭ el se apropie de mine și puse coșiulețu jos la picioarele mele.</p>
@@ -1029,10 +1030,10 @@
             <p>În noaptea viitoare iarășĭ neam întâlnit; însă de astă dată venise numaĭ fata singură. Temnicerul îĭ oferise keia secretă; după această kee să maĭ făcuse și alta pe care mĭ-o dete Amina mie, ca să pocŭ intra și eŭ în cabinetul eĭ or și cînd mi-ar plăcea. — Cu kipul acesta am viețuit optŭ anĭ de zile, fără ca să dăm cea maĭ ușoară bănuială.</p>
             <p>Veneam una la alta și zioa kiar; căcĭ Amina cîștigase prin aur pe toțĭ paznici haremuluĭ și nimenĭ nu se gîndea să spioneze cabinetul fiĭci luĭ Pașa.</p>
             <p>În dieastima acestu-ĭ timp îndelungat, am avut destulă vreme să inspir fiĭci mele sentimentele cele maĭ religioase și să o fac să cunoască cu desăvîrșire sîntele ordinĭ ale Evangelii, pentru care ea arătase o aplecare firească; iar secretul de mumă îl păstram spre a ĭ-l desvăli numaĭ la ultima mea oră.</p>
-            <p>Dar într′o noapte fatală cînd Amina să afla la mine, de-o-dată ne pomenirăm cu Pașa în temniță... nu știŭ prin care trădare descoperise el locul refugiuluĭ nostru... ce s'a maĭ întîmplat atuncĭ, nu pocŭ să-mĭ aduc aminte; atîta știu că am fost înkisă într′un sac și osîndită a mă arunca în Dunăre.</p>
+            <p>Dar într′o noapte fatală cînd Amina să afla la mine, de-o-dată ne pomenirăm cu Pașa în temniță... nu știŭ prin care trădare descoperise el locul refugiuluĭ nostru... ce s-a maĭ întîmplat atuncĭ, nu pocŭ să-mĭ aduc aminte; atîta știu că am fost înkisă într′un sac și osîndită a mă arunca în Dunăre.</p>
             <milestone unit="section" n="37"/>
             <p>XXXVII.</p>
-            <p>Acum aĭ auzit toată istoriea mea bravule general... domniea-ta trebue să știĭ maĭ bine prin ce minune cerească am scăpat din fluviŭ, și m'am tran-smis aicĭ în centrul comfraților meĭ?.. Dar vaĭ! o! nobilule general... în loc de a mă consola pentru libertatea mea, din contra eŭ sufer foarte mult!.. despărțirea de iubita mea fiĭcă, este un supliciŭ din cele maĭ teribile pentru mine... Vaĭ! eŭ nu pocŭ să cunosc soarta eĭ... nu știŭ ce s′o fi maĭ întîmplat după condamnarea mea!.. în sfîrșit, nu știŭ daca scumpa mea copilă eczistă încă, saŭ mîniea fierosuluĭ Pașă... o! nul.. Dumnezeul meŭ! Dumnezeul meŭ!.. cînd mă gîndesc la evenimentul acesta, mi să rupe inima... Vaĭ! Anico! Anico! unde te afli tu acum scumpa mea?.. oh! căcĭ nu am o putere supra-umană să devin soarta ta!.. căcĭ nu pocŭ să sbor pe undele aerine, ca să te revăz și să te liberez... din înkisoare poate...o! tu bravule generaĭ!.. o tu liberatorul meŭ, fiĭ te rog și al fiĭci mele... ea este așa de jună și frumoasă... o! cînd aĭ cunoaștu-o, n′aĭ maĭ îtîrziea nicĭ un moment de a o libera!...</p>
+            <p>Acum aĭ auzit toată istoriea mea bravule general... domniea-ta trebue să știĭ maĭ bine prin ce minune cerească am scăpat din fluviŭ, și m-am tran-smis aicĭ în centrul comfraților meĭ?.. Dar vaĭ! o! nobilule general... în loc de a mă consola pentru libertatea mea, din contra eŭ sufer foarte mult!.. despărțirea de iubita mea fiĭcă, este un supliciŭ din cele maĭ teribile pentru mine... Vaĭ! eŭ nu pocŭ să cunosc soarta eĭ... nu știŭ ce s′o fi maĭ întîmplat după condamnarea mea!.. în sfîrșit, nu știŭ daca scumpa mea copilă eczistă încă, saŭ mîniea fierosuluĭ Pașă... o! nul.. Dumnezeul meŭ! Dumnezeul meŭ!.. cînd mă gîndesc la evenimentul acesta, mi să rupe inima... Vaĭ! Anico! Anico! unde te afli tu acum scumpa mea?.. oh! căcĭ nu am o putere supra-umană să devin soarta ta!.. căcĭ nu pocŭ să sbor pe undele aerine, ca să te revăz și să te liberez... din înkisoare poate...o! tu bravule generaĭ!.. o tu liberatorul meŭ, fiĭ te rog și al fiĭci mele... ea este așa de jună și frumoasă... o! cînd aĭ cunoaștu-o, n′aĭ maĭ îtîrziea nicĭ un moment de a o libera!...</p>
             <milestone unit="section" n="38"/>
             <p>XXXVIII.</p>
             <p>Inima generaluluĭ Radu era dominată de un amor înflăcărat în momentul acela.</p>
@@ -1065,7 +1066,7 @@
             <p>De cu seară și pînă noaptea tîrziŭ, s′a ținut un consiliŭ de resbel între faimoși căpitanĭ supt prezidarea luĭ Mihaiŭ.</p>
             <p>În cele din urmă se dete sentința majorități, ca să se atace fortereța nemică din doă părțĭ.</p>
             <p>„Mîĭne, zicea Mihaiŭ, la primele raze ale aurori, fițĭ gata de năvală... mîĭne va fi o zi de muncă și de resbel!.. mîĭne se va vedea ce poate romînul cînd se hotăraște... eĭ bine, mergețĭ fie-care de vă adunațĭ puterile și pregătițĭ pe soldați voștri.</p>
-            <p>Adunapța se sparge, șefi se răspîndesc, și tromba de resbel anunță înnarmarea generală... toțĭ lucrează și să pregătesc... o mie de strigărĭ repetează d'odată: la arme! la arme!...</p>
+            <p>Adunapța se sparge, șefi se răspîndesc, și tromba de resbel anunță înnarmarea generală... toțĭ lucrează și să pregătesc... o mie de strigărĭ repetează d-odată: la arme! la arme!...</p>
             <milestone unit="section" n="3"/>
             <p>III.</p>
             <p>Din partea cea maĭ naltă a întăririlor, Înfideli nu scapă din vedere mișcările romînilor; eĭ ațintă privirile lor și slobod strigărĭ profane!.. dealurile și văile resună de ultragele și blesfamele lor... însă ele să pierd în aer, ca și slaba ciripire a păsărilor!</p>
@@ -1624,7 +1625,7 @@
             <p>— Nu cumva, zise el, denărtarea părinteluĭ tăŭ îțĭ cauzează neodină?.. dar el este în securitate scumpa mea.</p>
             <p>— Atît maĭ răŭ! adăogă bătrînul căpitan. Asta ne privește maĭ mult pe noĭ amîndoĭ generale. Eŭ sînt bine încredințat că acest enemic nu va sta cu mîĭnile ′n sîn... și noate să ne dea de lucru cît de curînd.</p>
             <p>Buzescu să face că nu aude internretarea bătrînuluĭ săŭ camarad, și urmează a întreba pe Amanta sa.</p>
-            <p>— Palmira cel ce a fost conductorul Pași m′aŭ asigurat nrea mult, și l′am trimis ca să te informezĭ maĭ bine... venit'a el oare?...</p>
+            <p>— Palmira cel ce a fost conductorul Pași m′aŭ asigurat nrea mult, și l′am trimis ca să te informezĭ maĭ bine... venit-a el oare?...</p>
             <p>— Ce fel? zise Amina; el era venit după ordinul vostru generale?..</p>
             <p>— Așa scumpa mea!</p>
             <p>— Mizerabilul!.. eŭ nu l′am crezut.</p>
@@ -1672,7 +1673,7 @@
             <p>— Cît eștĭ tu de incredulă scumpă copilă;— dar află că Princesa Florica este adorată de fratele meŭ Stroe Buzescu... el o iubește cu aceia-șĭ pasiune, precum te iubesc și eŭ pe tine; Iată în fine o imposibilitate mare și naturală contra bănuelelor tale.</p>
             <p>Amina se liniștește și oki săĭ încetară de a maĭ lăcrăma.</p>
             <p>— Adevărat Padule?... va să zikă faptele vostru este care iubește pe Princesa, iar nu tu?.. oh!; îțĭ mărturisesc! îțĭ mărturmsescde o mie de orĭ... ertare adorabilul meŭ amante!... nemăsurata iubire ce nutresc pentru tine în centrul inimiĭ mele, m a făcut să daŭ oare-care încredere unor calomniĭ rostite de un mizerabil; dar tu mă erțĭ nu este așa?..</p>
-            <p>Padul răspunde printr'o noă îmbrăţişare.</p>
+            <p>Padul răspunde printr-o noă îmbrăţişare.</p>
             <p>— Să te iert zicĭ tu?.. te maĭ îndoeștĭ scumpa mea?.. eŭ sînt în stare să mor de întristare numaĭ pentru cea maĭ mică suferință ce așŭ zări pe încîntătoarea ta față!..</p>
             <p>Ambi logodnicĭ se contamplă încîntați de bucurie, și inimile lor palpită într′o unire.</p>
             <p>Amina desvelește intriga mizerabiluluĭ Palmira ce voise a face între dînșiĭ, și proectul de revoltă ce meditase acest trădător în contra cause-ĭ romînilor.</p>
@@ -1879,7 +1880,7 @@
             <milestone unit="section" n="34"/>
             <p>XXXV.</p>
             <p>Un delir Ardinte se învîrtea, prin creeri capuluĭ bătrînuluĭ Mustafa. Rațiunea sa era maĭ de tot perdută în momentele acestea și nu putea să rostească o singură parolă... el strîngea pe Amina la sînul săŭ cu vigoare, încît biata copilă era amerințată d′a-șĭ perde respirația. — după un moment i se liberează vocea.</p>
-            <p>„Fiĭca mea! fiĭca mea! — rosti el cu o voce skimbată și tremurîndă, avîndu-șĭ privirea țintată într′un colț al cameri. — „Îmbrățișază-mă fiica mea... noĭ acum sîntem aproape de fatala ușă a mormîntuluĭ!.. iată′l!.. Iată′l că să deșkide... o!.. o!.. Vezĭ tu fiĭcă ingrată!..vezĭ tu acea fantoma ce apare din acel haos subteran?.. ea poartă o haĭnă sîngerată... cunoștĭ tu cine este astă fantomă?.. este umbra luĭ Ali! umbra fiuluĭ meŭ cel iubit... iată... iată cum ne arată vulna omorîtoare din partea stîngă... Priveşte peleguit'o posomorîta sa frunte... el cere răsbunare!.. răsbunarea ce i-am promis a face d′asupra mormîntuluĭ săŭ... dar eaĭ! eŭ n′am putut îndeplini ultima sa dorință!..so! blestem!.. blestem!..</p>
+            <p>„Fiĭca mea! fiĭca mea! — rosti el cu o voce skimbată și tremurîndă, avîndu-șĭ privirea țintată într′un colț al cameri. — „Îmbrățișază-mă fiica mea... noĭ acum sîntem aproape de fatala ușă a mormîntuluĭ!.. iată′l!.. Iată′l că să deșkide... o!.. o!.. Vezĭ tu fiĭcă ingrată!..vezĭ tu acea fantoma ce apare din acel haos subteran?.. ea poartă o haĭnă sîngerată... cunoștĭ tu cine este astă fantomă?.. este umbra luĭ Ali! umbra fiuluĭ meŭ cel iubit... iată... iată cum ne arată vulna omorîtoare din partea stîngă... Priveşte peleguit-o posomorîta sa frunte... el cere răsbunare!.. răsbunarea ce i-am promis a face d′asupra mormîntuluĭ săŭ... dar eaĭ! eŭ n′am putut îndeplini ultima sa dorință!..so! blestem!.. blestem!..</p>
             <p>În furia acestu-ĭ delir, trage hangeru de la cingătoare cu o așa de mare iuțeală, în cît Amina nu putu să zărească lucirea fieruluĭ omorîtor.</p>
             <p>— Amino! zise el, este adevărat că tu vreĭ să abandonezĭ legea sîntă a mareluĭ profet și să te însoțeștĭ cu Radu Buzescŭ?</p>
             <p>— Așa iubite tată; am venit să-mĭ daĭ binecuvîntarea ta părintească.</p>

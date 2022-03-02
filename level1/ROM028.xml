@@ -11,7 +11,7 @@
       <fileDesc>
          <titleStmt>
             <title>Suflete obosite: ediție ELTeC</title>
-            <author>Nottara, Constantin I.A. (1872-1923)</author>
+            <author>Nottara, Constantin I.A. (1872-l923)</author>
             <respStmt>
                <resp>Codare ELTeC</resp>
                <name>Roxana Patras</name>
@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2021-04-09"/>
+            <date when="2022-03-02"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -63,6 +63,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [’'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checkUp script for new release</change>
          <change when="2020-11-14">Converted by checkUp script for new release</change>
@@ -527,7 +528,7 @@
             <p>In galeria vechie, bătrânească, unde se păstrau cu religiositate, tablourile şi rămăşiţele strămoşilor, rămânea ceasuri întregi cu pensula în mână, observând trăsăturile fine, delicate ale acelei figuri cu fruntea albă, mică, încadrată de un păr negru, lins, ochi mari negri, umezi, luminând o faţă albă, palidă, umbrită de gene lungi şi codate...</p>
             <p>Buzele mici, roşii, sângerânde, strânse în unghiul gurei ca de dureri şi patimi ascunse, reamintea în tot chipul de curtezană al domniţei Maria...</p>
             <p>Se uita acolo ceasuri întregi, se pătrundea aşa de mult de viaţa acelui tablou, în cât credea că este pictat pe acea pânză veche... Treceau zilele fără să bage de seamă, abia putea din când în când, deşteptată din visuri, să arunce două trei trăsături de pensulă, pe pânză.</p>
-            <p>De desuptul tabloului era scris: <title>Domniţa Ruxanda 1720-1744 (Veneţia. R. S.)</title>
+            <p>De desuptul tabloului era scris: <title>Domniţa Ruxanda 1720-l744 (Veneţia. R. S.)</title>
             </p>
             <p>Halucinată, i se părea că buzele încep sa mişte, ochii clipeau. Imaginea se transforma în viziune, încetul cu încetul, vedea înaintea iei propria`şi făptură. Era atâta asemănare între imaginea colorată a domniţei Ruxanda şi prinţesa Maria, în cât, când viziunea se transforma într`o făptură aiodoma cu a iei, îşi acoperea ochii cu mâinile, arunca pensula şi colorile. Se speria, scotea câte un strigăt ascuţit şi fugea departe în odăile mari şi pustii de oameni, ale vechiului castel boeresc...</p>
             <p>Toţi strămoşii îşi scriseseră biografiile şi actele săvârşite în viaţă în albumul familiei, dar despre viaţa domniţei Ruxanda, nu se pomenea nimic; lipsea şi din album şi din bibliotecă. Nici în operile create de strămoşi: literaţi, istorici, oamenii de stat, archimandriţi şi chiar voevozi, nu găsise o aluzie, o amintire despre acea fiinţă. Toţi păstraseră o tăcere adâncă împrejurul iei.</p>
@@ -1377,7 +1378,7 @@
             <quote xml:lang="la">
                <p>Servus Dei</p>
                <p>Ego Princeps Ioanes Mavrodi Varzarus Fecit</p>
-               <p>1712-1763</p>
+               <p>1712-l763</p>
             </quote>
             <p>Urmau apoi jos, săpate în piatră de marmoră numele tuturor membrilor familiei, îngropaţi acolo. Pe altă piatră de marmură aşezată orizontal, de-asupra criptei, erau săpate următoarele cuvinte emignatice, din <title>„De Carne Christi”</title> a lui Tertulianus:</p>
             <quote xml:lang="la">
@@ -1835,7 +1836,7 @@
          <div type="chapter" n="19">
             <head>XIX.</head>
             <p>Şease luni se scurseseră, de când Alexe Comnean era oaspele lui Zamfir Voilă, la moşia părintească. Rana făcută în dreptul inimei, într`un moment de halucinaţie voluptoasă, cu stiletul de vânătoare, se cicatrizase. Fusese găsit de tânăra prinţesă Maria, mai mult mort, înotând în sânge, la picioarele statuiei. Domniţa căzuse bolnava de atâta emoţiune şi plecase la Berlin.</p>
-            <p>Inainte, înştiinţase pe Zamfir Voilă, despre sta rea sânătăţei lui Alexe. El venise sâ-1 ia la ţară, în căutarea lui. Transportat cu toate ingrijirile medicale, în urma plecărei domniţei Maria la Berlin, Alexe Comnean, căzuse de două ori în nesimţire. Rana nu fusese gravă, dar sângele scurs, îl pusese în neputinţă de a mai putea vorbi, de-a se ţine pe picioare. După câte-va injecţii cu cafeina, se trezise.</p>
+            <p>Inainte, înştiinţase pe Zamfir Voilă, despre sta rea sânătăţei lui Alexe. El venise sâ-l ia la ţară, în căutarea lui. Transportat cu toate ingrijirile medicale, în urma plecărei domniţei Maria la Berlin, Alexe Comnean, căzuse de două ori în nesimţire. Rana nu fusese gravă, dar sângele scurs, îl pusese în neputinţă de a mai putea vorbi, de-a se ţine pe picioare. După câte-va injecţii cu cafeina, se trezise.</p>
             <p>Doctorii căutară să`i ascunză boala nervoasă de care suferea. Prinţesa Maria plecase la Berlin, sub îngrijirea bătrânului doctor al familiei Mavrodi, în tovărăşia unei tinere guvernante engleze, intrată în serviciul lor, pe când se găseau la Florenţa.</p>
             <p>După o săptămână de friguri violente, de aiurări teribile de visuri urâte, pline de crime îngrozitoare, Alexe se întremă şi intră în covalescenţă.</p>
             <milestone unit="section" rend="blankLine"/>

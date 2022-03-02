@@ -1,6 +1,9 @@
 <!-- Fix some small errors in ELTeC-rom level1:
-     - U+00A0 NO-BREAK SPACE to ordinary space
-     - remove leading and trailing blanks
+     - U+00A0 NO-BREAK SPACE to ordinary space (done in previous run)
+     - remove leading and trailing blanks (done in previous run)
+     - fix gap attributes
+     - replace '-1' with '-l'
+     - replace ’ with ' when used for contractions with '-'
 -->
 <xsl:stylesheet version="2.0"
 		xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
@@ -12,7 +15,7 @@
 		exclude-result-prefixes="xs h tei eltec">
 
   <xsl:output indent="yes"/>
-  <xsl:param name="change">Replaced ’ with ' and fixed gaps</xsl:param>
+  <xsl:param name="change">Fixed gap attributes, replaced '-1' with '-l' and [’'] when used for contractions with '-'</xsl:param>
   
   <xsl:variable name="Today" select="substring-before(current-date() cast as xs:string, '+')"/>
 
@@ -39,6 +42,14 @@
   <xsl:template match="processing-instruction()">
     <xsl:copy-of select="."/>
     <xsl:text>&#10;</xsl:text>
+  </xsl:template>
+
+  <xsl:template match="text()">
+    <xsl:value-of select="replace(
+			  replace(., 
+			  &quot;(\p{L})[’'](\p{L})&quot;, 
+			  &quot;$1-$2&quot;),
+			  '-1', '-l')"/>
   </xsl:template>
 
   <xsl:template match="tei:gap">
@@ -97,10 +108,6 @@
     </xsl:copy>
   </xsl:template>
   
-  <xsl:template match="text()">
-    <xsl:value-of select="replace(., '’', &quot;'&quot;)"/>
-  </xsl:template>
-
   <!-- Did this in 
        https://github.com/COST-ELTeC/ELTeC-rom/commit/c06108f7f21e1fa50423eb4ac8cfee752c50ce99
   <xsl:template match="text()">

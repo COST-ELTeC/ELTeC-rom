@@ -11,7 +11,7 @@
       <fileDesc>
          <titleStmt>
             <title>Vlăsia sau ciocoii noi: ediție ELTeC</title>
-            <author>Grandea, Grigore H. (1843-1897)</author>
+            <author>Grandea, Grigore H. (1843-l897)</author>
             <respStmt>
                <resp>codare ELTeC</resp>
                <name>Ioana Lionte</name>
@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2021-04-09"/>
+            <date when="2022-03-02"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -70,6 +70,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [’'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checkUp script for new release</change>
          <change when="2020-11-14">Converted by checkUp script for new release</change>
@@ -96,7 +97,7 @@
             <p>Aflînd că este să se vînză prin licitaţie averea mobilă a repauzatului Episcopul X, cunoscut prin amestecul său în afacerile politice şi galante, m-am dus şi eu cu speranţa d-a cumpăra vreuna din frumoasele imamele de chihlimbar ce ştiam că are.</p>
             <p>Dar vai!... Deşi nu împliniseră nici trei luni de cînd sufletul repauzatului îşi luase zborul din această vale, care fusese pentru preasînţia-sa înflorită cu toate plăcerile şi dezmierdările lumeşti, şi mai nimic nu rămăsese din acea mulţime de lucruri cari încîntau ochii prin frumuseţea lor! Mai toate se topiseră sau se schimbaseră... poate, de dorul repauzatului. Argintul, chihlimbarul, aurul, mărgăritarul, rubinul, smaraldul, prin o minune, care numai cerească nu putea fi, se schimbaseră în metaluri şi pietre proaste.</p>
             <p>Ceea ce m-a minunat şi mai mult, a fost metamorfozarea frumoşilor săi cai, cari cîteva zile mai înainte mîncau foc, iar acum abia se ţineau pe picioare. Ceva mai mult: se schimbaseră şi la păr.</p>
-            <p>După încheierea cuvenitului proces-verbal în care se constată că sigilele s-au aflat neatinse şi toate lucrurile după inventar la locul lor, începu’licitaţia.</p>
+            <p>După încheierea cuvenitului proces-verbal în care se constată că sigilele s-au aflat neatinse şi toate lucrurile după inventar la locul lor, începu-licitaţia.</p>
             <p>Telalul, adresîndu-se cu lacrimile în ochi, către portărel şi grefier, ceru să se dea precădere cailor, căci picioarele lor tremurînde reclamau c-o oră mai curînd mila vreunui sacagiu sau căruţaş. Cererea telalului se împlini şi cei şase cai ai p.s.-sale Episcopului X, cari fuseseră admiraţi în toată capitala, fură vînduţi cu cîte 50 lei bucata!</p>
             <p>Nu voiam să plec fără a cumpăra ceva... Dar ce?... Cele mai frumoase lucruri pe cari le admirasem la preasînţia-sa, acum nu le mai vedeam, deşi erau toate la facerea inventarului şi punerea sigilelelor...</p>
             <p>— Un anteriu de atlaz vişiniu, — strigă telalul, — nou nouleţ. Cine-l vrea?</p>
@@ -104,7 +105,7 @@
             <p>— Cumpără-l, domnule, căci ce mai halat ai face dintr-însul!... Ia pipăie materia!...</p>
             <p>Şi pentru că telalul mi-l întinse, pipăii şi eu mătasea. Se întîmplă s-o pipăiesc tocmai în dreptul buzunarului. Simţii un pachet de hîrtii într-însul.</p>
             <p>„Ce hîrtii or fi acelea?” — mă întrebai în mine, şi sub îndemnul curiozităţei, dădui un preţ.</p>
-            <p>Nefiind alt muşteriu, mai cu seamă că eu dădusem un preţ cam mare, telalul, după strigările legiuite, mi-1 aruncă pe umeri.</p>
+            <p>Nefiind alt muşteriu, mai cu seamă că eu dădusem un preţ cam mare, telalul, după strigările legiuite, mi-l aruncă pe umeri.</p>
             <p>Plătii şi mă retrăsei din mijlocul mulţimei. Scosei iute din anteriu pachetul de hîrîtii şi-l pusei în sînu-mi. Căutînd şi în celălalt buzunar şi neaflînd nimic, aruncai anteriul spre telal peste capetele mulţimei. Bietul anteriu ajunse să fie călcat în picioare.</p>
             <p>După ce m-am depărtat, mi-am dat seama că fapta mea era o hoţie curată. M-am liniştit însă cînd, scoţînd pachetul, am văzut că era un caiet scris tot mărunt, iar pe întîia faţă aceste cuvinte scrise de chiar mîna episcopului:</p>
             <p>„<title>Vlăsia sau ciocoii noi</title>, carte pentru călăuzirea nepoţilor mei în lume.”</p>
@@ -204,7 +205,7 @@
                <p>— Baboi, în halul acesta la nouă ore de dimineaţa?.. Iar te va trînti la arest Solomon, cînd va afla.</p>
                <p>— De acum nainte, răspunse numitul Baboi, arun-cîndu-şi rondul pe pat şi oprindu-se în mijlocul camerei cu mînele în buzunar, adio armată, adio viaţă semănată cu romanţuri amoroase; m-am săturat şi de una şi de alta. Vreau să renasc pentru o nouă viaţă. Dar ca să pot face aceasta, Sclipici, tu care eşti un Cresus pe lîngă golanii ca mine, trebuie să mă împrumuţi cu un irmilic.</p>
                <p>Zicînd acestea, trase un scaun de brad, încălică 40 pe el, îşi rădică la spate cămaşa pentru a nu-i atinge pielea şi rezimînd braţele pe spatele scaunului, se uită lung la acela pe care-l numise Sclipici.</p>
-               <p>Acesta se duce la pat, scoate de sub perină o pungă de mătase verde, ia dintr-însa un icosar şi i-1 pune în mînă.</p>
+               <p>Acesta se duce la pat, scoate de sub perină o pungă de mătase verde, ia dintr-însa un icosar şi i-l pune în mînă.</p>
                <p>Baboi se uită la icosar, îl întoarce, se uită, iar îl întoarce, iar se uită; apoi rădicînd ochii la cel care i-l dase zice:</p>
                <p>— Dacă mi-ai fi dat un firfiric, nu mai stăm la îndoială; dar cînd îmi dai un icosar, am tot dreptul d-a te întreba: Calp este?</p>
                <p>— Calpunzanule, răspunse Sclipici, zîmbind, nu visezi decît calpunzanlîcuri...</p>
@@ -274,7 +275,7 @@
                <p>— Ce să ascult?.. Calul meu, unde este calul meu?</p>
                <p>— Aşteaptă să vezi...</p>
                <p>— Nu vreau să văz nimic, fanariot blăstemat, răcnea bietul tînăr, ameninţînd cu pumnii şi bătînd din picior. Avea dreptate bătrînul Golescu cînd îmi spunea că înhăitarea cu tine mă va duce la ocnă... Cum, şi pe mine, care-ţi eram singurul amic, să mă furi? Ieşi din casa mea, să nu te mai văz.</p>
-               <p>Şi bietul Sclipici, fără milă de spinarea amicului său, începu a-i da ghionturi şi a-1 îmbrînci spre uşă. Îl vătămase la pungă şi acuma nu mai vrea să ştie nici de amicie, nici de patrie, nici de nimic. Baboi însă, în loc d-a ieşi, se detc după uşă, apucă iute o sabie şi se puse în apărare. Apoi, văzîndu-se liber, înfipse sabia în seînduri, puse o mînă în şold şi uitîn-du-se cu mîndrie la amicul său, îi zise:</p>
+               <p>Şi bietul Sclipici, fără milă de spinarea amicului său, începu a-i da ghionturi şi a-l îmbrînci spre uşă. Îl vătămase la pungă şi acuma nu mai vrea să ştie nici de amicie, nici de patrie, nici de nimic. Baboi însă, în loc d-a ieşi, se detc după uşă, apucă iute o sabie şi se puse în apărare. Apoi, văzîndu-se liber, înfipse sabia în seînduri, puse o mînă în şold şi uitîn-du-se cu mîndrie la amicul său, îi zise:</p>
                <p>— Dacă nu ţi-a plăcut de bună voie, acum de frică ascultă istoria spinărei mele.</p>
                <p>Şi rezimîndu-se în sabie urmă:</p>
                <p>— Soldatul mi-aduse calul, pusei să-l plimbe în sus şi în jos pe la ferestrele ei, apoi îl legă lîngă uluci. Stătui mereu la fereastră, uitîndu-mă cu durere la cal şi din cînd în cînd ştergîndu-mi ochii. După ce apuse soarele şi începu a însera, luai un pistol, ieşii din casă, sărutai calul, zisei şi soldatului să-l sărute, apoi mă retrăsei pe prispa casei, de unde mă vedea Corina care sta la fereastră. încarc pistolul, pun mîna la inimă, îmi şterg ochii... Mă uit la ea... Se uită cu nepăsare... Nici un semn d-a mă opri. Întind pistolul spre cal... Rădic ochii iar spre fereastra ei..., aceeaşi nepăsare, nici un semn... Atunci...<hi>bang!</hi>Calul sare în sus şi cade la pămînt.</p>
@@ -398,7 +399,7 @@
                <p>Dar cel din urmă cuvînt fu înecat de iataganul cu care Zefchide lovi în faţă pe Tudor. Sîngele ţîşni şiroaie şi stropi pe călău. Loviturile urmară cu turbare. Martirul se împletici cîtva pe picioare, apoi căzu într-un lac de sînge.</p>
                <p>Unul din ceilalţi greci, văzînd cît de stîngaci era călăul, şi pentru a curma grozava agonie a lui Tudor, care gemea şi sforăia, săltînd în sînge, se apropie şi c-o lovitură îi tăie capul... Peste un minut cu aburul sîngelui se înălţa la cer şi sufletul marelui patriot. Zgomotul acestei tragedii deşteptase cîteva privighetori, cari chiar atunci începură să cînte în sălcii.</p>
                <p>Iată cine a fost tatăl.</p>
-               <p>Cine este fiul?... Urmăreşte-1 şi vei vedea că fiul. Baboi Zefchide, va fi şi el cel mai dîrz contra românilor şi mai cu seamă contra lui Dimitrie Gimpa.</p>
+               <p>Cine este fiul?... Urmăreşte-l şi vei vedea că fiul. Baboi Zefchide, va fi şi el cel mai dîrz contra românilor şi mai cu seamă contra lui Dimitrie Gimpa.</p>
                <p>De ce? Pentru că aşa a voit Dumnezeu, ca: ce naşte din pisică şoareci să mînce, viciuri şi virtuţi să se transmită moştenire din tată în fiu.</p>
             </div>
             <div type="chapter">
@@ -406,7 +407,7 @@
                <p>— Cine este fiul? strigă Catina mişcat de istoria uciderei marelui român. Era de prisos a-mi mai spune. Cînd cunosc pe tatăl, înţeleg ce trebuie să fie şi fiul.</p>
                <p>— Aşa este, adăugă părintele Dionisie; dar în copi-lăria şi tinereţea lui Baboi sînt lucruri atît de hazlii, încît ar fi păcat să nu le ştii.</p>
                <p>— După cele ce mi-ai spus despre Tudor, nu sînt dispus a face haz.</p>
-               <p>— Acum cînd ştii cum îl cheamă, pe oricine vei întreba despre dînsul, îţi va spune ore întregi. Este cunoscut în tot oraşul ca un cal breaz. Numai tu care ai trăit retras, n-ai auzit de comediile lui Baboi. Tre-buie să ştii însă că toate lacrimile mamei şi stăruinţele rudelor lui, de a-1 face să înveţe ceva în colegiul Sîntul Sava, au rămas în zadar. A trecut prin clase ca cînele prin apă, făcînd desperarea familiei şi profesorilor lui. într-o zi Aristia, mustrîndu-1 pentru lene şi nebunie, îi zise: „Nici de sacagiu nu vei fi bun în această ţară. A doua zi Baboi, numai în cămaşă, cocoţat p-o saca, intră în curtea colegiului şi propune directorului să aducă el apă zilnic cu preţul jumătate. Şi cîte alte nebunii mai boacăne decît aceasta!</p>
+               <p>— Acum cînd ştii cum îl cheamă, pe oricine vei întreba despre dînsul, îţi va spune ore întregi. Este cunoscut în tot oraşul ca un cal breaz. Numai tu care ai trăit retras, n-ai auzit de comediile lui Baboi. Tre-buie să ştii însă că toate lacrimile mamei şi stăruinţele rudelor lui, de a-l face să înveţe ceva în colegiul Sîntul Sava, au rămas în zadar. A trecut prin clase ca cînele prin apă, făcînd desperarea familiei şi profesorilor lui. într-o zi Aristia, mustrîndu-l pentru lene şi nebunie, îi zise: „Nici de sacagiu nu vei fi bun în această ţară. A doua zi Baboi, numai în cămaşă, cocoţat p-o saca, intră în curtea colegiului şi propune directorului să aducă el apă zilnic cu preţul jumătate. Şi cîte alte nebunii mai boacăne decît aceasta!</p>
                <p>— Nu înţeleg uşurinţa unora d-a face haz de nişte fapte cari, departe d-a proba spirit, nu probează decît o mare lipsă de simţ moral şi de cuviinţă!</p>
                <p>— Celalalt, urmă părintele Dionisie, deşi are o înfăţişare mai cuviincioasă, nu este însă mai bun decît el, ba încă pot zice că-l întrece în răutate, viclenie, ură şi încăpăţînarea d-a se amesteca în toate. El se numeşte Iancu Sclipici. Părintele lui era bulgar de la Plevna. Venind în ţară, s-a însurat cu fata unui român. Fiul pretinde că era fată de boier. Sîntul adevăr este că era fata unui negustor de la Gruia. Dar ascultă convorbirea ce începe acum între Baboi şi Sclipici. Este interesantă pentru tine, care vrei să vezi limpede evenimentele cari se vor desfăşura în această ţară.</p>
                <p>În adevăr, uşa se deschise răpede şi Iancu Sclipici intră supărat.</p>
@@ -731,9 +732,9 @@
                <p>În deşert încăpăţînarea unor vechi boieri şi apărători ai privilegiilor, adăuga sfîrcuri la biciul renumitului Căpitan Costache, mîna de fier a poliţiei de atunci, bucureştenii, nu numai nu se descurajau, dar se şi îndîrjeau a cîrti în gura mare.</p>
                <p>Baboi înţelesese îndată tot folosul ce putea trage pentru el şi ai săi din această fierbere a spiritelor.</p>
                <p>Fără să se tulbure dacă el şi Sclipici în cercul eliadiştilor nu insufla încredere, răcnea, ca cum ar fi trup şi suflet cu partidul naţional şi liberal. Lumea care nu ştia scopul acestei tactice din partea lui Baboi şi cum obiceiul ei este d-a se lua după cei cari fac mai multă larmă, căzu în laţele lui.</p>
-               <p>Îndată însă ce el văzu că numărul credincioşilor lui creşte, ajutat de împrejurările de mai sus; îndată ce văzu pe lîngă el şi cîţiva burtă-verde, tîrgoveţi cu dare de mînă şi bună-credinţă, el îşi croi o mască de patriot, liberal, naţional, neamic al oricărui privilegiu, şi al oricărui abuz, o mască pe care o punea oricînd se vedea faţă în faţă cu acei care-1 judecau după cuvinte; iar aşa cum era el din naştere şi creştere, nu se mai arăta decît acelora cu cari se înhăitase de la început şi pe cari acum nu mai putea să-i înşele.</p>
-               <p>Înzestrat cu toate calităţile cari fac pe comedian, îi fu foarte lesne să joace rolul: făţarnic, mincinos şi linguşitor cu cei buni şi drepţi; iar franc, neruşinat şi autoritar cu intimii săi, adică cu cei care-1 ştiau cine este.</p>
-               <p>Sclipici, în scurt timp, ajunse a-i fi un adevărat frate gemen, a-1 întrece chiar în unele privinţe, adică în ipocrizie, cutezanţă şi linguşeală.</p>
+               <p>Îndată însă ce el văzu că numărul credincioşilor lui creşte, ajutat de împrejurările de mai sus; îndată ce văzu pe lîngă el şi cîţiva burtă-verde, tîrgoveţi cu dare de mînă şi bună-credinţă, el îşi croi o mască de patriot, liberal, naţional, neamic al oricărui privilegiu, şi al oricărui abuz, o mască pe care o punea oricînd se vedea faţă în faţă cu acei care-l judecau după cuvinte; iar aşa cum era el din naştere şi creştere, nu se mai arăta decît acelora cu cari se înhăitase de la început şi pe cari acum nu mai putea să-i înşele.</p>
+               <p>Înzestrat cu toate calităţile cari fac pe comedian, îi fu foarte lesne să joace rolul: făţarnic, mincinos şi linguşitor cu cei buni şi drepţi; iar franc, neruşinat şi autoritar cu intimii săi, adică cu cei care-l ştiau cine este.</p>
+               <p>Sclipici, în scurt timp, ajunse a-i fi un adevărat frate gemen, a-l întrece chiar în unele privinţe, adică în ipocrizie, cutezanţă şi linguşeală.</p>
                <p>Dar cînd cetaşii văzură ce bine prinde pe conducătorii lor masca de patrioţi, îşi croiră şi ei cîte una pe care o purtau cum se pricepeau mai bine; aşa că peste vreo două luni, Băluţă, Diogenul din acea epocă, spuse lui Eliade, Teii, Bălcescu, Goleştilor şi altora, că propaganda naţională şi liberală a făcut atîta propăşire, îneît o mulţime de inşi, pe care-i ştia el spărgători de case şi biserici, s-au făcut cei mai ageri apă-rători ai libertăţei şi crede că într-o zi vor ajunge şi - apărătorii proprietăţei cînd vor începe să aibe şi ei ceva.</p>
                <p>Să-i fi văzut şi auzit pe la Cişmeaua Roşie, pe la Hanul Manuc, pe dealul Mitropoliei, cum dădeau din mîni şi picioare, cîrtind contra Domniei, contra Obşteş-tei Adunări, contra înaltului Divan, contra Visteriei, contra Carvasaralei, contra Spătăriei, te cruceai!</p>
                <p>Într-o zi Băluţă, după ce auzi pe Sclipici pălăvrind 10 vreo oră şi jumătate cu nişte plapomari de lîngă Hanu Roşu, îi zise:</p>
@@ -748,7 +749,7 @@
                <l>O prea drăgălaşă muză;</l>
                <l>Tu verşi glas ceresc din gură,</l>
                <l>Care inimile fură.</l>
-               <p>Cu chiu şi vai Sclipici ajunse a-şi mai drege puţin limba, dar aceasta numai cînd vorbea rar şi liniştit, îndată însă ce-1 aţîţa cineva, pelticăiala revenea iar. Şi era nemîngîiat de acest cusur, care făcea pe toţi ade-renţii să recunoască lui Baboi superioritate asupra lui.</p>
+               <p>Cu chiu şi vai Sclipici ajunse a-şi mai drege puţin limba, dar aceasta numai cînd vorbea rar şi liniştit, îndată însă ce-l aţîţa cineva, pelticăiala revenea iar. Şi era nemîngîiat de acest cusur, care făcea pe toţi ade-renţii să recunoască lui Baboi superioritate asupra lui.</p>
                <p>Afară de acest mic vierme încolo nimic nu tulbura frăţia de cruce dintre eroii noştri. Adevărul este că formarea coteriei le mergea găitan.</p>
                <p>Sclipici oricînd se afla singur cu Baboi, încrucişa braţele pe piept şi-i zicea:</p>
                <p>— Maie diac ai mai fost, Baboi!</p>
@@ -802,7 +803,7 @@
             </div>
             <div type="chapter">
                <head>ROBUL</head>
-               <p>Cu toate că era apusul soarelui, arşiţa era nesuferită, şi lucrul fiind o tortură, poporul se îndesea în gradinele umbroase. Grădina Giaferului era plină. Vedeai acolo din toate meseriile, bolţile şi curţile boiereşti. Fierarul cu figura pîrlită şi bucile umflate ca foile cu cari suflă în foc; pînzarul şi lipscanul cu anteriul şi mutra de ciocoi; căldărarul cu şorţul de piele neagră şi cu caucul învelit în pînză albă; tabaci, precupeţi, dulgheri şi zidari cu pantaloni largi şi încreţiţi pe pîntece; cu ilicul cusut în şnururi şi cu’epigrama pe buze; zaraful înotînd în şalvarii săi şi cu degetele numărînd camăta ce a cîştigat în acea zi; lăutarii cu anteriile şi dulamele lor, sunînd din viori ca să dea pofta vreunuia d-a-i pune să cînte pentru un ort; copii grămădiţi în jurul vreunui bragagiu; ţiganii curţilor boiereşti, umflîndu-se în pene ca să se cunoască că ţin de case mari; toate acestea făceau o împestriţă-tură ciudată, un vuiet de cîntece, chiote, certe, rîsuri şi glume, cum numai pe la bîlciurile oraşelor din judeţe mai aflăm. Mai adăugaţi apoi femeile cu costumul lor variat: ici fota de lînă cu colori, colo fusta de angină, dincolo rochia cocoanei sub care se mlădia corpul ţigancei; ţărani strecurîndu-se prin acest amestec cu sfiala în faţă şi cu căciula în mînă, tîrînd după ei cîte un copil uimit şi cu un şir de covrigi pe mînă. Apoi greci, armeni, unguri, bulgari, răţoindu-se prin mulţime.</p>
+               <p>Cu toate că era apusul soarelui, arşiţa era nesuferită, şi lucrul fiind o tortură, poporul se îndesea în gradinele umbroase. Grădina Giaferului era plină. Vedeai acolo din toate meseriile, bolţile şi curţile boiereşti. Fierarul cu figura pîrlită şi bucile umflate ca foile cu cari suflă în foc; pînzarul şi lipscanul cu anteriul şi mutra de ciocoi; căldărarul cu şorţul de piele neagră şi cu caucul învelit în pînză albă; tabaci, precupeţi, dulgheri şi zidari cu pantaloni largi şi încreţiţi pe pîntece; cu ilicul cusut în şnururi şi cu-epigrama pe buze; zaraful înotînd în şalvarii săi şi cu degetele numărînd camăta ce a cîştigat în acea zi; lăutarii cu anteriile şi dulamele lor, sunînd din viori ca să dea pofta vreunuia d-a-i pune să cînte pentru un ort; copii grămădiţi în jurul vreunui bragagiu; ţiganii curţilor boiereşti, umflîndu-se în pene ca să se cunoască că ţin de case mari; toate acestea făceau o împestriţă-tură ciudată, un vuiet de cîntece, chiote, certe, rîsuri şi glume, cum numai pe la bîlciurile oraşelor din judeţe mai aflăm. Mai adăugaţi apoi femeile cu costumul lor variat: ici fota de lînă cu colori, colo fusta de angină, dincolo rochia cocoanei sub care se mlădia corpul ţigancei; ţărani strecurîndu-se prin acest amestec cu sfiala în faţă şi cu căciula în mînă, tîrînd după ei cîte un copil uimit şi cu un şir de covrigi pe mînă. Apoi greci, armeni, unguri, bulgari, răţoindu-se prin mulţime.</p>
                <p>Ţiganii se răzbunau pe ţărani de epigramele cu cari aceştia îi înveninau cînd îi apucau la largul lor, la sate.</p>
                <p>Un ţăran june care ţinea de mină pe un altul bătrîn, socrul său, care şi el ţinea de mînă pe fiica lui, iar ea trăgînd un lanţ de copii care nu se mai tennina, şerpuia prin mulţime. Cel din cap striga din cînd în cînd pe cel din coadă, ca nu cumva să se rupă acel sînt lanţ al familiei.</p>
                <p>Un ţigan din curtea Bărcănescului, văzînd aceasta, începu a rîde şi a striga:</p>
@@ -839,7 +840,7 @@
                <p>— Nu faceţi păcat d-a vă atinge de pecetie că mă omoară cocoana.</p>
                <p>— Dar ce ai făcut, ca să te pedepsească atît de cumplit acea căţea! îl întrebă o femeie.</p>
                <p>— Vai! nimic. M-a chemat şi mi-a zis: „Stane, să alergi acum la postelniceasa Cecropide de la Mogo-şoaie, să-mi dea cîteva gogoşi din risticul cu care îşi face sprîncenele; de acolo să te întorci la serdăreasa Eftihia de la Radul-Vodă, să întrebi de unde ia roşu pentru obraz, şi să te duci să cumperi de unde îţi va zice; apoi să te întorci la Obor şi să-mi cumperi zece oca de floare de fîn, ca să fac baie; să te mai răpezi la serdăreasa Marghioala din Delea Veche, la clucereasa Catrina de la Stelea, la păhărniceasa Psihiţa din Armeni, la postelniceasa Cleopatra din Olteni, şi să le spuni că le aştept mîne seara la mine unde vor fi mai multe obraze mari.~ Uf! şi ca să mă întorc mai iute, pe această arşiţă, m-a pecetluit în cojoc.</p>
-               <p>— Bietul om! Ce cruzime! Boierii sînt mai răi decît tătarii! Ce va să zică a fi rob! exclamară cei care-1 înconjurau, şi din ochi le picară lacrimi.</p>
+               <p>— Bietul om! Ce cruzime! Boierii sînt mai răi decît tătarii! Ce va să zică a fi rob! exclamară cei care-l înconjurau, şi din ochi le picară lacrimi.</p>
                <p>— Dumnezeu să vă plătească de binele ce mi-aţi făcut, zise nefericita victimă a cochetăriei femeieşti, şi încărcîndu-se cu sacul în care era floarea de fîn, plecă împleticindu-se şi susţinut de cel care spusese istoria colonizării Greciei.</p>
                <p>Lumea se uită mult timp după dînşii, apoi schimbă uitături în cari puteai citi acea teribilă întrebare care 40 anunţă o adîncă zguduire socială: „Pînă cînd?~</p>
                <p>Junele Gimpa, cum ştim, plecase a mai vedea o dată steaua sufletului său. Ajungând în faţa locului unde strălucea iubita stea, înamoratul nostru, care de altminterea avea o tărie şi un curaj care l-ar fi făcut să urce treptele eşafodului fără a clinti măcar, se simţi însă atît de abătut şi sfiicios încît nu cuteză să intre pe poartă. Adevărata iubire, pe bărbatul cel mai cer-bicos şi cutezător îl face mai sfiicios decît o fată, mai stîngaci decît un copil. Numai cei cari simulează iubi-rea, în această împrejurare, sînt liniştiţi, siguri de ei şi dibaci în subjugarea inimei femeieşti.</p>
@@ -950,7 +951,7 @@
                <p>Tîrziu putu să se decidă a se întoarce la culcuşul lui.</p>
                <p>Din acea noapte casa Racoveanu deveni magnetul care-l atrăgea în neştire.</p>
                <p>Înamoratul nostru mereu îşi frămînta capul pentru a avea prilejuri d-a intra în casa marelui boier.</p>
-               <p>Primit cu bunăvoinţă, el avu fericirea d-a face cîţiva paşi în intimitatea copilei. Niciodată însă nu ieşi din buzele lui cel mai mic cuvînt, care ar fi putut trăda focul ce ardea într-însul; niciodată nu uită distanţa care-1 despărţea de aceea care se juca în cutele purpurei domneşti. Se mulţumea a-şi mîngîia dorul în singurătate. Iubea pe Smaralda cum ar fi iubit steaua care-i strălucea din nălţimea cerului. Toată fericirea lui era d-a o vedea din cînd în cînd, d-a se îmbăta de vocea ei. Zilele cînd o vedea, erau sărbătorile cele mari din calendarul vieţei sale.</p>
+               <p>Primit cu bunăvoinţă, el avu fericirea d-a face cîţiva paşi în intimitatea copilei. Niciodată însă nu ieşi din buzele lui cel mai mic cuvînt, care ar fi putut trăda focul ce ardea într-însul; niciodată nu uită distanţa care-l despărţea de aceea care se juca în cutele purpurei domneşti. Se mulţumea a-şi mîngîia dorul în singurătate. Iubea pe Smaralda cum ar fi iubit steaua care-i strălucea din nălţimea cerului. Toată fericirea lui era d-a o vedea din cînd în cînd, d-a se îmbăta de vocea ei. Zilele cînd o vedea, erau sărbătorile cele mari din calendarul vieţei sale.</p>
                <p>Acum să ne întoarcem la dînsul, căci l-am lăsat pîndind prin gardul ce înconjura locuinţa de vară a boierului Racoveanu. El voia să se desfăteze nevăzut de nimeni în contemplarea acelui cuib iubit, pînă cînd oarecare linişte se va face într-însul.</p>
                <p>Cînd se simţi mai sigur de el, intră în curte.</p>
                <p>Luminile se aprinseseră în acea locuinţă patriarhală.</p>
@@ -999,7 +1000,7 @@
                <p>— Dar ştii că mă ustură tălpile! zise Sclipici, rezi-mîndu-se de un arbor şi scuturîndu-şi picioarele. A-l urmări de la Sărindar pînă la Crucea de Piatră şi d-acolo pînă în valea Sîntului Elefterie, este un drum şi jumătate.</p>
                <p>— Oricum trebuie să fim mulţumiţi, adăugă Baboi, că în cele din urmă am izbutit să prindem unul care este curierul între Racoveanu şi conspiratori. De acum vodă şi consulul nu vor mai zice că conspiraţia nu se întinde şi între boieri, cînd chiar acum văzurăm pe Gimpa, care a fost azi la Eliade, Cîmpineanu şi Băl-cescu, că intră la Racoveanu.</p>
                <p>— Dar dacă se va afla ce rol am jucat noi în această afacere? — întrebă Sclipici...</p>
-               <p>— Ce rol!—răspunse Baboi. —Uiţi că eu către Olteniceanu, favoritul lui vodă şi credinciosul consulului, mi-am dat aerul că, dacă iau asupră-mi misia ce mi-au încredinţat, este numai pentru a-1 încuraja să se pună şi dînsul în capul mişcărei noastre! Ştiind că Racoveanu voieşte să tragă apa revoluţiei la moara lui, pentru ce Olteniceanu şi consulul n-ar trage-o la moara lor? Va fi o luptă dreaptă: care pe care!</p>
+               <p>— Ce rol!—răspunse Baboi. —Uiţi că eu către Olteniceanu, favoritul lui vodă şi credinciosul consulului, mi-am dat aerul că, dacă iau asupră-mi misia ce mi-au încredinţat, este numai pentru a-l încuraja să se pună şi dînsul în capul mişcărei noastre! Ştiind că Racoveanu voieşte să tragă apa revoluţiei la moara lui, pentru ce Olteniceanu şi consulul n-ar trage-o la moara lor? Va fi o luptă dreaptă: care pe care!</p>
                <p>— Bine, dar noi ce cîştigăm?</p>
                <p>— Sclipici, ţine minte cuvintele mele. Eşti o adevărată nulă şi nu ai altă valoare decît aceea care ţi-o dau eu. Ce cîştigăm? Iacă ce. Dacă revoluţia izbuteşte, rămînem bine cu capii ei, căci ne vom întrece a face gălăgie; dacă nu izbuteşte, atunci rămînem bine şi cu Domnia şi consulul, ca unii ce n-am ieşit din vorbele lui Olteniceanu şi l-am servit cu credinţă pînă în cele din urmă.</p>
                <p>— Îndrăcit ai mai fost, Baboi! exclamă Sclipici. A zis dracul şi te-ai făcut!</p>
@@ -1064,7 +1065,7 @@
                <p>Tocmai atunci boierul Vilara ieşea din biserică, înjurînd şi turbînd.</p>
                <p>— Iacă-l, cocoane! zise preotul descleştînd mîna din păr şi uitîndu-se cu mirare, cînd la mîna lui plină de unsoare, cînd la capul lui Marin din care picura încă untdelemnul....</p>
                <p>— Aşa-ţi vezi de treabă? strigă boierul, văzînd pe Marin. Pentru tine să nu pot eu fi de dimineaţă la palat? Pentru tine, lighioană îndrăcită, să cad eu în urgia domnească?</p>
-               <p>Şi înhăţîndu-l de păr, începu a-1 învîrti val-vîrtej.</p>
+               <p>Şi înhăţîndu-l de păr, începu a-l învîrti val-vîrtej.</p>
                <p>Cînd îl lăsă, Vilara se uită cu scîrbă la mîna-i, simţind-o unsă.</p>
                <p>— Pe cînd eu aşteptam în biserică, tu te pomă-duiai? întrebă boierul cu o nouă furie.</p>
                <p>— Ce pomadă, cocoane? răspunse preotul. Este untdelemn curat. Îmi tot ziceaţi că prea merge mult untdelemn la biserică, douăzeci de oca pe lună. Iacă de ce! îndrăcitul acesta făcea băi de untdelemn.</p>
@@ -1120,7 +1121,7 @@
                <p>— Şi dacă nu este cu supărare, zise Marin cu ironie, de cînd fiul lui Gimpa din Vîlcea are harul d-a merge seara să joace pichet cu boierul care s-a luptat pentru domnie cu măria-sa?</p>
                <p>15 — Racoveanu, zise junele cu tărie, este binefăcă-torul tatălui meu. L-a ajutat în nevoi şi l-a mîngîiat în dureri. Patriotismul trebuie oare să sugrume în sufletul nostru recunoştinţa datorită celor cari în zile negre au fost providenţa vetrelor noastre? Este oare cu neputinţă a împăca în sufletul nostru aceste două simţimînte? La aceste întrebări vă cer răspunsul, căci dacă nu este cu putinţă împăcarea între patriotism şi recunoştinţă, apoi cum a zis căpitan Hristescu, mai bine un preot să mă dezlege de jurămîntul meu. Nu voi servi, dar nici nu voi trăda vreunul din aceste două simţimînte.</p>
                <p>O lungă tăcere urmă acestor cuvinte. Dacă ochii lor ar fi putut pătrunde în noapte, ar fi văzut că dintre tulpinele unor duzi, care-şi întindeau ramurile frun-zoase, cîţiva inşi îi pîndeau şi că într-o depărtare aştepta o caretă.</p>
-               <p>— La întrebarea ce ne faci, zise Marin Naţionalul, nu pot să-ţi răspund. Întrucît priveşte însă numai recunoştinţa ta către boierul Racoveanu, ştiu că este din toţi boierii cel mai luminat, cel mai ager, cel mai bun, şi, dacă n-ar fi casta care-1 leagă de Bibescu-vodă, crede-mă, tinere, că de mult el ar fi cu noi şi noi cu el, căci nu avem altul mai capabil pentru a-1 pune în fruntea noastră şi în tronul ţărei.</p>
+               <p>— La întrebarea ce ne faci, zise Marin Naţionalul, nu pot să-ţi răspund. Întrucît priveşte însă numai recunoştinţa ta către boierul Racoveanu, ştiu că este din toţi boierii cel mai luminat, cel mai ager, cel mai bun, şi, dacă n-ar fi casta care-l leagă de Bibescu-vodă, crede-mă, tinere, că de mult el ar fi cu noi şi noi cu el, căci nu avem altul mai capabil pentru a-l pune în fruntea noastră şi în tronul ţărei.</p>
                <p>Aceste cuvinte merseră la inimă junelui nostru.</p>
                <p>— În adevăr, adăugă primul român căpitan de corabie, nici că s-ar putea altul mai bun pentru domnie, mai cu seamă că tronul ar fi înconjurat de beizadele şi domniţe între cari una are nişte ochi... nişte ochi... cari aprind în inimi atîta foc încît toate tulumbele agiei nu pot să-l stingă.</p>
                <p>— Sînt deprins a respecta vîrsta, zise Gimpa, su-grumîndu-şi mînia, cu condiţie însă ca şi ea să se respecte.</p>
@@ -1153,7 +1154,7 @@
                <p>Gimpa nu mai era decît un buştean, care cugeta însă. Peste cîteva minute careta începu a urui p-o stradă pavată cu piatră. înţelese că era în apropierea palatului domnesc, căci nainte de 1848 numai stradele din jurul palatului aveau această onoare; celelalte erau pavate cu grinzi.</p>
                <p>Careta se opri şi el auzi un sunet ca cum un soldat ar fi prezentat arma.</p>
                <p>Lăsîndu-l singur, ceilalţi se deteră jos. După cîteva şoapte, doi inşi îl ridicară din trăsură şi-l ajutară a merge cîţiva paşi, apoi a coborî vreo douăzeci trepte.</p>
-               <p>Cu cît cobora, cu atît simţea umezeala pătrunzîndu-1. Auzi un zgomot de chei, una învîrtindu-se în broască, apoi o uşă scîrţîind cu greutate în ţîţîncle ei. Fu îmbrîncit înăuntru. Îi dezlegară mînele şi ochii, îi luară căluşul din gură.</p>
+               <p>Cu cît cobora, cu atît simţea umezeala pătrunzîndu-l. Auzi un zgomot de chei, una învîrtindu-se în broască, apoi o uşă scîrţîind cu greutate în ţîţîncle ei. Fu îmbrîncit înăuntru. Îi dezlegară mînele şi ochii, îi luară căluşul din gură.</p>
                <p>La lumina searbădă a unui felinar de ţiplă, Gimpa văzu un zid netencuit, licărind mucezeala pe el, şi apoi o adîncime întunecoasă în care nu puteau pătrunde. Lîngă zid era întinsă o rogojină rădicată la un cap peste o piatră în loc de perină, apoi un urcior cu apă şi o pîne neagră.</p>
                <p>— Aici eşti ca la domnia-ta, coconaşule! îi zise un lipcan cu mutra de ţigan, legănînd un mănunchi de chei în mînă.</p>
                <p>— Scotociţi-l, zise tot lipcanul către cei trei tişti.</p>
@@ -1172,7 +1173,7 @@
                <p>Şi apropiindu-se de zid, se răzimă cu mîna; apoi merse tot înainte numărînd paşii, pînă se întoarse la rogojina de unde plecase. Numărase vreo două sute paisprezece paşi.</p>
                <p>— Cum văd, îşi zise el, salonul meu are un spaţiu de vreo cincizeci şi trei de paşi pătraţi. Asemenea spaţiu nu poate fi decît sub o clădire foarte mare. La agie nu sînt... la vornicie nu sînt... la spătărie iar nu sînt, căci cam ştiu ce lărgime ar putea să aibă pivniţele lor. Unde-oi fi?</p>
                <p>Şi rămase mult pe gînduri.</p>
-               <p>Umezeala începînd a-1 pătrunde, se culcă, punînd capul pe căpătîiul de piatră şi trăgînd peste el o parte din rogojină. Apoi, ca cum ar fi fost în patul lui, adormi.</p>
+               <p>Umezeala începînd a-l pătrunde, se culcă, punînd capul pe căpătîiul de piatră şi trăgînd peste el o parte din rogojină. Apoi, ca cum ar fi fost în patul lui, adormi.</p>
                <p>Să-l lăsăm dormind şi să urmăm pe necunoscutul ofiţer care, în timpul cînd coborau în pivniţă pe nefericitul june, el suia treptele palatului domnesc.</p>
                <p>Cine era el? Unul din favoriţii domniei. Tînăr, înalt, frumos, de la întîia vedere impunea mulţimei. Un fizionomist însă, văzînd grija ce avea de exteriorul lui, de a-şi modula vocea, de a păstra în figură totdeauna un aer de bunătate, fără ca în ochii lui să scapere nimic din acele scîntei cari vorbesc inimei, ar fi înţeles îndată că sub acel exterior frumos şi manieri plăcute se ascundea egoismul, ipocrizia, trufia şi răutatea; şi nu s-ar fi înşelat! În adevăr, Iancu Olteniceanu era un monstru pentru toţi cei cari aveau prilejul să-l cunoască de aproape. Fiind unul din cei cari erau mîna dreaptă a lui George Bibescu, el dicta în toate serviciile publice. Miniştrii erau cu numele, el era totul. Pentru a-şi îndestula lăcomia de mărire, de avere, de plăceri, nu avea nici un scrupul. Linguşitor cu domnul, plăcut cu cei de seama lui, crud sau rece cu cei mici, nu avea decît un cult: interesul lui. Pentru acest interes, era în stare să sacrifice tot: pe amicii săi cei mai devotaţi, interesele cele mai mari ale ţării, chiar legămintele de familie. Era român cu numele, dar nu avea naţionalitate; era creştin prin botez, dar nu avea religie; era curtenitor cu femeile, dar nu putea iubi, căci nu avea inimă. Devotamentul, abne-garea, recunoştinţa, pentru dînsul erau cuvinte seci. O curtezană din acel timp zicea despre dînsul: „Mîncă carne de om, dar gura-i miroase a trandafir.”</p>
                <p>Iacă omul care răpise pe Dimitrie Gimpa şi care acum suia scara palatului domnesc.</p>
@@ -1187,7 +1188,7 @@
                <p>Dar ca femeie lacomă de străluciri şi răsfăţări, ea ţinea la coroana ce-i închinase George Bibescu. Împărtăşea grijile lui, nu ca soţie, dar ca femeie iubitoare de fast.</p>
                <p>Dintre toţi favoriţii lor, acela care le insufla mai multă încredere era Iancu Olteniceanu.</p>
                <p>Ştiindu-l legat prin interes de soarta lor, nu mai vedeau, nu mai auzeau, nu mai judecau decît prin-tr-însul.</p>
-               <p>De aceea cînd Olteniceanu intră în cabinetul unde se aflau, îl întîmpinară cu priviri întrebătoare; dar, văzîndu-1 cu faţa veselă şi zîmbetul pe buze, încrederea licări în ochii lor.</p>
+               <p>De aceea cînd Olteniceanu intră în cabinetul unde se aflau, îl întîmpinară cu priviri întrebătoare; dar, văzîndu-l cu faţa veselă şi zîmbetul pe buze, încrederea licări în ochii lor.</p>
                <p>— Ce ştire, Oltenicene? întrebă domnul, făcîndu-i semn să şază.</p>
                <p>— Măria-ta, în urma probei ce am, nu cred că te vei mai îndoi de înţelegerea ce este între partidul naţional şi Racoveanu, răspunse Olteniceanu cu siguranţă.</p>
                <p>— Şi acea probă o ai? întrebă doamna Maria, ai cărei ochi scăpărară de ură.</p>
@@ -1213,7 +1214,7 @@
                <p>— Dar curînd vom afla adevărul, zise Bibescu, şi, sculîndu-se, chemă un ofiţer cărui dete cîteva ordine.</p>
                <p>— Ce cruzi sînt bărbaţii! exclamă doamna, care,înţelegînd ordinele date, îşi ascunse capul în mîni.</p>
                <p>Apoi uitîndu-se drept la soţul ei, îi zise:</p>
-               <p>— Cel puţin făgăduieşte-mi că nu-1 vei lăsa să moară sub lovituri.</p>
+               <p>— Cel puţin făgăduieşte-mi că nu-l vei lăsa să moară sub lovituri.</p>
                <p>— Sînt şi eu creştin, zise Bibescu-vodă, sărutîn-d-o cu iubire de mai multe ori, şi apoi ieşi, însoţit de Olteniceanu.</p>
                <p>— Nu ştiu de ce, îşi zise doamna, rămîind singură şi uitîndu-se la firicelul de resedă, acest nefericit tînăr, singurul din cei căzuţi în ghearele lui Olteniceanu, mă face să am milă de soarta lui.</p>
                <p>O grijă dureroasă coprinse tot sufletul tinerei doamne. Vederile-i rătăceau peste fastul care o înconjurau, dar reci şi dispreţuitoare.</p>
@@ -1366,7 +1367,7 @@
                <p>Intră în curtea agiei şi dueîndu-se la cancelarii, întrebă din odăiaş în odăias dacă a văzut pe un băiet Gimpa.</p>
                <p>— Nu l-a adus aci, îi răspunse unul în cele din urmă.</p>
                <p>— Dar unde l-a dus? întrebă Naţionalul nedomirit.</p>
-               <p>— Nu ştiu, răspunse odăiaşul; apoi ţintindu-1 bine, urmă: Dar de unde eşti?</p>
+               <p>— Nu ştiu, răspunse odăiaşul; apoi ţintindu-l bine, urmă: Dar de unde eşti?</p>
                <p>— De la coconul Vilara.</p>
                <p>— Aş! De la coconul Vilara să trămiţă a întreba pe odăiaşi, ce se potriveşte! Aşteaptă puţin.</p>
                <p>Şi adresîndu-se ironic către un alt odăiaş:</p>
@@ -1393,7 +1394,7 @@
                <p>Pe cînd picioarele îi sfîrîiau, pe cînd sîngele îi curgea din rană printre degetele mînii drepte, buzele îi murmurau numele sînţilor şi sîntelor din luna iunie precum:</p>
                <p>„Sînte Nicefore, mucenicule Iustine, muceniţo Api-lino, sînte ludo, muceniţo Agripino, scăpaţi-mă de urgia în care am căzut! Doamne... Doamne Isuse Hristoase, muceniţo Fevronio, cuviosule Samsoane, sînţilor cardaşi Petre şi Pavel, veniţi-mi în ajutor!“</p>
                <p>Dar cu toată invocarea sînţilor din luna iunie, la începutul căreia se desfăşurau aceste evenimente, bietul Marin n-avu să mulţumească decît sîntelor lui picioare, cari, mai agere decît ale ogarului, îl scăpară din goana cîtorva soldaţi trămişi după el.</p>
-               <p>Fără să-şi fi propus o ţintă în fuga lui, fără să-şi dea seama de unde-1 duc picioarele, deodată se trezi des-chizînd o portiţă şi trîntind-o după el, intrînd într-o casă şi trîntind iar uşa după el, năvălind într-un salon, unde erau mai mulţi inşi adunaţi, căzînd într-un scaun şi strigînd</p>
+               <p>Fără să-şi fi propus o ţintă în fuga lui, fără să-şi dea seama de unde-l duc picioarele, deodată se trezi des-chizînd o portiţă şi trîntind-o după el, intrînd într-o casă şi trîntind iar uşa după el, năvălind într-un salon, unde erau mai mulţi inşi adunaţi, căzînd într-un scaun şi strigînd</p>
                <p>— Fugiţi că suntem vînduţi!</p>
                <p>Picioarele, din deprindere sau din întîmplare, îl dusese chiar la Nicolae Bălcescu, unde în acel moment erau adunaţi dintre luptătorii mişcărei naţionale.</p>
                <p>Toţi se grăbiră a-i da ajutorul cuvenit, legîndu-i rana, care nu era periculoasă.</p>
@@ -1413,7 +1414,7 @@
                <p>Unul din soldaţii, cari văzuse pe Hristescu gonind cu dînşii, se apropie de dînsul şi-i zise:</p>
                <p>— Nu-l puturăm prinde, domnule...</p>
                <p>— Căpitan Hristescu, adăugă iute marinarul nostru, ca să curme familiaritatea soldatului şi să-i impună.</p>
-               <p>— Să trăiţi, domnule căpitan! strigă soldatul, sa-lutînd milităreşte gradul. Nu-1 puturăm prinde!</p>
+               <p>— Să trăiţi, domnule căpitan! strigă soldatul, sa-lutînd milităreşte gradul. Nu-l puturăm prinde!</p>
                <p>— Dar de ce voiaţi să-l prindeţi?</p>
                <p>— Zău, nu ştim. „Puneţi mîna pe el!” ne-a zis căprarul, după ce a descărcat puşca şi ne puserăm în goană. Dar cum să-l prinzi, cînd felinarele acestea nu licăresc nici la douăzeci paşi?</p>
                <p>Şi apropiindu-se de postul agiei, căprarul şi cei doi odăiaşi le ieşiră nainte.</p>
@@ -1502,9 +1503,9 @@
                <p>— Nu, mamă, răspunse fata, rădicînd capul şi uitîndu-se drept şi limpede în ochii ei.</p>
                <p>— Dumnezeu să fie lăudat, strigă ea, sărutînd fruntea Măriei, că mi-ai rădicat o piatră de pe suflet. Fuse un minut cînd am tremurat că nu vei ieşi din casa părintească fată curată ca crinul.</p>
                <p>— Nu te îngriji, mamă.</p>
-               <p>— Îţi mulţumesc că-mi dai credinţa, fata mea. Am naintea lui Dumnezeu, naintca lumei şi naintea celui care a fost cu tatăl tău mai bun decît un frate, o îndoită grijă: aceea de sufletul tău şi de sufletul lui Trică. Cînd tatăl său l-a adus să treacă şcoalele aci şi mi l-a lăsat, mi-a zis: „Ai o fată, îţi mai aduc şi eu alta, băietul meu. Să mi-1 dai cum ţi-1 aduc, fată mare! Nu vreau să rămîn de ruşine, fata mea. Dacă ceva se va strica din curăţia lui, să nu se strice din casa noastră; naintea nimărui să n-avem răspundere. Şi cum o mamă trebuie să fie pentru fiica ei mai mult decît un duhovnic, spune mie. Dezvăluieşte ochilor mei toate cutele inimii tale. Fără grijă, fără teamă, spune: de ce ai slăbit şi ai îngălbenit?</p>
+               <p>— Îţi mulţumesc că-mi dai credinţa, fata mea. Am naintea lui Dumnezeu, naintca lumei şi naintea celui care a fost cu tatăl tău mai bun decît un frate, o îndoită grijă: aceea de sufletul tău şi de sufletul lui Trică. Cînd tatăl său l-a adus să treacă şcoalele aci şi mi l-a lăsat, mi-a zis: „Ai o fată, îţi mai aduc şi eu alta, băietul meu. Să mi-l dai cum ţi-l aduc, fată mare! Nu vreau să rămîn de ruşine, fata mea. Dacă ceva se va strica din curăţia lui, să nu se strice din casa noastră; naintea nimărui să n-avem răspundere. Şi cum o mamă trebuie să fie pentru fiica ei mai mult decît un duhovnic, spune mie. Dezvăluieşte ochilor mei toate cutele inimii tale. Fără grijă, fără teamă, spune: de ce ai slăbit şi ai îngălbenit?</p>
                <p>— Mamă, adevărul îţi voi spune, răspunse fata, luînd-o de gît. N-am linişte, sufăr, de cînd văd pe Trică turburat. întreabă-l tu ce are.</p>
-               <p>— Îl voi întreba şi va trebui să-mi spună tot. Dar tu ascultă, iubita mea fiică, şi nu ieşi din cuvintele mele: tu nu-1 poţi iubi, pentru că nu-1 poţi lua de bărbat. Şi tu eşti fată de oameni cumsecade şi încă foarte frumoasă; dar vezi învăţătura a făcut că Trică n-ar mai fi fericit cu tine. Nu-1 auzi cum vorbeşte? Cartea l-a făcut mîndru. Crede că boierii sînt tot una cu el. De aci trebuie să înţelegi că nu va lua soţie pe fata unei văduve sărace; va lua o fată de boier.</p>
+               <p>— Îl voi întreba şi va trebui să-mi spună tot. Dar tu ascultă, iubita mea fiică, şi nu ieşi din cuvintele mele: tu nu-l poţi iubi, pentru că nu-l poţi lua de bărbat. Şi tu eşti fată de oameni cumsecade şi încă foarte frumoasă; dar vezi învăţătura a făcut că Trică n-ar mai fi fericit cu tine. Nu-l auzi cum vorbeşte? Cartea l-a făcut mîndru. Crede că boierii sînt tot una cu el. De aci trebuie să înţelegi că nu va lua soţie pe fata unei văduve sărace; va lua o fată de boier.</p>
                <p>— El nu vorbeşte din mîndrie, mamă, ci pentru că aşa crede. îmi spunea într-o zi, după ce a oprit pe nişte băieţi cari rîdeau de un ţigan, că Dumnezeu a făcut pe toţi oamenii deopotrivă; că nu este altă osebire decît aceea pe care o face vîrsta şi mintea; că numai răutatea şi împlinirea unora, a împărţit lumea în boieri, muncitori şi robi.</p>
                <p>— Oricum ar fi, fata mea, întrerupse bătrîna, nu</p>
                <p>ieşi din cuvintele mele.</p>
@@ -1523,7 +1524,7 @@
                <p>Fata se sculă îndată şi, ducîndu-se la vatră, pregăti în cîte o strachină mîncare pentru pisică şi cîne. La lumina tăciunilor care se răsfrîngea roşiatică în faţa ei, se vedeau lacrimi licărind în gene-i.</p>
                <p>— Dumnezeu să mă ierte, zise bătrîna din pat, dar mi se pare că se urzeşte ceva. Numai de n-ar fi iar vreo zaveră. Ieri şi azi am văzut mereu pe popa Constandin de la Brad umblînd din casă în casă şi şoptind cu bărbaţii. Popa Constantin este finul lui Eliad. Ştie multe şi se amestecă în toate.</p>
                <p>— Trebuie să fie ceva, mamă! răspunse fata, ştergîndu-şi lacrimile. Trică mi-a spus că n-ar voi să moară nainte d-a vedea pe toţi oamenii deopotrivă; adică să nu mai fie nici boieri, nici negustori, nici ţărani, nici ţigani, ci toţi totuna şi toţi să plătească bir şi să meargă la oaste.</p>
-               <p>— Auzi colo ce drăcii i-a intrat în cap! exclamă văduva Andricu. Crezi tu că s-ar putea una ca aceasta? Dar nu s-ar lăsa boierii odată cu capul! Hei, fata mea, mai vorbea gogoşi de acestea Lazăr, care era dascăl la Sîntul Sava, nainte de zaveră; dar l-au pus boierii bine, căci din om sănătos cu mintea întreagă, deodată a început să se vaite că-1 arde ceva la stomac şi numai cu băutura îşi mai alina arsura. A tot băut săracul pînă simţind că o să moară, s-a dus peste munţi în ţara lui şi acolo şi-a dat sufletul.</p>
+               <p>— Auzi colo ce drăcii i-a intrat în cap! exclamă văduva Andricu. Crezi tu că s-ar putea una ca aceasta? Dar nu s-ar lăsa boierii odată cu capul! Hei, fata mea, mai vorbea gogoşi de acestea Lazăr, care era dascăl la Sîntul Sava, nainte de zaveră; dar l-au pus boierii bine, căci din om sănătos cu mintea întreagă, deodată a început să se vaite că-l arde ceva la stomac şi numai cu băutura îşi mai alina arsura. A tot băut săracul pînă simţind că o să moară, s-a dus peste munţi în ţara lui şi acolo şi-a dat sufletul.</p>
                <p>— Aşa răi sînt boierii?</p>
                <p>— Ce vrei tu! Toţi oamenii se fac hiare sălbatice cînd este să le iei ceea ce cred că este dreptul lor. Apoi bieţii boieri, din moşi-strămoşi, aşa s-au învăţat: să trăiască din d-a gata, din munca altora; pentru ei toate bunurile, toate plăcerile, pentru ceilalţi sudori şi lacrimi. Hei, hei!... aşa a fost să fie, căci cum zice Oprea Cobzarul:</p>
                <l>A tot bătut vîntul</l>
@@ -1547,7 +1548,7 @@
                <p>Bătrîna lăsă ciorapul, se sculă şi aduse fiertura pe masă.</p>
                <p>Aruncînd ochii asupra fetei, îi văzu două lacrimi legănîndu-se în gene, şi luînd-o de mînă, o sărută pe amîndoi obrajii cu iubire, zicînd:</p>
                <p>— O fata mamei, dar de ce te mîhneşti pentru atîta lucru! O fi şi el dus la vreo petrecere!</p>
-               <p>— Nu cred, mamă! răspunse ea cu vocea tremu-rînd. Nişte fiori îmi spun că lui Trică i s-a întîmplat o nenorocire. Îmi vine să alerg în ajutoru-i... dar unde?... Unde o fi el acum?... Cînd ar fi la o petrecere, nu mi-ar bate inima aşa de grozav, nu aş simţi aceşti fiori cari mă cutremur; apoi ne-ar fi spus să nu-1 aşteptăm, căci el nu calcă cuviinţa.</p>
+               <p>— Nu cred, mamă! răspunse ea cu vocea tremu-rînd. Nişte fiori îmi spun că lui Trică i s-a întîmplat o nenorocire. Îmi vine să alerg în ajutoru-i... dar unde?... Unde o fi el acum?... Cînd ar fi la o petrecere, nu mi-ar bate inima aşa de grozav, nu aş simţi aceşti fiori cari mă cutremur; apoi ne-ar fi spus să nu-l aşteptăm, căci el nu calcă cuviinţa.</p>
                <p>— Lasă spaimele şi vino de îmbucă ceva! îi zise mama Andricu, trăgînd-o lîngă masă şi aşezînd-o cam cu sila pe scaun. Îmbucă de cîteva ori, soarbe niţel vin şi-ţi vor trece fiorii şi bătăile de inimă, cari vin din foame şi aşteptare.</p>
                <p>Maria voi să mînce pentru plăcerea mamei sale, dar nu putu, căci fălcile îi erau încleştate şi nu putea înghiţi. Apoi auzul ei era îndreptat tot afară; dar nimic nu mai turbura liniştea de la Crucea de Piatră. Nu se auzeau decît păzitorii strigînd cu o voce somnoroasă: „Cine e acoloooo!”</p>
                <p>Amîndouă, după ce închiseră poarta şi uşa bine, se culcară.</p>
@@ -1606,12 +1607,12 @@
                <p>O pînză se rupsese dinaintea ei. Acum ştia viermele care rodea inima lui Trică.</p>
                <p>— Iacă pentru ce venea el aşa des p-aicea! îşi zise Maria cu o duioasă resemnare. Dar ea se mărită acum şi el suferă ca un suflet osîndit! De aceea nu mai mînca, nu mai zîmbea, nu mai dormea; de aceea umbla mereu, surd la chemarea mea, orb la lacrimile mele... Dar unde o fi el acum?</p>
                <p>Şi cugetînd puţin, urmă:</p>
-               <p>— Dacă nu este arestat, sînt sigură că-1 voi vedea deseară la logodirea acelei frumoase coconiţe sau poimîne la cununia ei.</p>
+               <p>— Dacă nu este arestat, sînt sigură că-l voi vedea deseară la logodirea acelei frumoase coconiţe sau poimîne la cununia ei.</p>
                <p>Şi luîndu-şi inima în dinţi, ceru de la servitoarea cu care mai vorbise, lămuririle care-i trebuiau, apoi plecă.</p>
                <p>Văzînd-o mergînd cu paşi uşori, n-ai fi putut crede cîtă sfîşiare era în sufletul ei. Pentru ca trecătorii să nu-i vază lacrimile, ea coti prin livezile umbroase ce se întindeau de la Sîntul Elefterie pînă la Balta Ciş-megiului. Ea-şi luase hotărîrea d-a nu se întoarce acasă, nainte d-a afla despre dînsul. Această hotărîre o întărise şi îi dase curaj d-a străbate acele locuri singuratece.</p>
                <p>Cînd ajunse la locuinţa lui Racoveanu din calea Mogoşoaie, era noapte. Toate ferestrele erau luminate, curtea plină de carete, iar muzica militară cînta într-un balcon despre grădină.</p>
                <p>Maria, care-şi făcuse planul, după lămuririle ce-i dase servitoarea, se strecură prin mulţimea trăsurilor, coti pe la spatele casei, deschise o portiţă, intră în grădină şi de acolo se îndreptă spre pavilionul unde îi spusese că mai totdeauna se retrage boierul Racoveanu şi se gîndeşte fumînd.</p>
-               <p>Copila îşi făcuse planul d-a cădea la picioarele boierului, a-l ruga să-i spună ce ştie despre Gimpa şi a-1 face să se intereseze.</p>
+               <p>Copila îşi făcuse planul d-a cădea la picioarele boierului, a-l ruga să-i spună ce ştie despre Gimpa şi a-l face să se intereseze.</p>
                <p>Pavilionul din grădină era luminat.</p>
                <p>Ea se apropie cu inima bătînd de bucurie. Credea că Dumnezeu îi vine în ajutor, dar cînd fu lîngă pavilion, inima îi batea aşa de tare încît se opri între nişte trandafiri ca să se liniştească puţin.</p>
                <p>Boierul Racoveanu era în adevăr în pavilion, dar nu singur.</p>
@@ -1683,7 +1684,7 @@
                <p>Olteniceanu prevăzuse efectul cuvintelor lui şi de aceea, în loc d-a se duce la palatul domnesc, se sui la Racoveanu şi aşteptă.</p>
                <p>Servitoarele ţinuse atît de mult secretul ce le recomandase el, încît peste o oră ajunsese din pavilion în splendidul salon! Invitaţii îl comunicau unul altuia, aşa că peste puţin bucuria şi încrederea pierise mai din toate feţele, căci toată lumea, bărbaţi şi femei, se uita cu compătimire la Smaralda care surîdea cu încredere fidanţatului ei, George Boldur, un Don Juan pe care victimele desfrînărei lui îl urmăreau pînă şi în casa socrului.</p>
                <p>Olteniceanu retras lîngă o fereastră observa c-o bucurie infernală efectul cuvintelor lui şi din moment în moment aştepta să-l vază şi asupra fidanţatului.</p>
-               <p>El era însurat. Soţia lui era o protejată de casa Bibescu. Tocmai pentru aceasta o şi luase. Iar acum cîncl steaua lui Bibescu era la apus, cînd vedea că o altă stea este să se ridice, începuse a regreta că s-a însurat şi se uita cu invidie la George Boldur. Pre-văzînd că într-un viitor apropiat socrul acestuia va fi puternic în ţară, turba că nu-i este el ginere. Nu că-1 răpea frumuseţea Smaraldei, nu că-1 atrăgea spiritul şi inima ei. Pentru acestea el era nesimţitor. Ceea ce-l răpea, ceea ce-l atrăgea era ambiţia d-a fi tare şi mare. Nesimţindu-se capabil însă d-a ajunge prin sine, căutase să ajungă prin căsătorie. Întîia căsătorie îl rădicase sus. Dar cum zeul acelei căsătorii era să fie în scurt timp răsturnat, Olteniceanu ar fi voit să fie liber pentru a căuta în altă căsătorie o nouă scară la mărire.</p>
+               <p>El era însurat. Soţia lui era o protejată de casa Bibescu. Tocmai pentru aceasta o şi luase. Iar acum cîncl steaua lui Bibescu era la apus, cînd vedea că o altă stea este să se ridice, începuse a regreta că s-a însurat şi se uita cu invidie la George Boldur. Pre-văzînd că într-un viitor apropiat socrul acestuia va fi puternic în ţară, turba că nu-i este el ginere. Nu că-l răpea frumuseţea Smaraldei, nu că-l atrăgea spiritul şi inima ei. Pentru acestea el era nesimţitor. Ceea ce-l răpea, ceea ce-l atrăgea era ambiţia d-a fi tare şi mare. Nesimţindu-se capabil însă d-a ajunge prin sine, căutase să ajungă prin căsătorie. Întîia căsătorie îl rădicase sus. Dar cum zeul acelei căsătorii era să fie în scurt timp răsturnat, Olteniceanu ar fi voit să fie liber pentru a căuta în altă căsătorie o nouă scară la mărire.</p>
                <p>Dar n-avusese timp să văduvească şi Boldur apucase nainte. De aceea ochii îi cădeau plini de ură asupra lui Boldur şi plini de lăcomie asupra Smaraldei, radioasă de încredere.</p>
                <p>Nenorocirea, care mai totdeauna este aliata celor răi, făcuse că la acea fidanţare era şi soţia lui, vară şi amică intimă cu fiica lui Racoveanu.</p>
                <p>El înţelese îndată că numai soţia lui ar putea să strecoare în auzul Smaraldei, ceea ce se şoptea de toţi. De aceea o şi chemă lîngă el. Pîndind apoi momentul cînd juna fidanţată se uita spre ei, zise soţiei sale:</p>
@@ -1716,12 +1717,12 @@
                <p>Peste cîteva minute, ordinul fu executat.</p>
                <p>Ieşind trăsura cu acea copilă, Olteniceanu îşi zise:</p>
                <p>— Acum să întîlnesc pe Boldur.</p>
-               <p>Şi urcînd scara iute, începu a-1 căuta prin mulţime. Domni şi doamne şopteau despre victima din grădină. Curiozitatea d-a vedea pe acea nenorocită abandonată mergea crescînd.</p>
+               <p>Şi urcînd scara iute, începu a-l căuta prin mulţime. Domni şi doamne şopteau despre victima din grădină. Curiozitatea d-a vedea pe acea nenorocită abandonată mergea crescînd.</p>
                <p>După multă căutare, întrebînd p-un servitor, află că Boldur este într-o sală, unde da uşa de la apartamentul Smaraldei.</p>
                <p>In adevăr că-l şi află acolo. Bietul ginere, îngrijat de retragerea subită a fidanţatei, măsura sala cu paşi agitaţi, ascultînd din cînd în cînd la uşă un plîns cu sughiţuri.</p>
                <p>Olteniceanu merse drept la dînsul şi-l luă în braţe, simulînd avîntul unei adevărate amicii.</p>
                <p>— George, îi zise el, vezi cine este acea fată, care zace leşinată în curte. Lumea îşi face felurite bănuieli... chiar Smaralda... Aleargă şi răsipeşte-le iute.</p>
-               <p>Boldur, auzind, rămase ca trăsnit. Dar pentru că trecutul lui nu-1 lăsa să se creadă la adăpost de asemenea bănuieli, întrebă:</p>
+               <p>Boldur, auzind, rămase ca trăsnit. Dar pentru că trecutul lui nu-l lăsa să se creadă la adăpost de asemenea bănuieli, întrebă:</p>
                <p>— Şi unde este?</p>
                <p>Infernalul favorit al lui vodă Bibescu, îi spuse.</p>
                <p>Şi junele fidanţat, cu faţa speriată, trecu ca o săgeată prin mulţimea invitaţilor, coborî scara şi se îndreptă spre odaia indicată.</p>
@@ -1785,7 +1786,7 @@
                <p>— Cum înţeleg eu, copila mea, n-are gînd curat cel care a zis să te aducă la mine. De aceea ai face bine să nu te apuce ziua aci. Locuinţa mamei tale nu este departe. Te voi duce eu acasă, căci nu poţi umbla singură noaptea, şi mama ta să te ascundă undeva pînă se vor potoli poftele ce ai aprins într-un suflet păcătos. Cît despre neaflarea ta mîne aci, voi spune că ai fugit fără ştirea mea, aşa de uşor încît nici cînii nu te-au simţit.</p>
                <p>— Nu te mai osteni, moş Ignat, căci o voi duce eu acasă, zise o voce din pragul celarului, căci eu sînt acela pe care-l căuta fata...</p>
                <p>Era Gimpa care nu avusese răbdare să aştepte întoarcerea bătrînului. Venise şi ascultase cele spuse de Maria.</p>
-               <p>Ea văzîndu-l, dete un strigăt de bucurie şi se aruncă în braţele lui. Cu toată durerea ce-i cauzau rănile din spate, el o strînse la piept cu afecţie. Faţa fetei era radioasă de fericire, văzîndu-1.</p>
+               <p>Ea văzîndu-l, dete un strigăt de bucurie şi se aruncă în braţele lui. Cu toată durerea ce-i cauzau rănile din spate, el o strînse la piept cu afecţie. Faţa fetei era radioasă de fericire, văzîndu-l.</p>
                <p>— Te-am aflat fugarule! îi zicea ea, sărutîndu-l.</p>
                <p>Moş Ignat se apropie şi zîmbind, desface braţele fetei cari îl lănţuiau, şi îi zice:</p>
                <p>— Nu-l atinge, căci a căzut dintr-un pom şi şi-a zdrelit spinarea mai rău decît o pară putredă.</p>
@@ -1805,7 +1806,7 @@
                <p>Acest adevăr ieşind din buzele Măriei, făcu pe tînăr să se cutremure.</p>
                <p>Da, numai moartea putea să potolească focul ce se încuibase într-însul.</p>
                <p>Fata, simţind durerea lui, urmă:</p>
-               <p>— Şi mult iubeşti tu, Trică, pe aceea care poimîne se va mărita! Oh! dragul meu de ce n-am putere să te mîngîi! Eu văd bine că viaţa ta de acum este pierdută. Tu nu eşti din aceia cari se schimbă; şi apoi unde se mai află o fată frumoasă ca dînsa, căci aş alerga îndată şi aş cădea înaintea ei, i-aş scălda picioarele şi mînele cu lacrimile mele şi aş ruga-o să iubească pe Trică al meu, pentru a-1 scăpa d-o patimă care-1 va duce la mormînt... Dar ştii tu, Trică? Eu cred că fata lui Racoveanu nu te-a cunoscut de aproape, căci dacă eu aş fi fost în locul ei şi a fi ştiut ce comoară este în mintea şi inima ta, nu te-aş fi schimbat nici pe cel mai mare, mai frumos şi mai tînăr din împăraţii lumei!</p>
+               <p>— Şi mult iubeşti tu, Trică, pe aceea care poimîne se va mărita! Oh! dragul meu de ce n-am putere să te mîngîi! Eu văd bine că viaţa ta de acum este pierdută. Tu nu eşti din aceia cari se schimbă; şi apoi unde se mai află o fată frumoasă ca dînsa, căci aş alerga îndată şi aş cădea înaintea ei, i-aş scălda picioarele şi mînele cu lacrimile mele şi aş ruga-o să iubească pe Trică al meu, pentru a-l scăpa d-o patimă care-l va duce la mormînt... Dar ştii tu, Trică? Eu cred că fata lui Racoveanu nu te-a cunoscut de aproape, căci dacă eu aş fi fost în locul ei şi a fi ştiut ce comoară este în mintea şi inima ta, nu te-aş fi schimbat nici pe cel mai mare, mai frumos şi mai tînăr din împăraţii lumei!</p>
                <p>Şi pe cînd copila, în nevinovăţia ei, răscolea focul în pieptul lui Gimpa, zorile începură a scăpăra.</p>
                <p>Stelele se topeau în ţîşnirile de aur şi purpură cari sfîşiau întunericul nopţii. O adiere dulce începu a mişca vîrfurile pomilor, iar paserile a scutura frunzele de rouă nopţei. Voluptoasa noapte se retrăgea înaintea zilei care năvălea cu alaiul ei de lumină şi vuiet.</p>
                <p>Cu redeşteptarea naturei începu a creşte şi încrederea în inima junilor noştri.</p>
@@ -1837,10 +1838,10 @@
                <p>Trebui ei o încordare lungă pentru a se smulge din puterea magnetică a ochilor lui Olteniceanu, care o ţinea în loc, şi poate că n-ar fi izbutit să facă un pas, dacă în acelaşi timp n-ar fi căzut asupra ei alţi doi ochi, plini de toate binecuvîntările şi de cea mai curată iubire, ochi care o făcură să respire, să se mişte, să vază şi să auză.</p>
                <p>Voind să-şi dea seama ai cui erau acei ochi, nu izbuti, căci în figura galbenă şi întristată a unui june rezimat de umărul unei copile la o fereastră a bise-ricei, nu putu recunoaşte pe Dimitrie Gimpa, atît era de schimbat!</p>
                <p>Gimpa nu mai avusese decît o dorinţă, aceea d-a merge la biserică şi a vedea steaua inimei sale trecînd în braţele unui necunoscut. Era aceeaşi dorinţă ca a celui care voieşte să vază pînă în cele din urmă focul care mistuieşte averea lui, cuibul familiei sale şi teatrul celor mai scumpe amintiri.</p>
-               <p>Văzîndu-1 că abia se ţine pe picioare, devotata Mărie îl însoţi, silindu-l a se rezima de braţul şi umărul ei. Frumoasa copilă se simţea în culmea fericirei, sprijinind pe acel tînăr frumos şi iubit.</p>
+               <p>Văzîndu-l că abia se ţine pe picioare, devotata Mărie îl însoţi, silindu-l a se rezima de braţul şi umărul ei. Frumoasa copilă se simţea în culmea fericirei, sprijinind pe acel tînăr frumos şi iubit.</p>
                <p>Gimpa asistă de la fereastra bisericei la acea cununie. Întristarea şi descurajarea ce citea în faţa Sma-raldei, îl făcură să-i pară că asistă un sacrificiu omenesc.</p>
                <p>Cînd ea era să plece din biserică, rezimată de braţul fericitului mire, Gimpa, punîndu-şi tot sufletul în privire, o privi cu atîta dor şi iubire, încît juna mireasă putu să se smulgă de sub farmecul sinistru al ochilor lui Olteniceanu. Ochii ei se întîlniră cu ai lui, dar fără să-l cunoască; totuşi îi păru că citeşte într-înşii; o adîncă compătimire.</p>
-               <p>Peste cîteva minute careta trecînd pe lîngă el, îl făcu să rădice capul. Era juna pereche care plecase. Urmele caretei fu pentru dînsul ca zgomotul ce-1 face fierul ghilotinei cînd cade şi taie capul condamnatului. Un întuneric, un haos se făcu în capul lui şi căzu leşinat.</p>
+               <p>Peste cîteva minute careta trecînd pe lîngă el, îl făcu să rădice capul. Era juna pereche care plecase. Urmele caretei fu pentru dînsul ca zgomotul ce-l face fierul ghilotinei cînd cade şi taie capul condamnatului. Un întuneric, un haos se făcu în capul lui şi căzu leşinat.</p>
                <p>Cînd se deşteptă, era în locuinţa lui de la Crucea, de Piatră, iar la capu-i veghea plîngînd Maria.</p>
                <p>Cele dinţii cuvinte ce-i ieşiră din buze, fură de recus noştinţă către generoasa fată.</p>
                <p>După vreo două zile simţindu-se în stare d-a se ţine pe picioare, se sculă şi plecă. Rătăci în jurul lo-cuinţei boierului Racoveanu, ca sufletele morţilor în jurul vetrelor unde au locuit. Un serv îi spuse că juna păreclie a plecat peste Olt încă din ajun.</p>
@@ -1902,7 +1903,7 @@
                <p>Pentru că curgerea sîngelui oprea intrarea mortului în biserică, nainte d-a i se face cuvenitul serviciu religios, o aşezară în curtea bisericei.</p>
                <p>Un staroste numără preotului banii din cutie, recomandîndu-i a tîrgui toate cele trebuincioase, a împodobi un brad frumos, pentru ca înmormîntarea să se facă cu toată strălucirea, căci tîrgui o îngroapă.</p>
                <p>Gimpa căzu ameţit lîngă masa unde întinsese pe Maria.</p>
-               <p>După rădicarea moartei din strada Căldărarilor, lumea mai rărindu-se puţin, căpitan Costache Chiorul se tîrî cum putu într-o tutungerie. Tutungiul, un armean, cunoscîndu-1, se grăbi a-1 scoate pe din dos, a-1 pune într-o birjă şi a-l face scăpat.</p>
+               <p>După rădicarea moartei din strada Căldărarilor, lumea mai rărindu-se puţin, căpitan Costache Chiorul se tîrî cum putu într-o tutungerie. Tutungiul, un armean, cunoscîndu-l, se grăbi a-l scoate pe din dos, a-l pune într-o birjă şi a-l face scăpat.</p>
                <p>Ceilalţi cetaşi se făcură nevăzuţi, care cum putură. Lumea se făcea că nu-i vede tîrîndu-se.</p>
                <p>Ce-i mai păsa ei?</p>
                <p>Bătuse şi ea o dată pe căpitan Costache şi toată ceata lui? Era mulţumită acum. în generozitatea ei, îi lăsa să scape.</p>
@@ -1955,7 +1956,7 @@
                <p>A doua zi, — scrie un martur al acelei deşteptări naţionale —, membrii guvernului adunîndu-se în sala de primire, Odobescu introduse ofiţerii şi, ca organ al armatei, felicită guvernul. Eliad mulţumi în numele colegilor săi, bucurîndu-se că vede triumful cauzei naţionale asigurat de fericitul acord între popor şi armată.</p>
                <p>Atitudinea ofiţerilor însă era în doi peri; unii din ei criticau cu asprime unele articole din Constituţie.</p>
                <p>Deodată se auzi o voce de afară: „Vin proprietarii!“ Un contimporan ne spune că ar fi recunoscut, în acea voce, vocea lui Baboi.</p>
-               <p>În acel moment Solomon se apropie de Eliad şi apucîndu-1 de braţ, îi zice: „în numele proprietarilor, te arestez, domnule!.. şi pe d-voastră asemenea!” urmă el, adresîndu-se şi către ceilalţi membri ai guvernului.</p>
+               <p>În acel moment Solomon se apropie de Eliad şi apucîndu-l de braţ, îi zice: „în numele proprietarilor, te arestez, domnule!.. şi pe d-voastră asemenea!” urmă el, adresîndu-se şi către ceilalţi membri ai guvernului.</p>
                <p>Deodată cîţiva ofiţeri înconjurară pe Eliad, alţii săriră asupra iui Teii, îl dezarmară şi îl arestară în cazarmă. Fraţii Goleşti, C. Roset, Brătienii şi N. Băl-cescu fură închişi în aceeaşi cameră cu Eliad. Cît pentru Magheru, ei trase sabia şi-şi făcu drum printre ofiţeri şi, urmat de doi dorobanţi, se închise într-o cameră, decis a se apăra contra oricărui atac.</p>
                <p>Trădarea era regulată de mai nainte, căci Solomon, credinciosul lui Odobescu, alergă cu două companii de soldaţi şi năvăli în palat.</p>
                <p>Dar triumful trădătorilor nu ţinu mult.</p>

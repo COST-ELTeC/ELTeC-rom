@@ -8,7 +8,7 @@
       <fileDesc>
          <titleStmt>
             <title>Ion: ELTeC Edition</title>
-            <author>Rebreanu, Liviu (1885-1944)</author>
+            <author>Rebreanu, Liviu (1885-l944)</author>
             <respStmt>
                <resp>codare ELTeC</resp>
                <name>Lucretia Pascariu</name>
@@ -25,7 +25,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2021-04-09"/>
+            <date when="2022-03-02"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -69,6 +69,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [’'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checkUp script for new release</change>
          <change when="2020-11-14">Converted by checkUp script for new release</change>
@@ -962,7 +963,7 @@
                <p>Herdelea aprobă în tăcere, căci și lui îi plăcea Rozica, cu toate că dragostea i-o arăta numai prin glume pipărate, spuse într-o ungurească foarte stricată, care pe femeie o înveseleau totdeauna. Dăscă-lița însă bufni morocănoasă:</p>
                <p>— Repede vă mai speriați și voi de toate zdren-țele... Dacă și aia-i drăguță, apoi ce să mai zici de mama pădurii?... Cum poate să fie drăguță o femeie care-i atît de proastă că nici măcar nu știe românește?</p>
                <p>Doamna Herdelea avea un dispreț adînc pentru femeile care nu fac copii. Pe Roza Lang însă era și mai furioasă pentru că, de cîte ori se întîlneau, voia s-o silească să vorbească ungurește, mirîndu-se mereu cum se poate să nu știe ungurește soția unui învățător de stat. Dăscălița n-ar fi mărturisit în ruptul capului că nu știe, ci spunea cu mîndrie că nu vorbește fiindcă îi sunt urîți ca dracul ungurii și limba lor.</p>
-               <p>Laura și Ghighi se întorseseră acasă singure. Un-gureanu nu se mai oferise, ca altădată, să le însoțească. Din Jidovița pînă în Pripas, Laura a plîns desperată, fără să scoată'o vorbă. Ghighi însă, bănuind pricina lacrimilor surorii sale, a ocărit toată vremea pe Aurel, găsindu-i mai multe cusururi chiar decît înșuși bătrî-nii cînd erau mai porniți. Ocările ei și oboseala dru-mului au potolit puțin durerea Laurei. Îndată ce a ajuns acasă, s-a retras în salon ca să nu bage de seamă părinții că a plîns. Oricît se silea să se stăpînească, nu-și putea opri lacrimile. Simțea într-una ca și cînd o casă întreagă s-ar fi prăbușit peste ea și nu e în stare să se ridice dintre dărîmături. Cînd Ghighi veni s-o cheme la masă, minți c-o doare capul. Ar fi murit de rușine să fi fost acuma nevoită să se uite în ochii oamenilor care i-ar fi ghicit îndată supărarea.</p>
+               <p>Laura și Ghighi se întorseseră acasă singure. Un-gureanu nu se mai oferise, ca altădată, să le însoțească. Din Jidovița pînă în Pripas, Laura a plîns desperată, fără să scoată-o vorbă. Ghighi însă, bănuind pricina lacrimilor surorii sale, a ocărit toată vremea pe Aurel, găsindu-i mai multe cusururi chiar decît înșuși bătrî-nii cînd erau mai porniți. Ocările ei și oboseala dru-mului au potolit puțin durerea Laurei. Îndată ce a ajuns acasă, s-a retras în salon ca să nu bage de seamă părinții că a plîns. Oricît se silea să se stăpînească, nu-și putea opri lacrimile. Simțea într-una ca și cînd o casă întreagă s-ar fi prăbușit peste ea și nu e în stare să se ridice dintre dărîmături. Cînd Ghighi veni s-o cheme la masă, minți c-o doare capul. Ar fi murit de rușine să fi fost acuma nevoită să se uite în ochii oamenilor care i-ar fi ghicit îndată supărarea.</p>
                <p>După cină Herdelea, aducîndu-și iar aminte de scrisoarea lui Pintea, deschise ușa odăiei unde Laura își frămînta nenorocirea, și-i zise din prag:</p>
                <p>— Dar cu omul cela ce facem, domnișoară? Tu, care știi atîtea etichete, nu crezi că-i vremea să-i răspundem?</p>
                <p>Întrebarea se înfipse în inima fetei ca într-o rană proaspătă. Lacrimile o podidiră mai furtunos, în vreme ce buzele ei murmurau cu resemnare:</p>
@@ -1957,7 +1958,7 @@
                <p>Țiganul o zbughi pe poartă, în vreme ce doamna Herdelea striga într-una, amenințînd cu mătura pe preotul ce pășea foarte grăbit:</p>
                <p>— Mutule!... Am să te învăț eu omenie dacă n-ai învățat la tatăl tău! Pămătufule! Pămătufule!</p>
                <p>Zenobia, peste drum, auzind gălăgia ieși în prag și întrebă:</p>
-               <p>— Da’ce-i, doamnă? Ce-i cu domnul părinte?</p>
+               <p>— Da-ce-i, doamnă? Ce-i cu domnul părinte?</p>
                <p>— Să se bage dracu-n pielea lui de hoț! zise dăscălița cu ochii roșii de mînie,dar totuși mai răcorită.</p>
                <milestone unit="section" n="2"/>
                <p>2</p>
@@ -2490,7 +2491,7 @@
                <p>Dumitru își clăbucea mereu barba. Acum se opri și se uită lung la Ana.</p>
                <p>— Nu știu, răspunse apoi ridicînd din umeri. Poate că nu doare...</p>
                <p>— Dar cînd te naști, de ce suferi?</p>
-               <p>— Cînd te naști?... Da’cine știe dacă suferi? Apoi așa nu știe nici omul cînd moare. Numai Dumne-zeu știe! murmură bătrînul sculîndu-se în picioare și începînd să-și radă falca stingă încetinel, căci îi tremura tare mîna.</p>
+               <p>— Cînd te naști?... Da-cine știe dacă suferi? Apoi așa nu știe nici omul cînd moare. Numai Dumne-zeu știe! murmură bătrînul sculîndu-se în picioare și începînd să-și radă falca stingă încetinel, căci îi tremura tare mîna.</p>
                <p>Ana rămăsese gînditoare, cu mîinile în poală. I se păreau atît de stranii și totuși atît de adevărate vorbele moșului, încît îi era rușine că pînă azi de-abia l-a luat în seamă. În odaie nu se mai auzea decît hîrjîitul briciului și sîsîitul focului în vatră... În tindă porni deodată să cotcodăcească o găină mînioasă. Ana tresări, se gîndi că are să se trezească copilul, apoi c-ar trebui să vadă cîte ouă s-au adunat în cuibar, pe urmă c-ar fi bine să meargă să dea drumul găinei căci ușa tinzii e închisă... Dar nu se mișcă din loc. Cu ochii pironiți în spatele moșneagului, asculta scîrțîitul briciului și-i plăcea zgomotul acesta așa de mult că îndată nu mai auzi nici găina, nici vîntul care zgîlțîia ferestrele, nici picurii de ploaie care pliceau în geamuri.</p>
                <p>Dumitru se întinse brusc din șale și se întoarse spre ea cu fața jumătate rasă, jumătate umflată de clăbuci albi.</p>
                <p>— Anuță, Anuță... mor! bîlbîi dînsul lăsîndu-se pe laviță, cu briciul deschis ca o furcă în degetele dreptei și cu un surîs blînd în privire.</p>

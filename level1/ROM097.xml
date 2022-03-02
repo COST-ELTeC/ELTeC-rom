@@ -8,7 +8,7 @@
       <fileDesc>
          <titleStmt>
             <title>Un boem român: ediție ELTeC</title>
-            <author>Ghica, Pantazi (1831-1882)</author>
+            <author>Ghica, Pantazi (1831-l882)</author>
             <respStmt>
                <resp>codare ELTeC</resp>
                <name>Smărăndița Vasilachi</name>
@@ -64,6 +64,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [’'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-08-16">Annotation in ELTeC format: Smărăndița Vasilachi, Lucretia Pascariu</change>
          <change when="2019-03-19">Ocerization with Transkribus: Roxana Patras</change>
@@ -91,7 +92,7 @@
             <p>PRECUVÎNTARE.</p>
             <p>BOEMIA</p>
             <p>
-               <foreign>Ce qui caracterise la veritable dignité morale de l'homme c′est le devonement. Ce qu′on fait pour soi même peut avoir une sorte de grandeur qui commande la sprise, mais l′admiration n′est due qu'an sacrifice de la rersonalité, sous qulque forme qu′elle se prèsente. — L'èlevation de l′âme tend sans cesse a vous affranchir de ce qui est purement individuel, afin de nous unir aux grandes vues dn Créateur de l'Univers. Aimer et penser ne nous soulagent et ne nous exatent qu′en nous arrachant aux imrressions éegoistes. Le devonement et l'enthonsiasme font entrer une air plus pûr dans notre sein.</foreign>
+               <foreign>Ce qui caracterise la veritable dignité morale de l-homme c′est le devonement. Ce qu′on fait pour soi même peut avoir une sorte de grandeur qui commande la sprise, mais l′admiration n′est due qu-an sacrifice de la rersonalité, sous qulque forme qu′elle se prèsente. — L-èlevation de l′âme tend sans cesse a vous affranchir de ce qui est purement individuel, afin de nous unir aux grandes vues dn Créateur de l-Univers. Aimer et penser ne nous soulagent et ne nous exatent qu′en nous arrachant aux imrressions éegoistes. Le devonement et l-enthonsiasme font entrer une air plus pûr dans notre sein.</foreign>
             </p>
             <p>(<emph>M-me de Staël</emph>).</p>
             <p>Boemiĭ nu sunt aceĭ vagabonzĭ desfrănațĭ pe cariĭ îĭ descrie uniĭ autorĭ; nu se recrută, după cum credŭ ignoranțiĭ despre viața de Boemia, d′intre șarlatanĭ și vițioșĭ, nicĭ d′intre negustorĭ groșĭ la pungă, groși la ceafă și groșĭ la minte, nicĭ d′între tămpițĭ a căror inteligență este bornată și al căror vis de ambițiune se mărginește să căștige un post; nu; ea nu e acea viață arătată de uniĭ cu colerĭ așa de sombri; care tăraște cu ea sdrențele, vițiul și conrupțiunea, se sfărșaște în un spital și se aruncă în un mormănt necunoscut și uĭtat de toțĭ, neudat de nicĭ o lacrimă.</p>
@@ -187,7 +188,7 @@
                <p>— O! — voiŭ fi sincer cu tine, Zoe; — respunse el: — daca aș rupe relațiunele mele cu lumea, dacă m′aș înkide în singuritatea profundă, dacă aș trăi numaĭ între cărțile mele cu condeiulŭ în mănă, poate că aș căștiga ceea ce ′mĭ lipsește; dar cu prețul a căte privațiunĭ? — nu am supt oare cu laptele sănuluĭ mumeĭ mele, obiceiurĭ de lucs și de viață elegantă care mi se arădică în cap, ca acele adierĭ alle văntuluĭ de primăvară ce umplu pădurele de cănturele pasărelorŭ? — Și′mĭ aducŭ aminte de trecut? — și disiparea nu e oare o indispensabilitate în urma obiceiurilor ce am contractat?</p>
                <p>Zoe îșĭ coborî fruntea între măĭnĭ, și Paul privind′o descoperi o lacrimă ce strălucea ′n geană′ĭ ca o frumoasă piatră de opală.</p>
                <p>— Te ′ntristez; — urmă el: dar aĭ cerut să′țĭ descoper toată inima mea, această simțire mă înnăbușa, și trebue să urmez acum după ce am început; — eĭ bine o mărturisesc; — sunt obosit de</p>
-               <gap unit="page" extent="no pages" n="missing resource text"/>
+               <gap n="[missing]" unit="page"/>
                <p>gene brune, lungĭ, părul castaniŭ, și favorite semibrune.</p>
                <p>Dacă′ți aduna toate aceste, vețĭ face o ființă straniă și bizară în care urîtul se va amesteca cu frumosul fără ca nicĭ unul nicĭ altul să triumfe.</p>
                <p>Iată pentru fisicul săŭ.</p>
@@ -643,7 +644,7 @@
                </quote>
                <p>Biletul era scris în lima Francesă, Paul îl înkise, îĭ puse adresa, apoĭ îl deskise și îl dedu ofițeruluĭ.</p>
                <p>Ofițerul nicĭ nu se uĭtă la dănsul, îl luă și se pregăti să iasă.</p>
-               <p>— „Încă un cuvănt Domnule; — zisse Paul;— nu am maĭ văzut pe ofițerul cu care am venit aci; — aveam să′ĭ mărturisesc cu recunoștință de kinul kurtuoaz cu care m'a arestat. Bine voi-veĭ a împlini această comisiune de nu′l voiŭ maĭ vedea?</p>
+               <p>— „Încă un cuvănt Domnule; — zisse Paul;— nu am maĭ văzut pe ofițerul cu care am venit aci; — aveam să′ĭ mărturisesc cu recunoștință de kinul kurtuoaz cu care m-a arestat. Bine voi-veĭ a împlini această comisiune de nu′l voiŭ maĭ vedea?</p>
                <p>— „Nu voiŭ lipsi Domnule, și′țĭ voiŭ aduce mulțumirile sale.</p>
                <p>Ofițerul eși, după ce luă scrisoarea; — o arătă, saŭ nu cuĭ-va, nu stie nimic, — dar o porni.</p>
                <p>Muma sa ceru voia a visita pe fiu săŭ, această voe nu ′ĭ se acordă în zioa aceea.</p>
@@ -652,7 +653,7 @@
                <p>Paul măncă, și măncă cu foame; — în ziua aceea nu dejunase.</p>
                <p>Le 7 ore ofițerul intră.</p>
                <p>— „Bine-voițĭ a mă urma Domnul meŭ; — zise el luĭ Paul: — vă voiŭ întroduce la V, colonel Daragan care voește a vă interoga.</p>
-               <p>Paul salută ofiețrul și eși după dănsul; la ușe eraŭ doĭ cazacĭ cariĭ îl urmară: — el trecu după ofițer în un salon, apoĭ în altul, apoĭ în o cameră, şi'n sfărşit în un kabinet.</p>
+               <p>Paul salută ofiețrul și eși după dănsul; la ușe eraŭ doĭ cazacĭ cariĭ îl urmară: — el trecu după ofițer în un salon, apoĭ în altul, apoĭ în o cameră, şi-n sfărşit în un kabinet.</p>
                <p>Colonelul Daragan sta la un biuroŭ mare încărcat cu dosare, cu registre, cu foĭ sburătoare acoperite de diferite scrierĭ, și cu liste.</p>
                <p>Cănd intră Paul, el rădică capul, îl salută, Paul îĭ răspunse la acea salutare prin o ănclinare.</p>
                <p>Colonelul îĭ făcu semn să șază pe un scaun în fața luĭ, Paul șezu.</p>
@@ -690,7 +691,7 @@
                <p>— „Nicĭ nu stiŭ daca ′șĭ-a scrisără vre o dată.</p>
                <p>— „Aĭde, nu maĭ tăgădui; — funcțiunele dumitate lăngă dănsul sunt cunoscute.</p>
                <p>— „Mă ertațĭ, — v′a înșelat, nu am avut nici o foncțiune nicĭ oficială, nicĭ oficioasă lăngă Nicu Bălcescu.</p>
-               <p>— „Iaŭ notă de respunsurile Dumitale, Domnule, îĭ zise colonelul Daragan: — ele sunt triste şi descurăgietoare pentru dumneata, nu'ţi-o tăgăduesc. — Pozițiunea dumitale către guvernul actual este foarte agravată, maĭ cu seamă prin tăgă duirea ce persistĭ a conserva. — Daca aĭ fi fost maĭ facil, poziţiunea dumitale ar fost mai facilă.</p>
+               <p>— „Iaŭ notă de respunsurile Dumitale, Domnule, îĭ zise colonelul Daragan: — ele sunt triste şi descurăgietoare pentru dumneata, nu-ţi-o tăgăduesc. — Pozițiunea dumitale către guvernul actual este foarte agravată, maĭ cu seamă prin tăgă duirea ce persistĭ a conserva. — Daca aĭ fi fost maĭ facil, poziţiunea dumitale ar fost mai facilă.</p>
                <p>— „Avețĭ cuvănt, Domnile colonel; — dar nu mă pociŭ face nicĭ spionul nicĭ trădătorul nimenuĭ — maĭ cu seamă cănd nu stiŭ nimic.</p>
                <p>— „Înțeleg, înțeleg simțimintele Dumitale Domnule, și ′țĭ voiŭ zice kiar că respect acele simțimînte; — dar judecă și dumneata de pozițiunea noastră, suntemŭ așezațĭ asupra unuĭ volcan revoluționar; — asecurarea, și kiar viața uneĭ părțĭ a societățeĭ e amerințată, noĭ cată să o garantămŭ.</p>
                <p>— „Volcan revoluționar, Domnule colonel; — respunse Paul: — de ce vă temețĭ? — ceĭ cariĭ eraŭ bănuițĭ de aceasta, sunt fugițĭ, ecsilațĭ, gonițĭ.</p>
@@ -726,7 +727,7 @@
                <p>„Daca or care princip, buință de viața unuĭ om ca să′prădăcineze o idee;— de sănge, ca să ude sămănța eĭ, — mă voiŭ felicita ca moartea mea să fi putut fi utilă țăreĭ mele.</p>
                <p>„Perz aci o mumă, — mumă scumpă și bună, rude, amicĭ; — dar voiŭ regăssi acolo pe tatăl meŭ și pe Paulina! — umbre iubite, și venerate de care nu mă voiu maĭ despărți.</p>
                <p>„Cănd moartea e susținută de o sperață atăt de radioasă, o ea e dulce și ușoară.</p>
-               <p>„Dar lacrimele ce las în urma mea! — dar muma, buna mea bună! — ea mă va ′nsoți în curănd, și voiŭ fi maĭ fericit, eŭ care nu o voiŭ face s'astepte şi care voiŭ fi asteptat'o.</p>
+               <p>„Dar lacrimele ce las în urma mea! — dar muma, buna mea bună! — ea mă va ′nsoți în curănd, și voiŭ fi maĭ fericit, eŭ care nu o voiŭ face s-astepte şi care voiŭ fi asteptat-o.</p>
                <p>„O voĭ ce rămănețĭ în urma mea, ce m′ațĭ iubit și am iubit; — consolațĭ-o; — susținețĭ curagiul eĭ; — și ușurațĭ durerea eĭ.</p>
                <p>„Aș fi făcut multe lucrurĭ de aș fi avut zile maĭ lungĭ, și timp înaintea mea; — dar așa nu a voit provedința; — mor!... și mor fără a lăssa în urma mea de căt o memorie vană; — fără a lăssa nicĭ kiar un nume, care să mă păstreze în suvenirea celorŭ ce am iubit. — Eĭ mă vorŭ uĭta.</p>
                <p>„Doresc să fiŭ înmormăntat cu inelul ce am de la Paulina!</p>
@@ -834,7 +835,7 @@
                <p>Cărdjealăul.</p>
                <p>El privi pe ofițer.</p>
                <p>— Înțeleg, — un caet, — o piesă de teatru, — comisiunea aŭ oprit′o și a ars′o; — mulțumeștete că aĭ scăpat cu atăt.</p>
-               <p>— O, știĭ Domnule, un autor ține la operul luĭ cum ține un părinte la un copil. — Fie; — trebue să mă coste și pe mine ceva. — Acum o rugăciune am să′țĭ fac Domnule, aĭ fost așa afabil în căt nu′țĭ pociŭ mulțumi alt-fel de căt cu recunoștința mea, un ofițer de usarĭ care era aseară aci, m'a invitat a lua ceaiulŭ cu dânsul; — el a fost foarte bun și foarte amabil cu mine, te-aș ruga să′mĭ snuĭ unde șade și săm′ĭ facĭ și Dumneata onorul de a veni să ieĭ ceaiul la mine astă seară cu dănsul.</p>
+               <p>— O, știĭ Domnule, un autor ține la operul luĭ cum ține un părinte la un copil. — Fie; — trebue să mă coste și pe mine ceva. — Acum o rugăciune am să′țĭ fac Domnule, aĭ fost așa afabil în căt nu′țĭ pociŭ mulțumi alt-fel de căt cu recunoștința mea, un ofițer de usarĭ care era aseară aci, m-a invitat a lua ceaiulŭ cu dânsul; — el a fost foarte bun și foarte amabil cu mine, te-aș ruga să′mĭ snuĭ unde șade și săm′ĭ facĭ și Dumneata onorul de a veni să ieĭ ceaiul la mine astă seară cu dănsul.</p>
                <p>— Îl voiŭ găssi eŭ și voiŭ veni cu dănsul.</p>
                <p>Paul strănse măna ofițeruluĭ, îșĭ luă hărtiele și se repezi pe scară, jos îl aștepta o birje.</p>
                <p>El se aruncă în birje și se duse drept acasă.</p>
@@ -988,7 +989,7 @@
                <p>— O dacă trecutul se amestecă; — zisse Vasilake; — adio veselia; — vomŭ fi triștĭ ca niște scufe de noapte, și va trebui să luămŭ toțĭ căte o urnă ca să punemŭ lacrimĭ în ea; — aĭdĭ Paul adăogă el rumănește, scutură întristarea ca să nu răză astea de noĭ, ce naĭba, o suvenire e dulce o stiŭ, dar nu în asemenea momente, slăbeștemă.</p>
                <p>Trăiască veselia! — strigă el în lima francesă,</p>
                <p>— Ce așa de tănăr, și D-nu are un trecut.</p>
-               <p>— Da, o copilă naivă și frumoasă pe care a iubit′o, și care a murit de prea mult amar; — riange l'inocenza. — Dar voĭ nu știțĭ ce este asta inocența.</p>
+               <p>— Da, o copilă naivă și frumoasă pe care a iubit′o, și care a murit de prea mult amar; — riange l-inocenza. — Dar voĭ nu știțĭ ce este asta inocența.</p>
                <p>— Ce se potrivește; — dacă nu o știmŭ amŭ știut′o, — respunse Ernestina.</p>
                <p>— Da, în o zi v′a supărat prea mult, zisse Denville, și ațĭ lenădat′o în un eleșteŭ unde s′a ′necat murind în brațe cu virtutea.</p>
                <p>— Te′nșelĭ pentru mine, — zise Olimnia; — eŭ făcănd în o zi o evoluțiune ecuestră, un scutier scuturăndumă, inocența mea a leșinat în brațele luĭ, el a lăsat′o să cază și caiĭ a călcat′o în picioare, dar tu Julieto.</p>
@@ -1044,14 +1045,14 @@
                <p>
                   <emph>Denvile și Vasilake</emph>. — Baa!</p>
                <p>
-                  <emph>Ernestina</emph>. Vezĭ bine, — voĭ credețĭ că eŭ n′am inimă; — eĭ bine da, ambițiunea mea ′mĭ-a întors capul un moment, m′a amețit și am voit să mă ′nalț. — O dar cum îmĭ pare acum de răŭ, cum îmĭ sboară inima dupe mansarda mea cu floricelele desvoltate la fereastră, cu razele de soare voioase care venea să′mĭ strălucească, cu păsărelele care cirineaŭ vesele pe acoperișul caseĭ, cu răsurele și cănturele mele; — o da..... sunt momente în care m′aș re′ntoarce sărmană lucrătoare cu cusătura mea și cu amorurile mele, acolo unde ′mĭ era frig, unde suflam în degete ca să le desghieț, și unde iubeam ca să mă'ncălzesc.</p>
+                  <emph>Ernestina</emph>. Vezĭ bine, — voĭ credețĭ că eŭ n′am inimă; — eĭ bine da, ambițiunea mea ′mĭ-a întors capul un moment, m′a amețit și am voit să mă ′nalț. — O dar cum îmĭ pare acum de răŭ, cum îmĭ sboară inima dupe mansarda mea cu floricelele desvoltate la fereastră, cu razele de soare voioase care venea să′mĭ strălucească, cu păsărelele care cirineaŭ vesele pe acoperișul caseĭ, cu răsurele și cănturele mele; — o da..... sunt momente în care m′aș re′ntoarce sărmană lucrătoare cu cusătura mea și cu amorurile mele, acolo unde ′mĭ era frig, unde suflam în degete ca să le desghieț, și unde iubeam ca să mă-ncălzesc.</p>
                <p>
                   <emph>Denuvile</emph>— Lidia părăsește pe Calais pentru Orațiŭ, — și Orațiŭ părăsește pe.... cum o kema?..... am uĭtat.... fie..... pentru Lidia. — O Lidio! O Orațiŭ!</p>
                <p>
                   <emph>Paul</emph> Dacă e așa — eĭ bine să căntămŭ.</p>
                <quote type="verse">
                   <l>
-                     <foreign>„C′est un grenier point ne veut on′on l'ignore</foreign>
+                     <foreign>„C′est un grenier point ne veut on′on l-ignore</foreign>
                   </l>
                   <l>
                      <foreign>„Là fut mon lit bien chetif et bien dûr</foreign>
@@ -1088,7 +1089,7 @@
                      <foreign>„Son frais minois avee son frais chapeau</foreign>
                   </l>
                   <l>
-                     <foreign>„Déja sa main à l'étroite fenêtre</foreign>
+                     <foreign>„Déja sa main à l-étroite fenêtre</foreign>
                   </l>
                   <l>
                      <foreign>„Suspend son schâle en gnise de rideau</foreign>
@@ -1173,7 +1174,7 @@
                   <emph>Toți.</emph> Bravo! — Bravo! — unanimitate de aplaude și de priimire.</p>
                <p>
                   <emph>Denville.</emph> Eŭ voiŭ cănta Julieteĭ.</p>
-               <l>„L′amour qu′est due c'est qu′ça mamselle</l>
+               <l>„L′amour qu′est due c-est qu′ça mamselle</l>
                <p>Și ea mă va ′nvăța.</p>
                <p>
                   <emph>Ernestina.</emph> Și eŭ îțĭ voiŭ cănta Vasilake, Jenny lucrătoarea.</p>
@@ -1648,7 +1649,7 @@
                <p>Miseria venise astă dată, și venise pentru mult timp, după ce se dusse ceasornic, haĭne, rufe, și tot ce aveaŭ eĭ al lorŭ în cassă; eĭ împrumutară de la amicĭ, de la camarazĭ, de la compatrioțĭ căte cincĭ francĭ, căte zece francĭ, căte doă zecĭ francĭ; apoĭ veniră la ecspedianurĭ; — Denville și Vasilake văndură paltoanele și rămaseră de purtaŭ fiecare pe rănd paltonul luĭ Paul; văndură pantaloniĭ și luaŭ fir-care în căte o zi pantalonul luĭ Paul; cănd unul eșea, ceĭ-lalțĭ doĭ ședeaŭ acasă, în fie-care zi căte unul mergea la colegiŭ și la curs și notele sale serveaŭ și celoru-alțĭ doĭ cariĭ rămăseseră acasă.</p>
                <p>Eĭ ajunseseră de nu maĭ mergeaŭ nicĭ la cafe căntănd.</p>
                <p>Iarna venise, și cu dănsa frigul, adică gerul aspru care trimite văntul pe coș cănd nu e foc în șemine; în ceĭ întăĭ timpĭ eĭ cumpărară căte-vasarcinĭ de cărbunĭ de pămint, dar cărbuniĭ se sfirșiră; începură a se încălzi cu caielete cele vekĭ,cu cărțile clascice, cu lemnele cuferilorŭ lorŭ pe care le sfărăma și pe care le arunca în foc; dar se sfărșiră și caiete, și cărțĭ și lemne; — atuncĭ începură a sufla în degete ca să nu le înehețe cănd scria; — apoĭ veni un timp cănd numaĭ unul din eĭ eșa ca să caute mizloacele necesariĭ pentru măncare și ceĭ-lalțĭ doĭ ședeaŭ vărățĭ cu amantele lorŭ în plapumă, și nu scoteaŭ nicĭ nasul afară de temere să nu le înghețe; — căte odată un amic, sau un camagad îĭ mvita la prînz.</p>
-               <p>În sfîrșit peste șease săntămînĭ de așteptare când se întorcea în o zi de la curs notarul eși înaintea luĭ Paul și'ĭ dădu o scrisoare.</p>
+               <p>În sfîrșit peste șease săntămînĭ de așteptare când se întorcea în o zi de la curs notarul eși înaintea luĭ Paul și-ĭ dădu o scrisoare.</p>
                <p>Paul recunoscu scrierea secretaruluĭ epitropieĭ.</p>
                <p>El nu făcu de căt o săritură pînă sus, deskise ușa cu sgomot, întră, și se opri în mijlocul camereĭ.</p>
                <p>— Victorie, strigă el; — victorie, scrisoare de la epitropie, adică banĭ.</p>
@@ -2041,7 +2042,7 @@
                      <foreign>„Qui sont amoureux.</foreign>
                   </l>
                   <l>
-                     <foreign>„Et sous l'oeil des cieux.</foreign>
+                     <foreign>„Et sous l-oeil des cieux.</foreign>
                   </l>
                   <l>
                      <foreign>„S′en vont deux par deux.</foreign>
@@ -2248,7 +2249,7 @@
                      <foreign>Là Flicoteau ce refectoîre</foreign>
                   </l>
                   <l>
-                     <foreign>Oû l'on mange en trompant la faim</foreign>
+                     <foreign>Oû l-on mange en trompant la faim</foreign>
                   </l>
                   <l>
                      <foreign>Avec tant de projects de gloîre</foreign>
@@ -2273,7 +2274,7 @@
                </p>
                <quote type="verse">
                   <l>
-                     <foreign>Je reconnais ton toît d'ardoise</foreign>
+                     <foreign>Je reconnais ton toît d-ardoise</foreign>
                   </l>
                   <l>
                      <foreign>Vieivl Odéon où tant de fois</foreign>
@@ -2365,16 +2366,16 @@
                </p>
                <quote type="verse">
                   <l>
-                     <foreign>Un jour l'on passe la rivière</foreign>
+                     <foreign>Un jour l-on passe la rivière</foreign>
                   </l>
                   <l>
                      <foreign>Et grand docteur, grand avocat:</foreign>
                   </l>
                   <l>
-                     <foreign>Lors que l'on regarde en arrère</foreign>
+                     <foreign>Lors que l-on regarde en arrère</foreign>
                   </l>
                   <l>
-                     <foreign>Plus d'une fois, le cœur vous bat</foreign>
+                     <foreign>Plus d-une fois, le cœur vous bat</foreign>
                   </l>
                </quote>
                <p>
@@ -2416,16 +2417,16 @@
                      <foreign>„S′en vont deux par deux.</foreign>
                   </l>
                   <l>
-                     <foreign>Pays latin ou l'esperance</foreign>
+                     <foreign>Pays latin ou l-esperance</foreign>
                   </l>
                   <l>
                      <foreign>Courone les fronts de vigtan</foreign>
                   </l>
                   <l>
-                     <foreign>Pepinière d'où de la France</foreign>
+                     <foreign>Pepinière d-où de la France</foreign>
                   </l>
                   <l>
-                     <foreign>Sortent tant d'escript éclantants.</foreign>
+                     <foreign>Sortent tant d-escript éclantants.</foreign>
                   </l>
                   <l>
                      <foreign>Au soleil couchant qui te dore</foreign>
@@ -2434,7 +2435,7 @@
                      <foreign>Je te revois de pleurs aux yeux</foreign>
                   </l>
                   <l>
-                     <foreign>Pays Latin je t'aîme encore</foreign>
+                     <foreign>Pays Latin je t-aîme encore</foreign>
                   </l>
                   <l>
                      <foreign>Mon coeur te dit sans adieux.</foreign>
@@ -2456,7 +2457,7 @@
                <milestone unit="unnumbered"/>
                <p>— Stiĭ că sa ′mplinit un an de cănd suntemŭ cu monstriĭ aceștĭ, — zisse Ernestina.</p>
                <p>— O da; — respunse Olimpia.</p>
-               <p>Paul simţi un fior care luăndu'l din talpa picioarilorŭ îĭ trecu pînă ′n creștetul capuluĭ și îĭ sbîrli părul; — respunsulŭ Olimpieĭ era un regret și Paul stia ce ′nsemnează un regret la Olimpia;1 pănă atuncĭ ea nu calculasse timpul, și nu numerase zilele.</p>
+               <p>Paul simţi un fior care luăndu-l din talpa picioarilorŭ îĭ trecu pînă ′n creștetul capuluĭ și îĭ sbîrli părul; — respunsulŭ Olimpieĭ era un regret și Paul stia ce ′nsemnează un regret la Olimpia;1 pănă atuncĭ ea nu calculasse timpul, și nu numerase zilele.</p>
                <p>— Ele vorŭ pleca, — zisse Paul camarazilorŭ săĭ cănd eșiră din cameră ca se meargă la curs.</p>
                <p>— Teamă′mĭ e că le vomŭ găsi pe toate sburate cănd ne vomŭ reîntoarce acasă; zisse Denville cu un surăs trist.</p>
                <p>— Ba; — zisse Vasilake eŭ m′am obiunuit cu ideea aceasta; — m′așteptam din zi în zi cănd mă întorceamŭ se găsesesc camera mea singură, și se am a o regreta.</p>
@@ -2536,7 +2537,7 @@
                <p>— Unde mergĭ? — îl întrebă porlarul.</p>
                <p>— Merg; respunse el; — la d-na saŭ d-la V. M. adică la inițialele scrise pe această batistă.</p>
                <p>— A! demoazela Valentina; — zisse portarul; — la al 6-lea etagiŭ, ușa la stînga.</p>
-               <p>— A! — o kiamă Valentina; — zise Vasilake;— numele noastre începŭ prin aceea'şĭ iniţială; — o ce'ĭ propuiŭ se le ′mpreunămŭ.</p>
+               <p>— A! — o kiamă Valentina; — zise Vasilake;— numele noastre începŭ prin aceea-şĭ iniţială; — o ce-ĭ propuiŭ se le ′mpreunămŭ.</p>
                <p>Pe careul etagiuluĭ al 6-lea, era o jună femee care′l astepta, și ′ĭ eși înainte; — ea era ′nbrăcată cu un frumos <foreign>
                      <emph>négligé</emph>
                   </foreign> de primă-vară și priimi pe Vasilke c un surăs care indica un caracter amabil. De politeță, juna femee îl invită să intre în cameră la dănsa ca se guste puținŭ repaos după repeziciunea cu care el urcasse cele șasse scărĭ;— cameră căzut din toată greutatea luĭ pe un fotoliŭ.</p>
@@ -2790,7 +2791,7 @@
                <p>Cel puțin nu lingușim pasiunille și vițiurile nimuluĭ, nu suntem sclavul uneĭ posițiunĭ.</p>
                <p>Nicĭ odată nu ridicăm altare, piedestal, statue, acelor în putere, nicĭ odată condeiul nostru nu se atinge de otrava lingușireĭ, și nicĭ o dată găndi rele noastre, nu se fac curtizanele unuĭ om puternic,— Nu, inspirațiunile noastre pentru săracĭ, pentru nefericițĭ, vor resuna totŭ de a una în accente de libertate, de Naționalitate, de iubire, și respirănd tot de a una aerul independințeĭ, la sfărșitul cariereĭ noastre vom avea cel puțin consolațiunea de a ne zice: „am fost mic, obscur, necunoscut, am suferit dară nimenĭ nu ne-a auzit plăngănd; — am fost sărac dar nu am cerșitŭ la nimenĭ și putem zice și noĭ cu măndrie:</p>
                <l>
-                  <foreign>„Je n′ai flatté que l'indigeance.</foreign>
+                  <foreign>„Je n′ai flatté que l-indigeance.</foreign>
                </l>
                <p>Și cu toate astea ce suntemŭ noĭ? — Suntem mic, necunoscut, obscur; ce am gustat noĭ în viață? am văzut un moment strălucirele voioase alle uneĭ averĭ ce s′a respîndit în măĭnele noastre fără a ști cum a spulberato vîntul datorielor și allŭ inecsperiențeĭ; am iubit și nu știm de am fost iubit;— am semănatŭ puținŭ bine în calea noastră, am cules nemulțumirĭ și uĭtarea.</p>
                <p>Lanoĭ, oameniĭ încă junĭ ajung d′abia la jumătate calle a viețeĭ și se simt obosițĭ stiința, omuluĭ fără îndoială este disprețul de toate lucrurile lumeĭ, dară asta este un drept al bătrănuluĭ ce nu este dat tinerețeĭ.</p>
@@ -2843,7 +2844,7 @@
                <p>Trecuse treĭ anĭ de cănd revenise Paul;— el ocupa un post judecătoresc în provincie, și ajunsese de două zile numaĭ în rezidența districtutuĭ săŭ.</p>
                <p>Era zioa aniversară a unuĭ camarad de collegiŭ al săŭ (pe care ′l regăsise la District) veselia lucindă pe toate figurele aducea surîsurile pe buze a dame grațioase, cu toalete elegante ca și ′n Bucureșt; și voluptoase. Ele se apăsaŭ voioase și cokete pe umeri dănțuitorilor fericițĭ. — Paul însă pînă atuncĭ absorbit ca tot de auna în observările sale, ședea spectator rece și indiferent, învîrtea din cănd în cănd cîte o întoarcere de valsă, și mulțumit de bucuria camaraduluĭ săŭ și a consoarteĭ luĭ, privea cu o oare care plăcere, acele petrecerĭ de intimitate căutănd să studiă obiceiurile și legile societățeĭ aceluĭ district în care era încă noŭ.</p>
                <p>Lăutariĭ daŭ semnalul cuadriluluĭ, el îșĭ angajiase o damă, cînd ușa se diskide, și o jună femee înaltă, sveltă, gracioasă, frumoasă, intră în sala unde se dănța.</p>
-               <p>Îĭ păru că umblă iubiă și în acele momente uĭtată, eșise din mormănt palidă, și surizînd, ca să'i mustre intgratitudinea umană, şi să învârtească cu dănsul, o danță fantastică, ca o narațiune d′ale luĭ Hofman, figura luĭ deveni palidă, buzele luĭ murmurară numele Paulineĭ, (suvenire de amor și de regret!) și o lacrimă discretă, și silențioasă se coborî din cătarea luĭ.</p>
+               <p>Îĭ păru că umblă iubiă și în acele momente uĭtată, eșise din mormănt palidă, și surizînd, ca să-i mustre intgratitudinea umană, şi să învârtească cu dănsul, o danță fantastică, ca o narațiune d′ale luĭ Hofman, figura luĭ deveni palidă, buzele luĭ murmurară numele Paulineĭ, (suvenire de amor și de regret!) și o lacrimă discretă, și silențioasă se coborî din cătarea luĭ.</p>
                <p>Ea indiferinte și rîzătoare salută pe toțĭ cu un surîs grațios, și se așeză pe pat, (poate de koketărie) între doă persoane tinere dar urîte, înalte, slabe și cocăriate ce semănaŭ a două omizĭ. — Toate femeele ce străluceaŭ pînă atuncĭ în serată, roșiră, ′șĭ mușcară buzele, și lăsară să se vază un oare care surîs de invidie și de jaluzie, ce simte or care femee la vederea uneĭ alte femeĭ maĭ frumoasă de cît dănsa. Frumuseța eĭ suavă și diafană lucea între cele alte ca o stea luminănd între stele palide și perinde, și încăntătoare ca o floare delicoasă, cu dulce profum ′ntre florĭ comune și neespresive.</p>
                <p>— Cît este de frumoasă; zise el estasiat, unuĭ june francez ce ședea rezemat de o masă lîngă dănsul.</p>
                <p>— Sublimă ′ĭ respunse francezul.</p>
@@ -3054,7 +3055,7 @@
                <p>— Mĭ este amantă.</p>
                <p>— Stăĭ aci Domnulŭ meŭ; ĭ zise Paul; pînă acum te am lăsat să vorbeștĭ pentru că te asecur găseam tonul dumitale, pauza dumitale, foarte dramatică-bufonă; și mĭ propuneam o distracțiune de căte-va ore, dar din momentul în care este kestiune de o femee ce consider și respectŭ sub toate puncturile de privire; — îndată ce este în kestie onorul uneĭ dame de societate, conversațiunea devine puțin demnă de doĭ oamenĭ bine crescuțĭ bine născuțĭ cariĭ trăesc în societate. Nu te-am întrebat ce relațiunĭ esistŭ între dumneata și acea damă; — bine voeste a nu-mĭ spune nimica.</p>
                <p>— Ba; nu așa; — Pthrruuu; ascultămă; — respunse Alecu — voesc să am cu dumneata o esplicare ca să nu se facă neînțelegerĭ; te cunosc, te stim, te consider foarte mult.</p>
-               <p>— Cum văz opinia dumitale despre mine s′a modificat foarte mult de erĭ încoacĭ; căcĭ erĭ încă, propagaĭ asupra'mĭ calomniĭ şi defăimărĭ aşa de marĭ așa de neadevărate în căt nu-șĭ poate imagina cine-va, că asemenĭ enormitățĭ pot eși dintr′un omenaș așa de mititel.</p>
+               <p>— Cum văz opinia dumitale despre mine s′a modificat foarte mult de erĭ încoacĭ; căcĭ erĭ încă, propagaĭ asupra-mĭ calomniĭ şi defăimărĭ aşa de marĭ așa de neadevărate în căt nu-șĭ poate imagina cine-va, că asemenĭ enormitățĭ pot eși dintr′un omenaș așa de mititel.</p>
                <p>— Stăĭ Domnule.. nu am zis necĭ odată, răŭ de Dumneata, intrigĭ ale mișeilor ce voesc să ne desbine şi să ne aducă la certe; — din contra ′țĭ repet te consideri te stim, ′țĭ doresc amicia, și de aceea viŭ ca la un om de onor, să′țĭ spuĭŭ; acea femee este amanta mea, lasăte de ea și nu o maĭ curta.</p>
                <p>— O să te rog un lucru Domnule B....</p>
                <p>— Poruncește.</p>
@@ -3238,7 +3239,7 @@
                <p>Paul se întălnea cu dănsa, seara înlcămăruța care servea tatăluĭ săŭ de canțelarie; o masă de lemn alb, un scaun de lemn ce avea spatele rupt, un pat cu patru scăndurĭ neecuale așezate una lăngă alta, eraŭ tot mobilierul ce forma acea canțelarie, atăt de bogată în fericirĭ și voluptățĭ.</p>
                <p>Saŭ cănd nu se putea întălni în canțelarie, se întălneaŭ în cuhnie.</p>
                <p>Acea cuhnie era ceva și maĭ pitoresc,vatră de pămănt cu cărămizĭ,— un pat cu patru scănduri ca cel din Canțelarie,- în vatră tot d′auna foc, doă limĭ de fer, și un cazan cu apă fiartă.</p>
-               <p>În acea canțelarie, în acea cuhnie, o străngea în brațele luĭ,— acolo îĭ zicea ea că'l iubește, — acolo îĭ da să rutările maĭ în bătătoare, — cele maĭ amoroase,- acolo îl încongiura ea cu brațeleĭ amoroase, — acolo îĭ jura un amorŭ etern, — etern ca tot ce trăsce în viață.</p>
+               <p>În acea canțelarie, în acea cuhnie, o străngea în brațele luĭ,— acolo îĭ zicea ea că-l iubește, — acolo îĭ da să rutările maĭ în bătătoare, — cele maĭ amoroase,- acolo îl încongiura ea cu brațeleĭ amoroase, — acolo îĭ jura un amorŭ etern, — etern ca tot ce trăsce în viață.</p>
                <milestone unit="unnumbered"/>
                <p>Pentru ′ntăia oară, — seara era ′ntunecoasă, o bură de ploaie mică pica, și noroiul venea pînă la glesna picioarelor luĭ; — după convențiunea făcută între el și Calița, (Calița era subretă confidentă a Lineĭ); — cănd se întuneca, el era la ulucele caseĭ, pe din dos și dedu semnalul otărăt, fluerînd din toate puterele luĭ o arie Romănească; — Calița veni îl așeză lăngă o clae de făn, seduse de se asicură că nu era nimenĭ la ferestrele tatăluĭ eĭ, ș′apoĭ fiind că, și canțelaria și cuhnia erau pline de oamenĭ în seara aceia, îl băgă subt șopron în dosul trăsureĭ, și merse de ′nsciință pe Lina că o asteaptă.</p>
                <p>O! căte fericirĭ sublime și delicioase a gustat el acolo!</p>
@@ -3334,7 +3335,7 @@
                <p>— E! tora unde merzimu coconasule; — îl întrebă Grecoteiul.</p>
                <p>— La casa P...... R....... stiĭ? — îĭ întrebă Paul.</p>
                <p>— Ohi! — respunse hangiul, ego nu stiŭ, ma si gasimŭ, se ′ntrebamu.</p>
-               <p>Întrebară pe maĭ mulțĭ trecătorĭ cariĭ le arătară drumul, și se orientară după informările ce l'i se daŭ pînă ce ajunseră acolo.</p>
+               <p>Întrebară pe maĭ mulțĭ trecătorĭ cariĭ le arătară drumul, și se orientară după informările ce l-i se daŭ pînă ce ajunseră acolo.</p>
                <p>Eĭ se optiră lăngă portiță, Paul flueră aria obicnuită; — Grecul sări și deveni palid.</p>
                <p>— Ma tine ine asta? — zise grecul sărind și dănduse înapoĭ speriat.</p>
                <p>— şşșt! — îĭ respunse Paul apucăndu′l de braț, și ascunzănduse cu el după portiță.</p>
@@ -3352,7 +3353,7 @@
                <p>Privind′o cineva apăsată pe dănsul, cu brațu′ĭ ănconjurăndu′ĭ gătul, cu păru′ĭ blond gădilîndu′ĭ ligura, cu măna′ĭ pe peptul seŭ; — ar fi zis, „Iată un om pe care ′l iubeșce Dumnezeŭ căcĭ îĭ a dat un ănger să′l păzească.”</p>
                <p>Într′o seară, mersese la băĭ să facă o ′catagrafie de averea unuĭ răposat; ” — ăn seara aceia sub Administratorul da un bal; — era o Duminecă.</p>
                <p>Ca ăn toate sărbătorele lumea adunată dinnaintea hanuluĭ asculta lăutariĭ, și cavaleriĭ amabili serveaŭ damele; Paul ședea lăngă ea.... după sfărșitul horeĭ și al petrecerelor toată lumea ănainte de a merge la bal pleacă să se plimbe, Lina să oprește acasă, Paul dă pe din dos și se duce în grădină unde era locul ăntălnirelor fericite. Trecuse aproape o oră cănd Calița vine și le spune că a venit Iorgu și că păzește la portiță; Paul ese pe poartă, fără ca el să′l poată vedea, el intră ăn cassă, îl caută prin toate părțile, face o scenă nevesteĭ luĭ, o ceartă oragioasă și teribilă să petrece ăntre dănșiĭ după care ceartă el să convinge că e un guguman și că Paul nu era de loc acolo, nicĭ nu văzuse pe nevasta luĭ.</p>
-               <p>Altă dată, ăĭ a părut că Paul era la poartă și că nevasta luĭ a eșit să′l ăntălnească, atuncĭ că repede după dănsa, o apucă și ăncepe a bate pe Calița; — să face un scandal așa de mare ăn căt aud toțĭ veciniĭ cariĭ să reped și eĭ, aleargă și vinŭ de aduc pacea ăîn casă și între Hagiul, pe care fratele eĭ sta gata să'l scilogească.</p>
+               <p>Altă dată, ăĭ a părut că Paul era la poartă și că nevasta luĭ a eșit să′l ăntălnească, atuncĭ că repede după dănsa, o apucă și ăncepe a bate pe Calița; — să face un scandal așa de mare ăn căt aud toțĭ veciniĭ cariĭ să reped și eĭ, aleargă și vinŭ de aduc pacea ăîn casă și între Hagiul, pe care fratele eĭ sta gata să-l scilogească.</p>
                <p>De atunci Hagiul nu maĭ avu astămpăr, el rupse legăturele intimitățeĭ sale cu Plaul, și ăncepu a ′l privi nu numaĭ cu răceală dar și cu ură.</p>
                <p>Puțin ănsă ăĭ păsa luĭ Paul, și de răceala și de ura luĭ, cu toată survegerea, cu toate observaţiunele lui Paul şi Lina găseaŭ mizlocul de a se ascunde de dănsul, de a se degiza, de a se întălni.</p>
                <p>În fine văzănd că nu poate a avea nicĭ o dovadă, nicĭ kear o asecurare despre adulterul nevesteĭ luĭ, litățĭ și necertitudinĭ, să decide odată a cere luĭ Paul o ecsplicațiune; — îl acostă, și din ecsplicațiunea lor rămase convins că lumea ăl ănșelase, și intimitatea lor redeveni tot aceia.</p>
@@ -3368,7 +3369,7 @@
                <p>— Ce facĭ amice, calul tăŭ aci este?</p>
                <p>— Aci Domnule, avețĭ trebuință de el.</p>
                <p>— Așa, însă aș vroi să mă însoțeștĭ și tu.</p>
-               <p>— Bucuros Domnule, numaĭ vorbițĭ Dumneavoastră Vahmistruluĭ să nu'mĭ zică ceva.</p>
+               <p>— Bucuros Domnule, numaĭ vorbițĭ Dumneavoastră Vahmistruluĭ să nu-mĭ zică ceva.</p>
                <p>— Bine, diseară cănd s′o′ntuneca bine, tu să viĭ călare și să mă aștepțĭ aci, lăngă prăvăliea lui Grigorie Gugeamuș la colț— și plata o știĭ.</p>
                <p>— Am ănțeles Domnule să trezeștĭ.</p>
                <p>Seara se duse cu un amic ce venise din Bucureștĭ, la I..... francez, acolo se apucă de o preferanță, și uĭtase calul și dorobanțul, cănd Hagiul intră ăn cameră. — Atuncĭ Paul ăși aduce aminte ăndată proiectul luĭ, se scoală ca un om care a uĭtat ceva foarte important și roagă pe Hagiul să′ĭ ție locul pănă ce se va re′ntoarce;— apoĭ ăntorcăndusă către amiciĭ seĭ.</p>
@@ -3414,9 +3415,9 @@
                <p>Recunoscănd vocea bărbatuluĭ eĭ, ea se aruncă subt o masă de toaletă ce era colo.</p>
                <p>Era ce va nobil și mare ăn femea aceia care priimea desonorul, ura bărbatuluĭ eĭ, desconsiderațiunea societățeĭ, disprețul tatăluĭ eĭ, perderea numeluĭ șia pozițiuneĭ eĭ pentru cel ce o iubea;— vea curagiul și abnegațiunea de a zice ăn fața lumeĭ „iubesc, și mormăntul numaĭ mă va despărți de ceĭ ce mă iubesce.”</p>
                <p>Era ce va nobil și mare ăn femea aceiea care renunța la tot ce e în lume, dat uneĭ femeĭ, și făcea sacrifiiciul onoruluĭ eĭ omuluĭ iubit.</p>
-               <p>De atuncĭ căt va timp fu o survegere de tot momentul, din partea Hagiuluĭ; locurile lor de ăntălnire eraŭ cunoscute de dănsui și spionate cu cele maĭ strasnice invențiunĭ, și ea și el erau urmărițĭ spionațĭ ăn toate pasurele lor. — O dar amanțiĭ sănt ingenioșĭ și nu să lasă să se discurajeze, Calița privegea acasă cănd el eșa pe cănd aprodul pus ăntr′un colț al ulițeĭ vedea cănd venea el în tărg și venea ăndată de îl ănștiința; atuncĭ ocolea ulițele pe din dosul țigănieĭ eșa tocmaĭ afară din barieră lăngă fortificațiunĭ la capul grădineĭ eĭ; ea ascunzănduse p'între arborĭ mergea acolo unde o luoa la braț, și căutaŭ amăndoĭ locul misterios și ferice unde amorul lor ascuns okilorŭ indiscrețĭ putea scăpa de spionarea Hagiuluĭ.</p>
+               <p>De atuncĭ căt va timp fu o survegere de tot momentul, din partea Hagiuluĭ; locurile lor de ăntălnire eraŭ cunoscute de dănsui și spionate cu cele maĭ strasnice invențiunĭ, și ea și el erau urmărițĭ spionațĭ ăn toate pasurele lor. — O dar amanțiĭ sănt ingenioșĭ și nu să lasă să se discurajeze, Calița privegea acasă cănd el eșa pe cănd aprodul pus ăntr′un colț al ulițeĭ vedea cănd venea el în tărg și venea ăndată de îl ănștiința; atuncĭ ocolea ulițele pe din dosul țigănieĭ eșa tocmaĭ afară din barieră lăngă fortificațiunĭ la capul grădineĭ eĭ; ea ascunzănduse p-între arborĭ mergea acolo unde o luoa la braț, și căutaŭ amăndoĭ locul misterios și ferice unde amorul lor ascuns okilorŭ indiscrețĭ putea scăpa de spionarea Hagiuluĭ.</p>
                <p>Odată luănd′o la braț a eșit amăndoĭ pe un noroiu pănă la glesnă ascunzănduse și umblănd pe lăngă șanțurĭ ăn desuptul înălțimelor pănă la bariera Geăeștilor, unde aŭ intrat ăntr′o căsuță, mică cărcumă a căreĭ posesoare era o nepoată a aprodului. — Altă dată într′o cășcioară de țărancă afară din barieră pe drumul Lazurilor, a pusără o scară și s-a urcat amăndoĭ ăntr′un pod dărămat unde a așternutără o velință ca să poată ședea.</p>
-               <p>Căt era de nobilă, de bravă, de curăgioasă acea femee care să lupta cu survegerea bărbatuluĭ eĭ, cu disgrația tatăluĭ eĭ, cu primejdiile furiilor de jealuzie alŭ Hagiuruĭ pentru amorul luĭ Paul! căt era de nobilă și plină de abnegațiune acea creatură frelă, delicată, palidă, ce să inima ăncet cu ăncetul la focul amoruluĭ, și găssea ăn inima eĭ o eroică energie ca să afrunte tot şi să'ĭ dea luĭ o oră de fericire, o parte din ce avea maĭ sănct și maĭ frumos în sufletul eĭ; — orĭ ce suferință, orĭ ce neplăcere, orĭ ce umiliațiune o găsea resimnată și surăzăndă, și lacrima ce trecea aurie prin genele eĭ să amesteca ne buză′ĭ cu razele aceluĭ surăs de ănger divin ce păstra tot d′auna pentru Paul — o da! în momentul acela să credea iubit, iubit în adevăr cu sinceritate. Dar ce e maĭ bizar și maĭ capricios de căt o femee?</p>
+               <p>Căt era de nobilă, de bravă, de curăgioasă acea femee care să lupta cu survegerea bărbatuluĭ eĭ, cu disgrația tatăluĭ eĭ, cu primejdiile furiilor de jealuzie alŭ Hagiuruĭ pentru amorul luĭ Paul! căt era de nobilă și plină de abnegațiune acea creatură frelă, delicată, palidă, ce să inima ăncet cu ăncetul la focul amoruluĭ, și găssea ăn inima eĭ o eroică energie ca să afrunte tot şi să-ĭ dea luĭ o oră de fericire, o parte din ce avea maĭ sănct și maĭ frumos în sufletul eĭ; — orĭ ce suferință, orĭ ce neplăcere, orĭ ce umiliațiune o găsea resimnată și surăzăndă, și lacrima ce trecea aurie prin genele eĭ să amesteca ne buză′ĭ cu razele aceluĭ surăs de ănger divin ce păstra tot d′auna pentru Paul — o da! în momentul acela să credea iubit, iubit în adevăr cu sinceritate. Dar ce e maĭ bizar și maĭ capricios de căt o femee?</p>
                <p>În fine ea să decise a sfășia această viață de ancsietățĭ, significă bărbatuluĭ eĭ ăn termenĭ precizĭ că nu numaĭ nu va renunța la Paul dar că nu maĭ vroește sunt nicĭ un pretecst a maĭ trăi cu dînsul și toată dorința eĭ era a să despărți definitiv de el — ăĭ declară că din momentul acela să credea cu totul liberă, că nu′l va maĭ asculta nicĭ odată, şi că nicĭ odată nu va maĭ fi pentru el, alt ceva decăt o cunoscută indiferintă și rece- după o scenă orăgioasă Hagiul ășĭ văndu tot și să mută la mumăs′a.</p>
                <p>O din momentul acela eraŭ liberĭ!</p>
                <p>Dar ea însă′șĭ obosită de Hagiul rupse odată cu dănsul, cu desăvîrșire și pentru tot d′auna.</p>
@@ -3608,7 +3609,7 @@
                <p>Scrisorile către <emph>Vegezzi Ruskala</emph> de și scrise de alt autor sunt urmare a luĭ Chainov;— ele tratează kestiunea după conferințe cu aceiașĭ! maturitate de om de stat, cu acea′șĭ seriositate reală și erudită, ca și Chainov.</p>
                <p>Autoriĭ luĭ Chainoy zi al scrisorilor către Vegezzi Enscala și Vasile Alecsandri sunt necontestat oameniĭ ceĭ maĭ de spirit din Romănia, ceĭ maĭ învățațĭ ceĭ maĭ capabili, și ceĭ maĭ adevărațĭ bărbațĭ oamenĭ de stat aĭ Romănieĭ.</p>
                <p>Singurele defecte ale luĭ Chainov și al scrisorilor către Vegezzi Cuscala, — este că nu sunt scrise și ′n Romănesce, — acestă lacună se ′nțelege prin scopul cu care au fost scrise; — note diplomatice date pe la Ambasade— deslușirĭ politicĭ, create ca se lumineze Europa asupra situațieĭ, noastră politică.</p>
-               <p>(De mult n′eam propus se ′plinim această lacună cerînd voia autorilor și traducănd acele scrierĭ remarcabile în Româneşte, pînă acum timpul nu n'ea ertat)</p>
+               <p>(De mult n′eam propus se ′plinim această lacună cerînd voia autorilor și traducănd acele scrierĭ remarcabile în Româneşte, pînă acum timpul nu n-ea ertat)</p>
                <milestone unit="unnumbered"/>
                <p>În autoriĭ nostri am uitat pe spiritualul şi celebrul Millo; Moliere al Romănieĭ; — Tuzu Calicul și Prăpăstiile Bucurestuluĭ sunt comediĭ de caracter, studiurĭ profunde și filosofiice, scolĭ morale și biciŭ fulgerător al vițiurilorŭ, și al defectelor societățeĭ noastre; — Tuzs e un tin moral și perfect,— <emph>Lică Cobuz Apazio</emph> sunt portreturĭ contimporane ale societățeĭ noastre.</p>
                <l>„Vezĭ cel ce strigă în gura mare</l>
@@ -3644,7 +3645,7 @@
             <note>Cu ecspresiunea de mătușă studențiĭ în Francia cualifică muntele de Riéte unde′șĭ punŭ lucrurile amanet.</note>
             <note>Discurs.</note>
             <note>Aşa se numeşte acolo asemenea aresturĭ</note>
-            <note>Rue d'Enfer; Uliţa Iadului</note>
+            <note>Rue d-Enfer; Uliţa Iadului</note>
             <note>Néglige — kostum alb cusut cu broderiĭ pentru dimineaţă.</note>
          </div>
       </back>

@@ -11,7 +11,7 @@
       <fileDesc>
          <titleStmt>
             <title>Don Juanii din București: ediție ELTeC</title>
-            <author>Ionescu, Radu (1834-1872)</author>
+            <author>Ionescu, Radu (1834-l872)</author>
             <respStmt>
                <resp>Codare ELTeC</resp>
                <name>Roxana Patras</name>
@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2021-04-09"/>
+            <date when="2022-03-02"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -59,6 +59,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [’'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checkUp script for new release</change>
          <change when="2020-11-14">Converted by checkUp script for new release</change>
@@ -70,7 +71,7 @@
    <text>
       <front>
          <div type="titlepage">
-            <gap unit="graphic"/>
+            <gap n="[editorial]" unit="graphic"/>
             <p>Radu Ionescu la 1866</p>
             <p>RESTITUTIO</p>
             <p>RADU IONESCU</p>
@@ -159,7 +160,7 @@
             </l>
             <l>
                <quote>
-                  <foreign>Que personne n’a fait, que Mozart a rêvé,</foreign>
+                  <foreign>Que personne n-a fait, que Mozart a rêvé,</foreign>
                </quote>
             </l>
             <l>
@@ -174,7 +175,7 @@
             </l>
             <l>
                <quote>
-                  <foreign>Admirable portrait qu’il n’a point achevé,</foreign>
+                  <foreign>Admirable portrait qu-il n-a point achevé,</foreign>
                </quote>
             </l>
             <l>
@@ -190,7 +191,7 @@
             </l>
             <l>
                <quote>
-                  <foreign>Ce nom mystérieux que tout l’univers prend,</foreign>
+                  <foreign>Ce nom mystérieux que tout l-univers prend,</foreign>
                </quote>
             </l>
             <l>
@@ -200,17 +201,17 @@
             </l>
             <l>
                <quote>
-                  <foreign>Si vaste et si puissant, qu’il n’est pas de poète</foreign>
+                  <foreign>Si vaste et si puissant, qu-il n-est pas de poète</foreign>
                </quote>
             </l>
             <l>
                <quote>
-                  <foreign>Qui ne l’ait soulevé dans son coeur et sa tête</foreign>
+                  <foreign>Qui ne l-ait soulevé dans son coeur et sa tête</foreign>
                </quote>
             </l>
             <l>
                <quote>
-                  <foreign>Et pour l’avoir tenté ne soit resté grand.</foreign>
+                  <foreign>Et pour l-avoir tenté ne soit resté grand.</foreign>
                </quote>
             </l>
             <p>Cît este de frumos acest Don Juan! ce creaţiune plină de farmec şi de poezie!</p>
@@ -648,7 +649,7 @@
             <p>— Mi se pare că şi tu pierzi, Burton, dar nu pierzi mult, zise Forian adresîndu-se către o persoană foarte elegant îmbrăcată, deşi era foarte groasă, foarte grasă şi foarte burtoasă, pentru care i se zicea şi Burton. Cu tot corpul său voluminos, Burton nu era un om urît: se mişca cu anevoinţă silindu-se însă a fi graţios, mai mult prin su-rîsul său, căci cînd voia să se plece, se pleca cu tot corpul, fiindu-i cu neputinţă a-şi îndoi mijlocul. Gîtul său cel gros nu-i permitea a-şi întoarce capul cu înlesnire şi era silit a se mişca iară cu tot corpul, la dreapta sau la stînga, ţiind mai totdeauna mînele în jos încovoiate, ceea ce-l făcea să semene prea mult c-un vas mare cu mînuşi. Guşa sa foarte dezvoltată se odihnea alene pe un guler ascuţit, ale căruia colţuri le pleca în jos sub greutatea ei. Părul său, des şi bogat, îi lăsa prea puţin fruntea descoperită, şi printr-o cărare foarte dreaptă, ce pleca din dreptul nasului şi mergea pînă la ceafă, care se revărsa peste guler, era despărţit în două aripe mari, stufoase şi strălucitoare, cari mărea şi mai mult capul său, dîndu-i înfăţişare foarte ciudată. Burton avea o singură solidă ocupaţie, în care cîştigase o reputaţie foarte meritată; era un adevărat oracul pentru toţi cari voia cîteodată să-şi dezmierdeze stomahul. Burton mai avea un rival în această grea ştiinţă, care cere mari mijloace intelectuale, imaginaţie, calcul, prezenţă de spirit, deosebite combinări, deosebite invenţi-uni şi, mai presus de toate, un gust foarte dezvoltat. Acest rival era Forfanteron, care, pe cînd norocul jîl legăna în braţele sale, era muncit zi şi noapte de nobila ambiţiune de a mînca în Bucureşti mai bine decît toţi. Burton era un şcolar al său, care, cu dispoziţiile naturale ce avea şi cu studiile serioase ce a făcut, a izbutit a dobîndi o specialitate în care se deosebea pe fiecare zi mai mult, pentru că avea un adevărat cult pentru burtă. Gînd mergea cu amicii săi să supeze noaptea la Hotel de France, unde Hugues avea cea mai bună cuhnie franceză, Burton se punea la biurou şi făcea carta, căci toţi striga: Burton să facă carta! şi, c-o nemărginită încredere în gustul său şi în adînca sa ştiinţă, toţi era siguri că avea să mănînce bine. Hugues chiar era gelos d-atîta ştiinţă ce vedea într-un profan, dar perspectiva cîştigului ce asemenea cartă desfăşura în mintea sa îl făcea să înăbuşească în sînul [său] orice exploziune de rivalitate şi să zică frecîndu-şi mîinile:</p>
             <p>— Este perfect, n-am văzut niciodată un gust mai fin şi mai delicat, după care adauga şi un calambur.</p>
             <p>Şi Burton, mîndru şi zîmbind, ceea ce-i umfla guşa, zicea:</p>
-            <p>— <foreign>N’est-ce pas, père Hugues</foreign>?</p>
+            <p>— <foreign>N-est-ce pas, père Hugues</foreign>?</p>
             <p>Cînd Forian întrebă pe Burton dacă pierde, acesta vorbea cu Forfanteron despre o mîncare nouă ce a învăţat pe bucătarul său să facă, şi vorbea cu atîta entuziasm despre calităţile suculante ale acestui fel de bucate, care făcea pe Forfanteron să-şi deschiză ochii mari şi să ridice sprincenile, încît n-auzi întrebarea lui Forian.</p>
             <p>— Pierzi şi tu, Burton? mai repetă Forian, apropiindu-se de el.</p>
             <p>— Nu pierz mult, cocoane Tache.</p>

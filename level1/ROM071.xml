@@ -8,7 +8,7 @@
       <fileDesc>
          <titleStmt>
             <title>Mara. Roman: ELTeC Edition</title>
-            <author>Slavici, Ioan (1848-1925)</author>
+            <author>Slavici, Ioan (1848-l925)</author>
             <respStmt>
                <resp>codare ELTeC</resp>
                <name>Camelia Gradinaru</name>
@@ -29,7 +29,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2021-04-09"/>
+            <date when="2022-03-02"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -64,6 +64,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [’'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checkUp script for new release</change>
          <change when="2020-11-14">Converted by checkUp script for new release</change>
@@ -969,7 +970,7 @@
             <p>— Uite! — adăugă iar Gheorghe — îmi faci mie cinstea să stai cîteva zile la casa mea.</p>
             <p>Păvăluț se uită strîmtorat la moșu-său, ca să spună el de ce adecă nu poate chiar acum să se ducă. Bătrî-nul însă era slab în fața nepotului său, care era un singur om; cum oare ar fi putut să fie tare în fața unui sat întreg? De! așa numai, cu una, cu două, nu se cîștigă inimile oamenilor: el știa cît li-a umblat în voie, și nu putea să și-i înstrăineze acum, după ce vedea că ei țin, dacă e vorba, mai mult la nepotul lui decît la fata preutesei.</p>
             <p>— Să te duci! zise el. Cînd om ca dumnealui te poftește-n gazdă, ai să le lași toate la o parte și să te duci.</p>
-            <p>Gheorghe zîmbi pe sub mustață: vedea că'bine-a apucat-o și bine-a adus lucrurile, iar mai departe grija lui era.</p>
+            <p>Gheorghe zîmbi pe sub mustață: vedea că-bine-a apucat-o și bine-a adus lucrurile, iar mai departe grija lui era.</p>
             <p>Păvăluț a plecat cu dînșii, s-a dus, a tras la casa lui Gheorghe al lui Baltă, și parcă toate erau cum altfel nici că s-ar fi putut. încă pe drum se obicinuise cu gîndul că nu se poate parohie mai frumoasă decît cea din Buteni, mai ales cînd poporenii te vreau și fără de fata preutesei. Nu-i vorba, cînd ai moș protopop și nu ești de acasă tocmai sărac, poți s-ajungi popă și fără ca să te vrea satul, dar tot e mai bine să te voias-că, fiindcă cu poporenii-ți petreci zilele vieții și vlădica ține și el să fie într-un gînd cu poporul.</p>
             <p>Era, cu toate aceste, foarte greu să te știi în același sat cu preuteasa și cu Maria, fata ei, și-i venea lui Păvăluț să fugă de cîte ori se gîndea că are-n biserică să dea ochi cu ele.</p>
             <p>Asta o știa și Gheorghe.</p>
@@ -1540,7 +1541,7 @@
             <p>— Care va să zică ea-l voiește? întrebă Bocioacă cu îndoială.</p>
             <p>Mara dete din cap.</p>
             <p>— Nu! — zise ea hotărîtă și mîndră — deloc nu-l voiește, dar umblă el după ea, și nu știi niciodată cînd îi vine femeii clipa de slăbiciune. Eu stau, săraca de mine — adaugă ea suspinînd — pe gînduri, mă tem și mă tem și nu știu ce să fac!</p>
-            <p>— Apoi nu-i așa, grăi Bocioacă așezat. Ai să știi ce trebuie să faci. Tinerețele sunt năvalnice și slabe și trebuie să fie păzite și ferite de ispitiri. Las’că-l mătur eu de aici. El n-are ce să caute la Lipova: ori să duce să-și facă rîndul de călătorie, ori rămîne toată viața lui calfă proastă!</p>
+            <p>— Apoi nu-i așa, grăi Bocioacă așezat. Ai să știi ce trebuie să faci. Tinerețele sunt năvalnice și slabe și trebuie să fie păzite și ferite de ispitiri. Las-că-l mătur eu de aici. El n-are ce să caute la Lipova: ori să duce să-și facă rîndul de călătorie, ori rămîne toată viața lui calfă proastă!</p>
             <p>— Vai de mine! să nu faci lucrul acesta — strigă Mara — c-o să fie şi mai rău!</p>
             <p>— N-am eu s-ascult de d-ta, răspunse el. Sunt staroste și am să-mi fac datoria. Era — urmă apoi mai mult așa pentru dînsul — să închid un ochi fiindcă o vedeam strîmtorată pe muma lui; dar cînd e la mijloc și altă poruncă mai tare, la asta mă supun. Are să se ducă, iar grija noastră e s-o găsească pe Persida măritată cînd se întoarce. Îi găsesc eu bărbat, zece la fiecare deget.</p>
             <p>Nu dorea nici dînsa ca altfel să fie.</p>
@@ -2173,7 +2174,7 @@
             <p>Pe drum pînă la Viena și în Viena, orașul cel mare și zgomotos, ea nu vedea decît pe Națl, care nu mai stia ce să-i facă. Totdauna el s-a uitat la ea ca la soarele de pe cer, iar acum mai era cuprins și de sîmță-mîntul că nu este el în stare să răsplătească îndeajuns jertfa pe care dînsa i-o adusese, și în toată clipa-și dedea silința să-i arăte că înțelege și cuprinde în toată întinderea ei jertfa aceasta.</p>
             <p>N-avea să-și deie nici o silință: Persidei îi era destul să-l vadă mereu voios și să-și aducă aminte în ce stare l-a găsit pentru ca să sîmtă că ea l-a scăpat, l-a ridicat, i-a luminat viața și să se uite la el parcă ea l-ar fi făcut. Al ei era întreg acest om minunat, și nimeni, afară de dînsa, nu mai avea nici un drept asupra lui.</p>
             <p>Înainte de plecare Națl se mai împrumutase de la Griner cu opt sute de florini. Gindul lui era să între în tovărășie cu vreunul dintre măcelarii mai tineri și mai săraci. Deocamdată și-au închiriat o locuință cu două încăperi, și-au cumpărat ceea ce era de neapărată trebuință pentru mobilarea acestei locuințe, și Persida avea toate bucuriile stăpînei de casă care e ferită de grijile zilei de mîne. Ieșeau în fi.ecare zi să vadă fru-musețele orașului și mai ales bisericile cele mari, în care Persida se sîmțea atît de bine, mîncau la birt, iar serile le petreceau fie la muzică, fie la teatru, un lucru pe care Persida mai nainte numai din auzite îl știuse. Și nicăiri Persida nu putea să treacă nebăgatt.-n seamă. În casa cea mare unde-și aveau locuința în curînd toți o știau pe Frâu Huber, femeia tînără, înaltă și cam slăbită, cu deosebire frumoasă și totdeauna așezată și plină de o plăcută cuviință. Pe uliță, prin grădini, prin localuri publice Națl își purta capul sus, înălțat în gîndul lui cînd vedea cum toți se uită la nevasta lui.</p>
-            <p>Umblînd așa fără de nici o treabă, Persida se oprea cînd întilnea în calea ei vreo măcelărie, și nimic în orașul cel mare și frumos nu-i plăcea atît de mult ca măcelăriile curate, cu cărnuri frumos tăiate și puse în vederea trecătorilor. Inima îi rîdea cînd se gîndea că-l va vedea în curînd pe soțul ei, cu șorț curat, în dosul butucului, ca odinioară în fața mînăstirii, și că nu va mai mînca la birt, ci-și va găti ea însași într-o. bucătărie curată ca cea de la călugărițe. Îl mina deci mereu înainte pe Națl, și săptămîna a doua ei au și intrat în vorbă cu doi măcelari, amîndoi încă necăsătoriți, ca să ieie împreună o măcelărie mai mare din apropierea barierei de la Lerchenfeld, o pozițiune foarte bună, unde se făcea vînzare de 100-150 florini pe zi.</p>
+            <p>Umblînd așa fără de nici o treabă, Persida se oprea cînd întilnea în calea ei vreo măcelărie, și nimic în orașul cel mare și frumos nu-i plăcea atît de mult ca măcelăriile curate, cu cărnuri frumos tăiate și puse în vederea trecătorilor. Inima îi rîdea cînd se gîndea că-l va vedea în curînd pe soțul ei, cu șorț curat, în dosul butucului, ca odinioară în fața mînăstirii, și că nu va mai mînca la birt, ci-și va găti ea însași într-o. bucătărie curată ca cea de la călugărițe. Îl mina deci mereu înainte pe Națl, și săptămîna a doua ei au și intrat în vorbă cu doi măcelari, amîndoi încă necăsătoriți, ca să ieie împreună o măcelărie mai mare din apropierea barierei de la Lerchenfeld, o pozițiune foarte bună, unde se făcea vînzare de 100-l50 florini pe zi.</p>
             <p>Lucrurile erau ca puse la cale cînd a sosit scrisoarea lui Trică.</p>
             <p>Citind scrisoarea, Persida nu-și putu stăpîni lacră-mile. Dar de ce să le și stăpînească? Era aici, în mij-locul acestei lumi străine, prima știre de la fratele ei și de la muma ei, și era atîta dragoste în scrisoare! De ce să-și stăpînească lacrămile cînd Națl era și el înduioșat?</p>
             <p>— Draga mea, mama mea cea bună! grăi Persida după ce sfîrși scrisoarea și o puse pe masă.</p>
@@ -2305,7 +2306,7 @@
             <p>— Nu cumva?... întrebă ea cu inima îndoită.</p>
             <p>Trică se uită în ochii mumei sale și înțelese între-barea.</p>
             <p>— Nu știu — răspunse el —nu cred, numise pare.</p>
-            <p>— Și chiar dac-ar fi una ca asta, ba mai ales atunci -: grăi Mara luîndu-și inima'n dinți — să-i spui că nu vreau să știu că mi-e fată cîtă vreme trăiește cu dînsul: ori eu, ori el!</p>
+            <p>— Și chiar dac-ar fi una ca asta, ba mai ales atunci -: grăi Mara luîndu-și inima-n dinți — să-i spui că nu vreau să știu că mi-e fată cîtă vreme trăiește cu dînsul: ori eu, ori el!</p>
             <p>Persida era greu lovită. Nu, mai aspru nu putea să fie pedepsită; dar așa trebuia să fie, pedeapsa era dreaptă și ea se simțea înălțată de gîndul că muma ei este o femeie care nu vrea să-și ierte fata, pe care o știe trăind în căsnicie nebinecuvintată.</p>
             <p>Seara ea plîngea pe infundate în culcușul ei. Ea, care nu se abătuse nici pe o clipă din calea cea dreaptă, prea era umilită în fața lumii, prea căzută în gîndul semenilor săi, și fire de om avea, de om care, orișicît de fericit ar fi, se simte nenorocit cînd seme-nii lui îl prețuiesc mai prejos de ceea ce este.</p>
             <p>Ah! De ce nu putea dînsa să spună? 1 de ce nu putea să ridice de pe inima mumei sale greutatea ce atît de mult o apăsa?!</p>
@@ -2921,7 +2922,7 @@
             <p>Persida se dezmorți. Mama eitot mama ei, sărmana.</p>
             <p>— Nu te-ai săturat nici acum de el?! întrebă Mara.</p>
             <p>— Mi-a fost destul, îi răspunse Persida; și dac-aș fi omorît pe tata, mi-aș fi spășit păcatul.</p>
-            <p>— Lasă-1! grăi Mara. Mulțumește lui Dumnezeu c-ai scăpat de el. Iară tu, Trică, n-ai să te amesteci, urmă peste puțin. Mulțumește lui Dumnezeu că ți-ai găsit stăpîni oameni buni.</p>
+            <p>— Lasă-l! grăi Mara. Mulțumește lui Dumnezeu c-ai scăpat de el. Iară tu, Trică, n-ai să te amesteci, urmă peste puțin. Mulțumește lui Dumnezeu că ți-ai găsit stăpîni oameni buni.</p>
             <p>Era mîhnită Mara, de-ar fi fost în stare să sară cu ghearele la afurisitul de neamț, dar se sîmțea fericită cum nu s-a mai sîmțit în viața ei, căci își știa fata scăpată și feciorul pus pe cale bună.</p>
             <p>Nu era însă fericită Persida, iară Trică se sîmțea foarte nenorocit.</p>
             <p>Se adunaseră deodată toate, prea multe se îngrămă-diseră pe capul lui: jupinul se pregătea de plecare, jupineasa-l aștepta deseară, Persida plecase greu mîhnită, iară Sultana nu se mai uita la el ca mai nainte, ba scăpase chiar vorbele: „De ce nu te-ai dus cu sora ta?ˮ Se simțea ca legat cot la cot, dar el lucra cu celelalte calfe la masă și nu zicea nimic, căci n-avea cu cine să-și împărtășească gîndurile.</p>

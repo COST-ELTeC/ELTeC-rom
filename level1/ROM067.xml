@@ -11,7 +11,7 @@
       <fileDesc>
          <titleStmt>
             <title>Ursita: ediție ELTeC</title>
-            <author>Petriceicu Hasdeu, Bogdan (1838-1907)</author>
+            <author>Petriceicu Hasdeu, Bogdan (1838-l907)</author>
             <respStmt>
                <resp>codare ELTeC</resp>
                <name>Alexandra Olteanu</name>
@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2021-04-09"/>
+            <date when="2022-03-02"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -63,6 +63,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [’'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checkUp script for new release</change>
          <change when="2020-11-14">Converted by checkUp script for new release</change>

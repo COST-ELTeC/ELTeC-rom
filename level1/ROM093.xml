@@ -11,7 +11,7 @@
       <fileDesc>
          <titleStmt>
             <title>Anna (Ceea ce nu se poate). Roman: ELTeC edition</title>
-            <author>Zamfirescu, Duiliu (1858-1922)</author>
+            <author>Zamfirescu, Duiliu (1858-l922)</author>
             <respStmt>
                <resp>ELTeC encoding</resp>
                <name>Alexandra Olteanu</name>
@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2021-04-09"/>
+            <date when="2022-03-02"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -63,6 +63,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [’'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checkUp script for new release</change>
          <change when="2021-02-20">Initial TEI version generated.</change>
@@ -80,10 +81,10 @@
          <div type="chapter" n="1">
             <head>I.</head>
             <p>Incepeà să se întunece. Focul pâlpâià în sobă, liniștit. De pe fața cărbunilor se desprindeau palii de flacări, ce mureau în neființă.</p>
-            <p>Anna Villarà cetise până atunci. Gândurile altora, când puteau s'o intereseze, îi ușurau sufletul de povara îndoelii: cum e bine, și ce e bine în lumea asta?</p>
+            <p>Anna Villarà cetise până atunci. Gândurile altora, când puteau s-o intereseze, îi ușurau sufletul de povara îndoelii: cum e bine, și ce e bine în lumea asta?</p>
             <p>Intunericul o silise să lase cartea, și ea, acum, strânsă în fotoliu, se uità la lemnele ce se topeau în puterea mistuitoare a focului. Câteva licăriri de flacără, puțin fum și puțină cenușe.</p>
             <p>In crâmpeele ei de gânduri se ivià chipul luminos al omului iubit. Așà de bine-l cunoșteà, în nestatornica lui înfățișare, încât îl recompuneà din liniile cărbunilor ce se prefăceau mereu. Toate alte linii și alte linii.</p>
-            <p>Dacă s'ar fi putut sa fie lumea altfel de cum erà ea ar fi plecat pe jos, umblând după umbra visurilor, alergând pururi pe căile rătăcirii, fără popas și fără odihnă, numai sa scape de ea însăși.</p>
+            <p>Dacă s-ar fi putut sa fie lumea altfel de cum erà ea ar fi plecat pe jos, umblând după umbra visurilor, alergând pururi pe căile rătăcirii, fără popas și fără odihnă, numai sa scape de ea însăși.</p>
             <p>Dar lumea erà ca și dânsa. Fiecare își purtà rana, sângerândă sau tămăduită, și fiecare umblà mai depute și spera.</p>
             <p>Și, deodată, îi răsărià în minte fruntea lui, neteda înfățișare a personalității bărbătești, în care farmecul voinței păreà boltit din vecia veacurilor. De unde știà ea ce se petrecea acolo? Vorbia câteodată cu Elena Milescu:</p>
             <p>- Ce se petrece acolo, Eleno? Tu ai iubit, ai trăit adânc din viața bărbatului tău. Ce se petrece sub fruntea unui om, când tace și se uită la tine, apoi se întoarce și se uită la mine, sau la Smaranda Dudescu?...</p>
@@ -94,9 +95,9 @@
             <p>- Ești geloasă, dragă.</p>
             <p>O strângeau de gât cu vorba asta. Erà geloasă!...</p>
             <p>Vezi bine că erà geloasă! Cine iubește, și nu e gelos? Dar nerozia omenească desparte sufletul în saltare, ca un scrin: în cel de sus se păstează amorul, în al doilea închipuirea de sine, în cel de jos gelozia, pe când în toate stă deavalma zădărnicia sufletului nostru chinuit.</p>
-            <p>Și cum se uità lung la cărbuni, i-se părù că vede limpede cum gelozia stă tocmai în saltarul de jos, în cel mai de jos. Inima i-se strânse ca de frică, și mișca vârful piciorului, par'c'ar fi impuns-o cineva în coapsă.</p>
-            <p>Marginea rochii i-se ridicase deasupra glesnei. Pulpa se desinà, delicată, pe fundul auriu al luminei ce murià în sobă. In loc să se placă, ea se umili și se întristă. Frumusețea linii piciorului ăi ăntoarse gândurile asupra ei însăși. Trăise în valurile lumii, cu hotărîre, și totuș într'o singuratate sufletească, în care nu străbătuse nimeni. Acum iubià. Dorul fecioarei de ideal și poezie se aninase de umerii unui om nestatornic. Iubià pe un om însurat, pe care, probabil, îl iubeau și alte femei. Erà oare cu putință?</p>
-            <p>La ideia că și alte femei puteau să-l iubească, își duse mâinile la ochi, să nu se mai lege într'ânșii vedenia acelor alte femei. Cu toate astea, erà sigur că una, cel puțin, îl mai iubià: nevasta sa. Nu aveà și ea un bărbat? Imagina Generalului o făcù să bufnească într'aiuri. Generalul și Berta!... Iși aduse aminte că bărbatu-său o duceà la concertele amantei lui și că ea, Anna Villarà, vedeà pe Berta ca pe orice ființă nevoiașe.</p>
+            <p>Și cum se uità lung la cărbuni, i-se părù că vede limpede cum gelozia stă tocmai în saltarul de jos, în cel mai de jos. Inima i-se strânse ca de frică, și mișca vârful piciorului, par-c'ar fi impuns-o cineva în coapsă.</p>
+            <p>Marginea rochii i-se ridicase deasupra glesnei. Pulpa se desinà, delicată, pe fundul auriu al luminei ce murià în sobă. In loc să se placă, ea se umili și se întristă. Frumusețea linii piciorului ăi ăntoarse gândurile asupra ei însăși. Trăise în valurile lumii, cu hotărîre, și totuș într-o singuratate sufletească, în care nu străbătuse nimeni. Acum iubià. Dorul fecioarei de ideal și poezie se aninase de umerii unui om nestatornic. Iubià pe un om însurat, pe care, probabil, îl iubeau și alte femei. Erà oare cu putință?</p>
+            <p>La ideia că și alte femei puteau să-l iubească, își duse mâinile la ochi, să nu se mai lege într-ânșii vedenia acelor alte femei. Cu toate astea, erà sigur că una, cel puțin, îl mai iubià: nevasta sa. Nu aveà și ea un bărbat? Imagina Generalului o făcù să bufnească într-aiuri. Generalul și Berta!... Iși aduse aminte că bărbatu-său o duceà la concertele amantei lui și că ea, Anna Villarà, vedeà pe Berta ca pe orice ființă nevoiașe.</p>
             <p>Ceea ce o muncià, erà pângărirea sufletească a omului care o iubià pe ea și iubià și pe altele. Un asemenea om mințià pururea.</p>
             <p>Cu toate astea, Anna simțià cât de netemeinice îi erau gândurile, din însăși dorința ei de-a se înșelà. Elena îi spuneà, cu blajina ei îngăduire, că ața sunt bărbații, că adică pot să iubească deodată mai multe femei, și că, totuș, nu sunt mai fericiți decât femeea care iubește un singur bărbat; că, din potrivă, la cei ce au inimă, asta este izvorul nefericirii lor. Cu alte-cuvinte, trudă și nedomirire.</p>
             <p>Feciorul bătù la ușe:</p>
@@ -124,12 +125,12 @@
             <p>Făcù un pas către fotoliu:</p>
             <p>- De unde vii?</p>
             <p>- De-acasă.</p>
-            <p>Anna șezù, mișcând din cap, par'că ar fi zis: „tot din brațele unei femei”.</p>
+            <p>Anna șezù, mișcând din cap, par-că ar fi zis: „tot din brațele unei femei”.</p>
             <p>- Ce face Mia?</p>
-            <p>- Nu știu, n'am văzut-o.</p>
+            <p>- Nu știu, n-am văzut-o.</p>
             <p>Ea tăcù un moment. Răspunsul i-se părù discret și delicat.</p>
             <p>- Ia un scaun și șezi lângă mine.</p>
-            <p>El șezù jos, pe covor, și se lipì cu fruntea de sânul ei. Anna se rezemă de spatele fotoliului și închise ochii. Iși simtià inima în piept bătând să se rupă. Fruntea îi ardea, lacrămile o podideau, și cu toate astea gândurile ei se întindeau pe orizonturi infinite, într'o fericire nematerială, aproape desăvârșită.</p>
+            <p>El șezù jos, pe covor, și se lipì cu fruntea de sânul ei. Anna se rezemă de spatele fotoliului și închise ochii. Iși simtià inima în piept bătând să se rupă. Fruntea îi ardea, lacrămile o podideau, și cu toate astea gândurile ei se întindeau pe orizonturi infinite, într-o fericire nematerială, aproape desăvârșită.</p>
             <p>Făcù o sforțare, se ridică mai sus și se uită lung la el:</p>
             <p>- Ce vrei? Ce-a mai rămas în sufletul meu, care să nu fie plin de dumneta? Nici un colț, nici o cută a gândului, nici o ascunzătoare a inimii nu mai e în puterea mea, ci toate sunt ale dumitale... Te-am rugat să-mi aduci băiatul mai des. Dacă rugămintea mea a putut să ți-se pară lipsită de măsura cuviinței adevărate, îți cer iertare, și te rog să nu uiți că eu sunt o ființă pierdută numai intru atât, întrucât am devenit lucrul și proprietatea dumitale, dar altfel nu sunt nebună și nici lipsită de pudoarea adevăratelor sentimente omenești. Insă atât de mult mă simt absorbită în ființa dumitale încât tot ce te interesează, mă interesează; tot ce-ți este drag, îmi este drag și mie. Ajung până a crede că nu mai sunt geloasă de Mia. Ce vrei mai mult?... Adu-mi din când în când băiatul. Te regăsesc în el, așà cum aș fi dorit să fii: nevinovat...</p>
             <p>Comăneșteanu ridică din umeri:</p>
@@ -152,14 +153,14 @@
             <p>- De loc</p>
             <p>- Și ai obraz să mi-o spui mie.</p>
             <p>El iaraș înălță din umeri:</p>
-            <p>- Nici nu mă gândeam. Ți-o spun, fiindcă vine vorba și printr'un fel de reacțiune. Nevasta colonelului îmi este indiferentă, ca ți Smaranda Dudescu, ca și Urania Vucos. La revedere.</p>
+            <p>- Nici nu mă gândeam. Ți-o spun, fiindcă vine vorba și printr-un fel de reacțiune. Nevasta colonelului îmi este indiferentă, ca ți Smaranda Dudescu, ca și Urania Vucos. La revedere.</p>
             <p>Erà un ton sec, de om bănuit pe nedrept, în cuvintele acelea, care făcù un bine nespus Annei.</p>
             <p>- Dece ai venit, și dece te duci?</p>
             <p>El îți țineà chipiul în mână, uitându-se la ea:</p>
             <p>- Am venit, ca să te văd, și ma duc, fiindcă am treabă.</p>
-            <p>Ea îi luă chipiul din mână, îți ascunse obrazul întrânsul și aspiră adânc, ca dintr'o floare:</p>
+            <p>Ea îi luă chipiul din mână, îți ascunse obrazul întrânsul și aspiră adânc, ca dintr-o floare:</p>
             <p>- Asà de mult te regăsesc în parfumul lucrurilor ce le porți!... și atâtea simțiri deștepți în tainele inimii mele, încât, cu tot răul ce-mi faci, îți sunt încă recunoscătoare... Du-te dragă. Eu, câteodată, deșì umilită și fără putere, mă simt atât de sus cu sufletul, ușoară ca o pasăre, încât nu te mai vad, jos. La revedere.</p>
-            <p>După ce tânărul ieșì, Anna se așeză din nou în fotoliul dela sobă. Cărbunii mureau, învăluiți în acoperișul străveziu al celei d'intâi cenuși. Gândurile ei erau mai pline ca orcând de imaginea omului iubit. Nu mai vedeà acum nimic, decât pe el. Sânul, de care el își lipise fruntea, tresarià, oarecum cu ființa lui aparte, păstrând căldura atingerii, binefăcătoare ca o rază.</p>
+            <p>După ce tânărul ieșì, Anna se așeză din nou în fotoliul dela sobă. Cărbunii mureau, învăluiți în acoperișul străveziu al celei d-intâi cenuși. Gândurile ei erau mai pline ca orcând de imaginea omului iubit. Nu mai vedeà acum nimic, decât pe el. Sânul, de care el își lipise fruntea, tresarià, oarecum cu ființa lui aparte, păstrând căldura atingerii, binefăcătoare ca o rază.</p>
             <p>Iși aduse aminte de cele din urmă cuvinte ce i-le zisese și i-se părură nedrepte. Atunci, cerù lampa și se puse să-i scrie:</p>
             <p>„Ai plecat dela mine sub înrâurirea unor vorbe nesocotite. E adevărat că eu mă simt câteodată cu sufletul sus, dar înălțarea mea e datorită iubirii fără margini, ce-mi umple toată ființa, cum umple infinitul finitul. Când vei putea oare să înțelegi vei putea vreodată? - farmecul poetic al suferinței de a iubì, izvorul dătător de viață, tinerețea ce naște din iubire? Cum a putut geniul bărbătesc să creeze pe Faust, cu alte cuvinte năzuința către eterna tinerețe, când ea stă în noi, în mine, în alcătuirea sufletului meu, care, în sine, este amor?</p>
             <p>„Ah, dragă, tu semeni cu cineva din trecut și cu cineva din viitor; îmi închipuesc că semeni cu nestatornica înfăptuire a dorului tuturor femeilor, cu acel ștrengar și infam de Cupido, căruia, când sunt geloasă, aș vrea să-i ciumpăvesc aripele și să-i bat, ca apoi să-l mângâi și să-l rog să mă ierte.</p>
@@ -191,15 +192,15 @@
             <p>- Nu sunt nici obraznic. Sunt curat om fericit și cum se cade. Și dumneata ești tot ca mine, cu deosebire numai că-ți plac paradoxele.</p>
             <p>- Adevărat că-mi plac.</p>
             <p>- Atunci înțeleg dece nu-ți plac oamenii însurați.</p>
-            <p>- Par'că ar fi paradoxal să te însori!</p>
+            <p>- Par-că ar fi paradoxal să te însori!</p>
             <p>- Tocmai deaceea. Toată lumea se însoară. Prin urmare, e un lucru obișnuit, și deci nu-ți place. Acum, între not fie vorba, dumneta în calitate de femeie, ar trebuì să fii recunoscătoare bărbaților că se însoară. Căsătoria, ca magazinele de mode și corsetele, este o instituție pentru femei....</p>
-            <p>- Mai cu seamă într'o țară ca a noastră, în care mai este și divorțul.</p>
+            <p>- Mai cu seamă într-o țară ca a noastră, în care mai este și divorțul.</p>
             <p>- Nu. Divorțul este o instituțiune bărbătească.</p>
             <p>- Cum!... El dă adevărata libertate femeiei.</p>
-            <p>- O libertate cu care nu are ce face, patroană. Dacă patronul s'ar despărțì de dumneata, cine ți-ar mai girà polițele?</p>
+            <p>- O libertate cu care nu are ce face, patroană. Dacă patronul s-ar despărțì de dumneata, cine ți-ar mai girà polițele?</p>
             <p>Ea râse cu poftă, arătându-și dinții:</p>
             <p>- Vezi, acum ești cu adevărat obraznic.</p>
-            <p>Râse și el, mulțumit, mușcând dint'o prăjitură.</p>
+            <p>Râse și el, mulțumit, mușcând dint-o prăjitură.</p>
             <p>Colonelul răfuise socotelile cu doamna dela comptoir și ciupise o fărâmă de curte unei fete ce servià vinuri. Acum se întorceà radios:</p>
             <p>- Haidem, Comăneștene, că ne așteaptă comisia.</p>
             <p>El își uitase de comisie, după cum își uitase de Anna și de nevastă și de casă.</p>
@@ -243,7 +244,7 @@
             <p>Porția Comăneșteanu, fiica preotului din Transilvania și nevasta Căpitanului, erà produsul unei alte lumi, voinică și sănătoasă, totdeauna străină de intrigile celorlalți, dar acum mai mult ca oricând, prinsă de dragostea și creșterea copilului. Porția, sau Mia cum o numeau toți, trăia mai mult la țară, ocupându-se bărbătește de treburile moșiilor, de socru-său, de țărani și de toată lumea.</p>
             <p>Elena Milescu erà văduva eroului dela Grivița, poetica și blajina făptură, ce rămăsese în lume stingheră, trăind înconjurată de amintirile răsboiului, vara, la Stănești, în malul Dunării, unde i se părea că e mai aproape de câmpiile Bulgariei, în pământul cărora dormeau osemintele celor morți; iarna, în casa din strada Batiștei, în mijlocul lucrurilor rămase dela Milescu. Cu părul aproape alb, cu sufletul iertător, ea erà pentru Comăneșteanu imagina frumuseții ideale, ceva care ar fi semănat cu mă-sa, dacă cineva putea să semene cu Sașa. El o chiema Tanți, cine știe de ce.</p>
             <p>Toată lumea asta, strânsă la un loc, părea că nu pricepe bine ce vreau unii dela altii. La cei mai mulți le erà foame. Timoleon Vucos aveà slăbiciune de Anna și-i vorbià aproape în păr, ușor înclinat către dânsa, pe când cozile fracului i se ridicau dela spate. Generalul, ca să mai însuflețească convorbirea, istorisia Domniței și Uraniei Vucos, amorurile unui Vacmistru, care voia să-și taie beregata oridecâteori îl trădau amantele. Elena și Porția râdeau de departe.</p>
-            <p>Anna, cu ochii țintă la ușă, răspundea într'aiuri vorbelor lui Timoleon Vucos, bătând ușor covorul cu vărful piciorului.</p>
+            <p>Anna, cu ochii țintă la ușă, răspundea într-aiuri vorbelor lui Timoleon Vucos, bătând ușor covorul cu vărful piciorului.</p>
             <p>- Am fost la deschiderea Camerei, zicea acesta.</p>
             <p>- Ca orișicine.</p>
             <p>Timoleon Vucos se uita lung la dănsa:</p>
@@ -262,9 +263,9 @@
             <p>- Ești sigur?</p>
             <p>- Cum să nu fiu sigur!..</p>
             <p>Generalul, care prinse în fugă vorbele lor, glumea cu înțelesuri:</p>
-            <p>- Asigur'o, neiculiță, c'ai fost la regiment, sau dacă ai fost în altă parte, că n'ai fost cu mine.</p>
+            <p>- Asigur-o, neiculiță, c-ai fost la regiment, sau dacă ai fost în altă parte, că n-ai fost cu mine.</p>
             <p>- Am fost la regiment.</p>
-            <p>- Insfârșit, bine c'ai venit! Poate de-acuma să se mai descrețească fruntea cucoanelor.</p>
+            <p>- Insfârșit, bine c-ai venit! Poate de-acuma să se mai descrețească fruntea cucoanelor.</p>
             <p>Apoi, scurt cum erà și cu picioarele sucite, luă pe Comăneșteanu de mijloc și-l duse înaintea lui Timoleon.</p>
             <p>- Iacă așà armată avem noi, onorabile. Iți place?</p>
             <p>Timoleon Vucos se înclină, ironic. Generalul urmă:</p>
@@ -273,22 +274,22 @@
             <p>- Iorgule, spui prostii!...</p>
             <p>- Lasă, dragă, că doar toate sunteți amorezate lulea... Și dumneata și nevastă-sa, și Domnița Smaranda, și nepoata... Până și cumnata Elena!.. Până și eu, bre!..</p>
             <p>- Halal de noi!</p>
-            <p>- E o molimă. Par'ca toți am fi despicați din el, vorba lui Aristofan.</p>
+            <p>- E o molimă. Par-ca toți am fi despicați din el, vorba lui Aristofan.</p>
             <p>Feciorul poftì la masă.</p>
             <p>Minunata eleganță a sălii de mâncare părea că îndreptează gândurile, le ascute și le rafinează. După prima sorbitură de vin, sângele se urcà ușor în obrazul doamnelor. Generalul, mucalit, spunea lucruri pipărate, mânca din fugă, săruta mâna vecinelor, tușea, râdea, punând însuflețire în toată lumea. Domnița Smaranda vrea sa știe ce erà cu despicătura lui Aristofan.</p>
             <p>- Să ți-o spuie nevasta, Domnițo, că ea mă învață drăcii deastea.</p>
-            <p>- Eu!? Nici n'am visat!</p>
+            <p>- Eu!? Nici n-am visat!</p>
             <p>- Apoi da, că eu mi-am petrecut tinerețea cu Platon.</p>
             <p>- Spune-o dumneta, mon Général.</p>
             <p>- Prea bine, o spun eu. Ce este amorul, Domnițo?</p>
             <p>Domnița Smaranda umblà cu ochii fugari pe masă, zâmbind.</p>
             <p>- Ințeleg. Vrei să zici că ai oarecum cunoștința sa personală, dar că nu te înlesnești la definiții. Așà este. Ei bine, doamnele mele, iată ce este amorul...</p>
             <p>Ridică din sprâncene, uitându-se înnaintea ochilor și zâmbì:</p>
-            <p>-... cel puțin după Aristofan: în vremea de demult, pe când oamenii erau puternici ca zeii, persoana lor erà un trunchiu rotund, pe care sta un cap cu două fețe, iar trunchiul sta pe patru picioare și aveà patru brațe. Umblau drept ca și astăzi, în partea în care voiau, iar dacă se puneau să alerge, se duceau de-a roata, sprijiniți pe cele patru perechi de mâni și picioare. Pe atunci, sexurile erau trei: bărbatul, fiu al soarelui; femeia, fiică a pământului și bărbatul-femeie, produs al lunei, care ea însăși este produs al soarelui și al pământului. Deaceea și erau oamenii pe atunci rotunzi și alergau de-a roata, pentrucă așà le erau părinții. Și fiind ei voinici și destepți, se resvrătiră în contra zeilor și deteră să ia cerul cu asalt. Atunci Joe se adună la sfat cu ceilalți zei, și, după matură chibzuire hotărî el așà: „ca să-i învăț minte, o să-i tai în două; astfel, au să fie mai slabi, dar mai numeroși, prin urmare, o sa avem mai mulți adoratori. O să-i las să umble în picioare, ca și astăzi, dar numai pe două picioare. Iar dacă și așà vor fi obraznici și mă vor supărà, o să-i mai despic încă odată, așà ca să rămână fiecare om numai pe câte un picior, și să umble sărind”. Și grăind astfel, luă barda și se puse să despice pe oameni în două. Pe care cum îl despicà, îl da pe mâna lui Apollo, poruncindu-i să-i sucească obrazul pe partea tăieturii, ca să se vadă în ce hal este, și să se poarte pe viitor mai bine. Apollo sucià obrazul înnăuntru, trăgeà pieile depe corp și acoperià rana, și, astfel dichisiți, le dedea drumul... Ei bine, doamnele mele, fiecare jumătate, astfel chibzuită, de îndată ce ieșià din mâna lui Apollo, n'aveà alt gând decât de a alergà după jumătatea cealaltă și a se reintegrà într'un singur trup, cum zice și la Evanghelie. Și iată prin urmare ce este amorul.</p>
+            <p>-... cel puțin după Aristofan: în vremea de demult, pe când oamenii erau puternici ca zeii, persoana lor erà un trunchiu rotund, pe care sta un cap cu două fețe, iar trunchiul sta pe patru picioare și aveà patru brațe. Umblau drept ca și astăzi, în partea în care voiau, iar dacă se puneau să alerge, se duceau de-a roata, sprijiniți pe cele patru perechi de mâni și picioare. Pe atunci, sexurile erau trei: bărbatul, fiu al soarelui; femeia, fiică a pământului și bărbatul-femeie, produs al lunei, care ea însăși este produs al soarelui și al pământului. Deaceea și erau oamenii pe atunci rotunzi și alergau de-a roata, pentrucă așà le erau părinții. Și fiind ei voinici și destepți, se resvrătiră în contra zeilor și deteră să ia cerul cu asalt. Atunci Joe se adună la sfat cu ceilalți zei, și, după matură chibzuire hotărî el așà: „ca să-i învăț minte, o să-i tai în două; astfel, au să fie mai slabi, dar mai numeroși, prin urmare, o sa avem mai mulți adoratori. O să-i las să umble în picioare, ca și astăzi, dar numai pe două picioare. Iar dacă și așà vor fi obraznici și mă vor supărà, o să-i mai despic încă odată, așà ca să rămână fiecare om numai pe câte un picior, și să umble sărind”. Și grăind astfel, luă barda și se puse să despice pe oameni în două. Pe care cum îl despicà, îl da pe mâna lui Apollo, poruncindu-i să-i sucească obrazul pe partea tăieturii, ca să se vadă în ce hal este, și să se poarte pe viitor mai bine. Apollo sucià obrazul înnăuntru, trăgeà pieile depe corp și acoperià rana, și, astfel dichisiți, le dedea drumul... Ei bine, doamnele mele, fiecare jumătate, astfel chibzuită, de îndată ce ieșià din mâna lui Apollo, n-aveà alt gând decât de a alergà după jumătatea cealaltă și a se reintegrà într-un singur trup, cum zice și la Evanghelie. Și iată prin urmare ce este amorul.</p>
             <p>Prințesa Smaranda făceà un chef nespus, râzând din toate cărnurile persoanei dumisale, pecând Timoleon se îngânfà de geniul grecesc, vorbind prost românește.</p>
             <p>- Este u cumbinacie, frate, demna di Aristofanis.</p>
             <p>In vremea asta, Anna zicea lui Comăneșteanu printre dinți:</p>
-            <p>- N'ai fost la cazarmă.</p>
+            <p>- N-ai fost la cazarmă.</p>
             <p>El nu prea o auzià, prins de povestea Generalului:</p>
             <p>- Ai zis ceva?</p>
             <p>- Am zis că ești un infam.</p>
@@ -307,7 +308,7 @@
             <p>- Ai primit scrisoarea?</p>
             <p>- Negreșit.</p>
             <p>Ar fi voit să nu-l întrebe deadreptul de scrisoare, dar frica de a-și prelungì neliniștea o făceà să nu mai înconjure.</p>
-            <p>Prințesa Smaranda, hipnotizată de Aristofan, se uità înnaintea ochilor și bufneà de râs. Erà grasă și rotundă ca un sturz, cu părul roșcovan, cu gâtul fără cute, strâns într'o colană de peruzele, ce aduceau cu ochii ei; mâncà bine, gustând din lucrurile bune cu un fel de conștiință depravată a plăcerii.</p>
+            <p>Prințesa Smaranda, hipnotizată de Aristofan, se uità înnaintea ochilor și bufneà de râs. Erà grasă și rotundă ca un sturz, cu părul roșcovan, cu gâtul fără cute, strâns într-o colană de peruzele, ce aduceau cu ochii ei; mâncà bine, gustând din lucrurile bune cu un fel de conștiință depravată a plăcerii.</p>
             <p>- Ei, mon Général, și va să zică cum explici dumneata că noi suntem toate înamorate de Comăneșteanu?</p>
             <p>- Cum să explic?.., Se vede că pe el Joe l-a despicat în 14 bucăți.</p>
             <p>- Și-au mai sărit și așchii.</p>
@@ -321,11 +322,11 @@
          </div>
          <div type="chapter" n="3">
             <head>III.</head>
-            <p>Genera lui ieșià dela club, furios în contra lui Timoleon Vucos, care, la bridge, într'un sans atout, jucase singleton.</p>
+            <p>Genera lui ieșià dela club, furios în contra lui Timoleon Vucos, care, la bridge, într-un sans atout, jucase singleton.</p>
             <p>Nu-i intrà în cap cum se poate să facă cineva asemenea gogomănie, și apoi să vrea să o și susție. Oprià pe Comăneșteanu:</p>
             <p>- Nu, că cică așà se joacă la Paris. Da hai marș cu Parisul tău, grecule! Una și cu una dotuă: la sans atout, să ieși dela coloarea cea mai lungă.</p>
-            <p>- Dar dacă n'ai nici o coloare lungă?</p>
-            <p>- Atunci să te duci să te'nneci.</p>
+            <p>- Dar dacă n-ai nici o coloare lungă?</p>
+            <p>- Atunci să te duci să te-nneci.</p>
             <p>Și tot el râdea pe îndesatele, oprind iar pe Comăneșteanu:</p>
             <p>- Vrei să mă crezi pe mine?... Românu-i al dracului, domnule. A înțeles el că la sans atout nu merge cu mofturi: or ai coloare lungă or te dai pe gârlă.</p>
             <p>Și iar radeà, ascultându-și cuvântul, ce i se părea de spirit. Această ușoară ramolisire ascundea un tertip: Berta dădeà în curând un concert, și deci generalul aveà nevoie de public și de reclamă. El se gândià că dacă ar pune pe Comăneșteanu de partea Bertei, ar astupà mai întâi gura Annei și i-ar câștigà un sprijin puternic:</p>
@@ -338,7 +339,7 @@
             <p>Generalul se oprì locului, uitându-se la el pe sub sprâncene:</p>
             <p>- Mă, lasă nepoata în pace!...</p>
             <p>Comăneșteanu începù a râde. Generalul îl apucă de braț, foarte serios:</p>
-            <p>- Lucru subțire. Toți dinții sunt ai ei, iar dacă o fi și o fi, mustăcioara aia ce-i părpălește gurița, s'o săruți odată și pentru mine... Rude, mon cher...</p>
+            <p>- Lucru subțire. Toți dinții sunt ai ei, iar dacă o fi și o fi, mustăcioara aia ce-i părpălește gurița, s-o săruți odată și pentru mine... Rude, mon cher...</p>
             <p>- Da cine se gândește la așà ceva, domnule general!...</p>
             <p>- Hai marș, mă!...</p>
             <p>- Zău, domnule general.</p>
@@ -361,22 +362,22 @@
             <p>- De ce, domnule general?</p>
             <p>- Dar, însfarșit, te iau eu pe răspunderea mea.</p>
             <p>- Foarte bine.</p>
-            <p>Se urcară într'o trăsură și porniră amândoi către dealul Mitropoliei.</p>
-            <p>- Am să te fac s'asculți muzică cerească.</p>
+            <p>Se urcară într-o trăsură și porniră amândoi către dealul Mitropoliei.</p>
+            <p>- Am să te fac s-asculți muzică cerească.</p>
             <p>- Cu plăcere.</p>
             <p>- Da nu așà, giamparale de-ale noastre naționale. Muzică, bre. Ba tu Chopin, ba tu studii tot clasice, ba mazurca aia grozava, de... Djaburov ăla, cum îl chiamă... Și nu-ți mai spun, când cântă din gură!...</p>
             <p>Birja se oprì în fața unei case curățele de sub dealul Mitropoliei. Incă de afară se auzià pianul și vioara. Berta cântà cu profesorul ei care făcuse zile amare generalului, la început, iar acum devenise un fel de membru al familii. Profesorul și generalul se îngăduiau pe tăcutele, se ajutau unul pe altul în paza Bertei, „că doar femeia, domnule, e ca lumina ochiului: ți-e scumpă, dar fuge după toate alea”, zicea generalul colegului său neamț, care, deșì nu prindeà bine înțelesul vorbelor, pricepeà din instinct gândul generalului.</p>
-            <p>Berta erà așezată la piano, pe un scăunel fără răzemătoare, prin urmare cu mijlocul și cu umerii liberi. La intrarea celor doi bărbați, dânsa nu se oprì, ci numai le zâmbì, înviorându-și cântecul și obrajii, până într'atât, încât neamțul, ostenit și scandalizat, se oprì în mijlocul bucății, își lua palaria și pleca.</p>
-            <p>Berta nici nu se uită la el, iar după ce violonistul ieșì, dânsa răsuflă din greu, se învârti înt'un picior, șueră și pocnì din palme, par'că ar fi scăpat de o mare pedeapsă.</p>
-            <p>Generalul îi prezentă pe Comăneșteanu, râzând și căutând s'o liniștească:</p>
-            <p>- Ei, ce i s'a năzărit?!</p>
-            <p>- Neamț prost!... zise Berta râzând și strângând pe Comăneșteanu de mână. Și eu sunt germană de origină, dar nu trăesc așà, par'că aș fi înghitit un baston...</p>
+            <p>Berta erà așezată la piano, pe un scăunel fără răzemătoare, prin urmare cu mijlocul și cu umerii liberi. La intrarea celor doi bărbați, dânsa nu se oprì, ci numai le zâmbì, înviorându-și cântecul și obrajii, până într-atât, încât neamțul, ostenit și scandalizat, se oprì în mijlocul bucății, își lua palaria și pleca.</p>
+            <p>Berta nici nu se uită la el, iar după ce violonistul ieșì, dânsa răsuflă din greu, se învârti înt-un picior, șueră și pocnì din palme, par-că ar fi scăpat de o mare pedeapsă.</p>
+            <p>Generalul îi prezentă pe Comăneșteanu, râzând și căutând s-o liniștească:</p>
+            <p>- Ei, ce i s-a năzărit?!</p>
+            <p>- Neamț prost!... zise Berta râzând și strângând pe Comăneșteanu de mână. Și eu sunt germană de origină, dar nu trăesc așà, par-că aș fi înghitit un baston...</p>
             <p>- O trestie... zise generalul galant.</p>
-            <p>Berta se poticnì într'un compliment:</p>
+            <p>Berta se poticnì într-un compliment:</p>
             <p>- Sunt cam voluminoasă pentru o trestie... De zahăr...</p>
             <p>Ea se uită o clipă în ochii lui și cu o lumină ironică îi zise în fugă:</p>
             <p>- De sare...</p>
-            <p>Generalul părea fericit că o întâmplare neașteptată puneà pe Berta într'o stare sufletească isteață. In fond însă erà plictisit de fuga violonistului. Deaceea, luă pe Berta la o parte, îi soptì, o bătù pe umeri și o convinse că trebuiau să se împace și că el urmà să se ducă după neamț să-l aducă înnapoi:</p>
+            <p>Generalul părea fericit că o întâmplare neașteptată puneà pe Berta într-o stare sufletească isteață. In fond însă erà plictisit de fuga violonistului. Deaceea, luă pe Berta la o parte, îi soptì, o bătù pe umeri și o convinse că trebuiau să se împace și că el urmà să se ducă după neamț să-l aducă înnapoi:</p>
             <p>- Mă întorc numaidecât. Cântă lui Comăneșteanu mazurca lui Djaburov, că-i place grozav.</p>
             <p>Eșì, bătând din pinteni și râzând.</p>
             <p>Berta se uità după el, zâmbind, cu capul plecat pe o parte. Apoi se întoarse către Comăneșteanu, se mlădia pe partea cealaltă și îi zise, iarăș râzând:</p>
@@ -386,20 +387,20 @@
             <p>- Cum voiți. Mi se pare că în toate felurile e frumos.</p>
             <p>Ea se înclină iar pe o parte și prinse a cântà din gura.</p>
             <p>Zburară câteva acorduri. Fugeau mâinile pe clapele albe, ca două pasări ce se gonesc. Glasul, tânăr, aveà farmecul misterios al emoțiunii adevărate, ce deșteaptă în toate sufletele înțelegerea durerii omenești.</p>
-            <p>Berta părea că intră în gândurile celor doi poeți ce-și uniseră versurile și muzica pentru a suferì împreună. Ea, cântând, se îndemnà să sufere și dânsa, se înnălțà în avântul generos al frazelor muzicale, se aprindeà, vibrà cu pianul, tremurà cu propria ei voce, iar înțelesul obișnuit al cuvintelor părea a se transmute într'o înțelegere nouă, largă și dureroasă. Erà vorba de luna Mai, ce topește zăpada din munți, descoperind frunțile ghioceilor, chemând înnapoi cântăreții codrului, pasările duse, și mai erà vorba de tinerețea omului, pe care nimeni n'o mai întoarce înnapoi, odată ce s'a dus. Când glasul rostià:</p>
+            <p>Berta părea că intră în gândurile celor doi poeți ce-și uniseră versurile și muzica pentru a suferì împreună. Ea, cântând, se îndemnà să sufere și dânsa, se înnălțà în avântul generos al frazelor muzicale, se aprindeà, vibrà cu pianul, tremurà cu propria ei voce, iar înțelesul obișnuit al cuvintelor părea a se transmute într-o înțelegere nouă, largă și dureroasă. Erà vorba de luna Mai, ce topește zăpada din munți, descoperind frunțile ghioceilor, chemând înnapoi cântăreții codrului, pasările duse, și mai erà vorba de tinerețea omului, pe care nimeni n-o mai întoarce înnapoi, odată ce s-a dus. Când glasul rostià:</p>
             <quote type="verse">
                <l>„Și pasărea dusă se 'ntoarce-înnapoi</l>
                <l>Dar omul când pleacă,</l>
                <l>Or cât timp să treacă,</l>
                <l>El nu mai revine în lume la noi,</l>
             </quote>
-            <p>erà jale curata, iar Comăneșteanu, care ascultà la început cu temerea binevoitoare a publicului cinstit, se simțià acum luat de apă, dus departe, pe-o gură de rai, uncle tinerețea n'are nevoie să se mai întoarcă fiindcă nu pleacă niciodată. Berta repetà: „oricât timp să treacă, oricât timp să treacă, el nu mai revine în lume la noi”, cu o sfâșiere ce turburà simțirea și aduceà lacrămile în ochi. Și, în adevăr, când se oprì, erà ea însăși atât de mișcată, încât plângea.</p>
+            <p>erà jale curata, iar Comăneșteanu, care ascultà la început cu temerea binevoitoare a publicului cinstit, se simțià acum luat de apă, dus departe, pe-o gură de rai, uncle tinerețea n-are nevoie să se mai întoarcă fiindcă nu pleacă niciodată. Berta repetà: „oricât timp să treacă, oricât timp să treacă, el nu mai revine în lume la noi”, cu o sfâșiere ce turburà simțirea și aduceà lacrămile în ochi. Și, în adevăr, când se oprì, erà ea însăși atât de mișcată, încât plângea.</p>
             <p>Comăneșteanu sărì dela locul lui, îi apucă mâinile și i le sărută, respectuos, ca în cel mai autentic salon în care ar fi cântat o doamnă din societate.</p>
             <p>Berta râdea printre lacrămi, lăsându-și mâna în ale lui, cu osteneala plină de voluptate a femeiei ce a suferit și se simte înțeleasă și compătimită.</p>
             <p>Tocmai atunci ușa se deschise. Violonistul, palid, cu părul vâlvoi, intră prelung, se oprì locului, ca la teatru, și cu mâna întinsă către Berta:</p>
             <p>- Iar comedia lacrămilor?!... îi zise. Iar histerismul muieresc, transpus în muzică?!...</p>
             <p>Apoi, întorcându-se către Comăneșteanu:</p>
-            <p>- Să mă iertați, domnule căpitan, - nu știți ce femeie e asta!... Are să vă'nșele și pe D-voastră, cum m'a înșelat pe mine, și pe general, și pe tată-său, și muzica, și lumina ce o luminează... Poate că aveți mamă sau familie, și e păcat!</p>
+            <p>- Să mă iertați, domnule căpitan, - nu știți ce femeie e asta!... Are să vă-nșele și pe D-voastră, cum m-a înșelat pe mine, și pe general, și pe tată-său, și muzica, și lumina ce o luminează... Poate că aveți mamă sau familie, și e păcat!</p>
             <p>Berta se faăcuse albă ca hârtia. Mânia și indignarea îi încordaseră mușchii obrazului, ca la o mască de teatru antic:</p>
             <p>- Ieși afara, mizerabile! rostì ea îndesat, făcând un pas către dânsul.</p>
             <p>Violonistul sta să se avânte către ea, când Comăneșteanu îl apucă de braț, îl zguduì bine, apoi îl duse până la ușă și-i făcù vânt afară:</p>
@@ -409,13 +410,13 @@
             <p>Cu alte cuvinte îl poftià să se ducă. Cămăneșteanu ieșì, înțelegând că asta erì singura dezlegare cuviincioasă a încurăturii.</p>
             <p>Dar se părea că lucrurile trebuiau să meargă mai departe.</p>
             <p>A doua zi, Comăneșteanu primì vizita a doi necunoscuți care veneau în numele d-lui Hermann să-i ceară socoteală de insultà adusă brațului clientului lor. Incurcătura începeà să devie umoristică. Să se bată cu d-l Herman Buffni, profesor de vioară!... Ce haz erà să mai facă generalul!</p>
-            <p>Cu toate astea, generalul nu trebuià pus în curent cu întorsătura pe care o luau lucrurile, pentru multe cuvinte, dintre cari, cel d'intâi, ca să nu afle Anna. Deaceea, se duse numaidecât la Regiment, își alese doi martori, cărora le dete însărcinarea de a primì duelul, cu orce condițiuni, numai să se hotărască repede întâlnirea și să nu se vorbiască degeaba.</p>
+            <p>Cu toate astea, generalul nu trebuià pus în curent cu întorsătura pe care o luau lucrurile, pentru multe cuvinte, dintre cari, cel d-intâi, ca să nu afle Anna. Deaceea, se duse numaidecât la Regiment, își alese doi martori, cărora le dete însărcinarea de a primì duelul, cu orce condițiuni, numai să se hotărască repede întâlnirea și să nu se vorbiască degeaba.</p>
             <p>A treia zi se găsià pe teren, față în față cu profesorul Bertei.</p>
             <p>Uitându-se în fugă la neamț, Comăneșteanu se gândià că psihologia cea mai grea este aceea a faptelor nelogice. Dar oare este ceva nelogic în lumea faptelor?</p>
             <p>Și, fiindcă se băteau cu pistolul, trase neapărat în sus. Glonțul violonistului îi fluera pela ureche. Instinctiv, a doua oară trase de-a binele. Glonțul atinse, pieziș, pulpa violonistului.</p>
             <p>Comăneșteanu, mâhnit, se duse la adversarul său, cu mâna întinsă și îi cerù iertare.</p>
             <p>Violonistul zâmià:</p>
-            <p>- Vă sunt recunoscător că nu m'ați lovit în mână...</p>
+            <p>- Vă sunt recunoscător că nu m-ați lovit în mână...</p>
             <p>- Aveți dureri?</p>
             <p>- Deloc.</p>
             <p>- Imi dați voie să viu să vă văd...</p>
@@ -427,7 +428,7 @@
             <p>Unde se duceà?</p>
             <p>Iși aduse aminte de vizita pe care trebuià să o facă Uraniei Vucos.</p>
             <p>Deșì erà încă de vreme, ea îl primì.</p>
-            <p>Intr'un salonaș, plin de flori, de cutii de argint, de pernițe împoponate, Comăneșteanu așteptă câteva minute, cu fruntea lipită de geam, uitându-se lung nnainte.</p>
+            <p>Intr-un salonaș, plin de flori, de cutii de argint, de pernițe împoponate, Comăneșteanu așteptă câteva minute, cu fruntea lipită de geam, uitându-se lung nnainte.</p>
             <p>Urania venì, sunând din brățări și foșnind din rochii:</p>
             <p>- Căpitane, am auzit că te chiamă Cinel-Cinel.</p>
             <p>- Cine mă chiamă Cinel-Cinel plătește amendă.</p>
@@ -435,7 +436,7 @@
             <p>- La cutia milei... de mine.</p>
             <p>- Gata. Cât trebuie să vărs?</p>
             <p>- O sărutare.</p>
-            <p>Urania făcù o comică strâmbătură din nas, par'că i-ar fi mirosit a amoniac:</p>
+            <p>Urania făcù o comică strâmbătură din nas, par-că i-ar fi mirosit a amoniac:</p>
             <p>- Dată sau primită?</p>
             <p>- Ca să fie întreagă, urmează să fie și dată și primită.</p>
             <p>- Atunci nu mai întrebuințez cuvântul.</p>
@@ -459,7 +460,7 @@
             <p>- Cu toate astea, ai ceva. Imi dai voie, mie, care, după cum spune unchiul, sunt o așchie din dumneta, să mă interesez de starea d-tale sufletească...</p>
             <p>Apoi se apropiă cu scaunul de el:</p>
             <p>- Spune-mi ce ai?</p>
-            <p>- N'am nimic.</p>
+            <p>- N-am nimic.</p>
             <p>- Nu cred.</p>
             <p>- Sau ceea ce am nu se poate tămăduì.</p>
             <p>- Dece?</p>
@@ -470,7 +471,7 @@
             <p>- In toate cazurile ești liniștită. In mine e contrazicerea ciudată, că sunt în mod pozitiv și real fericit, și sunt idealmente nenorocit.</p>
             <p>Urania se apropiase atât de mult de tânăr, încât acesta mirosià parfumul părului ei, care aduceà a mărgăritărel, cu o adiere de personalitate omeneasca vie, ce pare câteodată înfăptuirea cea mai deplinà a poeziei.</p>
             <p>El se dete ușor la o parte și se uită în ochii ei:</p>
-            <p>- Iată, bunăoară, și-acum: doream cinstit să nu-ți ies din voie, și n'am putut.</p>
+            <p>- Iată, bunăoară, și-acum: doream cinstit să nu-ți ies din voie, și n-am putut.</p>
             <p>- Cum?</p>
             <p>- Mi-am luat amenda pe cale de furtișag.</p>
             <p>Ea dete din cap:</p>
@@ -481,13 +482,13 @@
             <p>- Numai ești cuminte. Du-te, ca să putem rămâne prieteni.</p>
             <p>- Mă duc.</p>
             <p>Îi lua mâna și i-o sărută:</p>
-            <p>- E o infinită delicateță într'o sărutare. Eu ți-am displăcut. Am fost violent, și-mi pare rău...</p>
+            <p>- E o infinită delicateță într-o sărutare. Eu ți-am displăcut. Am fost violent, și-mi pare rău...</p>
             <p>- Dacă te duci, uit și te iert.</p>
             <p>Ochii ei păreau înnecați în visuri. Umbrele genelor lungeau margina expresivă a personalității îndurerate. Maria îi tremurà.</p>
             <p>Comăneșteanu se plecă spre dânsa.</p>
             <p>- Ești o așà de curată expresie a poezii, încât mă tem să mai insist, ca să nu turbur lumina lăuntrică. Dar acum înțelegi ce vrea să zică a fi fericit și idealmente nenorocit...</p>
             <p>- Da, rostì ea încet. Asta ai vrut să dovedești?</p>
-            <p>- N'am vrut să dovedesc nimic. Ce se poate dovedì din mișcările ascunse ale sufletului?...</p>
+            <p>- N-am vrut să dovedesc nimic. Ce se poate dovedì din mișcările ascunse ale sufletului?...</p>
             <p>- Așà este.</p>
             <p>Urania zâmbì, recăpătându-și libertatea cugetului:</p>
             <p>- Prin urmare pot să-ți zic Cinel-Cinel...</p>
@@ -516,28 +517,28 @@
             <p>El își căută de treabă. Sbuciumările sentimentale fac pe oameni să se întoarcă cu plăcere la ocupațiile lor zilnice și să găsească în ele pace. Un miros de mărgăritare îi adiiă prin minte și cu dînsul parfumul părului ce sărutase. In adevăr, firea omenească e infamă!...</p>
             <p>Iesì dela cazarmă și se duse să vadă pe rănit.</p>
             <p>Acì, spre marea lui mirare, găsì pe general și pe Berta.</p>
-            <p>Violonistul locuià în două odăițe joase în fundul unei curți, unde putea cântà toată ziua, din piano sau din vioară, fără a deșteptà protestările nimănui. Acum aveà puține friguri. Generalul și Berta umblau în vârful picioarelor, serioși și preocupați, par'că un frate sau un copil al lor ar fi fost bolnav.</p>
+            <p>Violonistul locuià în două odăițe joase în fundul unei curți, unde putea cântà toată ziua, din piano sau din vioară, fără a deșteptà protestările nimănui. Acum aveà puține friguri. Generalul și Berta umblau în vârful picioarelor, serioși și preocupați, par-că un frate sau un copil al lor ar fi fost bolnav.</p>
             <p>Când inră Comăneșteanu la violonist, figura acestuia se lumină ca de o bucurie lăuntrică. El se ridică pe un cot, zâmbì și întinse mâna tânărului, rugând pe ceilalți să-i lase singuri.</p>
             <p>- A trecut și asta, d-le căpitan.</p>
             <p>- Și va trece și rana, iubite d-le Hermann.</p>
-            <p>Violonistul îi luase mâna și i-o țineà într'ale lui.</p>
+            <p>Violonistul îi luase mâna și i-o țineà într-ale lui.</p>
             <p>- Vă sunt recunoscător Că ați primit a vă bate cu mine.</p>
             <p>- Ce fel de vorbă!...</p>
-            <p>- Mă rog, eu știu. Nu erà caz de duel. Dar eu sufeream atât de mult, mă simțiam atât de ridicol și de nefericit, încât dacă n'ați fi primit a vă bate m'aș fi împușcat.</p>
+            <p>- Mă rog, eu știu. Nu erà caz de duel. Dar eu sufeream atât de mult, mă simțiam atât de ridicol și de nefericit, încât dacă n-ați fi primit a vă bate m-aș fi împușcat.</p>
             <p>Comăneșteanu dete din cap, în semn de protestare. Violonistul urmă:</p>
-            <p>- Așà este. Femeia asta nu e atât de vinovată cât pare, eu nu sunt atât de prost cât m'arăt, și cu toate astea ne chinuim amândoi.</p>
+            <p>- Așà este. Femeia asta nu e atât de vinovată cât pare, eu nu sunt atât de prost cât m-arăt, și cu toate astea ne chinuim amândoi.</p>
             <p>După aceea adăogă, dând trist din cap:</p>
             <p>- Eu o iubesc, fiindcă are temperament; e iute și nedreaptă, dar pentru muzică e ca lemnul dela o vioară veche: vibrează. Iar dânsa nu mă poate iubì, fiindcă eu sunt un biet neamț, ce e drept cu oarecare bun simț și cu suflet, dar fără talent, unît și nesuferit. Ah, domnule căpitan!... Ce bine e să fii tânăr și frumos!..</p>
             <p>- Dumneata ești tânăr...</p>
-            <p>- Tânăr, nu mai sunt, iar frumos, n'am fost niciodată.</p>
+            <p>- Tânăr, nu mai sunt, iar frumos, n-am fost niciodată.</p>
             <p>Apoi se uită în podele, lung:</p>
             <p>- Femeile iubesc pe oamenii tineri, fiindcă iubesc puterea creatoare. Iar eu nu am nici asta. Am scris vrafuri întregi de muzică. Nu-i nimic de ele... Și cu toate astea, domnule căpitan, simt frumosul în toate lămuririle lui, știu cum ar trebuì să fie bine ceeacee rău, înțeleg lumea și aspirațiile ei, mi-e milă de ea că sufere, - și totuș nu pot îndreptà nimic din ceeace e urît sau nedrept, fiindcă nu e în mine nicio scântee creatoare. Sunt spirit critic, domnule căpitan, cu alte cuvinte nenorocit! Vedeți pe Berta. E o biată ființă banală. Când carnea albă depe dânsa se va zbârcì, va rămâne oase și noroi, cum zice Leopardi. Și, cu toate astea, în sufletul acesta mărginit vibrează câteodată ceva atât de personal și de nonu încât eu rămân uimit: e scânteia creatoare!</p>
             <p>Comâneșteanu se uità la el mirat:</p>
             <p>- Cunoști pe Leopardi?</p>
-            <p>- Cine din gloata noastră nu cunoaște pe Leopardi? Nici acesta nu erà creator, dar erà așà de adânc nenorocit, încât din nefericirea lui a izbucnit, ca dintr'un vulcan, lava durerii... Pietre prețioase, domnule căpitan.</p>
+            <p>- Cine din gloata noastră nu cunoaște pe Leopardi? Nici acesta nu erà creator, dar erà așà de adânc nenorocit, încât din nefericirea lui a izbucnit, ca dintr-un vulcan, lava durerii... Pietre prețioase, domnule căpitan.</p>
             <p>Iși trecù mâna pe fruntea caldă:</p>
             <p>- De câte ori nu mă gândesc eu la Leopardi și Aspasia lui, și apoi la mine cu Berta mea...</p>
-            <p>Comăneșteanu, intrat în sufletul acesta necăjit, se simțià mic și vinovat. Violonistul interpretà oarecum, pe Anna. Dela Anna, gândul lui sărì la general. Cu nedomirire și părere de rău se uită în ochii violonistului, par'că ar fi dorit să afle cum stau lucrurile despre partea asta. Nimic. Tocmai în momentul plecării, rănitul părù mai neliniștit, chemă pe Comăneșteanu mai aproape și îi zise:</p>
+            <p>Comăneșteanu, intrat în sufletul acesta necăjit, se simțià mic și vinovat. Violonistul interpretà oarecum, pe Anna. Dela Anna, gândul lui sărì la general. Cu nedomirire și părere de rău se uită în ochii violonistului, par-că ar fi dorit să afle cum stau lucrurile despre partea asta. Nimic. Tocmai în momentul plecării, rănitul părù mai neliniștit, chemă pe Comăneșteanu mai aproape și îi zise:</p>
             <p>- Am sa vă fac o mărturisire și să vă cer iertare de o greșeală... Alaltăieri am pus pe cineva de a scris o scrisoare anonimă d-lui general... E o infamie!...</p>
             <p>Apoi căzù pe perne, ținând mâna lui Comăneșteanu cu amândouă mâinile lui:</p>
             <p>E o infamie, domnule căpitan. Vă urez însă să nu fiți nici odată gelos. Sentimentul cel mai desgustător, care înjosește pe om.</p>
@@ -555,10 +556,10 @@
             <p>- Doream să vă văd, ca să vă arăt o scrisoare anonimă pe care a primit-o generalul. Dacă nu sunt indiscretă, vă rog să mă conduceți acasă.</p>
             <p>- Cu cea mai mare plăcere.</p>
             <p>Berta se înfășură în blană până peste ochi și nu mai zise nimic. Tremurà. Căpitanul o acoperì peste picioare, supunând învelitoarea prin toate colțurile pe unde putea pătrunde frigul, cu felul de preocupare și de îngrijire caracteristic unor bărbați bine crescuți, ce atât de mult place femeilor și explică succesele oamenilor mediocri.</p>
-            <p>In frigul din trăsură, ei își simțeau corpurile calde, și par'că o vinovată apropiere sufletească se statornicià între dânșii.</p>
+            <p>In frigul din trăsură, ei își simțeau corpurile calde, și par-că o vinovată apropiere sufletească se statornicià între dânșii.</p>
             <p>De îndată ce ajunseră acasă, Berta se facù nevăzută câteva minute. Când venì, păreà serioasă și gravă. Dete scrisoarea lui Comăneșteanu și asteptă. Dânsul i-o înapoiă fără a o cetì.</p>
-            <p>- E de prisos s'o citesc: toate scrisorile anonime sunt la fel.</p>
-            <p>- Bine, dar știți ce spune într'ânsa?</p>
+            <p>- E de prisos s-o citesc: toate scrisorile anonime sunt la fel.</p>
+            <p>- Bine, dar știți ce spune într-ânsa?</p>
             <p>- Imi închipuesc, de vreme ce mi-o arătați.</p>
             <p>- Că sunteți amantul meu.</p>
             <p>- Imi pare rău că nu e adevărat.</p>
@@ -572,26 +573,26 @@
             <p>- Ah, domnule căpitan, ce greu e a iubì!..</p>
             <p>El o sărută volnicește:</p>
             <p>- Nu găsesc.</p>
-            <p>Berta încercă să râdă, simțind că el nu răspundea vibrărilor ei sufletești și că n'o înțelegeà. Sărì depe brațele lui, și rămase în picioare, dând din cap, lung. După aceea, încet, se așeză pe scaunul dela piano.</p>
+            <p>Berta încercă să râdă, simțind că el nu răspundea vibrărilor ei sufletești și că n-o înțelegeà. Sărì depe brațele lui, și rămase în picioare, dând din cap, lung. După aceea, încet, se așeză pe scaunul dela piano.</p>
             <p>Comăneșteanu pricepea că în minutul acela Berta erà în puterea unei simțiri înnălțătoare. Pornirile lui, de tânără voluptate, păreau a alunecà pe fața lucie a unui suflet străin. Pianul și muzica se înfățișau pentru amândoi ca o punte de scăpare. El se apropia de dânsa:</p>
             <p>- Iți mai aduci aminte de bucata din zilele trecute?</p>
-            <p>Ea dete din cap, pe când mânile alergau pe clavir. Cântă, oarecum pe socoteala ei, par'că ar fi fost singură:</p>
+            <p>Ea dete din cap, pe când mânile alergau pe clavir. Cântă, oarecum pe socoteala ei, par-că ar fi fost singură:</p>
             <quote type="verse">
                <l>Iți aduci aminte, îți aduci aminte</l>
                <l>Când veneai la mine, vara, pe 'nserat,</l>
                <l>Și în umbra porții, schimb de jurăminte</l>
                <l>Se urmau pe zborul unui sărutat?</l>
             </quote>
-            <p>Comăneșteanu și de astă dată se simțì prins de farmecul cu care cântà Berta. In cele trei cuvinte „Iți aduci aminte” pornià par'că de departe toată părerea de rău a celor ce nu mai trăesc decât din amintiri. „Iti aduci aminte când veneai la mine, vara pe 'nserat?”. Deodată idila luà forme. Par'că, în adevăr, se vedeà un tânăr coborînd la vale, către portița cu streașină, în umbra căreia așteptà fata, singurică.</p>
+            <p>Comăneșteanu și de astă dată se simțì prins de farmecul cu care cântà Berta. In cele trei cuvinte „Iți aduci aminte” pornià par-că de departe toată părerea de rău a celor ce nu mai trăesc decât din amintiri. „Iti aduci aminte când veneai la mine, vara pe 'nserat?”. Deodată idila luà forme. Par-că, în adevăr, se vedeà un tânăr coborînd la vale, către portița cu streașină, în umbra căreia așteptà fata, singurică.</p>
             <p>Comăneșteanu întinse brațele în jurul coapselor Bertei și se lipì cu capul de umărul ei. Ea cântà, repetând aceleași vorbe, plecându-se către el, tremurând de emoțiune: „Iți aduci aminte când veneai la mine, vara, pe 'nserat, și în umbra porții, schimb de jurăminte se urmau pe zborul unui sărutat?” Ea se lipià cu obrazul de obrazul lui, se întrerupeà, uitându-se lung în ochii lui, cum te-ai uità pe o fereastră, departe, în fundul orizontului.</p>
-            <p>Când se oprì, se întoarse către el, îi puse amândouă brațele pe umăr, își rezemă fruntea de propriile ei brațe și rămase astfel nemișcată. După câteva minute se sculă, puse pe Comăneșteanu să șeadă ca mai înainte pe canapea și se aruncă în brațele lui, făcându-se mititică, luându-l de gât, vorbindu-i într'aiuri:</p>
-            <p>- Ințelegi ceva? simți cât e de dulce a iubì?... câtă poezie se ascunde în sufletele noastre?... Nu-i așà că par'că îți aduci aminte că veneai la mine, vara, pe 'nserat? Eu par'că sunt sigură că te-am așteptat la o portiță...</p>
+            <p>Când se oprì, se întoarse către el, îi puse amândouă brațele pe umăr, își rezemă fruntea de propriile ei brațe și rămase astfel nemișcată. După câteva minute se sculă, puse pe Comăneșteanu să șeadă ca mai înainte pe canapea și se aruncă în brațele lui, făcându-se mititică, luându-l de gât, vorbindu-i într-aiuri:</p>
+            <p>- Ințelegi ceva? simți cât e de dulce a iubì?... câtă poezie se ascunde în sufletele noastre?... Nu-i așà că par-că îți aduci aminte că veneai la mine, vara, pe 'nserat? Eu par-că sunt sigură că te-am așteptat la o portiță...</p>
             <p>- Pe vreme de iarnă.</p>
             <p>Berta bufnì de rîs, îl sărută lung și apoi se uită la el.</p>
             <p>- Ce păcat că ești orn real.</p>
             <p>- De ce!?</p>
             <p>- Dacă ai fi un vis sau o poezie, te-aș puteà cântà...</p>
-            <p>Comăneșteanu o privià acum ca pe o revelație extraordinară. Vorbele ei delicate îl mirau și-l fermecau. Se uità la dânsa nedomerit, pe când Berta închideà ochii, fericită, căutând par'că să prindă acolo, ca într'o raclă de aur, frumusețea trecătoare a momentului.</p>
+            <p>Comăneșteanu o privià acum ca pe o revelație extraordinară. Vorbele ei delicate îl mirau și-l fermecau. Se uità la dânsa nedomerit, pe când Berta închideà ochii, fericită, căutând par-că să prindă acolo, ca într-o raclă de aur, frumusețea trecătoare a momentului.</p>
             <p>- Cine poate crede!... zise Berta.</p>
             <p>- Câtă frumusețe e în sufletele oamenilor... Asta voiai să zici?</p>
             <p>- Tocmai asta. Cu adăogare că aș fi dorit că aceea ce a fost în realitate să fi fost un vis. - Cu alte cuvinte, rostì ea încet, aș fi dorit ca existența d-tale să fie un lucru nematerial.</p>
@@ -606,7 +607,7 @@
             <p>Și de îndată ce începi a iubì cu adevărat, încolțește în suflet îndoiala și nefericirea.</p>
             <p>Ea se uită la dânsul, înduioșată:</p>
             <p>- Nu zice așà vorbă!...</p>
-            <p>- Nefericirea ideală: sau ești gelos, sau simți că alții sunt geloși. Sau suferi tu, sau suferă ceilalți. Și chiar când nu ești gelos, și nu suferi, e un colț ascuns al sufletului, în care par'că s'ar adăpostì scânteia divină a conștiinței: acolo suferim cu toții. Ce să-ți fac!...</p>
+            <p>- Nefericirea ideală: sau ești gelos, sau simți că alții sunt geloși. Sau suferi tu, sau suferă ceilalți. Și chiar când nu ești gelos, și nu suferi, e un colț ascuns al sufletului, în care par-că s-ar adăpostì scânteia divină a conștiinței: acolo suferim cu toții. Ce să-ți fac!...</p>
             <p>Berta se uità pe gânduri la mâna lui; apoi, disperată, îl întrebă:</p>
             <p>- Ești cu adevărat pătruns de ceea ce zici?</p>
             <p>El înălță din umeri:</p>
@@ -621,16 +622,16 @@
             <head>V.</head>
             <p>Dela podul Dâmboviței, Comăneșteanu dete drumul trăsurii și pornì pe jos către casă.</p>
             <p>Ce ușor curge vremea câteodată!</p>
-            <p>Nu mai ningea. Pe la magazinele din strada Carol începeau să se aprindă luminele. Lumea umblà forfota pe strade, par'că fericită; desigur voioasă. Dece n'ar fi fost voioasă? La urma urmei, omul trăiește numai odată, iar dacă ai căutà bine, traiul acesta e încântător. Iși simți par'că în căldura mânii, sânul Bertei; văzù aevea ochii ei adânci, străbătându-i sufletul; erà puterea fericirii ]ui individuale care înfrumuseța lumea.</p>
+            <p>Nu mai ningea. Pe la magazinele din strada Carol începeau să se aprindă luminele. Lumea umblà forfota pe strade, par-că fericită; desigur voioasă. Dece n-ar fi fost voioasă? La urma urmei, omul trăiește numai odată, iar dacă ai căutà bine, traiul acesta e încântător. Iși simți par-că în căldura mânii, sânul Bertei; văzù aevea ochii ei adânci, străbătându-i sufletul; erà puterea fericirii ]ui individuale care înfrumuseța lumea.</p>
             <p>Cum mergea pe trotuar, voios, văzù o trăsură că i se oprește drept în coaste. Un geam se coborî repede, iar în cadrul lui se ivì capul rotund al prințesei Smaranda Dudescu.</p>
             <p>- Unde mergi, Alexandre?</p>
             <p>- Unde vrei, prințeso.</p>
             <p>- Urcă-te.</p>
             <p>El se urcă lângă dânsa, bine dispus, gata a-i spune vorbe galante. Sabia nu prea intrà în cupeu. El o zmuncì, punând un picior peste dânsa.</p>
             <p>- Nu necinstì sabia, dragă. Multe din succesele tale i le datorești ei. Nu te mâhnì. Ești nostim și fără dânsa, dar cu dânsa la brâu, vai de bărbații însurați!...</p>
-            <p>El se uită în ochii ei, par'că i-ar fi zis: „răposatul e liniștit acolo unde se află acum”. Ea îl privià zâmbind:</p>
+            <p>El se uită în ochii ei, par-că i-ar fi zis: „răposatul e liniștit acolo unde se află acum”. Ea îl privià zâmbind:</p>
             <p>- Desigur, dragă. Imi ești foarte simpatic, dar atât și nimic mai mult.</p>
-            <p>- Niciodată n'am îndrăznit să sper altceva.</p>
+            <p>- Niciodată n-am îndrăznit să sper altceva.</p>
             <p>- Prea bine ai făcut. Asta dovedește că ești bine crescut, și adaogă un farmec mai mult la acel al săbii:</p>
             <p>El îi luă o mână și i-o sărută. Prințesa adaose:</p>
             <p>- Negreșit. Deaceea ești primejdios cu adevărat: inspiri încredere deopotrivă femeilor ca și bărbaților. Din fericire - sau din nenorocire! zise prințesa râzând - majoritatea tinerilor dela noi sunt vano-glorioși, batjocoritori și îndrăzneți fără vreme... Și îți vorbesc de cei din lumea bună. Ceilalți sunt un dezastru: prost-crescuți, vulgari, plebei în toată puterea cuvântului, la fiecare vorbă și la fiecare mișcare rănesc pe femeia care are nenorocirea să ție la ei...</p>
@@ -640,9 +641,9 @@
             <p>- Miroși a femeie nostimă.</p>
             <p>- Da.</p>
             <p>Prințesa bufnì de râs.</p>
-            <p>- Da? Ia spune-mi, zău, cum s'a petrecut.</p>
+            <p>- Da? Ia spune-mi, zău, cum s-a petrecut.</p>
             <p>- Cum se petrece totdeauna.</p>
-            <p>- Esti nesuferit!.. Par'că totdeauna se petrece tot la un fel.</p>
+            <p>- Esti nesuferit!.. Par-că totdeauna se petrece tot la un fel.</p>
             <p>- Cu mici variante, da.</p>
             <p>- Vreau să cunosc variantele.</p>
             <p>- Variantele sunt încântătoare, fiindcă femeiea are suflet.</p>
@@ -660,7 +661,7 @@
             <p>Ea se uită pe fereastră. Apoi se întoarse prelung și se gândì:</p>
             <p>- De câte ori am auzit versurile astea!.. când eram brună. Generalul Cândescu mi le spune și acum...</p>
             <p>- Are haz bietul general.</p>
-            <p>- E ramolit complect. Cu toate astea, dacă nu vine într'o zi la masă, îmi lipsește ceva.</p>
+            <p>- E ramolit complect. Cu toate astea, dacă nu vine într-o zi la masă, îmi lipsește ceva.</p>
             <p>- Displăcerea asta nu ți-o pricinuește des.</p>
             <p>- Odată pe lună, regulat: când își ia pensia. Se duce de prânzește la Herăstrău, cu mai multe onorabile persoane de sex femeiesc. Pauvre vieux satyre!..</p>
             <p>Apoi, râzând, cu ochii ștrengărești fixați pe Comăneșteanu:</p>
@@ -674,22 +675,22 @@
             <p>- Haide, hai, craiule!... Are să meargă așà până te-o prinde lăptărița.</p>
             <p>- Mă păzesc. Dar care?</p>
             <p>Prințesa râîdea cu o poftă nespusă, fiindcă ea se gândià la Mia, pe când lăptărița cea adevărată părea fi Anna.</p>
-            <p>- Prea ai multe încurcături, dragă... Dar, în fine, spune-mi cum s'au petrecut lucrurile cu femeia... cea cu suflet.</p>
-            <p>Pe când ei vorbeau astfel, trăsura mergeà la pas, prin neregula celorlalte trăsuri depe Calea Victoriei. Comăneșteanu zărì într'un magazin pe nevastă-sa, și fără a se gândì, făcù semn să oprească:</p>
+            <p>- Prea ai multe încurcături, dragă... Dar, în fine, spune-mi cum s-au petrecut lucrurile cu femeia... cea cu suflet.</p>
+            <p>Pe când ei vorbeau astfel, trăsura mergeà la pas, prin neregula celorlalte trăsuri depe Calea Victoriei. Comăneșteanu zărì într-un magazin pe nevastă-sa, și fără a se gândì, făcù semn să oprească:</p>
             <p>- Mă ierți, prințeso.</p>
             <p>- Cum nu, dragă. Când vii la mine?</p>
-            <p>- Cât de curând. Când mi s'o face dor de ceaiu bun.</p>
+            <p>- Cât de curând. Când mi s-o face dor de ceaiu bun.</p>
             <p>- Nu de mine?</p>
             <p>- De d-ta mi-e totdeauna dor.</p>
-            <p>Prințesa închise dintr'un ochiu, ștrengărește:</p>
+            <p>Prințesa închise dintr-un ochiu, ștrengărește:</p>
             <p>- Mazette!</p>
-            <p>El zîmbì, într'aiuri, cum se întâmplă oamenilor preocupați, și se dete jos.</p>
-            <p>Nevastă-sa erà într'un magazin, unde cumpăra ceva. Sta pe un scaun, serioasă, așteptând să i se dea lucrurile cerute.</p>
+            <p>El zîmbì, într-aiuri, cum se întâmplă oamenilor preocupați, și se dete jos.</p>
+            <p>Nevastă-sa erà într-un magazin, unde cumpăra ceva. Sta pe un scaun, serioasă, așteptând să i se dea lucrurile cerute.</p>
             <p>Felul cum se țineà pe scaun, dreaptă, cu mâinile pe genunchi, erà atât de cinstit, încât da un aer cum se cade întregului magazin. Cu pălăria elegantă, așezată cuminte pe buclele firești ale părului, Mia nu mai erà fata greoaie de altădată, ci părea personificarea estetică a cuviinței femeiești.</p>
             <p>Căpitanul se uita la dânsa, și avù un moment de sălbatică bucurie, văzând-o atât de departe de nebunia erotică a celorlalte femei: erà satisfacerea deplină a egoismului bărbătesc. Se depărtă dela geamul magazinului și se duse la deal pe Calea Victoriei.</p>
             <p>O pornire de afecțiune către nevastă-sa îl făcù să se întoarcă înnapoi, cu gândul de a intrà în prăvălie și a lua pe Mia cu dânsul. Pe drum însă se răsgândì: erà o copilărie sentimentală. Ca toți bărbații, făceà și el greșala de a socotì pe nevastă-sa ca o persoană pe deplin fericită cu proza zilnică a vieții, față de care nu erà nevoie de nici o înnalțare poetică.</p>
             <p>Contrazicerea sufletească îl țineà în loc, nehotărît. Îi venì în minte să se ducă la Anna; dar cuviința lui intimă îl depărtă de ideea asta. Atunci se gândì să se ducă la Elena Milescu.</p>
-            <p>Elena locuià în aceeaș casă din strada Batiștei, în care trăise fericită cu bărbatu-său. Dela cea d'intâiu treaptă a scării până în unghiurile cele mai depărtate, plutià în aer stăpânirea unui lucru nematerial, ceva ce s'ar fi putut chema în nenumărate feluri, eroism, glorie, patrie, fără să lege bine înțelesul acelui ceva, care mai erà amor și poezie, durere și supunere, ideal tangibil al unui suflet ce trăià numai din trecut. Aici locuià Elena, dar aici stăpânea Milescu. Anne, tablouri, cărți, mobile, vitrine întregi cu amintiri de-ale campaniei din 77: totul fusese adunat cu iubire în acel altar al răsboiului.</p>
+            <p>Elena locuià în aceeaș casă din strada Batiștei, în care trăise fericită cu bărbatu-său. Dela cea d-intâiu treaptă a scării până în unghiurile cele mai depărtate, plutià în aer stăpânirea unui lucru nematerial, ceva ce s-ar fi putut chema în nenumărate feluri, eroism, glorie, patrie, fără să lege bine înțelesul acelui ceva, care mai erà amor și poezie, durere și supunere, ideal tangibil al unui suflet ce trăià numai din trecut. Aici locuià Elena, dar aici stăpânea Milescu. Anne, tablouri, cărți, mobile, vitrine întregi cu amintiri de-ale campaniei din 77: totul fusese adunat cu iubire în acel altar al răsboiului.</p>
             <p>Cînd intră Comăneșteanu, un fecior servià ceaiul.</p>
             <p>Elena îl sărută pe frunte și-l prezentă unei doamne ce erà de față, elegantă, fină, cu părul aproape alb. Când Comăneșteanu se întoarse către dânsa, doamna încercase să se scoale, și erà gata să cadă. Cu o mână dusă la ochi iar cu cealaltă căutând sprijin, ea se rezemă de Elena și rămase un moment în mijlocul salonului. Apoi, cu încetul, părù a-și revenì în sine, întinse mâna lui Comăneșteanu și se uită lung la el, cu o infinită poezie în privire:</p>
             <p>- Alexandru Comăneșteanu?</p>
@@ -698,18 +699,18 @@
             <p>Ea nu-și credea ochilor.</p>
             <p>- Al Sașei?</p>
             <p>- Da.</p>
-            <p>- Ce bine am făcut că am venit astăzi la tine, Eleno!... Dar n'o să te superi dacă mă duc... Domnule Comăneștene, vrei să vii să mă vezi?...</p>
+            <p>- Ce bine am făcut că am venit astăzi la tine, Eleno!... Dar n-o să te superi dacă mă duc... Domnule Comăneștene, vrei să vii să mă vezi?...</p>
             <p>Căpitanul se înclină din nou.</p>
             <p>După ce doamna ieșì, Elena venì la el, îl luă de braț, cu un aer tânăr de viclenie:</p>
             <p>- Ami, tu ressembles à ton oncle.</p>
             <p>El se uità la ea, nedomirit:</p>
             <p>- Voyons, Tantzi, ce comedie e asta.</p>
             <p>- Șezi, că-ți spuiu. Dar ce te aduce la mine?</p>
-            <p>- Ceea ce m'aduce întotdeauna.</p>
+            <p>- Ceea ce m-aduce întotdeauna.</p>
             <p>Ea ridică ochii:</p>
             <p>- Ceaiul?</p>
             <p>- Nu, Tanti dragă. Poezia.</p>
-            <p>Elena făcù o mișcare din ochi și din gură, par'că ar fi zis: „cine 'mi ești!....”</p>
+            <p>Elena făcù o mișcare din ochi și din gură, par-că ar fi zis: „cine 'mi ești!....”</p>
             <p>- Vezi, Tanți, când te văd făcând la mofturi ca celelalte femei, îmi vine să mă supăr pe dumneta..</p>
             <p>- Dece?</p>
             <p>- Fiindcă eu vin aici cum se vine la altarul Patriei, al Frumosului și al Poeziei.</p>
@@ -718,7 +719,7 @@
             <p>- Lasă, Tanți dragă, că nu sunt fericit.</p>
             <p>- Cred.</p>
             <p>- Atunci?</p>
-            <p>- Ia ceaiul. Doamna care s'a dus este Natalia Canta.</p>
+            <p>- Ia ceaiul. Doamna care s-a dus este Natalia Canta.</p>
             <p>- Da?</p>
             <p>- Da. Când te plângi că ești nefericit, tu, tânăr, frumos și bogat...</p>
             <p>- Domol, Tanți.</p>
@@ -734,7 +735,7 @@
             <p>- Tanți!... Vrei să-mi iai mâna?!.. Apoi nu știi că pe întreg bietul pământ nu e o mână ca asta. Uite, mi se pare că mângâiau sânul unei muze...</p>
             <p>Elena râdea, căutând să-și retragă mâna.</p>
             <p>- Lasă-mi mâna, dragă, și nu mai spune prostii, că te-ai deprins cam rău cu mângâiatul sânurilor.</p>
-            <p>- Tanți, îmi ești dragă, îmi ești dragă, Tanți, ca o zi caldă de toamnă, când s'aud cocorii pe sus; ca o batistă ce miroase a sulfină ca un parfum de persică...</p>
+            <p>- Tanți, îmi ești dragă, îmi ești dragă, Tanți, ca o zi caldă de toamnă, când s-aud cocorii pe sus; ca o batistă ce miroase a sulfină ca un parfum de persică...</p>
             <p>Elena zâmbià, cu capul plecat pe o parte și uitându-se la el lung:</p>
             <p>- Alex, tu spui prostii.</p>
             <p>- Nu, Tanți dragă.</p>
@@ -757,40 +758,40 @@
             <p>- Ce să facă!... Trăiește. Vara stă la moșie, acolo unde cred că a cunoscut-o Mihai; iarna în străinătate.</p>
             <p>- O fi având ceva dela unchiu, Tanți?</p>
             <p>- Imi închipuiesc că da.</p>
-            <p>- N'o fi oare dela dânsa?...</p>
+            <p>- N-o fi oare dela dânsa?...</p>
             <p>- Nu... Ți-am spus, dragă, că portofelul îi fusese dat de Maiorul Șonțu.</p>
             <p>- Dă-mi cheia.</p>
-            <p>Elena îi dete o cheiță mică. Tânărul se duse la una din vitrine, luă o cutie de marochin negru, o aduse pe masă și o deschise. Intr'însa erà o altă cutie de lemn de trandafir, iar în aceasta, pe un fond de atlas, un portofel. Comăneșteanu îl luă ușor, tremurând, și îl desfăcù. Atunci se văzù un mic pachet de hârtie, legat cu o panglică roșie, decolorată de vreme. Căpitanul se făcuse palid. Șezù pe un scaun, lângă cutii, și se uită lung în pământ.</p>
+            <p>Elena îi dete o cheiță mică. Tânărul se duse la una din vitrine, luă o cutie de marochin negru, o aduse pe masă și o deschise. Intr-însa erà o altă cutie de lemn de trandafir, iar în aceasta, pe un fond de atlas, un portofel. Comăneșteanu îl luă ușor, tremurând, și îl desfăcù. Atunci se văzù un mic pachet de hârtie, legat cu o panglică roșie, decolorată de vreme. Căpitanul se făcuse palid. Șezù pe un scaun, lângă cutii, și se uită lung în pământ.</p>
             <p>- Și când ți l-a dat, Tanți dragă, ți-a spus că nu erà al lui?</p>
             <p>- Mi-a spus că i-l dase Maiorul Șonțu... cred că în noaptea ce a precedat atacul dela Grivița. Dar cine mai înțelegea atunci ceva? Noi toate îl vedeam că se stinge, și căutam să-l liniștim, fiindcă rupea bandagele, întindea brațele, strigând „Innainte!”.</p>
-            <p>Elena își ridicase părul depe frunte, privind țintă un punct din aer, par'că ar fi văzut și atunci scena din ambulanța dela Măgurele.</p>
+            <p>Elena își ridicase părul depe frunte, privind țintă un punct din aer, par-că ar fi văzut și atunci scena din ambulanța dela Măgurele.</p>
             <p>Comăneșteanu se apropiase de ea, se lăsase pe un scăunaș dela picioarele ei, o înconjurase aproape toată în brațele lui puternice, și ascultà cu nesațiu, îi bea cuvintele:</p>
             <p>- Da, Tanți, strigà mereu „Innainte”.</p>
             <p>- Strigà „Innainte”, fiindcă din toate părțile cădeau soldații... și fiindcă unchiu-tău aveà suflet de erou. Tu ce fel de suflet ai?</p>
-            <p>Și, grăind astfel, îndemnată de propria ei aprindere, Elena puse amândouă mâinile pe umerii tânărului, îl silì să se uite la dânsa și îl sărută lung pe ochi, par'că ar fi fost sora lui.</p>
+            <p>Și, grăind astfel, îndemnată de propria ei aprindere, Elena puse amândouă mâinile pe umerii tânărului, îl silì să se uite la dânsa și îl sărută lung pe ochi, par-că ar fi fost sora lui.</p>
             <p>- Ce fel de suflet ai?</p>
             <p>Comăneșteanu privià un nasture dela haina Elenei fără să-l vadă.</p>
             <p>- Nimica toată, Tanți dragă.</p>
             <p>- Suflet de ștrengar.</p>
             <p>- Mare lucru!...</p>
             <p>- Nu zic că-i vre-un lucru mare... Dar ștrengarii au unele părți bune, sunt în general dezinteresați, se înflăcărează repede, - le și trece repede - dar, în fine, sunt în stare să moară pentru ceva, pentru o ideie mare sau pentru o nebunie...</p>
-            <p>Vorbindu-i astfel, îi mângâià obrazul, par'că ar fi fost un copil, îl sărutà pe frunte, zâmbià lung și într'aiuri.</p>
-            <p>- Sunt sigură, Alex, că to ai fi în stare să-ți dai viața, dacă mâine s'ar întâmplà ceva...</p>
+            <p>Vorbindu-i astfel, îi mângâià obrazul, par-că ar fi fost un copil, îl sărutà pe frunte, zâmbià lung și într-aiuri.</p>
+            <p>- Sunt sigură, Alex, că to ai fi în stare să-ți dai viața, dacă mâine s-ar întâmplà ceva...</p>
             <p>Tânărul o strânse în brațe și sărută haina depe dânsa:</p>
             <p>- Ah, da, Tanți!... Mi-aș da viața mâine, astăzi, acum...</p>
             <p>- Incet dragă. Tocmai asta ziceam: sunt sigură că ți-ai da-o, - și nu trebue să ți-o dai. Tu ești o minunată operă a naturei: suflet cald, gând bun, ochii și fruntea asta... Nume mare, avere mare, tinerețe, voinicie, ce vrei mai mult? Tu nu trebue să-ți dai viața pentru nimic.</p>
             <p>- Cum pentru nimic?!</p>
             <p>- Nu te turburà. Unchiu-tău a murit ca un adevărat erou. Tot așà a murit și Milescu! Tu nu trebue să mori așà.</p>
             <p>- Pentru ce?!...</p>
-            <p>- Aceia au murit așà, pentrucă erà datoria lor de boieri să moară cei d'întâi. Tu nu mai ai de dovedit ceea ce trebuiau să dovedească ei. Tu trebue să trăești și, la nevoie, să și mori pentru o altă ideie.</p>
+            <p>- Aceia au murit așà, pentrucă erà datoria lor de boieri să moară cei d-întâi. Tu nu mai ai de dovedit ceea ce trebuiau să dovedească ei. Tu trebue să trăești și, la nevoie, să și mori pentru o altă ideie.</p>
             <p>- Care, Tanți?</p>
             <p>Ea se plecă binișor la urechia lui și îi spuse ceva.</p>
             <p>El ridică fruntea. Elena se uità în ochii lui palpitând, așteptând un răspuns, o vorbă.</p>
             <p>- Nu înțelegi?... zise ea lung.</p>
-            <p>- Ba înțeleg, dar mărturisesc că nu m'am gândit la asta.</p>
+            <p>- Ba înțeleg, dar mărturisesc că nu m-am gândit la asta.</p>
             <p>- Foarte rău ai făcut. La asta să te gândești fiindcă toți suferă, și sunt frații noștri, și în Transilvania și în Bucovina și în Basarabia. Ne trebue un om. Omul acesta să fii tu.</p>
-            <p>Și fiindcă tânărul tăceà, Elena tăcù și dânsa un moment. Dar după aceea urmă mai departe, hipnotizată par'că de icoanele ce-i răsăreau în minte.</p>
-            <p>- Ce chemare mareață!... Dacia lui Traian!... Ai fost tu prin Dacia lui Traian?... Te-ai gândit vreo-dată cum s'a format poporul nostru de astăzi, la începutul vieței lui românești, trăind pe corhane, luptându-se cu jivinele, respingând năvălirile barbare și propagându-se în timp, curat și frumos ca o legendă?... Lumea întreagă ar trebui să se intereseze de soarta Românilor din munți, fiindcă acesta este cel mai frumos popor depe glob... Tu ai fost par'că pela dânșii...</p>
+            <p>Și fiindcă tânărul tăceà, Elena tăcù și dânsa un moment. Dar după aceea urmă mai departe, hipnotizată par-că de icoanele ce-i răsăreau în minte.</p>
+            <p>- Ce chemare mareață!... Dacia lui Traian!... Ai fost tu prin Dacia lui Traian?... Te-ai gândit vreo-dată cum s-a format poporul nostru de astăzi, la începutul vieței lui românești, trăind pe corhane, luptându-se cu jivinele, respingând năvălirile barbare și propagându-se în timp, curat și frumos ca o legendă?... Lumea întreagă ar trebui să se intereseze de soarta Românilor din munți, fiindcă acesta este cel mai frumos popor depe glob... Tu ai fost par-că pela dânșii...</p>
             <p>- Da, Tanți.</p>
             <p>- Ei, atunci?...</p>
             <p>- E foarte complicat.</p>
@@ -805,9 +806,9 @@
             <p>- Și omul acesta ești tu...</p>
             <p>- O, Tanți!...</p>
             <p>- Tu, sau fiul tău... Lasă-mă. Mi-e așà de bine aici!...</p>
-            <p>Și se lipì cu fruntea de pieptul lui voinic. El o strânse în brațe ca pe o soră nenorocită, care caută scăpare sub aripa fratelui mai mare. Dânsa se făcuse mititică, vorbià ci râdeà într'aiuri și par'că ar fi voit să rămână acolo cât de mult.</p>
+            <p>Și se lipì cu fruntea de pieptul lui voinic. El o strânse în brațe ca pe o soră nenorocită, care caută scăpare sub aripa fratelui mai mare. Dânsa se făcuse mititică, vorbià ci râdeà într-aiuri și par-că ar fi voit să rămână acolo cât de mult.</p>
             <p>- A personificà dorurile unui neam întreg... a fi tânăr și iubit... a murì pentru reîntocmirea unei patrii ideale... o, tu, care nu înțelegi nimic!</p>
-            <p>Dânsul se dete cu un pas înnapoi și se uită la ea, mirat. Intr'o clipă, Elena își revenise în sine, zâmbià, cu aerul ei de dulce enigmă:</p>
+            <p>Dânsul se dete cu un pas înnapoi și se uită la ea, mirat. Intr-o clipă, Elena își revenise în sine, zâmbià, cu aerul ei de dulce enigmă:</p>
             <p>- Acuma refă ceea ce ai desfăcut, zise ea arătând către cutii.</p>
             <p>- Numai să pot.</p>
             <p>- Sărută, adăogă, ridicându-i către gură hârtia subțire a pachetului.</p>
@@ -828,7 +829,7 @@
                <l>Torna dinanzi al mio pensier talora</l>
                <l>Il tuo sembiante, Aspasia.</l>
             </quote>
-            <p>Așà par'că își aduceà ea aminte de dânsa, tânără.</p>
+            <p>Așà par-că își aduceà ea aminte de dânsa, tânără.</p>
          </div>
          <div type="chapter" n="7">
             <head>VII.</head>
@@ -845,20 +846,20 @@
             <p>In fuga impresiilor, Cămăneșteanu simțià o trudă ascunsă în Elena lui, dar nu pricepeà ce.</p>
             <p>- Ia ascultă, Tanți dragă, de câtvà timp te depravezi. Și îți șade așà de rău!...</p>
             <p>Ea înnalță din umeri, ca o persoană stăpână pe sine; se înroșise însă până în firele părului.</p>
-            <p>- Mi s'a urît cu drumul drept. Ași vrea cevà nou.</p>
+            <p>- Mi s-a urît cu drumul drept. Ași vrea cevà nou.</p>
             <p>- Fă-ți pe moșie un drum strâmb...</p>
             <p>- Am să-mi văpsesc părul.</p>
             <p>- Dacă vei face una ca asta, nu-ți mai calc prin casă.</p>
             <p>Dânsa mișcă din ochi în neștire. El o luă de braț. Aveà ceva, o durere ascunsă.</p>
-            <p>- Tanți dragă, eu pe doamna asta deabià o cunosc. N'ai vrea sa te 'ntorci cu mine, ca să mă mai prezinți odată?</p>
+            <p>- Tanți dragă, eu pe doamna asta deabià o cunosc. N-ai vrea sa te 'ntorci cu mine, ca să mă mai prezinți odată?</p>
             <p>Ea stete un moment la îndoială.</p>
             <p>- Da, pentru un minut.</p>
             <p>Apoi intră din nou la Natalia.</p>
             <p>D-na Canta erà dintre acele femei părtinite de fire, ce rămân cu inima caldă până la bătrânețe, și păstrează un rătăcit parfum de tinerețe, chiar în viața lor fizică. De când trăià singură la moșie, se apucase de afaceri, plantase pomi roditori, adusese cuptoare sistematice, înființase școli de meșteșuguri, de țesut, de împletit, de crescut gândaci de mătasă. Averea sa, foarte mare, devenise enormă. Ceea ce o deosebià de semenele sale, cari, când se apucă de afaceri, devin bățoase și agresive, erà o neîndemănare firească în socoteli, o sfială poate mai mult aparentă decât reală în planuri și hotărîri, ceva ce nu se prinde și nu se notează în țifre, acea imponderabilă copărtășie a oamenilor fericiți și bogați, la nenorocirea și greutățile celor nevoiași. Venise la București să ceară Ministerului de Finanțe anumite înlesniri pentru atelierele ei dela țară, iar Ministerul refuză. Asta erà criza de nervi.</p>
             <p>Elena îi prezentă din nou pe Comăneșteanu.</p>
-            <p>- Ți-a trecut, Natalio?... Iată d-l Comăneșteanu, pe care ți l-am mai prezentat la mine. Dacă vrei, să te plângi și lui... M'a întâlnit pe scări și a ținut cu orice preț să-l însoțesc până la tine. E un tânăr foarte sfios.</p>
+            <p>- Ți-a trecut, Natalio?... Iată d-l Comăneșteanu, pe care ți l-am mai prezentat la mine. Dacă vrei, să te plângi și lui... M-a întâlnit pe scări și a ținut cu orice preț să-l însoțesc până la tine. E un tânăr foarte sfios.</p>
             <p>Natalia râdeà, Elena urmă:</p>
-            <p>- Deșì seamănă cu unchiu-său, eroul, acesta bate mai mult a călugăr. Nu-l iubește nimeni, nu se interesează nimeni de el... N'ai vrea tu să-l adoptezi?... că poate ți s'a urît cu binele.</p>
+            <p>- Deșì seamănă cu unchiu-său, eroul, acesta bate mai mult a călugăr. Nu-l iubește nimeni, nu se interesează nimeni de el... N-ai vrea tu să-l adoptezi?... că poate ți s-a urît cu binele.</p>
             <p>Căpitanul se plecase pe mâna Nataliei.</p>
             <p>- Toate, infame calomnii, doamnă.</p>
             <p>- Ar fi foarte urît dacă ar fi așà.</p>
@@ -872,7 +873,7 @@
             <p>Intră un fecior și aduse apă pentru ceaiu.</p>
             <p>Natalia se uită la Comăneșteanu, dusă pe gânduri.</p>
             <p>- Cunoști, poate, pe Ministrul Finanțelor.</p>
-            <p>El răspunse într'aiuri, mirat și nedomerit:</p>
+            <p>El răspunse într-aiuri, mirat și nedomerit:</p>
             <p>- Puțin.</p>
             <p>- Aș aveà nevoie de cineva care să-l cunoască bine.</p>
             <p>- Poate oamenii politici din județul d-voastre.</p>
@@ -909,7 +910,7 @@
             <p>Tocmai asta gândià el de dânsa, că erà bizară, milionară și socialistă, cheltuind cu drumul la București mai mult decât făceau taxele la Finanțe.</p>
             <p>Ea îl privià cu stăruință:</p>
             <p>- Am auzit că ești un om plin de succese...</p>
-            <p>Comăneșteanu vrù să protesteze. Ea îl oprì cu o mișcare a mânii, par'că ar fi zis: „atâta lucru pricep și eu”. Apoi, încet, liniștit:</p>
+            <p>Comăneșteanu vrù să protesteze. Ea îl oprì cu o mișcare a mânii, par-că ar fi zis: „atâta lucru pricep și eu”. Apoi, încet, liniștit:</p>
             <p>- Nu ai voì să faci odată curte, pentru o operă de binefacere?</p>
             <p>- Cu plăcere, Cui?</p>
             <p>Graba și siguranța cu care răspunse tânărul, părură a întristà pe Natalia. Deși erau zise în glumă, cuvintele acelea dovedeau o închipuire-de-sine nesănătoasă. Ea se gândià.</p>
@@ -922,12 +923,12 @@
             <p>El râdeà cu hohot. Natalia râdeà și ea, dar cam stângace.</p>
             <p>- Și e mare taxa?</p>
             <p>- Câteva sute de lei.</p>
-            <p>- Foarte bine. Am s'o obțin.</p>
+            <p>- Foarte bine. Am s-o obțin.</p>
             <p>Se sculă și se închină înaintea ei, voind să plece. Ea îl reținù.</p>
             <p>- Domnule Comăneșteanu, am înțeles toată filosofia d-tale. Să-mi dai voie să-ți spun că e cam simplistă. E vorba să plătești d-ta acele taxe și să zici că ai făcut o faptă bună. Ba chiar te miri că nu le plătesc eu...</p>
             <p>Comăneșteanu voì să protesteze. Ea îl întrerupse.</p>
             <p>- Te rog. Cunosc pe Români: ei admiră pe un pehlivan care din nimic face avere și își bat joc de un om cum se cade care se ruinează.</p>
-            <p>- Noi nu suntem nici într'un caz, nici într'altul.</p>
+            <p>- Noi nu suntem nici într-un caz, nici într-altul.</p>
             <p>- Noi. Adică vrei să zici eu. Și mai cu seamă vrei să zici că nu mă ruinez de loc.</p>
             <p>Comăneșteanu încercă iarăși să protesteze.</p>
             <p>- Te rog. Dacă nu abuzez de timpul d-tale, mai stai un moment. Eu nu mai ruinez, - este adevărat. Și nici nu vreau să mă ruinez. Dar tot venitul meu se duce, iar mie personal îmi trebue foarte puțin. E atâta lume care suferă, domnule Comăneșteanu!..</p>
@@ -945,7 +946,7 @@
             <p>Erà atât de încredințată de ceea ce spuneà, încât tânărul nu îndrăznì a o mai contrazice.</p>
             <p>Ea se simțì cam declamatorie și prinse a vorbì încet.</p>
             <p>- Oamenii se trudesc în nenumărate feluri, și deaceea e greu de umblat cu sufletul lor. Eu am făcut tot ce-am putut la mine la țară. Dar nu e destul să dai, ci trebue să și știi să dai. Atelierele mele merg cu propria lor putere. Acolo sunt oameni, cu înțelegere și cu demnitate, cărora nu poți să le dai de pomană. Ei cred că au dreptul la o scutire de taxi. Prin urmare, asta îmi trebue, iar nu 300 de lei.</p>
-            <p>Ciudata erà!... ciudată și plină de contraziceri. Dar atât părea de convinsă, încât tânărul se sculă, hotărît s'o ajute.</p>
+            <p>Ciudata erà!... ciudată și plină de contraziceri. Dar atât părea de convinsă, încât tânărul se sculă, hotărît s-o ajute.</p>
             <p>- Am să încerc... fără a face curte nimănui.</p>
             <p>Ea îl oprì un moment, ținându-l de mână. Părea că voește să zică ceva. I se umplură deodată ochii de lacrămi.</p>
             <p>- Atât de mult semeni cu mama dumitale!.. Ai zis „am să încerc” întocmai ca Sașa.</p>
@@ -956,11 +957,11 @@
             <p>Când să iasă pe poarta oțelului, îl apucă cineva de braț. Erà Elena Milescu.</p>
             <p>- De unde răsari, Tanți?</p>
             <p>- Te-am așteptat, ca pe o domnișoară dela pension, să te duc acasă. Ei, te-a adoptat?</p>
-            <p>- Nu încă, dar dacă îi voiu obține o reducere de taxe de 300 lei, l'affaire est dans le sac.</p>
+            <p>- Nu încă, dar dacă îi voiu obține o reducere de taxe de 300 lei, l-affaire est dans le sac.</p>
             <p>- Să trăiești!</p>
             <p>Incercă să-și potrivească pasul pe al lui.</p>
             <p>- Umblă mai domol, ca să mă pot ține de tine.</p>
-            <p>El își micșorà pasul. Ea sărì într'aiuri, fără să găsească măsura.</p>
+            <p>El își micșorà pasul. Ea sărì într-aiuri, fără să găsească măsura.</p>
             <p>- Ah, Tanți, așà ești de stângace și de nostimă, că-mi vine să te sărut în mijlocul drumului.</p>
             <p>Ea părù a nu-l auzì.</p>
             <p>- Va să zică treaba e gata. Prințesa Smaranda una; eu, două; Anna, firește, trei...</p>
@@ -980,9 +981,9 @@
             <p>- Dar pe dinăuntru?</p>
             <p>- Face mai mult decât tine, pentrucă ea nu ar pune asemenea întrebări.</p>
             <p>Elena Milescu se făcù a nu înțelege.</p>
-            <p>- Pe Anna cu cât s'o punem?</p>
+            <p>- Pe Anna cu cât s-o punem?</p>
             <p>- Știu eu!</p>
-            <p>- S'o punem în raport invers cu Berta.</p>
+            <p>- S-o punem în raport invers cu Berta.</p>
             <p>- Adică?</p>
             <p>- Cu cât punem pe Anna mai mult, cu atât o să punem pe Berta mai puțin. Dar e mai sigur să facem contrariul, potrivit socotelilor lui cumnată-meu.</p>
             <p>Râdeau amândoi. Ea urmă:</p>
@@ -1004,7 +1005,7 @@
             <p>Iși scoase chipiul:</p>
             <p>- Te las Tanți. Mă scandalizezi și mă indignezi!</p>
             <p>- Pentru ce?</p>
-            <p>- Pentru că n'ai măsură la vorbă.</p>
+            <p>- Pentru că n-ai măsură la vorbă.</p>
             <p>Ea se uită la dânsul:</p>
             <p>- Am la fapte. Deaceea mă și iubești. Egoismul bărbătesc este nemărginit, ca văzduhul. Tu ai vrea ca fiecare femeie care îți vorbește să fie un înger.</p>
             <p>- Firește.</p>
@@ -1012,15 +1013,15 @@
             <p>- Fiindcă un înger e mai frumos decât o cocotă.</p>
             <p>- Ai văzut îngeri vreodată?</p>
             <p>- Te-am văzut pe tine până acum.</p>
-            <p>- Ça c'est gentil. Dar să ne urmăm socoteala. Va să zică: Prințesa Smaranda, 10; Anna, 5. Pe mine cât mă taxezi?</p>
+            <p>- Ça c-est gentil. Dar să ne urmăm socoteala. Va să zică: Prințesa Smaranda, 10; Anna, 5. Pe mine cât mă taxezi?</p>
             <p>- Știu eu!...</p>
             <p>- Să zicem tot 5.</p>
             <p>- Să vede că ai și tu vre-o gloabă.</p>
             <p>Elena râse cu poftă:</p>
             <p>- Nici una.</p>
             <p>- Atunci să zicem 6.</p>
-            <p>- Să zicem 6. Fac până acum 21. Pe Natalia cât s'o punem?</p>
-            <p>- Să n'o punem nimic. Știi că mi s'a părut foarte curioasă...</p>
+            <p>- Să zicem 6. Fac până acum 21. Pe Natalia cât s-o punem?</p>
+            <p>- Să n-o punem nimic. Știi că mi s-a părut foarte curioasă...</p>
             <p>- In ce fel?</p>
             <p>- Preocupată de fericirea universală, adică de himera cea mai absurdă.</p>
             <p>- De ce himeră?</p>
@@ -1041,14 +1042,14 @@
             <p>- Tanți!</p>
             <p>- Ce este?</p>
             <p>- Ți-e frig, că tremuri.</p>
-            <p>- Tremur dar nu mi-e frig. Natalia Canta a iubit pe unchiul tău, a suferit, dar a rămas nestămutată în simțirea ei adâncă. A ars ca o flacără curată, iar acum mai pâlpâe din ultimele adieri ale sufletului... întreabă pe Anna, să-ți spună. S'a petrecut între ele drama cea mai mișcătoare.</p>
+            <p>- Tremur dar nu mi-e frig. Natalia Canta a iubit pe unchiul tău, a suferit, dar a rămas nestămutată în simțirea ei adâncă. A ars ca o flacără curată, iar acum mai pâlpâe din ultimele adieri ale sufletului... întreabă pe Anna, să-ți spună. S-a petrecut între ele drama cea mai mișcătoare.</p>
             <p>- Când Tanți?</p>
             <p>- Pe vrernea răsboiului.</p>
             <p>El se oprì locului:</p>
             <p>- Ce rău îmi pare că nu suntem la tine, Tanți dragă! Vezi, acuma te-am regăsit, dulce ca o mama tânără, iar nu cucoana cu nervi.</p>
-            <p>- Se 'ntâmplă și așà. Mi-se urăște să par mamă când... n'am fost niciodată. Dar să înveți să respectezi pe Natalia Canta. E suflet înnalt care ar voì să facă bine omenirii întregi, pentru purificarea imaginii lui unchiu-tău.</p>
-            <p>- Purificarea lui unchiu-meu!?... Acela s'a purificat singur, fiindcă a știut să moară.</p>
-            <p>- Am zis a imaginii lui. Cine n'a avut în viață o durere mare, nu pricepe câte lucruri sunt legate de o imagine, și cum ea poate conduce pe vii în toate hotărîrile lor.</p>
+            <p>- Se 'ntâmplă și așà. Mi-se urăște să par mamă când... n-am fost niciodată. Dar să înveți să respectezi pe Natalia Canta. E suflet înnalt care ar voì să facă bine omenirii întregi, pentru purificarea imaginii lui unchiu-tău.</p>
+            <p>- Purificarea lui unchiu-meu!?... Acela s-a purificat singur, fiindcă a știut să moară.</p>
+            <p>- Am zis a imaginii lui. Cine n-a avut în viață o durere mare, nu pricepe câte lucruri sunt legate de o imagine, și cum ea poate conduce pe vii în toate hotărîrile lor.</p>
             <p>- Incepi să semeni la vorba cu Natalia Canta.</p>
             <p>- Firește.</p>
             <p>- Atunci te las, fiindcă mă tem să nu ai și te vre-o taxă pentru care să fac curte.</p>
@@ -1058,14 +1059,14 @@
             <p>- Și chiar când nu ți-o fi.</p>
             <p>Despărțindu-se de dânsa, i-se părù că se desparte de Prințesa Smaranda. Se vede că aceleași persoane, în aceleași împrejurări, fac totdeauna același lucru.</p>
             <p>Elena Milescu erà pentru el o creatură a parte, plină de poezie, care nu aveà dreptul să semene cu Prințesa Smaranda.</p>
-            <p>Se gândì la maică-sa, și-i venì deodată în minte imagina Sașei, cu tâmplele negre și ochii albaștri. Avea dreptate Elena: vedeà și el o imagină. Și, ce e mai curios, îi erà milă de ea, ar fi voit să-i facă bine, s'o îmblânzească, s'o purifice, s'o găsească în lumea viitoare, surâzând, așà cum plecase din lumea prezentă.</p>
+            <p>Se gândì la maică-sa, și-i venì deodată în minte imagina Sașei, cu tâmplele negre și ochii albaștri. Avea dreptate Elena: vedeà și el o imagină. Și, ce e mai curios, îi erà milă de ea, ar fi voit să-i facă bine, s-o îmblânzească, s-o purifice, s-o găsească în lumea viitoare, surâzând, așà cum plecase din lumea prezentă.</p>
          </div>
          <div type="chapter" n="9">
             <head>IX.</head>
             <p>Timoleon Vucos nu erà la biurou. Comăneșteanu voì să se ducă la el acasă. I-se spuse că nu erà nici acasă nici în țară. Erà plecat la Berlin, - ca orice bancher serios.</p>
             <p>Asta îl încurcă. Se gândì să se ducă la Urania.</p>
             <p>Îi răsărì deodată în minte numele femeiei tinere, extravagant și nepotrivit cu ființa ei rotundă și diminutivă. Urania!...</p>
-            <p>Sărì într'o trăsură, ca să ajungă mai repede.</p>
+            <p>Sărì într-o trăsură, ca să ajungă mai repede.</p>
             <p>Ajuns la dânsa, i se spuse că doamna plecase la țară.</p>
             <p>- Demult?</p>
             <p>- Uite, chiar acum, nu sunt cinci minute. Dacă vrea cuconașul, o găsește la gară - zise feciorul.</p>
@@ -1073,7 +1074,7 @@
             <p>- La gară, și mână!</p>
             <p>Birjarul se repezì pe străzile înghețate, izbind roatele de marginile trotuarelor. Ningeà ușor.</p>
             <p>Comăneșteanu intră în gară din fuga, lovindu-se de călători, trântind ușile, sunând sabia. Un tren, pe linia a doua, părea nerăbdător să plece, bufnià pe nări, gâlgâià fum, iar roatele, la cea mai mică mișcare, scrâșneau pe șinele înghețate.</p>
-            <p>Tânărul trecù repede prin dreptul vagoanelor, cercetă cu ochii lumea, se uită de mai multe ori la ceasornic, și tocmai la urmă îi venì în minte să întrebe de ora plecării. Mai erà vreme. Atunci se liniștì, par'că turburarea lui sufletească ar fi atârnat de un lucru din afară.</p>
+            <p>Tânărul trecù repede prin dreptul vagoanelor, cercetă cu ochii lumea, se uită de mai multe ori la ceasornic, și tocmai la urmă îi venì în minte să întrebe de ora plecării. Mai erà vreme. Atunci se liniștì, par-că turburarea lui sufletească ar fi atârnat de un lucru din afară.</p>
             <p>Pe când mergeà către fundul peronului, văzù pe Urania, care ieșià dela biuroul telegrafic. Ea îl văzuse de departe i venià acum către el, cu pasul pripit al oamenilor ce nu se simt stăpâni pe sine.</p>
             <p>- Unde mergi? întreba ea, veselă, scuturându-l de mână.</p>
             <p>- Nu știu unde merg. Știu de unde viu.</p>
@@ -1098,16 +1099,16 @@
             <p>- La D-ta.</p>
             <p>Ea se plecă sub obrazul lui, râzând cu ghidușie:</p>
             <p>- Mai întâi de unde știi că eu merg la Crivina?</p>
-            <p>- Mi-ai spus-o D-ta; m'ai și invitat.</p>
+            <p>- Mi-ai spus-o D-ta; m-ai și invitat.</p>
             <p>- Am glumit.</p>
             <p>- Atunci mergem la Hălăucești.</p>
             <p>- Ai garnizoane peste tot...</p>
             <p>Apoi pe când se suià în vagon, ea se întoarse către el:</p>
             <p>- Asta nu se poate.</p>
-            <p>El o simțise, caldă, rezemându-se de el, și par'că un val de poezie îi inundă sufletul.</p>
+            <p>El o simțise, caldă, rezemându-se de el, și par-că un val de poezie îi inundă sufletul.</p>
             <p>- Cuvântul „nu se poate” nu există în limba noastră. Ba există, de vreme ce-i rostim. Ajută-mă.</p>
             <p>Căpitanul pusese dejà mâna pe blana ei și o ajutà să se dezbrace.</p>
-            <p>- Par'că asemenea lucruri n'am mai mirosit pe lume.</p>
+            <p>- Par-că asemenea lucruri n-am mai mirosit pe lume.</p>
             <p>- Ce fel de lucruri?</p>
             <p>- Nu știu. Îmi dai voie?...</p>
             <p>Și fără a așteptà voie, o răsucì pe loc, cum făcuse când o ajutase să se dezbrace, și aspiră din părul ei cu putere. Ea se întoarse repede, uitându-se la el:</p>
@@ -1115,8 +1116,8 @@
             <p>- A sân de mamă și a miros de floare.</p>
             <p>- Frumos lucru!...</p>
             <p>- Nu știu cum să spun.</p>
-            <p>Ea se așezase într'un colț, iar el în față cu blana ei în brațe.</p>
-            <p>- Ce bine ar fi dacă n'ar mai venì nimeni, zise ea.</p>
+            <p>Ea se așezase într-un colț, iar el în față cu blana ei în brațe.</p>
+            <p>- Ce bine ar fi dacă n-ar mai venì nimeni, zise ea.</p>
             <p>El tăceà, liniștit, cu obrazul ascuns în gulerul blănii ei.</p>
             <p>- Ai mai găsit ceva?</p>
             <p>- Văd o mulțime de lucruri încântătoare... Nu găsesc care e anume mirosul.</p>
@@ -1131,7 +1132,7 @@
             <p>- Pentrucă i-aș tăià nasul din rădăcină.</p>
             <p>Ea râdeà cu poftă, îndreptându-și căciulița pe cap. El venì lângă dânasa, preocupat, îi lua o mâna, dete mânușa la o parte și încercă să miroase.</p>
             <p>- Păcat. E ceva; dar mirosul de mânușe omoară parfumul brațului.</p>
-            <p>- Oare, cum s'ar zice pe franțuzește „sân de mamă și miros de floare”.</p>
+            <p>- Oare, cum s-ar zice pe franțuzește „sân de mamă și miros de floare”.</p>
             <p>El se apropiase de dânsa, îi ridicase vălul depe ochi și părea a căutà parfumul fugar de pe ființa ei.</p>
             <p>Trenul plecase.</p>
             <p>După câteva minute. Urania se înclină ușor către tânăr:</p>
@@ -1148,12 +1149,12 @@
             <p>- Dar mergi fără preget, - sigur cu toate astea că la capătul drumului eu îți voi spune: nu se poate.</p>
             <p>- Da.</p>
             <p>Ea îl privià cu toată încordarea și pe cât putea să pătrundă în ochii lui prin lumina slabă a vagonului. În zgomotul trenului, voì să ridice vocea, dar se sfiì de a vorbi tare; de aceea se lipì cu totul de el:</p>
-            <p>- Nu to pot înțelege. Ce vrei dela mine și dela noi toate? Vrei să fim toate ale dumitale? Probabil că da. Cu toate astea s'ar zice că nu ești îndestulat, fiindcă pari a căutà un lucru pe care nu-l găsești niciodată. Dar a căutà, în amor, altceva decât amor, mi-se pare o nebunie. Amorul este poezie, este farmec, este muzică. Eu, dacă te-aș iubì, m'aș teme că toată lumea ar pricepe.</p>
+            <p>- Nu to pot înțelege. Ce vrei dela mine și dela noi toate? Vrei să fim toate ale dumitale? Probabil că da. Cu toate astea s-ar zice că nu ești îndestulat, fiindcă pari a căutà un lucru pe care nu-l găsești niciodată. Dar a căutà, în amor, altceva decât amor, mi-se pare o nebunie. Amorul este poezie, este farmec, este muzică. Eu, dacă te-aș iubì, m-aș teme că toată lumea ar pricepe.</p>
             <p>- De ce?</p>
-            <p>- Pentru că s'ar cetì pe obrazul meu bucuria imensă a sufletului.</p>
+            <p>- Pentru că s-ar cetì pe obrazul meu bucuria imensă a sufletului.</p>
             <p>- Și ce ar fi?</p>
             <p>- Ar râde lumea de mine. Dar puțin mi-ar păsà. Dacă nu aș vrea să știe lumea, ar fi pentru ca bătăile inimii mele sunt secretul meu. Fiecare din noi are un colț al sufletului în care nu admite să pătrundă nimeni: acolo se ascunde personalitatea rănita...</p>
-            <p>Trenul intrà într'o stație. Urania îți coborî valul pe obraz, jenată oarecum de lumina puternică a felinarelor și de liniște. De îndată ce trenul se puse din nou în mișcare, el se apropiă iarăși de dânsa, îi ridică vălul de pe ochi, și rămase lângă ea.</p>
+            <p>Trenul intrà într-o stație. Urania îți coborî valul pe obraz, jenată oarecum de lumina puternică a felinarelor și de liniște. De îndată ce trenul se puse din nou în mișcare, el se apropiă iarăși de dânsa, îi ridică vălul de pe ochi, și rămase lângă ea.</p>
             <p>- Ai un nume de muză. Așà se și cuvine. Dar ar fi fost mai potrivit să te numești Clio sau Erato. Mi-se pare că între aceste două cuvinte stă și numele parfumului d-tale.</p>
             <p>Ea râse cu plăcere.</p>
             <p>- Ești foarte curios. Ce găsești atâta de interesant în parfumul meu?</p>
@@ -1167,7 +1168,7 @@
             <p>- La Crivina.</p>
             <p>- Nu se poate.</p>
             <p>- De ce?</p>
-            <p>- Pentrucă nu se poate. N'ai nici unde sa dormi, nici unde să mănânci.</p>
+            <p>- Pentrucă nu se poate. N-ai nici unde sa dormi, nici unde să mănânci.</p>
             <p>- La d-ta.</p>
             <p>- Știi bine că nu se poate. Șezi lângă mine.</p>
             <p>Tânărul venì lângă dânsa.</p>
@@ -1176,7 +1177,7 @@
             <p>- Nu se poate.</p>
             <p>- Acest continuu nu se poate dovedește că ești înșelată și nenorocită.</p>
             <p>Urania rămase încremenită. El se uită la dânsa, mirat și trist de a fi forțat o mărturisire. Îi fu milă de ea.</p>
-            <p>- Te rog să mă crezi. Am fost la d-ta acasă pentru a-ți face o rugăminte. Când mi-a spus feciorul că ai plecat, mi s'a părut că a plecat tot orașul, și am alergat la gară fără să știu ce fac. Sunt însă gata să te ascult: vrei să mă întorc înnapoi sau să mă duc înnainte?</p>
+            <p>- Te rog să mă crezi. Am fost la d-ta acasă pentru a-ți face o rugăminte. Când mi-a spus feciorul că ai plecat, mi s-a părut că a plecat tot orașul, și am alergat la gară fără să știu ce fac. Sunt însă gata să te ascult: vrei să mă întorc înnapoi sau să mă duc înnainte?</p>
             <p>Tânăra femeie se retrăsese în colțul cel mai întunecos al compartimentului.</p>
             <p>- Nu ai nimic cu d-ta, zise ea încet.</p>
             <p>- Nu.</p>
@@ -1192,20 +1193,20 @@
             <p>- I-ai dat drumul?</p>
             <p>Căpitanul se atinse cu mâna de frunte:</p>
             <p>- Ai dreptate!</p>
-            <p>Ea zâmbì, uitându-se la dânsul, cu ochii pe jumătate închiși, îngrijorată, dar cu sufletul plin de lumină. Într'o clipă înțelesese avântul puternic ce-l mânà pe tânăr către dânsa și-i fu recunoscătoare.</p>
+            <p>Ea zâmbì, uitându-se la dânsul, cu ochii pe jumătate închiși, îngrijorată, dar cu sufletul plin de lumină. Într-o clipă înțelesese avântul puternic ce-l mânà pe tânăr către dânsa și-i fu recunoscătoare.</p>
          </div>
          <div type="chapter" n="10">
             <head>X.</head>
-            <p>Anna Villara nu se înțelegeà cu Generalul. Ea, arendase o moție, pe care el voià s'o caute singur, și, după spusa tuturora, o arendase prea ieftin. Generalul cetià Independența și, printre rânduri, își vărsà focul pe nevastă.</p>
+            <p>Anna Villara nu se înțelegeà cu Generalul. Ea, arendase o moție, pe care el voià s-o caute singur, și, după spusa tuturora, o arendase prea ieftin. Generalul cetià Independența și, printre rânduri, își vărsà focul pe nevastă.</p>
             <p>- Vai de românul pe care-l duce femeea de nas!</p>
             <p>- Așà gândesc!</p>
             <p>El cetià încet.</p>
-            <p>- S'a făcut și ăsta om mare!...</p>
+            <p>- S-a făcut și ăsta om mare!...</p>
             <p>Ea, care se simțià vinovată, vrea să aibă dreptate:</p>
             <p>- In ce to duc de nas?</p>
-            <p>- In toate... O interpelare în cameră poate s'o facă orice caraghios. Asta e băiatul unui sergent-major dela mine.</p>
+            <p>- In toate... O interpelare în cameră poate s-o facă orice caraghios. Asta e băiatul unui sergent-major dela mine.</p>
             <p>- Ei, și?! Fiul unui sergent-major nu poate să devie om cum se cade?</p>
-            <p>Generalul zbârcì din nas, par'că i-ar fi mirosit rău:</p>
+            <p>Generalul zbârcì din nas, par-că i-ar fi mirosit rău:</p>
             <p>- In prima generație sunt toți niște pehlivani.</p>
             <p>- Vorbă să fie.</p>
             <p>- Așà cum îți spun eu. Onorabilul său părinte da bani cu camătă la băieți, iar ilustrul său fiu interpeleală pe Ministru asupra furniturii ovăzului în armată.</p>
@@ -1220,11 +1221,11 @@
             <p>Tocmai intrà feciorul cu cafeaua și cu o scrisoare dela Porția.</p>
             <p>- Așteaptă răspuns?</p>
             <p>- Da.</p>
-            <p>Anna deschise scrisoarea repede, o citì și rămase pe gânduri. Generalul nu văzuse nimic. Ea se uită la dânsul, cu o expresie atât de încordată, încât silì par'că să vorbească:</p>
+            <p>Anna deschise scrisoarea repede, o citì și rămase pe gânduri. Generalul nu văzuse nimic. Ea se uită la dânsul, cu o expresie atât de încordată, încât silì par-că să vorbească:</p>
             <p>- Ce este?</p>
             <p>- Porția scrie.</p>
             <p>- Ce spune?</p>
-            <p>- Intreabă de bărbatu-său, care n'a venit la masă până acum.</p>
+            <p>- Intreabă de bărbatu-său, care n-a venit la masă până acum.</p>
             <p>Ochii Annei scânteiau. Erà încredințată că în momentul acela, Comăneșteanu petreceà la Berta. Bărbatu-său i se părù acum mărginit..</p>
             <p>Generalul dete din mână, fără grije:</p>
             <p>- Ce-are a face!... O fi rămas, omul, la vre-o partidă mai serioasă, la club.</p>
@@ -1235,12 +1236,12 @@
             <p>- Nu este răspuns! strigă Anna.</p>
             <p>Se primblà de colo până colo, frângându-și mânile, scoțându-și inelele și punându-le la loc, mototolind batista.</p>
             <p>- Porția asta e o nesimțitoare! Cum să poate să nu înțeleagă ea că o înșeală; că acum, în momentul ăsta, el e la masă cu Berta, la Ploești!...</p>
-            <p>Căzù pe un fotoliu și urmă să privească țintă înnaintea ochilor, par'că, în adevăr, ar fi văzut pe Căpitan față în față cu Berta, zâmbindu-și unul altuia. Se auzià Generalul tușind din sala de mâncare. Ea făcù o mișcare, par'că să se ducă spre el, să-l întrebe, să-i ceară socoteală de modul cum își chivernisià amanta. Un surâs amar îi flutură pe buze. Rămase unde se aflà, mută. Iși răsturnă capul pe spatele fotoliului și se zărì, ca în vis, într'o oglindă. Mișcarea ei proprie îi amintì de gâtul Bertei, alb și moale, pe care, probabil, Căpitanul îl cunoștea în toate mlădierile lui. La ideia asta, nu mai putù răbdà. Sărì de pe scaun, hotărîtă să se ducă la Berta, și, de va fi fost nevoie, chiar la Ploești. Trecând pe lângă oglindă, se oprì. Iși răsturnă capul din nou, ca să-și vadă gâtul, și deodată îi răsărì în minte noaptea fantastică dela Stănești, când Natalia Canta, geloasă că și dânsa acum, o picase cu ceară și o deșteptase din somn. Rămase cu mâna la gât. Geloasă! Va să zică erà geloasă!... Se uită în oglindă și se recunoscù. Îi fu par'că rușine de liniile severe ale propriei sale imagini. Este ceva mai degradator decât gelozia?!</p>
+            <p>Căzù pe un fotoliu și urmă să privească țintă înnaintea ochilor, par-că, în adevăr, ar fi văzut pe Căpitan față în față cu Berta, zâmbindu-și unul altuia. Se auzià Generalul tușind din sala de mâncare. Ea făcù o mișcare, par-că să se ducă spre el, să-l întrebe, să-i ceară socoteală de modul cum își chivernisià amanta. Un surâs amar îi flutură pe buze. Rămase unde se aflà, mută. Iși răsturnă capul pe spatele fotoliului și se zărì, ca în vis, într-o oglindă. Mișcarea ei proprie îi amintì de gâtul Bertei, alb și moale, pe care, probabil, Căpitanul îl cunoștea în toate mlădierile lui. La ideia asta, nu mai putù răbdà. Sărì de pe scaun, hotărîtă să se ducă la Berta, și, de va fi fost nevoie, chiar la Ploești. Trecând pe lângă oglindă, se oprì. Iși răsturnă capul din nou, ca să-și vadă gâtul, și deodată îi răsărì în minte noaptea fantastică dela Stănești, când Natalia Canta, geloasă că și dânsa acum, o picase cu ceară și o deșteptase din somn. Rămase cu mâna la gât. Geloasă! Va să zică erà geloasă!... Se uită în oglindă și se recunoscù. Îi fu par-că rușine de liniile severe ale propriei sale imagini. Este ceva mai degradator decât gelozia?!</p>
             <p>Un simțimânt de demnitate rănită, îi dete o putere extraordinară. I se părù deodată că nu se mai interesează de Căpitan, că Berta îi este indiferentă, ca viața nu o doare. Pierdută în contemplația spațiului din oglindă, alunecă pe el până departe, la Stănești, unde vedeà linia plopilor de pe apă. Erà acolo liniște, primăvară, marginile lucrurilor de o suavitate încântătoare, iar ea, în mijlocul farmecului naturii, fată tânără. Se înțelegeà atât de bine! Îi erà milă de ea, așà cum erà acum, cu sufletul plin de necazuri.</p>
-            <p>Se întoarse, și ochii îi căzură pe un portret. Se uită la el de departe, apoi făcù un pas către masă: erà portretul Căpitanului. Anna părù că se gândește la ceva. Privià lung, dincolo de carton. Îl vedeà într'o lume ideală, corectat, după fantazia ei, de toate năzuințele către alte femei, și oarecum întărit în singura năzuință către ea. Îi venì un moment să zâmbească. O nemărginită libertate sufletească îngăduià făurirea a tot felul de hipoteze: cum ar fi fost oare, Căpitanul, dacă n'ar fi alergat după prea multe femei? Cine știe?! Îi răsărì deodată în minte ascensorul cu care se lăsase, acum în urmă, într'o salină: groaza și farmecul prăpastii, bolta imensă în care plutia, fantasmagoria luminelor. Sufletele noastre sunt insondabile. Berta erà prăpastia; erà aproape o necesitate ideală, care nu devenià suferință decât în expresia ei fizică. In adevăr, când i se înfiripau, în minte, brațele, gâtul, sânul Bertei, dânsa, Anna, își pierdeà liniștea. Va să zică gelozia erà, în esența ei, animalitate. Dar Amorul?... Anna se gândià cu o tresărire fermecătoare la iubirea ei. Nu erà animalitate. Erà ceva unic, profund și personal; o vibrare armonică a individualității, care ajunge câteodată să stea de sine, fără legătură cu lumea din afară și deci cu omul iubit.</p>
+            <p>Se întoarse, și ochii îi căzură pe un portret. Se uită la el de departe, apoi făcù un pas către masă: erà portretul Căpitanului. Anna părù că se gândește la ceva. Privià lung, dincolo de carton. Îl vedeà într-o lume ideală, corectat, după fantazia ei, de toate năzuințele către alte femei, și oarecum întărit în singura năzuință către ea. Îi venì un moment să zâmbească. O nemărginită libertate sufletească îngăduià făurirea a tot felul de hipoteze: cum ar fi fost oare, Căpitanul, dacă n-ar fi alergat după prea multe femei? Cine știe?! Îi răsărì deodată în minte ascensorul cu care se lăsase, acum în urmă, într-o salină: groaza și farmecul prăpastii, bolta imensă în care plutia, fantasmagoria luminelor. Sufletele noastre sunt insondabile. Berta erà prăpastia; erà aproape o necesitate ideală, care nu devenià suferință decât în expresia ei fizică. In adevăr, când i se înfiripau, în minte, brațele, gâtul, sânul Bertei, dânsa, Anna, își pierdeà liniștea. Va să zică gelozia erà, în esența ei, animalitate. Dar Amorul?... Anna se gândià cu o tresărire fermecătoare la iubirea ei. Nu erà animalitate. Erà ceva unic, profund și personal; o vibrare armonică a individualității, care ajunge câteodată să stea de sine, fără legătură cu lumea din afară și deci cu omul iubit.</p>
             <p>Astfel, bătută de vânturi, plină de contraziceri, hotărî să se ducă la Berta. Desigur, ea erà la Ploești, cu dânsul...</p>
             <p>Se îmbrăcă în pripă, mulțumită că luase o hotărîre.</p>
-            <p>Când ajunse la Berta, găsì casa luminată. Nimic neobișnuit nu apărù ochilor Annei. O slugă discretă îi deschise ușa, iar Anna se găsì deodată față în față cu Berta, care cetià liniștită, întinsă într'un fotoliu.</p>
+            <p>Când ajunse la Berta, găsì casa luminată. Nimic neobișnuit nu apărù ochilor Annei. O slugă discretă îi deschise ușa, iar Anna se găsì deodată față în față cu Berta, care cetià liniștită, întinsă într-un fotoliu.</p>
             <p>Cum văzù pe Anna, Berta sărì de pe scaun, îi ieșì înnainte, îi sărută mâna, cu o reverență grămădită în fuste, plină de grație și de smerenie.</p>
             <p>- Vă rog, doamnă, îmi faceți prea mare onoare...</p>
             <p>O duse la o canapea, o așeză în colț, punându-i perne la spate, scăunaș sub picioare.</p>
@@ -1261,18 +1262,18 @@
             <p>- Vă cer iertare, doamnă, de scena asta. Vă asigur, însă, că e peste puterile mele de a trăì mai departe o asemenea viață...</p>
             <p>- Ce are viața?</p>
             <p>Berta își șterse ochii.</p>
-            <p>- Viața cred că nu are nimic rău, dacă este trăită cum se cuvine. Dar viața mea este insuportabilă. M'am gândit de atâtea ori să vin la d-voastră, să vă cad în genunchi, să vă cer iertare de răul ce vi-l fac, și să vă rog să mă ajutați să ies din infamie... Mi-a fost frică de ridicol. Acuma, însă, nu mai pot!...</p>
+            <p>- Viața cred că nu are nimic rău, dacă este trăită cum se cuvine. Dar viața mea este insuportabilă. M-am gândit de atâtea ori să vin la d-voastră, să vă cad în genunchi, să vă cer iertare de răul ce vi-l fac, și să vă rog să mă ajutați să ies din infamie... Mi-a fost frică de ridicol. Acuma, însă, nu mai pot!...</p>
             <p>Berta izbucnì în plâns. Tot corpul i se cutremurà de violență și durere. Căzù grămadă la picioarele Annei, sărutându-i genunchii.</p>
-            <p>- Nu merit să veniți la mine... Aici e casa infamiei... V'am înșelat: d-l General este amantul meu. Nu mai pot!</p>
-            <p>Anna se luptà s'o ridice de jos, mișcată ea însăți nedomirită și tristă. Berta îi luase o mână, pe care i-o sărută cu pasiune:</p>
-            <p>- Vă rog să-mi lăsați mâna asta, care e curată, să mi-o lăsați s'o sărut, că poate să mă purifice...</p>
+            <p>- Nu merit să veniți la mine... Aici e casa infamiei... V-am înșelat: d-l General este amantul meu. Nu mai pot!</p>
+            <p>Anna se luptà s-o ridice de jos, mișcată ea însăți nedomirită și tristă. Berta îi luase o mână, pe care i-o sărută cu pasiune:</p>
+            <p>- Vă rog să-mi lăsați mâna asta, care e curată, să mi-o lăsați s-o sărut, că poate să mă purifice...</p>
             <p>Anna se uità la ea, lung, dând din cap:</p>
             <p>- Crezi că e așà de curată?...</p>
             <p>- Vă rog, doamnă, eu știu ce spun. Mâna asta e curată. Sufletul, care o face câteodată să tremure, e limpede. Poate că nici el nu e în totdeauna fericit, fiindcă sunt în lume ființe ca mine...</p>
             <p>Anna dete din cap, cu exasperarea celei mai adânci convingeri: dacă nu va fi fost Berta, erau alte femei. Amândouă se gândeau la Comăneșteanu, fără să-i rostească numele.</p>
             <p>Berta ridică ochii către Anna:</p>
             <p>- D-voastră nu cunoașteți setea de onoare, dorința aprigă de a simți respectul altora!... Nu pricepeți poate dorul de naivitate, aspirația către idilele vieții, către acele stări sufletești pasive, ale ferneilor ce muncesc!... Acele minunate lucruri, la cari eu nu pot să ajung niciodată!..</p>
-            <p>Tăcură un moment amândouă. Anna se simțià mișcată, nedomirită, căutând par'că o explicație acceptabilă acelei situații. Ea zise încet, ca pentru sine:</p>
+            <p>Tăcură un moment amândouă. Anna se simțià mișcată, nedomirită, căutând par-că o explicație acceptabilă acelei situații. Ea zise încet, ca pentru sine:</p>
             <p>- Ciudate lucruri.</p>
             <p>Berta dete trist din cap:</p>
             <p>- Adevărat, doamnă. Vă par poate și acum comediantă...</p>
@@ -1282,32 +1283,32 @@
             <p>- Dumneta iubești pe cineva, zise ea cu voce stinsă.</p>
             <p>Berta își plecă fruntea pe genunchii Annei.</p>
             <p>- Credeam că a fost numai un capriciu trecător...</p>
-            <p>Glasul Annei, rostind acele cuvinte, erà atât de straniu, corpul întreg i se mișcà de un fior așà de perceptibil, încât Berta o strânse în brațe, dorind par'că s'o apere de nefericire, care, pentru toată lumea, plutește în aer. Berta ridică ochii, cu încetul, către Anna. I se luminase chipul:</p>
-            <p>- A fost un capriciu... A fost o greșeala.., Dacă, cel puțin l-aș fi iubit!... Dar n'am avut nici scuza asta...</p>
+            <p>Glasul Annei, rostind acele cuvinte, erà atât de straniu, corpul întreg i se mișcà de un fior așà de perceptibil, încât Berta o strânse în brațe, dorind par-că s-o apere de nefericire, care, pentru toată lumea, plutește în aer. Berta ridică ochii, cu încetul, către Anna. I se luminase chipul:</p>
+            <p>- A fost un capriciu... A fost o greșeala.., Dacă, cel puțin l-aș fi iubit!... Dar n-am avut nici scuza asta...</p>
             <p>Pe când Berta vorbia, Anna se uità la un tablou de pe perete. Un zâmbet fluturà pe buzele sale, enigmatic.</p>
             <p>- Și ce as putea să fac eu?...</p>
             <p>Berta zâmbì și înnălță din umeri:</p>
             <p>- Nimic. Ceea ce mi-ar trebuì, nu puteți să-mi dați...</p>
-            <p>- Va să zică n'a fost numai un capriciu?!... rostì Anna repede.</p>
+            <p>- Va să zică n-a fost numai un capriciu?!... rostì Anna repede.</p>
             <p>- Nu vream să zic asta, doamnă. Ceea ce mi-ar trebuì mie, ar fi să reîncep viața dela început.</p>
             <p>- Scoală-te, te rog, și să vorbim.</p>
             <p>Berta se așeză lângă dânsa:</p>
             <p>- Aveți oare darul acesta?</p>
             <p>Anna înclină capul:</p>
             <p>- Dacă l-aș aveà, l-aș începe cu mine.</p>
-            <p>- Nu văd pentru ce. Viața d-voastră e curată ca o floare. A mea ar trebuì reîncepută... Și m'am gândit serios s'o reîncep: m'am gândit să plec în America. Dar ce știu eu să fac, decât să dau concerte... mediocre?</p>
+            <p>- Nu văd pentru ce. Viața d-voastră e curată ca o floare. A mea ar trebuì reîncepută... Și m-am gândit serios s-o reîncep: m-am gândit să plec în America. Dar ce știu eu să fac, decât să dau concerte... mediocre?</p>
             <p>Anna voì să protesteze.</p>
             <p>- Vă rog, doamnă. Știu foarte bine câte parale îmi face arta. Am oarecare putere emoționantă în timbru, dar vocea e puțină. In toate cazurile, a trăì din concerte, însemnează a duce mai departe viața de astăzi...</p>
             <p>- Foarte interesantă.</p>
             <p>Berta se uită la dânsa lung:</p>
             <p>- Găsiți?</p>
-            <p>Anna pricepù, în fugă, că vrea s'o trimeată în America. Se înroșì și zise repede:</p>
+            <p>Anna pricepù, în fugă, că vrea s-o trimeată în America. Se înroșì și zise repede:</p>
             <p>- Ca artă, e interesantă; altfel, firește, nu e tocmai de invidiat.</p>
-            <p>- Eu aș vrea, doamnă, să mă ajutați a eșì din pâcla în care trăesc astăzi. M'am gândit să mă duc la o mânăstire...</p>
+            <p>- Eu aș vrea, doamnă, să mă ajutați a eșì din pâcla în care trăesc astăzi. M-am gândit să mă duc la o mânăstire...</p>
             <p>Anna zâmbì ușor. Berta adăogă:</p>
             <p>- Vreți să ziceți „motanul călugărit”.</p>
             <p>Zâmbiră amândouă, cu nevoia de a se înșelà a oamenilor ce văd primejdia.</p>
-            <p>- Deaceea m'am și oprit, adăogă Berta, cu toate că viața monahală nu m'ar sperià... și atunci m'am gândit la o jumătate de măsură, care să-mi permită a rămâneà în lume și totodată să mă ajute a mă purificà: suroră de caritate.</p>
+            <p>- Deaceea m-am și oprit, adăogă Berta, cu toate că viața monahală nu m-ar sperià... și atunci m-am gândit la o jumătate de măsură, care să-mi permită a rămâneà în lume și totodată să mă ajute a mă purificà: suroră de caritate.</p>
             <p>- Ne-ar trebuì un răsboi.</p>
             <p>- In timp de pace.</p>
             <p>Anna se uità la dânsa, zâmbind.</p>
@@ -1329,16 +1330,16 @@
          <div type="chapter" n="11">
             <head>XI.</head>
             <p>Ieșind dela Berta, Anna merse la Elena. Pe drum, se simțì cuprinsă de frig și oarecum slăbită în resorturile ei sufletești: Berta o dezarmase cu totul.</p>
-            <p>Elena se pregătià să se culce. Primì numaidecât pe soră-sa, care o sărută din fugă, fără s'o vadă, așezându-se apoi într'un fotoliu, în fața sobei.</p>
+            <p>Elena se pregătià să se culce. Primì numaidecât pe soră-sa, care o sărută din fugă, fără s-o vadă, așezându-se apoi într-un fotoliu, în fața sobei.</p>
             <p>- De unde vii, dragă, așà de târziu?</p>
             <p>- Dela rivala mea.</p>
             <p>- Ai fost la Urania?</p>
             <p>- Am fost la Berta.</p>
-            <p>Elena își desfăceà părul, încet, domol, cu acel simțimânt bizar, de înjosire și desnădejde, ce-l dau semnele aparente ale bătrâneții. Soră-sa o interesà foarte mult, dar gândurile ei alergau pe departe, după lucruri nelegate între ele, cari, totuș, se adunau într'un punct ascuns al conștiinței, unde se adăpostià personalitatea. Fusese totdeauna copărtașe la simțirile altora, pe calea destăinuirilor. Aveà o haină largă pe care o oferià prieteneler sale:</p>
+            <p>Elena își desfăceà părul, încet, domol, cu acel simțimânt bizar, de înjosire și desnădejde, ce-l dau semnele aparente ale bătrâneții. Soră-sa o interesà foarte mult, dar gândurile ei alergau pe departe, după lucruri nelegate între ele, cari, totuș, se adunau într-un punct ascuns al conștiinței, unde se adăpostià personalitatea. Fusese totdeauna copărtașe la simțirile altora, pe calea destăinuirilor. Aveà o haină largă pe care o oferià prieteneler sale:</p>
             <p>- Viens pleurer dans mon gilet.</p>
             <p>Și, cum femeile sunt în general trudite de gândul suferinței și al tainelor, mai toate se destăinuiau ei, cu speranța înșelătoare de a găsì mângâiere și cu încredințarea sigură de a se mărì pe sine, povestind întâmplările vreunui biet amor. Căci așà e de vast egoismul omenesc, încât toate neajunsurile noastre personale devin calamități publice.</p>
-            <p>Anna zărì pe soră-sa într'o oglindă, cum își învârtià buclele albe în mână. Zădărnicia întipărită pe chipul surorii sale o isbì atât de puternic, încât fu mișcată ca de o descoperire dureroasă. Se sculă ușor din fotoliu și venì lângă dânsa. O sărută pe umeri, cu insinuarea caldă a unei mame.</p>
-            <p>Elena tresărì, surprinsă par'că într'o pornire sufletească criminală.</p>
+            <p>Anna zărì pe soră-sa într-o oglindă, cum își învârtià buclele albe în mână. Zădărnicia întipărită pe chipul surorii sale o isbì atât de puternic, încât fu mișcată ca de o descoperire dureroasă. Se sculă ușor din fotoliu și venì lângă dânsa. O sărută pe umeri, cu insinuarea caldă a unei mame.</p>
+            <p>Elena tresărì, surprinsă par-că într-o pornire sufletească criminală.</p>
             <p>- Imbătrânesc, zise ea, dând din cap.</p>
             <p>- Imbătrânim toate, dragă. Tu mai puțin decât noi.</p>
             <p>- Crezi?</p>
@@ -1348,7 +1349,7 @@
             <p>Elena zâmbì. Anna îi mângâiă părul, căutând locul de a-i risipì tristețea adâncă ce-i sta pe chip.</p>
             <p>- Cu atât mai mult pari tânără, dragă Eleno, cu cât te preocupi mai puțin de tinerețe.</p>
             <p>- Ceea ce însemnează?</p>
-            <p>- Că dacă n'ai nici un cuvânt de a voì să rămâi tânără, nu pari niciodată bătrână.</p>
+            <p>- Că dacă n-ai nici un cuvânt de a voì să rămâi tânără, nu pari niciodată bătrână.</p>
             <p>- Eu am o mie de cuvinte pentru a voì să rămân tânără.</p>
             <p>- Firește, ca toată lumea.</p>
             <p>- Mai mult decât toată lumea.</p>
@@ -1359,7 +1360,7 @@
             <p>Anna dete din cap.</p>
             <p>- Viu dela Berta.</p>
             <p>Se oprì, și, dusă pe gânduri:</p>
-            <p>- M'ai întrebat par'că dacă viu dela Urania. De ce?</p>
+            <p>- M-ai întrebat par-că dacă viu dela Urania. De ce?</p>
             <p>- Ca să zic ceva.</p>
             <p>- Viu dela Berta. Trudă și la dânsa.</p>
             <p>- De ce?</p>
@@ -1371,7 +1372,7 @@
             <p>- La ce servește cinstea?... Să-ți scoată păr alb crețituri pe obraz și nume bun.</p>
             <p>Anna se uită la ea. Elena se grăbì să adaoge:</p>
             <p>- Și ce căutai la Berta?</p>
-            <p>- M'am dus să constat dacă e plecată la Ploești cu... el.</p>
+            <p>- M-am dus să constat dacă e plecată la Ploești cu... el.</p>
             <p>- Cu Generalul?</p>
             <p>Anna înnălță din umeri enervată:</p>
             <p>- Mult mă interesează Generalul!</p>
@@ -1394,9 +1395,9 @@
             <p>- Desigur. Avea o însărcinare.</p>
             <p>- Dela cine?</p>
             <p>- Dela Natalia Canta.</p>
-            <p>Anna se uità cu ochi mari la soră-sa, par'că n'ar fi priceput-o bine. Tot sângele îi fugise din obraz, arcul sprincenii i se încordase. Apucă pe Elena de mână.</p>
+            <p>Anna se uità cu ochi mari la soră-sa, par-că n-ar fi priceput-o bine. Tot sângele îi fugise din obraz, arcul sprincenii i se încordase. Apucă pe Elena de mână.</p>
             <p>- Ce-i de făcut?</p>
-            <p>Soră-sa o privià cu milă. Par'că o ușoară nuanță de dispreț se amestecà în simțimântul ei pentru Anna, care, într'o clipă, uitase tot, cuprinsă de nebunia ei: gelozia.</p>
+            <p>Soră-sa o privià cu milă. Par-că o ușoară nuanță de dispreț se amestecà în simțimântul ei pentru Anna, care, într-o clipă, uitase tot, cuprinsă de nebunia ei: gelozia.</p>
             <p>- Ce-i de mult, Eleno?</p>
             <p>- Știu eu!..</p>
             <p>Anna își dusese un pumn la gură și își ridicase tunerii, gata să se arunce pe cinevà.</p>
@@ -1425,8 +1426,8 @@
             <p>- Or poate la Sinaia?..</p>
             <p>- Și asta se poate.</p>
             <p>- Dacă totul se poate, nu-i nimic sigur.</p>
-            <p>- Atunci de unde știi c'au plecat?</p>
-            <p>- Imi închipuesc. Timoleon Vucos e amicul Ministrului de Finanțe, iar Urania este soția lui Timoleon. S'a dus s'o roage pe dânsa, pentru iertarea amenzilor. Ea tocmai plecase la gară, singură. Intr'o săritură, el a fost după dânsa, la gară. Iți închipuești ce foc ardea în el, în ochii aceia ca diamantele albastre...</p>
+            <p>- Atunci de unde știi c-au plecat?</p>
+            <p>- Imi închipuesc. Timoleon Vucos e amicul Ministrului de Finanțe, iar Urania este soția lui Timoleon. S-a dus s-o roage pe dânsa, pentru iertarea amenzilor. Ea tocmai plecase la gară, singură. Intr-o săritură, el a fost după dânsa, la gară. Iți închipuești ce foc ardea în el, în ochii aceia ca diamantele albastre...</p>
             <p>- E o nenorocire! zise Anna, desnădăjduită.</p>
             <p>- Sau o fericire.</p>
             <p>- O nenorocire! O mizerie înjositoare! Ajungi să urăști tot, și chiar pe el.</p>
@@ -1435,7 +1436,7 @@
             <p>- Nu ți-am spus. E vorba de niște amenzi dela Ministerul de Finanțe, pe care Natalia Cantă ar vrea să le reducă, în folosul unor lucrățori ai săi.</p>
             <p>- Natalia Cantă!...</p>
             <p>- Da.</p>
-            <p>Anna se uità înnaintea ochilor: ce surprinzătoare e viața câte odată! Natalia Cantă!.. Ii trecù pe fundul sufletului, ca într'o apă adâncă, urma unui nour de amintire tristă: trudise pe Natalia Cantă, cu mulți ani în urmă, atunci când Mihai Comăneșteanu părăsià pe Natalia, pentru dânsa; iar acum, ea, Anna, erà părăsită de nepotul eroului, pentru alta!... Și cum, în nenorocire, oamenii doresc să se găsească pe sine curați, pentru a puteà să strige împotriva soartei, Anna se simțì umilită. De aceea, spre marea ei mirare, Elena o văzù că pleacă fruntea cu smerenie către pământ.</p>
+            <p>Anna se uità înnaintea ochilor: ce surprinzătoare e viața câte odată! Natalia Cantă!.. Ii trecù pe fundul sufletului, ca într-o apă adâncă, urma unui nour de amintire tristă: trudise pe Natalia Cantă, cu mulți ani în urmă, atunci când Mihai Comăneșteanu părăsià pe Natalia, pentru dânsa; iar acum, ea, Anna, erà părăsită de nepotul eroului, pentru alta!... Și cum, în nenorocire, oamenii doresc să se găsească pe sine curați, pentru a puteà să strige împotriva soartei, Anna se simțì umilită. De aceea, spre marea ei mirare, Elena o văzù că pleacă fruntea cu smerenie către pământ.</p>
             <p>- Câteodată nu mai înțelegi nimic din rostul vieții, zise Anna. Dacă trăești cuminte, ți se pare că trăești degeaba; dacă nu trăești cuminte, suferi. Așà că, e mai bine să nu trăești.</p>
             <p>- Peste dela philosophie!...</p>
             <p>Anna șezuse pe un scaun, cu brațele pe genunchi, cu capul plecat jos și ascuns în mâni. Soră-sa o atinse pe umăr:</p>
@@ -1449,11 +1450,11 @@
             <p>Elena, iritată, răspunse neted:</p>
             <p>- Firește.</p>
             <p>Anna se uită lung la dânsa.</p>
-            <p>- Presupune că ar fi bărbatul meu legitim. Aș suferì oare mai puțin, când m'ar înșelà, ca acum?</p>
+            <p>- Presupune că ar fi bărbatul meu legitim. Aș suferì oare mai puțin, când m-ar înșelà, ca acum?</p>
             <p>- Ai suferì poate mai mult, fiindcă ai fi rănită și în amorul propriu.</p>
             <p>- Atunci?</p>
             <p>- Da. Dar el te-ar înșelà mai puțin, sau nu te-ar înșelà deloc.</p>
-            <p>Anna bufnì de râs, într'aiuri:</p>
+            <p>Anna bufnì de râs, într-aiuri:</p>
             <p>- Așà gândesc!!.. Privește la Porția.</p>
             <p>Elena se uită la dânsa, cu o expresie acută de ironie și de milă. Dete din cap și tăcù.</p>
             <p>- Nu-i așà?</p>
@@ -1473,17 +1474,17 @@
             <p>- Atunci?</p>
             <p>- Ar trebuì să hotărîm care este înțelesul vorbei a înșelà în amor.</p>
             <p>- A nu se ține de cuvânt; a spune una, și a face alta; a jurà, și a fi sperjur; a mințì; a umblà cu încurcături; a face pe toată lumea să sufere...</p>
-            <p>- Amesteci prea multe la un loc. Să le luăm pe rând: când nu s'a ținut de cuvânt?</p>
+            <p>- Amesteci prea multe la un loc. Să le luăm pe rând: când nu s-a ținut de cuvânt?</p>
             <p>- In toate zilele, în toate ceasurile și în toate minutele vieții lui.</p>
             <p>- Cam mult, zise Elena domol. Dar să vedem mai de aproape.</p>
-            <p>- N'ai ce să vezi. Iese dela mine și se duce la nevasta Colonelului; iese dela omida aceea și se duce la amica mea Berta; pleacă dela Berta și aleargă după muza astronomiei; se întoarce dela Urania la Natalia Cantă... Toate stările sociale, toate vârstele... E o plăcere!...</p>
+            <p>- N-ai ce să vezi. Iese dela mine și se duce la nevasta Colonelului; iese dela omida aceea și se duce la amica mea Berta; pleacă dela Berta și aleargă după muza astronomiei; se întoarce dela Urania la Natalia Cantă... Toate stările sociale, toate vârstele... E o plăcere!...</p>
             <p>- Uiți pe nevastă-sa, zise Elena râzând.</p>
             <p>- Pe ea și pe altele.</p>
             <p>- Da? Și pe altele?</p>
             <p>Anna înălță din umeri. Elena urmă:</p>
             <p>- Foarte bine.</p>
             <p>- Adică foarte rău.</p>
-            <p>- Rău. Cu toate astea m'aș mirà să-ți fi făgăduit vreodată „credină până la mormânt”. Sau și dacă ți-ar fi făgăduit, în amor și în vis nu se ține seamă.</p>
+            <p>- Rău. Cu toate astea m-aș mirà să-ți fi făgăduit vreodată „credină până la mormânt”. Sau și dacă ți-ar fi făgăduit, în amor și în vis nu se ține seamă.</p>
             <p>- Frumoasă morală!</p>
             <p>Elena se uită la soră-sa cu coada ochilor:</p>
             <p>- De, drașă, morala mea este îngăduitoare. A ta e mai severă.</p>
@@ -1496,8 +1497,8 @@
             <p>- Dar dacă o fi iubind și pe Urania?</p>
             <p>- Nu se poate.</p>
             <p>- Ești sigură?</p>
-            <p>- Sau se poate, cum se poate să muște cinevà dintr'o pară și dintr'o piersică în acelaș timp.</p>
-            <p>- Dintr'o pară mălăiață și dintr'o scorușe.</p>
+            <p>- Sau se poate, cum se poate să muște cinevà dintr-o pară și dintr-o piersică în acelaș timp.</p>
+            <p>- Dintr-o pară mălăiață și dintr-o scorușe.</p>
             <p>Elena zâmbì.</p>
             <p>- Omul este mâncător de fructe. Tu ce-ai fi?</p>
             <p>- O castană, care mă frig pe cărbuni singură... și care mă duc la Porția să aflù ceva. Nu mai pot trăì în nesiguranță asta: O fi la Ploești, o fi la Sinaia?..</p>
@@ -1508,7 +1509,7 @@
             <p>Anna lăsă pe Elena nedomirită, și se urcă în trăsură fără a simțì frigul. I se așezase acum în suflet credința ca fugarii sunt ascunși la Ploești. Capita la Prahovei devenià Sodoma zilelor noastre, iar Urania o prăpastie. Zgâriă cu unghia pe geamul trăsurii. Îi venì deodată în minte să se ducă la Ploești. Ultimul tren erà la 10 și 10, - prin urmare prea târziu!..</p>
             <p>Se supără pe Direcția generală a drumurilor de fier; cu toate astea strigă la vizitiu să meargă la gară.</p>
             <p>Ajunse în fuga cailor, sărì pe peron, dete năvală în gară, și numai când i se spuse că ultimul tren erà la 11 și 20, părù a se desmeticì. Mirosul de bucate din restaurant, trivialitatea oamenilor nevoiași, platitudinea generală din aer, o întoarseră la realitate. Ce bine e câte-odată că există și realitatea!</p>
-            <p>Anna se zărì din fugă într'o oglindă și i se părù bătrână. Făcù un pas înnapoi: nu erà adevărat. Se găsì numai ceva cam semeață, portul sever, ochii cruzi. Oare așà erà ea? Se urcă în trăsură, de astă-dată încet, și se strânse într'un colț. Nu erà deloc așà. Ea își simțià în inimă o comoară de afecțiune, din care să reverse asupra lumii dragoste și iertare. Cum sta ghemuită în frigul din trăsură, i se părù că este o biată ființă mititică, fără putere. O nevoie de a se lipì de cineva îi alergà prin oase. Șerpuià, prin nervii femeiei părăsite, durerea universală a existenței, acel răbdător vinovat, care răspunde de toate greșelile și pasiunile noastre.</p>
+            <p>Anna se zărì din fugă într-o oglindă și i se părù bătrână. Făcù un pas înnapoi: nu erà adevărat. Se găsì numai ceva cam semeață, portul sever, ochii cruzi. Oare așà erà ea? Se urcă în trăsură, de astă-dată încet, și se strânse într-un colț. Nu erà deloc așà. Ea își simțià în inimă o comoară de afecțiune, din care să reverse asupra lumii dragoste și iertare. Cum sta ghemuită în frigul din trăsură, i se părù că este o biată ființă mititică, fără putere. O nevoie de a se lipì de cineva îi alergà prin oase. Șerpuià, prin nervii femeiei părăsite, durerea universală a existenței, acel răbdător vinovat, care răspunde de toate greșelile și pasiunile noastre.</p>
             <p>Ii venì în minte Berta. Cu o luciditate rară, înțelese că și ea iubià pe căpitan. Erà oare cu putință? O asemenea femeie, ridicată, prin sinceritatea simțirilor, la cultul adevărului, iubià desigur.</p>
             <p>Se strânse și mai mult în colțul cupeului și se gândì la el. De câteori nu se gândià la el! Ce aveà omul acela, pentru a prinde atâtea suflete? Anna nu știà anume ce aveà.</p>
             <p>Trăsura se încurcă între două birji și un tramvai, așà că rămase câteva minute pe loc. Anna nici nu băgă de seamă. Preocuparea ei de a ștì ce aveà acel om, pentru a fi iubit de toate femeile, o țineà cu mintea rătăcită în depărtarea gândurilor.</p>
@@ -1528,13 +1529,13 @@
             <p>Tânăra femeie scrià.</p>
             <p>După un paravan, copilul dormià în patul său cu grații.</p>
             <p>O tăcere adâncă umpleà odaia. Căldura sobei părea că revarsă pace în toate cele, iar potretele de pe ziduri, așezate sus, în penumbră, se plecau, sfioase către lumea reală..</p>
-            <p>Anna intră fără a se anunța. La vederea ei, Porția se sculă repede, își ridică ochelarii și se duse într'o întâmpinare amicei sale, încercând s'o oprească la ușă, spre a o trece în salonașul de alături. Anna se opuse. Dela prima ochire, înțelesese deosebirea fundamentală ce erà între aerul acelei camere și sufletul ei. Dar poate tocmai de aceea, se simțià atrasă către el. Sărută în fuga pe Porția, și, cu felul ei autoritar, ridică abat-jour-ul de pe lampă și se apropia de patul copilului.</p>
+            <p>Anna intră fără a se anunța. La vederea ei, Porția se sculă repede, își ridică ochelarii și se duse într-o întâmpinare amicei sale, încercând s-o oprească la ușă, spre a o trece în salonașul de alături. Anna se opuse. Dela prima ochire, înțelesese deosebirea fundamentală ce erà între aerul acelei camere și sufletul ei. Dar poate tocmai de aceea, se simțià atrasă către el. Sărută în fuga pe Porția, și, cu felul ei autoritar, ridică abat-jour-ul de pe lampă și se apropia de patul copilului.</p>
             <p>Băiatul dormià liniștit, purtând pe chipul său frumusetea nevinovății. Erà încântător, prin toate înțelesurile somnului copilăriei cufundat în perne fără sfială, cu toată greutatea rotundă a corpului, cu pacea îngerilor întipărită pe frunte.</p>
-            <p>Anna se simțì pătrunsă de un fior cald, de o dorința neînfrânată de a săruta carnea albă a brațelor copilului. Ceva străin și dulce îi încolți în inimă, simțimântul că erà al ei. Intr'o clipă i se desfășură în minte o viață nouă, nemărginită de fericire, în care ar fi trăit, strângând la piept candida înfiripare a acestei viețe de copil blond. Un văl de ceață i se suì în ochi, pe când pieptul i se umpleà de hâlgâitul lacrămilor.</p>
-            <p>Porția, care erà la spate, urmărià stările ei sufletești și înțelegeà tot ce se petreceà într'însa. Când o simțì că e gata s'o înnece plânsul, i se făcù milă de ea, se plecă pe umărul ei și se lipì de dânsa.</p>
+            <p>Anna se simțì pătrunsă de un fior cald, de o dorința neînfrânată de a săruta carnea albă a brațelor copilului. Ceva străin și dulce îi încolți în inimă, simțimântul că erà al ei. Intr-o clipă i se desfășură în minte o viață nouă, nemărginită de fericire, în care ar fi trăit, strângând la piept candida înfiripare a acestei viețe de copil blond. Un văl de ceață i se suì în ochi, pe când pieptul i se umpleà de hâlgâitul lacrămilor.</p>
+            <p>Porția, care erà la spate, urmărià stările ei sufletești și înțelegeà tot ce se petreceà într-însa. Când o simțì că e gata s-o înnece plânsul, i se făcù milă de ea, se plecă pe umărul ei și se lipì de dânsa.</p>
             <p>Anna își șterse ochii și venì încet către masă. Fără înconjur și fără vorbe de prisos, întrebă pe Porția:</p>
             <p>- Unde-i?</p>
-            <p>Porția se așezase pe un scaun. Se uită la Anna lung, își strânse mânile una într'alta, apoi plecă ochii în jos, fără a răspunde.</p>
+            <p>Porția se așezase pe un scaun. Se uită la Anna lung, își strânse mânile una într-alta, apoi plecă ochii în jos, fără a răspunde.</p>
             <p>- Te înșală, zise Anna.</p>
             <p>Porția se uită în pământ. Se făcuse galbenă și băteà ușor din gene.</p>
             <p>- Fiindcă nu te interesează, să nu mai vorbim.</p>
@@ -1547,7 +1548,7 @@
             <p>- Îl iubești, nu-i așà, îi zise, luând-o de mână.</p>
             <p>- Foarte mult, răspunse tânăra femeie.</p>
             <p>In cele două cuvinte ale ei, erà mai mult o rugăminte decât o afirmare. Inima Annei se strângeà de durere și de milă. Va se zică suntem făcuți pentru a ne chinuì? Ne temem unii de alții, suntem geloși de cei mai buni ori mai frumoși, râdem sau umilim, și totuși ne e mila... Contradicție eternă a inimii noastre!</p>
-            <p>Și totuși, truda Annei erà covârșitoare. Porția își iubià bărbatul. Firește. Cu toate astea o femeie care își iubește bărbatul cu o atât de oarbă supunere soartei, ascunde o taină mai mare decât amorul conjugal, acel liniștit și pedestru obiceiu de a fi fericit pe dea'ntregul. Porția părea a iubì ca dânsa, cu alte cuvinte a cunoaște fugara năzuință către tipul ideal, erou, poet și stăpân, acel generos produs al forței creatoare, nestatornic prin legea firii sale. Și ea și Porția iubeau, și amândouă sperau că cealalta se înșală. Nici una nu se credeà mai bună, dar fiecare așteptà mai mult dela soartă. Ceea ce nu se poate.</p>
+            <p>Și totuși, truda Annei erà covârșitoare. Porția își iubià bărbatul. Firește. Cu toate astea o femeie care își iubește bărbatul cu o atât de oarbă supunere soartei, ascunde o taină mai mare decât amorul conjugal, acel liniștit și pedestru obiceiu de a fi fericit pe dea-ntregul. Porția părea a iubì ca dânsa, cu alte cuvinte a cunoaște fugara năzuință către tipul ideal, erou, poet și stăpân, acel generos produs al forței creatoare, nestatornic prin legea firii sale. Și ea și Porția iubeau, și amândouă sperau că cealalta se înșală. Nici una nu se credeà mai bună, dar fiecare așteptà mai mult dela soartă. Ceea ce nu se poate.</p>
             <p>Față cu tăcuta supunere a Porției, Anna se revoltă:</p>
             <p>- Nu te mai înțeleg, Mio.</p>
             <p>Porția ridică ochii întrebători.</p>
@@ -1575,9 +1576,9 @@
             <p>- Nu mă îmbăt de nimic, ci numai nu cred în gura lumei.</p>
             <p>- Rău faci.</p>
             <p>- Socot ca nu. Lumea zice același lucru și de d-voastră. Pot eu crede o asemenea poveste?</p>
-            <p>Anna își simțì obrazul în flacări. Fără să-și dea seamă, ridică glasul într'aiuri:</p>
+            <p>Anna își simțì obrazul în flacări. Fără să-și dea seamă, ridică glasul într-aiuri:</p>
             <p>- Cine spune astfel de infamii?</p>
-            <p>- Lumea cea proastă. Eu nu cred, fiindcă nu trebue să cred, zise Porția, cu o ușoară tremurare în voce. Ar fi cu putință, ca doamna care m'a luat sub ocrotirea sa, care m'a îngrijit în vremuri grele, care m'a dat după Alexandru, să fi făcut toate astea, ca să-mi ia bărbatul? Nu se poate. Ar fi rușinos și nelegiuit. Nu se poate, nu se poate!... strigă Porția, izbucnind în plâns.</p>
+            <p>- Lumea cea proastă. Eu nu cred, fiindcă nu trebue să cred, zise Porția, cu o ușoară tremurare în voce. Ar fi cu putință, ca doamna care m-a luat sub ocrotirea sa, care m-a îngrijit în vremuri grele, care m-a dat după Alexandru, să fi făcut toate astea, ca să-mi ia bărbatul? Nu se poate. Ar fi rușinos și nelegiuit. Nu se poate, nu se poate!... strigă Porția, izbucnind în plâns.</p>
             <p>Anna, încremenită, încercă să zică o vorbă de pace:</p>
             <p>- Liniștește-te, dragă.</p>
             <p>Vocea însă îi sună falș. O muscă greoaie de iarnă i se încurcă în vălul de pe frunte.</p>
@@ -1592,13 +1593,13 @@
             <p>- Firește. Dar părinții și fiii noștri sunt altceva.</p>
             <p>- Nu sunt altceva.</p>
             <p>- Și cine știe ce a suferit și mama ta!...</p>
-            <p>- N'a suferit nimic. Tata a poruncit și noi am ascultat. In romanuri, bărbații zic același lucru despre femei: că sunt niște mizerabile, toate.</p>
+            <p>- N-a suferit nimic. Tata a poruncit și noi am ascultat. In romanuri, bărbații zic același lucru despre femei: că sunt niște mizerabile, toate.</p>
             <p>- Și adesea au dreptate și ei, zise Anna, dând trist din cap.</p>
             <p>- Nu au dreptate. Femeile ca și bărbații cari au sufletul curat sunt sunt lăsați în pace de scriitorii de romanuri, și deci pe aceia nu-i cunoaștem.</p>
             <p>- Îi cunoaștem din viață: sunt puțini.</p>
             <p>Porția plecă din cap, fără a mai răspunde. Iși șterse ochii, puse abat-jour-ul la locul lui, pe lampă, și așteptă.</p>
             <p>Anna simțià că trebue să plece. Se ridică de pe scaun, și, ca să facă un lucru natural, se duse către patul copilului.</p>
-            <p>Porția tresărì. O mișcare instinctivă, de apărare, o îndreptă spre copil. Anna ghicì mai mult decât văzù mișcarea. Iși stăpânì revolta lăuntrică, se uită la copil, fără a se apropià prea mult, apoi se întoarse către Porția și o privi din înnaltul trufii sale cu atâta mustrare, încât tânăra femeie o îndemna către patul fiului său, par'că ar fi rugat-o s'o ierte. Atât e de sfioasă virtutea adevărată!</p>
+            <p>Porția tresărì. O mișcare instinctivă, de apărare, o îndreptă spre copil. Anna ghicì mai mult decât văzù mișcarea. Iși stăpânì revolta lăuntrică, se uită la copil, fără a se apropià prea mult, apoi se întoarse către Porția și o privi din înnaltul trufii sale cu atâta mustrare, încât tânăra femeie o îndemna către patul fiului său, par-că ar fi rugat-o s-o ierte. Atât e de sfioasă virtutea adevărată!</p>
             <p>Anna ieșì dela Porția.</p>
             <p>Frigul deafară o desmeticì. Se simțì umilită și necăjită. Pentru întâiaș dată se gândì serios să-și scoată din inimă acel amor vinovat, care o chinuià pe ea și chinuià și pe alții.</p>
             <p>Dar erà oare cu putință?</p>
@@ -1615,7 +1616,7 @@
             <p>- Iata chipul cel mai mizerabil.</p>
             <p>Căpitanul zâmbì, uitându-se la dânsa. Ea ridică ochii spre el:</p>
             <p>- E o întâmplare banală: o femeie cum se cade, care greșește și care nu-și mai găsește liniștea dinnainte. Dar nu de asta mă tem...</p>
-            <p>Ea se oprì, așteptând par'că să fie întrebată de ce se temeà. El urmà să o privească.</p>
+            <p>Ea se oprì, așteptând par-că să fie întrebată de ce se temeà. El urmà să o privească.</p>
             <p>- Nu mă întrebi de ce mă tem?</p>
             <p>- Nu.</p>
             <p>- Pentru ce?</p>
@@ -1635,7 +1636,7 @@
             <p>E o infamie, zise tot ea, după o mică pauză. Spiritul și sufletul sunt două noțiuni fundamental deosebite, - cel puțin în înțelesul de toate zilele. Dar amândoouă sunt eu. Cum poate, atunci, spiritul să râdă, iar sufletul să plângă?</p>
             <p>- Fiindcă îți plac antitezele.</p>
             <p>Ea dete din cap.</p>
-            <p>- Sunt rănită... crede-mă. Nu-mi plac antitezele, ci am nevoie să înțeleg. In amorul cel mai mare, trebue să fi rămas din fundul vremilor, necesitatea moleculei de a se distruge, după ce s'a reprodus.</p>
+            <p>- Sunt rănită... crede-mă. Nu-mi plac antitezele, ci am nevoie să înțeleg. In amorul cel mai mare, trebue să fi rămas din fundul vremilor, necesitatea moleculei de a se distruge, după ce s-a reprodus.</p>
             <p>Tânărul se uità la ea, cu stăruință. Urania plecă ochii.</p>
             <p>- Știu ce vrei să zici. E altceva. Eu îți vorbesc de amor, nu de funcțiunea lui brutală. Bărbatul meu... sau soția d-tale... sunt necesități fiziologice.</p>
             <p>Cuvintele de „bărbat” și de „soție” îi încremeniră pe amândoi. Ei simțeau că înțelesurile acelea nu reprezentau numai „necesități fiziologice”, ci adevăruri morale, care îi nelinișteau și-i împiedecau de a fi fericiți.</p>
@@ -1643,7 +1644,7 @@
             <p>- Să mergem la deal, zise ea.</p>
             <p>Și porniră la deal. Osteneala drumului îi împiedecà de a vorbì. Gândurile, însă, gâlgâiau în scopul vieței mai evidente ca oricând. Ea dorià să plece, să se ducă undeva, departe. Iși simțià în inimă o comoară caldă, și vrea să fugă cu dânsa.</p>
             <p>Merseră mereu la deal, până ce ieșiră din drumul bătut. Cărarea ce duceà mai departe, pe Caraiman, erà cu desăvârșire acoperită cu zăpadă. Copacii se răreau.</p>
-            <p>In urma lor, se vedeà pădurea, sub haina albă a iernii, cu pete cenușii ici și colo. Câte o roată de fum, din valea Prahovei, se ridicà până în pânza depărtării, ca o încrustare de marmură într'o stâncă de sare.</p>
+            <p>In urma lor, se vedeà pădurea, sub haina albă a iernii, cu pete cenușii ici și colo. Câte o roată de fum, din valea Prahovei, se ridicà până în pânza depărtării, ca o încrustare de marmură într-o stâncă de sare.</p>
             <p>Pe când ei stau, tăcuți, se ivì din deal un grănicer. Deșì soldatul erà o a treia ființă vie, în pădure, păreà așà de singur, ca oarecum măreà singurătatea locului. El trecù, salutând.</p>
             <p>Urania se uită către zidul de munte ce li se ridicà în cale.</p>
             <p>- Aș dorì să mergem mai departe.</p>
@@ -1665,7 +1666,7 @@
             <p>In ochii ei străluciră două adieri de lumină metalică:</p>
             <p>- Să mergem înnainte.</p>
             <p>Căpitanul se gândì un moment să cheme pe soldat înnapoi, dar se opri: ar fi fost țin martor nefolositor, care le-ar fi ușurat drumul, iar nu sufletul.</p>
-            <p>Ea pornì înnainte, pe marginea unei văi, mergând pe dea'ntregul.</p>
+            <p>Ea pornì înnainte, pe marginea unei văi, mergând pe dea-ntregul.</p>
             <p>- Te rog, ține urma soldatului, zise Comăneșteanu.</p>
             <p>Ea făcù un pas la dreapta, intră în zăpadă până la genunchi, se sculă și căzù. Apoi, luă urma soldatului și merse înnainte tăcută. Drumul se furișà prin crăpăturile muntelui, pe după stânci și copaci, ridicându-se câte odată drept în sus, cu scări nesigure, pe cari se vedeà cum alunecase soldatul. Tânăra femeie înnaintà cu greu. Din când în când se oprià, privià la deal, apoi se întorceà și privià la el pe furiș.</p>
             <p>Ajunseră pe un tăpșan, de unde începeau să se vadă culmile altor munți. O desfășurare de coline și de vai, ce se pierdeau în estompa cenușie a zilei de iarnă, dă o uniformitate tristă priveliștei. Zidul din fața lor erà enorm.</p>
@@ -1682,11 +1683,11 @@
             <p>- Da, ziceam</p>
             <p>- Iar acum?</p>
             <p>- Nu știu...</p>
-            <p>El o simțì, în adevăr, nenorocită, lipsită de nădejde, părăsită și singură, și i se făcù milă de ea. Par'că erà o lege comună, pentru toți acești oameni de treabă, să alerge după himere și să se trudească.</p>
-            <p>Mila căpitanului se prefăcù într'o nevoe de protecție și de mângâiere. Se așeză lângă dânsa, în zăpadă; prinse piciorul subțire, de sub pulpă, și-l așeză pe genunchiu; apoi, cu garda săbiei, se puse să curățe ghiața de pe tălpile cizmelor ei.</p>
-            <p>- Trebue să ne pregătim de întoarcere: coborîșul va fi mai greu decât suișul... Afară numai dacă nu vrei să ne statornicim într'o peșteră... Domnul și doamna... „schimnici”, cum ai zice, bunăoară, „pianiști”.</p>
-            <p>El vorbià singur, lucrând. Glumele ușurau par'că povara împrejurărilor. După câteva minute, căldura binefăcătoare a vieții trecù prin toate stofele, filtrându-se, din coapsa ei, în inima lui. Căpitanul se întoarse către dânsa.</p>
-            <p>Urania se răsturnase cu capul pe spate, cu brațele întinse, albă ca zăpada pe care sta, cu liniile obrazului fixate într'o nemișcare de piatră. Arcul sprâncenii părea a se repetà mai departe, în unda grațioasă a părului, ce cădea de pe tâmple spre umeri.</p>
+            <p>El o simțì, în adevăr, nenorocită, lipsită de nădejde, părăsită și singură, și i se făcù milă de ea. Par-că erà o lege comună, pentru toți acești oameni de treabă, să alerge după himere și să se trudească.</p>
+            <p>Mila căpitanului se prefăcù într-o nevoe de protecție și de mângâiere. Se așeză lângă dânsa, în zăpadă; prinse piciorul subțire, de sub pulpă, și-l așeză pe genunchiu; apoi, cu garda săbiei, se puse să curățe ghiața de pe tălpile cizmelor ei.</p>
+            <p>- Trebue să ne pregătim de întoarcere: coborîșul va fi mai greu decât suișul... Afară numai dacă nu vrei să ne statornicim într-o peșteră... Domnul și doamna... „schimnici”, cum ai zice, bunăoară, „pianiști”.</p>
+            <p>El vorbià singur, lucrând. Glumele ușurau par-că povara împrejurărilor. După câteva minute, căldura binefăcătoare a vieții trecù prin toate stofele, filtrându-se, din coapsa ei, în inima lui. Căpitanul se întoarse către dânsa.</p>
+            <p>Urania se răsturnase cu capul pe spate, cu brațele întinse, albă ca zăpada pe care sta, cu liniile obrazului fixate într-o nemișcare de piatră. Arcul sprâncenii părea a se repetà mai departe, în unda grațioasă a părului, ce cădea de pe tâmple spre umeri.</p>
             <p>El se aplecă și o sărută. Un fior trecù prin ramurile nervilor, colorând ușor obrajii. Ea deschise ochii, se uită la el lung; apoi se uită în slava cerului.</p>
             <p>- Vrei să mergem? îi zise el încet.</p>
             <p>Ea dete din cap.</p>
@@ -1694,14 +1695,14 @@
             <p>- Da. Vreau să stăm. In marginea cea mai de sus a muntelui crește un molift: sub el, prăpastie; deasupra, neant. Ce pasăre se va urcà până la dânsul să-i mângâie ramurile? Din ce nor vor bea rădăcinile lui? Cu toate astea, el ține de inima pietrei și năzuește către lumina: palid și singur, tremură în vânt.</p>
             <p>- Ceea ce însemnează, pe românește?</p>
             <p>- Că nu ești poet.</p>
-            <p>El îi ridică tâmplele de pe frunte, cu violență; îi sărută ochii și sprâncenele; o acoperì de nebunia tinereții, până s'o înnăbușe. Urania făcù o sforțare și se ridică pe un cot. Zâmbià, luminată de bucurie:</p>
+            <p>El îi ridică tâmplele de pe frunte, cu violență; îi sărută ochii și sprâncenele; o acoperì de nebunia tinereții, până s-o înnăbușe. Urania făcù o sforțare și se ridică pe un cot. Zâmbià, luminată de bucurie:</p>
             <p>- Mă strângi de gât!...</p>
             <p>- Firește că te strâng de gât.</p>
             <p>- Și eu ce să fac?</p>
             <p>- Să închizi ochii.</p>
             <p>- Pentru ce?</p>
             <p>- Ca să-i pot sărutà.</p>
-            <p>Ea închise ochii, domol, și urmă a zâmbì ca în vis. Vrea să spună, cu parabola moliftului, că așà erà viața ei acum: atârnată de prăpastie și totuș năzuind către lumină. I se păruse că dânsul n'a înțeles'o. Descurajarea blajină a neînțelegerii păreà că mărește starea de beatitudine în care plutià sufletul ei. Sărutările ploau. Erà o infinită bucurie peste toată întinderea cugetului, peste tot cuprinsul vieței ei nemateriale, o bucurie ce o învăluià de toate părțile, o ridicà din forma ei pământească. I se părù deodată că are să leșine, și, în adevăr, simți momentul când pierià. Leșină.</p>
+            <p>Ea închise ochii, domol, și urmă a zâmbì ca în vis. Vrea să spună, cu parabola moliftului, că așà erà viața ei acum: atârnată de prăpastie și totuș năzuind către lumină. I se păruse că dânsul n-a înțeles-o. Descurajarea blajină a neînțelegerii păreà că mărește starea de beatitudine în care plutià sufletul ei. Sărutările ploau. Erà o infinită bucurie peste toată întinderea cugetului, peste tot cuprinsul vieței ei nemateriale, o bucurie ce o învăluià de toate părțile, o ridicà din forma ei pământească. I se părù deodată că are să leșine, și, în adevăr, simți momentul când pierià. Leșină.</p>
             <p>Fu numai o clipă. Când deschise ochii, Căpitanul o privià. Ea se speriă de focul ce ardeà în ochii lui. Luă o mână de zăpadă și se frecă pe frunte. Apoi se ridică pe un cot.</p>
             <p>- Mi se pare că ți-a fost frică...</p>
             <p>- Da.</p>
@@ -1709,12 +1710,12 @@
             <p>- Te-aș fi dus la otel.</p>
             <p>- Și altceva nimic?</p>
             <p>- Poate ți-aș fi tăiat hainele strimte.</p>
-            <p>- Haine strimte?!... N'am nimic strâns, nimic falș, nimic fățarnic.</p>
+            <p>- Haine strimte?!... N-am nimic strâns, nimic falș, nimic fățarnic.</p>
             <p>- Știu.</p>
             <p>- Nu știi în destul. Ca orice om politicos, taci. Ți-i frică să vorbești, ca să nu pari falș. Cu toate astea, trebue să vorbești. Eu acasă nu mă mai pot întoarce...</p>
             <p>- Ințeleg.</p>
             <p>Ea se gândià.</p>
-            <p>- Și totuș, n'am nici un cuvânt să nu ma mai întorc.</p>
+            <p>- Și totuș, n-am nici un cuvânt să nu ma mai întorc.</p>
             <p>- Firește.</p>
             <p>- Cum „firește”?</p>
             <p>- Adică firesc este și așà și altminteri.</p>
@@ -1723,11 +1724,11 @@
             <p>- Eu știu.</p>
             <p>- Foarte bine.</p>
             <p>- Iata ce aș face.</p>
-            <p>Strângându-și rochia împrejur, ea sărì de jos, și, într'o clipă, fu pe marginea prăpastiei. Adâncimea spăimântătoare o oprì un moment. Un strigăt de groază răsună și o mână puternică o ridică pe sus și o aruncă la cinci pași în urmă.</p>
+            <p>Strângându-și rochia împrejur, ea sărì de jos, și, într-o clipă, fu pe marginea prăpastiei. Adâncimea spăimântătoare o oprì un moment. Un strigăt de groază răsună și o mână puternică o ridică pe sus și o aruncă la cinci pași în urmă.</p>
             <p>Totul se petrecù cu repeziciunea fulgerului.</p>
             <p>Urania sta căzută grămadă, ca o pasăre împușcată. El se uità la dânsa în tîcere, nedomerit și trist dea nu pricepe nimic din biata viață omenească. Cu un minut mai înnainte o văzuse pierind de fericire, iar acum alergând la moarte. Se uità la ea, încruntat. I se părea un lucru mititel, delicat, spiritual, din care lipsià sufletul robust al doritorilor de a trăì. Și, cu toate astea avusese energia de a voì să moară!</p>
-            <p>La ideia morții, se înduioșa. Se apropia iarăși de dânsa, îi luă mâinile să i le încălzească, și, fiindcă i se părea că e rece toată, se dezbrăcă de manta, o întinse jos și înfășură într'însa corpul, acum ascultător, al tinerei femei.</p>
-            <p>Cu încetul, Urania își revenì în simțiri. Cu vocea slabă, îl rugă s'o ierte. El ridică din umeri:</p>
+            <p>La ideia morții, se înduioșa. Se apropia iarăși de dânsa, îi luă mâinile să i le încălzească, și, fiindcă i se părea că e rece toată, se dezbrăcă de manta, o întinse jos și înfășură într-însa corpul, acum ascultător, al tinerei femei.</p>
+            <p>Cu încetul, Urania își revenì în simțiri. Cu vocea slabă, îl rugă s-o ierte. El ridică din umeri:</p>
             <p>- Firește că te iert: dar să nu mai faci asemenea lucruri.</p>
             <p>- Nu mai fac. Nu ți-e frig?</p>
             <p>El dete din mâini că nu se gândià acum la frig. Ea insistă să ceară iertare:</p>
@@ -1738,12 +1739,12 @@
             <p>- Nu răspund la o asemenea întrebare. Poți să umbli?</p>
             <p>Ea dete din cap, umilă:</p>
             <p>- Nu pot.</p>
-            <p>- S'apropie noaptea și trebue să plecam.</p>
+            <p>- S-apropie noaptea și trebue să plecam.</p>
             <p>- Lasă-mă aici.</p>
             <p>Cuvintele acelea erau zise cu atâta putere de adevăr, încât tânărul se înfioră. Și atunci, fără vorbă, o ridică de jos, o strânse bine în manta, o luă în brațe și pornì cu ea.</p>
             <p>Drumul, la întoarcere, fu mai greu decât la ducere. Cu toată povara ce purtà cu sine, tânărul coborà încet dar sigur. O putere uriașe părea a se fi înfăptuit în el; brațele, piciorul, vederea, căpătaseră siguranță desăvârșită. Nici un pas greșit, nici o mișcare necumpănită.</p>
             <p>Când ajunseră jos, Urania apucă din nou drumul prin zăpadă. Mergeà tăcută înnaintea lui. Din când în când se întorceà să-l vadă.</p>
-            <p>De îndată ce cărarea se lărgì, ea îl luă de braț. O dorință neînfrânată de a-l încălzì, de a-l apărà, de a-i face bine îi umpleà sufletul. Nu-și închipuise nici odată că un om poate ascunde în mușchii săi eleganți atâta putere, și mai cu seamă în firea sa, oarecum efeminată, atâta bărbăție. Vorbe calde îi veneau pe buze, dar nu ăndrăznià a le spune. Acesta erà tipul bărbătesc curat, în care trăia noblețea unei rase superioare, rasă în care mai cu seamă puterea trupească, îndrăzneala și hotărîrea stăpâneau totul. Erà și cam ștrengar... Urania își aduse aminte de Anna, și o umbră de tristețe întunecă lumina ei sufletească. Dar își aduse aminte și de Berta, și de nevasta Colonelului, de câte se știau și nu se știau, și atunci părù a găsì o explicare firească acestui nărav bărbătesc, care, într'o oarecare măsură, devenià o sarcină publică, o necesitate și o bucurie națională.</p>
+            <p>De îndată ce cărarea se lărgì, ea îl luă de braț. O dorință neînfrânată de a-l încălzì, de a-l apărà, de a-i face bine îi umpleà sufletul. Nu-și închipuise nici odată că un om poate ascunde în mușchii săi eleganți atâta putere, și mai cu seamă în firea sa, oarecum efeminată, atâta bărbăție. Vorbe calde îi veneau pe buze, dar nu ăndrăznià a le spune. Acesta erà tipul bărbătesc curat, în care trăia noblețea unei rase superioare, rasă în care mai cu seamă puterea trupească, îndrăzneala și hotărîrea stăpâneau totul. Erà și cam ștrengar... Urania își aduse aminte de Anna, și o umbră de tristețe întunecă lumina ei sufletească. Dar își aduse aminte și de Berta, și de nevasta Colonelului, de câte se știau și nu se știau, și atunci părù a găsì o explicare firească acestui nărav bărbătesc, care, într-o oarecare măsură, devenià o sarcină publică, o necesitate și o bucurie națională.</p>
             <p>Îi venì să zâmbească. Ridică ochii pe furiș către, el, și-l simțì mai mult decât îl văzù, îl simțì frumos și tânăr, vinovat dar generos, gata la orice sacrificiu; și atunci, fără să știe ce face, se lipì de brațul lui și sărută tunica. I se părea că postavul acela nu erà la fel cu al celorlalte haine omenești. La urma urmei nici nu erà la fel. Ii venì în minte fracul lui bărbatu-său, și nu numai că nu regretă nimic din ceea ce se întâmplase acum în urmă, dar încă se simțì jenată și umilită de a fi legată, prin cele mai tainice legături ale vieței, de un om vulgar în toată puterea cuvântului, plebeu, pretențios și egoist.</p>
             <p>Și iarăși ridică ochii către el:</p>
             <p>- Imi dai voie să-ți turbur gândurile cu o întrebare?</p>
@@ -1767,7 +1768,7 @@
             <p>- Ești crud pentru Prințesa Smaranda.</p>
             <p>- Nu zic asta.</p>
             <p>- Membre suntem noi toate... fiicele Pădurii.</p>
-            <p>Tăcură cu desăvârșire. Noaptea cădeà cu încetul, într'un amurg de Fevruarie, molcom. Brazii mișcau bolta ramurilor tinere, ale căror vârfuri, înfiorate ca de reînviere, se scuturau pe vânt. Venind către oraș, amândoi tinerii se simțeau stângaci și nereali, par'că s'ar fi coborît dintr'un vis.</p>
+            <p>Tăcură cu desăvârșire. Noaptea cădeà cu încetul, într-un amurg de Fevruarie, molcom. Brazii mișcau bolta ramurilor tinere, ale căror vârfuri, înfiorate ca de reînviere, se scuturau pe vânt. Venind către oraș, amândoi tinerii se simțeau stângaci și nereali, par-că s-ar fi coborît dintr-un vis.</p>
             <p>Cum ajunseră la otel, portarul le spuse că îi căutău două doamne. Urania încremenì. Cine puteà să fie acele două doamne?</p>
             <p>Cât stătù un moment să se gândească, toate prăpăstille îi trecură prin minte.</p>
             <p>- Cum se numesc acele doamne? întrebă ea.</p>
@@ -1778,7 +1779,7 @@
             <p>- Am chiar două.</p>
             <p>- Pentru ce două?</p>
             <p>- Una pentru gară și alta pentru Comarnic.</p>
-            <p>Urania, îngrozită de apropierea primejdiei, se uità la portar lung, căutând par'că să se bucure și să profite de șiretenia lui. Acesta îi făcù să înțeleagă că nu aveau vreme de pierdut. Căpitanul pornì spre Comarnic, iar Urania se urcă să-și iea lucrurile, și pornì la gară.</p>
+            <p>Urania, îngrozită de apropierea primejdiei, se uità la portar lung, căutând par-că să se bucure și să profite de șiretenia lui. Acesta îi făcù să înțeleagă că nu aveau vreme de pierdut. Căpitanul pornì spre Comarnic, iar Urania se urcă să-și iea lucrurile, și pornì la gară.</p>
          </div>
          <div type="chapter" n="15">
             <head>XV.</head>
@@ -1788,9 +1789,9 @@
             <p>- Nu-i nimic pentru mine, Mario?</p>
             <p>- Nimic, cuconiță.</p>
             <p>Anna se desbrăcă încet. Dusă pe gânduri, vedeà în oglindă cum cădeau lucrurile depe dânsa și cum ea, Anna, ieșià, ca un fruct copt, din bumbacul unei cutii exotice.</p>
-            <p>- N'a venit nimeni în lipsa mea?</p>
+            <p>- N-a venit nimeni în lipsa mea?</p>
             <p>- Nimeni cuconiță.</p>
-            <p>Femeia știà bine cine erà acel „nimeni”, și, dacă ar fi fost în puterile ei, i l'ar fi adus pe sus. Dar nu puteà.</p>
+            <p>Femeia știà bine cine erà acel „nimeni”, și, dacă ar fi fost în puterile ei, i l-ar fi adus pe sus. Dar nu puteà.</p>
             <p>- Du-te de te culcă, Mario. Ți-ai cântat cântecul?</p>
             <p>Femeia zâmbì cu supunere. Cântecul ei erà cam ca și al stăpânei sale. Se măritase, coptuță, după un băiat tânăr, pe care-l luaseră la armată, și acum, seara, când lucrà, repetà aceleași versuri, cu glas molcom:</p>
             <quote type="verse">
@@ -1801,23 +1802,23 @@
             </quote>
             <p>Și nu băteà nimeni în poartă, iar ea oftà.</p>
             <p>Sărută mâna stăpânei, sale, și se duse să se culce.</p>
-            <p>Anna se gândià la femeia ei, cum s'ar gândì un doctor bolnav la bolnavul lui. Se isprăvì de dezbrăcat, se culcă, ridicându-și capul sus pe perne, ca să poată cetì; luă o carte, încercă să citească, dar peste tot întâlnià cuvintele Porției „nu se poate, nu se poate!”. Porția zisese și mai mult. Oare cum zisese?... „Doamna care m'a luat sub ocrotirea sa, care m'a îngrijit în vremurile grele, care m'a dat după Alexandru, să fi făcut toate astea, ca să-mi ia bărbatul?”. I se suià tot sângele în obraz. Porția îndrăznise să-i spună astfel de cuvinte?!... Indrăznise. Dar ce erà mai rău, erà lucrul în sine, erà faptul că-i luase bărbatul, că o înșelase și o înșelà pe fiecare zi și pe fiecare ceas; că Porția avea dreptate să-i spună că „erà rușinos nelegiuit” ceea ce făceà ea, Anna.</p>
+            <p>Anna se gândià la femeia ei, cum s-ar gândì un doctor bolnav la bolnavul lui. Se isprăvì de dezbrăcat, se culcă, ridicându-și capul sus pe perne, ca să poată cetì; luă o carte, încercă să citească, dar peste tot întâlnià cuvintele Porției „nu se poate, nu se poate!”. Porția zisese și mai mult. Oare cum zisese?... „Doamna care m-a luat sub ocrotirea sa, care m-a îngrijit în vremurile grele, care m-a dat după Alexandru, să fi făcut toate astea, ca să-mi ia bărbatul?”. I se suià tot sângele în obraz. Porția îndrăznise să-i spună astfel de cuvinte?!... Indrăznise. Dar ce erà mai rău, erà lucrul în sine, erà faptul că-i luase bărbatul, că o înșelase și o înșelà pe fiecare zi și pe fiecare ceas; că Porția avea dreptate să-i spună că „erà rușinos nelegiuit” ceea ce făceà ea, Anna.</p>
             <p>Și așà erà. Erà rușinos și nelegiuit.</p>
             <p>Anna se ridică pe un cot și se uită țintă înnaintea ochilor: trebuià neapărat să-și smulgă din suflet amorul vinovat, care o trudià pe ea și trudià și pe alții. O umilise și o degradase acest amor; o umilià faptul părăsirei și o degradà gelozia.</p>
             <p>Se gândì să plece; și, în dorința ei de a fugì de sine, se văzù strângându-și lucrurile și plecând. Se duceà la gară, ieșià pe poartă... Dar, la ideia de a se despărți de locurile unde trăià el, i se strânse inima de atâta putere, încât se înnecă. Aruncă învelitoarea depe piept, răsuflă din adânc; apoi se lăsă iar pe perne și prinse a-și ascultà bătăile inimei. Săraca inimă!...</p>
             <p>Își plecă ochii către pielița albă a sânului, sub care zvâcnià eroic sângele. Se simția curată! Sângele acela ardeà de patimă, dar erà generos. Ea știà că nu făcuse nici odată rău nimănui, că nu înșelase pe nimeni, că nu se murdărise, nu avusese amanți, nu mințise. Iubià pe un om. Ea îl iubià înnainte de a-l fi iubit Porția. Dar, apoi, ea, Porția, îl iubià oare cu adevărat?... Iși aduse aminte de felul cum îi vorbise Porția: îl iubià!</p>
             <p>Se sculă din pat, se duse la o măsuță, deschise un sertar și se întoarse înnapoi cu o cutie plină de scrisori. Erau tot felul de biletele dela Cămăneșteanu, răspunsuri la invitații, mulțumiri pentru concerte, glume, dar mai cu seama scuze că nu putea venì. Adevărat: el nici odată nu venià destul de des și niciodată nu răspundea la scrisorile ei pasionate.</p>
             <p>Invărtì din nou biletele lui în mână, se uită lung la literile lor, citì pe unele și sfârșì prin a lua creyonul depe masă și a se pune să-i scrie. In trebuința ei absolută de a-i vorbì, pretextul erà acum nou: îi spuneà că vrea să-l uite.</p>
-            <p>„Sunt hotărîtă să fug, să mă duc undeva, prin stepe sau prin ghețari, de unde să nu mă mai pot întoarce când slăbiciunea mea sufletească m’ar îndemnă să mă întorc. Știu bine că din două ființe care se iubesc, numai una iubește cu adevărat, și primesc să fiu eu această una. Dar cu o condiție: să nu mă umilesc și să nu mă degradez”.</p>
+            <p>„Sunt hotărîtă să fug, să mă duc undeva, prin stepe sau prin ghețari, de unde să nu mă mai pot întoarce când slăbiciunea mea sufletească m-ar îndemnă să mă întorc. Știu bine că din două ființe care se iubesc, numai una iubește cu adevărat, și primesc să fiu eu această una. Dar cu o condiție: să nu mă umilesc și să nu mă degradez”.</p>
             <p>Îi aduceà aminte de câteori avusese ocazie să-l ierte, și-l iertase; cum sperase că, odată însurat, se va liniști; cum aveà pe conștiință pe Porția; cum descoperise pe Berta și o tolerase. Din toate, amorul ei propriu ieșise rănit. Iar acum, ultima lui nebunie cu Urania erà dovada hotărîtoare, nu numai a unei absențe complecte a simțului moral, dar încă a unei lipse de cavalerism elementar, ce se găsește la toate clasele de oameni, la boieri, la țărani, la Turci și la Kafri.</p>
             <p>Lipsă de cavalerism elementar i se părù cam tare. Cu toate astea erà adevărat! Lăsă creyonul din mână și se plecă pe pernă, închizând ochii.</p>
-            <p>Firește că eră adevărat! Ce scuză pot aveà oamenii care înșală în amor? Nu numai că n'au nici o scuză, dar încă sunt mai vinovați decât cei ce înșală în afaceri, fiindcă la cei dintâi răul nu are îndreptare. Pentru ceilalți, plaie d'argent n'est pas mortelle.</p>
-            <p>I se părù ciudată zicătoarea plaie d’argent, „rană de bani”... Mintea i se fixă pe cuvântul rană. Lumea întreagă este o rană enormă. O rană...</p>
+            <p>Firește că eră adevărat! Ce scuză pot aveà oamenii care înșală în amor? Nu numai că n-au nici o scuză, dar încă sunt mai vinovați decât cei ce înșală în afaceri, fiindcă la cei dintâi răul nu are îndreptare. Pentru ceilalți, plaie d-argent n-est pas mortelle.</p>
+            <p>I se părù ciudată zicătoarea plaie d-argent, „rană de bani”... Mintea i se fixă pe cuvântul rană. Lumea întreagă este o rană enormă. O rană...</p>
             <p>Simțì că adoarme.</p>
             <p>Când deschise ochii, Urania îi sta înnainte, ca aievea. Un simțimânt de neliniște cuprinse pe Anna, față de un alt simțimânt, tot al ei, despre Urania, că erà placută, elegantă și sinceră. Cum să lupți cu propriile tale convingeri?</p>
             <p>In liniștea nopții, firea ei semeață erà biruită de judecata nepărtinitoare ce i-o impuneà fondul nobil al inimei. Urania, erà nevinovată, ca și dânsa; poate că suferea și ea.</p>
             <p>Amorul ei erà o povară prea mare pentru un suflet curat. De ani întregi, trăià neliniștită, micșorată, turbure. Nu se putea merge mai departe.</p>
-            <p>Adormì din nou. De îndată însă ce adormì, o luară visurile. Îi visà pe amândoi, pe Comăneșteanu și pe Urania fugiți în lume, rătăcind pe malul mării. Vedeà apa cum le sărută urmele pe nisip, iar ea se visà pe sine nenorocită că nu putuse să guste niciodată dintr'un asemenea fel poetic de a trăì. Sau îi regăsià la Crivina, lipiți umăr de umăr, în fuga săniei. Sau la Sinaia. La Sinaia îi vedeà, par’că ar fi fost lângă dânșii. Îl vedeà pe Comăneșteanu intrând la Urania, apoi lăsând deodetă orice forme la o parte și ridicând în brașe corpul delicat at tinerei femei. Atunci, ea, Anna, se visà că țipă. Și țipà în adevăr dar cum se țipă în vis, strânsă de gât, pătrunsă de fiori.</p>
+            <p>Adormì din nou. De îndată însă ce adormì, o luară visurile. Îi visà pe amândoi, pe Comăneșteanu și pe Urania fugiți în lume, rătăcind pe malul mării. Vedeà apa cum le sărută urmele pe nisip, iar ea se visà pe sine nenorocită că nu putuse să guste niciodată dintr-un asemenea fel poetic de a trăì. Sau îi regăsià la Crivina, lipiți umăr de umăr, în fuga săniei. Sau la Sinaia. La Sinaia îi vedeà, par-că ar fi fost lângă dânșii. Îl vedeà pe Comăneșteanu intrând la Urania, apoi lăsând deodetă orice forme la o parte și ridicând în brașe corpul delicat at tinerei femei. Atunci, ea, Anna, se visà că țipă. Și țipà în adevăr dar cum se țipă în vis, strânsă de gât, pătrunsă de fiori.</p>
             <p>Se deșteptà tremurând.</p>
             <p>Imprejurul ei, noapte adânca. In gerul de afară se auzià scârțâind pasul vre-unui trecător întârziat. Un gol imens, ca prin văzduhul fără de țărmuri, i se așezà în suflet, și atunci nu mai înțelegea nimic: de ce trăià? unde erà amorul? ce simțià ea?</p>
             <p>Îi erà frică...</p>
@@ -1830,13 +1831,13 @@
             <p>La primele cuvinte ale Annei, Berta înțelese tot. Se hotărâ numaidecât să plece, făgăduindu-și să ajute pe toată lumea a ieșì din încurcătură.</p>
             <p>Drumul fu o pedeapsă pentru amândouă. Anna se deșteptà din când în când din nebunia ei, și atunci se întrebì ce caută lângă ea, în public, amanta bărbatului său; Berta, care sperì să liniștească lucrurile, se simțià luată de apă, gândindu-se necontenit la Urania.</p>
             <p>Trenul ajunse în gara Sinaia cam sub seară. Anna se dete jos din vagon, dârje, dar atât de mișcată, încât deabia respirà. Berta venià după dânsa.</p>
-            <p>Se urcară amândouă într'o trăsură, cu vălurile groase trase peste obraz și porniră către otel. Cu cât înnaintau, cu atât Anna își pierdeà cumpătul. Berta o simțià, o înțelegeà, și se substituià cu voința ei, voinței celeilalte. Anna tremurà. S'ar fi întors înnapoi, dacă nu i-ar fi fost frică de a părea ridiculă Bertei. Cu atât mai mult s'ar fi întors înnapoi, cu cat își da seama că, acum, Berta, lucrà oarecum pe socoteala ei personală, erà geloasă pentru sine...</p>
+            <p>Se urcară amândouă într-o trăsură, cu vălurile groase trase peste obraz și porniră către otel. Cu cât înnaintau, cu atât Anna își pierdeà cumpătul. Berta o simțià, o înțelegeà, și se substituià cu voința ei, voinței celeilalte. Anna tremurà. S-ar fi întors înnapoi, dacă nu i-ar fi fost frică de a părea ridiculă Bertei. Cu atât mai mult s-ar fi întors înnapoi, cu cat își da seama că, acum, Berta, lucrà oarecum pe socoteala ei personală, erà geloasă pentru sine...</p>
             <p>- Aș dorì, dacă se poate să nu mergem deadreptul la otel.</p>
             <p>Berta clipì din ochi. Ințelese că erà surpinsă în propria ei pornire, și îi fu milă de Anna.</p>
             <p>- Să mergem la otel, liniștite. Vă încredințez că nu vă recunoaște nimeni...</p>
             <p>Anna nu mai zise nimic. Ajunseră la otel. Berta umblà cu îndemânare, alese două camere, dete un nume închipuit: „domnișoarele Keller”, apoi se coborî, cetì lista călătorilor, care se reduceà la câțiva lunateci de iarnă, printre cari numele lui Comăneșteanu; întrebă foarte firesc despre el și despre doamna ce-l însoțià, și, află că plecaseră amândoi la Bușteni.</p>
             <p>Va să zică știa tot.</p>
-            <p>La un moment, gândul ei bun erà să încurce ițele, căco, spre a nu întâlnì pe Comăneșteanu cu Urania, voià să schimbe adresa dată de portar și să meargă tocmai pe urmele lor. Ispita însă fu mai puternică decât gândul bun. Astfel se suiră amândouă într'o trăsură și porniră către Bușteni.</p>
+            <p>La un moment, gândul ei bun erà să încurce ițele, căco, spre a nu întâlnì pe Comăneșteanu cu Urania, voià să schimbe adresa dată de portar și să meargă tocmai pe urmele lor. Ispita însă fu mai puternică decât gândul bun. Astfel se suiră amândouă într-o trăsură și porniră către Bușteni.</p>
             <p>Pe pârtia albă, ochiul lor cercetà drumul de departe. La fiecare sanie, Anna tresărià, și numai după ce se încredințà că nu erau ei, răsuflà. O trăsură ce venià despre Buteni, cu coșul ridicat, o făcù să tremure câteva mari minute, iar când ajunseră în dreptul ei, să închidă ochii:</p>
             <p>- Ei erau? întrebă ea, galbenă ca ceară.</p>
             <p>Berta, care nici ea nu trăià mai bine, dete din cap că nu erau ei.</p>
@@ -1855,7 +1856,7 @@
             <p>Când ajunseră la otel, exasperarea lor erà la culme.</p>
             <p>Trecând pe lângă loja portarului, Anna luă numărul camerii lui Comăneșteanu, și se duse drept la el. Berta se ținea după ea.</p>
             <p>Prin coridorul întunecos, se vedea pe geamul de sus al ușei pâlpâind o lumină ușoară. Anna bătù la ușă. Era galbenă ca faclia de ceară. Inima ei zvâcnià ca în pieptul unei turturele prinse.</p>
-            <p>Așteptă câteva secunde. Dacă s'ar fi deschis ușa atunci ea simțià că s'ar fi prăbușit ca o zidire fără temelii. Dar ușa nu se deschise. Așteptă încă puțin. Apoi iar bătù.</p>
+            <p>Așteptă câteva secunde. Dacă s-ar fi deschis ușa atunci ea simțià că s-ar fi prăbușit ca o zidire fără temelii. Dar ușa nu se deschise. Așteptă încă puțin. Apoi iar bătù.</p>
             <p>Auzià înnauntru - sau i se păreà că aude zgomot surd, șoapte. Își lipì urechia de lemn: desigur. Făcù un semn mut Bertei să asculte și ea. Berta răspunse din cap că auzià zgomot.</p>
             <p>Atunci se statornici în mintea Annei ideia că erau acolo amândoi, Comăneșteanu și Urania, și, fără a mai ține socoteală de nimic, bătù violent în ușă. I se păreà că aude șoapte și râsete. Se retrase cu un pas, ca să vadă dacă odaia erà în adevăr luminată. Incredințându-se că erà luminată, revenì și bătù cu pumnul. Bătù și zguduì ușa atât de tare, încât chiemă luarea aminte a oamenilor din otel. Venì o chelneriță, mirată, cu un aer batjocoritor:</p>
             <p>- Ce poftiți, cuconiță? Dece scuturați ușa așà?!...</p>
@@ -1868,12 +1869,12 @@
          </div>
          <div type="chapter" n="16">
             <head>XVI.</head>
-            <p>Pe o dimineață limpede de Fevruarie, Anna, singură în odaia ei, se uità din pat la munții din față, acoperiți de zăpadă, cum se luminau de fășii de aur, pe când alții, în fund, ieșau din umbra violetă a depărtării. Erà singură, tristă și bolnavă. Dar, de câteva minute, de când plecase Berta, par'că se liberase de o greutate. Se ridicase pe un cot să audă cum pornià trenul din Sinaia către București. Plecase!...</p>
-            <p>Dela scena de pe conidor, când chelnerița își bătuse joc de sufletul ei, iar Berta găsise mijloc să zâmbească, Anna nu putea s'o mai vadă. Ca să se scape de dânsa, o trimisese cu un bilet către Elena.</p>
-            <p>In mizeria ei, cea dintâi ființă la care se gândi, fu soră-sa. Tanți erà delicată, blândă, iertătoarea Tanți. Cerù hârtie și se puse să-i telegrafieze. După ce expedià telegrama, îi venì în minte să-și facă testamentul, pentru Tanți. Ce copilărie! Par'că Tanți nu erà moștenitoarea ei firească! Da. Insă Tanți aveà niște idei extravagante, vrea să-și lase averea pentru scopuri răsboinice, Transilvania, Basarabia, Bucovina, iar, în fond, Comăneșteanu.</p>
-            <p>De câteva ceasuri nu se mai gândise la el, preocupată de a se desface de Berta. Acum îi răsărià în minte, deodată, infam și măreț cum erà. O trebuință absolută de a-l vedeà, prinse ființă în sufletul ei, o trebuință de a-l vedeà și a-i spune liniștit că „s'a sfârșit”, că puteà să se întoarcă acasă la soție, fără ca ea, Anna, să mai roșească. Își amintì de Porția și de scena dela ea. Tot sângele i se suì în obraz. Vorbele Porției o răniseră adânc și o răneau și acum. Erà aproape o fericire ceea ce se întâmplase acum la Sinaia: umilința definitivă. Se sfârșise tot. Se sfârșise sau trebuià să se sfârșească.</p>
+            <p>Pe o dimineață limpede de Fevruarie, Anna, singură în odaia ei, se uità din pat la munții din față, acoperiți de zăpadă, cum se luminau de fășii de aur, pe când alții, în fund, ieșau din umbra violetă a depărtării. Erà singură, tristă și bolnavă. Dar, de câteva minute, de când plecase Berta, par-că se liberase de o greutate. Se ridicase pe un cot să audă cum pornià trenul din Sinaia către București. Plecase!...</p>
+            <p>Dela scena de pe conidor, când chelnerița își bătuse joc de sufletul ei, iar Berta găsise mijloc să zâmbească, Anna nu putea s-o mai vadă. Ca să se scape de dânsa, o trimisese cu un bilet către Elena.</p>
+            <p>In mizeria ei, cea dintâi ființă la care se gândi, fu soră-sa. Tanți erà delicată, blândă, iertătoarea Tanți. Cerù hârtie și se puse să-i telegrafieze. După ce expedià telegrama, îi venì în minte să-și facă testamentul, pentru Tanți. Ce copilărie! Par-că Tanți nu erà moștenitoarea ei firească! Da. Insă Tanți aveà niște idei extravagante, vrea să-și lase averea pentru scopuri răsboinice, Transilvania, Basarabia, Bucovina, iar, în fond, Comăneșteanu.</p>
+            <p>De câteva ceasuri nu se mai gândise la el, preocupată de a se desface de Berta. Acum îi răsărià în minte, deodată, infam și măreț cum erà. O trebuință absolută de a-l vedeà, prinse ființă în sufletul ei, o trebuință de a-l vedeà și a-i spune liniștit că „s-a sfârșit”, că puteà să se întoarcă acasă la soție, fără ca ea, Anna, să mai roșească. Își amintì de Porția și de scena dela ea. Tot sângele i se suì în obraz. Vorbele Porției o răniseră adânc și o răneau și acum. Erà aproape o fericire ceea ce se întâmplase acum la Sinaia: umilința definitivă. Se sfârșise tot. Se sfârșise sau trebuià să se sfârșească.</p>
             <p>- Dar Urania?</p>
-            <p>La urma urmei, ce dovadă aveà că Urania fusese la Sinaia? Nici una. Nu-i mai bănuise și altă dată de geaba, când cu femeia colonelului? Intr'o clipă de îmbunare, își zise că adevărata cauză a nefericirei sale erà ea însă-și: că el erà un om ca toți oamenii...</p>
+            <p>La urma urmei, ce dovadă aveà că Urania fusese la Sinaia? Nici una. Nu-i mai bănuise și altă dată de geaba, când cu femeia colonelului? Intr-o clipă de îmbunare, își zise că adevărata cauză a nefericirei sale erà ea însă-și: că el erà un om ca toți oamenii...</p>
             <p>Zâmbì. Se judecà singură și se găsià fără caracter. Dacă ar fi venit atunci, el, și i-ar fi cerut iertare, mărturisindu-i adevărul, ea l-ar fi iertat. Atâta erà de slabă!...</p>
             <p>Anna ridică fruntea.</p>
             <p>Nu! Nu mai erà slabă! Nu trebuià să mai fie slabă!</p>
@@ -1881,21 +1882,21 @@
             <p>O dureà capul și cădeà pe perne. Dar se sculà, indignată.</p>
             <p>Nu mai erà slabă!</p>
             <p>Sună și cerù jurnalele toate, românești, străine, de mode, de sport. Apoi își comandă masa.</p>
-            <p>Or ce s'ar fi întâmplat cu ea, vrea să iasă din robia în care trăià. Și nici nu erà nevoie de atâta zbucium. Trebuià să se hotărască, și nimic mai mult.</p>
-            <p>Își aruncă ochii pe zidurile odăii. Erau cenușii. Niște biete întorsături de linii, ce s'ar fi chemat probabil liberty, dar cărora le erà frig, făceau un chenar sărăcăcios pe la colțurile bagdadiei.</p>
+            <p>Or ce s-ar fi întâmplat cu ea, vrea să iasă din robia în care trăià. Și nici nu erà nevoie de atâta zbucium. Trebuià să se hotărască, și nimic mai mult.</p>
+            <p>Își aruncă ochii pe zidurile odăii. Erau cenușii. Niște biete întorsături de linii, ce s-ar fi chemat probabil liberty, dar cărora le erà frig, făceau un chenar sărăcăcios pe la colțurile bagdadiei.</p>
             <p>Băgă de seamă că geamurile nu se lipeau. Sărì din pat și strânse bine ivorul. E!... dacă ar fi putut ea să mai înceapă încă odată a trăì, ce bine ar fi știut să trăiască!... Mai întâi de toate nu ar mai fi iubit. Sau, în toate cazurile, ar fi iubit pe un om care să nu fie iubit de toate femeile. Îi venì să surâdă de cazuistica asta: „în toate cazurile”. Nu. Erà mai sigur să nu iubească deloc.</p>
-            <p>Pe la 12 primì răspuns la telegrama sa urgentă. Elena venià cu cel d'intăi tren.</p>
+            <p>Pe la 12 primì răspuns la telegrama sa urgentă. Elena venià cu cel d-intăi tren.</p>
             <p>Știrea asta o neliniștì. Elena erà sora ei, singura ei rudă de sânge; erà Tanți; curata și suava Tanți, pe umărul căreia plângeà, când nu mai puteà să lupte; care o mângâia sau o dojenià, - dar care mai cu seamă o iertà. Insă viața surorei sale, netedă ca o apă, erà o protestare veșnică împotriva vieții ei turburate.</p>
             <p>Către seară sosì trenul dela București. Anna îl pândià de sus, nerăbdătoare de a vedea pe soră-sa cât mai curând.</p>
-            <p>In fine, se auzì bătând la ușă; Elena intră. Erà palidă, nedomirită și nerăbdătoare, neștiind nimic de plecarea Annei. Se aruncă de gâtul soră-si, o mângâiă, îi strânse mânile într'ale sale, întrebând-o necontenit:</p>
-            <p>- Ce este? Ce s'a întâmplat?</p>
+            <p>In fine, se auzì bătând la ușă; Elena intră. Erà palidă, nedomirită și nerăbdătoare, neștiind nimic de plecarea Annei. Se aruncă de gâtul soră-si, o mângâiă, îi strânse mânile într-ale sale, întrebând-o necontenit:</p>
+            <p>- Ce este? Ce s-a întâmplat?</p>
             <p>Anna plângeà, încet, prelung, cu desnădejdea oamenilor pierduți fără speranță.</p>
-            <p>- Ce s'a întâmplat dragă? întrebă Elena.</p>
-            <p>- N'ai văzut pe Berta?</p>
+            <p>- Ce s-a întâmplat dragă? întrebă Elena.</p>
+            <p>- N-ai văzut pe Berta?</p>
             <p>Elena se oprì, serioasă și se uită la Anna:</p>
             <p>- Care Berta?</p>
             <p>Anna, ca atinsă de sfârcul biciului, ridică ochii:</p>
-            <p>- M'am rătăcit de tot, nu-i așà?</p>
+            <p>- M-am rătăcit de tot, nu-i așà?</p>
             <p>- Nu zic că te-ai rătăcit, ci numai întreb.</p>
             <p>- Berta, amica mea Berta... soția nelegitimă a soțului meu.</p>
             <p>- A!.. Amanta lui Iorgu.</p>
@@ -1911,7 +1912,7 @@
             <p>Elena își aruncă manșonul și pălăria, și venì lângă soră-sa, îi luă mânile și i le sărută:</p>
             <p>- Spune, dragă, spune.</p>
             <p>Anna dete din cap:</p>
-            <p>- Tu nu'nțelegi.</p>
+            <p>- Tu nu-nțelegi.</p>
             <p>- Totuși spune; poate să înțeleg.</p>
             <p>- Mă înșală.</p>
             <p>- Știu.</p>
@@ -1920,14 +1921,14 @@
             <p>- Cum știi? Va să zică e sigur.</p>
             <p>- Știu că ai bănuiala asta.</p>
             <p>Anna se uită la soră-sa.</p>
-            <p>- Ah, Eleno, te joci cu mine. Cum se vede că n'ai iubit niciodată!</p>
+            <p>- Ah, Eleno, te joci cu mine. Cum se vede că n-ai iubit niciodată!</p>
             <p>Elena se înroșì:</p>
             <p>- Cel puțin odată, zise ea, încercând să glumescă.</p>
             <p>- Pe Milescu. E cam de mult.</p>
-            <p>- Și de unde știi că n'am mai iubit de-atunci?...</p>
+            <p>- Și de unde știi că n-am mai iubit de-atunci?...</p>
             <p>Anna dete din cap:</p>
-            <p>- Dacă ai fi iubit, m'ai înțelege. Nu se poate să iubești, fără să fii geloasă.</p>
-            <p>- Și de unde știi că n'am iubit și n'am fost geloasă?</p>
+            <p>- Dacă ai fi iubit, m-ai înțelege. Nu se poate să iubești, fără să fii geloasă.</p>
+            <p>- Și de unde știi că n-am iubit și n-am fost geloasă?</p>
             <p>- Fiindcă nu se poate să fii geloasă în gând.</p>
             <p>- Trebue numaidecât să faci scandal prin oteluri?</p>
             <p>Anna se încruntă:</p>
@@ -1935,21 +1936,21 @@
             <p>- Îmi închipuesc.</p>
             <p>- De unde-ți închipuești?</p>
             <p>Elena înnălță din umeri. Anna urmă:</p>
-            <p>- N'am făcut nici un scandal, ci numai am suferit. Am suferit toate chinurile gelozii, toată mizeria inimei sfărâmate, toată umilința femeiei părăsite. Și nu mai pot, nu mai pot. Vreau să uit, vreau să fug.</p>
+            <p>- N-am făcut nici un scandal, ci numai am suferit. Am suferit toate chinurile gelozii, toată mizeria inimei sfărâmate, toată umilința femeiei părăsite. Și nu mai pot, nu mai pot. Vreau să uit, vreau să fug.</p>
             <p>Apoi cu glas stins, Anna urmă:</p>
-            <p>- Dacă tu ai fi iubit, m'ai înțelege, m'ai iertà și m'ai ajutà.</p>
+            <p>- Dacă tu ai fi iubit, m-ai înțelege, m-ai iertà și m-ai ajutà.</p>
             <p>Elena se uità la dânsa, ca în vis, roșie la chip cu mânile tremurând. Apoi, încet, plecându-se pe genunchii Annei:</p>
             <p>- Liniștește-te. Eu am iubit și iubesc și acum.</p>
             <p>- Tu!!</p>
             <p>- Da, eu.</p>
             <p>- Nu se poate!</p>
-            <p>- Se poate atât de mult, încât, dacă n'aș fi curată la suflet, aș fi în drept să te urăsc.</p>
+            <p>- Se poate atât de mult, încât, dacă n-aș fi curată la suflet, aș fi în drept să te urăsc.</p>
             <p>- Iubești pe Alexandru?!</p>
             <p>Elena căzù cu capul pe brațele Annei. Anna, încruntată, sălbatecă, se ridică pe perne:</p>
             <p>- Nu se poate! Nu e omenește cu putință!... Și de când asta?...</p>
             <p>Elena nu mai răspunse.</p>
             <p>- El știe ceva?</p>
-            <p>Elena se cutremură cu tot trupul, par'că ar fi răspuns un nu formidabil.</p>
+            <p>Elena se cutremură cu tot trupul, par-că ar fi răspuns un nu formidabil.</p>
             <p>Atunci Anna, uitându-se la soră-sa, căzută pe brațele ei; la bietul ei păr, împrăștiat în bucle timide, pe învelitoarea neagră; la corpul delicat, în care inima băteà să rupă pieptul, - îi înconjură capul cu brațele și o sărută îndelung. Ințelese că pot fi taine și dureri mai mari decât ale sale, cu atât mai mari, cu cât sunt mai ascunse.</p>
             <p>Dar Anna nu pricepù niciodată că poate fi o plăcere, pentru unele suflete rare, de a nu mai ascunde taina vieții lor, pentru a înlesnì pe a altora.</p>
             <trailer>- SFÂRȘIT -</trailer>

@@ -11,7 +11,7 @@
       <fileDesc>
          <titleStmt>
             <title>Catastihul amorului: ediție ELTeC</title>
-            <author>Ionescu, Radu (1834-1872)</author>
+            <author>Ionescu, Radu (1834-l872)</author>
             <respStmt>
                <resp>Codare ELTeC</resp>
                <name>Roxana Patras</name>
@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2021-04-09"/>
+            <date when="2022-03-02"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -59,6 +59,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [’'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checkUp script for new release</change>
          <change when="2020-11-14">Converted by checkUp script for new release</change>
@@ -177,11 +178,11 @@
                   </title>, <title>
                      <hi>Misterele căsătoriei</hi>
                   </title> şi altele tot ca aceltea"</quote>. Sînt incriminaţi, după cum vedem, cu excepţia lui Nicolae Filimon, mai toţi autorii de romane ai epocii: I. M. Bujoreanu, D. Bolintineanu, Al. Phelimon, C. D. Aricescu etc. cărora li se reproşază absenţa stilului. Atitudinea aceasta imprimă cărţii o amprentă prejunimistă decisă, evidentă.</p>
-            <gap unit="page" extent="19"/>
+            <gap n="[missing]" unit="page" quantity="19"/>
          </div>
          <div type="liminal">
             <head>NOTĂ ASUPRA EDIȚIEI</head>
-            <gap unit="page" extent="3"/>
+            <gap n="[missing]" unit="page" quantity="3"/>
          </div>
       </front>
       <body>
@@ -193,167 +194,313 @@
             <p>în scurt nişte mobile de simpli creeri, dar de ajuns.</p>
             <p>Aşezat înaintea unei mese, eu privesc cu un aer mulţumit un splendid soare care se joacă printre sticlele ferestrei mele.</p>
             <p>În acest timp, următorul dialog se angajează între oaspeţii creerilor mei, al căror scurt inventar avui plăcere a vi-l aşterne mai sus.</p>
-            <p><label>Lenea</label></p>
+            <p>
+               <label>Lenea</label>
+            </p>
             <p>Ce frumoasă, ce veselă zi! Bătrînii arbori din Băneasa cată să aibă în această dimineaţă reflecte de sărbătoare... Ia-ţi pălăria, bastonul şi vino cu mine, tu.</p>
-            <p><label>Raţiunea</label></p>
+            <p>
+               <label>Raţiunea</label>
+            </p>
             <p>N-o asculta! Editorele tău aşteaptă, chiar în această dimineaţă, primele făscioare ale cărţii ce tu i-ai promis. Au să mai fie zile frumoase! N-o asculta!</p>
-            <p><label>Lenea</label></p>
+            <p>
+               <label>Lenea</label>
+            </p>
             <p>Mîine va ploua, — şi aşa două lune necurmat... Ce mai lucru, cînd vei înegri cîteva pagine din o hîr-tie neofensivă; nu-ţi este ruşine să preferi frumuseţile îndoioase ale stilului tău, splendorilor strălucitoare ale naturei. Eu d-aci văd eîmpiile în cari înverzeşte griul nou. Masa e pusă la birt. Cotleta cîntă, frigîndu-se. Hossanah al lăcomiei! Vinul rîde în vesela butelie... Să plecăm, îţi zic, şi dă dracului secătura ta de volum!</p>
-            <p><label>Vanitatea</label></p>
+            <p>
+               <label>Vanitatea</label>
+            </p>
             <p>Secătură!... secătură!... Lesne de zis.</p>
-            <p><label>Raţiunea</label></p>
+            <p>
+               <label>Raţiunea</label>
+            </p>
             <p>Cînd cineva promite, împlineşte.</p>
-            <p><label>Lenea</label></p>
+            <p>
+               <label>Lenea</label>
+            </p>
             <p>Cînd soarele invită, cineva primeşte.</p>
-            <p><label>Voinţa</label></p>
+            <p>
+               <label>Voinţa</label>
+            </p>
             <p>Ei! bine, da!... la dracu!... Voi lucra, voi... (Lenea taie fraza printr-o căscătură).</p>
-            <p><label>Voinţa</label></p>
+            <p>
+               <label>Voinţa</label>
+            </p>
             <p>Intrerupţiunile tale nu vor ajunge niciodată la înălţimea dispreţiurilor mele.</p>
-            <p><label>Lenea</label></p>
+            <p>
+               <label>Lenea</label>
+            </p>
             <p>Un desfid!</p>
-            <p><label>Voinţa</label></p>
+            <p>
+               <label>Voinţa</label>
+            </p>
             <p>Ia-ţi pana, înmoai-o în cerneală, scrie un titlu...</p>
-            <p><label>Nehotărîrea</label></p>
+            <p>
+               <label>Nehotărîrea</label>
+            </p>
             <p>Un titlu... Un titlu... e lesne de zis... N-auzi? tu! Deşteaptă-te!</p>
-            <p><label>Imaginaţiunea</label></p>
+            <p>
+               <label>Imaginaţiunea</label>
+            </p>
             <p>Iar!... ce meserie!... ce vrei tu? Un subiect pentru carte?</p>
-            <p><label>Vanitatea</label></p>
+            <p>
+               <label>Vanitatea</label>
+            </p>
             <p>Da, ceva mai nou, mai original, mai viu, mai spiritual, mai...</p>
-            <p><label>Raţiunea</label></p>
+            <p>
+               <label>Raţiunea</label>
+            </p>
             <p>Cine vrea prea mult, n-are nimic.</p>
             <p>(Lenea face să s-audă o a doua căscătură)</p>
-            <p><label>Spiritul</label></p>
+            <p>
+               <label>Spiritul</label>
+            </p>
             <p>(care pînă aci strălucise numai prin lipsă-i).</p>
             <p>Ci aşteaptă ca să căşti momentul în care îţi vei reciti opera.</p>
-            <p><label>Vanitatea</label></p>
+            <p>
+               <label>Vanitatea</label>
+            </p>
             <p>Am prea mult bun gust ca să fac una ca asta.</p>
-            <p><label>Voinţa</label></p>
+            <p>
+               <label>Voinţa</label>
+            </p>
             <p>Aidi! titlul, un subiect!</p>
-            <p><label>Imaginaţiunea</label></p>
+            <p>
+               <label>Imaginaţiunea</label>
+            </p>
             <p>Ceva de-naltă fantezie... Ceva fantastic... <title>
                   <hi>Morții vii</hi>
                </title>.</p>
-            <p><label>Vanitatea</label></p>
+            <p>
+               <label>Vanitatea</label>
+            </p>
             <p>Prea frumos titul!</p>
-            <p><label>Raţiunea</label></p>
+            <p>
+               <label>Raţiunea</label>
+            </p>
             <p>Vesel mai cu seamă.</p>
-            <p><label>Imaginaţiunea</label></p>
+            <p>
+               <label>Imaginaţiunea</label>
+            </p>
             <p>Dacă e aşa ceva serios.<title>
                   <hi>Incercări asupra cauzelor decadinţei...</hi>
                </title>
             </p>
-            <p><label>Raţiunea</label></p>
+            <p>
+               <label>Raţiunea</label>
+            </p>
             <p>Publicul nu se mai înşeală cu aseminea încercări.</p>
-            <p><label>Imaginaţiunea</label></p>
+            <p>
+               <label>Imaginaţiunea</label>
+            </p>
             <p>Lăsaţi-mi dar timpul să caut altceva...</p>
-            <p><label>Lenea</label></p>
+            <p>
+               <label>Lenea</label>
+            </p>
             <p>(privind în tavan)</p>
             <p>Uite! o pînză de păianjin!... o muscă cade într-însa: Asta e prea curios... Oh! dar tot ce poate fi mai curios.</p>
-            <p><label>Imaginaţiunea</label></p>
+            <p>
+               <label>Imaginaţiunea</label>
+            </p>
             <p>O să mă laşi să lucrez?</p>
-            <p><label>Raţiunea</label></p>
+            <p>
+               <label>Raţiunea</label>
+            </p>
             <p>Douăsprezece ore şi jumătate, şi nici un rînd încă! E ceva scandalos!</p>
-            <p><label>Imaginaţiunea</label></p>
+            <p>
+               <label>Imaginaţiunea</label>
+            </p>
             <p>Asta nu este greşeala mea, nu-mi mai dau pace.</p>
-            <p><label>Lenea</label></p>
+            <p>
+               <label>Lenea</label>
+            </p>
             <p>Încîntător era prînzul de ieri... Şi acea mică damă blondă?</p>
-            <p><label>Raţiunea</label></p>
+            <p>
+               <label>Raţiunea</label>
+            </p>
             <p>Ea este înţeleaptă, domnule.</p>
-            <p><label>Vanitatea</label></p>
+            <p>
+               <label>Vanitatea</label>
+            </p>
             <p>Vorbă să fie!</p>
-            <p><label>Raţiunea</label></p>
+            <p>
+               <label>Raţiunea</label>
+            </p>
             <p>Fatuitate, nerodule. Ea nici nu te-a văzut.</p>
-            <p><label>Lenea</label></p>
+            <p>
+               <label>Lenea</label>
+            </p>
             <p>Nişte dinţi ca sideful.</p>
-            <p><label>Spiritul</label></p>
+            <p>
+               <label>Spiritul</label>
+            </p>
             <p>Ba ce!</p>
-            <p><label>Raţiunea</label></p>
+            <p>
+               <label>Raţiunea</label>
+            </p>
             <p>De vei mai urma te numesc... gogoman!</p>
-            <p><label>Vanitatea</label></p>
+            <p>
+               <label>Vanitatea</label>
+            </p>
             <p>Graţie! iertare!</p>
-            <p><label>Raţiunea</label></p>
+            <p>
+               <label>Raţiunea</label>
+            </p>
             <p>Cu condiţiune că vom începe să lucrăm.</p>
-            <p><label>Imaginaţiunea</label></p>
+            <p>
+               <label>Imaginaţiunea</label>
+            </p>
             <p>Am găsit!... un uvragiu de estetică... <title>
                   <hi>Arta privită în raporturile sale cu civilizaţiunea</hi>
                </title>.</p>
-            <p><label>Raţiunea</label></p>
+            <p>
+               <label>Raţiunea</label>
+            </p>
             <p>(cu asprime)</p>
             <p>Ai să treci drept nebun.</p>
-            <p><label>Imaginaţiunea</label></p>
+            <p>
+               <label>Imaginaţiunea</label>
+            </p>
             <p>Ce preferi dumneata?...</p>
-            <p><label>Raţiunea</label></p>
+            <p>
+               <label>Raţiunea</label>
+            </p>
             <p>Orice, — numai să fie altceva.</p>
-            <p><label>Imaginaţiunea</label></p>
+            <p>
+               <label>Imaginaţiunea</label>
+            </p>
             <p>O istorie a revoluţiunii din 1848.</p>
-            <p><label>Spiritul</label></p>
+            <p>
+               <label>Spiritul</label>
+            </p>
             <p>Ca să superi pe cei ce au luat parte într-însa şi i-au uitat principiile!</p>
-            <p><label>Raţiunea</label></p>
+            <p>
+               <label>Raţiunea</label>
+            </p>
             <p>Desigur îşi bat joc de mine aci!</p>
-            <p><label>Vanitatea</label></p>
+            <p>
+               <label>Vanitatea</label>
+            </p>
             <p>Cuvîntul nu este poate înţepător?</p>
-            <p><label>Conştiinţa</label></p>
+            <p>
+               <label>Conştiinţa</label>
+            </p>
             <p>(aparte)</p>
             <p>Sunt în dimineaţa asta tîmpită!...</p>
-            <p><label>Vanitatea</label></p>
+            <p>
+               <label>Vanitatea</label>
+            </p>
             <p>Mergi! Mergi!</p>
-            <p><label>Lenea</label></p>
+            <p>
+               <label>Lenea</label>
+            </p>
             <p>Te asigur că puţină preîmblare ţi-ar face bine... prea puţină... Cît timp îţi trebuie ca să fumezi o ţigară... In treacăt ne vom urca la...</p>
-            <p><label>Raţiunea</label></p>
+            <p>
+               <label>Raţiunea</label>
+            </p>
             <p>O oră, domnule, o oră!</p>
-            <p><label>Conştiinţa</label></p>
+            <p>
+               <label>Conştiinţa</label>
+            </p>
             <p>Cu toate acestea este adevărat. Dacă lectorele ar şti supliciul ce îndurăm pentru el.</p>
-            <p><label>Spiritul</label></p>
+            <p>
+               <label>Spiritul</label>
+            </p>
             <p>Cu condiţiunea de a ne răzbuna.</p>
-            <p><label>Vanitatea</label></p>
+            <p>
+               <label>Vanitatea</label>
+            </p>
             <p>Nu mai crez. După acum văz pe lectori dînd din cap cu mulţumire. Un surîs aprobător zboară pe buzele lor.</p>
-            <p><label>Voinţa</label></p>
+            <p>
+               <label>Voinţa</label>
+            </p>
             <p>Mergi! Mergi!</p>
-            <p><label>Imaginaţiunea</label></p>
+            <p>
+               <label>Imaginaţiunea</label>
+            </p>
             <p>Am găsit un titlu: <title>
                   <hi>Misterele căsătoriilor</hi>
                </title>.</p>
-            <p><label>Rațiunea</label></p>
+            <p>
+               <label>Rațiunea</label>
+            </p>
             <p>D. Aricescu (1862).</p>
-            <p><label>Lenea</label></p>
+            <p>
+               <label>Lenea</label>
+            </p>
             <p>Ah ba!... un păr alb... Trebuie să-l smulg... Hop! L-am smuls... Primul, vai! De unde vii tu, mizerabile? Au durerile inimei te-au deseolorat fără timp?... Durerile inimei! Aceasta mi-aduce a-minte pe mica damă blondă de ieri... Ea nu este din acelea care să admită în luxosul ei păr nişte asemenea nepoftiţi!</p>
-            <p><label>Raţiunea</label></p>
+            <p>
+               <label>Raţiunea</label>
+            </p>
             <p>Ea este înţeleaptă, domnule!</p>
-            <p><label>Vanitatea</label></p>
+            <p>
+               <label>Vanitatea</label>
+            </p>
             <p>Se ştie, tu ai spus-o deja.</p>
-            <p><label>Raţiunea</label></p>
+            <p>
+               <label>Raţiunea</label>
+            </p>
             <p>Ştii că te prinde să faci pe învingătorul! — Auzi acolo! Un om care începe a-şi smulge perii!</p>
-            <p><label>Voinţa</label></p>
+            <p>
+               <label>Voinţa</label>
+            </p>
             <p>Mergi! Mergi!</p>
-            <p><label>Imaginaţiunea</label></p>
+            <p>
+               <label>Imaginaţiunea</label>
+            </p>
             <p>Am nemerit... <title>
                   <hi>Bucureştii viitorului</hi>
                </title>.</p>
-            <p><label>Raţiunea</label></p>
+            <p>
+               <label>Raţiunea</label>
+            </p>
             <p>Ce norocire! N-aveam lipsă decît de a rumega.</p>
-            <p><label>Vanitatea</label></p>
+            <p>
+               <label>Vanitatea</label>
+            </p>
             <p>Ce-nţelegi dumneata prin acest infinitiv?</p>
-            <p><label>Rațiunea</label></p>
+            <p>
+               <label>Rațiunea</label>
+            </p>
             <p>înţeleg că ai timp să tratezi acest subiect altădată, mai tîrziu!</p>
-            <p><label>Lenea</label></p>
+            <p>
+               <label>Lenea</label>
+            </p>
             <p>Şi de ce oare să nu înceapă acum?</p>
-            <p><label>Vanitatea</label></p>
+            <p>
+               <label>Vanitatea</label>
+            </p>
             <p>Cu neputinţă! Lumea se ocupă prea mult de prezinte şi prezintele este prea demn de a se ocupa da dînsul, ca să o poată momi viitorul.</p>
-            <p><label>Raţiunea</label></p>
+            <p>
+               <label>Raţiunea</label>
+            </p>
             <p>Două ore şi hîrtia este încă virgină!...</p>
-            <p><label>Lenea</label></p>
+            <p>
+               <label>Lenea</label>
+            </p>
             <p>Negreşit; această cadră este pusă strîmb. Cu toate acestea recomandasem să n-o mişte din loc... Este gingaş acest tablou. Un colţ de peisaj... Un lac... Soare... Ar zice cineva că este lacul de la... zău, mi-am uitat... Ţii tu minte?... Dacă m-ai fi ascultat, poate am fi fost acolo acum.</p>
-            <p><label>Conştiinţa</label></p>
+            <p>
+               <label>Conştiinţa</label>
+            </p>
             <p>Datoria te leagă.</p>
-            <p><label>Imaginaţiunea</label></p>
+            <p>
+               <label>Imaginaţiunea</label>
+            </p>
             <p>În van caut, nemic...</p>
-            <p><label>Lenea</label></p>
+            <p>
+               <label>Lenea</label>
+            </p>
             <p>Așa se cade</p>
-            <p><label>Imaginaţiunea</label></p>
+            <p>
+               <label>Imaginaţiunea</label>
+            </p>
             <p>Renunţ.</p>
-            <p><label>Raţiunea</label></p>
+            <p>
+               <label>Raţiunea</label>
+            </p>
             <p>Aşa tu nu ţi-ai ţine cuvîntul?...</p>
-            <p><label>Imaginaţiunea</label></p>
+            <p>
+               <label>Imaginaţiunea</label>
+            </p>
             <p>(cu descurajare)</p>
             <p>Atunci dar, fă un roman!...</p>
             <p>Raţiunea era negreşit să replice la această exclamaţiune supremă, dar răspunsul său fu tăiat printr-o lovitură seacă dată în uşa mea.</p>
@@ -390,7 +537,7 @@
             <p>— Ea va fi, domnule, îmi fac o glorie.</p>
             <p>Este ceea ce m-a hotărît să o despart în mai multe părţi, din care am onoarea a vă supune pe cea dintîi.</p>
             <p>Bravul om îmi arată manuscrisul care mă înspăi-mîntase aşa de mult.</p>
-            <p>Nu mai era mijloc de a-1 evita; mă înclinai.</p>
+            <p>Nu mai era mijloc de a-l evita; mă înclinai.</p>
             <p>— Domnule, adăugă el, cu totul în contra opiniunii ce Racine a expres într-un vers celebru, eu crez cu tărie că începutul în orice lucru este tot ce poate fi mai dificile.</p>
             <p>Am crezut dar de a mea datorie să fac o dezvoltare cu totul specială acestui punt al lucrării mele.</p>
             <p>Eu o intitulez: <hi>Arta de a începe un roman.</hi>
@@ -431,7 +578,7 @@
                <hi>Model</hi> — Nemărginitele cîmpii ale Soloniei, formez unul din peisajele cele mai întristătoare ce a putut cineva întîlni, străbătînd lumea.</p>
             <p>Ele nu sînt decît pustii, bălării, brazi.</p>
             <p>Mai cu seamă în împrejmuirile Salbrisului, natura are un aspect foarte pitoresc.</p>
-            <p>O mică gîrliţă, Saudre, udă ca cu părere de rău acest colţ de pămînt, şi se simte în neputinţă a-1 fertiliza.</p>
+            <p>O mică gîrliţă, Saudre, udă ca cu părere de rău acest colţ de pămînt, şi se simte în neputinţă a-l fertiliza.</p>
             <p>în împrejurimile dar ale acestui orăşel, trecătorul vedea încă, acu cinci ani, un castel ruinat în care locuia contele de... etc.</p>
             <milestone rend="dots" unit="subchapter"/>
             <p>Al patrulea stil — Stilul humoristic</p>
@@ -546,7 +693,7 @@
             <p>El părea cufundat într-o reverie profundă.</p>
             <p>—-.Ei bine! Scumpul meu visător... nu mă mai recunoşti?</p>
             <p>— Dec, tu eşti!... Iartă-mă, sfîrşesc un sonet îm-blînd.</p>
-            <p>— Nu-1 vei sfîrşi înainte de a răspunde la o chestiune prea importantă pentru mine.</p>
+            <p>— Nu-l vei sfîrşi înainte de a răspunde la o chestiune prea importantă pentru mine.</p>
             <p>— Care?</p>
             <p>— Ce cugeţi despre amor?</p>
             <p>— Dec! o rimă masculină la bujor, picior, mosor, zăvor, urcior.</p>
@@ -570,7 +717,7 @@
             <p>— Dumneata, domnule lipţcan?</p>
             <p>— In fiece an, unul peste altul, o sută bucăţi de moarantic, foarte lat.</p>
             <p>—Dumneata, romanţiarule?</p>
-            <p>— Este desgustător... să te speteşti în simţimînt pentru ca să nu găseşti un librar să ţi-1 cumpere.</p>
+            <p>— Este desgustător... să te speteşti în simţimînt pentru ca să nu găseşti un librar să ţi-l cumpere.</p>
             <p>— Dumneata, puşcaşule?</p>
             <p>— Cîteva pistoale din cînd în cînd... dar nici sinucidul, nici duelurile n-au căutare la noi!...</p>
             <p>— Dumneata actorule?</p>
@@ -781,7 +928,7 @@
             <p>Ajungînd înaintea porţii şi după ce ea se închise, Stavrache se aşeză pe trotoriu, cu nasul în aer, cu ochii visători.</p>
             <p>— Ea mă va zări printre aluzia sa, şi poate un bilet...</p>
             <p>Nici un bilet nu veni; dar veni mai întîi o ploaie repede, apoi un sergent de noapte.</p>
-            <p>Ploaia străbătu pînă la piele pe suspinătorul amorez; sergentul de noapte luîndu-1 drept un pungaş, îl pofti să-şi caute de drum.</p>
+            <p>Ploaia străbătu pînă la piele pe suspinătorul amorez; sergentul de noapte luîndu-l drept un pungaş, îl pofti să-şi caute de drum.</p>
             <p>Stavrache dispreţui ploaia; cît despre sergent... <hi>să baţi paznicul</hi>, ce frumoasă fortună pentru un erou de roman. El răspunse printr-o ameninţare. Paznicul care avea pumnul ţeapăn, răspunse printr-o apucătură de păr... cea ce este foarte comun la noi.</p>
             <p>Stavrache petrecu noaptea la arest, si cătă să se găsească fericit că n-a făcut cunoştinţă cu Tribunalul Corecţionale.</p>
             <p>Este adevărat că el fu bolnav în pat o săptămînă din cauza guturaiului ce-i procurase ploaia citată mai sus.</p>
@@ -805,7 +952,7 @@
             <p>— Scumpul meu unchi, aşa cum vezi, numai am nici o para. Am trăit cît se poate mai bine; am suspinat, am visat, am iubit, m-am luptat. Viu a cere să-ţi împlineşti datoriile de rudenie înaintîndu-mi cîţi-va...</p>
             <p>Acest exordiu <foreign>
                   <hi>ex abrupto</hi>
-               </foreign>, împrumutat de la mai multe volume, nu se terminase încă, şi unchiul trăgea clopoţelul, şi arătîndu-1 pe nepotul său feciorului:</p>
+               </foreign>, împrumutat de la mai multe volume, nu se terminase încă, şi unchiul trăgea clopoţelul, şi arătîndu-l pe nepotul său feciorului:</p>
             <p>— Ioane, dă afară pe dumnealui pe uşă sau pe fereastră, cum i-o plăcea.</p>
             <p>
                <label>VI</label>
@@ -864,7 +1011,7 @@
             <p>— Mulţumesc, îmi vei sfîrşi vorba asta altă dată.</p>
             <p>— Ah! dar eu nu voi să te calomnieze...</p>
             <p>— Altădată, Anico, altădată!...</p>
-            <p>In fine, iată-mă în drum. De aci pînă la Filaret, cu un aseminea timp, îmi trebuie abia o jumătate de oră. Afară din astea nu e rău să-mi dau puţină mişcare... Emoţiunea mea s-ar învoi rău cu imobilitatea... Ea este aşa de gingaşă!... Nişte ochi, un nas, o gură!... şi un păr! un păr pe care-1 coafează cu un gust... Eu nu sunt nicidecum bine coafat... Zării într-o oglindă afurisita gioarsă... Şi cînd gîndiesc că am să ofer braţul meu unei asemenea silfide ca să o conduc la Circ!</p>
+            <p>In fine, iată-mă în drum. De aci pînă la Filaret, cu un aseminea timp, îmi trebuie abia o jumătate de oră. Afară din astea nu e rău să-mi dau puţină mişcare... Emoţiunea mea s-ar învoi rău cu imobilitatea... Ea este aşa de gingaşă!... Nişte ochi, un nas, o gură!... şi un păr! un păr pe care-l coafează cu un gust... Eu nu sunt nicidecum bine coafat... Zării într-o oglindă afurisita gioarsă... Şi cînd gîndiesc că am să ofer braţul meu unei asemenea silfide ca să o conduc la Circ!</p>
             <p>Cerule! capul meu de birou!... Eu care am pretextat un violinte guturai ca să cîştig această zi de independinţă... Să ne ascundem după această poartă ca să-l lăsăm să treacă...</p>
             <p>Bun! se opreşte ca să citească afişurile de teatru! Aceste lucruri nu mi se-ntîmplă numai mie... El îşi caută ochelarii ca să descifreze nişte litere d-un cot de mari, şi ţin aseminea orbi în administraţiune în loc de a da postul lor la nişte amploiaţi cari, ca mine... Desigur, învaţă ceva pe de rost... In acest timp, ora zboară şi trage un vînt după această poartă... El se duce, mulţumim... Iată ajutorul său!... D-or lungi-o la vorbă... Ajutorul îi dă o scrisoare; el îşi caută din nou ochelarii... Trebuie să stau cel puţin încă 35 minute... Dumnezeu fie binecuvîntat, se depărtează citind...</p>
             <p>Să-ndoim pasul căci de nu, vom întîrzia...</p>
@@ -1428,7 +1575,7 @@
             <p>Domnul aşteaptă pe doamna care a ieşit ca să-şi cumpere cîte ceva.</p>
             <p>Doamna intră.</p>
             <p>— Ce mult ai întîrziat, Lizico.</p>
-            <p>— Da; am întîrziat într-o magazie... Şi apoi am întîlnit pe d. Costică, un amic al familiei noastre... ¡un fecior de boier cu stare... Şi asta nu-1 opreşte de a lucra.</p>
+            <p>— Da; am întîrziat într-o magazie... Şi apoi am întîlnit pe d. Costică, un amic al familiei noastre... ¡un fecior de boier cu stare... Şi asta nu-l opreşte de a lucra.</p>
             <p>— Ah!</p>
             <p>— Da; este cap de secţie într-un minister.</p>
             <p>— Ah! ah!</p>
@@ -1640,7 +1787,7 @@
             <p>îngrijeşte ca să avem lăutari și vinuri în discreţiune; iar cît pentru ceea ce mai trebuieşte. trămite-mi vreo doisprezece napoleoni.</p>
             <p>Ma însărcinez cu celelalte, adică cu veselia şi pofta de mîncare. Cum să sfîrşească mai bine anul decît cu tine?</p>
             <p>Alexandrina,</p>
-            <p>NOTA: Calendarul Alexandrinei fiind un calendar perpetuu, cînd cineva-1 sfîrşeşte îl ia iar de început.</p>
+            <p>NOTA: Calendarul Alexandrinei fiind un calendar perpetuu, cînd cineva-l sfîrşeşte îl ia iar de început.</p>
          </div>
          <div type="chapter">
             <head>XIII.ROMANUL VECINEI</head>
@@ -1678,9 +1825,9 @@
             <p>Zorile cătau să mă despăgubească de toate aceste suferinţe...</p>
             <p>Ea apăru.</p>
             <p>Tot cochetă, drăgălaşă, incendiară! Inima mea bătea marşul de război al simţimîntului.</p>
-            <p>Ochiul meu se silea a se risipi în evaporaţiuni de magnet. Cheltuii tot magnetismul ce-1 aveam în mine în acea zi.</p>
+            <p>Ochiul meu se silea a se risipi în evaporaţiuni de magnet. Cheltuii tot magnetismul ce-l aveam în mine în acea zi.</p>
             <p>Judecă beţia mea, cînd crezui a surprinde un gest care era o adorabilă încuragiare.</p>
-            <p>Mă coborîi să cumpăr un buchet mare pe care i-1 transmisei fără semnătură.</p>
+            <p>Mă coborîi să cumpăr un buchet mare pe care i-l transmisei fără semnătură.</p>
             <p>Lucrul îmi părea cu mult mai nobil.</p>
             <p>Dă-mi un chibrit...</p>
             <p>Buchetul fiind odată primit, urmă Ghizdureanu, aş fi crezut că scad în ochii mei, dacă într-o dimineaţă numai n-aş fi urmat cu acea trămitere din ce în ce mai mult anonimă.</p>
@@ -1776,7 +1923,7 @@
             <p>Deci nu lipsi să te afli diseară la grădină la Scufa. unde am găsit de cuviinţă să încheiem practicaoa anaforalei hamorului.</p>
             <p>Uitam să-ţi spui că azi de dimineaţă, trecînd prin Lipscani, am văzut la o boltă un şal de ţeara turcească, de mi-a rămas inima la dînsul.</p>
             <p>Oh! am zis în sine-mi, cît de bine are să-i şază Afroditei mele, cînd s-o plimba de braţetă cu mine, înfăşurată într-însul.</p>
-            <p>Aşadar şi prin urmare nu uita că diseară poate să ţi-1 şi aduc.</p>
+            <p>Aşadar şi prin urmare nu uita că diseară poate să ţi-l şi aduc.</p>
             <p>E cu cîmpul <foreign>ceadiriu</foreign>, şi <foreign>ceadiriul</foreign> te face aşa de nostimă, hanîma mea!</p>
             <p>Să mă vezi întins pe masă dacă n-ai veni.</p>
             <p>
@@ -1821,7 +1968,7 @@
             <p>
                <label>I</label>
             </p>
-            <p>Stamatache pe care vi-1 prezint pe lîngă averea lui cunoscută, are îndoita profesiune de avocat şi samsar, care îi raportă mult. Este de observat că aceste profesiuni unite la un loc au dat întotdeauna un venit destul de recomandabile.</p>
+            <p>Stamatache pe care vi-l prezint pe lîngă averea lui cunoscută, are îndoita profesiune de avocat şi samsar, care îi raportă mult. Este de observat că aceste profesiuni unite la un loc au dat întotdeauna un venit destul de recomandabile.</p>
             <p>Signalementele lui Stamatache: Puţin cam gras — dar urît, şi cu pretenţiuni cu atît mai exorbitante.</p>
             <p>Stamatache e însurat.</p>
             <p>Semn care n-are nimic particular: Stamatache înşeală pe nevastă-sa avînd de amantă o aetrifă de la opera italiană.</p>
@@ -2102,7 +2249,7 @@
                <hi>Domnule, eşti un infam</hi>, sau <hi>eu nu sunt decît o femeie slabă</hi>, cată să fie rezervaţi pentru marile solemnităţi, de exemplu pentru cazul în care el vrea s-o lase şi în care ţine să facă ca el să-i dea un adio sunător.</p>
             <p>6. Adjectivul <hi>posesiv</hi> este acela care exprimă ideea posesiunii.</p>
             <p>Observaţiune particulară: — nu trebuie să întrebuinţeze cineva adjectivul posesiv cînd sensul indică lămurit care este obiectul posesor.</p>
-            <p>Astfel, nu se zice: mă doare capul meu, sensul nefiind îndoios; dar se poate zice: mi-am <hi>ars părul meu coafîndu-mă</hi>, ca să se deosebească de cel pe care-1 cumpără de la coafor.</p>
+            <p>Astfel, nu se zice: mă doare capul meu, sensul nefiind îndoios; dar se poate zice: mi-am <hi>ars părul meu coafîndu-mă</hi>, ca să se deosebească de cel pe care-l cumpără de la coafor.</p>
             <p>
                <label>IV</label>
             </p>
@@ -2379,7 +2526,7 @@
             <note>15 Aluzie ironică la romanul <hi>Doritorii nebuni</hi> de Bolintineanu care se publica în 1864 la rubrica „foileton“ din noua serie a jurnalului <hi>Dâmboviţa</hi>, reapărut în acelaşi an sub conducerea scriitorului Grigore Haralamb Grandea. Săgeţi satirice asemănătoare împotriva lui Bolintineanu şi Gr. H. Grandea arunca în aceaaşi epocă Radu Ionescu în paginile revistei <hi>Sarivari român</hi> (a se vedea articolele <hi>Cronică literară şi teatrală</hi>, în nr. 3 din 7 ian. 1865; O <hi>odă tulburătoare</hi> în nr. 5 din 31 ian. 1865; <hi>Mînia „Dâmboviţei"</hi> în nr. 4, 29 ianuarie 1965).</note>
             <note>16 <hi>Exordium ex abrubto</hi> (lat.) — intrare directă, fără introducere în subiect. Este un procedeu oratoric care a devenit celebru în urma utilizării lui de către Cicero în primul său discurs împotriva lui Catilina.</note>
             <note>17 <hi>Quantum mutatus</hi> (lat) — Cît de mult s-a schimbat! Expresia aparţine lui Eneas atunci cînd îl revede pe viteazul Hector în vis plin de răni, în <hi>Eneida</hi> de Virgiliu. Expresia respectivă, în forma ei completă — <hi>Quantum mutatus ab illui</hi> — o găsim utilizată în aceeaşi epocă de către Radu Ionescu în <hi>Sarivari român</hi> (nr. 4 din 31 ian. 1865), pentru a-şi exprima uluirea cu privire la decăderea poeziei lui Bolintineanu.</note>
-            <note>18 Refrenele care marchează încheierea fiecărei părţi a acestui capitol par a fi construite prin contrast cu cele din <hi>Cîntic de moarte</hi>, tradus de Radu Ionescu din poezia turcă, în studiul <hi>D-na Dora d’Istria, III</hi>.</note>
+            <note>18 Refrenele care marchează încheierea fiecărei părţi a acestui capitol par a fi construite prin contrast cu cele din <hi>Cîntic de moarte</hi>, tradus de Radu Ionescu din poezia turcă, în studiul <hi>D-na Dora d-Istria, III</hi>.</note>
             <note>
                <hi>Femeile în Oriente</hi> (în Révisa Română, aprilie 1862, p. 34). Această imprseie este întărită şi de comparaţia fetei de aici cu o sultană favorită, cum era de fapt şi autoarea <hi>Cînticului de moarte</hi> tradus.</note>
             <note>
@@ -2404,7 +2551,7 @@
             <note>
                <hi>nécessaire</hi> (fr.) — trusă de obiecte indispensabile unui anumit scop, aici pentru toaleta unei femei.</note>
             <note>30 <hi>„fără să fiu doctor în litere"</hi> — aluzie ironică la patalamalele universitare. Aceste aluzii se potrivesc situaţiei biografice a lui Radu Ionescu. El a făcut studii în litere şi filosofic, fără să fi obţinut însă atestări universitare cum îi cerea Heliade în acest sens.</note>
-            <note>31 „gramatica d. Ioniţă Poppu — E vorba despre <hi>Grămatică rumânească</hi>... <hi>priimitâ în clasurile de începători</hi>, care Intre 1835—1858 a cunoscut nu mai puţin de 14 ediţii, variind între 80—120 p., fapt la care face aluzie autorul a-aonim. Ioan Popp, coleg cu Heliade la Sf. Sava, şi conti4 nuator al acestuia în problemele predării gramaticii aici si după Revoluţia de la 1848, este autor şi al altor lucrări precum <hi>Lecţii de analisă logică culese şi aşezate în româneşte de.</hi>.. şi <hi>Tractat de punctuaţiune.</hi> La ambele face în continuare aluzii autorul nostru anonim, care se declară a-1 fi fost lui Ioan Popp elev, şi încă unul foarte apropiat („taică Popp“). După cum se ştie, Radu Ionescu a fost şi el în această perioadă elev la Sf. Sava.</note>
+            <note>31 „gramatica d. Ioniţă Poppu — E vorba despre <hi>Grămatică rumânească</hi>... <hi>priimitâ în clasurile de începători</hi>, care Intre 1835—1858 a cunoscut nu mai puţin de 14 ediţii, variind între 80—120 p., fapt la care face aluzie autorul a-aonim. Ioan Popp, coleg cu Heliade la Sf. Sava, şi conti4 nuator al acestuia în problemele predării gramaticii aici si după Revoluţia de la 1848, este autor şi al altor lucrări precum <hi>Lecţii de analisă logică culese şi aşezate în româneşte de.</hi>.. şi <hi>Tractat de punctuaţiune.</hi> La ambele face în continuare aluzii autorul nostru anonim, care se declară a-l fi fost lui Ioan Popp elev, şi încă unul foarte apropiat („taică Popp“). După cum se ştie, Radu Ionescu a fost şi el în această perioadă elev la Sf. Sava.</note>
             <note>32 Aluzi ironice la scrierile din ultimul timp ale lui <hi>I. Heliade Rădulescu</hi> (1802—1872) şi <hi>Al. Depărăţeanu</hi> (1834— 1865). Aceste aluzii merg pe linia mai vechii polemici a lui Radu Ionescu dusă cu Heliade şi emulii săi în paginile jurnalului <hi>Dâmboviţa</hi> (a se vedea In acest sens articolele <hi>D. Heliade şi 11 iunie</hi> şi <hi>D. Heliade</hi> în <hi>Dâmboviţa</hi> nr. 67 şi nr. 72/1860, cît şi articolul <hi>Politica defăimătorilor lui Heliade</hi> de Al. Depărăţeanu publicat în broşura <hi>Acte proprii a contribui la mărirea conduitei politice a d. I. Eliad Ră-ăulescu, părintele naţiunei.</hi> Redactate şi editate pe speselie mai multor juni români, Bucureşti, 1859).</note>
             <note>33 Aluzia de aici se pare a nu fi lipsită de unele temeiuri biografice. Anul 1857 este anul plecării în străinătate a lui Radu Ionescu, plecare precedată de o acută dramă sentimentală, după cum reiese din unele aluzii ironice la adresa lui din partea unui coleg de la Sf. Sava ea N. T. Grăşanu. In ideea unei retrospective, acesta îl pune pe Radu Ionescu să exclame „în faţa unei oglinde“: „Craidonul de mine! Amorul! Pasiunile! Visuri dulci ale juneţei mele d* aur... ba nu, ale juneţei mele fără aur...“ (Cicală, nr. 3, din 21 februarie 1865). Aceste dezvăluiri se află într-o simetrie perfectă cu ceea ce i se întîmplă eroului central al romanului, şi el părăsit de femeia iubită pentru aur, părăsire situată şi ea tot într-o viziune retrospectivă faţă de anul 1860.</note>
             <note>34 Problematica idealului va reveni insistent de aici înainte în desfăşurarea naraţiunii. Această problematică se arată a fi centrală, am putea spune obsesivă în întreaga creaţie a lui R. Ionescu.</note>
