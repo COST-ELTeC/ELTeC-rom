@@ -10,7 +10,6 @@ val-l2:
 val-l1:
 	${j1} ../level1-fixed/*.xml
 
-
 fix-l1:
 	nice find ../level1/ -name 'ROM*.xml' | $P --jobs 10 \
 	'$s -xsl:fix_level1.xsl {} > level1-fixed/{/}; ${j1} level1-fixed/{/}'
