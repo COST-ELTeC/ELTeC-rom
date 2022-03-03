@@ -1,18 +1,25 @@
 chars:
-	rm -f ../slv-fchars.txt
-	nice find ../Anal/ -name 'SLV*.txt' | \
-	$P --jobs 24 chars.pl {} >> ../slv-fchars.txt
-	chars-summ.pl < ../slv-fchars.txt > ../slv-chars.txt
+	rm -f chars-files.txt
+	ls text/ROM*.txt | $P --jobs 24 \
+	'chars.pl {} >> chars-files.txt'
+	chars-summ.pl < chars-files.txt > chars.txt
 tei2text:
-	./eltec2text.pl ../../level1 ../Anal
+	nice find ../level1 -name 'ROM*.xml' | $P --jobs 10 \
+	'$s -xsl:eltec2text.xsl {} > text/{/.}.txt'
+tags:
+	rm -f tags.*
+	nice find ../level1 -name 'ROM*.xml' | $P --jobs 10 \
+	'$s -xsl:tagcount2.xsl {} >> tags.tmp'
+	cut -f1 tags.tmp | sort | uniq > tags.lst
+	rm -f tags.tmp
+fix-l1:
+	nice find ../level1/ -name 'ROM*.xml' | $P --jobs 10 \
+	'$s -xsl:fix_level1.xsl {} > level1-fixed/{/}; ${j1} level1-fixed/{/}'
 val-l2:
 	${j2} ../level2/*.xml
 val-l1:
 	${j1} ../level1-fixed/*.xml
 
-fix-l1:
-	nice find ../level1/ -name 'ROM*.xml' | $P --jobs 10 \
-	'$s -xsl:fix_level1.xsl {} > level1-fixed/{/}; ${j1} level1-fixed/{/}'
 
 ####################3
 s = java -jar /usr/share/java/saxon.jar
