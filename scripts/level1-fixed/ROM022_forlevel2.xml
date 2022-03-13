@@ -56,10 +56,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender chey="M"/>
-            <e:size chey="short"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <e:timeSlot chey="T3"/>
+            <e:authorGender key="M"/>
+            <e:size key="short"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <e:timeSlot key="T3"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -1469,7 +1469,7 @@
             <p>- FINE -</p>
          </div>
       </body>
-      <bacch>
+      <back>
          <div type="notes">
             <note>Unii zic că Jianu ar fi ajutat cu mulți bani pe Tudor Vladimirescu la îndeplinirile lui de revoluționar. „Autorul".</note>
             <note>La jumătatea adâncimei acestui puț a cărui urmă i se cunoaște și astăzi, era vizuina unui șarpe gigante care eșea din când în cândpentru a-și găsi prada sa. astfel că într-o zi mai mulți copii eșiră la câmp pentru a să juca. Din nenorocire unul din ei căzu în acest puț unde părinții lui îl găsi înfășurat de șarpele care-l sugea, și nu-i scoase de cât mort. Iar șarpele se făcu nevăzut; unde? nu se știe.</note>
@@ -1611,6 +1611,6 @@
                   <hi>Idem</hi>.............52</p>
             </div>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

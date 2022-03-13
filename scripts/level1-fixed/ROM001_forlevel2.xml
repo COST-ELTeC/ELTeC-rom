@@ -52,10 +52,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender chey="U"/>
-            <e:size chey="short"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <e:timeSlot chey="T3"/>
+            <e:authorGender key="U"/>
+            <e:size key="short"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <e:timeSlot key="T3"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -471,10 +471,10 @@
             <trailer>FINE</trailer>
          </div>
       </body>
-      <bacch>
+      <back>
          <div type="notes">
             <note>Această nuvelă este întocmită după o narațiune germană.</note>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

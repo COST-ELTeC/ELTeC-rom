@@ -67,10 +67,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender chey="U"/>
-            <e:size chey="short"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <e:timeSlot chey="T3"/>
+            <e:authorGender key="U"/>
+            <e:size key="short"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <e:timeSlot key="T3"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -693,7 +693,7 @@
             <p>Fie ca părintele în viață și pe patul morței sale, să nu învețe și să nu lase copilului să  altă moștenire mai sfîntă de cât: Iubirea nesfârșita a poporului și ura fără de margini a vrășmașilor noștri!</p>
          </div>
       </body>
-      <bacch>
+      <back>
          <div type="liminal">
             <p>IN EDITURA LIBRĂRIEI</p>
             <p>H. STEINBERG</p>
@@ -723,6 +723,6 @@
             <p>Preciul 5 lei.</p>
             <p>Costul se poate înainta in mărci poștale (în plic recomandat) și domnii prenumărați vor primi cartea francată și recomandată.</p>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

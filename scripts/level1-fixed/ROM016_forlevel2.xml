@@ -52,10 +52,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender chey="M"/>
-            <e:size chey="short"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="high"/>
-            <e:timeSlot chey="T1"/>
+            <e:authorGender key="M"/>
+            <e:size key="short"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+            <e:timeSlot key="T1"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -1946,7 +1946,7 @@
             </div>
          </div>
       </body>
-      <bacch>
+      <back>
          <div type="notes">
             <note>În textul original: întrepta <hi>(n.e.)</hi>
             </note>
@@ -1957,6 +1957,6 @@
             </note>
             <note>în textul de bază lipsește probabil o replică <hi>(n.e.)</hi>.</note>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

@@ -60,10 +60,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender chey="X"/>
-            <e:size chey="short"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <e:timeSlot chey="T4"/>
+            <e:authorGender key="X"/>
+            <e:size key="short"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <e:timeSlot key="T4"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -769,7 +769,7 @@
          </div>
          <trailer>FINE</trailer>
       </body>
-      <bacch>
+      <back>
          <div type="liminal">
             <p>TABLA DE MATERIE</p>
             <p>1. Rochia de Mireasă</p>
@@ -792,6 +792,6 @@
             <p>Eteriile Greco-Slave erau niște societăți secrete eare lucrau pentru independența Grecilor.</p>
             <p>1) După I. E. Rădulescu și loan Ghicha, Aleeu Vodă șuțu ar fi murit la 29 Decembrie 1820.</p>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

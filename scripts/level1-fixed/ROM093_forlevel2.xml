@@ -56,10 +56,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender chey="M"/>
-            <e:size chey="short"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="high"/>
-            <e:timeSlot chey="T4"/>
+            <e:authorGender key="M"/>
+            <e:size key="short"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+            <e:timeSlot key="T4"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>

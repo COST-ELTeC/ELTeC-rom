@@ -52,10 +52,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender chey="M"/>
-            <e:size chey="short"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <e:timeSlot chey="T3"/>
+            <e:authorGender key="M"/>
+            <e:size key="short"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <e:timeSlot key="T3"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -1012,7 +1012,7 @@
          </div>
          <milestone unit="footer" type="lines"/>
       </body>
-      <bacch>
+      <back>
          <div type="liminal">
             <p>TABLA DE MATERIE</p>
             <p>Pag.</p>
@@ -1029,6 +1029,6 @@
             <p>„ XI Foametea cea mare............123</p>
             <p>„ XII Pârlea Vodă..................130</p>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

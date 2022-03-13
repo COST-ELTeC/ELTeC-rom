@@ -56,10 +56,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender chey="M"/>
-            <e:size chey="short"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <e:timeSlot chey="T4"/>
+            <e:authorGender key="M"/>
+            <e:size key="short"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <e:timeSlot key="T4"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -804,7 +804,8 @@
             <p>și ce o fi cătat ea acolo? se întrebă el, și nu-și mai răspunse, și uită, ca să se gândească nelămurita mai departe, la cele ce aveau să vie pentru propășirea neamului Dumbărău.</p>
          </div>
          <div type="chapter">
-            <head>Pentru a-și vedea singuri chipul cei care izbuteau la alegeri odinioară, și pentru a le răscoli și împros-păta plăcutele amintiri</head>a            <p>Balta, capitala județului Balta, oraș mic, răvășit între codrii Neagău și câmpii cu pământ negru, era în fierberea alegerilor de deputăție.</p>
+           <head>Pentru a-și vedea singuri chipul cei care izbuteau la alegeri odinioară, și pentru a le răscoli și împros-păta plăcutele amintiri</head>
+	    <p>Balta, capitala județului Balta, oraș mic, răvășit între codrii Neagău și câmpii cu pământ negru, era în fierberea alegerilor de deputăție.</p>
             <p>Ca ea, toată țara avea să aleagă oameni cinstiți, muncitori, drepți și mintoși, care îi cunoșteau ne-voile și slăbiciunile, și erau în stare să jertfească vremea lor pentru binele patriei.</p>
             <p>Trădarea națională, care trântise guvernul, acum nu mai avea nici o trecere. De altminteri, ce le-ar fi păsat Băltenilor de un lucru care nu-i păgubea deadreptul pe ei? Interesele județului și ale Co-munei, adică ale fiecăruia din ei, erau în joc, și ele cereau ca Matei Dumbărău, candidatul guvernului, să iasă în alegeri, pentrucă era ministru, adică în stare să împartă slujbe, subvenții și gheliruri. și câte afaceri nu se puteau face prin mijlocirea lui!</p>
             <p>In doo rânduri se votase în consiliul comunal canalizarea orașului, și banii fuseseră împărțiți între consilieri. Pavarea urbei, aducerea apei dela munte, câte nu se putea vota și câți bani nu puteaa să-și î npartă cei chemați să conducă trebile!</p>
@@ -1217,7 +1218,7 @@
             <p>In odaia de alături, ciondăneala străveche dintre bătrâni începuse. Iancu adormise, cu pantalonii pe el, întins în pat peste plapuma sfâșiată și veche, și horăia cumplit. în sunetul de râșniță stricată, Mihai nu se simțea îndemnat să se culce, și adormi într-un târziu la fereastră, cu capul odihnit pe coate, ca pe o masă de tavernă.</p>
          </div>
       </body>
-      <bacch>
+      <back>
          <div type="liminal">
             <head>O LĂMURIRE NECESARĂ</head>
             <p>Atât de scumpe sunt astă-zi la noi hârtia și tiparul că nu m-am încumentat sa public într-un singur volum, romanul <title>„Orașul Bucuriei”</title>. Cititorii, în de-obște cunoscători ai limbii franceze, far fi preferat sa dea mai, de grabă 15 sau 20 de lei pe o carte de <foreign>Bourget</foreign>, de pildă, de cât să cumpere lucrarea d-lui Demetrius. L-am rupt așa dar în jumătate. Prima parte poartă titlul său cel vechiu, iar a doua se va numi <title>„Matei Dumbărău”</title>, după numele propriu al eroului.</p>
@@ -1225,6 +1226,6 @@
             <p>Așa dar, <title>„Matei Dumbărău”</title> va fi continuarea și sfâr-șitul romanului <title>„Orașul Bucuriei”</title> și se va găsi de vânzare la toate librăriile.</p>
             <p>EDITORUL.</p>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

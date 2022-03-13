@@ -62,10 +62,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender chey="M"/>
-            <e:size chey="medium"/>
-            <e:reprintCount chey="high"/>
-            <e:timeSlot chey="T2"/>
+            <e:authorGender key="M"/>
+            <e:size key="medium"/>
+            <e:reprintCount key="high"/>
+            <e:timeSlot key="T2"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -3736,7 +3736,7 @@
             </div>
          </div>
       </body>
-      <bacch>
+      <back>
          <div type="liminal">
             <head>EPILOG.</head>
             <p>Din opincar, Mare Spătar.</p>
@@ -3790,6 +3790,6 @@
             <p>Acest soț fericit era Gheorghe, fostul vătaf de curte al comisului 377) Andronache Tuzluc; era acel june mărinimos ce l-am văzut sacrificându-se, ca să scape pe stăpânul său de sărăcie și de rușine. El venea să arate Românilor, că este de ajuns ca omul să fie bun și înzestrat de natură cu virtuți și inteligență și fie condițiunea sa oricât de obscură la început, el va ajunge la mărire. Cât despre juna sa soție, ea era frumoasa Maria, fata Banului C..., care de și iubise pe Gheorghe cu multă pasiune, dar preferase mai bine moartea decât o fericire trecătoare și dobândită prin călcarea datoriilor sale de bună fiică; suferințele și desperarea ei erau acum răsplătite de ajuns.</p>
             <trailer>-FINE-</trailer>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

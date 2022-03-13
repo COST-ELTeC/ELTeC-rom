@@ -56,10 +56,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <authorGender xmlns="http://distantreading.net/eltec/ns" chey="M"/>
-            <size xmlns="http://distantreading.net/eltec/ns" chey="short"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <timeSlot xmlns="http://distantreading.net/eltec/ns" chey="T1"/>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+            <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+            <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -559,7 +559,7 @@
          </div>
          <milestone unit="graphic"/>
       </body>
-      <bacch>
+      <back>
          <div type="liminal">
             <head>Tabla de Materie.</head>
             <p>Întîia dorință..... pagina 5</p>
@@ -579,6 +579,6 @@
             <p>— XIV. Agurida miere.......—102</p>
             <p>— XV. Criminalii.....— 110</p>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

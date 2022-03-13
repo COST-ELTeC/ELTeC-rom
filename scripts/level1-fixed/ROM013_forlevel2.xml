@@ -52,10 +52,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender chey="M"/>
-            <e:size chey="medium"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="high"/>
-            <e:timeSlot chey="T2"/>
+            <e:authorGender key="M"/>
+            <e:size key="medium"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+            <e:timeSlot key="T2"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -5326,7 +5326,7 @@
          </div>
          <trailer>Fine</trailer>
       </body>
-      <bacch>
+      <back>
          <div type="notes">
             <note>
                <p>
@@ -5459,6 +5459,6 @@
             <note>Acest poem a apărut anonim cu titlul <hi>Cugetare,</hi> în <hi>Opiniunea națională,</hi> nr.<hi>7,</hi> aprilie 1865.</note>
             <note>Numele străine din acest român sunt toate niște pseudonime.</note>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

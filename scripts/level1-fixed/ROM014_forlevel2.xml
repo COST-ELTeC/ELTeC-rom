@@ -52,10 +52,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender chey="M"/>
-            <e:size chey="short"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="high"/>
-            <e:timeSlot chey="T2"/>
+            <e:authorGender key="M"/>
+            <e:size key="short"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+            <e:timeSlot key="T2"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -2499,7 +2499,7 @@
          </div>
          <trailer>Fine</trailer>
       </body>
-      <bacch>
+      <back>
          <div type="notes">
             <note>
                <p>Pe coperta volumului apărut la 1865 se află scris: <hi>Biblioteca Română</hi>. <hi>Seria întîia. Volumul întîtu. Catastihul amorului și La gura sobei. Editore: Thoma L Stoenescu. București. Tipographia Stephan Rassidescu, 1865”.</hi> Volumul cu acest titlu există la Biblioteca Centrală de Stat sub cota II — <hi>14874</hi> iar la Biblioteca Academiei sub cota <hi>II—78036</hi>.</p>
@@ -2556,6 +2556,6 @@
             <note>33 Aluzia de aici se pare a nu fi lipsită de unele temeiuri biografice. Anul 1857 este anul plecării în străinătate a lui Radu Ionescu, plecare precedată de o acută dramă sentimentală, după cum reiese din unele aluzii ironice la adresa lui din partea unui coleg de la Sf. Sava ea N. T. Grășanu. In ideea unei retrospective, acesta îl pune pe Radu Ionescu să exclame „în fața unei oglinde”: „Craidonul de mine! Amorul! Pasiunile! Visuri dulci ale juneței mele d  aur... ba nu, ale juneței mele fără aur...” (Cicală, nr. 3, din 21 februarie 1865). Aceste dezvăluiri se află într-o simetrie perfectă cu ceea ce i se întîmplă eroului central al romanului, și el părăsit de femeia iubită pentru aur, părăsire situată și ea tot într-o viziune retrospectivă față de anul 1860.</note>
             <note>34 Problematica idealului va reveni insistent de aici înainte în desfășurarea narațiunii. Această problematică se arată a fi centrală, am putea spune obsesivă în întreaga creație a lui R. Ionescu.</note>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

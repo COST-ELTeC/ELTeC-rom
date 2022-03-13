@@ -65,10 +65,10 @@
             <language ident="ro">Romanian</language>
          </langUsage>
          <textDesc>
-            <authorGender xmlns="http://distantreading.net/eltec/ns" chey="M"/>
-            <size xmlns="http://distantreading.net/eltec/ns" chey="short"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <timeSlot xmlns="http://distantreading.net/eltec/ns" chey="T4"/>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+            <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -2248,7 +2248,7 @@
          </div>
          <gap n="[editorial]" unit="graphic"/>
       </body>
-      <bacch>
+      <back>
          <div type="liminal">
             <head>COPRINSUL.</head>
             <p>pag.</p>
@@ -2270,6 +2270,6 @@
             <p>XIV. Pierzanie............ 168</p>
             <p>XV. Ogorul strămoșesc............ 286</p>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

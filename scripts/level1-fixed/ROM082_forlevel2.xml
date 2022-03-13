@@ -54,10 +54,10 @@
             <language ident="ro">Romanian</language>
          </langUsage>
          <textDesc>
-            <authorGender xmlns="http://distantreading.net/eltec/ns" chey="F"/>
-            <size xmlns="http://distantreading.net/eltec/ns" chey="medium"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <timeSlot xmlns="http://distantreading.net/eltec/ns" chey="T4"/>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+            <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -3142,7 +3142,7 @@
             </div>
          </div>
       </body>
-      <bacch>
+      <back>
          <div type="liminal">
             <p>C1062 – Tip. Profesională, D.C. Ionescu, Str. șelari 10</p>
             <p>DE ACELAș:</p>
@@ -3159,6 +3159,6 @@
             <note>"Graiul nostru"</note>
             <note>Rosemond Gerard</note>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

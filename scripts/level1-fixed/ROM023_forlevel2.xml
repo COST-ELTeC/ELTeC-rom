@@ -56,10 +56,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender chey="M"/>
-            <e:size chey="short"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <e:timeSlot chey="T3"/>
+            <e:authorGender key="M"/>
+            <e:size key="short"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <e:timeSlot key="T3"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -1571,7 +1571,7 @@
             <p>SFÂRșIT</p>
          </div>
       </body>
-      <bacch>
+      <back>
          <div type="liminal">
             <p>La H. Steinberg. Lihnii- Antiqeuai, Calea Raho-vei No. 7, se află de vendare urmâtdrele cărti:</p>
             <p>DICțIONAR ROMAN-GERMAN de</p>
@@ -1596,6 +1596,6 @@
             <p>SAU 1NVEțATORUL PRACTIC SI ECONOMIC Pentru fabricarea Rachiurilor, Liquerurilor și Romurilor, dupe metoda cea mai bună și cea mai ușoră: în conformitate cu progresele și descoperirile cele mai noi ale Chimiei agricole și industriei —Prețul Lei 1.</p>
             <p>. Se trimite franco veri căruia care va trimite suma disă in mărci poștale.</p>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

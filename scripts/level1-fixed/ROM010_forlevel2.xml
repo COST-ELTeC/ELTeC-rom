@@ -64,10 +64,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender chey="M"/>
-            <e:size chey="medium"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="high"/>
-            <e:timeSlot chey="T3"/>
+            <e:authorGender key="M"/>
+            <e:size key="medium"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+            <e:timeSlot key="T3"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -1582,7 +1582,7 @@
             <p>— A... Eram sigur.</p>
          </div>
       </body>
-      <bacch>
+      <back>
          <div type="notes">
             <note>În ediția 1896: se lăsa.</note>
             <note>Aici cu sensul de acompaniator la pian (fr.).</note>
@@ -1663,6 +1663,6 @@
             <note>A cislui — a sta de vorbă, a se sfătui.</note>
             <note>Pripor — povîrniș.</note>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

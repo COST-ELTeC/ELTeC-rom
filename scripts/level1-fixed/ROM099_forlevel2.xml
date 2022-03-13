@@ -55,10 +55,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <authorGender xmlns="http://distantreading.net/eltec/ns" chey="M"/>
-            <size xmlns="http://distantreading.net/eltec/ns" chey="long"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <timeSlot xmlns="http://distantreading.net/eltec/ns" chey="T2"/>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+            <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+            <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>

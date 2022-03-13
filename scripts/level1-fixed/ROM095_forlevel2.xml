@@ -60,10 +60,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender chey="M"/>
-            <e:size chey="long"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <e:timeSlot chey="T2"/>
+            <e:authorGender key="M"/>
+            <e:size key="long"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <e:timeSlot key="T2"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -4649,7 +4649,8 @@
                <p>— Birjar, mâna mai 'nainte, să vedem și noi focurile de artificiu.— și dici chă ai să m atingi unde să mă dâră?</p>
                <p>— Așa am dis, rcspunse Commn surind.</p>
                <p>— De o qnam dată nu me doare nici capul, dise Ferat, afară numai daqua vei mina să mâ ții in sfera acestor impresiuni turburi hi quare ți piace a ocupa spiritul meu.</p>
-               <p>— Bine, scumpul meu, fiă după cum croi</p>t               <p>— Comnine, tu cată să știi ceva quare mă pri-vesce, quare m- a+îuge de apropo, dar nu vrei si mi spui; și cu toate acestea nu petu să nu recunoscu interesul ce mi ai purtat in tot timpul pe quât amu fost amici împreună...</p>
+               <p>— Bine, scumpul meu, fiă după cum croi</p>
+	       <p>— Comnine, tu cată să știi ceva quare mă pri-vesce, quare m- a+îuge de apropo, dar nu vrei si mi spui; și cu toate acestea nu petu să nu recunoscu interesul ce mi ai purtat in tot timpul pe quât amu fost amici împreună...</p>
                <p>— și acum nu mai suntem? întrerupse Comnin.</p>
                <p>— Nu vrei să mai fim, după cum vedu.</p>
                <p>— Te înceli.</p>

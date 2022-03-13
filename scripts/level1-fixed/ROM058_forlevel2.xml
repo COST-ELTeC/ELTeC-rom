@@ -62,10 +62,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender chey="M"/>
-            <e:size chey="short"/>
-            <e:reprintCount chey="high"/>
-            <e:timeSlot chey="T2"/>
+            <e:authorGender key="M"/>
+            <e:size key="short"/>
+            <e:reprintCount key="high"/>
+            <e:timeSlot key="T2"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -2779,7 +2779,7 @@
             </div>
          </div>
       </body>
-      <bacch>
+      <back>
          <div type="liminal">
             <head>EPILOG</head>
             <p>Douě luni au trecut de la aceste evenimente.</p>
@@ -2789,6 +2789,6 @@
             <p>Ei prărăseso Parisul pentru Sant-Petersbourg....</p>
             <trailer>- FINE —</trailer>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

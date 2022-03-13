@@ -57,10 +57,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <authorGender xmlns="http://distantreading.net/eltec/ns" chey="M"/>
-            <size xmlns="http://distantreading.net/eltec/ns" chey="short"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <timeSlot xmlns="http://distantreading.net/eltec/ns" chey="T3"/>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+            <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -1670,7 +1670,7 @@
             <trailer>(SFÎRșIT)</trailer>
          </div>
       </body>
-      <bacch>
+      <back>
          <div type="liminal">
             <p>CUPRINSUL:</p>
             <p>Puiul de leu '</p>
@@ -1699,6 +1699,6 @@
             <p>Horea Încoronat</p>
             <p>Mântuitorul.......,. 152</p>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

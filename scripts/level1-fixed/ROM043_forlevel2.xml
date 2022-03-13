@@ -57,10 +57,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <authorGender xmlns="http://distantreading.net/eltec/ns" chey="M"/>
-            <size xmlns="http://distantreading.net/eltec/ns" chey="medium"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <timeSlot xmlns="http://distantreading.net/eltec/ns" chey="T1"/>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+            <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+            <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -1902,7 +1902,7 @@
             <p>FINE</p>
          </div>
       </body>
-      <bacch>
+      <back>
          <div type="liminal">
             <p>LA ACEEAși LIBRĂRIE</p>
             <p>Se publicâ annual Biblioteca Litterarie seria 3-a compusâ de 300 a 320 coale în 8 de:</p>
@@ -1955,6 +1955,6 @@
                </title>
             </p>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

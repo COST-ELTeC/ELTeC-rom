@@ -57,10 +57,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <authorGender xmlns="http://distantreading.net/eltec/ns" chey="M"/>
-            <size xmlns="http://distantreading.net/eltec/ns" chey="medium"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <timeSlot xmlns="http://distantreading.net/eltec/ns" chey="T2"/>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+            <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+            <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -1824,7 +1824,7 @@
             <p>FINE</p>
          </div>
       </body>
-      <bacch>
+      <back>
          <div type="notes">
             <note>1 Satul Vînătorii se află puțin mai în sus de ruinele cetății Neamțul, între monastirea Neamțul și Tîrgul-Neamțului. Vînătorii se întinde între dealuri pe lîngă apele Neamțu și Nemțișoru, cel ce curge pe lîngă dealul unde se află ruinele. — Cea mai mare parte din catapiteasma și icoanele ce erau în paraclisul din citadelă, se află acum depuse în o bisericuță a acestui sat .</note>
             <note>1 Prin monastirile din Moldova se găsesc  o sumă de tinere maici și surori, fiice de notabili boeri, cei ce dintr-un obiceiu, sau cu scop  de iconomie, d-a nu costa prea mult pe părinți dotarea fetelor, le închise de mititele prin aceste așezămînte, asigurăndu-le esistența, prin un mic  fond  ce le dete... Obiceiul se vede că devenise o lege; și ceea ce fu mai trist  e că unele fură în silă călugărite. —Așa dar notabilii țerei sacrificară monastirei pe trei din cinci fete, sau pe doo din trei fete a le lor , spre a mărita bine pe cele ce soartea le favorisa a rămănea în sînul părintesc </note>
@@ -1870,6 +1870,6 @@
             <note>Dovadă despre aceasta este culegerea și rădicarea atîtor acte din arhivele principatelor la 1829 și -n alte epoce.</note>
             <note>Asemenea aflăm la biserica Domniască din Curtea d-Argeș , peatra de la mormăntul lui Radu Negru, și la Mn. Cozia mormîntul lui Mircea, și alături mormîntul mamei cu toată familia lui Mihai viteazu.</note>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

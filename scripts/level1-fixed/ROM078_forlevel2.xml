@@ -53,10 +53,10 @@
             <language ident="ro">Romanian</language>
          </langUsage>
          <textDesc>
-            <authorGender xmlns="http://distantreading.net/eltec/ns" chey="M"/>
-            <size xmlns="http://distantreading.net/eltec/ns" chey="long"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="high"/>
-            <timeSlot xmlns="http://distantreading.net/eltec/ns" chey="T4"/>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+            <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+            <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -2084,7 +2084,7 @@
          </div>
          <pb/>
       </body>
-      <bacch>
+      <back>
          <div type="liminal">
             <p>TABELA CUPRINSULUI</p>
             <p>PARTEA I</p>
@@ -2494,6 +2494,6 @@
                <foreign>Moldav-schoi Proishojdenii</foreign>- adică de obârșie Moldovenească</note>
             <note>Unii autori o evaluează numai la 90 000; dar probabil că nu socotesc în acest număr pe boieri, pe arendași, negustori, vechili, meșteșugari, calfe, slugi etc., numărând numai pe țăranii gospodari.</note>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

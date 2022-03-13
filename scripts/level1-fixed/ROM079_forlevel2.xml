@@ -61,10 +61,10 @@
             <language ident="ro">Romanian</language>
          </langUsage>
          <textDesc>
-            <authorGender xmlns="http://distantreading.net/eltec/ns" chey="M"/>
-            <size xmlns="http://distantreading.net/eltec/ns" chey="medium"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <timeSlot xmlns="http://distantreading.net/eltec/ns" chey="T4"/>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+            <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -2457,7 +2457,7 @@
             </div>
          </div>
       </body>
-      <bacch>
+      <back>
          <div type="notes">
             <note>Fărșeoții sun Moții Pindului</note>
             <note>Un titlu care se dă oamenilor în vîrstă, sinonim cu unchiule.</note>
@@ -2477,6 +2477,6 @@
             <note>Patriarhii triburilor.</note>
             <note>Metanul, ce se arată ades de asupra mormînților în lumini fosforescente.</note>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

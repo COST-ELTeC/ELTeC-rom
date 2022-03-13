@@ -57,10 +57,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <authorGender xmlns="http://distantreading.net/eltec/ns" chey="M"/>
-            <size xmlns="http://distantreading.net/eltec/ns" chey="medium"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <timeSlot xmlns="http://distantreading.net/eltec/ns" chey="T2"/>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+            <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+            <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -3640,7 +3640,7 @@
             </div>
          </div>
       </body>
-      <bacch>
+      <back>
          <div type="notes">
             <note>Cu ecspresiunea de mătușă studenții în Francia cualifică muntele de Riéte unde-și pun  lucrurile amanet.</note>
             <note>Discurs.</note>
@@ -3648,6 +3648,6 @@
             <note>Rue d-Enfer; Ulița Iadului</note>
             <note>Néglige — chostum alb cusut cu broderii pentru dimineață.</note>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

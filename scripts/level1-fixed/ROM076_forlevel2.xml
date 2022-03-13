@@ -62,10 +62,10 @@
             <language ident="ro">Romanian</language>
          </langUsage>
          <textDesc>
-            <authorGender xmlns="http://distantreading.net/eltec/ns" chey="M"/>
-            <size xmlns="http://distantreading.net/eltec/ns" chey="long"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="high"/>
-            <timeSlot xmlns="http://distantreading.net/eltec/ns" chey="T4"/>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+            <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+            <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>

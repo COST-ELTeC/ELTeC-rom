@@ -54,10 +54,10 @@
             <language ident="ro">Romanian</language>
          </langUsage>
          <textDesc>
-            <authorGender xmlns="http://distantreading.net/eltec/ns" chey="M"/>
-            <size xmlns="http://distantreading.net/eltec/ns" chey="medium"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <timeSlot xmlns="http://distantreading.net/eltec/ns" chey="T4"/>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+            <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -1850,7 +1850,7 @@
             <p>— SFÎRșIT —</p>
          </div>
       </body>
-      <bacch>
+      <back>
          <div type="liminal">
             <head>UN DOCUMENT</head>
             <p>
@@ -1885,6 +1885,6 @@
             </p>
             <milestone unit="line"/>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

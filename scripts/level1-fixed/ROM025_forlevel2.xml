@@ -63,10 +63,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender chey="M"/>
-            <e:size chey="long"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <e:timeSlot chey="T2"/>
+            <e:authorGender key="M"/>
+            <e:size key="long"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <e:timeSlot key="T2"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -4246,7 +4246,7 @@
             </div>
          </div>
       </body>
-      <bacch>
+      <back>
          <div type="liminal">
             <p>JUDECATA LUI BRÎNDUș</p>
             <p>COMEDIE IN TREI ACTE</p>
@@ -4264,6 +4264,6 @@
             <p>Scenă fictivă ca multe altele, precum s-a arătat în prefață. Sunt departe de a atinge susceptibilitatea vreunui funcționar. Intriga romanței nu mă ierta a face altfel.</p>
             <p>Din familia Brîncovenilor.</p>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

@@ -59,10 +59,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender chey="M"/>
-            <e:size chey="medium"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="high"/>
-            <e:timeSlot chey="T2"/>
+            <e:authorGender key="M"/>
+            <e:size key="medium"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+            <e:timeSlot key="T2"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -3290,13 +3290,13 @@
             <p>După ce împărți o mare parte din averea lui pentru binefaceri, Elescu se decise să plece din țară. A plecat de doi ani. De doi ani nu știe nimeni ce a devenit. Un ziar de la Martinica anunța în acea parte a lumei presința unui român; este un an de atunci. El nu a scris nimenui, nu a tras nici o poliță, ceia ce lasă să se crează că a perit prada frigurilor galbene sau în resbelul din urmă între statele Americei.</p>
          </div>
       </body>
-      <bacch>
+      <back>
          <div type="notes">
             <note>Titlul corect al romanului lui Balzac este <hi>Le Lys dans la vallée</hi> (n-e.)</note>
             <note>Personajul rostește eronat dictonul latin: <hi>
                   <foreign>In vino veritas</foreign>
                </hi> (<hi>n.e</hi>).</note>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

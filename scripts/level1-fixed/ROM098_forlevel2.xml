@@ -53,10 +53,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <authorGender xmlns="http://distantreading.net/eltec/ns" chey="M"/>
-            <size xmlns="http://distantreading.net/eltec/ns" chey="medium"/>
-            <canonicity xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <timeSlot xmlns="http://distantreading.net/eltec/ns" chey="T2"/>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+            <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+            <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -2523,7 +2523,7 @@
          </div>
          <milestone unit="line"/>
       </body>
-      <bacch>
+      <back>
          <div type="liminal">
             <head>TABLA DE MATERII</head>
             <p>Capitol  I. Simptomele furtunei</p>
@@ -2584,6 +2584,6 @@
             <note>Amorul  nostru pentru frumusețile cereșci nu poate înueca îu noi amorul  pentru frumusețile pămenteșci; Simțurile nostre sunt încântate de operile perfecte alle Natureî... Să nu fi se pare, Domnă, straniu acèste cuvinte; căci îu fine și e  sunt omu, nu sunt angel .</note>
             <note>Vezi acea orațiă în collecțiunea de basme a D. Fundescu</note>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

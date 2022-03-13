@@ -56,10 +56,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender chey="F"/>
-            <e:size chey="long"/>
-            <e:reprintCount chey="low"/>
-            <e:timeSlot chey="T4"/>
+            <e:authorGender key="F"/>
+            <e:size key="long"/>
+            <e:reprintCount key="low"/>
+            <e:timeSlot key="T4"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>

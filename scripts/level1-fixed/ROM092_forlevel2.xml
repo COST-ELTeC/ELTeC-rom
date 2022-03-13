@@ -53,10 +53,10 @@
             <language ident="ro">Romanian</language>
          </langUsage>
          <textDesc>
-            <authorGender xmlns="http://distantreading.net/eltec/ns" chey="F"/>
-            <size xmlns="http://distantreading.net/eltec/ns" chey="short"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <timeSlot xmlns="http://distantreading.net/eltec/ns" chey="T4"/>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+            <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -2257,7 +2257,7 @@
             <p>SFÂRșIT</p>
          </div>
       </body>
-      <bacch>
+      <back>
          <div type="liminal">
             <p>De acelaș autor:</p>
             <p>DREPTUL VIEțEI</p>
@@ -2267,6 +2267,6 @@
          <div type="notes">
             <note>Expresii de măgulire poloneze</note>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

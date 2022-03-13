@@ -60,10 +60,10 @@
             <language ident="ro">Romanian</language>
          </langUsage>
          <textDesc>
-            <authorGender xmlns="http://distantreading.net/eltec/ns" chey="M"/>
-            <size xmlns="http://distantreading.net/eltec/ns" chey="medium"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="high"/>
-            <timeSlot xmlns="http://distantreading.net/eltec/ns" chey="T4"/>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+            <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+            <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -2566,7 +2566,7 @@
             </div>
          </div>
       </body>
-      <bacch>
+      <back>
          <div type="liminal">
             <p>Greșeli de tipar</p>
             <p>Pg. 8 șirul 3 în loc de Lina — <hi>Fira</hi>.</p>
@@ -2588,6 +2588,6 @@
             </p>
             <p>” 209” 12 ” ” ” ametit — <hi>Era amețit</hi>.</p>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>

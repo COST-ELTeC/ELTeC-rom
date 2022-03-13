@@ -52,10 +52,10 @@
             <language ident="ro"/>
          </langUsage>
          <textDesc>
-            <e:authorGender chey="M"/>
-            <e:size chey="medium"/>
-            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="low"/>
-            <e:timeSlot chey="T2"/>
+            <e:authorGender key="M"/>
+            <e:size key="medium"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+            <e:timeSlot key="T2"/>
          </textDesc>
       </profileDesc>
       <revisionDesc>
@@ -1966,7 +1966,7 @@
          </div>
          <trailer>Finile volumului întîi</trailer>
       </body>
-      <bacch>
+      <back>
          <div type="notes">
             <note>Anticități romane <hi>(n.a.)</hi>
             </note>
@@ -1975,6 +1975,6 @@
             </note>
             <p>Addenda</p>
          </div>
-      </bacch>
+      </back>
    </text>
 </TEI>
