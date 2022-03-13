@@ -1,0 +1,898 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:e="http://distantreading.net/eltec/ns"
+     xml:id="ROM094"
+     xml:lang="ro">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dușmănie. Roman: ediție ELTeC</title>
+            <author>Moldovan, Vasile E. (1881-l924)</author>
+            <respStmt>
+               <resp>codare ELTeC</resp>
+               <name>Alexandra Olteanu</name>
+            </respStmt>
+            <respStmt>
+               <resp>Recorectat si citit de</resp>
+               <name>Lorena Vlad</name>
+            </respStmt>
+         </titleStmt>
+         <extent>
+            <measure unit="words">26969</measure>
+            <measure unit="pages">109</measure>
+         </extent>
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="2022-03-02"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3543111">ELTeC-rom</ref>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.4662599">ELTeC-rom release 0.9.0</ref>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="firstEdition">
+               <author>Moldovan, Vasile E.</author>
+               <title>Dușmănie</title>
+               <pubPlace>Sibiu</pubPlace>
+               <publisher>Tipografia, societate pe acțiuni</publisher>
+               <date>1903</date>
+               <ref target="http://doi.org/10.5281/zenodo.4598965">Facsimile on zenodo</ref>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc n="eltec-1">
+         <p/>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="ro"/>
+         </langUsage>
+         <textDesc>
+            <e:authorGender chey="M"/>
+            <e:size chey="short"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="low"/>
+            <e:timeSlot chey="T4"/>
+         </textDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
+         <change when="2022-03-02">Corrected errors in spacing</change>
+         <change when="2021-04-09">Converted by checchUp script for new release</change>
+         <change when="2020-01-20">Initial TEI version generated.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="group" n="1">
+            <p>Partea I.</p>
+            <p>Cu cât te iubești însuți mai mult, cu atât mai mare este ura ta fa ți de acel-ce te împedecă în calea fericirii tale. Urești și dușmănești... Dușmănia se moștenește. Fără ca s-o știi de ce, urești pe un om care nu 'ți-a greșit nimic... Ura aceasta este moștenită, din strămoșii cari s-au dușmănit mult și pe moarte împreună.</p>
+            <div type="chapter" n="1">
+               <head>I.</head>
+               <p>Departe spre mează-zi, înveliți în albastra zare a depărtării erau înfrunziți codrii de stejar la poalele falnicilor munți, cari ridică moros creștetele pleșuve spre ceriuri, ca uriași răsvretiți în potriva Dumnezeiri. Când îi apucă vre o vijelie, vre-o furtună, ei urlă ca de bătaie, își răsvrătesc păraele, codrii mugesc, încât iți vine se crezi că se nărue tot cerul sunt Carpații, îmbătrâniții Carpați, hotarnici cu țeara-Românească. Negoiul își ridică fruntea preste nori, încruntat și vrășmaș. El, stăpânul, cei mai viteaz, cel mai mare între uriași, Negoiul măiestosul Negoiu.</p>
+               <p>E mândră, poetică țeara dela poalele lut țeara Făgărașului, plină de frumuseți, de basme și de amintirile voivozilor români, cari au domnit și au vitejit pe acele plaiuri.</p>
+               <p>Oltul, mult doinitul rîu, cum trece așa îngândurat pintre semănături și livezi, câte nu ne-ar ști el spune despre mărirea străbună, despre Negru-Voevod șt părinții lui, despre răsboirile cu Tătarii, cu Turcii, despre chefurile după bătăliile câștigate, despre hora ce deatâtea-ori a văzut-o învârtindu-să pe maluri.</p>
+               <p>Dar el trece tăcut, pare că l-ar mustra durerea despărțirii de plaiurile frumosului Ardeal, de frumosul neam de oameni, care--i Impoporează malurile până la Turnul-Roșu. Așa cum suntem noi săraci, apăsați, robiți, sărmanul s-a îndrăgostit de noi, și durerea că ne părăsește îi întrece bucuria că se duce într-o țeară frumoasă și liberă, unde doina 'i doină și unde însuși Dumnezeu simte românește.</p>
+               <p>Pe malul stîng al rîului era Măgura, sat bătut de plai și de Dumnezeu. Era așezat pe o vale unde se întâlnesc doo guri de munți. Aici se întâlnesc vânturile, făcând vestit satul pe valea întreagă, că în Măgura nu numai vânturile se bat în cap dar și oamenii.</p>
+               <p>Erau sumeți Măgurenii, fără s-o știe de ce, pentru că apucaseră la stare bună, ori va</p>
+               <p>fi rămas în vinele lor vre-o rămășiță din sângele oștenilor, cari luptau sub voivozii români împotriva Turcilor, că tare neastîmpărați și certăreți erau Măgurenii, și răsbunători fără seamă.</p>
+               <p>Era pe vremea secerii. De o vreme nici nori albi nu se arătară pe cer deasupra satului, încât Măgurenii duceau grija păpușoiului, că s-o pîrli și nu va da roadă.</p>
+               <p>Pe Nițu, feciorul lui Sandu bogătanul, grijile acestea însă nu-l băteau. De trei zile, de când s-a dus tătâne-so cu judele Mărin la tîrg la Sibiiu, el n-a mai dat pe acasă. Mumă-sa Rusanda cu fată-sa Chivuța, sora lui Nițu erau la secere, ear- el fura zilele șî nopțile in birt, chefuind cu lăutarii.</p>
+               <p>știindu-i duși pe toți ai lui, s-a dus pe la ameazi acasă, a luat cheia de după grindă și deschizând lădoiul, și-a luat bani dindea gata, apoi s-a întors la birt.</p>
+               <p>Asta era a treia noapte de petrecanie. Abea durmise vre-o cinci ceasuri sub laviță, unde căzuse de biat ce era, ear- lăutarii, — Cula și Nichita lui Mistreț, — beți ca și el, s-au rostogolit sub masă.</p>
+               <p>Asta a fost ca ieri pe la ojină. Nițu s-a trezit, că îl scurma un purcel la cap; —s-a sculat dară înjurând, — apoi trezind lăutarii, s-a pus de nou la chefuit.</p>
+               <p>Să făcea de zio și Nițu, — acum a treia noapte, — era tot în cârcimă. Birtașul, — ostenit, — s-a pus să doarmă dându-le beutură să se slugăreasc înșiși.</p>
+               <p>Când s-a mijit de zio, au ieșit toți trei în ușa birtului la răcoare.</p>
+               <p>Au scos o masă și o laviță, și s-au pus să chefuiască în ochii satului. Masă era încărcată cu sticle de vin.</p>
+               <p>— Ziceți, Culo, — ziceți, că vai amaru-mii sufletu...</p>
+               <p>Nițu se mai ținea, dar- lăutarii abea stăteau pe picioare.</p>
+               <p>Au luat-o pe o doină de peste Olt și Nițu cânta răgușit:</p>
+               <quote type="verse">
+                  <l>Suparatu-s, da nu--mi spui</l>
+                  <l>Supărarea nimărui,</l>
+                  <l>Numai apii Oltului.</l>
+               </quote>
+               <p>In față cu birtul, peste drum, era casa judelui Marin, și Nițu nu--și mai lua ochii dinir-acolo.</p>
+               <p>Retezul era încă pus, dar' lelea Floare nevasta lui Marin și Măriuța, — floarea satului, — în curând se vor scula sâ plece la câmp. Găinile s-au fost adunat dinaintea ușii, așteptând să iasă Măriuța să le împrăștie grăunțe.</p>
+               <p>De odată s-a deschis ușa, și a ieșit Măriuța cu o ulcică cu apă în mână, să se spele.</p>
+               <p>Nițu a tresărit, apoi s-a sculat de pe laviță. Lăutarii au întrerupt cântarea.</p>
+               <p>— Da mult mai dormi, Măriuțo! — îi strigă Nițu peste drum.</p>
+               <p>Fata judelui s-a întors a lene spre dînsul.</p>
+               <p>— Cu ceva mai mult decât tine, — îi răspunse ea scurt.</p>
+               <p>Tu ești de vină, lelițo, — tu ești de vină că nu--mi dorm nopțile! zise Nițu amărît.</p>
+               <p>— Eu? De ce eu, Nițule? Poate vinul!</p>
+               <p>— O ști tu bine, Măriuțo, — o știi tu bine, — numai că tu nu vreai s-o știi!</p>
+               <p>— De unde s-o știu? Poate că te superi după bogătana din valea sărată, care nu voia să se mărite după tine? De acea te faci de rîs în sat? Pentru ea te-ai dat pe beție? Bietul Nițu, — că moale mai ești la inimă!</p>
+               <p>Feciorul lui Sandu cel bogat s-a înroșit de mănie văzându-se luat în rîs.</p>
+               <p>— Vezi, Măriuță, — zisă el cu durere,</p>
+               <p>— vezi cum mă năcăjești tu. De ce nu mă asculți? Mărită-te după mine, și n-oi mai bea în birt cât îi lumea.</p>
+               <p>— Ha ha ha! — Să mă duc după tine? - răspunse fata rîzînd. M-ai omorî cu zîle! Nu ne nărăvim noi Nițule!</p>
+               <p>Nițu-și-a mușcat buzele. Să fi privit acum în ochii lui, te-ai fi înfiorat de schinteirea drăcească a ochilor lui. — Păreau ochii lupului flămând când miroasă sângele.</p>
+               <p>— Alta--i vina Măriuțo! Tu ai la inimă pe altcineva. Te-am văzut eu la horă, Duminecă. — Da nu-'i vorbă — vă și potriviți! Fata lui Marin judele să se mărite după cel mai sărântoc din sat, — după un ficior de lingurar...</p>
+               <p>— Cine-'i ăla? de cine vorbești, Nițule?</p>
+               <p>— Te faci că nu știi... De Dăian, lelițo,</p>
+               <p>— de dragul tău Dăian pomenisei...</p>
+               <p>— De Dăian? — Vezi, — vezi Nițule, cât de rău ești tu? Tu nu poți încâpă de bietul ficior, mereu te acăți de el, pe când dînsul nu</p>
+               <p>îți face nimica, — nu-'ți are habar, măcar ce faci... Dacă te ai pus în mânie cu el, —nu '1 mai pomeni de nume! Așa știu eu că fac cei mânioși!</p>
+               <p>Nițu rîdea răutăcios.</p>
+               <p>— Ce crezi, fa, că eu mă umilesc să țin mânie cu ficiorul unui lingurar? Dăian îi năcăjit pe mine pentru-că pețise pe Lina lui Matei; — fata nu voia însă pe nimeni afară de mine...</p>
+               <p>— Dăian...? zici că: Dăian?</p>
+               <p>— Da, da el; — dar' ce te-ai spăriat așa? — Nu crede că de dragul ochilor tăi iți umblă in cale!... Te știe bogată, — asta-i totul... Îmi spun feciorii că iarăși se gată s-o pețească pe Lina...</p>
+               <p>Sermana Măriuță! știa că Nițu nu spune adevărul și totuși s-a cutremurat la vorbele lui. Da dacă-i adevărat..? — se gândea dînsa. —</p>
+               <p>Sîmțea că ziua întreagă 'i-a stricat-o bețivul aceesta, și îi venea pare-că să--i trântească ulcicuța în cap.</p>
+               <p>Treaba lui! Fie-cine facă ce-'i place! — zise ea cu îndârjire, apoi a intrat în casă.</p>
+               <p>Nițu a turnat în păhare și lăutarii iar au început-o pe:</p>
+               <quote type="verse">
+                  <l>„Supăratu-s, da n-o spui...„</l>
+               </quote>
+               <p>Rînd pe rînd scârțăiau porțile caselor, și eșau în drum secerătorii, — să adunau cete și porneau la câmp.</p>
+               <p>Pe azi trebuea să vie acasă tată-so și cu judele.</p>
+               <p>Totuși, soarele se ridicase ca de o asvârlită pe cer, când s-a socotit și Nițu și a luat-o spre casă. — S-a urcat în podul șurii și s-a trântit să doarmă în fân.</p>
+               <p> </p>
+               <p>Casa, unde ședea Dăian, era pe o ulicioară la marginea satului. Cu bănișorii ce-și agonisisă biet sărmanul fecior la cătănie, venind acasă 'și-a cumpărat o păreche de văcuțe, ca să aibă cu ce lucra cele câteva pogoane de pământ, din care trăiau împreună sărăcește, cu ma mă-sa văduvă și bătrână și cu sora lui, cu Safta.</p>
+               <p>Lucra feciorul cu sîrguință. ear Dumineca mergea și el ca alți feciori, la horă. A dat-o în prietenie cu Măriuța, fata judelui, și are pe Dumnezeu ca mărturie, că el o are dragă pentru ea și nu pentru avere. Dar-</p>
+               <p>lumea-i rea si îi tot bîrfeste. Lui nu îi trebue</p>
+               <p>averea altuia; câtă-i-a dat Dumnezeu, cu atâta se mulțumește, că va lucra din zori până seara, și vor trăi oare cum...</p>
+               <p>Azi noapte a dormit cam rău. S-a sculat în zori să plece la ogorit, dar' când să pună vaca în jug, vaca a strechiat și cum s-a smâncit a rupt jugul. Până ce s-a pus să--l direagă, soarele se înălțase ca de o asvîrlită pe cer.</p>
+               <p>-și-a legat merindele de leucă, a luat biciul pe după cap și s-a pornit pe lângă vaci spre câmp.</p>
+               <p>Hois, Joiană, hois!...</p>
+               <p>Măriuța a rămas acasă, ca să gătească ameaza pentru lucrători. Când va fi gata, va pune-o în budui (găleată) și va duce-o însăși secerătorilor și mamii sale, la câmp.</p>
+               <p>A pus apă la foc, a cules mazăre verde din grădină și... și Dăian tot nu mai trecea cu carul pe la poarta lor.</p>
+               <p>Poate nu se duce azi la plug? Aseară spunea că merge! Ce să fie?</p>
+               <p>și biata fată se mistuia. Focul pâlpâia pe vatră și Măriuța s-a pus să cânte așa în neștire, cu jumătate gura:</p>
+               <quote type="verse">
+                  <l>Când treci badeo pe la noi, Pune clopote la boi!</l>
+                  <l>Pune pleasna de mătasă,</l>
+                  <l>Să te-aud badeo din casă!</l>
+               </quote>
+               <p>Îi eșiră doo lacrimi în ochi, și le-a șters cu mâneca.</p>
+               <p>Deodată, când nici nu mai nădăjduia, a tresărit de bucurie. Auzise glasul lui Dăian care venea pe lângă vaci cântând:</p>
+               <quote type="verse">
+                  <l>Eu mă duc mândro, ca mâne,</l>
+                  <l>Dorul meu la tin remâne...</l>
+                  <l>Grijește-mi--l mândro bine,</l>
+                  <l>Cum te-am grijit eu pe tine!</l>
+               </quote>
+               <p>Măriuța a eșit în poartă. știa că aceasta-i doina care-i place lui, și totuși ochii ei, frumoșii ei ochi de cicoare s-au umezit auzindu--l cântând doina aceasta. 'I-au venit în minte vorbele lui Nițu, că Dăian se gată la pețit...</p>
+               <p>— Târziu vii bădițo, te-ai boerit poate? zise ea când Dăian a oprit vacile. Dar- glasul ei tremura, încât se vedea că a plâns.</p>
+               <p>și el s-a dus la ea, și-i-a întins mâna. Era așa de liniștit și ochii lui atât de senini. și așa de dulce-i-a povestit el, că ce a pățit cu jugul.. Încât Măriuța s-a liniștit. Privea în</p>
+               <p>ochii lui, cu dragoste și drag, încât bădița se topea de dragul ei...</p>
+               <p>— Remâi cu bine lelițo, că merg!...</p>
+               <p>— Bun lucru bădiță!...</p>
+               <p>Carul s-a pornit și Dăian earăși doinea mergend:</p>
+               <quote type="verse">
+                  <l>”'Mi-a trimis mândruța dor</l>
+                  <l>Pe-o frunză din via lor„...</l>
+               </quote>
+               <p>Măriuța -l-a ascultat din portiță, apoi a întrat in casă, a pus pe foc câteva așchii, și fericită a dat-o și ea pe cântat:</p>
+               <quote type="verse">
+                  <l>și te-ai dus bade, te-ai dus,</l>
+                  <l>Vorbă bună nu-mi-ai spus; —</l>
+                  <l>Nu 'ți-ar fi badeo păcat,</l>
+                  <l>Că nici nu m-ai sărutat,.</l>
+               </quote>
+            </div>
+            <div type="chapter" n="2">
+               <head>II.</head>
+               <p>Iuonel ciobanul, când s-a hotărît într-o zi de toamnă să coboare din munți în sat, — la Măgura, — nu știa la ce ncaz se duce. De când s-a făcut toamnă, mergea mai rar în sat. Nici acum n-avea ceva afaceri mai de seamă, — dar' îi părea că îl apucase dorul de Safta, sora lui Dăian. S-au împrietenit la horă, și... Safta e așa de bună și harnică. De neam sărac, — dar- oameni cinstiți. Dăian nu- i ca ceialalți ficiori, să se țină măreț față de ciobani, și Safta îi seamănă frate-său. De să va învoi, — dansul în câjleji ar peți-o și ar veni pe iarnă în sat, — apoi îa primăvară, când s-or scoate turmele, — ar duce-o și pe Safta, sus, la stînă...</p>
+               <p>Că, — drept că el nu--i bogat, și- i nu-mai cioban, — dar își are și el oițele și stîna lui, apoi și ceva bani agonisiți.</p>
+               <p>Așa se socotea Iuonel, ciobanul, și punăndu--și finetul în șerpar s-a pornit pe-o coaste la vale, spre sat. Când a sosit, și s-a întâlnit cu oamenii pe uliță, îi părea că prea chiorâș îl privesc Măgurenii, — și el nu 'și putea da seama, că ce au oare cu dansul? Dădea binețe la toți, cu cinste și cuviință. Pe drumul mare s-a întâlnit apoi cu Nițu și cu ortacul lui de-o pănură, Costan a Spânului.</p>
+               <p>Nițu era cu voe bună și prietenos cum n-a mai fost.</p>
+               <p>— Noroc și brânză, ciobane! i-a strigat el de departe.</p>
+               <p>— Să trăești cu bine Nițule! Da ce noutăți p-aici?</p>
+               <p>— Noutăți? — Avem și noutăți; — zise Nițu cu răutate. — Mâne vin cătanele cu doba...</p>
+               <p>— Ce cătane? Doară nu-'s manevrele?</p>
+               <p>— Ba manevre, frate, manevre. Vor face ezerțir pe vărful căsii lui Dăian, — să vezi numai!</p>
+               <p>Iuonel nu pricepea, — ”Nu te înțeleg Nițule! — zise el. —</p>
+               <p>— D-apoî că nu! — Mâne vin domnii să bată la dobă casa lui Dăian... Așa-i trebue! — Ce se pune el, — sărăntocul, ficior</p>
+               <p>de lingurar să umble după fete, și sâ le cumpere inele și cercei? mai bine își plătea darea șt datoriile!... Ce voi rîde când vor fi ei jelerii noștri... că tata vrea sâ cumpere casa și pământurile, dacă nu le vor sui prețul prea sus.</p>
+               <p>Bietul Iuonel, ce mult 'l-a durut vestea asta. Sâ ajungă Safta pe drumuri, de risul satului...</p>
+               <p>— Da pentru câtă datorie îi licitează oare? întrebă el, îngândurat.</p>
+               <p>— Sâ spune că ar fi cumpârat un pământ pe bani luați împrumut; — îi răspunse Costan. Pământul 1-a folosit, dar banii nu i-a plătit la bancă, si așa advocații i-au adus doba pe cap...</p>
+               <p>— Vor fi vre-o trei sute!... zise Nițu rîzănd.</p>
+               <p>Iuonel n-a mai stat. S-a dus la judele Marin, unde a vâzut pe Măriuța galbenă și îngândurată. A povestit câtva timp cu judele, — apoi a luat o spre munți...</p>
+               <p>Mergea îngândurat și trist, dar din ce suia muntele, — tot mai mult s-a hotărît, că el are sâ- i mântuească.</p>
+               <p>In cealăltă zi, pe la 9 ceasuri, Dăian ședea pe laviță în tindă, dus pe gânduri și trist. Mamă sa plângea, iar Safta ofta mereu și mângâia. ”Lasă mamă, că nu ne uită Dumnezeu!</p>
+               <p>Dăian încercase totul să câștige vre doi bani să se scape, — dar nimenea nu  1 ajuta. Trei sute de zloți sunt bani mulți... Datoria a fost doo sute, — dar cheltuelile de proces si de esecuție s-au prea suit. și nu mai știa bietul ce să facă. S-a lăsat în voia sorții... Oamenii începuseră sâ se adune, că acuși vor sosî șt domnii la licitație. Venise judele Marin șt Sandu, bogătanul, — venise și birtașul, și alții. Se vede că vor fi mulți cumpărători, întâi vor bate la dobă vacile și carul, plugul, apoi vor merge la casa satului, unde vor licita și moșia.</p>
+               <p>Bietul om. Inzadar a lucrat șt s-a nisuit, iată--l de-odată sărac, lipit pământului, pe drumuri.</p>
+               <p>Din depărtare s-a auzit apoi uruitul roatelor dela trăsură. In popor s-a făcut mișcare. Pe urmă s-au dat la o parte, că sosiseră domniii cu trăsura.</p>
+               <p>Dăian s-a recules. A eșit în curte și le-a deschis ușa. A scos pe urmă vacile în curte a tras carul din șură, în car era și plugul.</p>
+               <p>— Aicea-s — duceți-le! — zise el cu nepăsare. Furtuna din sufletul lui însă, îi îneca respirarea.</p>
+               <p>Domnii n-au făcut tărăboi mult. Toate câte erau de vândut, le a cumpărat Sandu, bogătanul. — A plătit în bani gata 50 de zloți, apoi a trimis acasă carul cu vacile. și domnii s-au urcat în trăsură, pornind spre Casa satului. Cumpărătorii s-au luat pe jos în urma lor.</p>
+               <p>Dăian voia să nu se ducă, dar într-un târziu s-a socotit altfel. -Si a luat sumanul si a pornit pe drumul mare spre casa satului. Mergea gârbovit și trist, înpletecindu-se. Sermană viața lui, mai are oare vre un înțeles? N-ar fi mai bine dacă s-ar pustii de pe lume?</p>
+               <p>Când a fost în dreptul căsii judelui s-a întâlnit cu Nițu și cu tovarășii lui, între cari și Costan.</p>
+               <p>Măriuța ieșise în poartă și privea cu milă spre sermanul ei Dăian. Il vedea galben și gârbovit... și ochii fetei s-au umplut cu lacrimi.-</p>
+               <p>— Nu te năcăji Dăiene! — zise ea. — Te va ajuta Dumnezeu și pe tine!</p>
+               <p>Nițu și cu ortacii lui au început un rîs cu hohot.</p>
+               <p>— Nu, Dăiene, — nu te năcăji! zise Nițu, în batjocură. Dar învață-te din pățania asta, că sărăntocii să nu cheltuiască banii luați împrumut, pe inele și cercei pentru fete bogate!</p>
+               <p>Dăian întâi a roșit, apoi s-a făcut galben ca ceara.</p>
+               <p>— Ce inele, ce fel de cercei? măi pârlitule! Spune, să știu, — ori ai mâncat ceapa cioarii? zise el tremurând de mânie.</p>
+               <p>— Vrei să ți-o spun? — Bine! Ai cumpărat inele pentru drăguță-ta, pentru Măriuța!</p>
+               <p>— Minți, bețivule! — strigă Dăian scos din răbdare.</p>
+               <p>Nițu s-a apropiat de el, ear  tovarșii lui-l-au înconjurat.</p>
+               <p>Acum avea să se hotărească totul, ce aveau ei împreună. Măriuța striga și plângea de frică.</p>
+               <p>Palizi de mânie stăteau cei doi dușmani față în față. Privirile lor pline de ură s-au întâlnit, scăpărînd fulgere.</p>
+               <p>Dăian se vedea înconjurat, Când a văzut pe Nițu că voește să-'l lovească, 'i-a dat o palmă în față încât l-a podidit sângele.</p>
+               <p>Costan a sărit la Dăian, dar in clipa următoare 1-a ajuns un pumn în față, încât s-a resturnat în șanț.</p>
+               <p>Atunci toți s-au încăerat grămadă. Nițu a scos cuțitul și a năvălit asupra dușmanului său. In clipa următoare însă Dăian-i-a prins brațul cu o mână, ear' cu cealaltă-i-a înplântat cuțitul în piept până la plăsele. Nițu s-a legănat puțin, apoi scăpând cuțitul s-a răsturnat la pământ fără simțiri. Lovitura puternică îl amețise! ear- sângele curgea șiroae. Atunci ieșiră oamenii de prin case. Măriuța leșinase, ear- cu Dăian se învârtea pământul. Când au voit să ridice pe Nițu, — acesta nu mai respira.</p>
+               <p>— A murit! — zise unul, ear bietul Dăian într-o clipă-și-a dat seamă de fapta lui. Părea că vede înaintea lui spânzurătoarea.</p>
+               <p>Purtat de instinct, a luat o la fugă, a sărit câteva garduri, apoi a luat-o prin holde spre munți, fugind mereu fără sâ știe de ce și încătrău... Numai să scape...</p>
+               <p>La casa satului se începuse licitația. Venise și Iuonel ciobanul, venise cu bani dela stână, și îi părea rău că n-a sosit la vreme, să mântuiască și vacile lui Dăian. Când au pus în tîrguite cea dintâiu părticică de pământ, Iuonel a suit tot mai mult, tot mai mult, ear oamenii se mirau, Sandu bogătanul se năcăjea; și mai mare le-a fost mirarea când Iuonel a plătit de-odată atâta pentru cele doo-trei palme de loc, încât toată datoria lui Dăian era plătită. Atunci toți au înțeles lucrul. Iuonel a plătit de dragul Saftii.</p>
+               <p>Apoi să fie într-un noroc! —ziceau oamenii. Iuonel a plătit și oamenii s-au împrăștiat. Deodată îl vede pe Sandu că povestește cu Costan, îl vede îngălbenind, apoi luându-o repede, aproape în fugă spre casă.</p>
+               <p>— Ce--i năcazul Costane? — întrebă el. Dar Costan nu a răspuns. Era palid și tremura. O femeie îi spuse apoi lui Iuonel că: uite și uite ce s-a întâmplat. Sărmanul cioban. A stat ca și lovit de fulger. Ii venea să plângă, sâ alerge în munți, dar un glas tainic îi șoptea, că n-ar fi frumos sâ părăsească în năcaz pe sărmana bătrână, mama lui Dăian.</p>
+               <p>Nici nu va duce-o mult sărmana, că-'i bătrână și slabă. și Safta va rămână singură pe drumuri...</p>
+               <p>Că cine știe ce va fi acum. Dăian, de nu va cădea prins, și nu va fi spânzurat, va trece poate în țeară, că acasă nu mai poate veni...</p>
+               <p>— Fie cum o vrea Dumnezeu! — zise el și porni spre casa unde-'l ducea dorul. Va mângâia pe bietele femei, că năcăjite vor fi bietele, tare năcăjite...</p>
+               <p>Când a intrat pe portiță, din casă se auzeau bocetele sfâșietoare ale celor doo femei nenorocite. A intrat în casă. Safta și mamă sa ședeau lângă daltă pe vatră și ochii lor erau roșii de plâns.</p>
+               <p>Când l-au văzut s-au ridicat amândoo. Nu mai aveau sfirșit mulțumitele lor. Auziseră de fapta frumoasă a lui Iuonel, care le mântuise casa și mica moșioară.</p>
+               <p>— Lăsați, dragile mele, lăsați. N-am făcut eu lucru așa de mare. Am făcut o faptă creștinească. Aceste au trecut acum. Năcazul cel mai mare-'i nenorocirea lui Dăian. Zău nu știu ce va fi. Dar bunu--i Domnul și ne va ajuta pe toți.</p>
+               <p>Bătrâna earăși s-a pus pe plâns. Dureros, fâră mângâiere. și doo ciasuri întregi s-a tot bocit cu toate mângăele lui Iuonel. Abia atunci a mai prins nădejde, când a venit vecina cu o veste mângăitoare.</p>
+               <p>— Mângăe-te lele Stană! — a zis vecina. Nu--i chiar atât de rău pa cum credeam. Acum viu dela casa lui Sandu. Nițu n-o murit A venit doftorul și-l-a trezit din leșin, șl a zis că mai este nădejde să scape.</p>
+               <p>— Har Domnului, — zise Iuonel ușurat. Atunci nu--i chiar așa de rău. Vor fi doară mărturii că s-au pus mai mulți pe el și a fost silit să se apere. și nu va robi mult, poate vre-o 6 luni. Nu vă bociți dară, vedeți că nu--i năcazul pe cum îl credeam.</p>
+               <p>— O! de s-ar îndura Dumnezeu! oftară femeile.</p>
+               <p>Se înserase. Safta a pus lumina pe masă și a eșit în tindă.</p>
+               <p>— Să rămâi la noi pe noapte Iuonele! — a zis bătrâna. Acuma-'i târziu și calea-'i lungă, apoi ne și temem singure. Safto! fă focul și pune de mămăligă!</p>
+               <p>Safta a venit în casă.</p>
+               <p>— Dacă doriți — zise Iuonel, rămân până dimineață. Apoi să puneți schimburi, că Dăian a bună-seamă s-o fi dus pe la stâna mea. Il vor ascunde vre-o săptămână, ca să vedem ce--i cu Nițu? Tămadui-se-va? Toate ie vom face cum va fi mai bine.</p>
+               <p>— Dumnezeu să-ți răsplătească creștine! a zis bătrâna. — Nu știu cum vom pută răsplăti binele ce ni-l faci, știe Domnul.</p>
+               <p>— Lasă lele că ne-om împăca noi, ne-om înțelege doară, și ne-om încuscri. Ce zici Safto?</p>
+               <p>Safta s-a întors zăpăcită. S-a uitat în ochii lui cu duioșie, pe când doo lacrămi. calde au brăzdat fața încrețită a betrânii-.</p>
+               <p>Toți au priceput, și s-au înțeles cu toții. Iuonel s-a dus la Safta și-i-a întins mâna.</p>
+               <p>— Dai mâna, Safto?</p>
+               <p>— Bădiță...</p>
+            </div>
+            <div type="chapter" n="3">
+               <head>III.</head>
+               <p>șterge-ți Măriuță lacrimile, nu mai plânge că nu piere lumea. Lumea-'i mare, — mai sunt ficiori. Bădița s-a dus, nici nu--l mai vezi, poate, la--ți gândul dela el, că în veci nu vei fi a lui. Lumea-i rea și te va bârfi. Că dacă îl vor prinde, îl vor duce la temniță, și părinții tăi nu te vor da unui om care a robit. Ori, poate nici nu mai vine; se va fi dus în țeară poate.</p>
+               <p>șterge-'ți lacrimile Măriuțo, ștergeți-le!</p>
+               <p>Uită că 'l-ai știut vreodată, că vă întâlneați sări de sări în portiță.</p>
+               <p>El îți vorbea atât de frumos, și era așa de bun cu tine, — dar cine știe, cât de curînd va veni altul, mai bun și mai frumos. și vei începe cu el povestea dragostii voastre, poate cu mai mult noroc. Că, eată, în lume toate-s trecătoare. Apa trece mereu, sunând din valuri.</p>
+               <p>Cât de îndrăgostiți sunt țermurii de undele apei, șt totuși, — apele trec și vin altele.</p>
+               <p>Nu vine iarna în urma verii?</p>
+               <p>Nu plânge codrul? — Nu își bocește frunzele căzute și doinele și murmurul de păraie? —</p>
+               <p>Plânge, — bocește, iarna toată, și iată, vine primăvara. Alte frunze, isvoare, alte doine.</p>
+               <p>Mereu, tot așa. — aceleași farmece în alte vremi și în altă formă.</p>
+               <p>Veni-va altul, și tu îl vei uita pe Dăian.</p>
+               <p>Veni-va Făt frumosul când nici nu--l vei aștepta, și cu el vor veni alte farmece, alte plăceri, — altă dragoste, în portiță... îmbrățișați.. seara pe lună..</p>
+               <p>șterge-'ți lacrimile, — nu mai plânge!</p>
+               <p>Uite, — ochii ți sunt roșii de plâns, — fața ta e palidă, par-că ai fi bolit cu anii.</p>
+               <p>Nu grăești? De ce taci? De ce stai așa îngândurată?</p>
+               <p>Gândurile, dragă, — te nenorocesc-</p>
+               <p>Te poți îmbolnăvi, cine știe, — ori alte rele — Doamne ferește!</p>
+               <p>șterge- ți ochii, Măriuțo, — șterge--ți--i!..”</p>
+            </div>
+            <div type="chapter" n="4">
+               <head>IV.</head>
+               <p>Dăian, când a fugit, avea un singur gând, — o singură dorință: să scape...</p>
+               <p>Cânele stingherit, huiduit dela stăpân, încă așa o ia peste hotare. Î1 poartă firea lui așa, pustiu și fără țintă, Ori-unde, e tot atât, numai acasă nu.</p>
+               <p>Așa era și bietul Dăian.</p>
+               <p>Ori unde, numai spre casă nu!</p>
+               <p>Dar' unde să se ducă? Să treacă în țeară? Așa, fără merinde, fără bani,fără schimburi?</p>
+               <p>S-a gândit să treacă pe la stâna lui Iuonel. Ii va povesti totul, și îl va ruga să coboare în sat și să-i aducă cele trebuincioase.</p>
+               <p>Dar- dacă Ionel îl va vinde? Se va teme poate să lege tovărășie cu un ucigaș? Să îl ajute? și totuși, altcum nu se poate. Iuonel e bun și va avă milă de dînsul.</p>
+               <p>Cu gândurile aceste a luat-o spre stână. Era pe însărate, stâna era închisă. A bună-seamă — credea dînsul, — Iuonel nu va fi venit cu turma acasă dela pășune.</p>
+               <p>S-a hotărit să-'l aștepte și s-a pus pe podmol să mai odihnească.</p>
+               <p>Abea ce s-a așezat, capul căzut greu în palme,-și-a astupat fața și atunci toate gândurile au năpădit deodată asupra lui.</p>
+               <p>Sărăcia, vacile, pământurile licitate, ma  mă-sa și Safta. Le vedea plângând și scoase pe uliți, ori cine știe? Poate va fi și murit de durere sărmana bătrână.. va fi întinsă moartă... și el nici nu poate sâ meargă la îngropare...</p>
+               <p>și îl podidiră lacrimile pe sărmanul om și-l-a cuprins o jale de nespus.</p>
+               <p>Apoi 'ia venit în minte Măriuța.</p>
+               <p>Unde-'s nădejdile lor de dragoste? A cui va fi dînsa oare de-acum? Mai gândește-se la el? Il urește poate ca pe un ucigaș? și la gândul acesta ântâia-dată 'i a venit să se răsvrătească.</p>
+               <p>Pentru-ce--s aceste rele pe biet capul meu? Ce am greșiți Dreptate--i asta?...</p>
+               <p>Apoi 'l-a cuprins mănia. Îi venea să se întoarcă între oameni și se se răsbune. Să se împotrivească legii și oamenilor..</p>
+               <p>Pe urmă s-a molcomit. și a răzimat coatele pe genunchi și s-a cufundat de nou în gânduri.</p>
+               <p>Așa de pustiu îi părea viitorul lui. Va trece în țeară și va munci ca să trăiască de pe o zi pe alta. Alte dorințe ce să mai aibă? Va muri în străini, uitat de toți...</p>
+               <p>Mamă-sa nu mai are multe, va muri ducând dorul feciorului său, și purtând rușinea lui. Ear Safta? De dinsa va fi mai rău, că, săracă și batjocoriră cum va fi ea, nu va lua o nime.</p>
+               <p>O noapte întunecată ii părea viitorul, plin de lacrămi, de griji și de gânduri.</p>
+               <p>I-au venit în minte dușmanii lui, — Eu nu le am făcut nimic, — își zicea el, — eu nu--s de vină. Altfel mă omora el pe mine. Ce ții omul rău.. Dar- cum 'l-am junghiat așa rău...?</p>
+               <p>A scos cuțitul și-1 a privit lung. Când a văzut o pată de sânge pe plăsele, s-a cutremurat... l-a scăpat din mână. Apoi s-a întunecat de nou. 'L a prins un dor să se scape de lume.</p>
+               <p> — Uite, — își gândea el — o lovitură în inimă cu cuțitul acesta și toate s-au sfîrșit; dureri, gânduri, năcazuri, pribegire, toate o toate...</p>
+               <p>și a ridicat cuțitul de jos..</p>
+               <p>Atunci s-au auzit falangele pe coastă” El a tresărit. Apoi s a ridicat să vadă turma. Pe Iuonel nu 'l-a văzut; paza turmei o ținea un băiețel, pe care-'l luase Inonei de mic la turmă, un băiețel orfan.</p>
+               <p>Au început să latre cânii, și atunci băiatul a plecat spre stână.</p>
+               <p>— Unde-i stăpânu tău? — întreba Dăian.</p>
+               <p>— S-a dus în sat de azi dimineață. Mă mir că n-a venit. Da trebue să vie...</p>
+               <p>În sat... atunci dară știe totul?... se gândea el.</p>
+               <p>— Să-i spui, că am fost aici, dar m-am dus. Voi veni mâne! — zise el, apoi o lo pe coasta muntelui în sus. S-a adâncit în codri, și tot mai repede mergea, fără să știe unde. Să înoptase deabinele, abea la razele lunii mai vedea cărarea.</p>
+               <p>Sburau pasări spăriate din tufiș, pe urmă a început să țipe bufnița, și lui așa de urît îi părea glasul ei. A luat un lemn și a hâșăito. S-a tot dus, până într-un târziu a văzut pe o culme, un foc. știa că--s lemnarii, cari noptează în pădure, s-a luat dară spre ei. Erau dintr-un sat vecin și îi cunoștea. Le-a spus, că a venit la pădure după un lemn de tânjală și a înoptat. S-a pus cu dînșii în povești, apoi când toți au adormit s-a dat mai aproape de foc și s-a culcat. Dacă a mai ațipit șt dînsul puțin cătră mezul nopții, a fost de oboseală; dar vai de somnul lui!</p>
+               <p>Nici nu s-a crepat bine de zio, când s-a deșteptat. Lemnarii dormeau și dînsul s-a depărtat încet, s-a coborît mai spre poale și s-a cufundat în codri. Nu știa încătrău să mai pornească. La Iuonel, la stână, nu ar fi bine să se ducă, de oarece el știa a bună seamă că vor fi plecat gendarmii să-'l caute și, știind de prietenia lui cu Iuonel, acolo îl vor căuta ântâiași dată.</p>
+               <p>și totuși, acum, când-l-a prins și foamea, — simțea că trebue să dea pe la stînă.</p>
+               <p>Nu să putea hotărî însă; — cu toate aceste, fără voe pașii lui tot spre stînă îl duceau.</p>
+               <p>S-a oprit pe o muche de deal, într-o rariște de brad. Soarele ieșise de doue suliți pe cer. In depărtare, prin văile înrouate ieșiseră turmele la pășune. Turnul bisericii din Măgura strălucea in razele de soare. — Oltul strătăia câmpia ca un șerpe uriaș de argint.</p>
+               <p>Pe drumul mare, carăle păreau furnici mărunte.</p>
+               <p>S-a așezat pe un trunchiu de brad răsturnat și privirea lui a săgetat în depărtare, — s-a oprit pe turnul bisericii din Măgura.</p>
+               <p>A oftat dureros, și l-a apucat un dor de satul lui. Ii părea atât de neînțeles, că de ce nu poate merge el acum acasă? De ce nu poate urma dorului? Cât de bucuros ar coborî el acum coasta muntelui și ar trece Oltul. Ar întra în sat, ar da binețe la toți, apoi s-ar duce acasă: Măicuță, — am venit!</p>
+               <p>Dar- nu să poate! — nu să poate!</p>
+               <p>Bietul om. Ii părea că nu o va pute duce mult de dor.</p>
+               <p>și-a pus mâna la piept, respirând aerul dimineții cu nădejdea, că aerul zorilor î1 va vindeca.</p>
+               <p>Atât de pustiu și huiduit se simțea, și avea atât de puțină dragoste pentru traiu în viitor.</p>
+               <p>Deodată s-a sculat și a plecat cu pași repezi spre stînă.</p>
+               <p>Era departe încă până la stînă, dar el mergea repede...</p>
+               <p>N-avea nici o teamă, nici o presimțire. Era aproape la ameazi, când a zărit turma lui Iuonel pe o coastă. Era numai băiatul cu turma.</p>
+               <p>Iuonel va fi în stînă, — îl va aștepta, — asa credea el.</p>
+               <p>S-a dus mai aproape și a strigat băiatul pe nume.</p>
+               <p>— Acasă-i stăpân--to măi? —</p>
+               <p>Cânii au început să latre, ear băiatul s-a întors ca spăriat. N-a răspuns nimic, dar' privea încurcat spre stînă.</p>
+               <p>Dăian nu știa ce să creadă.</p>
+               <p>Toate-i-au trecut prin minte, numai una nu. Aceea că poate îl vor fi căutat la stinâ.</p>
+               <p>In năcaz omul adese-ori își pierde simțul de frică și darul gândirii lui slăbește.</p>
+               <p>Mai în zori se temea să vie la stînă șt acum era altfel.</p>
+               <p>Nu credea că să fi pornit așa curând pe urma lui.</p>
+               <p>A stat nedumerit la marginea pădurii. Intre el și între stînă era o colină stearpă. De-odată, pe vîrful colinii au apărut doi gendarmi și un țăran, care îi călăuzea. A fost văzut. țăranul l-a văzut îndată.</p>
+               <p>Uite lupul„ strigă el arătând spre Dăian.</p>
+               <p>Dăian însă dispăruse după arbori. S-a pornit urmărirea. țăranul, un june din Măgura, era prieten cu Nițu. Fusese și dânsul între cei cari 1-au fost atăcat pe Dăian în drum. Era feciorul unui țăran cu stare din Măgura, vâr cu Nițu; îl numeau în șagă: Vulpoiu.</p>
+               <p>— Veniți după mine! strigă dânsul și o lo după dușmanul lui, care dispăruse în pădure...</p>
+               <p>Jendarmii au apucat puștile în mână și au luat-o în fugă urmând pe Vulpoiu.</p>
+               <p>Săriau peste crengi rupte și arbori sturnați, peste gropi și stânci. Ear pădurea să făcea tot mai deasă. țineau însâ urma, ca niște copoi buni.....</p>
+               <p>Dăian alerga cu desperare ca un cerb urmărit de vânători. Auzea la spatele sâu strigătele lut Vulpoiu și-l cuprinse mânia, — dar' n-avea ce face. S a răsturnat peste un brad uscat și dând cu mâna într-o peatră ascuțită s-a rănit la mână.</p>
+               <p>S-a sculat însâ repede și fugea cu putere îndoită, — ear  sângele curgea din mâna lui. Pe urmă nu se mai auzeau strigătele urmăritorilor.</p>
+               <p>Vor fi pierdut urma... Se duse la un isvor și își spălă rana, pe urmă își scoate năfrămuța și O legă. Cotind apoi pe căi lăturașe a luat-o spre creasta muntelui.</p>
+               <p>Trecuseră cam doo ceasuri și dânsul alerga mereu.</p>
+               <p>Intr-aceea Vulpoiu alerga mereu, și nu greșise urmele, — dar' jendarmii nu s-au putut țîne de dânsul.</p>
+               <p>El însă, — purtat de ură, aprins de neînfrânata dușmănie, nici nu--i băgă în seamă. Când a sosit pe o culme s-a văzut față-n față cu Dăian.</p>
+               <p>Întâlnirea neașteptată în clipa aceea, cum era ostenit,-l-a desmetecit puțin și-l-a făcut sâ se oprească.</p>
+               <p>— Aici ești tâlhărule? — strigă dînsul și se uită împrejur să vadă; nu vin jendarmii?</p>
+               <p>Cei doi dușmani steteau față în față, ca doi tigri, gata să se încaiere. și jendarmii nu veneau, cu toate strigătele lui Vulpoiu. Glasul lui s-a repetat în echoul depărtat, și mai mult nici un sgomot.</p>
+               <p>Vulpoiu s-a hotărit îndată. A pus mâna pe cuțit și s-a apropiat de Dăian, care îl aștepta gata de luptă, tăcut, — cu ochii scînteitori.</p>
+               <p>A fost o luptă scurtă, S-au încăierat ca și prinși cu deștele, pe urmă s-au tăvălit pe jos. Dăian a scăpat cuțitul, dar cu stânga ținea de mâna lui Vulpoiu. și respirau greu, fără să grăiască nici unul.</p>
+               <p>Cu mâna dreaptă îl sugruma, ear Vulpoiu a mușcat cu furie în umărul potrivnicul lui seu. Pe urmă simțea că respirarea lui se oprește,-l-a. cuprins o moleșire, a scăpat cuțitul și s-a sleit, fără putere. Dăian a ridicat cuțitul, l-a avântat și în clipa următoare sângele lui Vulpoiu  l-a împroșcat în față.</p>
+               <p>S-a ridicat apoi și aprins de focul luptei și de mânie a dat cu piciorul în corpul cald. L-a privit cu bucurie animalică până ce ochii sticloși a lui Vulpoiu s-au deschis mari, privindu-'l rece, răutăcios.-L-a mai lovit odată, încât s-a rostogolit la trei pași, pe urmă a luat-o de nou la fugă, fără să simtă, fără să se mai gândească, purtat numai de dorința firească ce o are și dobitocul, să scape nu cadă prins...</p>
+               <p>Cam spre însărate au sosit și jendarmii la locul luptei. Au înțeles îndată cele întâmplate dar' fiind seară, nu puteau urmări pe Dăian.</p>
+               <p>Au făcut un pat de crengi, au luat corpul lui Vulpoiu șt au plecat spre sat. In razele soarelui ce apunea, Dăian i-a văzut luându-o pe drumul mare spre Măgura...</p>
+               <p>Deocamdată se simțea scăpat. In urma îngrozitoarelor întâmplări părea că nu simte mustrări, și nu mai simțea nici foamea, nici osteneala. Simțurile lui înlemniseră. Nici rău nici bine nu--i părea..</p>
+               <p>Pe urmă s-a coborit noaptea pe codru, învălind cu un văl des locul păcatului. Coroanele arborilor s-au împreunat par-că, închegându-se în vălul negru al nopții.</p>
+               <p>Intr-un târziu s-a desmetecit și Dăian.</p>
+               <p>Ii era frig și foame. A făcut foc, a scormonit niște rădăcini fragede și mânca lacom. Spre miezul nopții a răsărit luna și dînsul nu putea să adoarmă. Creștetele munților se vedeau bine, luminate de razele lunii. A lăsat focul aprins, apoi a luat-o spre virful muntelui. Mergea împletecindu-se, fără gânduri, fără dorinți, un drum lung, poate fără întoarcere.</p>
+               <p>Nici dînsul nu știa anume, că unde merge. Departe, cât mai departe, și pe mâne dimineață să fi trecut hotarul, în țară.</p>
+               <p>și s-a tot dus...</p>
+            </div>
+            <div type="chapter" n="5">
+               <head>V.</head>
+               <p>Trecură doo săptămâni. Incet, greoi, trecură ele pentru Măgureni. Pe Vulpoiu-l-au îngropat, — Nițu se însănătoșia, ear urmele lui Dăian s-au perdut...</p>
+               <p>Iuonel ciobanul a fost prins de jendarmi, crezându-l părtaș, și crezând că îl ține cu merinde pe Dăian.</p>
+               <p>Dar nu s-a putut dovedi nimic și peste cinci zile-l-au lăsat.</p>
+               <p>Mare era amarul lui pentru cele petrecute, dar și mai mare era supărarea bietei lelea Stana, muma lui Dăian. A prins-o boala pe biata femeie și plângea mereu și se căina. și pe zi ce merge, tot mai slabă</p>
+               <p>se făcea. Dela o vreme-și-a luat nădejdea dela viață.</p>
+               <p>Era într-o seară, când și Iuonel era la ei. și cuvânta bătrâna: Uitați dragii mei, — ar fi bine să vă cununați, că aș vră să vă văd așezați până când mai trăiesc.., că văd eu bine cum s-o sfârși. Nu voiu duce-o zile multe, că prea mă doare soartea mea. Simțesc eu sfirșitul meu și ca mâne mă și spovedesc la popa Niculae.</p>
+               <p>— Nu--ți face gânduri rele, maică! — zicea Iuonel, ear Safta plângea. Dar bătrâna nu mai contenea:</p>
+               <p>— Lăsați dragii mei, că mai bine-i așa. De ce să mai trăesc acum?</p>
+               <p>Ficiorul meu, — ficiorul meu sărmanul,. — Doamne, — pe unde va fi acum...</p>
+               <p>și plângea bătrâna, — plângea cu hohote.</p>
+               <p>Apoi, ca Duminecă, s-a sculat și ea din pat, că era cununia lui Iuonel și a Saftii. S-a. dus șî ea la biserică și multă durere a simțit,, că n-a venit mai nimenea la cununie.</p>
+               <p>Vecinele și crîsnicul, apoi niște copii. Nici Măriuța judelui n-a venit, că zăcea sermana în pat, veștezînd mereu.</p>
+               <p>După cununie au venit vecinele și au ospătat, așa ca la mort, fără veselie. A venit și judele Marin, dar1 era tare supurat sermanul pentru fată-sa.</p>
+               <p>Ear' în ceealaltă zi bătrâna earăși a căzut la pat. și ca a treia noapte a murit încet, — istovită, ca o lumină pe gătate.. Au îngropat-o creștinește, între bocetele Saftii și ale vecinelor.</p>
+               <p>Ionel și-a rinduit apoi trebile și s-a dus cu Safta lui să șeadă la stână. Vor mai scăpa de gurile oamenilor răi...</p>
+               <p>Dumineca veneau apoi în sat și puneau flori pe țarina uscată de pe mormântul bătrânii.</p>
+               <p>Glia s-a uscat, încet, și a răsărit iarbă din ea, înverzind mormântul cu verdeață întunecată — de toamnă.</p>
+               <p>Multe și încurcate sunt cărările vieții. Soartea te călăuzește pe ele. Nu te învinui dară, dacă mergând pe calea vieții -ți ai rupt piciorul. Mergând pe altă cărare, cine știe, îți frângeai poate gâtul.. E greu, ce- i drept, să nu te plângi când te chinuesc durerile...</p>
+               <p>Doamne, durerea de ce ai dat-o și inimelor nevinovate?</p>
+               <p>După zile frumoase pot veni zile cu nori, după o vară poate urma toamna, dar- durerea după fericire este prea neîndurătoare!</p>
+               <p>Ce-i boala corpului pe lângă boala sufletească?</p>
+               <p>Ce te înduioșează oare mai mult, toamna din natură ori fața veștejită de durere a omului, care bolește de boale sufletești?</p>
+               <p>Crinul veștejit de bruma tomnatică, ori fața palidă și suptă a sărmanei copile, Măriuța judelui Marin, și ochii ei plânși?</p>
+               <p>Sărmană fată! Tu n-ai știut să nu nădăjduești prea mult în viitor, ca să nu- ți fie prea mare înșelarea.</p>
+               <p>Tu, neștiutoare, prea mult credeai norocului și fericirii, ca durerile ce te-au ajuns să nu te ofilească.</p>
+               <p>Ce mult 1-ai iubit... cu cât drag nu 'ți-ai fi dat vieața pentru dînsul, când îți vorbea atât de blând, despre fericirea voastră când vei fi a lui, când veți avă cuibul vostru, dragostea voastră, trecând prin vieâță mână în mână, drăgostindu-vă ca doi porumbei.</p>
+               <p>și acum toate, toate s-au dus, ca un vis, ca o poveste uitată, ca o doină dureroasă, cum se perde în pacea sării.</p>
+               <p>Din toate n-a rămas decât o nesfîrsită duioșie în sufletul tău, durerea iubirii perdute și a fericirilor visate.</p>
+               <p>Ear dimineața tot mai palidă te vezi în oglindă, și ochii tăi tot mai stinși ți-i vezi...</p>
+               <p>Nădejdea ta s-a pustiit pe dealuri, și vieața ta se stinge încet, duios ca murmurul de clopot, ca lumina luceafărului dimineața...</p>
+               <p>Noroc perdut, vieață perdută..</p>
+               <p>și se veștejea Măriuța zi de zi.</p>
+               <p>Ii treceau greu zilele și vieața îi părea povară. Nu s-a mai dus nici la horă, Când s-a desprimăvărat, ședea seara pe podmol și își pierdea privirile prin stele... o cuprindea atunci un dor adânc, o durere fără hotar, inima ei se strângea, respirarea îi era mai grea, până-când începeau să-'i isvorească lacrimile din ochi și se mai ușura.</p>
+               <p>Venea mamă sa și o striga să se culce.</p>
+               <p>— Mai lasă-mă mamă!...</p>
+               <p>— Bine, draga mea, rămâi... da nu te mai gândi mereu., fâ--ți veselie, rîzi, uită...</p>
+               <p>Așa voiu face mamă..</p>
+               <p>și earăși rămânea singură și earăși plângea.</p>
+               <p>Pe urmă întră în casă în odaia ei, lua ceva de lucru și se punea pe cusut. și pe firul de arniciu se înșirau gândurile ei. Voind apoi să--și uite durerea, începea fără voe un cântec de dor duios trăgănat. și cânta încet, cu glas slab, încât abia se auzea:</p>
+               <quote type="verse">
+                  <l>Bade-o dragostile noastre</l>
+                  <l>Au remas pustii pe coaste...</l>
+                  <l>Plâns-ani bade-o, după ele.</l>
+                  <l>și din lacrimile mele</l>
+                  <l>Au răsărit viorele...</l>
+               </quote>
+               <p>Pe urmă earăși tăcea vreme indelungată, și o podideau lacremile, și udau picurii calzi țesetura și ochii fetei se roșîau de plâns.</p>
+               <p>Ii părea apoi că bădișorul ei trebue să vină, că e dus departe, dar'...</p>
+               <p>Si atunci cânta earăș:</p>
+               <quote type="verse">
+                  <l>Nu ți-ar fi bade pecat, —</l>
+                  <l>și-aseară te-am așteptat,</l>
+                  <l>Tot cu foc și cu lumină</l>
+                  <l>și cu dor dela inima...</l>
+                  <l>Când am vfiz-t că nu mai vii,</l>
+                  <l>Mi-am pus dorul căpătâi,</l>
+                  <l>Doamne reu me odihnii...</l>
+               </quote>
+               <p>Ear  pe când așternea patul, cânta mai departe, încet, — cu nesfirșită duioșie:</p>
+               <quote type="verse">
+                  <l>Azi noapte când mă trezii,</l>
+                  <l>Văzui dorul inimii.</l>
+                  <l>Scris pe fața perinii;</l>
+                  <l>Cu cerneala ochilor</l>
+                  <l>Cu peana sprâncenelor...</l>
+               </quote>
+               <p>și se culca plângând. Vai de odihna ei! Visa visuri de fericire și când se trezea suferințele ei erau și mai mari.</p>
+               <p>Si--n altă zi earăși o mistuia dorul. Ii rodea inima, ii omora sufletul. Nădejdea ei se pustia pe dealuri, — vieața ei se stingea încet, — duios, — ca murmurul de clopot, ca lumina luceafărului dimineața...</p>
+               <p>Noroc perdut, — viață perdută...</p>
+            </div>
+         </div>
+         <div type="group" n="2">
+            <head>Partea II.</head>
+            <div type="chapter" n="1">
+               <head>I.</head>
+               <p>Nițu, după-ce s-a insănătoșat, a dat-o și mai mult pe — beție. Nu era săptmână în care se nu facă el 3—4 nopți — din noapte, zio.</p>
+               <p>Costan se ținea de el ca scaiul de oae și pentru bețiile cu Nițu, mult necaz avea și el cu mama lui.</p>
+               <p>Dar- Nițu începuse mai târziu prea cu grosul. Că a furat el din a părinților cât a furat, dar dela o vreme a dat măsa de veste si a mutat banii.-I-a închis în ladă și a luat cheia la dinsa.</p>
+               <p>Odată apoi, după-ce Nițu petrecuse doo nopți, — având lipsă de parale, s-a pus și a spart lada.</p>
+               <p>Să știi că avuse după aceea de furcă cu tată-său Sandu.</p>
+               <p>Odată-l-a trimis la tîrg la Făgăraș cu doi boi și Nițu a vândut boii, dar- când sâ vie acasă, — bani ca-n palmă. Nu--i vorbă,a venit numai peste o săptămână, dar totuși, să toci în șepte zile 300 de zloți, — ei, asta nu--i glumă. și a zis nenea Sandu cătră ficiorul seu: Măi Nițule! de nu mă asculți! — de nu te lași de hoherie, — iau furcoiul la tine, și mi-te îmblătesc, cât vei gândi că ești earăși băiat.</p>
+               <p>și a zis Nițu: Tată! Asta să nu o încerci! (Era cam amețit Nițu atunci). Că eu nu glumesc. Pă cum mi face d-ta de rușine, — așa te-oi face eu. Când dai în mine, te prind și te înfund sub vatră!</p>
+               <p>și s-o mâniat foarte nenea Sandu pentru astfel de cuvântare, și-i-a dat ficiorului seu o palmă zdravănă, Atunci Nitu. nici una,nici doo, — sa sufulcat și l-a înhățat pe tată-so, și drumul cu el sub vatră.</p>
+               <p>Apoi a venit maică-sa cu vătrarul și l-a tocat în cap pe ficioru-su, ear- Nițu s-a mai desmetecit puțin și a văzut că nu--i cu cinste să lovească în mă-sa. A eșit deci afară în curte, — dar- mă-sa se căina mereu, —că să o fi bătut Dumnezeu atunci când-l-a născut pe hoherul ăsta.</p>
+               <p>Dar a eșit Nenea Sandu de sub vatră mănios din seamă afară.</p>
+               <p>— Nea — Nițule! — a zis el, — mai mult de azi să nu-'mi mai calci pragul, — că, Dumnezeu să mă ierte, dar trag cu pușca în tine. — asa să știi!</p>
+               <p>A stat Nițu și s-a mai socotit, apoi n-a zis nici ziua bună și s-a dus de-adreptul la cârcimă, și s-a pus de nou pe beute. Era și Costan cu dinsul și Nițu -i-a povestit cele petrecute.</p>
+               <p>De atunci, — și până într-o săptămână ei n au mai ieșit din birt.</p>
+               <p>Mai avea și Costan bani, apoi au căpătat pe credință.</p>
+               <p>Asta era ca: după Crăciun. Afară era ger și vânt.</p>
+               <p>Costan a mai dat-o și pe acasă, ear- cârcimarul — auzind de cele întâmplate, a zis că lui Nițu nu--i mai dă pe credință.</p>
+               <p>Era pe la 10 ciasuri seara. Toți oamenii s-au fost dus din birt pe la căminuri, numai Nițu sta singur la masă. Cea de pe</p>
+               <p>Sa dus în turn și a luat funia dela cchh pot, a coborît apoi și a legat-o de stâlpul</p>
+               <p>dela ușe. Funia era: numai bună.</p>
+               <p>și toate ii reușeau atât de bine, și nu-i era frică de loc.</p>
+               <p>Mai greu e să te hotărești la păcat, decât să păcâtuești.</p>
+               <p>S a prins de funie și s-a lăsat în biserică. Pașii lui sunau surd în pacea nopții când s-a dus în altar să aprindă o luminiță. și vântul isbea cu putere în ferești.</p>
+               <p>Când a ieșit din altar cu lumina aprinsă, ochii lui au căzut pe icoana sfântului Ilie.</p>
+               <p>L-a cuprins frica. Ochii sfântului de pe icoană îl priveau mânioșii — înfiorați...</p>
+               <p>Ear Nițu, ca se--și arete șieși că nu se teme, s-a apropiat de sfântul Ilie, — și-a rânjit în față, apoi, — ca să se înbărbăteze și mai mult, a pus mâna pe mâna sfântului de pe icoană.</p>
+               <p>— Bună seara sfântule! zise el rînjind diavolește, — dar la atingerea rece a icoanei s a cutremurat. Simțea că îl cuprinde frica —</p>
+               <p>S a dus apoi iute la lăduța unde se puneau banii adunați dela credincioși — Era lăcată pe ladă, dar el a rupt-o fără multă osteneală. A băgat toți banii în șerpar.</p>
+               <p>Erau vreo 60 de zloți.</p>
+               <p>Pe urmă a pus lăcatul frumos la loc, încât no se putea vedâ, că a fost rupt, — apoi s-a urcat pe funie, în cor. A luat funia și a pus-o la clopot.</p>
+               <p>Când s-a vâzut de nou în stradă, a resuflat mai ușor. Nu simțea nici o părere de rău. Ii părea că n-a păcătuit nimic, — că el avea drept la banii aceia. — știa, că nimenea nu o sâ-'l bănuească pe el. De altcum furtul nici nu se va afla în curând, și când se va afla, bănueala va cade asupra curatorilor, ori a crâsnicului.</p>
+               <p>Era spre zio și l-a prins somnul.</p>
+               <p>N-avea ce să facă — s-a dus acasă, s-a urcat în podul șurii și a pitulat banii sub o grindă. știa dînsul, că de banii aceia să nu se atingă până nu se va împăca cu părinții, ca să nu-l poată bănui nimenea.</p>
+               <p>Pe urmă s-a îndesat în fân și ostenit cum era, a adormit.</p>
+               <p>Trezindu-se, voia chiar sâ se coboare, când a vâzut pe tată seu prin curte. A râmas deci în pod.</p>
+               <p>Sandu a venit de a tras căruța din șură — A pus apoi hamurile pe cal și l-a prins la căruță.</p>
+               <p>Din vorbele lui cu sluga, Nițu a înțeles că se duce la Făgăraș.</p>
+               <p>Asta-'i era bine venit. După ce a plecat Sandu, — s-a dat jos și a intrat în casă.</p>
+               <p>Mamă sa era în tindă.</p>
+               <p>Da tu Nițule! — zise ea mirată.</p>
+               <p>— Mamă, — nu mai pot de foame! și a cuprins-o mila pe biata femeie. A făcui o păpară din cinci oao și-i-a dat se mănânce.</p>
+               <p>— Vezi, vezi, Nițule, — cum te-ai stricat tu! — zise ea.</p>
+               <p>— Picatele mele, mamă! Dar- veți uita și d-voastră!</p>
+               <p>— Că eu uit din parte--mi, Nițule, da să știi că cu tată-tu să nu dai față! — Nici nu vrea să-'ți audă de nume.</p>
+               <p>Cătră ameazi Nițu a stors dela mamă sa câțiva zloți, ca să--șî plătească datoria și să mai și aibă. Că a zis bătrână cum îi era milă că de nu va mai bea, — dînsa '1-a mai ajutora așa pe sub mână.</p>
+               <p>Ear Nițu a plecat și s-a dus de-a-dreptul în birt.</p>
+               <p>A cerut de beut pe bani gata.</p>
+               <p>A dat Costan pe acolo, și s-au pus amândoi la beute.</p>
+               <p>Când pe la ojină, iată că întră mamă-sa lui Nițu în cârcimă.</p>
+               <p>— Da tu eară ești aci. mei afurisitele?</p>
+               <p>— zise ea.</p>
+               <p>— Am venit mamă, se-'mi plătesc datoria, pe cum ți-am spus. — și gândeam să și bem o cupă, — dar' numai o cupă.</p>
+               <p>A venit și birtașul și era vesel, că Nițu s-a împăcat cel puțin cu mamă-sa. El credea ca pierduți banii cu care îi datoria Nițu.</p>
+               <p>Bătrâna s-a dus, — dar' zorile zilei următoare pe Nițu și Costan-i-a găsit tot în birt...</p>
+            </div>
+            <div type="chapter" n="2">
+               <head>II.</head>
+               <p>Trecură doi ani de când Dăian fugise în țeară, — împrejurimile Măgurii însĂ tremurau când se pomenea de dînsul.</p>
+               <p>Din patru sate s-au fost furat banii bisericei, și dela bogății din împrejurimi în mai multe rînduri. Un negustor de vite a fost ucis în drumul mare, când venea dela tîrg și a fost jefuit. La judele Marin au intrat în casă, spărgând ușa pe când nu era nimenea acasă și au dus toți banii câți îi avea în ladă. Un om bătrân a fost ucis și jefuit pe când ducea banii pentru dare la Făgăraș.</p>
+               <p>Ear' cei ce făceau aceste hoții- au fost atât de isteți, de au pus vina pe Dăian. Spuneau, că s-a făcut hoț și se ascunde prin codrii. Ba Nițu spunea, că 'l-a și văzut travestit în haine de domn, pe drumul mare și când 'l-a cunoscut, Dăian a luat-o la fugă.</p>
+               <p>și alții — șt alții, — aproape toți ziceau că-l-au văzut. In zădar spunea Iuonel că Dăian s-a dus în țeară, nime nu credea, — ba se uitau și la el chiorîș bănuindu--l părtaș.</p>
+               <p>Înzădar au pornit patrule de gendarmi prin codri, — nu-i-au dat de urmă. Ear jafurile se urmau mereu. Poporul îi ducea frica, — ba spăriau copiii cu numele lui. Se spunea, că a găsit iarba fiarelor și că a dat în legătură cu necuratul. Vestea lui de hoț mare a străbătut prin întreg Ardealul. Spuneau că se duce prin cedri până pe la Hațeg și Deva jefuind și omorînd pe unde putea.</p>
+               <p>Ba au făcut și cântec despre el. și adevărații hoți, — Nițu șt Costan jefuiau împreună fără teamă...</p>
+               <p>Era o zi frumoasă de primăvară.</p>
+               <p>La Făgăraș era zi de tîrg. Era lume multă la oraș, — mișunau tîrgașii cu toiu mare. Într-o cârcimă ședeau la masă Măgurenii si benchetuiau. Voiau doară să arete și acum străinilor, că ei au din ce chefui.</p>
+               <p>Era și Nițu și Costan între dînșii. Cătră seară au prins apoi la căruță și au plecat zare și pe drăguța hoțului.”. și oamenii au prins-o și au duș  -o sub spânzurătoare. Ea striga, dar nimenea nu o asculta. Pe urmi călăul i-a pus lațul in gât și a ridicat o în aer... și ea se sbătea, lupta cu moartea, se înădușea</p>
+               <p>Biata fată. Puterea închipuirii a fost atât de mare, încât sărmana se svlrcolea într-adevăr, — a răsturnat pernele,-și-a rupi hainele. Pe urmă a început să țipe, a sărit din pat, — a spart fereastra, — apoi lampa</p>
+               <p>— pe urmă oglinda, — țipa mereu cu desperare. Apoi voind să fugă, s-a lovit de părete și fața ei s-a umplut cu sânge.</p>
+               <p>La sgomotul acesta s-au trezit apoi părinții și judele a intrat cu lumina în odaia Măriuții</p>
+               <p>Când razele luminii au bătut în ochii e sticloși, — Mănuța a năvălit asupra tatălui seu</p>
+               <p>—-și-a încleștat degetele în brațele lui încât a țâșnit sângele șiroiu, văpsindu--i cămașa. / prins apoi să muște, — lumina s-a stîns, ear în întunerec s-a încins o luptă desperată între tată și fiica lui — nebună.</p>
+               <p>Până ce au venit vecinii și au legat-o în pat, nu rămăsese haină întreagă pe sărmanul om” — Dar- el plângea.</p>
+               <p>Lelea Floare leșinase, ear- nebuna se zvârcolea mereu în legăturile tari, striga, și ochii ei sticloși căzuseră adânc in orbite, — Când au spălat-o de sânge, sa mai liniștit puțin, pe urmă a cuprins-o oboseala, — a adormit.</p>
+               <p>Vecinii-i au ținut pază până în zori când a venit doftorul.</p>
+               <p>Până atunci s-a fost umplut tot satul cu vestea, că Măriuța judelui a — nebunit...</p>
+            </div>
+            <div type="chapter" n="3">
+               <head>III.</head>
+               <p>A mai trecut un an. încet, greoiu, ca zilele ploioase.</p>
+               <p>Fata judelui nu s-a mai însănătoșat. Nu mai spărgea, nu mai țipa, — dar- era ca un mort viu. Nu cunoștea pe nimenea, nici măcar pe părinți. A zis medicul s o lase în voia ei, să nu o închidă în casă.</p>
+               <p>Era o nebună blândă, care plângea mereu, ca din senin. Rîdea apoi ți cânta. Se îmbrăca de mireasă și atunci nimenea sâ nu fi greșit ceva... Zicea că se cunună cu Dăian - că el vine la ea, — că o iubește.</p>
+               <p>și pornea atunci prin sat, — mergea la horă, se mesteca între cei-ce jucau și îsi închipuia că e nunta ei.</p>
+               <p>Pe urmă earăși plângea, — pleca acasă, — arunca hainele de mireasă și se ascundea după vatră.</p>
+               <p>Mare era supărarea judelui Marin și a lelii Floare, șî la toți le era milă de biata Măriuță.</p>
+               <p>Era în dricul verii, într-o Duminecă, toată Măgura era la horă, — la marginea satulului. Tinerii jucau, ear' bătrânii steteau tolăniți pe iarbă și povesteau.</p>
+               <p>De-odată lăutarii au încetat să cânte.</p>
+               <p>Dinspre sat venea Măriuța în haine de mireasă. — Venea încet, cu capul ridicat, ținându--și corpul țapin. și cânta încet, — încet, — cu glasul stîns:</p>
+               <quote type="verse">
+                  <l>— Vina bade ear' acasă</l>
+                  <l>Să te--mbrac tot în metasă,..</l>
+               </quote>
+               <p>Toți tăceau, ear Măriuța se tot preumbla în cerc, — rîdea și earăși cânta:</p>
+               <quote type="verse">
+                  <l>— Vino ear la mine dragă</l>
+                  <l>Nu te dau pe lumea 'ntreagă...</l>
+               </quote>
+               <p>Femeile își făceau cruce, — fetele lăcrimau. Jocul s-a oprit. Numai Nițu și Costan înjurau.</p>
+               <p>Nițu spunea, că nu mai merge, că din pricina unei nebune să nu poată juca. Se o ducă la Sibiiu la casa nebunilor, că odată</p>
+               <p>într-o mănie, se scapă și o lovește în cap, de nu se mai scoală...</p>
+               <p>Oamenii îl mulcomeau, dar- el voia să se arde aspru. S-a apropiat de nebuna și a scuturat-o de piept.</p>
+               <p>— Dute acasă tu, toantă! — striga el cât îl ținea gura.</p>
+               <p>Nebuna s-a oprit în loc. Privea la el par-că nu l-ar înțelege, — dar nu s-a mișcat.</p>
+               <p>Apoi a început să plângă. In clipa următoare a cuprins-o apoi furia, s-a aruncat asupra 1ui 'și-a inplântat unghiile în fața lui Nițu. S-au încăerat apoi de odată și au căzut la pământ.</p>
+               <p>Nițu nu putea să scape. Sângele îi umpluse fața. Au sărit oamenii să--i despărțească, — au smâncit-o la o parte și atunci un petec de carne de pe obrazul lui Nițu a râmas între unghiile nebunei. S-a făcut vălmășag. Pe Măriuța au legat-o cu funii și au dus-o acasă ear Nițu înzădar cerca se oprească sângele din rane.</p>
+               <p>Puțin lipsise că nu-i-a scos un ochiu. Înjura cât il ținea gura și spunea că duce albă ta potriva judelui Marin...</p>
+               <p>Altă-dată Măriuța o lo rasna prin codrii încât abea--i dădeau de urmă. Spunea că se duce să-'l caute pe Dăian. Ciobanii o vedeau, dar' o lăsau în pace. O știau.</p>
+               <p>și ea cutreera codrii, în haine de mireasă, cântând și plângând. Rîdea apoi cu hohote și povestea cu pasările.</p>
+               <quote type="verse">
+                  <l>Vino ear- la mine dragă,</l>
+                  <l>Nu te dau pe lumea-ntreagă...</l>
+               </quote>
+               <p>Vino, — vino! — Dar- el n-a mai venit...</p>
+               <p>A curs multă apă pe Olt. De multe-ori a veștejit codrul, — multe ierni au trecut peste Măgura și el totuși n-a venit...</p>
+               <p>Era dus departe, — departe în altă țeară, — păstorea oile unui boer. Ear când venea vântul dinspre țeara lui, când îl lovea în față, — el nu înțelegea în glasul lui, cântarea miresii nebune:</p>
+               <quote type="verse">
+                  <l>Vine ear' la mine dragă,</l>
+                  <l>Nu te dau pe lumea întreagă...</l>
+               </quote>
+            </div>
+            <div type="chapter" n="4">
+               <head>IV</head>
+               <p>Iuonel știa că unde-'i Dăian, — știa că cine hoțește sub numele lui, dar- n-avea ce face. Ori cât a pândit nu putea să-'l prindă odată pe Nițu Ear' vorbele lui nu aflau crezământ la oameni.</p>
+               <p>Nițu se păzea de el. De mult ear fi trimis dînsul pe Iuonel de pe astă lume, dar se temea de bănuială.</p>
+               <p>Că doară Dăian nu-'și va fi omorât pe cumnatul seu?</p>
+               <p>Dar o sfi-'i vină și lui rîndul, — așa zicea Costan.</p>
+               <p>și ei se păzeau și hoțeau mereu.</p>
+               <p>Ear' oamenii legii începuseră să prindă groază, și le venea să creadă că într-adevăr Dăian trebue să se fi însoțit cu dracu.</p>
+               <p>Intr-o vară Iuonel sa dus în țeară. Voia să dea de urmele lui Dăian. A umblat ca doo săptămâni, când după multe întrebări a dat de el.</p>
+               <p>Dăian a plâns când 'l-a văzut. Nu auzise nici o veste din Măgură, — nu știa că mama lui a murit, nici că Măriuța-i nebună.</p>
+               <p>Ear când i-a spus Iuonel de hoțiile lui Nițu și ale lui Costan, s-a amârit peste măsură, — Prea mare era încercarea.</p>
+               <p>Asta era prea mult pentru dînsul.</p>
+               <p>Din cât de năcăjit era până acum, — deveni de atunci și mai închis, și mai tăcut. Măcar că să vedeau pe el urmele celor îndurate in anii aceștia. Slăbise și îmbătrâni-se incât se nu-'l cunoști.</p>
+               <p>Ii crescuse barba și încărunțise. Nu mai era el ficiorul frumos șt vesel de odinioară. Ear ortacii lui dădeau cu socoteala că mari năcazuri îl vor fi bătut pe ciobanul acesta, de s-a înstrăinat...</p>
+               <p>— Odată, ași vrea să mai văd satul meu — zicea el. — Să văd pe soră mea și să mă rog la groapa mamii. Să văd pe biata Măriuța, Doamne, 'mise rupe inima când mă gândesc la ea — O! Nițule, Nițule, — cum te mai sufere Dumnezeu în lume, că Doamne, — multe  mi-ai făcut...</p>
+               <p>și în durerea lui plângea dureros, ca un copil. S-a mai mângâiat când Iuonel -i-a spus că îl va cerceta împreună cu Safta.</p>
+               <p>Apoi a plecat și Iuonel și Dăian a pornit de nou cu turmele. O cale lungă, departe, până la Dunăre și până în Dobruja. și cu el ducea amintirile nenorocirei lui, — a satului, unde s-a născut, — unde- i îngropată mamă-sa, — și unde mireasa lui bate hotarele căutându-l șt strigându-'l pe nume. Ii suna mereu în urechi:</p>
+               <quote type="verse">
+                  <l>Vino ear- la mine dragă</l>
+                  <l>Nu te dau pe lumea ntreagă...</l>
+               </quote>
+               <p>Lo fluerul, — doinea de jale până noaptea târziu — apoi plângea,,.</p>
+               <p>și cânii se adunau în jur de el, îl priveau cu milă, ridicați pe labele dinainte... parcă ar zice: Sărmanul nost stăpân...</p>
+            </div>
+            <div type="chapter" n="5">
+               <head>V</head>
+               <p>Intr-o seara de toamnă Nițu și Costan stau în birt și povesteau încet. Erau singuri In odaie, dar' erau destul de vicleni ca să nu vorbească tare.</p>
+               <p>— Eu totuși nu cred că ne a cunoscut, zise Costan.</p>
+               <p>— și apoi? Ce--i dacă ne-a cunoscut? Nu are mărturii... De își cască gura îl dau la lege... Ce crezi frate, nu--i glumă să vestești despre cineva că-i hoț...</p>
+               <p>Vorbeau despre Iuonel care nimerise peste dînșii când jefuiau pe un drumeț în drumul mare. La strigătele nenorocitului, Iuonel, care trecea tocmai pe acolo alergă în ajutorul lui. Dar hoții fugiseră și s-au pierdut prin pădure... Era un biet călător, un Slovac care mergea pe jos cătră Făgăraș.</p>
+               <p>L-au fost trântit in șanț și-l-au junghiat în cap.</p>
+               <p>Sângele curgea, ear' bietul om trăgea de moarte.</p>
+               <p>Lovitura îi rănise creerii.</p>
+               <p>Doi — doi, — șoptea acesta murind. Apoi a deschis ochii sticloși, a căscat gura și a fost mort...</p>
+               <p>Iuonel s-a dus apoi și a dat vestea în sat.</p>
+               <p>Ii părea râu, că nu avuse mărturii, acum, când îi avea în mână pe Nițu și pe Costan.</p>
+               <p>Aceștia au venit pe căi cotite în sat și ei făceau larmă mai mare.</p>
+               <p>Să le cadă odată în mâna lor Dăian, — ziceau ei, — că de ar fi cu dracu și nu va scăpa, Apoi s-au înfundat in birt.</p>
+               <p>— Asta nu mai merge! — zicea Costan.</p>
+               <p>Să vezi că omul acela ne face capăt odată.</p>
+               <p>— Se-i facem noi capăt, și gata! să-l pândim când va fi singur cu turma, — răspunse Nițo.</p>
+               <p>Că zău... Apoi îl dăm pe vre-o prăpastie să-'i peară urma.</p>
+               <p>Da! zise Nițu, — și vom zice că a plecat în tovărășie cu Dăian.</p>
+               <p>— Minunat Așa dară...</p>
+               <p>— Încă mâne...</p>
+               <p>și altăzi cei doi prieteni au pornit la pădure după lemne...</p>
+               <p>Au luat calea cătră pășunatul lui Iuonel și mergeau ascunși prin codri.</p>
+               <p>Când au ajuns aproape de stână, s-au pus la pândă. — Pe aici trebuia să treacă Iuonel...</p>
+               <p>și tupilați între tufe pândeau ca doi lupi flămânzi, după pradă.</p>
+               <p>Înspre ameazi au auzit de-odatâ falangele dela turmă.. Acum... acum...</p>
+               <p>Dar- turma venea încet.</p>
+               <p>Pe urmă s-au ivit cele dintâi oi. Veneau păscănd. Apoi-l-au văzut și pe Iuonel, dar- acesta era cu băiatul.</p>
+               <p>Nițu turba de năcaz.</p>
+               <p>— De nu se duce băiatul, și pe el îl dau dracului! — zise el scrișnind din dinți.</p>
+               <p>De odată aud că Iuonel dă turma în grija băiatului și îl văd pornind pe coastă la vale spre stână...</p>
+               <p>S-au sculat încet și pitulați pe sub tufe voiau să ocolească și sfi--i vie în cale.</p>
+               <p>Erau aproape de țîntă, când s au văzut deodată față--n față cu — mireasa nebună.</p>
+               <p>Măriuța cum-i-a văzut, țipa ca din gură de șerpe, — apoi cuprinsă de furie s-a luat pe urma lui Nițu.</p>
+               <p>Iuonel-i-a văzut cum fug în ruptul capului pe coastă la vale și le-a înțeles scopul.</p>
+               <p>-și-a pus de gând să se păzească mat bine. A luat pușca, — a chemat dela stâna vecină pe niște ortaci și s-a pornit pe urma lui Nițu și a ortacului seu.</p>
+               <p>Dar- aceștia și-au perdut urma. Când au ajuns la poalele muntelui, au dat peste Măriuța, care, perzându-se de Nițu și Costan, s-a fost pus la marginea unui iavor și împletea cunună din frunzele căzute la pământ.</p>
+               <p>Au auzit-o cântând același cântec de dor șt au lăsat-o în pace.</p>
+               <p>Au pornit spre stâni, car- mireasa nebună a rămas tot la marginea isvorului împletind cununa si cântând mereu:</p>
+               <quote type="verse">
+                  <l>— Vino bade ear acasă.</l>
+                  <l>Si te -mbrac tot în mătasă...</l>
+               </quote>
+            </div>
+            <div type="chapter" n="6">
+               <head>VI.</head>
+               <p>Așa au trecut 9 ani, tot în hoții și în omoruri, și nu da Dumnezeu să--l poată prinde pe Dăian.</p>
+               <p>Ba la porunca legilor pornitu-s-au satele, pornit-au cătanele, cutreerat-au codrii, văile, numai să dee de urma lui. Dar inzădar. Unii oameni începură să creadă în cuvintele lui Iuonel și începură să bage seamă de Nițu și de ortacul seu.</p>
+               <p>Dar', precum se bat cânii în jurul prăzii, — venit-a vremea de s-a stricat pretenia dintre Nițu și Costan.</p>
+               <p>Despre cearta lor nu știuse nime, dar lucrul s-a întâmplat așa:</p>
+               <p>Costan zicea că să se lase de atâta junie, — și să se așeze odată amândoi,— că ori-și-cum, dar totuși ulciorul s-a sparge odată, când nici nu vor gândi și apoi, spânzurătoarea.</p>
+               <p>—Eată Nițule — zicea Costan, — și tu începi să îmbătrânești. Caută--ți o fată și însoară-te. și eu mă însor. Avem și bani din ajuns, — nu vom duce lipsă.</p>
+               <p>Dar' Nițu zicea: </p>
+               <p>  —Tu te-ai muerit Costane. 'ți-a luat mintea vre-c fată. Ei, — asta-'i treaba ta. Eu fecioresc și mai departe,... și fără tine. Eu nu mă tem că mă vor prinde. Nu--s prost doară...</p>
+               <p>— Nu! Asta nu--i bine. Nu vreau eu! Dacă te vor prinde și eu cad în necaz, că tu nu te vei răbda să nu mă vinzi...</p>
+               <p>— Chiar de aceea — zise Nițu — tu nu te despărți de mine!</p>
+               <p>— Dar- nu mai vreau. M-am urît de fărădelegi. Destule păcate ne apasă. Nu știu ce să zic, dar tu nu te mai poți sătura de hoție. Hoția ți-a întrat în sânge,.. te-ai născut hoț — dar eu nu!...</p>
+               <p>Ce grăiești mă? Da cine mă chema mereu să pândim în drumul mare?</p>
+               <p>- Da cineo început? Furat-am eu, până n-ai furat tu banii bisericii?</p>
+               <p>— Ei, vezi Costane, — suntem pe-o forma. Chiar de aceea pe o formă vom suferi, dacă va fi să ne prindă.</p>
+               <p>— Dar' nu mai ucid, nu mai fur. Mă așez și mă port cinstit. Până acuma nu m-au prins, de ce să pătimesc pentru hoțiile ce le vei face tu de azi înainte? Impărțim ce avem și pace!</p>
+               <p>— Pune--ți pofta-n cuiu Nene! — zise Nițu.</p>
+               <p>— Nițule! Nu face glume, Eu am partea mea!</p>
+               <p>— Da! ai partea ta până ești în tovărășie. — Dacă strici tovărășia,-ți-ai perdut paitea.</p>
+               <p>— Voiu vedă eu!</p>
+               <p>— Ce? Vei vedă? Dapoi ce c să faci?</p>
+               <p>— Voiu lua ce--i al meu! răspunse Costan. știu doară, că unde-s ascunși banii.</p>
+               <p> — Dar nu te vei Întinde la ei că...</p>
+               <p>— Că? — mă tem doară de tine? Ce-i?</p>
+               <p>— Vei vedă. Încearcă numai!</p>
+               <p>Costan își perduse răbdarea.</p>
+               <p>— Ei, — o să vezi, — zise el, aprins de mănie, — o să vezi. Mâne o să merg după partea mea!</p>
+               <p>— Voiu vedă! — zise Nițu. Acolo voiu fi și eu.</p>
+               <p>— Să tot fii!</p>
+               <p>și s-au despărțit Era seară și întunerec besnă.</p>
+               <p>Nițu a rămas în mijlocul drumului. S-a uitat după Costan și-l-a cuprins ura. De aici înainte omul acesta îi era pedecă în cale.</p>
+               <p>Ce va fi mâne? Se va duce?</p>
+               <p>Ce va face el? Da dacă Costan va merge peste noapte? Da dacă va lua banii toți și va fugi cu ei?</p>
+               <p>Aceste gânduri îi veniră lui Nițu, și simțea că trebue să se scape de Costan. și ca omul dedat cu de aceste. —-si-a făcut îndată planul. A plecat după Costan. In casă la ortacul său era lumină. A sărit gardul și s-a dus la fereastră. Costan se desbrăca să se culce.</p>
+               <p>Nițu a bătut încet în fereastră.</p>
+               <p>— Costane, — zise el rîzănd, — te-ai supărat?</p>
+               <p>— Treaba mea! — răspunse acesta scurt.</p>
+               <p>— Da nu fi prost, frate. Am glumit; Voiam să văd ce vei face. Ne-om înțelege, doară, — mai avem vreme.</p>
+               <p>— Nu! Eu vreau să gat. Azi putem isprăvi dacă vreai. De azi am gătat-o cu toate.</p>
+               <p>— Măi ortace! — zise Nițu cu blândețe, — Ai minte doară? Nu ne-om pune la împărțit în mijlocul drumului să ne audă cineva...</p>
+               <p>— Puteai să vorbești așa, dar' tu voiai să mă spăimântezi...</p>
+               <p>— Da nici poveste... Așadar- mâne o să ne înțelegem?</p>
+               <p>— Nu!— Eu vreau azi...</p>
+               <p>— Bine. Dar unde?,..</p>
+               <p>— Mergem în fundul grădinii! — zise Costan.</p>
+               <p>Atâta dorea Nițu. Să iasă numai.</p>
+               <p>— Vino dar-, că m-aș culca!</p>
+               <p>și Costan a stins lampa și a eșit. Au pornit amăndoi spre fundul grădinii. Când au fost la mijlocul grădinii, Nițu s-a oprit.</p>
+               <p>— Mă, — eu nu văd nimic, o să dau cu capul de vr-un pom.</p>
+               <p>— Prinde mă de mână! — zise Costam și--i întinse mâna dreaptă.</p>
+               <p>In clipa acea Nițu i-a prins-o cu putere, ear cu stingă-i-a înplântat cuțitul în grumazi.</p>
+               <p>Costan voia să strige, dar' Nițu-i-a prins gura.-L-a trântit la pământ și nu s-a sculat de pe el până ce nu a simțit că era rece.</p>
+               <p>Atunci-l-a ridicat în spate și-l-a dus în mijlocul drumului. L a pus de a curmezișul în drum, apoi s-a dus acasă și s a culcat, — fericit că nu are să împărțească cu nimenea banii.</p>
+               <p>Altă zi era răscolit tot satul, că Dăian a umblat prin sat și-l-a omorit pe Costan, pe care de mult îl pândise.</p>
+               <p>Nițu era turbat de mănie și plângea ca un copil după prietenul seu, după Costan.</p>
+               <p>De atunci au Încetat toate hoțiile. Peste un an oamenii nu mai duceau frică de Dăian. Unii spuneau, că 1-au mâncat fearăle sălbatice. Alții că-l-a dus necuratul, că numai pe 10 ani au făcut tîrgul, și altele.</p>
+               <p>Nițu s-a însurat și se purta bine. Primise zestre, apoi a moștenit și dela părinți, așa că nimeni nu putea bănui, că Nițu de unde are atâta avere.</p>
+               <p>Iuonel trăia fericit cu Safta lui. Avea doi copii la școală în Măgura. Odată, venind băiatul cel mai mare dela școală, ochii lui erau plini de lacrimi.</p>
+               <p>— Tată, — zise el — dreptu--i că hoțul Dăian e frate cu mama?</p>
+               <p>— Cine-ți-o spus-o asta?</p>
+               <p>— Domnu învățător. O zis, că io-'s neam de hoți. Că Dăianu e unchiu meu.</p>
+               <p>— Ași--i, — zise Iuonel — Dăian îi frate cu mumă-ta. Dar' Dăian nu-i tâlhar. Dăian e mai de omenie decât domnu-to învățător. Asta s-o știi. Numai oamenii răi-i-au lățit vestea rea...</p>
+               <p>Dar- Safta începu să plângă.</p>
+               <p>Altă-dată băiatul cel mai mic venise cu un cântec învățat dela copii din sat, Era cântecul Dăianului, răspândit prin satele din împrejurimi:</p>
+               <quote type="verse">
+                  <l>Me uitaiu din deal în vale</l>
+                  <l>Vezuiu pe Dăian călare</l>
+                  <l>Incunjurat cu pistoale,</l>
+                  <l>Patru pline, patru goale</l>
+                  <l>Patru pe picior la vale.</l>
+                  <l>Foaie verde Măgheran</l>
+                  <l>N-ați auzit de Dăian</l>
+                  <l>De hoțul de căpitan?</l>
+                  <l>Pe dealul Qgnii la vale</l>
+                  <l>Vine pe-o îngustă cale</l>
+                  <l>Sorioara lui Dăian</l>
+                  <l>C-un mănunchiu de măgheran,</l>
+                  <l>Tot plângând și suspinând</l>
+                  <l>și din gură cuvântând:</l>
+                  <l>Măi Dăiene și măi frate</l>
+                  <l>Dumnezeu din ceri te-o bate,</l>
+                  <l>Mai lasă-te de hoție</l>
+                  <l>Că--i ajunge 'n pușcărie!</l>
+                  <l>„Dragă surioara mea</l>
+                  <l>Nu pricepi tu soartea mea,</l>
+                  <l>M-am născut să voinicesc</l>
+                  <l>Nu m-am născut se muncesc,</l>
+                  <l>Foaie verde măgheran,</l>
+                  <l>Nu-'i voinic ca și Dăian.</l>
+                  <l>Mare-'i țeara, lumea-i mare</l>
+                  <l>Dăian pareche nu-și are!</l>
+               </quote>
+               <p>și apucând cântecul pe aripi de vânt, s-a răspândit în toată țara. La șezătoare cântecul Dăianului îl cântau, la cârcimă, la horă, la plug și pretutindeuea.</p>
+               <p>Ear vremea trecea repede. Numele lui Dăian se pomenea din ce în ce mai rar. Au venit alți oameni, copiii s-au făcut holtei, holteii s-au făcut moșnegi, și aripile uitării au împăîengenit amintirile celor zece ani de hoții, cari au băgat spaimă în Măgureni și în oamenii din celelalte sate dela Brașov la Orăștie.</p>
+            </div>
+         </div>
+         <div type="group" n="3">
+            <head>Partea III.</head>
+            <div type="chapter" n="1">
+               <head>I</head>
+               <p>Trecând granița pe cărări lăturașe, venea într-o zi de vară, un drumeț bătrân șî ostenit. Se proptea de o cârje, din când în când se oprea, își ștergea fruntea de sudori, își ridica ochii spre ceriuri, suspina lung și earăși pornea mai departe. Avea plete și barbă căruntă, ochi stinși, pătrunși de o slabă licărire numai.</p>
+               <p>Era străin la vorbă și la port și totuși când a măsurat cu ochii falnica statură a Negoiului, ochii lui s-au umezit de lacrimi, inima lui bătea mai tare, atinsă de duioșia unor amintiri dureroase din tinerețe. A stat mult așa pe loc, ca o stâncă, privirea lui a străbătut văile, s-a oprit pe coperișul bisericii din Măgura, a văzut satul. Oltul și împrejurimile și îi părea că in doozeci de ani nimic nu s-a</p>
+               <p>schimbat pe locurile aceste. Acelaș rîu, aceiași arbori, acelaș murmur de părae, numai el nu era același.</p>
+               <p>Sunt 20 de ani trecuți de atunci. Multă vreme. Cu atât mai multă, cu cât acești 20 de ani au fost pentru el o lungă durere. Ani, cari 'i-au îmbătrânit mai mult decât alții îmbătrânesc în patruzeci. Doozeci de ani din cari nici o zi n-a trecut ca el să nu plângă vieața lui nenorocită, soartea vitregă, fericirea lui pustiită.</p>
+               <p>Când a plecat în pribegirea--i lungă, era tinăr și frumos, mare și tare. Pletele negre îi împodobeau umerii ca o coamă de leu. Azi pletele--s cărunte, umerii s-au plecat. Moșneag gârbovit.</p>
+               <p>și acum, când după atâta vreme și-a revăzut locurile dragi ale copilăriei lui, îi părea că nici odată n-a simțit cu atâta durere soartea lui, ca acum. L-a cuprins o duioșie nesfîrșită, a plâns cu hohot și a căzut ostenit pe iarbă. După-ce s-a mai liniștit, s-a ridicat încet, greoi, și a pornit pe cărare, înainte.</p>
+               <p>și pe cum Românul, și când cântă plânge, și când plânge se cântă, mergând pe cale, cânta, așa cu glasul jumătate:</p>
+               <quote type="verse">
+                  <l>”C-așa--mi vine une-ori,</l>
+                  <l>Se beau otravă, să mor,</l>
+                  <l>Că--s sărac și părăsit,</l>
+                  <l>M-am urit de pribegit...</l>
+               </quote>
+               <p>Soarele scăzuse în spre apus, razele lui luminau Negoiul dela jumătate în sus până la creștet, ear- dela jumătate în jos, la poale, peste văi și codri se așternuse umbra sării, ca un dor de pace și odihnă, ca vraja somnului.</p>
+               <p>De pe vîrful unei coline, bătrânul a văzut o stână, stâna lui Iuonel, și ochii lui s-au umplut de lacremi.</p>
+               <p>Pe podmol se jucau doi copilași vioi, șt inima lui-i-a șoptit îndată, că aceia-'s nepoții lui, băieții lui Iuonel și ai Saftii.</p>
+               <p>Când s-a apropiat de stână au început să latre cânii.</p>
+               <p>Dăian cobora coasta spre stână, când a eșit Safta în prag să vadă de ce latră cânii, și a rămas mirată vâzând pe bătrânul drumeț, care venea spre stână. A huiduit cânii și a plecat în calea bătrânului.</p>
+               <p>Trecuseră opt ani de când ea îl cercetase pe Dăian în Dobruja, — de atunci însă, atâta s-a schimbat, cât nu--l cunoștea.</p>
+               <p>— Soră! — Safto! — zise bătrânul cu glasul înădușit, — și atunci Safîa 1-a cunoscut 'i-a căzut în brațe și au remas multă vreme înbrățișați, — Plângeau.</p>
+               <p>Atunci a ieșit și Iuonel din stână, și nețărmurită era bucuria lui.</p>
+               <p>Iuonel a strîns cu foc la sin pe prietenul și cumnatul său, — care deși, era de o seamă cu el, părea un unchieș bătrân pe lângă dansul, — întru atâta îl înbătrânîseră luptele cu vîeața, — cu soartea și cu sufletul său mult încercat.</p>
+               <p>— Nu te mai poți cunoaște! — zise Iuonel! când au intrat în casă.</p>
+               <p>— De aceea am și venit, — răspunse Dăian. știam cât de tare am îmbătrânit. Vezi, nici Safta nu m-a cunoscut. M a adus dorul. Nu mai puteam răbda, — și nu voiam să mor, fără ca să văd încă odată satul meu, — fără ca să plâng la groapa mamii.</p>
+               <p>Apoi ear- me duc. Eai- plec, — pe totdeauna... știu că nu mai am zile multe, — nici nu doresc să am, că sunt sătul de viață...</p>
+               <p>Se inserase binișor și dânșii povesteau încă. Safta s-a dus sâ pună de mămăligă.</p>
+               <p>Atunci Iuonel s-a apropiat de cumnatul său.</p>
+               <p>— Dăiene! — zise el, — remâi tu la mine. Nime nu te mai cunoaște, — lumea te crede mort, — te-a uitat de mult. De atunci au trecut douezeci de ani. Vom spune, că tu ești fratele tatei și că după ce ai remas vâduv ai venit la mine. — că n-ai copii.</p>
+               <p>Lumea încă știe că am un unchiu bătrân, — departe, — departe, — lângă Cluj... și tu vei fi cu noi, fără ca să te cunoască cineva. Nici la copii nu le vom spune. Ei vin îndată cu turma.</p>
+               <p>Atunci a întrat Safta, și Iuonel-i-a spus și ei planul, și Safta a plâns de bucurie și îl ruga sâ remâie.</p>
+               <p>— Vom încerca, — zise Dăian.</p>
+               <p>De afară să auzeau talangele, și oile intrau în staul. Veneau feciorii lui Iuonel.</p>
+               <p>S-au hotărît în grabă, că pe Dăian să-l chieme de azi înainte: Unchiu Onisie.</p>
+               <p>Peste o săptămână unchiu Onisie și Iuonel erau intr-un birt din Făgăraș, cu mai mulți Măgureni. Avuseră zi de tîrg și acum s-au dat la puțină odihnă. Era și bătrânul Marin, — fostul jude, și alți bătrâni, și cu toții ascultau poveștile bătrânului Onisie despre lumea și traiul de pe la ei.</p>
+               <p>Pe urmă au dat o pe alte povești, fiecare povestea despre păsurile sale.</p>
+               <p>— Ce mai face boerul, — Nițu, ficiorul lui Sandu? întrebă Iuonel pe Marin.</p>
+               <p>— Cam rău, zise Marin,-i-a murit nevasta și acum earăși a dat-o pe beție. Nu mai lucrează, nu grijește de copii, vinde tot ce are și bea mereu.</p>
+               <p>— Din câne nu faci slănină! zise un țăran mai tînăr, și toți au început a rîde.</p>
+               <p>— Păcat că nu trâește Costan, să--și aibă ortac! zise Marin.</p>
+               <p>— Ba păcat că nu vine Dăian, să bea împreună! zise un alt țăran din Măgura.</p>
+               <p>Dăian a tresărit, dar ceialalți rîdeau cu hohote de gluma asta. Cine să fi băgat de seamă că Onisie a tresărit?</p>
+               <p>Pe urmă au plecat cu toții. Unchiu Onisie și Iuonel au mers cu ei până în Măgura, au trecut prin sat și au plecat spre munți, la stînă.</p>
+               <p>Cine ar pute descrie simțemîntele bietului bâtrân, când după atâta vreme-și-a revezut satul?</p>
+               <p>Îl ardea dorul să se ducă la mormântul mamii sale, la casa unde s-a născut și a crescut. Să vadă apoi pe sărmana Măriuță, bătrâna aceea gârbovă și smintită, care și acum se mai gătește de mireasă, punând cunună de flori albe în pârul ei și mai alb, încărunțit.</p>
+               <p>Dar- nu putea. Trebuia să mai aștepte. Sâ nu--l cunoască cineva, să nu--l bănuiască.</p>
+               <p>A oftat lung când au eșit din sat și au plecat spre munți.</p>
+               <p>— Nu mai pot de dor sâ văd mormântul mamii, zise Onisie într-un târziu.</p>
+               <p>— Asta nu se va pute acum, în curând, zise Iuonel. Vor bănui oamenii ceva. Dar poate dacă am veni noaptea, eu te-as aștepta la poarta țintirimului. Nu ne-ar vede nimene...</p>
+               <p>— Da! Așa se poate, încă mâne seară vom veni, că nu mai pot răbda.</p>
+               <p>— Bine, așadar mâne.</p>
+            </div>
+            <div type="chapter" n="2">
+               <head>II.</head>
+               <p>Într-altă zi pe la ameazi, Nițu a întrat în birt și a cerut beutură. Nici n-a mai ieșit până seara. Ear' când să închidă birtașul cârciuma, Nițu n-avea cu ce să plătească. Nu că s-ar fi sărăcit cu totul, dar la cele din urmă pogoane de pământ încă nu găsise cumpărători. Ear când a spus birdașului, că rămâne dator, acesta strîmha din nas. Mirosise el că Nițu s-a calicit.</p>
+               <p>— Până mâne! Mai mult nu! — zise birtașul. și Nițu a ieșit în stradă.</p>
+               <p>Era aproape de miezul nopții. Când a rămas singur în mijlocul uliții, — când s-a stins lampa în birt, — 'l-a cuprins deodată amărăciunea.</p>
+               <p>Așadară tot acolo- i și acum, unde a fost, Serac, fără crezămănt.</p>
+               <p>A scrișnit din dinți arătând pumnii încleștați, cătră ușa birtului.</p>
+               <p>— Nu! — zise el cu vocea înădușită, — nu me voiu calici. Mai am putere în brațe. Sunt tinăr încă! Voiu lua dela cei cari au! Nu veți rîde voi de mine! Voiu rîde eu de voi!</p>
+               <p>și în clipa aceea s-a hotărit se înceapă de nou cu hoțiile. Ca și cu doozeci de ani în urmă, și acum-i au venit în minte banii bisericii. De ce s nu-i fure? Biserica nu moare de foame, dar lui îi trebuesc bani. —</p>
+               <p>Ha! ha! Ve aret eu vou! își zicea el</p>
+               <p>S-a dus apoi acasă, a luat toporul și a plecat cătră biserică. Erau nori pe cer, luna abia ieșea câte puțin pe un petec de cer senin și ear- se ascundea in nori.</p>
+               <p>Satul dormea adenc, nici un câne nu lătra. Când a deschis ușa țintirimului, ușa scârțâia. și lui așa de urît 'i-a părut scârțăitul acesta, încât s-a cutremurat și s-a oprit în loc. Simțea că nu mai are curajul din tinerețe. O clipă s a și socotit, că oare sâ nu se întoarcă? Dar răutatea sufletului nu-l lăsa.</p>
+               <p>— Ce? Mă tem? Da cîne-s eu? Copil? îșî zicea el îmbărbătându-se.</p>
+               <p>A închis ușa încet și a trecut pe cărărușe înainte spre ușa bisericii. Când a pus mâna pe cleampă, earăși s-a cutremurat. Apoi a prins toporul și s-a opintit sâ scoată cu el cuele din zăvor. Cuele ruginite ieșeau ușor. Pe urmă a căzut zăvorul și ușa s-a deschis.-L-a lovit în față recoarea din biserică, mirosul de luminări si de tămâie. A intrat cu</p>
+               <p>toporul în mână gata de a lovi dacă ar fi cineva în biserică.</p>
+               <p>Pe urmă a luat o luminare dintr-un feșnic și a aprins-o. Lumina abia pătrundea întunerecul din biserică, ear- ochii lui Nițu clipeau, fiind obicinuiți prea mult cu întunerecul.</p>
+               <p>Întâia privire 'i-a rămas țintuită pe icoana Maicii Domnului. Ochii ei adânci, blânzi, plângători s-au întâlnit cu privirile hoțului. Acesta s-a cutremurat de nou, apoi s-a întors dela ea și s-a dus la lada cu banii. Ca nici odată însă până acum, lui îi era frică. O presimțire tainică, neînțeleasă îi împedeca curajul. S-a spăriat de umbra lui, de sgomotul pașilor săi, de răsuflarea sa. Un liliac, orbit de lumină, s-a isbit în barba lui și Nițu era să scape luminarea. Abia l-a smuls din barbă. Apoi, luându--și inima în dinți, a rupt o lăcată, cu mult năcaz, pentru-că epitropii au lăcătuit lada mai bine.</p>
+               <p>In același timp bătrânul Onisie intrase în țintirim din laturea cealaltă, peste gard, Iuonel-i a arătat mormântul, apoi s-a dus la poartă să țină pază și să-l aștepte.</p>
+               <p>Când a rămas singur, bătrânul Onisie s-a pus în genunchi lângă mormânt. Buzele lui șopteau o rugăciune, ochii lui s au umezit. A stat câtva timp rugându-se, când din spre biserică-i-a bătut la urechi un sgomot surd, ca de lovituri de topor.</p>
+               <p>-și a ridicat privirea și a văzut că fereastra bisericei era luminată de o rază slabă de lumină.</p>
+               <p>— Maică Preacurată! Ce poate fi își zise el.</p>
+               <p>Apoi a pășit tiptil spre ușa bisericii.</p>
+               <p>Ușa era deschisă de tot și Onisie din tinda bisericei a văzut un om, cum spărgea lăcățele de pe lada bisericii.</p>
+               <p>Era cu spatele spre ușe.</p>
+               <p>De doozeci de ani nu s-au mai văzut, totuși Dăian-l-a cunoscut pe Nițu și pe dela 7 spate. L-a cuprins o groază și o greață de nespus față de atâta ticăloșie, apoi aprins de mănie, minat de o putere supra-omenească a pășit în biserică. Statura lui se îndreptase, se făcuse măiestoasă, ochii lui schînteiau fulgere.</p>
+               <p>— Blăstăm asupra-'ți ticălosul! — strigă el, și vocea lui detuna, încât părea un sfânt trimis din cer spre pedepsirea nemernicului.</p>
+               <p>Nițu a scăpat toporul din mână, s-a întors ca trăsnit. Privirea lui s-a întâlnit cu a lui Dăian,-l-a cunoscut, s-a cutremurat, pe urmă s-a răsturnat cu sgomot pe podinele bisericii.</p>
+               <p>— Dăian! Dăian! a gemut el încet de douâ-ori, apoi nu s-a mai mișcat.</p>
+               <p>Lumina s-a stins și pe Dăian 1-a cuprins spaima. A eșit mai mult în fugă din biserică și când a dat de Iuonel la poarta bisericii, nu putea să grăiască.</p>
+               <p>— Ce--i? Ce s-a întâmplat? — întrebă Iuonel.</p>
+               <p>— Ticălosul! Ticălosul! A furat biserica, l-am prins, și când m-a văzut a murit de spaimă. Acolo- i mort... mișelul!</p>
+               <p>— Ce vorbești Dăiene, pentru zeu!? Cine? Cine-i mort? — întrebă Iuonel mirat.</p>
+               <p>— Nițu! Nițul hoțul! mișelul!</p>
+               <p>— Unde? In biserică? Nu mai vorbi!</p>
+               <p>— Da! L-am prins. Spărgea lada. Am intrat și am strigat. El s-a întors, m-a cunoscut, apoi a căzut la pământ.</p>
+               <p>Eu m-am îngrozit și am fugit. Vino sâ plecăm! Noî să nu știm nimic! Mergem!</p>
+               <p>și au plecat cuprinși de groază, alergând spre stână, în munți.</p>
+               <p>In întunerecul nopții păreau doo stafii, cari au întârziat ciasul și acum aleargă, aleargă nebunește...</p>
+            </div>
+            <div type="chapter" n="3">
+               <head>III.</head>
+               <p>Altă zi, mergând crâsnicul la biserică și aflând ușa deschisă, -și-a făcut cruce. Dar șî mai tare s-a spăriat, când a văzut un om mort tăvălit in mijlocul bisericii.</p>
+               <p>De spaimă nu știa ce să facă. S-a urcat repede în turn și a bătut clopotul într-o dungă, ca de foc.</p>
+               <p>Cât ai bate in palme, jumătate satul era răscolit. Ne știind ce s-a întâmplat, alergau în ruptul capului la biserică.</p>
+               <p>Când s-a dat crâsnicul jos din turn, în grădina bisericei era toiu mare. Crâsnicul n-a zis nici un cuvânt, ci făcând semn oamenilor se--l urmeze, a intrat în biserică.</p>
+               <p>și în liniște sărbătorească s-au oprit toți în jurul boțului. Fața mortului nu se vedea, era ascunsă în palme. Crâsnicul a desfăcut</p>
+               <p>brațele lui încleștate, a dat la o parte pletele resfirate pe fața mortului și atunci biserica a râsunat de un murmur de mirare și mănie.</p>
+               <p>— Nițu! — strigară toți deodată.</p>
+               <p>— Da, Nițu! — zise crâsnicul. Nițu ne a făcut rușinea asta!</p>
+               <p>Dar Nițu era mort. Ochii lui erau deschiși, străluceau răutăcios. Sclipeau ca sticla, încât toți s-au înfiorat.</p>
+               <p>Toporul și lumina erau lângă el. Toți au înțeles cele petrecute și credeau că moartea lui, în biserică, era minunea, bătaia lui Dumnezeu, care a pedepsit pe păcătosul, fulgerându-'l cu fulger sec.</p>
+               <p>țăranii s-au aprins de mănie și în furia lor îndreplățită scuipau asupra mortului, apoi-l-au rostogolit lovindu--l cu picioarele, până afară din biserică.</p>
+               <p>Vestea s-a lățit apoi în tot satul, și sau pornit vorbele.</p>
+               <p>Unii ziceau că Iuonel avuse dreptate când spunea că Dăian s-a dus în țeară și că altcineva făcea hoțiile în locul lui. Nițu și Costan. Da!</p>
+               <p>Ei! Acum sa adeverit!</p>
+               <p>Oamenii voiau să rîdă, dar- gluma asta, ca o schinteie într-un butoiu de praf de pușcă, a fost pricina unor întâmplări dureroase.</p>
+               <p>Nebuna a început să tremure. Ochii ei s-au aprins de un foc sălbatic, fața ei s-a aprins, roșind ca focul. In clipa următoare mireasa nebună s-a strecurat prin mulțime, ca săgeata, ca fulgerul, până la sicriu. Cei ce duceau sicriul nu au băgat de seamă, n-au văzut-o. Toate s-au petrecut cât ai bate în pălmi.</p>
+               <p>Nebuna s-a aruncat asupra sicriului, sicriul s-a răsturnat, coperișul a plesnit cu sgomat mare, ear- mortul s-a rostogolit la trei pași în noroiu. Nu se poate spune spaima și înfiorarea oamenilor. Toți 'și-au perdut capul.</p>
+               <p>Nebuna s-a aruncat ca o mâță sălbatică asupra mortului,-l-a întors să-'i vadă fața. Când 'l-a văzut, s-a ridicat repede.</p>
+               <p>Că nu-'i el... zise ea abia șoptind, cu glas slab, stins și înduioșetor. și s-a înblânzit de odată.</p>
+               <p>Abia atunci au sărit oamenii la ea să o prindă. și ea nu se svârcolea, ochii ei străluceau umeziți de doue lacrimi.</p>
+               <p>N-aveau ce face. Au pus mortul în sicriu,-l-ati legat de a curmezișul cu o funie dela iesle și au pornit cu el spre țintirim.</p>
+               <p>Bietul Onisie, cutremurat de durere, a ieșit dintre oameni și a plecat aproape in fugă, cătră casă.</p>
+               <p>Ear- nebuna plângea... ascunsă după vatră...</p>
+            </div>
+            <div type="chapter" n="4">
+               <head>IV.</head>
+               <p>Au urmat apoi earăși doo luni de pace, de liniște, și uitare. Era un timp frumos, ca de aur. Măgurenii se pregăteau de sărbătoarea Sântă-Măriei.</p>
+               <p>Unchiașul Onisie o ducea bine la stâna cumnatu-so. Nădăjduia sărmanul, că a dat în urmă de limanul liniștei, — că va pută îmbătrâni si muri între ai sei.</p>
+               <p>Numai la casa lui Marin era supărare.</p>
+               <p>După întâmplarea dela înmormântarea lui Nițu, mireasa nebună a plecat rasna prin munți și, — ceea-ce nu făcuse până acum, — n-a venit acasă o săptămână.</p>
+               <p>Toți o credeau moartă. Credeau că va fi căzut în vre-o prăpastie, sau că au mâncat-o fiarele sălbatice, când, la o săptămână,</p>
+               <p>— Măriuța a nimerit acasă, — sdrențuită, — mânjită și lihnită de foame.</p>
+               <p>Altă zi a și căzut la pat. Răcise rău. Pe urmă a căzut în aprindere de plumâni. Nu mai era nădejde. Slăbise ca o scândură,</p>
+               <p>— ochii, — acum blânzi șt plângători, îi căzuseră adânc în orbite.</p>
+               <p>Era liniștită și vorbea puțin, — dar pe înțeles.</p>
+               <p>In ziua de Sântă-Mărîe, auzind clopotele, a zis că ea dorește să se ducă la biserică. și într adevăr, s-a simțit deodată atât de tare încât s-a sculat și umbla prin odae,</p>
+               <p>Zimbea, — și obrajii ei se îmbujoraseră.</p>
+               <p>Judele Marin s-a bucurat de însănătoșarea asta repede. Nu știa, nu presimțea că asta nu--i decât semnul morții apropiate. Era mistuirea puterii de vieață prin cea din urmă sforțare, pentru împlinirea unei dorințe, — a celei din urmă.</p>
+               <p>Dorința asta de a face o privire peste lume, se arată adese-ori la cei ajunși la pragul morții. E ca pâlpăitul repede — tremurător al flăcării ce se stinge, când lemnul a ars cărbune.</p>
+               <p>Măriuța s-a gătat frumos și a plecat, răzimată de brațul tată-seu, spre biserică.</p>
+               <p>In curtea bisericii femeile murmurau mirate și îngrozite, când au văzut-o.</p>
+               <p>Au Intrat în biserică, dar Măruiță n-a avut răbdare să steie mult.</p>
+               <p>Atunci Marin a ieșit cu ea să o ducă acasă. Liturghia nu se începuse încă și vre o câteva femei stau în povești la poarta bisericei.</p>
+               <p>Măriuța s-a oprit. Părea că este în toate mințile. Cunoștea pe toți.</p>
+               <p>Judele Marin nu mai putea de bucurie.</p>
+               <p>— Acum se va întrema, — și îi va veni mintea, așa credea el.</p>
+               <p>Măriuța a grăit câteva cuvinte cu tot înțelesul.</p>
+               <p>— Ce mai faci Florică? De mult nu te am văzut! — zise ea cătră o pretină din copilărie.</p>
+               <p>A grăit și cătră celelalte, când au sosit dinspre drumul mare, Iuonel cu Safta, Onisie și copiii.</p>
+               <p>— Vine Iuonel cu Safta! — zise Măriuța cătră tată-so.</p>
+               <p>Toți se bucurau și se mirau, că Măriuța lui Marin sa desnebuni!</p>
+               <p>Măriuța le-a eșit în cale. A dat mâna cu Safta.</p>
+               <p>— Vai Safto! de mult nu te-am văzut! zise ea, apoi privirile ei s au țântuit asupra lui Onisie.</p>
+               <p>Unchiașul Onisie se silea să rămână rece și nebănuit. Sta la o parte, fără să grăiască, — ca un stîlp.</p>
+               <p>Dar- Măriuța îl privea mereu.</p>
+               <p>— Asta cine-i? — întrebă ea pe Marin.</p>
+               <p>Nu-l cunoști Măriuțo! E străin, nu--i de pe aici! — zise Iuonel.</p>
+               <p>Dar Măriuța nu--și lua ochii de pe el, și ochii ei tot mai tare s-au aprins.</p>
+               <p>— Seamănă! Seamănă cu el. Seamănă! O, Doamne! cum seamănă... zise Măriuța ca în ferbințeli.</p>
+               <p>— Cu cine? — întrebă Marin.</p>
+               <p>Onisie ar fi dorit să fugă. Nu știa ce să facă, era ca trăsnit.</p>
+               <p>— Cu el... cu Dăian. Doamne cum seamănă... Chiar ochii lui... Dar nu-i el. Dăian nu--i aici. Dăian îi departe...</p>
+               <p>Bietul Onisie. Nu se poate scrie pe hârtie, ce fel de furtună se iscase în sufletul lui. L-au podidit lacrimile și nu putea să le ascundă.</p>
+               <p>Măriuța sa apropiat de el.</p>
+               <p>— De ce plânge? Ce-i-am făcut? — zise ea.</p>
+               <p>Nu mai era scăpare.</p>
+               <p>— Sărmană fată! — zise Dăian ca să si ascundă încurcarea.</p>
+               <p>Măriuța a trsărit.</p>
+               <p>— Ah! strigă ea, — ăsta--i glasul lui! Da! Tu ești Dăian... tu ești Dăian...</p>
+               <p>În clipa aceea toți -l au cunoscut.</p>
+               <p>Femeile s-au înfiorat de spaimă.</p>
+               <p>Unele țipau spăriate, fugind. S-a făcut tololoiu, zarvă, încurcală.</p>
+               <p>Dăian, ca și cu doozeci de ani înainte, a luat-o la fugă.</p>
+               <p>Toate s-au sflrșit pentru el. Trebuia să scape.</p>
+               <p>Măriuța voia să alerge după el, dar- la zece pași a căzut ghem la pământ. Nu mai avea putere. Au dus-o leșinată acasă. Iuonel cu Safta au plecat pe urma lui Dăian, la stână.</p>
+               <p>și tot satul s-a umplut, că unchiul Onisie era Dăian, și toți s-au înfricat de nou.</p>
+               <p>Măriuța a murit în seara de Sf. Mărie. S-a stins încet, lin, ca o lumînare când s-a isprăvit fitilul.</p>
+               <p>Au întins-o în sicriu, au îngropat-o. Mireasa nebună nu mai trăia.</p>
+               <p>In ceriuri, sosind după îndelungate suferințe, va fi știut poate, că de ce-i a fost atât de grea ursita? Pentru-că lacrimile vărsate în groapa ei, durerea adevărată a Măgurenilor n-a fost resplată destulă pentru sărmana mireasă, chinuită de soarte din tinerețe până la mormânt.</p>
+               <p>O poveste tristă a fost vieața ei, mai înduioșătoare decât plângătorul glas de clopote, cari cântau cântul duios de îngropare când bulgării de pământ cădeau cu sgomot peste liniștea de veci, ce s-a așternut pe pleoapele miresei nebune.</p>
+               <p>Soarele scăzuse spre asfințit, judele Marin plecase trist spre casă! patru gendarmi suiau cu greu, dar-grăbiți, muntele spre stâna lui Iuonel, când bătrânul, istovitul mire, trecea trist, cu capul plecat, granița țării-Românești. Ca și cu doozeci de ani înainte, îndurerat, fără de mângâiere. De astă-dată însă fără întoarcere.</p>
+               <p>Să sufere și să moară în străini.</p>
+               <trailer>Sfîrșit</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

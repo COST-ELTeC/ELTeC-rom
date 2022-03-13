@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:e="http://distantreading.net/eltec/ns"
+     xml:id="ROM032"
+     xml:lang="ro">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Banditul Rîureanu sau un înger în infern. Roman dramatic senzațional de G. Rădulescu: ediție ELTeC</title>
+            <author>Rădulescu, G. (Rădulescu-Niger, N.G?) (1861-l944)</author>
+            <respStmt>
+               <resp>OCR</resp>
+               <name>Roxana Patras</name>
+            </respStmt>
+            <respStmt>
+               <resp>codare ELTeC</resp>
+               <name>Roxana Patras</name>
+            </respStmt>
+            <respStmt>
+               <resp>corectura manuala</resp>
+               <name>Lucreția Pascariu</name>
+            </respStmt>
+         </titleStmt>
+         <extent>
+            <measure unit="words">22563</measure>
+            <measure unit="pages">129</measure>
+         </extent>
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="2022-03-02"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3543111">ELTeC-rom</ref>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.4662599">ELTeC-rom release 0.9.0</ref>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="firstEdition">
+               <author>Rădulescu, G.</author>
+               <title>Banditul Rîureanu sau un înger în infern. Roman dramatic senzațional de G. Rădulescu</title>
+               <pubPlace>Craiova</pubPlace>
+               <publisher>Editura Librăriei Române Filip Lazăr</publisher>
+               <date>1890</date>
+            </bibl>
+            <bibl type="printSource">
+               <author>Rădulescu, G.</author>
+               <title>Banditul Rîureanu sau un înger în infern. Roman dramatic senzațional de G. Rădulescu (ediția a III-a)</title>
+               <pubPlace>Craiova</pubPlace>
+               <publisher>Editura Librăriei Române Filip Lazăr</publisher>
+               <date>1893</date>
+               <ref target="http://doi.org/10.5281/zenodo.3229353">Facsimile on zenodo</ref>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc n="eltec-1">
+         <p/>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="ro"/>
+         </langUsage>
+         <textDesc>
+            <e:authorGender chey="M"/>
+            <e:size chey="short"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="low"/>
+            <e:timeSlot chey="T3"/>
+         </textDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
+         <change when="2022-03-02">Corrected errors in spacing</change>
+         <change when="2021-04-09">Converted by checchUp script for new release</change>
+         <change when="2020-11-14">Converted by checchUp script for new release</change>
+         <change when="2020-11-14">Checched by checchup script</change>
+         <change when="2019-11-15">Initial TEI version generated.</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="ro">
+      <front>
+         <div type="titlepage">
+            <p>BANDITUL</p>
+            <p>RÎIREANU</p>
+            <p>SAU</p>
+            <p>UN ÎNGER IN INFERN</p>
+            <p>Roman dramatic-sensațional</p>
+            <p>de</p>
+            <p>G. RĂDULESCU</p>
+            <p>Ediția III.</p>
+            <p>1898</p>
+            <p>CRAIOVA — TIPOGRAFIA ROMĂNĂ FILIP LAZĂR</p>
+            <p>BANDITUL RÎUREANU</p>
+            <p>SAU</p>
+            <p>UN ÎNGER ÎN INFERN.</p>
+         </div>
+      </front>
+      <body>
+         <div type="chapter" n="1">
+            <head>CAP. 1. — La Cârciumă.</head>
+            <p>Diligența de la Giurgiu se oprise în satul Putineiu dinaintea cârciumei lui Solomonică. Soarele începuse să apună. De și stațiunea dili-genței de la Giurgiu nu era un spectacol nou pentru locuitorii din Putineiu, totuși veniseră ou grămâda în jurul călătorilor care îi privea cu indiferență. Ceea ce atrăgea mai cu deosebire curiositatea lor, erau cuferile, geamantanele, lăzile și într-un cuvânt grămada de bagaje pe care conductorul, din vîrful diligenței, le asvîrlea unei fetițe care le prindea și apoi le așeza în regulă pe pământ.</p>
+            <p>Cea mai mare parte din lăzile ce se descărcau, conțineau mărfuri pentru chir Solomonică, care, dupe spusa celor cari îl cunoșteau, avea o avere care întrecea cu mult pe a proprietarului moșiei.</p>
+            <p>Ca să nu se facă încurcătură, conductorul ori de câte ori aruncă copilei care stetea cu brațele întinse, câte un pachet pentru hangiu, striga: pentru d. Solomonică. În sfîrșit, dupe ce toate cuferele pentru Putineiu fură date jos din diligență, conductorul strigă pentru ultima dată: un sac cu bani pentru d. Solomonică, apoi adresându-se fetii, îi zise: aida de! e prea greu pentru d ta drăguță, trei mii de franci!... chiamă, mai bine pe d. Solomonică.</p>
+            <p>Iacă-mă! iacă-mă! răspunse hangiul, care, dupe ce împinse într-un chip brutal pe aceea ale cărei puteri nu erau îndestulătoare ca să primească toată acea greutate, puse un picior pe scară iar altul pe căpățîna roței, și, cu acest îndoit punct de reazăm, opintindu-se pănă la înălțimea caprei, întrebă nemulțumit pe conductor:</p>
+            <p>— Numai pentru atâta m-ai chemat Petre?</p>
+            <p>— Da, se înțelege, copila nu 'mi a părut destul de voinică.</p>
+            <p>Cu timpul are să devie, zise Solomonică învîrtind în aer sacul cu cei trei mii de franci, și întinzând conductorului mâna stângă spre a 'l ajuta să se dea jos.</p>
+            <p>— Nu e trebuință, strigă sbătîndu-se, Petre: știe lumea că cu toți cei șease-zeci de ani al d-tale, ești încă verde, moșiu Solomonică.</p>
+            <p>— șease-zeci! Cinci-zeci și opt, te rog.</p>
+            <p>— Voinic cum ești, ai putea foarte bine să zici numai trei-zeci.</p>
+            <p>— Bine altă dată socotindu-mi vîrsta, o să trec cu buretele peste nopți. Acum însă, adaogă Solomonică adresându se copilei, dute de 'I adu un pahar de vin ca să se mai reco-rească, dar mergi mai repede tofoloago, nu 'ți mai număra pașii par-că ai avea oă în poală!</p>
+            <p>— Cum o canonește! își ziceau între dînșii țăranii din Putineiu.</p>
+            <p>— O copilă așa de drăguță!</p>
+            <p>— Care o să aibă o zestre de cocoană.</p>
+            <p>— Ce vorbești frate! Să fie oare adevărat ce se spune pe ici, pe colea, că adică domnul Solomonică are o avere cum nu mai are altul în județ la noi?</p>
+            <p>— Ce mai stai de te miri măre! Solomonică e putred de bogat, înoată în aur nene!</p>
+            <p>— Cum îți pare Didina, hai întrebă hangiul pe conductor, atingându-l ușor cu dosul mâinei peste pântece; nu este așa că-ți lingi buzele?</p>
+            <p>— Asta e acuma, mă mai întrebi cum mi se pare, parcă d-ta nu știi, răspunse cu para-pon Petre.</p>
+            <p>— Dar ce, conductor, ai de gînd să dormim aici, întrerupse un călător scoțând capul pe lereastra diligenței.</p>
+            <p>— Ce facem conductor, plecăm azi ori rămânem aci, adaogă un altul cu un ton aspru și plin de nerăbdare.</p>
+            <p>— Numai de cât Domnilor, numai de cât răspunse jumătate supus și jumătate înțepat, conductorul.</p>
+            <p>— Ei bine, relo Solomonică, dînd cu palma prietenește peste burta lui Petre, știi că pe Didina o păstrez pentru cineva pe care 'l cunoști tu?</p>
+            <p>— Eu? zise Petre fără să pătrunză gândul lui Solomonică.</p>
+            <p>— Da! Da! Petre, dar iat-o, tăcere.</p>
+            <p>— Mititico, zise Petre luând paharul din mâna Didinei, știu ceva ce nu știu bine, dar de și nu știu bine....</p>
+            <p>— La dracu conductor! plecăm azi or nu?</p>
+            <p>— Dar aide odată conductor că ne a apucat noaptea....</p>
+            <p>— Plecăm, plecăm, am plecat răspunse Petre salutând cu o mână, iar cu cele l-altă dând bice cailor, apoi, pe când întorcea diligența, aducându-și aminte că a uitat să dea lui Solomonică sacul cu scrisorile, căci la dânsul se depunea corespondența pentru toate comunele din prejur și apoi el o dedea primarului — Oprii caii un minut, strigă pe Didina, îi dete pachetul cu scrisori și biciuind caii, porni din nou la drum, esclamând destul de tare ca să poată fi auzit de Solomonică care se oprise pe prispa cârciumei: haz ar fi avut să plec cu corespondența!</p>
+            <p>— Aș!, vorbă e, răspunse hangiul care urmărea cu ochii sacul cu scrisorile, te lăsam eu să pleci cu ele, o dată cu capul!</p>
+            <p>Dupe câte-va minute nu se mai auzi de cât huruitul depărtat al diligenței; oamenii care căscaseră gura, se întorceau liniștiți pe a casă iar Didina, din ordinul tatălui său, ducea în casă sacul cu scrisori.</p>
+         </div>
+         <div type="chapter" n="2">
+            <head>CAP. II. — Satul Putineiu.</head>
+            <p>Acoperit odinioară de păduri pe toată întinderea sa, satul acesta a fost multă vreme cuibul fiarelor sălbatice și al hoților de codri. Azi însă, desbrăcat cu totul de haină-i de verdeață, se prăjește la arșița Soarelui fără umbră, fără adăpost și în timpul ernei, fără să aibă omul de unde rupe câte va vrăscuri cu care să 'și desghețe membrele amorțite de ger. La spatele satului se întind podgoriile de vii, niște vii mici și pipernicite care se întind până în Alexandria, dar care, din pricina pământului neprielnic acestui soi de cultură, dă un vin mai puțin de cât mediocru. In mijlocul satului e biserica, și de cele doo părți ale ei, se întind casele satului, dacă se mai pot numi case niște grămezi de pământ și de grinzi lipite, fără nici o formă și fără nici un gust.</p>
+            <p>Nimic nu e mai încântător de cât să vezi în pragul acestor morminte ce se numesc case țărănești, apărând capul drăguț și plin de farmec al țărancei care, dupe ce 'și a isprăvit treaba, ese pe seară cu furca în brâu ca să vază pe cei ce trec pe linie așteptând să întoarcă vitele de la luncă.:?!</p>
+            <gap n="[editorial] Figure"/>
+            <p>La o jumătate de ceas depărtare de sat, se afla livedea, vast și frumos teren așezat între Alexandria și comuna Pielea. Locuitorii comunelor învecinate, mai fără voia lor, au făcut din această livede o adevărată șosea a bucureștenilor. Ei au făcut cu cheltuiala lor comună un șanț în jurul acestei câmpii de verdeață, și au plantat patru rânduri de arbori pe margine, ceea ce formează niște alee recoroase și încântătoare. In fundul livezei, o prăvălioară mititică cu un aspect sărăcăcios dar foarte curat, adăpostește și recorește cu rachiu, țuica sau zeamă de struguri pe cei care os-teniți de drum sau de plimbare, se așează pe câte o laviță de subt umbrar, pe când un cim-poier bătrân și gârbov îi înveselește cu cântecele-i din alte vremuri. Stăpânul acestei prăvălioare este tot Domnul Solomonică, care știind că Dumineca și sărbătorile în timpul verei lumea fuge din sat și merge să petreacă la livede, a deschis și aci o <hi>sucursală</hi> nu doar ca să câștige ceva, dar numai ca să nu zică oamenii că n-au cu ce 'și recori gâtul.</p>
+            <p>Logofăt în vremea lui pe moșia prințului M... domnul Solomonică este azi o autoritate la dânsul în sat; ca orice autoritate însă, este mai mult temut de cât iubit, ba chiar une ori această autoritate este criticată cu multă asprime de către cei care 'și au stabilit deja reputația de guri rele.</p>
+            <p>și mai întâi aceste guri rele, se întreabă cu oare care dreptate: logăfătul cărui prinț a fost domnul Solomonică? Aci deja în-cepe încurcătură căci dupe câte 'și aduc aminte bătrânii, hangiul de azi a fost logăfăt la d. M. dar acest M. n-a fost prinț cum n-a fost Păcală Popă. De altfel, toată lumea 'și aduce aminte că acest stăpân de odinioară al d lui Solomonică era d-o bogăție fără seamă.</p>
+            <p>Or cât de mână spartă însă ar fi fost d nu M. și or cât de mult 'i ar fi plăcut să 'și arunce banii pe fereasstră chiar dacă s-ar admite că într-o bună dimineață 'i a venit poftă să 'și împarță averea pe din doo cu logofătul său, tot nu se justifică bogăția fără seamă a hangiului din Putineiu. Dar nimic din toate acestea nu s-a întâmplat, din contra, contimporanii cârciumarului 'și aduceau perfect aminte că la moartea stăpânului său, s-a retras din curtea d-lui M. cu o mie cinci sute de franci. Astfel deci, toată averea sa azi ar trebui să se compună din acest capital, plus un oare care câștig, ce-i aducea cârciuma precum și neînsemnata remiză ce 'i se acordă de la timbre, căci printr-o disposiție a autorităței comunale, tot d. Solomonică este însărcinat și cu debitul timbrelor și mărcilor poștale.</p>
+            <p>De acea se întreabă lumea cu oare care curiositatea în sat și împrejurimi, cum face Solomonică de cumpără mereu, de zece ani, ba pământ, ba vii, mori, păduri, ba vite etc. De unde oare ia banii trebuincioși pentru toate aceste cumpărări? Este adevărat că dă bani cu dobândă și cu dobândă așa de mare încât încă de multă vremea 'i a rămas numele de Solomonică, numele celui mai afurisit cămătar care a călcat vre o dată prin districtulu Vlașca, dar oare la țeară cine nu e cămătar? cine nu dă bani cu dobîndă, d-aci însă nu urmează că lumea să se îmbogățească dintr-o zi într-alta și încă să se îmbogățească așa în cât să se ducă vestea peste noo sate. Din an în an, reputația sa de om bogat crescând mereu, începuse lumea să 'l numească d-nu Solomonică cel bogat înaintea streinilor, cărora le vorbea despre el cum se vorbește despre un monument, des-pre o clădire grandioasă sau despre cine știe ce alță minune. „Ăsta care trece pe linie, începuse să esplice lumea celor care nu 'l cunoș-teau, este d. Solomonică bogatul; ăla care șade în fundul trăsurei este d. Solomonică bogatul; domnul cela care trece călare este bogatul Solomonică.”</p>
+            <p>Omului acestuia îi plăcea mult să stea în pragul ușei și să fumeze ceasuri întregi ca cum ar fi vrut să respunză admirațiunei con-cetățenilor săi. De și avea cincizeci și opt de ani, își păstrase totuși statura dreaptă. picioarele-i strânse în niște cisme lipite, și capul îi era umbrit de niște favoriți blonzi spicați cu fire cărunte. Umerii săi rotunzi și arcați, umeri de om voinic, se terminau cu niște mâini păroase care ar fi putut sugruma un mistreț. Obicinuința d-a trăi la soare și pe câmp dupe când era logofăt de moșie, îi tăbăcise pelea feței și-i pusese niște pete roșii pe obrajii săi bucălați Tot din pricina acestei vieți țărănești și slugarnice în același timp, caracterul său era aci supus și umilit, aci violent și teribil. Din a treia căsătorie a sa cu fata unui aren-dașiu din apropiere, n-avea de cât un copil, o încântătoare și nenorocită copilă care intra acum în al șeapte-spre-zecilea an. Născută diu niște părinți sdraveni, Didina suporta fără să se resimță ostenelile unei vieți păcătoase; abuzul muncei nu stricase încă formele ei sculpturale; părțile ronde și fine ale trupului ei păs-traseră încă farmecul copilăriei, și lăsau să se întrevadă o minunată frumusețe. Fruntea ei cu albeața-i suava dedea o valoare extra-ordinară, strălucirei ochilor, lungimei mătăsoase a ge-nelor, acești conductori electrici a tutor scânteilor, pornite din suflet, din inimă și din spirit. Negrii și îmbrobodiți, ochii Didinii arătau și ascundeau în același timp inocența și ardoarea sentimentelor ei. Gura ei era în tot d-auna rîzătoare; alerga parcă spre dorință, spre emoțiune și spre toate caprițiile unei inime peste măsură imposibilă. In armonie cu fața ei delicioasă, gîtul Didinei, arcul umerilor, desenul brațelor, al sînului ei bombat înainte ca un buchet, ofereau caracterul unei fete de țară pe care frumusețea și îngrijirea unei educațiuni alese o rădicaseră d-asupra rangului său, fără să o confunde cu fetele de orașiu. Dacă ar fi nevoie de o comparație ca să poată lectorul înțelege pe Didina, ași zice că semăna oare cum cu acele demoazele albe, rumene, diafane, care 'ți fac efectul unor îngeri trimiși pe pământ, ca să ne arate noo muritorilor ce atracțiuni divine capătă cei cari trăesc în intimitatea zeilor.</p>
+         </div>
+         <div type="chapter" n="3">
+            <head>CAP III. — O martiră.</head>
+            <p>Didina fusese crescută într-un pension din cele mai cu renume din Turnu-Măgurele. Nu doară că tatăl său, mândru ca toți parveniții, voia, dîndu i această strălucită educație, să se laude cu distincțiunea fetei sale. Din potrivă educația Didinii fusese o îndatorire pentru dînsul, o silință violentă făcută proectelor lui, dupe cum o voiu spune mai departe; și biata copilă de multe ori nu știa cum să facă ca să-și ascundă spiritul său să se ferească de a-l murdări în contact zilnic cu fel de fel de oameni, al căror nivel intelectual era așa de jos în cât de multe ori copila 'și zicea că clienții tatălui său atît cu moralitate cât și cu inteligență, constituiau trăsura de unire între omu și bestie.</p>
+            <p>Didina trebuia să îndeplinească și nu numai fără să murmure, dar chiar având aerul a fi fericită toată sarcinile casei, ale prăvăliei și ale biuroului, căci am zis că d. Solomonică era însărcinat de autoritatea comunală care n-avea vreme să se ocupe cu asemenea fleacuri, cu distribuirea scrisorilor în plasă, era cu alte cuvinte, un fel de șef al biuroului de poștă. Ea era peste tot; trebuia să se tocmească cu oamenii care veneau să cumpere; să dea în-formații celor care veneau să 'și primească scrisorile, sau să recomande pe cele care le trimeteau; trebuia să satisfacă și să mulțumească pe mama sa care o dojenea toată ziulica zi-când că umblă prea încet; în fine trebuia să îngrijească de casă și d-ale casei. Nu se odihnea un minut: o vedeai când la terezii, când la timbre, când cu mătura în mână, or alergând afară să primească pachetele de la diligență. și vai de capul ei ar fi fost dacă s-ar fi înșelat cu un ban dând restul unui client! Domnul Solomonică la moment s-ar fi făcut foc și numai l-ai fi auzit înjurând surugiește și esclamând că 'i ar fi trebuit un băiat iar nu o bivoliță de fată ca asta!</p>
+            <p>Doamne, ce muncă ar fi impus unui băiat acest tiran de tată, dacă pe această nenorocită copilă o muncea atâta fără ca cel puțin să fie mulțumit! Sculată cu noaptea în cap, Didina nu se culcă nici o dată înainte de miezul nopței, chiar în timpul iernei când toată suflarea satului era adormită de la aprinsul lumînărilor. De la noo ceasuri seara și pănă la doo spre-zecea noaptea, Didina ședea dupe tejghea împletind și nu 'i era permis să ridice ochii în tavan sau de a picotea de somn pe scaunul ei de lemn. Dacă se întâmplă câte o dată să o fure somnul și adormită, să 'i scape cîrligile din mână și să facă oare care sgomot pe tejghea, aceasta atrăgea atențiunea tatălui său care locuia într-un fel de pod d-asupra camerei unde era prăvălia; acesta, deschidea binișor o ferestrue care dedea tocmai d-asupra tejghelei și arunca în capul copilei adormite și rebegită de frig cu-n pahar cu apă rece înjurând-o și amenințând-o cu o pedeapsă și mai barbară dacă o va mai surprinde încă o dată că e leneșe. La această impresie crudă, se deștepta tresărind speriată de vocea tatălui său se freca la ochi și se punea din nou pe lucru care de multe ori se muia de lacrămile ce 'i curgeau șiroaie din ochi.</p>
+            <p>La miezul nopței se urca și ea în odaia-i de culcare situată tot în pod alături cu a părinților săi, și singura distracțiune era să stea câte-va minute la fereastră cu coatele rezemate de tocul geamurilor, ca să privească câmpul respirând aerul nopței.</p>
+            <p>Când cerul era senin, Didina zărea, printre plopii plantați sub ferestre și de trei ori mai nalți de cât casa, livedea unde vara se plimbă lumea în timpul zilei. Când era nor și întunerec, abia zărea vîrful copacilor cari înconjurau șanțulu livezei.</p>
+            <p>Un instinct nehotărât, unul din acele mișcări profetice cari turbură une ori sîngele tinereței, părea că spune Didini că nu de geaba încredința ea toată plăcerea inimei ei curate, că nu de geaba fixa ea toată atențiunea ei asupra acestui punct izolat al câmpului. Aspirațiunile ei secrete, misterioase ca și sufletul de unde nasc, își găsiseră oare explicația? Nu știu. știu numai că o dată, într-o seară de primăveară, Didina, nu se punea la fereastră de cât de jumătate desbrăcată când adică era aproape să se culce, îndată ce intră în cameră, dupe ce 'și isprăvise treaba în prăvălie, alergă d-a dreptul și foarte repede la fereastră, și străbătu lacom cu privirea linia luminoasă a aleei din livede, ca cum ar fi urmărit cu ochii pe cineva. Căutarea ei părea plină de dorințe și de neliniște. Ascunsese lampa de frică să nu fie cum-va văzută. Frica copilărească! Căci cine, la miezul nopței, primăveara, când toată lumea la țară, moartă de oboseală, doarme dusă, ar fi mai fi putut-o vedea? și de alt-fel chiar de ar fi zărit-o cineva, cum ar fi putut oare ghici, în ce scop făcea ea această timidă perchisițiune.</p>
+            <p>— Iat-o! strigă Didina cu o explozie de bu-curie:— cei doi ulmi, acoperișul ascuțit și doo pavilioane! — Acolo e.</p>
+         </div>
+         <div type="chapter" n="4">
+            <head>CAP. IV. — 0 mamă nenorocită.</head>
+            <p>Elisa soția hangiului pe care țăranii din pricina capacităței sale mișelești îl botezaseră cu numele cămătarului Solomonică, nu era o mamă rea; ei de multe ori îi sîngera inima văzând răul tratament ce îndura copila din partea tatălui ei, dar erau doo cause cari o împedicau de a interveni cu autoritatea ei de mamă și a arăta bărbatului său că alte sen-timente trebue să aibă un părinte către copii iar nu acelea pe care le avea mișelul de So-lomonică.</p>
+            <p>Fală de arendașiu, crescută și ea aproape tot ca Didina, nu prea 'i se părea grele sar-cinile grozave ce hangiul impunea copilei sale. Afară de aceasta, avea în privința bărbatului său, o groază care nu se poate descrie. Se căsătorise cu dânsul fiind-că așa voiseră părinții ei, căci din nenorocire și la țară se văd căsătorii unde inima și ori-ce sentiment înalt și frumos trebue să tacă și unde nu vorbește de cât punga sau ambițiuni murdare și joase. Spuserăm că Elisa avea o mare frică de bărbatul său; această frică une ori mergea până la groază. Se temea de violența și furia unui om pe care nimic nu 'i putea reține: el n-avea nici respect, nici educație, nici umbra unui sentiment religios, nici măcar bun simț nu mai avea când se înfuria. Ii se urca sângele în cap, începea să vadă roșiu înaintea ochi-lor, lovea răsturna, și chiar ar fi fost în stare să omoare chiar. Intr-o zi era călare și vrea să treacă pe o potecă pe unde nu mai trecuse nici o dată: calul se sperie, începe să sforăe și nu vrea să meargă; Solomonică îi despintecă burta cu cuțitul și 'i trântește mort la pământ. Calul acesta îl costa opt sute de franci Să înțelege ușor că asupra unui carac-ter ca acesta, nu putea să aibă nici o influ-ență femeia și mai ales o femeie nenorocită ca Elisa, căreia atât de mult îi intrase frica în inimă, în cât luase obiceiul să zică: „De 'mi ar ajuta Dumnezeu să fac cutare lucru pănă nu mă omoară bărbatu meu!” Ea însă, avea asupra bărbatului său un motiv secret de au-toritate foarte puternică, prin mijlocul căruia nu numai că 'i ținea sub picior, dar ar fi pu-tut face un miel din acest tigru miserabil, și ar fi readus în casă fericirea ei și a copilului ei. Ce să 'i faci însă, frica era mai puternică de cât dorința de a 'și asigura liniștea și feri-cirea casei. Acest secret impunea nevestei hangiului ne mai auzite precauțiuni față cu Didina, de teamă ca aceasta să nu 'l descopere cum va; dar copila, grație unor împrejurări pe cari le voiu desvolta mai la vale, avea oare cari bânueli și căuta, de 'i va fi cu putință fără să deștepte băgarea de seamă, a pă-rinților, să pună mâna pe secretul care 'i ar fi dat cheia prosperităței afacerilor lui Solo-monică, precum și a unor mistere care de multe ori o pusese pe gânduri, silind-o să pri-vească furișu în tavanul prăvăliei, în nopțile de iarnă când tatăl său se retrăgea și o lăsa singură să vegheze torcând sau împletind la ciorap.</p>
+            <p>Cu tot răul tratament ce suferea Didina, ca nu era nici mai puțin frumoasă, nici mai puțin dorită de toți tinerii mi cu vază de prin satele din prejur.</p>
+            <p>Toată lumea știa că la capătul acestui iad, îi este rezervată o zestre bogată și o moștenire incalculabilă; dar dorințele și aspirațiu-nile flăcăilor se opreau timide la pragul bo-gatului hangiu.</p>
+            <p>Nici unul nu se simțea destul de îndrăsneț ca să ceară lui Solomonică mâna Didini fără să fie în stare ai arăta în schimbu ce-va bani și încă sume grase sau vre-o pădure, vre-o moșie, ori în sfârșit perspectiva unei moșteniri, care să echivaleze cu zestrea fetei. Fără această condițiune, nimeni nu îndrăsnea să facă cererea, căci cine ar fi putut spune pînă unde e în stare hangiul să meargă cu bruta-litatea refuzului.</p>
+            <p>— Nu se mărită ea în sat, adăogau ambițioșii spre a mai îndulci într-ânșii amărăciunea ce le pricinuia siguranța că le este cu desăvîrșire cu neputință a se aspira la mâna fetei lui Solomonică, căci, în tot satul și în cele câte-va sate din prejur, mai nu e unul care să aibă cinci-zeci sau șease-zeci mii de lei ca să 'i facă să lucească de dinaintea ochilor acestui bogat putred.</p>
+            <p>— Nici vorbă, continuau alții, Solomonică nu 'și mărită fata la Putineiu, el se duce or la Giurgiu or la Alexandria.</p>
+            <p>— Ba mă tem c-o să alerge tocmai la Bu-curești, măre băete.</p>
+            <p>— Da ce te ar prinde mirarea?</p>
+            <p>Cât despre cei, cari contau pe avantagele lor fisice spre a place Didinei și de aci se sur-prindă consimțimântul părinților, puteau să se culce pe urechia aceea mult și bine.</p>
+            <p>Fata cârciumărului nu eșea nicăeri: nici la horă, nici la nunți, nici măcar la tîrg nu mergea, ba nici chiar la biserică nu prea avea vreme să meargă, căci presența ei era nu nu-mai necesară dar chiar indispensabilă în prăvălie. A căuta să intri în vorbă cu dînsa când era la tejghea, era tot așa de greu, ca cum ai căuta să intri în vorbă cu un general în momentul când comandă <hi>„foc”</hi> în contra duș-manului. Din momentul când se deschidea prăvălia, sermana copilă numai avea nici inimă nici suflet, nici tinerețe; avea numai aripi ca să sboare dintr-o parte într-alta, ochii ca să citească etichetele, mâini ca să dea restul; dar aceluia care 'i ar fi spus:— Ești frumoasă, 'i ar fi respuns, de sigur: De cât poftiți Domnule?</p>
+            <p>De alt-fel, dacă Didina ar fi avut slăbiciunea să iubească pe cine va și ar fi avut și imprudența a lăsa să se descopere lucrul de către ta-tăl său, s-ar fi expus: sau să fie închisă în-tr-un pension de unde să nu mai vază soarele ani întregi, sau să fie omorîtă în bătăi, sau ar fi auzit pe tatăl său jurându-i că atâta timp cât va trăi el, nu pupă ea măritiș.</p>
+            <p>știa ea toate căci mama sa 'i le spusese și mai ales fiind că ea le citea zilnic în caracterul tatălui său. Ceea ce nu știa ea însă, ceea ce nu putuse și ceea ce n-ar fi putut ghici o dată cu capul, este planul ce concepuse hangiul d-a o mărita dupe Petre conductorul diligenței.</p>
+         </div>
+         <div type="chapter" n="5">
+            <head>CAP V.— O privire îndârăt.</head>
+            <p>Ca să putem înțelege această alegere a domnului Solomonică, alegere care nu 'și ar putea găsi explicarea numai în caracterul său, e trebuință neapărată să ne întoarcem cu câțiva ani înapoi, să urcăm la epoca când era pe moșia D-lui M.</p>
+            <p>Stăpânul hangiului nostru, om pasionat dupe vînătoare, nu iubea, ca toți oamenii cu această pasiune, de cât pe vînător sau pe acel cari aveațu or cât de puțină înclinare spre această petrecere. Prietenia o lega repede și cu ori cine numai să 'i fi dovedit că cel care ambiționa onoarea d-a fi numărat printre amicii proprietarului M. avea predilecție pentru exercițiul cari 'i era așa de scump.</p>
+            <p>La o vânătoare care dura trei-zeci și șease de ceasuri, stăpânul lui Solomonică se bolnăvi și dupe câte-va zile de niște dureri atroce, închise ochii lăsând averea, proprietatea, cum și toate cele ce aveau oare care raport cu vînătoarea, unui nepot al său, domnul Eliescu.</p>
+            <p>Acesta, puțin amator de vânătoare, dar econom, filantropic, partizan al perfecționărei morale, a caselor inferioare ale societăței, voi să vadă cât poate pielea fie căruia dintre servi-tori înainte de a 'i angaja din nou. Examenul fu fatal logofătului Dumitrache — așa se chema pe atunci bogatul Solomonică de azi — care, nu știa nimic afară de dicționarul de vânătoare din pricina căreia își neglijase cu desăvîrșire meseria de logofăt pe moșie. Hotărî să 'l dea afară. Totuși, fiind că fusese în serviciul unchiului o vreme îndelungată, domnul Eliescu, nu 'i dete drumul de cât dupe ce 'i puse pe Didina, copilă de tot pe atunci, într-unul din marele pensioane din București, și obținu pentru Elisa, nevasta logofătului debi-tul de tutun și de timbre pe lângă care, cu timpul se adaogă și așa zisul biurou de expediție, adică cu alte cuvinte, poșta rurală pen-tru toată plasa.</p>
+            <p>De și despăgubirea ce 'i se da, era nu se poate mai frumoasă, totuși lui Solomonică nu 'i veni la socoteală. O rușine, o mare rușine, îi făcea căderea și mai grea.</p>
+            <p>Intr-adevăr d. Eliescu, cu toată nepriceperea logofătului Dumitrache, tot nu s-ar fi îndurat să 'l dea afară, dacă cel puțin ar fi fost în stare să 'i ție registrele moșiei, dar băgă de seamă, că pe lângă cele-l-alte păcate ale logofătului, apoi el nici nu știa să citească. și această rușine d-a fi gonit din slujbă fiind-că nu știe să citească, adică fiind că se găsește în același condițiuni de ignoranță ca ori-ce bădăran din sat, îl omora rău, îl turba chiar pe Solomonică. Din pricina aceasta se săpă adânc în inima lui ura și groaza de tot ce mirosea a învățătură; disprețul cel mai groaznic și mai pe față pentru tot ce nu era calitate fisică, forță corporală și brută.</p>
+            <p>Cu toate acestea însă, ca să nu peardă cele din urmă favoruri ale nepotului protectorului său, consimți să 'și lase fata la școală, dar își făgădui în sufletul său rănit, să șteargă dintr-ânsa, s-o facă să regrete la fie ce moment cunoștințele ce va aduce cu dânsa la eșire. Se bucura mai dinainte gândindu se că 'i va fi ușor să înjosească pe fie-sa, la el acasă, a-ceastă instrucțiune, această știință, această odioasă știință de care el era lipsit și din pricina căreia perduse jumătate, mai mult decât jumătate din ghelirurile ce nădăjduia să-i mai aducă slujba de logofăt pe moșia domnului Eliescu.</p>
+            <p>Această circumstanță, lectorul o înțelege, jus-tifică simpatia sa pentru conductorul diligenței și răceala pentru Didina, pe care piănuește să 'i o dea în căsătorie.</p>
+         </div>
+         <div type="chapter" n="5">
+            <head>CAP. VI.— Bietul notar!</head>
+            <p>Cu toată mândria fetei și cu tot disprețul insolent al hangiului, dorințele tinerimei din sat se măreau din zi în zi, văzând cu ochii cum pe de o parte averea lui Solomonică se mărește pe zi ce merge, iar pe de altă parte frumusețea Didini devenind tot mai provocătoare.</p>
+            <p>Nu mai era vorba printre tineri de cât des-pre averea hangiului și ochii fii săi. Acesta era subiectul zilnic al tutulor comersanților, un subiect însă al căruia sfârșit era în tot d-auna îndoială și descurajare. Această idee, devenită fixă, se inrădăcină atât de mult în creierul flă-căilor, în cât nici unul nu mai îndrăsnea să se însoare de frică să nu piardă ocasiunea d-a se căsători cu Didina, adevărat măr de aur în grădina Hesperidelor păzit de un balaur.</p>
+            <p>In zadar mamele, mătușile, aste mijlocitoare naturale, încercară să se apropie de Solomonică. El știa să profite de pretextele lor ca să 'și facă treburile și să le vîndă mai scump marfa din prăvălie.</p>
+            <p>Intre acestea, un notar, <foreign>chir</foreign> Vanghelie un grec cere însemnase la răboj grîul și porum-bul ce se transportă la schela din Zimnicea, pripășit prin Putineiu de un zapciu puțin scrupulos, martor tăcut al tutor asalturilor încercate fără folos în contra cetățeli hangiului, își zise ca filosoful acela: fiind că toată lumea așteaptă să vadă soarele resărind din partea aceasta, eu să 'l aștept de partea cealaltă</p>
+            <p>Gândul lui era acesta:</p>
+            <p>— Nu e nădejde să capăt fata d-a dreptul furându-i inima; s-o am prin tatăl său, nici vorbă! Să încerc atunci prin mama-sa.</p>
+            <p>chir Vanghelie fusese însărcinat altă dată de tatăl Elisei, socia lui Solomonică, cu niște afaceri de familie. Dupe ce sfîrși însărcinarea, 'i se plăti osteneala. astfel stând lucrul, nu mai era nici o portiță pentru <foreign>chir</foreign> Vanghelie să intre în casă la hangiu, dar un notar și un notar grec, nu se descurajează nici o dată, mai cu seamă când are patru zeci de ani, și ros de ambițiune fiind că văzuse trei generațiuni de notari făcând avere la Putineiu pe când el sta locului neputând cu nici un chip să lege doo în teiu, par-că ar fi fost un ce făcut.</p>
+            <p>— Am găsit, își zise el într-o seară de iarnă scuturându și zăpada dupe paltonul a cărui culoare de mult nu se mai cunoștea Mâine tocmai e Duminecă, se gândi el; la han nu prea e treabă multâ, prin urmare femeia lui Solomonică mă poate primi. Ia să 'i scriu că am să 'i vorbesc despre o afacere care o interesează tare mult.</p>
+            <p>Sfârșind biletul, Vanghelie care n-avea servitor, îl duse singur la cârciumă, având grije, de și era târziu, să nu fie văoaut de nimeni. Doamne ferește, ce ar fi zis lumea dacă 'l ar fi zărit cineva! Grecul e în tot d-auna prudent!</p>
+            <p>Didina tocmai închidea prăvălia când îl dete grecul biletul.</p>
+            <p>Dumneata ești, domnule Vanghelie? M-am speriat.</p>
+            <p>Vai de mine Mititico, îmi pare foarte rău că 'ți ara pricinuit această neplăcere.</p>
+            <p>— Cu ce pot să te servesc domnule notar?</p>
+            <p>— Să bine voiești a primi acest bilet</p>
+            <p>— și de ce? întrebă mirată fata</p>
+            <p>— Ca să 'l dai, din parteă mea, coconiți.</p>
+            <p>— Foarte bine, domnule notar, zise Didina dând bună seara lui Vanghelie.</p>
+            <p>— Am făcut primul pas, își zise Notarul mergend spre casă.</p>
+            <p>Când fu în pat, văzu trecându-i pe dinaintea ochilor, ca într-un vis, livezi înverzite, păduri stufoase, câmpuri cu grâu, care ondu-lau și care erau ale lui; apoi pe Didina, îm-brăcată în haine de mireasă; se văzu pe el însuși trecând în haine negre, ținând în mâna dreaptă mâna Didini și în mâna stângă con-tractul de căsătorie; în fundul tabloului citea în litere de foc cuvintele: <emph>Leonida Vanghelie notar.</emph>
+            </p>
+            <p>Didina dete biletul în mâna mamei sale care dupe ce 'l citi, zise:</p>
+            <p>Ah! Domnul Vanghelie. De când nu l-am văzut? Ce o avea să 'mi spue?</p>
+            <p>Dacă ar fi auzit Vanghelie aceste cuvinte unse cu miere eșind din gura nevestei hangiului, nu s-ar mai fi îndoit de viitoarea-i fe-ricire. Ce plăcută speranță sau mai bine ce răpitoare siguranță 'i ar fi înveselit inima!</p>
+            <p>Elisa se tot gândea mereu ce avea să 'i comunice grecul atât de important, iar Didina își pregătea furca când Solomonică deschizând ferestruia tavanului, strigă cu vocea-i de stentor:</p>
+            <p>— Dar nu mai vii o dată muere?</p>
+            <p>— Viu numai de cât.</p>
+            <p>— Aide o dată.</p>
+            <p>— Dar iacă viua.</p>
+            <p>— Repede.</p>
+            <p>Ce om! Când s-o sfârși o dată nenorocirea asta a mea, murmură Elisa suspinând și urcând scara podului.</p>
+            <p>Pe când ea se urca, Solomonică care rămăsese cu obrazul lipit de chepeugul podului, zise adresându-se Didinii.</p>
+            <p>— și tu să nu uiți că mâine avem la masă pe Petre, auzi tu?</p>
+            <p>— Mâine!</p>
+            <p>— De ce nu?</p>
+            <p>— Nu zic.....</p>
+            <p>— Iată ce să gătești: varză cu carne, o gâscă friptă, berbec cu fasole, cartofi prăjiți pentru friptură și salată. Bagă de seamă să fie mulțumit. Să scoți diu privință opt sticle de vin.</p>
+            <p>— Opt sticle!</p>
+            <p>— Ei și? Ce-ți pasă?</p>
+            <p>— Bine, tată.</p>
+            <p>— Credeam că... Sunt numai zece cea-suri, lucrează, nu perde vremea prinzând muște. Dacă 'ți e frig mișcăte.</p>
+            <p>Chepengul se închise. Didina rămase singură dupe tejghea și toarse până la mezul nopței, aruncându-și ochii din când în când la ceasornic, și uitându-se câte o dată la tavan ca cum ar fi vrut să pătrundă, strania și vecinica enigmă, cauza pentru care tatăl și mama sa, veghiază în toate nopțile.</p>
+            <p>După ce sunară doo-spre-zece își făcu lampa și se urcă înghețata de frig în odăița ei. Apoi încue ușa și alergă la ferăstră și privirea-i, fără să se oprească pe câmpul acoperit cu zăpadă, merse drept la ferestruia casei a cărei vedere o făcuse să scoață un ți-păt de bucurie în ziua când o descoperi în fundul livezei.</p>
+            <p>In odaie la fereastra căreia își oprise privirea, ardea o lumînare.</p>
+            <p>— E tot deștept, își zise Didina: m-așteaptă!</p>
+            <p>Indată nu 'i mai fuse frig.</p>
+            <p>Fata lui Solomonică ascunse atunci lumina lampei dupe o cutie de pălărie.</p>
+            <p>In același moment lumina din odaia unde se uita dispăru asemenea</p>
+            <p>Acum știe că sunt aici, zise Didina care se grăbi să deschidă un sertar și să ia dintr-ânsul mai multe bucățele micii de luminare. Aprinse mai întâiu doo din ele și le puse pe tocul ferestei și așteptă.</p>
+            <p>Doo lumini mititele cari scînteiără la fereastra din fundul livedeii îi respunseră la acest semnal.</p>
+            <p>Tot timpul cât arseră aceste patru lumînărele despărțite prin o câmpie înghețată, Didina nu înceta de a privi cu înduioșare căsuța cea izolată și această privire făcu să cază puțin câte puțin vălul de întristare ce-'i acoperea fața. Buzele 'i se întredeschiseră, ochii 'i se închiseră pe jumătate, și capul îi căzu melancolic și visător pe mână. Aci sufăr, murmură ea încet, dar acolo mă iubește și sunt aproape fericită de suferința mea, căci resplata e dulce inimei mele. Lasă să 'i se vază—nimeni nu era lângă dânsa ca să observe, nici acela pe care 'i iubea, nici aceia cari 'i ar fi făcut o crimă din amor — lasă să 'i se vază întreg sufletul, focul naiv al tinerei sale pa-siuni, amoru-i în sfârșit. Tăcerea nopței, albeața senină a câmpiei, până și frigul, până și moartea întreagă a naturei, contribuiau ca să ezalteze într-ânsa această primă libertate a fetei care iubește, poate mai mult de cât pe D-zeu pe acela care 'l-a impus, mai mult de cât pe mamă-sa pe care nu 'și a ales-o ea, pe ființa din care îți face un Dumnezeu prin voința și prin dreptul ce are.</p>
+            <p>Lumînărelile aprinse de Didina se stinseră dupe câte-va secunde se face întunerec și la poarta căsuței din livede.</p>
+            <p>Didina nu mai aprinse de cât una pe care o puse în locul celor care se stinseră.</p>
+            <p>Același semnal se repetă și din partea cea-l-altă</p>
+            <p>Ce fericită sunt, Doamne! îngînă Didina.</p>
+            <p>Corespondența stabilită între ea și persoana care 'i respundea atât de exact, nu era de cât mijlocul ingenios, primitiv, căruia îi datorim poate telegraful: transmisiunea unei idei în spațiu prin jocul luminelor, limbaj mărginit dar repede, născocit de un prisonier sau de un amant, acela zicea: <emph>Scapă-mă!</emph> acesta: <emph>Iubește-mă</emph>!</p>
+            <p>Era convenit între Didina și credinciosul ei corespondent ca doo lumînări să însemneze: <emph>Sunt aci, D-ta ești acolo?</emph>
+               <emph>Da, aicii sunt</emph> răs-pundeau cele doo lumini. Una singură dupe ce se stingeau ce-le-alte doo, însemna:<emph>Te iubesc</emph>. Te iubesc eră respunsul ce 'l dedea lu-mina izolată care apărea în partea cea-l-altă.</p>
+            <p>Dupe ce aprinse trei luminări și le puse la locul convenit, Didina strigă surprinsă: Ce am făcut, apoi se grăbi să mai aprindă încă una: uitasem că nu trebue să aprind trei de cât când voi să 'i anunț de vre-o nenorocire! 'L-oi fi speriat; ce o fi crezut el dacă cumva n-o fi băgat de seamă că am greșit?</p>
+            <p>Ultimul semnal întrebuințat de Didina însemna: <emph>Sunt fericită.</emph>
+            </p>
+            <p>— El 'mi a respuns, își zise ea punându-și boneta de noapte, că și <emph>el e fericit.</emph>
+            </p>
+            <p>Stinse lumînările și se puse în genunchi ca să 'și facă rugăciunea. Dumnezeu trebue să fie indulgent cu cei amorezați.</p>
+            <p>Iacă acum cum făcuse ea cunoștința celui pe care 'l iubea de șease luni fără ca nici mâmă-sa, nici tatăl său să fi observat ceva, de și se zice că amorezații să trădează foarte ușor dacă nu dupe alt-ceva, cel puțin dupe expresiunea figurei.</p>
+         </div>
+         <div type="chapter" n="7">
+            <head>CAP. VII. — Prima ciocnire.</head>
+            <p>In tocmai ca Frideric cel mare, care ar fi vrut să nu să tragă o pușcă în Europa fără permisiunea lui, tot așa onorabilul Solomonică nu vrea să se facă o treaba în plasă la dînsul fără să ia și el parte și încă partea leului.</p>
+            <p>La epoca când începe povestirea noastră, domnul Eliescu, proprietarul Putineiului, întorcându-se din străinătate unde visitase multe stabilimente industriale și unde mai ales vă-zuse ce desvoltare uriașe luase comerciul cu manuFactura, hotărâse să instaleze pe moșia sa un ferestrău mecanic, pentru lemnele de construcție, și dacă s-ar putea și o fabrică de manufactură. Amândoo aceste încercări, se făceau la început, se înțelege în mic, și numai dupe ce industria ar fi promis oare care beneficii numai, era hotărât domnul Eliescu să 'i dea proporțiunile și perfecționările stabilimentelor similiare din occidentul Europei. De o cam dată se mulțumise să 'și aducă mașineie indispensabile și un personal restrâns dar recrutat printre cei mai bine reputați lucrători de la fabricele pe cari le visitase.</p>
+            <p>Fiind că însă singur nu putea supraveghia amândoo aceste stabilimente, și fiind că pe un om plătit nu putea să se încreadă într-o întreprindere atât de serioasă în care era vor-ba de averea și de amorul său propiu pus direct în joc prin succesul sau nesuccesul afa-cerei, 'și a propus ca și în această questiune ca în multe altele să se conducă tot dupe nor-mele întreprinzătorilor streini cari, având mai multe cunoștințe și mai multă experiență, gă-sesc mai de grabă mijloacele proprii spre a face să prospere întreprinderile. Așa, se știe că unul din chipurile cele mai practice pentru exploatarea unei fabrice, este asociațiunea, fiind-că nu numai că capitalul pe care 'l risici nu este atât de mare în cât în cas de nereușită să râmîi pe drumuri, dar afară de aceasta, toate persoanele asociate sunt de o potrivă in-teresate la succesul întreprinderei și controlul ce fie care exercită este pornit nu din sila de a se achita de o datorie pe care o contrac-tează în schimbul plăței ce i se dă, ci din do-rința de a creea o situațiune mai bună și prin urmare acest control fiecare dintre capita-liștii asociați îl exercită cu zel, cu inteligență și cu durere de inimă, de aceia și supravegherea este eficace și făcută în condițiuni proprii a asigura succesul întreprinderei.</p>
+            <p>Consecințe acestui raționament, domnul Eliescu, dupe ce a stabilit un început de manufactură ca astfel fie care doritor d-a se asocia să fie în măsură d-a vedea perspectiva ce 'i se oferă și d-a calcula șansele de câștig, s-a adresat prin publicitate, la toți aceia cari vor să 'i dea concursul ca să poată duce la bun capăt această întreprindere începută cu atâtea sacrificii.</p>
+            <p>Indată ce Solomonică află despre publicațiunea făcută în privința ferăstraelor mecanice și a manufacturei instalate la Putineiu, fu cel dintîiu care se oferi să coopere cu d-lu Eliescu. Inainte însă de a 'și da banii pe acțiuni, voi să 'și deșchidă bine ochii asupra valoarei fabricei. Ba împinse reserva pănă a nu se duce direct cu intențiunea formală, mărturisită da-i cunoaște importanța, ci lo un drum piezișiu. Intr-o Duminecă zise nevesti și ficei sale să închidă prăvălia și să se îmbrace. Femeile se su-puseră fără să întrebe pentru ce. Solomonică, ca nici o dată, văzând ascultarea pasivă a nevesti, se înduioșă par-că, și 'și călcă pe inimă informându-le că au să meargă la livede unde eru instalate fabricele.</p>
+            <p>— Mergem la livede, la livede, strigară fe-meile, și de ce oare? De bună seamă ca să ne plimbăm.</p>
+            <p>— Mâma și fata se priviră una pe alta cu oare-care neîncredere, fiind-că lucrul acesta se întâmpla așa de rar, în cât și țăraniii, cari cu-noșteau puțina complesență conjugală a hangiului, se mirau văzându-l că-și scote nevasta și copila la plimbare.</p>
+            <p>— Oare, vrea cum-va ziceau unii, să 'și mărite fata, de o scoate în lume?</p>
+            <p>— Toate capetele se descopereau în drumul cârciumarului. Prosența lui la livede fu un adevărat eveniment.</p>
+            <p>Ca să se pună la adepost de această curiositate care începea oare cum să 'l supere, propuse să meargă la capătul livezei spre a visita resboaele de chilimuri, de scoarțe și de șaluri, instalate la fabrica de manufactură. Cu chipul acesta, zicea logofătul Dumitrache, pe de o parte vom da mulțimei timp să ne uite și pe de altă parte vom vedea un stabiliment care merită să fie cunoscut.</p>
+            <p>Părăsiră livedea trecând printr-o alee smălțată cu flori; Didina culese un mărgăritel pe care 'l puse la corset. Numai de cât ajunseră la fabrică unde fură foarte bine primiți de că-tre un șef de atelier, care se oferi cu multă delicateță să le arate de la început până la sfârșit toate transformările prin carii trece lîna înainte d-a deveni stofă de haine, chilim etc.</p>
+            <p>Ar trebui să n-aibă cineva nici umbră de inteligență, ca să remână rece înainte admirabilelor resboie cari servesc a urzi pânza, pe cari niște mâini cari par-că nu sunt omenești atât de minunat lucrează, aruncă diferite cu-lori și forme. Cele doo femei, lăudau mult arta cu care aproape din nimic se produceau acele stofe frumoase înaintea cărora remâi înmărmurit. Didina însă căuta ca în laudele ce făcea fabricei, să fie cât se poate de banală și de comună, de frică ca să nu pară cum-va prea savantă tatălui său. Cât despre d. Solo-monică, fiecare compliment al său, era urmat de întrebarea: Si câți metri de stofă se fabrică pe an? Cât costă metrul? și ce beneficiu net poate rămâne pe an?</p>
+            <p>Aceste întrebări însă erau făcute cu tonul cel mai indiferent, așa în cât se părea cui-va că nici nu-și dă osteneală să asculte respunsul.</p>
+            <p>Totul fusese visitat, admirat, văzut. Hangiul și, cu ai săi plecaseră, când, la întorsătura unei scări, Didina vrând să se sprijine de un perete, atinse un nasture de sonerie și o ușe se deschise.— A! iacă aici n-am intrat, zise Solomonică cu un ton plin de curiositate. Oh! iartă-mă, adăogă apoi nu mai de cât, credeam...</p>
+            <p>Un tânăr care lucra în această odaie, se sculase, și ruga pe hangiu să intre fiind-că observase la dânsul intențiunea d-a cunoaște toată fabrica.</p>
+            <p>Bărbatul și femeia intrasă, Didina însă, care avea simțul cuviinței mai desvolfat, îl zise: ne iartă domnule, te supărăm și dumneata toc.mai lucrai.</p>
+            <p>— Dar nu mă împedecai de loc, domnișoară eu pot să-mi văd de lucru chiar fiind d-voastră aici, zise tânărul, ținând într-o mână o pensulă și într-alta un carton cu diferite vopsele. Si în sfârșit, eu ar trebui să văă cer ertare fiind-că ați visitat deja toată fabrica și acum vă țiu pentru un lucru care nu merită nici un interes.</p>
+            <p>— Doamne! Doamne! ce frumoase, esclamă de o dată Didina.</p>
+            <p>— Ce e? o întrebă mă-sa.</p>
+            <p>— Privește ce minune.</p>
+            <p>— Măă iartă Domnișoară, întrerupse Iorgu, artistul a căreia lucrare o complimenta cu atîta entusiasm Didina, prea mă lauzi și meșteșugul meu nu merită.... Vezi, adaogă, el resfirându-și cu mâna bogatu-i păr blond, ce ocupație puțin plăcută am aci. Posițiunea mea atât de modestă, mă face fără voia mea, să roșesc la auzul unor complimente atât de puțin meritate. Eu nu sunt aci de cât desinatorul fabricei.</p>
+            <p>Ce frumusețe, Doamne! ce frumusețe esclamă mereu Didina.</p>
+            <p>Ceea ce admira ea cu atâta efusiune, era un desen care representa un buchet frumos destinat să ocupe mijlocul unui covor ce 'i se comandase fabricei de prefectu județului.</p>
+            <p>Iorgu avusese grije să 'și complecteze buchetul desemnând florile cele mai alese printre cele frumoase și la mijloc lăsase loc pen-tru una mai aristocratică care să dea un aer cu totul distins florilor din centrul covorului. Așteptând să-i vie în gând floarea căutată, ar-tistul sfârșise desenul celor-l-alte fără să gă-sească în imaginația sa pe aceea care trebuia să-i încoroneze opera într-un mod demn și de arta lui și de persoana care comandase covorul. Tocmai era neliniștit din pricina aceasta când intră Didina cu părinții săi.</p>
+            <p>— De ce, întrebă ea copilărește, isbită de golul lăsat în mijlocul buchetului, n-ai pus o floare ca să ascundă această parte albă care strică frumusețea buchetului? Din adins ai făcut-o?</p>
+            <p>— Ai pus degetul pe rană, respunse trist artistul. Tot nădăjduiam să pun în locul acela o floare superioară în frumusețe tuturor celor pe cari le vedeți în jurul golului: buchetul e sfârșit și n-am găsit încă ceea ce am căutat și ceea ce caut încă, acea floare superioară.</p>
+            <p>— Si de ce vrei să pui tocmai una superioară? relo Didina care nu băga de seamă că în momentul acesta lăsa să-i scape semnul geniului.</p>
+            <p>— Ce Dumneata crezi, Domnișoară că o foare ordinară în mijlocul acestor.....</p>
+            <p>— Firește, Domnule,.... și cu cât va fi mai simplă, cu atât, cred, va fi mai frumos. Poftim, zise Didina scoțând mărgăritărelul pe care 'l culesese în livede, încearcă cu aceasta.</p>
+            <p>Printr-o întîmplare ciudată, floricica căzu toc-mai în mijlocul buchetului desemnat pe covor într-un mod atât de pitoresc, în cât Iorgu mirat de efectul produs, strigă:</p>
+            <p>Lasă-l, lasă-l Domnișoară, acum am găsit ce 'mi trebuia!</p>
+            <p>În doă minute cu un creion și câte-va culori, reproduse mărgăritărelul, care produse un efect mihunat prin simplitatea sa în mijlocul buchetului.</p>
+            <p>— Va să zică Dumneata ești artistă, Domnișoară, zise Iorgu adresându se Didini și observând abia acum de prima oare cât de fru-moasă era copila pe care o avea înainte-i.</p>
+            <p>Acest compliment așa de adevărat, sunetul vocei aceluia cere 'l pronunțase, acest suflet care atingea pe al său prin legătura electrică a artei, o mișcare, și o turburară; rămase mută câte va minute.</p>
+            <p>In turburarea lor, cei doi tineri își puseseră câte o mână pe covorul desemnat pe care 'l priveau, și în care păreau ca se văd ca într-o oglindă invisibilă pentru cei-l-alți.</p>
+            <p>Privind, Didina opera artistului, Iorgu ideia grație căreia găsise floarea cu care să-și complecteze opera, nu înțelegeu cât de mult vorbește de amor, fără voia lor această tăcere prelungita.</p>
+            <p>— Aide că întîrziem, zise Solomonică luând pe fie-sa de braț, și afară de aceasta împedecăm pe domnul de la lucru</p>
+            <p>— Bine zici, tată, respunse Didina, care salută pe Iorgu cu unul din acele surîsurî bune și fericite, în cari numai Dumnezeu care le trimete, ar putea citi aurora unei noi existențe.</p>
+            <p>Iorgu a cărui datorie ar fi fost să însoțească pe mosafiri până la ușe, nu se mișcă de la masă, și nu-și mișcă mâna de pe covor fiind-că într-ânsa ținea mărgritărelul lăsat de Didina.</p>
+         </div>
+         <div type="chapter" n="8">
+            <head>CAP. VIII. - Desinatorul.</head>
+            <p>Nu sunt de cât câți-va ani abia de când au început să se vadă și în țară la noi tipuri ca acela pe care vrem să-l descrim.</p>
+            <p>Fiu al unui arendașiu nu prea bogat dar om de treabă, harnic și cinstit, încă de copil u trimis de tatăl său să studitze scoala de aeșerii de la Filaret ca să 'și poată câștiga pâinea într-o zi fără să fie silit a implora mila i sprijinul unuia și altuia din puternicii zilei, ameni, cari în generalitatea cazurilor, n-au e cât forma omenească, iar în ce privesc sentimentele sunt mai răi și mai cruzi de cât multe dintre fiare chiar.</p>
+            <p>Nu absolvise încă cursurile scoalei când arendașiul Stamate, tatăl tânărului Iorgu Stamatescu, fu găsit de către slugi scăldat în sînge și despoiat pînă și de haine, în mijlocul unui lan de grâu la câți-va chilometri distanță de vatra satului Putineiu, pe drumul care duce de la Alexandria la Giurgiu.</p>
+            <p>Directorul scoalei, om cu inimă și care cunoștea prin el însuși silințele depuse de Iorgu Stamatescu d-a fi în tot d-auna numărat printre băeții eminenți din clasa sa, văzând că numai era nimeni care să plătească întreținerea băiatului în scoală, căci mama sa murise cu mult înainte, se cotiză cu cei-l-alți profesori, și strânse astfel suma trebuincioasă din care să-și poată elevul procura hainele, hrana și uneltele trebuincioase spre a-și continua studiile. În anul următor sfârși și fu recomandat cu căldură, tot de către Directorul scoaiei, domnului Eliescu care se adresase la dînsul cerîndu-i un băiat care să primească niște con-dițiuni modeste, pe de o parte, iar pe de alta, să răspundă cu demnitate la îndatoririle serviciului și mai ales să merite încrederea ce stăpânul va pune într-ânsul.</p>
+            <p>La epoca aceasta Iorgu Stamatescu mergea pe al doo-zeci și unulea an; el se prestată la fabrică cu o scrisoare din partea directorului scoalei care-l recomanda patronului ca un desinator plin de talent, de gust și de viitor și foarte capabil de a conduce partea artistică a manulacturei de covoare și de chilimuri. O leafă foarte modestă îi fu servită la începutul, și încă din aceasta, trebuia să trimiță cel puțin jumătate unei mătușe bătrâne care locuia la Zimnicea.</p>
+            <p>Viitorul său de lucrător era frumos; putea să ajungă la un onorar poate de trei sute de lei pe lună, dar simțitor cum era, și ros de ambițiunea d-a se face cunoscut o dată în lumea cea mare a artiștilor, cine ar fi putut spune că până în cele din urmă era să se mulțumească a trăi între cei patru pereți ai fabricei de la Putineiu?</p>
+            <p>De doo ori deja, era gata-gata să plece la București; acolo cel puțin, fără să înceteze d-a munci, s-ar fi apropiat de artiști cu vază, dar or de câte ori își manifesta această intențiune, d. Eliescu, stăpânul fabricei, îl lua cu binele, îi adăoga ce-va la leafă, așa încât, atins unde-l durea, Iorgu să decisese să rămăie la Putineiu de și suferea știindu-se departe de familia artiștilor către care simția că par-că 'lu împinge o mână ne-văzută și din societatea că-rora știa bine că or cât de mult talent avea tot îi rămânea, multe de învățat.</p>
+         </div>
+         <div type="chapter" n="9">
+            <head>CAP. IX. — Un balaur.</head>
+            <p>De mult, foarte de mult, în Putineiu și în împrejurimile satului pănă la Giurgiu spre mează zi și până la Alexandria spre mează-noapte, se petreceau, din când, în când, lucruri îngrozitoare, cari punea lumea în uimire, dar a căror esplicsție nu se putea găsi cu toate cercetările și cu toată paza administrației care sfârșise și ea prin a se uni cu mulțimea ignorantă și superstițioasă, și a pune totul pe so-coteala unui șeārpe colosal pe care nimeni nu-l văzuse vre-o dată, dar despre a cărui existență nici chiar copiii nu se mai îndoiau.</p>
+            <p>Așa, nu rare ori se întâmpla să auzi într-o bună dimineață, așa din chiar senin că, Ianoș, morarul din vale, a fost găsit pe lun-că, mort, galben și fără un pic de sânge în vine. Nimeni din sat, nici pui de om, nu-și aducea aminte să-l fi văzut pe Ianoș măcar o dată suferind de durere de cap. și iarăși ni-</p>
+            <gap n="[editorial] Figure"/>
+            <p>meni nu-și aducea aminte să fi existat vre-o ceartă sau vre un motiv de inimiciție între morar și un alt locuitor din sat sau de aiurea ca să poată bănui că a fost o crimă la mij-loc. Lumea și autoritățile erau silite să dea din umeri și să arunce vina pe cine știe ce creștin nevinovat, care de cele mai multe ori nu știa nici cu spatele de moartea lui Ianoș.</p>
+            <p>Alte ori, perceptorul comunei, în urma or-dinului casieriei județene, pleca la orașiu de reședință cu banii adunați din imposite și la câte un conac unde se oprea diligența ca să resufie sau să schimbe caii, dacă se depărta bietul perceptor cu câți-va pași ca să satisfacă vre-o trebuință firească, îl așteptau tovarășii de călătorie mult și bine în zadar, căci nu se mai întorcea, și fiind-că diligența trebuia să sosească la destinație Ia anume ceasuri, conductorul era silit să plece înainte, convins, ca și cei-l-alți călători ca perceptorul or a uitat ce-va acasă și s-a întors, sau ceea ce era mai probabilu, a dat peste jivina de balaur.</p>
+            <p>Nu trecea mult și se găsea cadavrul mor-tului prin buruieni și alături cu dânsul, geanta, registrele și tot ce avea cu el, banii însă dis-păreați și lucrul se esplica ușor și anume toată lumea era convinsă că balaurul 'i a făcut de petrecanie perceptorului, iar cât despre bani cari se gâseau în registre și cari prin urmare trebuia să-i aibă cu dânsul în geantă, se credea or-că cel care a descoperit întâiu cada vrul 'i a luat, saud că perceptorul, care nu era tocmai biserică de închinat, căci pe socoteala morților se pun toate infamiile — avea banii trecuți numai în registre ca să plătească ad-ministrația dar în realitate, în casă n-avea go-logan chior.</p>
+            <p>Lucrul rămânea din nenorocire așa ne fiind nimeni care să dovedească falșitatea raționamentului și bieții oameni rămâneau omorâți, jefuiți și de multe ori cu memoria pîngărită.</p>
+            <p>De altfel, acest mod de a explica tîlhăriile era foarte natural în Putineiu unde nu numai în sat, dar în toată plasa nu se auzise măcar de un făcător de rele.</p>
+            <p>Este adevărat că banditul Rîureanu acea fiară care a insinuat multă vreme câte-va județe de pe marginea Dunărei, era originar din Putineiu chiar, dar tîlharul acesta, fie ca precauțiune din spirit de conservare, fie îm pins de un sentiment delicat pentru satul care spre nenorocirea locuitorilor 'i a dat naștere, n-a pus piciorul în Putineiu de cât o singură dată din ziua când 'și a căpătat trista repu-tație de bandit de codru, ba încă atunci, sunt oameni care 'și aduc încă aminte că Solomonica, hangiul cel bogat, intentase acțiune primarului pentru negligența ce pune în administrația și buna pază a comunei și ceruse subprefectului suspendarea lui pe motivul ca plasa și în special comuna Putineiu sunt ex-puse jafului și măcelului poate din pricina nedestoiniciei primarului care lasă satul ziua na-miaza mare, să fie colindat de un hoț care a pus pe gânduri o lume întreagă.</p>
+            <p>De atunci măsurile de pază s-au îndoit, și visita lui Rîureanu n-a avut nici o urmare nenorocită, de aceea lumea l-a uitat și a în-ceput să arunce nenorocirile ce din când în când se întâmplau în sat, iarăși pe socoteala balaurului, pe care de astă dată martori ocu-lari, Solomonică hangiul și Petre conducătorul diligenței, spuneau, jurându-se pe ce au mai scump, că 'l au văzut cu ochii lor cum te văd și mă vezi.</p>
+         </div>
+         <div type="chapter" n="10">
+            <head>CAP. X — Pe drumul Giurgiului.</head>
+            <p>O prietenie strânsă, aproape frățească și care dura de o bucată bună de vreme, se legase între hangiul din Putineiu și Nicolae șopârlă, un cirezar bogat din Giurgiu. Multe daraveri făceau între dânșii și mulți bani câștigau împreună acești doi negustori, cari păreau tuturor acelora cari îi cunoștea, că au un singur gând, o singură pungă și un singur suflet.</p>
+            <p>Am uitat să spunem la începutul acestei povestiri că între alte îndeletniciri ale logofătului Dumitrache de odinioară, era și acela d-a ține suhaturi de vite pe care le îngrășea și le vin-dea apoi cirezarilor cari la rîndul lor le des-făcea fie la măcelari, fie pe la zahanale.</p>
+            <p>In vara anului 188., Solomonică cumpărase un chilipir de vre o trei sute de boi sârbești de la un negustor care, implicat pe drept sau pe nedrept într-o conspirație contra tronului prințului Batemberg al Bulgariei, fuse condamnat la moarte în lipsă, de către prefectul din Ruștiuc, Mantoff, acel câine fără suflet care considera ca un deliciu să dea sângele nevinovat al compatrioților săi; încurcat în această infamie urzită mișelește de către duș-manii săi, negustorul se hotărî să se desfacă mai repede de marfă ca apoi, remânând sin-gur, să poată trece mai ușor în Rusia unde credea că 'i va fi mai lesne să se pună la adăpost de cruzimile guvernului provizoriu representat în Ruștiuc prin prefectul Mantoff de sîngeroasa memorie.</p>
+            <p>Se învoi cu Solomonică și 'i dete vitele pe ce apă nu curge, numai ca să scape mai repede. Hangiul, om reputat în toate părțile ca exact și foarte cinstit—căci nimeni pînă atunci n-avusese ocasia sau nu îndrăsnise a se plînge contra lui — îi număra banii pînă într-o para, și, ca semn că de și locuind la țară, este to-tuși om care înțelege cuviința, îl însoți pe negustor spre Giurgiu, ca să cumpere, dupe cum spunea el, ceva boi de la cirezarul Nicolae șopârlă pe care companionul de călătorie, îl cunoștea destul de bine.</p>
+            <p>Pentru un ochiu deprins cu modul lui Solomonică de a-și face treburile, n-ar fi fost tocmai greu să observe ceva neobicinuit atât în vorba cât și în mișcările și apucăturile hangiului.</p>
+            <p>Mai întâiu contra obiceiului, gonise pe Didina de la tejghea, și de unde pînă atunci toată treaba în prăvălie o făcea numai fata, de astă-dată îl spuse răstit și cu ton hotărît să nu mai calce prin prăvălie. Afară de asta, altă dată, când se oprea diligența dinaintea prvăliei, Petre, își bea paharul de vin cu care-i cinstea Solomonică fără să se dea jos dupre capra trăsurei, pe când acum, să lăsăm că di-ligența s-a oprit mult mai mult de cât de obi-ceiu, dar pe lângă aceasta, tot timpul cât s-au odihnit caii, Petre a stat nemișcat de lângă tejgheaua cârciumei, și părea că tot schimbă unele semne convenite mai dinainte cu cârciumarul.</p>
+            <p>Toate aceste lucruri, negustorul de vite, de și față în prăvălie de la început până la sfîr-șit, nu le a putut observa nici de cum, sau dacă cum-va le-a observat, de bună seamă n-a tras dintr-ânsele nici o conclusiune defavorabilă lui Solomonică de a căruâi onorabilitate n-avea nici un cuvînt să se plîngă în deraverile ce avusese cu dânsul. Cât despre Pe-tre, nici nu-l cunoștea barem. Il văzuse numai venind cu diligența, coborând cuferile cu bagagii și sacul cu corespondența și atât tot, de alt-fel familiaritatea oare-cum prea mare a lui Solomonică cu conductorul diligenței, nu-i părea nici de cum ciudată, căci cârciumarul este silit de natura meseriei lui să fie amabil cu toată lumea căci alt fei 'și ar înstreina muștereii.</p>
+            <p>Un alt fapt care ar fi dat de gândit omului scrutător, este și împrejurarea că din Alexandria, diligența nu luase de cât un singur că-lător pentru Giurgiu de și drumul acesta era foarte umblat. Celor cari voiseră să 'și închirieze locuri, Petre le respunse că toate locu-rile sunt reținute și astfel oamenii se întor-ceau înapoi așteptând altă cursă ca să meargă după afacerile lor.</p>
+            <p>Unicul client care trebuia să facă drumul până la Giurgiu împreună cu negustorul de vite și cu Solomonică, toată vremea cât a stat diligența la ușa hangiului, n-a scos nici măcar capul pe fereastră ca să se uite afară ci a stat ca și ascuns în fundul trăsurei așteptând cu o nerăbdare vădită momentul plecărei.</p>
+            <p>In sfîrșit hangiul isprăvindu-și treaba, se așeză în diligență împreună cu bulgarul fără să-și fi luat ziua bună de la nevastă.</p>
+            <p>Pe drum se înțelege, făcură cunoștință și cu cel-l-alt tovarășiu de călătorie și, din vorbă în vorbă, începură să-și povestească fie care, unul impresiunile de drum, altul câte o istorie care-'i venea în gând, și din când în când își udau gâtul cu câte o picătură de rom dintr-o sticlă pe care Solomonică o purta atîr-nată de gât și acoperită într-o învelitoare de papură. Ajungând în dreptul puțului de la rescrucea drumurilor care merg: unul spre Zim-nicea, altul spre Pielea și al treilea spre Turnu Măgurele, Petre se întoarse spre călători și le spuse că de și drumul e bătut și fără hopuri, el totuși o să abată nițel la stânga fiind-că soarele arde prea tare și de ordinar balaurul despre care 'i se vorbise bulgarului în sat, are obiceiu de iese la potecă pe vremea aceasta. Călătorii primiră cam ingroziți, și în special Solomonică, pare că mai speriat de cât cei-l-alți, punea mereu întrebări vizitiului ale cărui respunsuri erau de natură să înghețe sângele în vinele bulgarului.</p>
+            <p>N-apucară să se afunde bine în păduricea spre care cotiseră, când călătorul ce luase diligența de la Alexandria și care nu era altul de cât banditul Rîureanu care de multă vreme bîntuia satele din prejur și era găsduit de Solomonică, se repezi la bulgarul care ședea pe scaunul dinainte al trăsurei, îl apucă de gât cu mâinele-i vînjoase, pe când hangiul cu un revolver în mână, îl amenința să scrie și să iscălească o declarație către primarul din Putineiu.</p>
+            <p>In vremea aceasta, Petre, care oprise caii, scotocea prin buzunarele și cuferele bulgarului căruia îi lo toți banii ce prinsese din vân-zarea vitelor, apoi făcu un semn lui Solomonică care mai așteptă un minut pănâ ce nenorocitul isprăvi și iscăli declarația ce 'i impusese, și când credea, săracul, că a scăpat cel puțin cu viața, bangiul apăsă trăgaciul, revolverul se slobozi și creierii nefericitului negustor se sleiră pe fundul trăsurei.</p>
+            <p>Numai de cât cei trei bandiți împărțiră banii și porniră înainte la drum spre Giurgiu unde ajungând, Rîureanu se făcu nevăzut prin orașiu iar Petre rămase la poștă ca să dea scri-sorile și bagajele ce primise pe drum. Cât despre Solomonică el trase cu cirezarul Nicolae șopârlă unde până în zio sfârșind treaba, mai cumpără ceva vite — cu banii bulgarului și a doua zi plecă înapoi la Putineiu unde prezintă primarului următoarea declarație:</p>
+            <quote type="declaration">
+               <p>„Sub-semnatul, negustor de vite, născut în comuna Lom Palanca, declar prin aceasta că pornind din comuna Putineiu în deligență îm-preună cu d. Dumitrache hangiul ce-i mai zice și Solomonică, am mers liniștit până în Giurgiu de unde m-am despărțit de d-sa priete-nește fără să-mi rămânie sau să-i rămân dator ce-va. 'Iam dat această declarație ca să nu fie tras la respundere pentru dispariția mea, căci eu, fiind urmărit pentru un delict politic, voi sta mult timp ascuns ca să nu mă poată des-coperi autoritățile române care ar fi silite poate să mă predea în mâinile celor bulgare. Alt-fel, sunt sănătos, și mulțumesc din suflet priete-nului meu, d. Dumitrache hangiul, pentru buna voință și amabilitatea ce 'mi a arătat în toate daraverile ce am avut cu d-sa.</p>
+               <p>Scris și subscris cu propria mea mână.</p>
+               <p>Theodor Poliacov.</p>
+               <p>Făcută în Giurgiu, azi 17 Iuniu 1887.</p>
+            </quote>
+         </div>
+         <div type="chapter" n="11">
+            <p>CAP. XI. — Primul amor.</p>
+            <p>Indată ce Didina plecă de la fabrică, Didina despre a cărei frumusețe auzise vorbindu-se, dar pe care n-o cunoștea, lui Iorgu îi remase o turburare în spirit. Nici o dată în viața lui n-a cugetat la alt-ce-va de cât la glorie, acum însă un alt soare resărea în inima lui.</p>
+            <p>Tot dorea celebritatea, dar simțea că acum n-o mai dorește pentru el singur. Dorința 'i fu tot atât de mare dar lo o altă direcțiune, înainte 'i trecea numai prin spirit, acum însă 'i trecea și prin inimă.</p>
+            <p>Când înseră, Iorgu 'și zise: oare când o voiu revedea? Nici o dată respunse el. Intristat de puțina speranță ce avea de a mai întâlni pe idolul visurilor sale, eși de acasă când se înapoiase deja bine. Noaptea era frumoasă, o noapte de Mai.</p>
+            <p>Tot repetindu-și pe teribilul <emph>„nici o dată”</emph> Iorgu înainta spre Putineiu. Adevărat este că la început nu se gândise nici de cum să se depărteze de fabrică, dar, iaca așa, fără voia lui și fără să știe încotro și pentru ce merge, se pomeni pe nesimțite în satul aceleia pentru care suspina atâta.</p>
+            <p>Era deja târziu când ajunse în sat; prăvăliile se închiseseră. Trecând pe dinaintea hanului d-lui Solomonică, observă că o ușe mititică rămăsese întredeschisă. O lumină stră-lucia în fundul unei odăițe. Se apropie și văzu că lumina este în partea prăvăliei pe care han-giul și țăranii o numea în glumă „biuroul poștal.”</p>
+            <p>Care 'i fu mirarea când recunoscu în per-soana care stetea dinapoia biuroului și așezată pe un scaun în fața mesei pe care erau întinse scrisorile corespondenței pentru a doua zi, pe domnișoara Didina, pe aceea pe care o nu-mise la fabrică artistă și pentru care 'i bătea nima cu atâta violență?</p>
+            <p>Intrâ, s-apropie de biurou, întrebă dacă e cumva vre-o scrisoare pentru dînsul, dar toate acestea mai mult cu niște mișcări mașinale de cât provocate din voința lui.</p>
+            <p>Didina abia putu reține un țipăt de mirare văzându-l.</p>
+            <p>— Ce poftește domnul?</p>
+            <p>— Mă rog, e vre-o scrisoare la adresa mea?</p>
+            <p>Indată Didina întinse și desfăcu pe masă toate scrisorile sosite în timpul zilei și începu să caute foarte repede ca să 'și ascundă turburarea.</p>
+            <p>Dar, zise ea revenindu și oare cum în fire eu nu știu cum e adresa dumitale domnule....</p>
+            <p>Nici unul nici altul nu se gândise la aceasta</p>
+            <p>— Mă chiamă Iorgu Stamatescu, domnișoară, pe adresă trebue să scrie: Desinator la fabrica de șaluri și covoare din Putineiu.</p>
+            <p>— Oh! Astă o știam relo Didina.</p>
+            <p>— Iartă-mă, credeam că a uitat.</p>
+            <p>— Așa de curând!.. Iacă o scrisoare pentru Dumneata.</p>
+            <p>Intâmplarea tăcu ca Iorgu, care în ziua aceea n-aștepta scrisoare de la mătușe-sa, să primească una.</p>
+            <p>— Dar, relo Didina, nu pot să 'ți o dau căci ași comite o contravențiune. Nu este înterzis de a trimite la destinație o scrisoare îna-inte de ora distribuirei, și aceasta este tocmai mâine la opt ceasuri dimineața. Păcat..... să vi de geaba așa de departe......</p>
+            <p>— Ba nu de geaba, zise Iorgu, căci......drept să 'ți spui.... nu venisem pentru scri-soare.</p>
+            <p>Această reflecțiune naivă fu urmată de o în-trebare și mai naivă din partea Didini.</p>
+            <p>— Dar atunci, pentru ce ai venit, domnule?</p>
+            <p>— Venisem, zise încurcat Iorgu, să 'ți aduc înapoi acest mărgăritărel pe care 'l ai uitat la fabrică,... fiind că nu știam dacă am dreptul să 'l păstrez sau nu.</p>
+            <p>Didina tăcea.</p>
+            <p>— Nu 'l aș păstra de cât daca....</p>
+            <p>Fineța femeiască, care n-a fost învinsă de cât de aceea a șearpelui, suflă Didini la ureche ideea d-a schimba vorba.</p>
+            <p>— Cu toate acestea, domnule, dacă ții mult să ai chiar astă-seară scrisoarea mătușei dumitale, voiu lua eu răspunderea și 'ți o voiu da cu toate că este oprit.</p>
+            <p>— N-am dreptul la atâta bunătate Domni-șoară!</p>
+            <p>— Poftim, zise Didina întinzând lui Iorgu scrisoarea, pe care acesta, o apropie numai de cât la buze.</p>
+            <p>— Cum iubește pe mătușe-sa, cugetă Didina fără să se gândească că, ceea ce făcea pe tânăr să sărute scrisoarea, era împrejurarea că trecuse prin mâinile ei.</p>
+            <p>Acesta fu cea dintâiu pagină în istoria amorurilor fetei lui Solomonică și a desinatorului.</p>
+            <p>Didina primi o observație aspră de la tâtăl său, fiind că a liberat o scrioare, înainte de ora distribuirei și de aci încolo, cszu iarăși în captivitatea în care trăia de atâțea ani.</p>
+            <p>Afară de această întâlnire, mai avu una la biserică și alta tot înaintea biuroului de poștă unde se văzuseră de prima oară; dar în toate diminețile, de șease luni de zile, se vedeau regulat la fereastră și-'și spuneau că se iubesc prin ājutorul luminelor despre cari am vorbit în capitolele precedente.</p>
+         </div>
+         <div type="chapter" n="12">
+            <head>CAP. XII. — Un pretendent.</head>
+            <p>In această stare a inimei era Didina când îi zise tatăl său să gătească masa a doua zi pentru Petre, conductorul diligenței.</p>
+            <p>Lectorul n-a uitat credem, că <foreign>chir</foreign> Vanghelie notarul comunei, fixase tot această zi pentru întâlnirea lā care avea să comunice lucruri foarte importante Elisei, nevasta lui Solomo-nică.</p>
+            <p>La zece ceasuri dimineața, notarul din Putineiu pășea pragul hanului și poftit de Didina trecea în fundul cârciumei unde-l aștepta domnul și doamna Solomonică</p>
+            <p>Notarul ar fi dorit din fundul inimei să nu găsească de cât pe Elisa, dar ea săraca, nu era stăpână în casă, de și după cum se va vedea mai la vale, avea așa de mare putere asupra bărbatului său.</p>
+            <p>Vanghelie, îmbrăcat în haine negre, intră salutând solemn și de la început semn rău, își dete în petec; vrând să ocolească pe după tej-ghea ca să sărute mâna <hi>coconiței</hi> cum zicea el, călcă într-un castron cu lapte, care era pud subt o masă ca să se covăsească.</p>
+            <p>Când eși din această încurcătură zise, adresându-se către Elisa, amabilul nostru notar:</p>
+            <p>— 'ți aduci aminte, doamnă, că respectabilul d tale părinte, printr-un capriciu de bătrân, n-a vrut nici o dată să primească pensia de trei-zeci de franci ce moștenise de la onora-bilul Domniei-Voastre unchiu, domnul Ciupelnițeanu.</p>
+            <p>— Ah! pensia de la tușica, 'mi aduc aminte, răspunse Elisa.</p>
+            <p>— Tocmai, relo notarul. Mai cu minte de cât onorabilul reposat, dumneata și cu coherezii ceilalți, ați primit acea pensie.</p>
+            <p>— Ce mai lucru! întrerupse Solomonică, șease franci pe lună. Frumoasă zestre pentru Didina</p>
+            <p>— Domnișoara Didina, relo Vanghelie profitând de paranteze ce 'i deschidea logofătul Dumitrache, are drept zestre frumusețea, cali-tățile personale și stima de care se bucură părinții săi</p>
+            <p>— Aida de! Are haz, își zise Solomonică, n-o fi și el un aspirant la mâna feti! Acuma bag de seamă că e îmbrăcat în haine negre și mănuși. Nu e lucru curat. Dar relo el tare să isprăvim mai întâiu afacerea pentru care ne ai făcut onoarea a ne visita, domnule notar.</p>
+            <p>— Iată. V-am ascuns lucrul până acum, fiind-că nu era nici o nevoie să vi 'l descopăr. Eu, am cumpărat cu patru sute de lei cele patru pogoane rămase de la reposatul Ciupelnițeanu.....</p>
+            <p>— El le cumpărāse cu doo sute numai și tot se păcălise săracul, reflectă Solomonică.</p>
+            <p>— Afacerea nu e rea, adăogă Vanghelie, ba e chiar minunată....</p>
+            <p>Elisa asculta cu amândoo urechile.</p>
+            <p>Cârciumarul se întreba, unde dracu are de gând se ajungă, ce are de gând să spue dobitocul ăsta? Apoi, adresându-se către notar:</p>
+            <p>— Foarte bine. Va să zică ești proprietar a patru pogoane de pământ, o avere de patru sute de franci aproape.</p>
+            <p>— Da o sută de mii de franci, zise Vanghelie lovind cu pumnul în masă, da, de o sută de mii de franci!</p>
+            <p>— Poate ai descoperit vre o mină de aur?</p>
+            <p>— Aproape.</p>
+            <p>— Povestește-ne și noo cum și ce fel.</p>
+            <p>— Ascultați. V-o spui numai dumneavoastră; am descoperit o mină de cărbuni în pământul cumpărat de la Ciupelnițeanu, și știții că azi la fabrică nu se mai face nimic fără cărbuni.</p>
+            <p>— Bravo, domnule Vanghelie, respunse Solomonică, de cât asta este o afacere care te privește numai pe domnia ta personal.</p>
+            <p>— și ne pare foarte bine domnule notar, zise Elisa care avusese în tot d-auna multă considerațiune pentru dânsul fiind că el îi făcuse contractul de căsătorie și cunoștea toate aface-rile familiei ei. Aceasta o să 'ți dea ocasiunea să te însori cu o fată cum se cade.</p>
+            <p>— De coconiță... întrerupse timid notarul, nu prea nădăjduesc...</p>
+            <p>De ce nu?</p>
+            <p>— Numai sunt așa tânăr și fetele din ziua de azi....</p>
+            <p>— Ce are aface!</p>
+            <p>— Mi se pare că are gândul dracului, cugetă Solomonică.</p>
+            <p>Logofătul Dumitrache nu prea se înșela așa des.</p>
+            <p>— Ce ai de gând să faci cu comoara a-ceasta, întrebă el pe notar? O vinzi? O exploa-tezi singur? Veneai să 'mi propui s-o cumpăr?</p>
+            <p>— Veneam să vă cer s-o împărțim pe din doo și iată de ce: d. Ciupelnițeanu, fostul ei stăpân, când 'mi a vîndut pământul nu știa ce conține, și fiind-că dumnea voastră sunteți moștenitorii d-lui Ciupelnițeanu, este drept, mi se pare, că cel puțin jumătate din această co-moară, să vă revie d-v.</p>
+            <p>— Iată ce va să zică om cinstit, strigă ne-vasta hangiului cu lacrămile în ochi de bucurie.</p>
+            <p>— Nu sunt cărbuni în pământul lui, cum nu sunt la mine în pimniță, își zise în sine Solomonică</p>
+            <p>— Are dreptate Elisa, relo el adresându-se de astă-dată către notar, această este conduită de om cum se cade, eu însă, nu primesc de cât s-o exploatez în profitul d tale, aceasta poate va încuraja și 'ți va da gust pentru comerț.</p>
+            <p>— Dar mie 'mi a plăcut comerciul în tot-d-auna, domnule Dumitrache.</p>
+            <p>— Adevărat?</p>
+            <p>— Mă înebunesc după comerciu!</p>
+            <p>— Credeam că 'ți place mai mult cancelaria.</p>
+            <p>— Așa! Sunt notar fiind-că n-am ce 'mi face capului. Dar dacă printr-o căsătorie fericită ași putea să 'mi realizez planurile, ași fi nu se poate mai mulțumit să vânz, să cumpăr, să alerg toată ziua din prăvălie în pimniță, din pimniță în prăvălie, cu șorțul dinainte.</p>
+            <p>— Nu cred, doamne ferește! strigă Solomonică.</p>
+            <p>— Aidi! Imi dă pe fie-sa! își zise Vanghelie.</p>
+            <p>Cârciumarul scoase un șorț, puse o scufă de lână în capul notarului și 'i zise: iacă-te gata, tovareșe.</p>
+            <p>Elisa surîdea; și ei 'i se părea că bărbatul său este până la un oare care punct dispus în favoarea Grecului.</p>
+            <p>— Fiind-că 'ți place atât de mult comerciul, relo Solomonică, trebue să te simți fericit subt acest costum.</p>
+            <p>— Cum nu! respunse Vanghelie, care tremura cu toate acestea de frică să nu 'i vază Didina în acest hal.</p>
+            <p>— Didino! strigă Solomonică, Didino!</p>
+            <p>— Aud, tată.</p>
+            <p>Didina alergă, dar se dete înapoi încurcată când văzu pe notar în costum de slugă de cârciumă,</p>
+            <p>— Dar ce însemnează acestea tată?</p>
+            <p>— Domnul, respunse logofătul Dumitrache, se înnebunește dupe negoțu, și ca să încerc de spune adevărul sau glumește, ne am ho-tărât amândoi să 'ți ajutăm ca să deșerțiâi în săculeți mici cei doi saci mari....</p>
+            <p>— Cel cu făină și cel cu piper pisat?</p>
+            <p>— Da, respunse Solomonică.</p>
+            <p>— Dumitrache, 'i zicea la ureche Elisa, lasă omul în păce!</p>
+            <p>— Aide să începem domnule notar, se adresă Solomonică către grec.</p>
+            <p>— Aide, repetă notarul, care-și zise: ca să intru în familie, ca să iāu în căsătorie pe Didină, ce n-ași face, Doamne! Doamne!</p>
+            <p>— Alegeți domnule Vanghelie, zise apoi cârciumarul victimei sale. Iacă un sac cu făină și unul cu piper pisat; pe care vrei să-l deșerți în aceste săculețe?</p>
+            <p>— Tot una 'mi e, respunse grecul.</p>
+            <p>— Tot ești dumneata îmbrăcat în negru, ia pe cel cu piper, cu toate că avem noi perie și săpun...</p>
+            <p>— Tată, zise Didina.</p>
+            <p>— Vezi-ți de treabă. Du-te de frige gâscă tu.</p>
+            <p>— Didina tăcu.</p>
+            <p>— Biata copilă! își zise notarul. De ce tatăl său n-o fi și cu dânsa amabil cum e cu mine?</p>
+            <p>— Fă ca mine, zise hangiul lui Vanghelie, ia o lingură d-astea de fer și vîr-o până în fundul sacului.</p>
+            <p>— Vanghelie imită pe cârciumar; dar vîrând prea tare lingura în sac, piperul se ridică ca un nor și 'i Cătrăni cămașa pe lângă că 'i provocă un strănutat de 'i trosneau urechile.</p>
+            <p>— Foarte bine! zise Solomonică; acum toar-nă-l în punga de hârtie și îndeasă până când s-o umple.</p>
+            <p>Bietul notar vărsă jumătate pe pantaloni.</p>
+            <p>Sacul cântărea opt zeci de oca; adică ca să 'l deșerte, trebuiau doo trei sute de operațiuni ca aceasta.</p>
+            <p>La a zecea deja, bietul Vanghelie numai era de recunoscut.</p>
+            <p>— Curagiu! îi dedea zor cârciumarul, cu-ragiu! acesta este botezul comerciului. Ei, e greu, dar așa trebue să facă ori ce negustor. Ce crezi că Moceanu din Bucuresci n-a înce-put tot așa?</p>
+            <p>Elisa se retrăsese în fundul prăvăliei ca să nu mai vadă această glumă crudă.</p>
+            <p>Didina numai știa ce să respundă acelor cari intrând în prăvălie, o întrebau încet: domnul notar e ăla? Ce? d. notar s-a băgat la stăpân la dumneavoastră? Cum seamănă sluga dumneavoastră cu d. notar!</p>
+            <p>Vanghelie începuse să se cam plictisească.</p>
+            <p>De și nu era cald de loc, se înădușise săracul ca în toiul verei, și încă nădușeala 'i era neagră. Nu mai avea figură omenească sărmanul. O singură idee 'i tăcea să mai rabde: că cel puțin după atâta muncă, are să fie poate poftit la masă, și cugetând astfel, mirosul de gâscă friptă îi izbea nasul și 'i dilata nările. Ne-norocit cum era, își făcea această socoteală care 'l mai mângîia oare-cum: până mâncăm, până nu știu ce, se înserează și barem nu mă mai vede nimeni în halul acesta.</p>
+         </div>
+         <div type="chapter">
+            <head>CAP. XIII.- La masă.</head>
+            <p>Vremea mesei sosise, căci Petre, numai în vestă și chefliu, intră în prăvălie.</p>
+            <p>Eată un arap! zise el apăsându-și mâna-i grosolană pe tichiea de bumbac a notarului; de unde a mai venit și ăsta?</p>
+            <p>Fără să mai aștepte respunsul, conductorul merse și se așeză la masă.</p>
+            <p>Erau cinci ceasuri. Sacul cu piper pisat se golise aproape.</p>
+            <p>Bine e să iubească cineva comercial, între-rupse Solomonică, dar nu trebue cineva să se omoare pentru dânsul. Destul pentru azi. Dum-neata la oră aceasta mănânci și n' ași vrea să te întârziez; în același timp dete notarului o perie să se scuture.</p>
+            <p>Nu că vreau să te gonesc, dar iartă-mă, sunt silit să 'ți fac cunoscut, domnule Vanghelie, că Duminecă închidem și noi mai de vreme.</p>
+            <p>— Înțeleg, își zise grecul nu vrea să mă poftească la masă.</p>
+            <p>— Dacă vrei să vii mâine ca să sfârșești de deșertat sacul, 'ți-l pun d-o parte.</p>
+            <p>Zicând acestea hangiul împingea puțin câte puțin pe <foreign>chir</foreign> Vanghelie spre ușe; ajuns aci, îi zise: cât despre afacerea pe care 'mi ai propus-o, nu 'mi suride de loc; te rog să nu mai vorbim despre dînsa.</p>
+            <p>Bietul notar! Flămând, murdărit, gonit, fu nevoit să treacă drumul d-a curmezișul, în acest hal, pe lumină încă.</p>
+            <p>Cei ce 'i văzură trecând, nu știau ce însem-nează această drăcie. Bietul grec, dupe ce era negru, părea și mai negru încă, mergând pe stratul de zăpadă care căzuse în ajun.</p>
+            <p>— Încă unul care știe să scrie și să citească! își zise, cu ironia unui tigru și plin de fericire, logofăătul Dumitrache, văzând pe Vanghelie cău-tând să se fâcă cât se poate de mic ca să nu-l zărească lumea în acea stare.</p>
+            <p>Se așezară la masă.</p>
+            <p>Petre lo loc lângă Didina și amândoi în fața Elisei și a lui Solomonică. Se ghicea deja o intențiune în această disposiție a locurilor. Alături de or care altă persoană, or cât de frumoasă, Petre 'și ar fi avut prețul lui. Era un băiat de doo zeci și doi de ani, blond și vesel, cu capul sus din pricina obiceiului d-a privi drumul peste urechile cailor; cu dinți frumoși, ochi albaștri, vii, de și foarte mici, păcat însă că toate aceste avantaje fisice le perdea din cauza unor deprinderi urâte cari îl stricau tot hazul. Spre pildă, ca să dea mai multă fineță vorbelor pe care le spunea, cli-pea mereu din ochi, scotea limba și 'șui freca mâinile; alt-fel, fetele din sat se prăpădeau dupe el când îl vedeau cu căciula într-o parte Pe lângă toate acestea, cânta din frunză doine haiducești, de se oprea lumea din drum ca să 'l āsculte.</p>
+            <p>La început, resbiți de foame, mesenii n-avură vreme multă de perdut cu vorba, mai târziu apoi, când începură a se mai sătura, gurile li se mai desghețară și se începu o conversație, foarte neînsemnată de altfel, cu toate că, pentru un cuvânt sau altul, cuviința fu respectată ca la masa unor oameni cum se cade</p>
+            <p>Dar dupe ce vinișorul de Drăgășani le mai deslegă limbile, dupe ce aburii sângelui lui Christ li se urcară în cap, intimitatea deveni din ce în ce mai mare și taifasul lo cu desăvârșire un alt caracter.</p>
+            <p>— Trebue să știi multe lucruri tu, zise cîrciumarul lui Petre, tu care 'ți petreci viața pe drumuri, care vezi atâțea oameni și auzi atî-tea vorbe.</p>
+            <p>— Zău, să 'ți spun drept, Domnule Dumi-trache, cel despre care aud mai des vorbindu-se de vre-o trei-patru ani încoa ești D-ta.</p>
+            <p>— Eu!</p>
+            <p>— Da! Nu se vorbește prin cârciumi de cât despre proprietățile d-tale, și de averea d-tale care trece, să zice, peste un milion.</p>
+            <p>— Ce posiție! zise cârciumarul căruia nu preâ 'i venea la socoteală drumul pe care pornea conversația.</p>
+            <p>— Ba mai spun chiar și alte lucruri!</p>
+            <p>— Zău! și ce anume?</p>
+            <p>Aerul direct a lui Petre nu plăcu Elisei.</p>
+            <p>— Dacă ași sta să vă povestesc...</p>
+            <p>— Poftește rogu-te.</p>
+            <p>Vrînd ne vrînd Solomonică trebuia să se prefacă că insistă de curiositate.</p>
+            <p>— Noroc! zise Petre, turnând pe găt o oală de vin ca și cuum ar fi vrut să se încurajeze la vorbă. Dupe ce înghiți și ploscăi din limbă sugând cu deliciu picăturile de vin remase pe mustață, relo astfel:</p>
+            <p>— Se zice, bunioară, că nu e cu putință să fi câștigat d ta banii ăștia ca toată lumea.</p>
+            <p>Atunci, 'i am furat? zise brusc Solomonică.</p>
+            <p>— Sunt unii cari zic și așa.</p>
+            <p>Didina râmase palidă ca moartă la auzul acestor cuvinte. Un falș hohot de râs porni pe buzele tatălui său.</p>
+            <p>— Dar nu toți, d-le Dumitrache, îndrăsnesc să spue d-alde astea.</p>
+            <p>— Dar cei-l alți ce zic?</p>
+            <p>— Vrei să 'ți spui?</p>
+            <p>— Se înțelege, respunse prefăcut și turnînd încă un pahar hangiul.</p>
+            <p>— Spun că ești un tîlhar.</p>
+            <p>— Tată!</p>
+            <p>— St! Tăcere!</p>
+            <p>Elisa îngălbini ca ceara.</p>
+            <p>— știu, respunse cârciumarul, asta este is-torie veche; mi se psre că este vorba despre Întâmplarea cu bulgarul. Dar aceasta ști bi-ne, adăogă el apăsat, că este o curată scornitură căci, dupe cum 'ți aduci aminte, nenorocitului de Poliacof 'i a mâncat capul balaurul.</p>
+            <p>— Nu e vorba numai de asta, întrerupse Petre pe care vinul începuse să 'l doboare, e mai spun că ai fi omorât și pe fostul d-tale stăpân și că averea asta grozavă își are obârșie d-acolo.</p>
+            <p>— Ce prostie! zise Solomonică făcând zece mișcări d-o dată ca să nu se bage de seamă că este atins de vorbele lui Petre; se apucă apoi, tot în același scop și 'și turnă vin, își tăe pâine, caută sarea, piperul, și se uită pe sub masă ca cum 'i ar fi căzut ceva. Această fiară care ar fi omorât un om pentru un nu sau un da, se silea să pară liniștit In momentul când îl acusa de asasinat înaintea familiei chiar.</p>
+            <p>— ș-apoi, nu e numai atât, urmă Petre.</p>
+            <p>— Cum nu e numai atât?</p>
+            <p>— Sunt curios să aflu ce mai spun...</p>
+            <p>— Unii mai spun....</p>
+            <p>— Că ești tovarăș cu banditul Rîureanu....</p>
+            <p>— Ba nu zău!</p>
+            <p>— și că ești vrăjitor...</p>
+            <p>— Asta are haz!</p>
+            <p>Astă dată rîsul lui Solomonică fu mai puțin falș.</p>
+            <p>— Vrăjitor! strigă Didina. Dar pentru D-zeu, ce au cu noi ca să acuze pe tata de astfel de lucruri?</p>
+            <p>— Da, relo Petre adresându-se către fata cum te văz și mă vezi, zic că nu e lucru curat că, ori de câte ori e o treabă de făcut la zece poști de Putineiu, d-l Dumitrache află și o ia înaintea tuturor, sau or de câte ori un om pleacă sau trece prin Putineiu cu ceva bani la dânsul, d. Dumitrache află și........ balaurul trebue să iasă înaintea călătorului.</p>
+            <p>La aceste vorbe, conductorul diligenței privi pe cârciumar în albul ochilor; acesta neputându-i susține privirea, se prefăcu că caută ce-va pe masă, apoi, ca să nu se trădeze, zise fetei cam răstit:</p>
+            <p>— Didino, dute de mai adu vin.</p>
+            <p>— Dar mai sunt doo oale pe masă, tată, zise copila, care observase turburarea părinților.</p>
+            <p>— Dute de adu vin proaspăt din pivniță, nu înțelegi.</p>
+            <p>— Acest ordin fu însoțit d-o privire fulgerătoare. Didina se supuse.</p>
+            <p>— Va să zică, sunt hoț, asasin, vrăjitor, replică cu liniște Solomonică, care avu prudența să se prefacă că ia lucrul în glumă de cât să caute a respinge acuzațiile, lucru la care n-ar fi reușit.</p>
+            <p>De alt-fel, Petre, nici chiar la trezie, nu credea ce se spune pe socoteala cârciumaru-lui ci repeta numai bîrfelele gurilor rele. Cât despre întâmplarea bulgarului din diligența, și propusese omul s-o uite cu desăvârșire și, memoria-i slabă pe de o parte, buna sa voință pe de alta, îl făcuseră de nu 'și mai aducea aminte de ea de cât așa ca prin vis, de aceia îi fu lesne de tot cârciumarului să schimbe vorba.</p>
+            <p>— Ascultă Petre, îi zise el, nu uita că te am pus la masă lângă fie-mea.</p>
+            <p>— N-am uitat de loc, se poate!</p>
+            <p>— Vezi, poartă-te mai... bine cu ea.</p>
+            <p>— Apoi, ce să 'i fac eu dacă abia mănâncă și cât despre băut nu bea de loc...</p>
+            <p>— Vorbește și tu cu dânsa că doară într-o zi o să 'mi fi ginere.</p>
+            <p>— Ei! Ei! 'Mi o spui prea târziu tată so-crule; am băut atât în cât 'mi se pare că se învîrtește pământul cu mine.</p>
+            <p>De aia stau eu acuma, să 'i spui vorbe late?</p>
+            <p>— Iac-o! Bagă de seamă să te porți bine!</p>
+            <p>Mă rog matale, începu Petre căutând să lege un crîmpei de conversație, toate fetele sunt așa de frumoase în sat la d-voastră?</p>
+            <p>— Ce întrebare! ripostă Didina. Mai bine, zău, aide să vorbim de alt-ceva.</p>
+            <p>— Nu! nu! Să vorbim despre d-ta, căci, zău, gluma la o parte, mult 'mi ești dragă.</p>
+            <p>— Ai început cu glumele, se apără Didina roșindu-se. Doamne, să face târziu, gândi ea, s-o fi stins lumina la fereastră.</p>
+            <p>— Dacă e treaba pe glume, relo Petre cli-pind amoros din ochi, să 'ți spui eu una și bună.</p>
+            <p>— Noroc și sănătate.</p>
+            <p>— Noroc și să fie înt-un ceas bun, respunse Solomonică.</p>
+            <p>— Ceasul nu știu de va fi bun, replică Pe-trică eăutând să facă spirit, dar știu eă vinul e bun în lege.</p>
+            <p>— Dar ascultați gluma ce vream să vă spun. Nu e vorbă, a cam început să se mi se lege limbā, adică, cum s-ar zice, am cam dat luleaua prin cenușe și fiind-că mi s-a cam înțe-penit limbă, să poate să nu v-o povestesc așa cum ar trebui, dar știu că, dacă ași fi treaz și v-ași spune-o cu socoteala ei, apoi ați rîde nene de v-ar apuca cârceii.</p>
+            <p>Incep dar: Acum vre-o câți-va ani, înainte adică d-a mă face conductor de diligență, eram băgat la d. Brăiloiu. Ajuns cu povestirea aci, Petrică sughiță apoi ca să 'și potolească setea, înghiți un pahar de vin, apoi, vrând să continue, băgă de seamă că a pierdut firul; atunci, adresându-se către Solomonică:</p>
+            <p>— Până unde ajunsesem oare?</p>
+            <p>— Până la d. Brăiloiu.</p>
+            <p>— Da, da, bine zici. Așa dar, eram o dată la stăpîn la d. Brăiloiu care avea o fată atît de frumoasă, dar atât de frumoasă, în cât, uite, îți venia s-o sorbi într-un pahar cu apă. Pe lângă frumusețe, eșise vorba în sat că fata d-lui Brăiloiu mai are și o zestre... Doamne! Doamne!</p>
+            <p>— In sănătatea d-tale, domnule Solomonică!</p>
+            <p>Didina se sculă și se duse să ceară mume-sei voie să se retragă căci era aproape miezul nopței.</p>
+            <p>Cârciumarul, ghicind motivul pentru care fie-sa își părăsise locul, îi făcu un semn aspru. Ea se așeză din nou, gândindu-se cu durere că nu va vedea, poate în seara aceea, scumpa lumină de la fabrica de covoare.</p>
+            <p>Bețivul contino: stăpânul meu, d. Brăiloiu, am uitat să vă spui, avea în antrepriză dili-gențele, și, cum zisei, trecea drept bogat putred. Intr-o zi, venia s-o ceară un advocat. Foarte bine, zise d. Brăiloiu, decât te previu de un lucru: fata mea n-are zestre de cât câștigul de vre-o doo-zeci de ani, de la cel d-al treilea cal. Avocatul, înșelat în speranțele sale, se retrase și numai veni.</p>
+            <p>La câte-va zile mai târziu, se prezintă ua doctor, căruia, respunzându-i se tot ca avocatului, se retrase și el. La urma urmelor, un șiret, un conductor ca mine, bunioară, înțelegând lucrul, veni la d. Brăiloiu și 'i zise verde:</p>
+            <p>Ia ascultă, dă-mi mie fata și mă mulțumesc drept zestre, cu ce 'ți a produs calul cel d-al treilea.</p>
+            <p>— Bravo! zise vesel stăpînu-meu. Tu 'mi ești omul. Ia-o și fiți fericiți.</p>
+            <p>— Ei Didino, ce zici? întrebă Petre clipind drăgăstos din ochi.</p>
+            <p>— Zic, Petre că istoria e foarte frumoasă dar tot ca avocatul și doctorul, n-o pricep de loc.</p>
+            <p>— Nici vorbă, se amestecă Solomonică cu tonul de batjocură ce 'i era familiar, nu de geaba ești tu învățată ca un avocat și ca un doctor, la d-alde astea însă nu te pricepi. Nu e nimic, o să le înveți când te vei... Poți să te retragi căci am de vorbă ce-va cu Petrică.</p>
+            <p>Didina, reținându-și douâ lacrime, se sculă și merse să sărute mâna părinților săi.</p>
+            <p>— Dar pe Petrică nu 'i săruți întrebă câr-ciumarul, arătând cu degetul obrazul stacojiu al viitorului său ginere.</p>
+            <p>— Nici o dată, tată.</p>
+            <p>— Nici o dată!</p>
+            <p>și cu o mișcare plină de nobleță, Didina lo sfeșnicul dupe masă și se retrase cu atîta demnitate, în cât tatăl său, încremenit pe scaun, nu se trezi din zăpăceală de cât tocmai pe când fata urca scara.</p>
+            <p>Nevasta sa tremura ca varga, iar Petre, care primise bobârnacul, zise în cele din urmă: ei fata a fost pe la scoală și a apucat alte vre-muri, domnule Dumitrache, de aceea trebue luată mai încet, apoi, spre a se mângâia de rușinea pățită, mai înghiți un pahar de vin, poate al trei-zecilea.</p>
+            <p>Ca cum ar fi vrut să se răsbune de un act de rebeliune pe care în sufletul său îl atribuia nevesti-si, Solomonică zise îndată ce plecă Didina:</p>
+            <p>— Elisa a pus ochii pe tine, Petre: vrea să te facă ginere cu or ce preț.</p>
+            <p>— Fie! Noroc să dea D-zeu, respunse ginerile care era prea prost ca să priceapă că ceea ce 'i se propunea nu prea era de na-sul lui.</p>
+            <p>Atunci îneepu între cele trei persoane ră-mase la masă o convorbire care se prelungi până dupe mezul nopței și a cărei concluziune fu că Didina trebuia, într-o lună de zile, să set căsătorească cu Petre.</p>
+         </div>
+         <div type="chapter" n="14">
+            <head>CAP XIV - O întâlnire.</head>
+            <p>S-a sfârșit zise Didina intrând mișcată în odăița ei. Acum e prea târziu.</p>
+            <p>Așteptă, apoi, câte-va minute, dar, nevăzând nici o lumină care să 'i respundă, repetă: e prea târziu!</p>
+            <p>Fața 'i era palidă. Se așeză pe scaun, se sculă, se așeză iarăși și iar se sculă. Oh! sus-pină ea, cum ași fi dorit să 'i fac cunoscut cât sufăr! Să mă mărit cu un vizitiu, cu un bețiv?.. și când mă gîndesc că n-am nici cui spune crudele-mi suferințe, murmură din nou fata întinzându-se peste fereastră în speranță d-a vedea aprinzându-se o rază la orizont. Biata mama n-ar vrea, știu eu, să mă mărite în contra voinței mele, dar nu îndrăsnește să aibe nici măcar umbră de voință în fața tati. Ei bine, fiind că situația mi se prezintă ăst-fel, voiu ști să mă apăr singură. Voi zice tati: Nu! nu! nu! omoara-mă mai bine!</p>
+            <p>Dupe aceste vorbe amestecate cu lacrămi cari se rostogolea ca niște mărgăritare pe obrazul ei de înger, Didina biruită de durere, se pregătea tocmai să 'și facă rugăciunea, când auzi bâtend cineva ușor în fereastră.</p>
+            <p>Bate vântul, se gândi ea, și atinge crăcite plopilor de fereastră. Dar astă seară nu bate vântul, își zise ea numai de cât. Loviturile din lereastră se repetară. Se sculă de astă dată, merse îndrăsneț la fereastră — suferea prea mult ca să se mai poată gândi la frică, deschide și la lumina stelelor vede figura lui Iorgu.</p>
+            <p>— D-ta? Dar mirarea o împedecă d-a continua.</p>
+            <p>Urcat pe un arbore, desinatorul fabricei de corvoare se înălțase până la cerceveaua ferestrei grație unei lungiâ și sdravene crăci.</p>
+            <p>— Iți mulțumesc, zise Didina întinzându-i mâna; îți mulțumesc.</p>
+            <p>— Dar ce ai? Ești mișcată....</p>
+            <p>— Da... sunt mișcată... Dar cum ai știut d-ta că sufeream? căci, într-adevăr, sufăr mult.</p>
+            <p>— Ieri ai aprins trei lumânări și acesta ne învoisem să 'i considerăm ca un semn de ne-norocire.</p>
+            <p>— Dar am retras numai de cât semnul acesta</p>
+            <p>— Nu e nimic. Acesta 'mi a cauzat un presirațiment. Dupe aceea.... dar vorbește-mi de d-ta.</p>
+            <p>Acest presimțimânt nu te a înșelat. Părinții vor să mă mărite. Cum vezi, sunt și gătită.</p>
+            <p>— Să te mărite? Nu e cu putință.</p>
+            <p>— Ai dreptate, nu e cu putință! nu e cu putință! repetă copila cu tărie.</p>
+            <p>In timp de câte-va minute tinerii rămaseră într-o consternație mută. Didina, cu ochii ri-dicați spre cer care era d-o rigiditate înspăi-mântătoare în seara aceea de pricina frigului, iar Iorgu cu fruntea aplecată pe sânul ei. Această scenă de durere și de amor, la fereas-tră și supt un pom alb de chiciură oferea ca-racterul mistic și visător al tablourilor din vremea de de mult. Nici unul nici altul nu se gândise la această crisă atât de fatală și cu toate acestea atât de firească; dar la ce se gândiseră oare?</p>
+            <p>Speranța lor sbura înainte chiar d-a fi avut timpul să încolțească, tocmai ca acele păsărele cari fug dintr-o colivie deschisă și pe cari ni-meni nu se gândise s-o închidă.</p>
+            <p>Rupând cel dintâiu tăcerea, Iorgu zise:</p>
+            <p>— Ce vom deveni noi dar!</p>
+            <p>— Nu știu. Capul meu refuză d-a cugeta în momentul acesta.</p>
+            <p>— Dacă n-ai vrea să te măriți...</p>
+            <p>— Nu 'ți am spus cine e tata? caracterul său despotic, violent! Da, pot să refuz, da, pot parveni, grație unei mari energii, să nu mă mărit cu omul pe care mi l impune, dar existența-mi, o simt, nu 'mi va mai fi posibilă în urma acestei victorii. Atât eu cât și neno-rocita mea mamă, am muri din pricina răului tratament. N-ași vrea să contribui la moartea mami.</p>
+            <p>— Sărmană copilă!</p>
+            <p>— Dar bine, nu 'mi dai nici un sfat?</p>
+            <p>— Nu, nu 'ți voiu da nici un sfat, repetă Iorgu cu o privire plină de dezolație care însemna: dacă 'ți ași da un sfat, oare îndrâsni-vei să faci ceea ce te ași sfătui?</p>
+            <p>— Va să zică, primești să fiu a omului acestuia?</p>
+            <p>Artistul scoase un suspin care, trecând prin toate căile sufletului său dureros, lo caracterul unui răget. Doo lacrămi lungi și înghe-țate luceau la colțul pleopelor sale și fruntea i se acoperise de alba decolorație a morților.</p>
+            <p>Didino! Didino! relo Iorgu, eram așa de fericiți eri!</p>
+            <p>Frumoasă ilusiune! frumoase regrete! Toate fericirea lor de eri consta în cele câte-va lumini cari anunță că se gândesc unul la altul.</p>
+            <p>— St! întrerupse fata. Auzi acea voce ră-gușită? Este glasul omului cu care trebue să mă mărit.</p>
+            <p>— Nu-l vei lua! zise Iorgu cu o tărie de granit.</p>
+            <p>— Nu e așa? scumpul meu.</p>
+            <p>— Nici o dată!</p>
+            <p>Pentru a doua oară Didina întinse tânărului mânușița pe care acesta o sărută cu nesațiu.</p>
+            <p>— Ești bine hotărâtă? întrebă el pe urmă.</p>
+            <p>— Pentru or ce, chiar pentru moarte.</p>
+            <p>— Nu încă, relo surîzând Iorgu.</p>
+            <p>— Vrei să zici că trebue mai întâiu să te urmez? Ce distanță e de la fereastră până la pământ?</p>
+            <p>— Vre o doi stenjini.</p>
+            <p>— Ajută-mi, zise fata hotărîtă, punând un genunche pe tocul ferestrei.</p>
+            <p>— Ce vrei să faci?</p>
+            <p>— Să mă cobor. și vom fugi apoi, vum merge unde vrei, departe, cât de departe.</p>
+            <p>— Incântătoare imaginație! Curagiul și hotărârea lua în acest suflet tînâru și nenorocit culorile unui basmu.</p>
+            <p>— Rămâi! Unde vrei să te duc?</p>
+            <p>— Unde vrei, îți zic.</p>
+            <p>— Dar sunt urmărit, mă caută autoritatea, ce vrei să te expui?</p>
+            <p>— Te urmărește? Cine?</p>
+            <p>— Poliția.</p>
+            <p>— Mă sperii! Ce ai făcut?</p>
+            <p>— Prevăzînd că voiu fi chemat anul acesta să trag sorți, trimisesem doo sute de franci mamei mele ca să plătească taxa de amânare pe un an până ce voiu sfârși studiile practice.</p>
+            <p>— Ei bine? întrebă Didina.</p>
+            <p>— Acest sacrificu îndeplinit—și era mare— mă credeam liniștit. Scăpasem pentru cât va timp de serviciul militar, atât de funest carierei unul artist.</p>
+            <p>— Pe urmă! întrerupse fata nerăbdătoare ca durerea.</p>
+            <p>— Trecuse un an de la trimiterea celor doo sute de franci, când, alaltă-eri, o scrisoare de la mama, care nu mai stă la Zimnicea ci la Giurgiu, mă anunță că abia deu-nă-zi a primit paralele.</p>
+            <p>— Cele doo sute de franci! esclamă cu groază și surprindere Didina.</p>
+            <p>— Da, cele doo sute de franci. Acum e prea târziu, îmi scrie mama; tragerea a avut loc luna trecută și prin urmare eu dezertor și mă urmărește.</p>
+            <p>— Dumnezeule! Dumnezeule! murmură Di-dina împreunându-șl mâinile, cum s-a rătăcit oare acea scrisoare?</p>
+            <p>— Ințelegi d-ta cum se face că această scrisoare să nu ajungă la destinație de cât dupe un an aproape?</p>
+            <p>— Aici este un mister, zise Didina, dar.... nu e de crezut.</p>
+            <p>— E de necrezut, cum zici, cu toate acestea însă așa este. Toate împrejurările îmi sunt prezinte în memorie. Inchisesem doo bilete de câte o sută într-o scrisoare..</p>
+            <p>— și ce ai făcut pe urmă cu scrisoarea? întrebă Didina care cunoștea toate accidentele administrative ale unei scrisori din momentul când o arunci în cutie și până când ajunge ta destinație.</p>
+            <p>— Am pus-o la cutie aici în Putineiu.</p>
+            <p>— și n-a ajuns?</p>
+            <p>— Ba a ajuns dar dupe zece luni</p>
+            <p>— Dupe zece luni!</p>
+            <p>— Când banii aceștia nu mai erau de nici un folos pentru mine. In sfârșit iacă îngrozitoarea posițiune în care mă găsesc. Fiind că nu m-am presintat la recrutație, sunt considerat ca desertor și poliția are ordin să mă aresteze or unde m-o găsi. Până 'mi voia regula posiția, adică până când mă voiu duce la cor-pul unde sunt recrutat, sunt nevoit, să umblu pe ascuns.</p>
+            <p>— Oh, Dumnezeule! Dumnezeule! toate ne-norocirile vin de o dată! și unde te vei duce?</p>
+            <p>— Un arendașiu dimprejur m-a primit la dînsul; voiu sta acolo până mă voiu hotărâ să mă duc la cazarmă unde mă voiu înmor-mânta pentru patru ani.</p>
+            <p>— Patru ani!</p>
+            <p>— Nici mai mult nici mai puțin.</p>
+            <p>Voiu aștepta, zise eroic Didina.</p>
+            <p>— Unde?</p>
+            <p>— Nu știu. Poate colo unde sunt crucile acelea albe.</p>
+            <p>Didina arăta cimitirul satului, alb în mijlocul atmosferei înghețate. Abia atunci băgară de seamă că e tare frig.</p>
+            <p>Cum vom face ca să ne mai vedem cele câte-va zile cât voiu mai fi pe aici?</p>
+            <p>— Nu mai veni, relo Didina, înțelegi?</p>
+            <p>— Iți voiu scrie.</p>
+            <p>— Da, scrie-mi. Dar se află că primesc scri-sori. Vor căuta să cunoască.... și dacă des-copere... ași fi perdută.... m-ar omoră ta-ta. Așteaptă.... să ne scriem cu nume falșe. Cu ce nume? Bunioară d-ta îmi vei scrie pe numele de domnișoara Emilia Stefănescu, Alexandria. Toate scrisorile care pleacă d-aci, trec prin mâinile mele: când voiu da peste această adresă, cu desăvârșire indiferentă pentru tata, voiu păstra scrisoareâ. Dar respunsul?</p>
+            <p>— Mă gândeam tocmai. Vei scrie pe nu-mele d lui Alexandru Belciugățeanu la fabrica de covoare. Portarul, un om de treabă din-tr-un orașiu cu mine, va primi scrisorile și mă va preveni saă mi le va aduce el însuși. astfel nu vom înceta de loc de a ne spune unul altuia gândurile, sentimentele....</p>
+            <p>— și durerile, adăogă Didina. Dar s-a făcut prea târziu, amicul meu, adio!</p>
+            <p>— Adio, amica mea.</p>
+            <p>— Când îmi vel scrii? întrebă Didina.</p>
+            <p>— Mâine.</p>
+            <p>— Da, da, mâine.</p>
+            <p>— Copila era să închidă fereastra dar se opri ca să zică.</p>
+            <p>— Dar dacă te descopere și te prinde, ce fac?</p>
+            <p>— Mă voiu ucide.</p>
+            <p>— Singur? întrebă fata cu o familiaritate sublimă.</p>
+            <p>— 'ți o jur.</p>
+            <p>— Foarte bine, relo ea; încă o dată adio! Didina închise fereastra fără sgomot; Iorgu se coborâ dupe cracă.</p>
+            <p>Nici unul nici altul nu se gândise că craca de plop atingea fereastra, că fereastra era deschisă și că ar fi putut să vorbească tot atât de bine în odaie ca și afară.</p>
+         </div>
+         <div type="chapter" n="15">
+            <head>CAP. XV.— Cuibul de tâlhari.</head>
+            <p>A doua zi dupe scena pe care o povesti-răm, la ora când trebuia să închidă prăvălia, Eiisa, nevasta lui Solomonică, remase pe lîngă tejghea și-i spuse, cam pe departe proiectele familiei în privința căsătoriei.</p>
+            <p>— Stiu efi că d ta nu încuviințezi aceasta, zise Didina care nu știa că nenorocirea îi este așa de aproape.</p>
+            <p>— Ba te înșeli, respunse biata femeie, asu-pra punctului acestuia mă unesc cu Dumi-trache.</p>
+            <p>Didina care nu voia să desmintă pe mu-ma-sa, se mulțumi să surîdă.</p>
+            <p>Inșelată un moment cu această resignațiune aparentă. Elisa începu să-i înșire giuvaricalele, și toaletele ce avea de gând să-i dea de nuntă.</p>
+            <p>— O să-ți dăm o pereche de cercei cu mărgăritare foarte frumoase.</p>
+            <p>— Da, foarte frumoase repetă mecanicește Didina, gândindu-se că avea poate în expediție o scrisoare de la lorgu dar că nu putea s-o vază de cât a doua zi.</p>
+            <p>— O să-ți dăm o salba cu șease diamante.</p>
+            <p>— Da?</p>
+            <p>și nu numai atât, scumpul meu copil. Să vezi rochiile pe cari le am comandat.</p>
+            <p>— Deja condamnate?</p>
+            <p>— Firește, fiind că poate o lună are să fie nunta.</p>
+            <p>A! da, uitasem eă nunta are să fie peste o lună</p>
+            <p>— O să-ți mai dăm....</p>
+            <p>Dar, văzznd că fata, în loc d-a se bucura a auzul atâtor lucruri frumoase, se întrista din ce în ce mai mult Elisa se opri de o dată în mijlocul acestei strălucitoare enumerațiuni și privi fix pe Didina.</p>
+            <p>Intr-o clipă, aceeași emoțiune se întipări pe-fețete lor și se sculară amândoo spre a cădea apoi una în brațele celei-l -alte. Se sărutară și plânseră îndelung. Frica le făcea să se uite mereu în tavan unde se temeu să n-auză, pe ferestrue, tunînd vocea lui Solomonică. In această durere, timida mamă găsi, ca să zic așa, iertare pentru marea-i slăbiciune; lacrămile ei ferbinți și abondente spuneau destul cât de departe era ea d-a consimți la căsătoria Didini cu conductorul de diligențe; dar aceasta fu tot ce îndrăsni să manifesteze. In timpul acesta, fata, care o cunoștea bine, nu profită de această expansiune spre a o ruga să înduplece pe tatăl său și să-i schimbe proiectele.</p>
+            <p>O plânse și atâta tot.</p>
+            <p>— Du-te, du-te, zise apoi blând mă-si, du-te repede; mă tem că, dacă ai mai sta aci să nu-ți facă tata ceva: îl aud mergând repede, să nu 'și piardă cum-va răbdarea că e foc.</p>
+            <p>Ai dreptate, a sosit ceasul să.... să.... Elisa, cu toate sforțările ce făcu, nu putu găsi un cuvânt ca să exprime misterioase operație ce obicinuit făcea sus, la ora aceasta îm-preună cu bărbatul și cu un alt...... prieten al casei.</p>
+            <p>Ișî șterse ochii, suspină adînc și se duse.</p>
+            <p>Didina auzi închizându-se cu veriga cele doo uși, cea de sus și cea din josul scărei întortochiate care conducea la camera unde se închideau atât de misterios în fiecare seară tatăl său, mama și un al treilea pe care nici o dată nu 'l putuse vedea bine; știa numai atîta că venea seara între un-spre-zece și doo-spre-zece ceasuri, intra pe din dos, se ducea în odaia cunoscută, și acolo cu veriga pusă la ușe, stetea până târziu dupe mezul nopței. Din puținul ce putuse distinge prin gaura cheiei, din fizionomia streinului, își aducea aminte că chipul acesta îl mai văzuse unde-va. Intr-ade-văr, misteriosul necunoscut era tocmai călă-torul care, cu cât-va timp mai nainte fusese zărit în fundul diligenței care aștepta, dinaintea hanului ca să ia pe Solomonică și pe nefericitul Poliacov. Cititorii au recunoscut, cred, în sinistrul tovarăș al hangiului, pe faimosul bandit Rîureanu care cu revolverul la gâtul negustorului bulgar și ajutat de canalia de cârciumar, îi ceruse pe drumul Giurgiului, punga sau viața și, în cele din urmă, cu o cruzime de fiară selbatică, i le răpise pe amândoo.</p>
+            <p>Tăcerea obicinuită învălui numai de cât întreaga prăvălie. Didina începu să miște melancolic cârligele cu care făcea la un ciorap. Sufletul său de sigur nu urmărea firul care încet încet se deșira dupe ghemul cu ață, ci era cu acela pe care 'l văzuse atât de desnadăjduit în ajun și care jurase să moară mai bine de cât să piardă patru ani în aspra servitute a vieței militare. Intr-o țară așa de bogată în spioni, se temea ca nu cum-va din-tr-un moment într-altul, să nu fie descoperit în fundul asilului unde se ascunsase. Această idee numai, ardea sângele bietei fete; într-un moment imaginația i se aprinse atât de tare din pricina acestor bănueli, în cât i se păru că aude detunături de pușcă pe câmp. Intr-în-sul a tras, cugeta ea; o fi vrut să 'l aresteze și el s-o fi opus. In momentul acesta, firul i se rupse în mână și copila, înghețată, escla-mă: Dumnezeule! oare acesta este un semn prevestitor? Viața lui cum-va, fi-va oare sfărâmată ca firul acesta? de o dată o apucă o tremurătură nervoasă; crezu că într-adevăr Iorgu e mort. Ah! zise ea, de ce n-am scri-soarea pe care 'mi a trimis-o!........ ași ști....... dar scrisorile sunt în camera tatălui meu. Zi-</p>
+            <gap n="[editorial] Figure"/>
+            <p>când aceste din urmă cuvinte, Didina ridică ochii în sus. Nu voiu afla oare nici o dată ce fac ei acolo?</p>
+            <p>— Dupe tejgheaua unde ședea fata erau grămădite în neregulă uneltele casei: tingiri, cutii, saci vechi, butoaie etc. Privirile Didini, aruncate fără direcție, căzură pe o scară, du-blă ascunsă dupe niște scânduri cari o acopereau cu desăvârșire. Curiozitatea fetei lo de o dată proporțiunile unei imense dorințe; își părăsi locul și merse fără sgomot spre unghiul întunecos unde era scara. Dintr-o aruncătură de ochi își formă planul și calculă dificultățile. Indata, cu o delicateță de hoț, cu o mare prudență, cu o atențiune fără seamăn, transportă scândurile fără sgomot în altă parte, și așeză scara din dosul tejghelei.</p>
+            <p>Dupe ce stinse lampa, desfăcu scara, cea du-blă și o așeză astfel, în cât vârful să vie tocmai în dreptul ferestrei făcută în tavan. Urcă apoi treptele de jos, dar cu sfială, cu temere știind și recunoscând că: atențiunea ce făcea nu era frumoasă. De acea poate, picioarele-i tremurad și de multe ori vru chiar să cază. Spiritul său în acest moment erea prea preoupat ca să mai poată asculta vocea prudenței; își lo seama de mai multe ori, dar în ne, după multă luptă cu ea însăși, se văzu în vârful scărei. Cu capul la o mică distanță de plafond și cu mâna la ferăstrue. Iși reținea espirația. Aci frica fu și mai vie, căci ajunea în punctul cel mai primejdios. Cum să eschidă fără sgomot ferestruia ca să auză și să vază ce se petrece în fundul odăiei? Cel mai mic sgomot....</p>
+            <p>Cu toate acestea Didina pune mâna închisă a formă de pahar sub cerceveaua ferestruiei concentrându-și toată abilitatea în vârful degetelor, apasă ușor, trage puțin câte puțin, în sfârșit deschide ferestruia și de o dată o bește lumina odăieți. Didina simți căzându i pe inimă o picătură de sânge. Un minut pumni-i încleștat pe ramă, susținu cerceveaua ferestruiei. Dacă ar fi căzut!.... Dupe ce o ținu astfel în aer câte-va minute, Didina o împin-se iarăși ușor închizând-o pe trei sferturi și sând o mică deschizătură pe unde să poată ece raza vizuală în camera tatălui său. Ni-mic n-o trăda. Dar ce fulgerătoare surprinde-re nu încercă biată copilă când, prin această ăpătură zări pe tatăl, mama și mosafirul lor, așezați în jurul unei mese pe care se înalțau mormane de scrisori. Ce fac? Oare ce pot face ei? își zise ea; și ce însemnează... Deschizând o cutie de tinichea în care se strângeau aburii produși de apa care fierbea pe un mangal, Solomonică scoase dintr-însa o mână de scrisori și le trânti ude pe masă.</p>
+            <p>— Citește-mi p-asta, zise el nevesti.</p>
+            <p>Didina, zăpăcită, nu se putea încrede ochilor. Oare tată-său era cel care poruncia să despe-cetluiască și să citească scrisorile altora?</p>
+            <p>— Dar Dumitrache....</p>
+            <p>— Aide, aide, fără vorbă.....</p>
+            <p>— 'Mi e frică ca nu cum-va într-o zi...</p>
+            <p>— Ei! ei; cântec vechiu....</p>
+            <p>— Gândește-te că dacă s-ar descoperi.. ar fi vai de capul nostru!</p>
+            <p>— Destul!</p>
+            <p>— Find-că vrei tu....</p>
+            <p>— Oh! ce îngrozitor! își zise Didina ascun-zânduși de rușine fața între mâini.</p>
+            <p>Neputând face alt-fel de cât să se supue pooruncei, Elisa citi:</p>
+            <quote type="note">
+               <p>„Domnule Prefect,</p>
+               <p>Conform ordinului d-v. No. 14735 din 23 curent, am onoare.....”</p>
+            </quote>
+            <p>— Destul, destul! trebue să fie raportul inginerului însărcinat să repare șoseaua. Aceasta nu ne privește.</p>
+            <p>— E de post, e de post adăogă răgușit tîl-harul care stând lângă Solomonică, bleojdia niște ochi roșii pe plicurile scrisorilor ce umpleau masa.</p>
+            <p>Apăsând degetul cel mare pe marginea plicutui, cinstitul cârciumar lipi din nou scrisoarea și o așeză într-un raft de alte scrisori vitate în același chip, căci această operație era începută deja de mult.</p>
+            <p>Elisa citi iarăși:</p>
+            <quote type="note">
+               <p>„Scumpul meu frate,</p>
+               <p>Nu 'ți asigura recolta la societatea despre care 'mi ai vorbit; am luat informațiuni se-crete dar sigure; este în ajun d-a da faliment e și acțiunile i se urcă mereu.”</p>
+            </quote>
+            <p>— Ferice de cei asigurați la această societate! zise surîzând hangiul</p>
+            <p>— Așa le trebue dacă nu vin să se asigure noi, adăogă într-un hohot de rîs Rîureanu.</p>
+            <p>Solomonică o lipi la loc. Altă scrisoare fu deschisă.</p>
+            <quote type="note">
+               <p>„Doamnă,</p>
+               <p>„Necredința d-tale 'mi e cunoscută acum; nu mai este un secret pentru mine conduita....</p>
+            </quote>
+            <p>— Destul, zise Solomonic; n-avem noroc astă seară: din trei scrisori una vorbește de amor și cele-l-alte spun prostii.</p>
+            <p>— Dumnezeule! își zise Didina, dacă scrisoarea lui Iorgu o fi aci, tata o s-o citească. Adică... n-are de ce s-o citească fiind că nu este de nici un interes pentru dânsul.</p>
+            <p>— Urmează, zise hangiul nevesti, căci întârziem.</p>
+            <quote type="letter">
+               <p>„Dragă verișoară,</p>
+               <p>„Iți trimet cele cinci mii de franci pe care mi le ai cerut ca să 'ți plătești arenda. Dupe dorința exprimată în scrisoarea ta, banii sunt în bilete de câte o sută de fr. Dacă ai nevoie de cele-l-alte cinci mii ce 'ți mai datorez, spune-mi ca să ți le trimet imediat.”</p>
+            </quote>
+            <p>— Sunt cinci zeci? ia vezi, zise Solomonică.</p>
+            <p>— Ce-o vrea să facă tata cu aceste banc-note, reflectă Didina, din ce în ce mai înspăimântată.</p>
+            <p>— Așa e, sunt tocmai cinci zeci.</p>
+            <p>— Dar bine, amicul meu, zise cu blândețe isa, nu pui paralele la loc în plic?</p>
+            <p>— Le voiu pune peste cinci-spre-zece zile și va crede că s-a rătăcit scrisoarea.</p>
+            <p>— Va să zică le oprești?</p>
+            <p>— Numai pentru doo săptămâni, nu 'ți spusei?</p>
+            <p>— Numai de nu s-o rătăci scrisoarea de tot, adaogă cu un surîs șiret prietenul hangiului.</p>
+            <p>— Dar oamenii așteaptă banii.</p>
+            <p>— Nu vor perde nimic așteptând, respunse stit Solomonică; peste doo săptămâni le trimit scrisoarea neatinsă și banii toți. Ce, mă iei drept hoț pe mine?</p>
+            <p>— Nu.... zise sfios Elisa.</p>
+            <p>— Oh! Dumnezeule, Dumnezeule, zise Didina ale cărei buze se albiseră de paloare; mi explic acum cum se face că cele doo sute de franci trimise de Iorgu mami-si ca să plătească taxa de scutire, n-au ajuns la destinație de cât foarte târziu. Tata îi......Nu ndrăsnesc să zic cuvîntul, se întrerupse copila; dar el, tata e pricina că Iorgu a ajuns un fugar și că va muri, poate; și zicând aceste vorbe, cu vocea-i înecată în tristeță și rușine căci durerea și indignarea apăsau greu pe su-fletul ei, vrea tocmai să se dea jos dupe scară, când vocea Elisei se auzi citind din nou:</p>
+            <quote type="note">
+               <p>„Domnule Casier,</p>
+               <p>„Reținut din cauză de boală, nu mă pot prezinta în persoană că să aduc banii prestației. Vă trimit dar prin d. Primar cele patru mii de lei strânși și vă rog să mă descărcați cu această sumă din comptul trimestrului trecut. Domnul Primar sosește mâine cu banii.</p>
+               <p>Ioniță Zamfirescu.</p>
+            </quote>
+            <p>Așa da, mai avem și noi de lucru, zice, frecându-și mâinile de bucurie, tîlharul. Va să zică nene Dumitrache, contino Rîureanu, măi-ne în ființă pănă în zio la podul gârlei și când trece d. Primar, cioc! cioc! de doo ori la mir și iacă-ne cu câte doo mii de franci în pungă.</p>
+            <p>Ba nu zeu, a venit tocmai la vreme căci începuseră băieții a 'și cam arăta colții.</p>
+            <p>— Unde mai pui că începuse lumea să uite de balaur, adăogă cârciumarul a cărui față se contractă de un rîs hidos.</p>
+            <p>Elisa, mai mult moartă de cât vie, lo altă scrisoare pe când bărbatul său lipia pe a perceptorului. Ea citi:</p>
+            <quote type="letter">
+               <p>„Domnișoară,</p>
+               <p>„Eri, părăsindu-te, m-am dus să spui portarului de la labrică, dupe cum te prevenisem, ca să 'mi aducă scrisorile la locul unde am găsit refugiu și unde sper că poliția nu va reuși să mă găsească</p>
+            </quote>
+            <p>— Ah! Ah! începe bine.</p>
+            <p>— Să continuu? zise Elisa.</p>
+            <p>— Să înțelege! Sunt curios să cunosc persoana care se ascunde atât de mult, căci scrisoarea a fost pusă la cutie în Putineiu.</p>
+            <p>— De bună seamă, respunse Elisa.</p>
+            <p>— Dacă 'l ar denunța tata? își zise Didina înmărmurită.</p>
+            <p>Elisa contino:</p>
+            <quote type="letter">
+               <p>„Nu mă descoperi, de sigur, unde sunt, totuși însă nu voiu putea rămâne vecinic unde sunt; va trebui peste câte-va zile să plec d-aci, dar unde să mă duc? la regiment? Nici o dată, oh! nici o dată.</p>
+            </quote>
+            <p>— Va să zică cel ce trimite această scrisoare e un dezertor?</p>
+            <p>„Nu voiu să fiu soldat; nu, voiu ca timp de patru ani să 'mi dau corpul setos de in-dependență și sufletul meu de artist pe mâna unui idiot numit caporal sau sergent. Afară de aceasta timpul e viața și viața mea 'ți e consacrată ție Emilie.</p>
+            <p>— Negreșit e un dezertor amorezat, zise So-omonicâ. Dar oare cine să fie această Emilie, căreia îi scrie? Ia vezi unde e adresată scrisoarea?</p>
+            <p>— La Alexandria!</p>
+            <p>— Așa aproape! Cunoști tu vre-o Emilie p-aci prin prejur?</p>
+            <p>— Nici eu. Contino.</p>
+            <p>Elisa care, ca toate femeile, iubea romanele, contino cu plăcere:</p>
+            <quote type="letter">
+               <p>„Cu liniștea, scumpa mea, 'mi a venit și reflecțiunea. Să nu desnădăjduim. Să ne gân-dim că chiar de n-ași fi fost în poziția în care mă găsesc, totuși ași fi fost în ne-putință de a 'ți obține mâna cu consimțimântul părinților cari sunt, fără îndoială, oameni cum se cade, dar al căror spirit este întunecat de comerciu, inima plină de afaceri negustorești și gusturile de sigur ordinare. In fine, nici o dată un cârciumar nu 'și va da fata dupe un artist. Minuni s-au văzut, lucrul acesta însă <quote>„nici o dată.”</quote>
+               </p>
+            </quote>
+            <p>— Ia uite frate, zise Solomonică, e ciudat de tot; se vede că tatăl acestei Emilie e un cârciumar ca mine. Cunoști tu vre un cârciu-mar în Alexandria care să se cheme Stefănescu?</p>
+            <p>— Nu.</p>
+            <p>— Trebue să fie, de bună seamă, vre un cârciumar retras din afaceri. Dar citește până la sfârșit.</p>
+            <p>— Ce suplicu!; murmură Didina a cărei frunte asuda.</p>
+            <p>Elisa citi mai departe:</p>
+            <quote type="letter">
+               <p>„Totuși, dacă disprețul tatălui d tale pentru oameni de categoria mea este cunoscut, această însă nu 'i dă dreptul să silească pe fie-sa ca să se căsătorească cu un vizitiu...</p>
+            </quote>
+            <p>— Doamne! zise Didina, are să descopere totul.</p>
+            <p>— De ce te oprești? zise hangiul nevesti-si.</p>
+            <p>— Nu mă opresc....</p>
+            <p>— Citește înainte.</p>
+            <quote type="letter">
+               <p>Ast fel, crede-mă, scumpa mea, relo Elisa, „să nu ne lăsăm a fi învinși de soartă. Ai câte-va înaintea d-tale; să căutăm a pregăti un plan care va reuși de sigur dacă și d-ta mă iubești cum te iubesc eu. Acest plan ți-l voiu comunica în viitoarea mea scrisoarea, căci, înainte de a ți-l face cunoscut, trebue mai întâiu să respunzi la această scrisoare ca să mă asigur că ai primit-o. Respunde-mi dar și speră.</p>
+               <p>Al d-tale.</p>
+               <p>Alexandru Stefănescu.</p>
+            </quote>
+            <p>— Acest Alexandru Stefănescu trebue să fie vre un funcționar de la fabrica de covoare. Mă voiu informa.</p>
+            <p>— Ce zice? Vai de mine! suspină Didina</p>
+            <p>— De ce să te mai informezi, zise Elisa, fiind-că 'i știi numele și ocupația.</p>
+            <p>— Ai dreptate. Lipește plicul și trimete-o. Să nu lipsim pe Emilia de această plăcere.</p>
+            <p>— Mama mă scapă de o mare nenorocire, zise copila, venindu-și oare cum în fire.</p>
+            <p>Didina se coborâ dupe scară, o duse încet i fără sgomot, prin întunerec, la locul pe care ocupa înainte, având grije s-o ascunză dupe haosul de mobile cari o ascundeau. Se urcă poi în odaia ei și nu dormi toată noaptea, muncită de gânduri îngrozitoare.</p>
+         </div>
+         <div type="chapter" n="16">
+            <head>CAP. XVI — Trădarea nereușită.</head>
+            <p>A doua zi, pe dupe prânz, Didina se coboră în prăvălie ca să pue scrisorile în diferiți saci de pele spie a se distribui comunelor respective. In timpul nopței de friguri și de insomnie pe care o petrecuse, în timpul căreia conduita tatălui său o turmentase groaznic, ea discutase cu sineși toate mijloacele de a încunoș-tiința pe ceș pe care 'l iubea de pericolul la care se expunea și o expunea scriindu-i. Trebuia să 'i comunice acest pericol fără să deștepte într-ânsul alte bănueli și fără să spue categoric lui Iorgu: scrisorile tale sunt deschise și citite de tata. Să caută a 'i trimite scrisoarea alt-fel de cât prin poștă, ar fi fost o nebunie, atâta de mult era veghiată și ținută d-aproapa de către tatăl său. Se mărgini numai a 'și preface scriitura și a comunica amantului ideile sale. Ziulica s-ar fi petrecut pentru Didina ca toate cele-l alte, vînzând zahăr, cântărind cafea, tim-brând scrisori, dacă doi călărași n-ar fi intrat să bea câte un pahar de rachiu. Dupe obiceiul său, Solomonică intră numai de cât în vorbă cu dânșii.</p>
+            <p>—Ce se mai zice nou? Mai sunt hoți prin ar? Prinsu-s-au tâlharii cari oroorâră azi neață pe primar?</p>
+            <p>—Pân' să prindem pe cei cari omorâră ietul primar, avem alt-ceva de făcut; căut -de trei zile un dezertor ascuns p-aci și -mi-se că perdem vremea de geaba. Dupe se vede, vânatul acesta știe să se ascundă opoii.</p>
+            <p>—Vreți să puneți mâna pe el numai de cât, Solomonică.</p>
+            <p>Didina scoase, fără voie-i, un țipăt.</p>
+            <p>—Dar ce ai! întrebă unul din călărași</p>
+            <p>—Nimic, nimic, respunse ea; 'mi am apu degetul în ușă.</p>
+            <p>—Râu, fetică; pune nițică pânză de păia sau câte-va picături de cerneală, 'i reco-dă călărașul care, întorcându-se spre câr-ar, îi zise:</p>
+            <p>—Cum ne înveți să facem ca să punem pe dezertor?</p>
+            <p>—Mai întâiu ce 'mi dă prefectura ca să vi-l pe mână?</p>
+            <p>Didina privea mereu pe tată-seu cu un sentiment de indignare și de milă.</p>
+            <p>— Imi dă guvernul o bumașcă de o sută de lei? contino el cu același surîs!</p>
+            <p>— Vrei să mărești numărul celor d-aseară! esclamă Didina fără să vrea.</p>
+            <p>Cuvîntul porni ca un glonț din buzele feti și făcu pe cârciumar să tresară. El îngână, se înverzi, apoi zise:</p>
+            <p>— Am glumit. Ce știu eu unde s-a ascuns dezertorul? Noroc! zise dupe aceea, cârciumarul nostru înghițind un pahar ca să nu se bage de seama că sîa schimbat la față. Apoi turnă și călărașilor câte un rachiu.</p>
+            <p>Aceștia plecară. Imediat Solomonică se repezi la fată ca și cum ar fi voit s-o sfâșie; se opri însă repede, se reținu, ba îi zise chiar cu oare-care blândețe:</p>
+            <p>— Dar de unde cunoști tu istoria bumascilor?</p>
+            <p>— Văzui adineauri una pe sobă....</p>
+            <p>Numai atâta știi..... se gândi chiar Dumitrache. Atât mai bine! Bine că n-a aflat.....zău ași fi murit.</p>
+            <p>Solomonică se urcă în cameră.</p>
+            <p>Rămânând singură, Didina scoase cruciulița pe care o purta în sân și o săruta pios. Când se înseră, tatăl și mama sa se urcară în camera misterioasă, iar copila stinse lampa din prăvălie și așeza scară din nou în dreptul ferăstruei, apoi, uitându-se înnăuntru, văzu iarăși cortegiul de grozăvii de cari se îngrozise în nopțile precedente. Cu inima sfărâmată de rușine, așteptă să vie rândul scrisorei lui Iorgu.</p>
+            <p>In fine Elisa citi tare această adresă:</p>
+            <quote type="note">
+               <p>„Domnului Alexandru Belciugățeanu funcționar la fabrica de covoare.</p>
+            </quote>
+            <p>— Oare, ăsta să fie dezertorul, zise Solo-monică, — amantul Domnișoarei Emilia? Ia să-i vedem respunsul.</p>
+            <p>— Poate.... da, răspunse nevasta cârciu-marului deschizând scrisoarea.</p>
+            <p>Cititorul își poate închipui cu câtă atențiune asculta Didina!</p>
+            <p>Elisa începu:</p>
+            <quote type="letter">
+               <p>„Domnul fie bine-cuvântat că te a condus fără pericol în locul de retragere! Fie bine cuvîntat de mii de ori! 'Mi a ascultat rugăciunea. Cu toate acestea, nu te prea încrede în ascunzătoarea unde te găsești. Ai dreptate, nu poți și nu trebue să rămâi vecinie ascuns. Ai putea fi descoperit, de sigur, căci a început deja lumea să cam bănuie locul unde te ai retras. Cum? ce fel? vei întreba, căci nu-mi ai scris de cât mie până acum, și numai o singură scrisoare. Ei bine, să-ți spui cum s-a întâmplat cu corespondența noastră: scrisoarea a fost deslipită și citită de tata! „da! de către tata..</p>
+            </quote>
+            <p>Solomonică bufni într-un hohot de râs așa de puternic, așa în cât îl apucă și tusa.</p>
+            <p>— Zău! asta se brodește de minune: tată, domnișoarei Emilia deschide scrisorile fii-săi, care, prin urmare, le primește deschise de doo ori, de către tată-său și de către noi. Bravo! secretă corespondență! Ce zici cocoană Eliso?</p>
+            <p>— Un curat roman, respunse nevasta care, pentru primă oare de când, fără voia ei, dedea ajutor bărbatului său ca să comită atâtea blestemății, găsi oare care plăcere în trista sa complicitate.</p>
+            <p>— Tare e ciudat, zău așa! Dar contino zise Solomonică nevesti care se supuse.</p>
+            <p>—Îmi spui să nu desper căci ai conceput un „plan care va reuși dacă te iubesc. Atunci mă mai pot îndoi de succes, amicul meu?</p>
+            <p>— Vezi? vezi fetele din ziua de azi? întrerupse cârciumarul. Noroc că Didina e rece și nu se gândește la astfel de secături.</p>
+            <p>— Nu te prinde Dumitrache.....</p>
+            <p>— Chiar dacă n-ar fi așa cum o cred eu, oare ar îndrăsni ea să spuie unui tânăr că-l iubește?</p>
+            <p>— Nu se știe.</p>
+            <p>— Aida de! Dar în sfârșit cu ea s-a hotărât. Petrică are să 'i taie aripele dupe nuntă. Dar citește mai departe.</p>
+            <quote type="letter">
+               <p>„Vrei să-ți spui eu care 'ți e planul? căci-lam ghicit foarte ușor. Gândul dumitale e să fugim Împreună și să zici apoi tati: Acum hotărăște-te! Consimți sau nu, să 'mi dai ceea ce e deja al meuu? și tata va zice da, căci în astfel de cazuri părinții zic în tot-dau-na <emph>da</emph>
+               </p>
+            </quote>
+            <p>— Ba eu nu! In locul acestui tată, eu ași zice nu. Adu-mi-o înapoi, fată or femee, o primesc! Când 'mi ar juca mie fie-mea renghiul acestea, eh! eh! cocoană Eliso, zău! n-ai mai avea copilă.....</p>
+            <p>Scara se cutremura sub picioarele Didinei la auzul ăstor cuvinte.</p>
+            <p>Dar liniștește-te Dumitrache...</p>
+            <p>— Ai dreptate, nu ne privește pe noi..... Nu e copila noastră. Dacă ar fi crescut-o părinții cum am crescut eu pe Didina, cu nuia-ua, n-ar fi ajuns aici. Dar ia să vedem, relo hangiul cu liniștea unui cititor de foileton, ce zice fata despre planul ce descopere la amantul său.</p>
+            <quote type="letter">
+               <p>Aprob ideea d tale. Spune-mi numai ce trebue să fac și te voiu asculta. Arată-mi locul unde mă aștepți, ceasul și noaptea când să viu, și vei vedea cum știu să mă țiu de cuvînt.</p>
+            </quote>
+            <p>— Bree! esclamă Solomonică încrucișindu-și brațele. Dacă ași avea vreme, m-ași duce la ceasul hotărât să-i văz.</p>
+            <quote type="letter">
+               <p>„Dar toată această combinație,— zise Elisa continuând citirea scrisorei,— o primesc cu o condiție, și anume: dacă tata, contra așteptărei noastre, refuză să 'mi dea consimțimântul, pe urmă să-mi făgăduești că mă lași să dispui de viață cum voiu vrea eu.</p>
+            </quote>
+            <p>— Bieții copii, zise Elisa, de ce nu-i o căsători?</p>
+            <p>— De ce nu-i o strânge de gât, mai bine? relo chir Dumitrache. Ai înnebunit? nu 'ți aduci aminte începutul corespondenței? Nu tii că tânărul este artist? Cum vrei să-și dea omul fata dupe o secătură? Daria să vedem sfârșitul.</p>
+            <p>— Iacă-l</p>
+            <quote type="letter">
+               <p>„Aștept răspunsul d-tale și sunt gata la or ce 'mi vei zice, însă, fiind că tata, din întâmplare, poate citi și scrisoarea aceasta, cum a citit și pe cea-l-altă, te rog, întrebuințează un șiretlic ca să-l împedecăm: pe cele dintîiu trei pagine ale scrisorei ce-mi vei trimite, zi că, supărat de refuzul tati, renunți la mine, iar pe a patra, scrie cu zeamă de lămâie cele câte-va rânduri prin cari-mi anunți că ai primit planul precum și cele-l-alte informațiuni necesare.</p>
+               <p>A lui D zeu și a ta</p>
+               <p>Emilia.</p>
+            </quote>
+            <p>— Îmi trece prin cap o idee, zise șiretul de hangiu: eu sunt sigur că nu esistă pe lume nici Alexandru Belciugățeanu nici Emilia.</p>
+            <p>— Ei, aș! ce te iace să crezi una ca asta?</p>
+            <p>— Mă prind pe ce vrei că ateste nume ascund altele.</p>
+            <p>— Ce idee!</p>
+            <p>— E adevărat cu toate acestea.</p>
+            <p>— De ce?</p>
+            <p>— Fiind-că fetele de cârciumar, afară de a dumitale, poate, nu scriu așa. Prea e frumos, prea e poleit.</p>
+            <p>— Totuși....</p>
+            <p>— știi de la cine o să aflăm noi adevărul?</p>
+            <p>— De la cine?</p>
+            <p>— De la Didina. Stai s-o chem și vei vedea.</p>
+            <p>— Didina s-a culcat.</p>
+            <p>— Ba nu, nu sunt încă doo spre zece.</p>
+            <p>Auzind acestea, Didina, fără să știe cum, sări, du pe scară și rămase mută, aproape moartă.</p>
+            <p>Solomonică alergă la ferestrue și o deschise.</p>
+            <p>— Ce, e întunerec! Apoi strigă: Didino! Didino!</p>
+            <p>— Aud tată!</p>
+            <p>— Ce, dormiai?</p>
+            <p>— Ba nu tată dar s-a stins lampa.</p>
+            <p>— Vino încoa repede.</p>
+            <p>— Zău tată nu dormiam....</p>
+            <p>— Vino repede că nu-ți fac nimic.</p>
+            <p>— Când se urcă copila, tatăl său merse drept la densa și-i zise:</p>
+            <p>— Cunoști tu scrierea ăsta?</p>
+            <p>— Mi se pare.... stăi.... da... da...este scrierea.</p>
+            <p>— A cui?</p>
+            <p>— A uneia din camaradele mele de scoală.</p>
+            <p>— Care se numește?</p>
+            <p>— Emilia Stefănescu.</p>
+            <p>— Bine. Asta vream să te întreb.</p>
+            <p>Didina se coborâ și merse de așeză scara la loc.</p>
+            <p>astfel, fără silințe ci numai cu bunul simț isise mijlocul cel mai potrivit ca să iasă dia inurcătură.</p>
+            <p>Trei zile trecuseră și nici o scrisoare nu dea să-i aducă răspunsul atât de mult dorit. timpul acesta, se petrecu un eveniment în-semnat: sermanul Vanghelie, nenorocitul care suspinase atâta dupe mâna Didini, muri din cauza teribilei mistificațiuni a cărei victimă fusese.</p>
+            <p>Tot satul merse la înmormântarea lui.</p>
+            <p>Numai e nevoie să spui că în toate serile, regulat, Didina punea scara și asculta citirea scrisorilor tot așteptând mereu să audă pe a sa.</p>
+            <p>A patra zi durerea i se mai mărise încă din pricina morței nefericitului notar. Erau aproape doo-spre-zece ceasuri când tocmai vrea să-și părăsească postul de observare, dar So-lomonică desfăcând una din ultimele doo scrisori ce-i mai rămaseră pe masă, zise:</p>
+            <p>— Mi se pare că asta este scrisoarea amo-rezatului nostru, ia vezi Elizo.</p>
+            <p>— Ha! Ha! Ia să vedem ce zice pe pagina cea albă: fug, nu fug, ce au hotărât în fine.</p>
+            <p>— Bine, Dumitrache, zise Elisa, de cât am uitat să facem o reflecție.</p>
+            <p>— Care, anume?</p>
+            <p>— Ca să putem citi pagina cea albă, trebue să încălzim hârtia și în cazul acesta apar literile.</p>
+            <p>— Foarte bine. Tocmai aceasta o vrem și noi.</p>
+            <p>— Fără îndoială, de cât, nu te gândești la biata fată că a înduplecat pe drăguțul ei să întrebuințeze mijlocul acesta tocmai ca să nu poată citi tată său scrisoarea. și când o vedea lucrările alt-fel, oare ce o să creadă ea?</p>
+            <p>— Creadă ce o pofti.</p>
+            <p>— Dar....</p>
+            <p>— Cu chipul acesta, nu înțelegi că facem un serviciu lui tată-său?</p>
+            <p>— Așa e, dar ași fi de părere mai bine, astă dată să nu mai violăm secretul scrisori.</p>
+            <p>— Ași! Tocmai când e mai frumos....</p>
+            <p>Solomonică apropie scrisoarea de gura sobi.</p>
+            <p>— Dar n-am văzut ce e scris pe primele pagine, zise Elisa căutând cu or ce preț să câștige timp.</p>
+            <p>— Nu e nevoie, fiind că știm că este o comedie ticluită dinainte. Dar în sfârșit vezi, adâogă bărbatu său.</p>
+            <p>Elisa începu să citească:</p>
+            <quote type="letter">
+               <p>Domnișoară,</p>
+               <p>Fiind că părinții d-tale, după cum mi ai spus singură, se opun căsătoriei noastre, n-avem de cât să ne supunem.”</p>
+            </quote>
+            <p>— Vezi? întrerupse Solomonică, perdem vremea de geaba Treci la pagina albă.</p>
+            <p>— Nu e mai bine să citim întâu! astă-l-altă scrisoare care ne mai rămâne, ca să putem face mai mult hăz pe urmă cu declarația aman-tului, zise Elisa căutând mijlocu să depărteze pe bărbatu său de la hotărârea d-a citi scri.soarea Emilii.</p>
+            <p>— Bine zici, să sfârșim repede și cu aceasta ultimă scrisoare ca să ne rămâie mai mult timp spre a ne ocupa de focul domnișoarei Emilia.</p>
+            <p>Deschizând scrisoarea, Elisa esclamă de o dată: curios lucru! de ce o fi desenat aici acest arbore care ocupă mai toată pagina întâia.</p>
+            <p>— Dar ce te ai turburat așa nevastă? Adi, începe o dată.</p>
+            <p>'Mi e frică....</p>
+            <p>— De ce?</p>
+            <p>— Vei vedea.</p>
+            <p>— Elisa începu:</p>
+            <quote type="letter">
+               <p>Frate Manole,</p>
+               <p>La rădăcina stejarului al cărui desemn' ți-l trimet ca să-l recunoști, am îngropat lădița cu banii furați de la arendașiul grec omorât de Rîureanu vara trecută în dosul cârciumei lui Solomonică. Fiind că oamenii aceștia cari au jefuit o lume întreagă, m-au părăsit lă-„sându-mă să fiu condamnat la munca silnică pe viață, nu voiu să le spui nimic de banii mei, ci ți-v dăruesc ție....</p>
+            </quote>
+            <p>— Ași! vorbă, e întrerupse Solomonică, tot în punga noastră intră și banii aceștia. Nu de aba doară, m-am căsnit cu Rîureanu o noapte treagă până l-am doborât pe grec.</p>
+            <p>Elisa contino:</p>
+            <quote type="letter">
+               <p>„Lădița este îngropată aproape la suprafața pământului în mijlocul pădurei, de la poteca haiducului în mâna dreaptă, zece pași de la peșteră în spre fântâna lui Moșiu Toader. Scoate-i și mănâncă i sănătos.”</p>
+            </quote>
+            <p>Elisa, sfârșind, rămase cu ochii încremeniți pe scrisoare.</p>
+            <p>— Dar ce ai rămas așa înmărmurită ne-vastă, întrebă hangiul.</p>
+            <p>— Pentru că, zău, nu știu ce să zic, dar i se pare că găsesc o oare care asemănare tre scriitura aceasta și...</p>
+            <p>— Apoi se poate să nu se asemene scriitură cu scriitură?</p>
+            <p>— Da, de cât mi se pare că seamănă cu lui Belciugățeanu....</p>
+            <p>— Vorbiși și tu. Asta e scrisoarea vre unuia din băieții lui Rîureanu care, nemulțumit se de de purtarea căpitanului că n-a vrut să igă osia juraților, scrie lui <foreign>chir</foreign> Manole să se ică să ia banii. De lădița aceasta, parcă ști-n și eu ce-va dar nu aflasem unde e îngropata.</p>
+            <p>— Câte ceasuri sunt? întrebă hangiul pe nevastă</p>
+            <p>Cuvântul acesta îngheță sângele în vinele isei.</p>
+            <p>— Doo spre-zece și jumătate. Dar de ce întrebi?</p>
+            <p>— Ca să mergem să ne culcăm, zise Solo-mică care începu să se desbrace fără să se ai gândească la scrisoarea amantului.</p>
+            <p>Abia se luminase de zio când Didina intră prăvălie și alergă la pachetul cu scrisori să-și ea pe aceea care 'i pricinuise atâta liniște în ajun. O deschise cu o nerăbdare brilă și iacă ce citi:</p>
+            <quote type="letter">
+               <p>„'Mi ai ghicit gândul. Intr-adevăr planul meu este să fugim amândoi. Am descoperit mijlocul de a sili pe tatăl d-tale să consimță la căsătoria noastră. Sunt sigur despre aceasta um sunt sigur de existența mea. Fii deseară a noo ceasuri la fereastră. Când vei auzi doo lovituri ușoare, deschide, coboară-te pe cară ce vei găsi atârnată, eu te voiu aștepta os, vom pleca împreună și cât pentru rest, Dumnezeu e mare.”</p>
+            </quote>
+         </div>
+         <div type="chapter" n="17">
+            <head>CAP. XVII. În cursă.</head>
+            <p>E groaznic câte lucruri serioase, teribiie sau. imiale se comit în viața privată sub apa-rențele cele mai comune și cele mai cinstite.</p>
+            <p>A avut multă dreptate un autor să zică des-pre viața pacinicâ de desuptul căreia mișună o lume de blestemații că este un vulcan subt flori. Aceia cari treceau în sus și în jos pe dinaintea prăvăliei lui Solomonică, cari intrau sau eșiau de la dânsul, ca de obiceiu cu o litră de zahăr sau cu cinci-zeci de dramuri de cafea, nu bănuiau nici de cum că una din cele trei persoane ale prăvăliei trebuia să fugă cu un tânăr chiar în noaptea aceea, și alta să caute în mijlocul pădurei secretul surprins în corespondența unor tâlhari.</p>
+            <p>In sfârșit noaptea sosi și sosi prea repede căci era în mijlocul iernei, dar noaptea trecu încet și greu. Didina privea pe furișiu ceasul la fie care moment. Tatăl său asemenea se ocupa de ceas cu mult interes și, ca să mai scurteze din vreme, se scula, se urca în casă unde se auzia trăgând sertarele și încercând niște pistoale. Biata Elisa care cunoștea foarte bine scopul acestor preparative, era îngrozită, căci întrevedea din instinct sfârșitul inevitabil al tutor păcatelor sale. Une ori îi venea să mărturisească totul dohovnicului dar frica o împedeca. Ar fi vrut să spue Didini dar n-o deprinsese cu aceste confidențe din pricina lui Solomonică care prevedea că or-ce apropiere ăntre mumă și fată, ar fi contra sa</p>
+            <p>Când se dete jos din odaie, se prefăcu că e vesel, ba întrebuință chiar oare care blândețe la adresa feti.</p>
+            <p>La noo fără un sfert Didina părăsindu-și locul și îndreptându-se, mai mult moartă de cât vie, spre scară, Elisa îi zise:</p>
+            <p>— Unde te duci? știi că lui tată-tău nu-i place să părăsești lucrul așa.</p>
+            <p>— Las-o, frate, să se ducă unde vrea, ce ai cu fetița?</p>
+            <p>— Credeam că te supără....</p>
+            <p>Cuvîntul de copiliță zis de prima oară de către Solomonică, atinse atât de profund pe Didina în cât puțin lipsi de nu se aruncă de gâtul tatălui său. Dupe ce cugetă un moment însă, înțelese că nu era de cât cuvîntul, cât despre sentiment lipsea cu desăvârșire.</p>
+            <p>Erau numai noo ceasuri când hangiul părăsi prăvălia spre a se duce în pădurea haiducului. Lucrurile acestea se petreceau pe la sfârșitul lui Decembrie; drumurile erau acoperite de poleiu. Pentru, un om ca Solomonică, frigul și drumul rău, nu era un obstacol serios. Făcu o poștă și mai bine în doo ceasuri așa în cât, pe la un-spre-zece și jumătate, era la pădurea Haiducului. Se gândi că-i mai trebuia vre o jumătate de ceas până lā stejarul cu pricina. Dar îndată ce înaintă puțin în năuntrul pădurei, se lăsă o ceață așa de deasă, în cât numai grație marei sale obicinuințe își putu găsi drumul. Simția din când în când câte o comoțiune nervoasă când crâ-cile îl gâdilau ușor pe la ceafă sau îi atin-geau obrazul. De odată se opri și puse mâns pe pistol zărind în depărtare sau părindu-i-se că zărește o lumină roșiatecă ca aceea care ar țîșni dintr-o lampă.</p>
+            <p>Ajunse în sfârșit la stejarul cunoscut. Intunerecul era așa de mare în cât nu-ți vedeai degetele. Aci energia îl părăsi cu desăvârși și el, Solomonică, căruia nici o dată nu 'i fost frică în viața lui, începu să tremure Simți că-i e cu neputință să se servească de ar în caz d-a fi atacat. Aceasta însă nu dură cât un moment, căci numai de cât hangiul, venindu-și în fire, începu să sape cu o caz mititică pe care o adusese d-acasă. In câte-va minute făcu o groapă de doo-trei palme. Ce va să zică asta? se întrebă el cu mirare, ștergându-și fruntea, nu văz nimic. Scrisoarea spu-ne să sap de o palmă, eu am săpat de doo degeaba! Incepe din nou, sapă adâncește lărgește groapa, nimic, aceași decepțiune.</p>
+            <p>Se hotărăște să puie mâna pe sapă a treia ră, când zări apropiindu-se lumina cea roșiatecă pe care o văzuse din depărtare. Puse mâna pe pistoale, se întoarse. vrea sa tragă când.... pe cine vede înaintea lui? pe Iorgu lu Didina. Se trage înapoi pistolele îi scapă in mâini, vrea să vorbescă dar glasul 'i se stinge în gât și cade rezemându-se de stejar.</p>
+            <p>— Nu e comoară, îi zise rece Iorgu. Nu e ici o lădiță. Scrisoarea am făcut-o eu ca să te trag în cursă fiind-că știam că le deschizi știam asemenea că ești tovărășiu cu Rîureanu și cu alți bandiți. Mai știam încă că împreună cu aceștia ai omorât pe grecul și că îndată e voi face o scrisoare ca venind din partea unui fost tovarășu, ai să cazi în laț. Toate acestea le am simțit din ziua când 'mi ai deschis scrisoarea și ai oprit paralele pe care le trimeteam mami. Convingerea sigură însă am căpătat-o când am simțit că citești corespondența dintre mine și fata d-tale.</p>
+            <p>— Intre fata mea și d-ta! zise Solomonică căruia îi clănțăneau dinții.</p>
+            <p>— Da, între mine și fata d-tale, eu sunt dezertorul care 'i scria, acela pe care 'l iubeș-</p>
+            <gap n="[missing]" unit="page"/>
+         </div>
+      </body>
+   </text>
+</TEI>

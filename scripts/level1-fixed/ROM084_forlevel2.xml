@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ROM084" xml:lang="ro">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>În anul 4000 sau o călătorie la Venus: ELTeC Edition</title>
+            <author>Anestin, Victor (1875-l918)</author>
+            <respStmt>
+               <resp>codare ELTeC</resp>
+               <name>Ioana Lionte</name>
+            </respStmt>
+            <respStmt>
+               <resp>corectare manuala</resp>
+               <name>Manuela Ursu</name>
+            </respStmt>
+         </titleStmt>
+         <extent>
+            <measure unit="words">21717</measure>
+            <measure unit="pages">84</measure>
+         </extent>
+         <publicationStmt>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+            <date when="2022-03-02"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/4.0/"/>
+            </availability>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.3543111">ELTeC-rom</ref>
+            <ref type="doi" target="https://doi.org/10.5281/zenodo.4662599">ELTeC-rom release 0.9.0</ref>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="firstEdition">
+               <author>Victor Anestin</author>
+               <title>În anul 4000 sau o călătorie la Venus. Roman original</title>
+               <pubPlace>Bucuresti</pubPlace>
+               <publisher>Editura Editura rev. „Foaia populară”</publisher>
+               <date>1899</date>
+               <bibl type="printSource">
+                  <author>Victor Anestin</author>
+                  <title>În anul 4000 sau o călătorie la Venus</title>
+                  <pubPlace>Cluj-Napoca</pubPlace>
+                  <publisher>Editura Dacia</publisher>
+                  <date>1986</date>
+               </bibl>
+               <ref target="http://doi.org/10.5281/zenodo.4589224">Facsimile on zenodo</ref>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc n="eltec-1">
+         <p/>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="ro">Romanian</language>
+         </langUsage>
+         <textDesc>
+            <authorGender xmlns="http://distantreading.net/eltec/ns" chey="M"/>
+            <size xmlns="http://distantreading.net/eltec/ns" chey="short"/>
+            <reprintCount xmlns="http://distantreading.net/eltec/ns" chey="low"/>
+            <timeSlot xmlns="http://distantreading.net/eltec/ns" chey="T3"/>
+         </textDesc>
+      </profileDesc>
+      <revisionDesc>
+         <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
+         <change when="2022-03-02">Corrected errors in spacing</change>
+         <change when="2021-04-09">Converted by checchUp script for new release</change>
+         <change when="2021-03-04">Converted by checchUp script for new release</change>
+         <change when="2021-03-04">Checched by checchup script</change>
+         <change when="2021-03-04">Annotation in ELTeC format: Ioana Lionte</change>
+         <change when="2020-01-11">Ocerization by: Lucretia Pascariu</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="titlepage">
+            <p>VICTOR ANESTIN IN ANUL 4000 SAU O CĂLĂTORIE LA VENUS</p>
+         </div>
+         <div type="titlepage">
+            <p>VICTOR ANESTIN</p>
+            <milestone unit="line"/>
+            <p>IN ANUL 4000 SAU O CĂLĂTORIE LA VENUS</p>
+         </div>
+         <div type="titlepage">
+            <p>VICTOR ANESTIN</p>
+            <p>IN ANUL 4000</p>
+            <p>SAU</p>
+            <p>O CALATORIE LA VENUS</p>
+            <p>Editie îngrijită,</p>
+            <p>prefața, note bibliogrfie</p>
+            <p>de</p>
+            <p>CORNEL ROBU</p>
+            <p>EDITURA DACIA</p>
+            <p>CLUJ-NAPOCA, 1986</p>
+         </div>
+         <div type="titlepage">
+            <p>IN ANUL 4000</p>
+            <p>SAU</p>
+            <p>O CALATORIE LA VENUS</p>
+            <p>1899</p>
+         </div>
+      </front>
+      <body>
+         <div type="chapter" n="1">
+            <head>IN ANUL 4000</head>
+            <p>
+               <hi>2 aprilie</hi>
+            </p>
+            <p>ztiinta ce posedam a ajuns, în adevar, foarte departe, ea nu e insa raspindita la toată populatiunea: fiindca inteligentele nu sunt egale, urmeaza a se da fiecaruia atitea cunoștințe cîte are nevoie.</p>
+            <p>Prin secolele al XlX-lea și al XX-lea se obișnuia sa se recruteze din toate clasele societatii copii carora li se vîra cu de-a sila in creier tot felul de științe, și rezultatul era ca unii invatau ca o masina tot ceea ce li se spunea, lucru care nu avea nici o consecinta rea, dar nici buna, știinta fiind pentru aceștia un mijloc da a ajunge la un scop, pentru formarea unei cariere. Alții, mai inteligenți, ințelegînd din stiințe Cosmosul, pricepînd vanitatea vieții si a lumii fata de splendorile eteme ce-i inconjurau și de infinitul ce-i cuprindea din toate partile ca un imens voal negru, ramineau pentru tot restul vietii lor intr-o impasibilitate si neactivitate continua.</p>
+            <p>La noi, invațatura se da cu totul alftel: nu facem dintr-un om un invest pina nu vedem ca vointa pre-domină asupra inteligentei, care de asemenea trebuie sa fie dezvoltata. Sunt foarte putini insa acestia, e foarte limitat numSrul lor, caci toft savantii la un loc sunt numai 25 — afara insa de putinii pe cari îi prega-tim de acum pentru a putea intelege natura si legile ei.</p>
+            <p>Sentimentalii și cei dispuși de tineri spre pesimism au fost intotdeauna inlaturați de la invatarea și cunoaș-terea legilor neschimbatoare ale Cosmosului.</p>
+            <p>Acestera li s-au destinat cladiri și grădini marete, in care stau inchisi. Fiindca numarul barbatilot e aproape egal cu al femeilor, amindoua sexele fiind inchise la un loc, ar urma sa se perpetueze la infinit această ne-norocită clasă a omenirii. Dar noi am ingrijit să nu avem așa triste consecințe: copiii lor ii omorim prin diferite mijloace științifice chiar in sinul mamelor, fară însa sa stie ele.</p>
+            <p>Astfel, cu timpul, de unde la inceput aveam peste un milion de asemenea fiinte, inofensive de altminteri, insa care ne-ar fi impiedicat pe noi in cercetarile noas-tre serioase, au mai ramas azi numai citeva zeci de mii.</p>
+            <p>Inchișii nu sunt paziti de nimeni, caci frica ce au de noi, cei 25, e mai mare decit orice paza. Posedăm puterea electricitatii, cu ea in citeva răscoale am supus omenirea intreaga.</p>
+            <p>Clasa cealalta, a mojorității, nu mai scoate nici un cuvint de alarma: traiește linistita cu preocupatiuni ușoare, din ea se recruteaza și savanții si sentimentalii. A-i omorî pe acestia din urma nu însemneaza a face o crimă, ci a ne face datoria către știința; de altfel, moartea, ca și nazterea, nu e decit un simplu fenomen fara importanță. Noi nu mai înșelegem morala cum o înțelegeau odată rasele pierite: morala noastra e știința.</p>
+         </div>
+         <div type="chapter" n="2">
+            <head>II</head>
+            <p>PLANUL CAlATORIEI</p>
+            <p>
+               <hi>3 aprilie</hi>
+            </p>
+            <p>Cîțiva savanși cari au adus o idee noo se agita prin-tre noi de cîtva timp. E vorba de a se ști dacă am putea strabate spatiul pină la vreuna din planetele sistemulul solar.</p>
+            <p>Luna a fost lasata deoparte ca fiind improprie unei vizite a vreunui pamintean, fiindca e aproape lipsita de apa si de atmosfera. Marte ar fi una din planetele cele mai favorabile pentru o asemenea excursiune; s-a discutat insa mai mult asupra planetei Venus, ca fiind cea mai aproape de noi; caci, pe cind Marte, chiar la distant cea mai apropiată, plutește la 14 milioane le-ghe, Venus ajunge la o depărtare de numai 10 milioane leghe, o distanță deci cu vreo 4 milioane aproximativ mai mica.</p>
+            <p>Hotarînd planeta ce trebuie sa alegem — și care desigur va fi Venus, luceafarul nostru de seara si de dimineata — va trebui deci sa hotarim si modul de transport pina acolo, va trebui sa inventam si masina care sa ne arunce in spațiu, ca sa ajungem pe stralu-citoarea planeta.</p>
+            <p>
+               <hi>10 aprilie</hi>
+            </p>
+            <p>Dupa discuțiuni foarte animate care au durat timp de mai multe zile, s-a hotarit in sfirsit punerea in aplicare a unui aparat minat' de puterea electricitafii. Pe Pa-mint chiar, ne servim, pentru a ne duce in locuri mai departate, tot de astfel de aparate, dar arela cu care voim a intreprinde calatoria noastra interplanetara va suferi o transformare radicala.</p>
+            <p>Pina intr-o luna de zile e posibil sa fie gata; s-a spus despre aceasta marelui maestru electrician care, impreuna cu cinci din noi,. vom transforma aparatul zburtor.</p>
+            <p>Rasa alba n-a putut intreprinde niciodată o asemenea excursiune cereasca, insa unii din ei au imaginat ase-menea calatorii.</p>
+            <p>Asa, am in biblioteca mea mai multe volume vechi in care se trateaza despre astfel de excursiuni.</p>
+            <p>și, findca e vorba de planeta Venus, voi aminti pe chircher, cu <foreign>Itinerarium extaticum</foreign>, pe Gassendi, Fon-tenelle, Swedenborg-, Bernardin de Saint-Pierre3. Pa-rerea majoritatii acestor fantezisti e ca Venus are locuitori cu mult mai inteligenti și mai frumoși decit noi, ca acolo domnește o eternă dragoste, ba unii din ei dau si amanunte foarte interesante.</p>
+            <p>In secolul al XlX-lea, un romancier numit Jules Verne, dotat cu o imaginatiune bogata, a scris mai multe romane pe tema unor asemenea calatorii interplanetare.</p>
+            <p>In secolul al XXV-lea, Mersilli, un invatat renumit, a voit sa incerce o masina cu care sa se indrepteze spre vreuna din planetele vecine; a reușit in adevăr sa zboare de pe Pamînt, dar nu e mai putin adevărat ca a cazut pe Luna și probabil nu a avut nici un minut de cunostinșa ca sa poata privi cel putin o data spec-tacolul ce-l incon jura.</p>
+            <p>De atunci nu s-au mai încercat asemenea calatorii.</p>
+            <p>Pentru prima oara cind s-au descoperit baloanele, cel dintii care s-a urcat mai sus putin de solul nostru purta, cu literc mari, deviza: „Sic itur ad astra”.. In curind s-a văzut ca, cu toate sfortarile, nu se putea depasi nici cel putin 8000 metri din atmosfera care ne inconjoara, si au trebuit deci sa renunte și ]a baloane si la deviza cea triumfatoare.</p>
+            <p>Dar știinta mergea cu incetul spre un punct fix, nu calatorea pe aripele imaginatiunii. Si a ajuns la con-cluzia ca numai cu ajutorul miraculosului fluid numit electricitate s-ar putea comunica cu celelalte planete.</p>
+            <p>Deja de vreo suta de ani aeronefele și aeroplanele noastre strabat aerul cu iuteala-fulgerului: de ce nu am incerca, acum cind am ajuns aproape de apogeul știintei, o intreprindere cu mult mai măreata?</p>
+            <p>
+               <hi>20 aprilie</hi>
+            </p>
+            <p>Zilnic discutam asupra marei cestiuni ce ne ocupa. Planeta Venus va ajunge in mai putin de o luna la cea mai marc apropiere de planeta noastra si atunci,</p>
+            <p>6— to anul 4000 sau o călătorie la Venus</p>
+            <p>cu ajutorul miraculoasei noastre masini, vom putea spune: „Buna ziua, domnilor venusieni!”.</p>
+            <p>Ma cuprinde citeodata o asa mare bucurie, incit mă tem sa nu fiu luat drept un nebun.</p>
+            <p>Din cei 25 de membri ai inaltei si singurei Academii, suntem numai trei cari voim sa riscam orice pentru a intreprinde aceasta calStorie cereasca, asa do perico-loasă pentru niste fiinte atit de neinscmnate.</p>
+            <p>Din nenorocire, numai doi insi pot lua parte la aceastS cSIStorie. și aceasta mai mult din cauza curatirii si reinnoirii aerului, caci masina nu poate da un volum de aer suficient pentru trei persoane.</p>
+            <p>Iuteala cu care vom calători e ingrozitoare: vom merge cu o vitcză de 300 chilometri pe secunda. E de neauzit! Ce-ar zice vreun descendent al rasei albe daca ar vedea progresul enorm la care am ajuns?</p>
+            <p>Călătorind cu o iuțeala de 300 chilometri pe secunda, vom fi peste 21 minute și 20 secunde dincolo de orbita Lunei, iar peste 37 ore și 13 secunde vom ajunge la Venus.</p>
+            <p>S-ar putea insă ca repeziciunea sa scada cind vom trece in centr-ul de atracție al Lunei, dar odata scăpați și de atracția ei, e sperantă să atingem cu succes punc-tul dorit.</p>
+            <p>
+               <hi>30 aprilie</hi>
+            </p>
+            <p>Victorie! Sunt dintre cei doi cari vor avea marea onoare sa faca excursiunea cereasca la planeta vecină. Pericolul acestei călătorii nu ma sperie, din contra.</p>
+            <p>E hotărit deci. Totul e gata. Rămîne sa ne pregătim numai noi, caci faimoasa masina e aranjata să ne pri-measca.</p>
+            <p>E de o formă eliptica, mai subfiata către partea dina-inte; in partea de la urmă sunt gramădite puternicelc acumulatoare electrice.</p>
+            <p>In mijlocul proiectilului se afla o camera îngustă si tapetata cu un strat dens de bumbac.</p>
+            <p>Ca sa ne intretinem in buna sănătate, va trebui luam multe cutii cu pastile.</p>
+            <p>E curios cum putea omenirea mai inainte să intro-ducă in stomac atitea multe alimente. Citeva pastile noo ne ajung o zi sau doo.</p>
+            <p>Din cauza modului nostru de nutrițiune, organismul ni s-a schimbat cu totul: nu mai e stomacul care dom-nește, ci creierul, inteligenta. Vorbesc insa numai de cei invatați și de neofifi; intrucit privește majoritatea, ea a ramas la aceleasi obiceiuri, cu singura deosibire ca nu mai omoara animalele pentru a le minca, ci se nutrește cu produsele pamintului.</p>
+            <p>In masina mai avem ca lucruri de prima necesitate pentru o calatorie cereasca: un reflector electric, o lu-netă astronomica si o harta a planetei Venus, dupa ultimele observatiuni. Amicul și companionul meu Sait-ni iși va lua o umbrelă imensă de ploaie, caci ii e teama grozav de ploile deluviene de pe acea planetă. Mai sunt alte multe obiecte gramadite intr-o ladă, fiecare avind destinatiunea. sa.</p>
+            <p>In ziua de 10 mai vom naviga pe apele eterului ca-tre stralucitorul Luceafăr; adorat de cei vechi și așa de cunoscut noua acum in ceea ce privește configurațiunea continentelor și marilor sale.</p>
+            <p>De fiecare parte a proiectilului cu care vom călători, și care nu masoara mai mult de 7 metri in lungime și 3 metri in lărgime, sunt practicate niște ferestre duble care ne permit sa studiem vecinatățile.</p>
+            <p>Singurele obstacole ce am putea intimpina in cala-toria noastra ar fi urmatoarele: vreo deranjare in me-canismul electric, cind am fi afară din atmosfera Pă-mîntului, lucru ce ar avea de rezultat sau căderea, noastra pe Pamint, sfarimindu-ne in mii de bucăți, sau am ramine ca un al doilea satelit al Pămintului; sau vieun corp ceresc obscur, cu o masa mai mare decit a noastra, ne-ar putea asemenea sfarima; sau chiar, de vom ajunge la finta, scoborirea pe planeta Venus ar fi foarte periculoasa daca nu am putea micsora viteza vertiginoasa cu care vom fi azvirliți. Dar, după cum zicea un vechi popor european, <foreign>All right!</foreign>
+            </p>
+            <p>
+               <hi>5 mai</hi>
+            </p>
+            <p>Nu știu ce va sa zica teama, nu m-am temut niciodata, nici de oameni, nici de inflexibilele legi ale naturii; cu toate acestea, cind stiu ca numai cinci zile ma despart de plecare, simt un fior de neliniște si par-a mi pare rau de planeta ce voi părasi.</p>
+            <p>Ajuns cum e acum Pamintul la apogeul la care sc afla, știu foarte bine ca e indiferent a face parte din locuitorii unei planete sau ai alteia, insa ma tin aici o intreaga legiune de ginduri aducătoare aminte: acum inteleg puțin durerea sentimentalilor, cari plîng cu desperate cind îi despartim de iubita lor. lubita mea, acum o descopar, e planeta pe care m-am nascut si pe care poate ca nu o voi mai vedea niciodata. Niciodata! Cuvintele acestea ma irita si mă fac sa cred ca nu am omorît in noi introgul sentiment de iubire, de melan-colie, ce făcea odinioara farmecul si viata atitor po-pulation!.</p>
+         </div>
+         <div type="chapter" n="3">
+            <head>Ill</head>
+            <p>PLECAREA</p>
+            <p>
+               <hi>10 mai dim.</hi>
+            </p>
+            <p>E poate ultima zi ce mai am sa privesc aci pe Pa-mînt.</p>
+            <p>Dupa calculele făccute, la ora 11 de dimineata tre-buie sa piecam; mai sunt numai 4—5 ore pina cind imi voi mai putea vedea planeta.</p>
+            <p>Inainte se zicea satul, orasul meu, țara mea..., eu zic planeta mea.... si simțimîntul de tristețe ce mă desparte de ea e același ca si la aceia cari țineau la clopotnița lor.. ba poate chiar arc o intensitate mult mai mare.</p>
+            <p>Noroc ca nu am pe nimeni sa las in urma.</p>
+            <p>... Ah! ba da, uitasem... peste șase luni era sa iau de tovarase a vieții pe Ciarit.</p>
+            <p>Oh! ce copii drăguți si inteligenți am fi avut im-preună!...</p>
+            <p>
+               <hi>10 mai, 11 ore 15 minute</hi>
+            </p>
+            <p>Plutim in eter. De 13 minute am lasat departe de noi orbita Lunei.</p>
+            <p>Cu inima strinsă de bucurie și de intristare am apăsat pe buton si nici nu am mai avut timpul sa văd pentru ultima oara pe cei cari ne aclamau la plecare.</p>
+            <p>Pamîntul deveni intr-o clipa rotund; puteam distinge oarecum continentele; peste citeva ore am fi putut zări Pacificul și apoi America, dacă nu am fi lost așa departe.</p>
+            <p>Luna se arata din ce in ce mai mica, ca și Pamintul.</p>
+            <p>Departe... le lăsăm toate departe...</p>
+            <p>Stelele au o lumina pașnică rece si se disting per-fect, chiar si cele de a șasea marime. Atmosferă nu mai există pentru a impiedica razele lor, cu toate că Soa-rele tronează mindru pe cer.</p>
+            <p>Un aparat care ne mSsoara iuteala dobindită arată mereu 75 loghe pe secundă.</p>
+            <p>E o cursă spăimintător de vertiginoasa, noi insa nu simtim absolut nimic și, daca Pămintul și Luna nu s-ar face din ce in ce mai mici, am putea jura că nu ne miscăm din loc.</p>
+            <p>
+               <hi>Ora 1,30</hi>
+            </p>
+            <p>Zburam necontenit spre Soare. Pina acum nici cu nici Saitni nu ne-am uitat unui la altul, fiecare am privit pe ferestrui, admirind spectacolul impozant ce, pentru prima oara, se desfasura inaintea a doi bieți paminteni.</p>
+            <p>Ne-am uitat unul la altul mai adineauri și amindoi am avut pe buze același cuvint: „Adio, Pamînt!</p>
+            <p>In contemplatiunea noastra, uitasem sa activam for-marea aerului ce trebuia sa ne serveasca la respira-tiune.</p>
+            <p>In asemenea imprejurri, cele mai mici neglijențe sunt de neiertat; nu mai e vorba de viața noastra, ci de telul ce ne-am propus sa ajungem. Cum vom descinde? E o intrebare pe care nu ne-am pus-o, dar pe care amindoi o avem pe buze. Ce vom gasi acolo? Vom da oare peste o omenire civilizata, sau vom gasi o stare de sălbStcie, analoaga celei de pe Pamint, de acum citeva zeci de secole? Oricum va fi, inainte! Si nici ca putem altfel a dirija proiectilul, ci ne-am pierde in spațiu, daca nu ne indreptam spre sfera de atractiune a planetei ce voim sa vizitam.</p>
+            <p>Timpul nu mai există acum, caci el nu era decit in-ventat de noi, pe planeta pe care ne gaseam adineauri. Locuitorii ci zic un an dupa timpul cit ii trebuie Pa-mîntului de a se invirti imprejurul Soarelui, noapte sau zi — dupa rotațiunea aceleiasi planete... Dar acum?</p>
+            <p>Plutim intr-un spatiu gol... aproape făra nici un punct de reper; Soarele, doar, stralucește.</p>
+            <p>ztiam deja din teorie acestea, dar nu-mi puteam inchipui așa de bine aceste imprejurSri, dupa cum le vad acum cu ochii.</p>
+            <p>Nu mai e nici o nevoie de a indica deci ora: ce ne pasă de timpul unei planete, cind ne aflam in domeniul infinitului!</p>
+            <p>Dupa timpul nostru pamintesc, trebuie sa ajungem pe Venus la 12 ore din inoapte, insi poate vom ajunge ziua, căci ne prezintă mai mult fata cea luminată.</p>
+            <p>Mai adineauri am privit spre punctul inspre care se indreptează vehiculul nostru. Venus lucea din ce In ce mai mult si se parea rotund daca te uitai cu multă atentiune la el.</p>
+            <p>Mai avem 10 ore, dupa timpul obisnuit pe Pamînt. Deocamdata suntem locuitori ai cerului și nu am avea nevoie de timp, daca aceasta nu ar fi pentru buna ințe-legere a pămintenilor..., cind, din intimplare, am duce pina la capit intreprinderea noastra si ne-am putea in-toarce pe Pamînt, spre a istorisi Academiei noastre cele ce am văzut.</p>
+            <p>In privinta intoarcerii — cu toate ci nu ztim inci nici daci vom ajunge cu bine pe Venus — ma muncesc ginduri noi: materiile din a caror descompunere noi smulgem electricitatea, le vom gasi oare și pe straluci-toarea planeta spre care ne indreptăm? Daci ele vor lipsi? Atunci?</p>
+            <p>
+               <hi>Incă o ora</hi>
+            </p>
+            <p>Incă o ora și, totuși, suntem încă destul de departe. Venus ni se prezinta cu toată configuratiunea continen-telor zi mirilor sale: polul nord e cel mai bine de observat; pe cel de sud, nori albi aleargi cu repezi-ciune.</p>
+            <p>De-a lungul ecuatorului se zărește o fîsie lungă, verzuie... e o mare... cea dintîi văzută si de pămîn-teni, încă de pe timpul lui Bianchini, care a schitat cel dintii configuratiunea acestei planete.</p>
+            <p>Repeziciunea cu care ne indreptam e constanta.</p>
+            <p>Aparatul cu ajutorul ciruia avem aerul trebuincios functioneaza de asemenea bine; pe nesimtite se apropie momentul cel mai pcricolos: acela al coboririi — sau al suirii, cum veti voi sa ziceți, căci in spatiu nu există nici sus nici jos.</p>
+            <p>Daca ne vom zdrobi de vreo stinca a vreunuia din inaltii munți de cari planeta e brazdata?</p>
+            <p>Tovarașul meu, cu care am vorbit foarte putin, imi impartSseste temerile sale in privinta descinderii.</p>
+            <p>Amindoi insa avem același dispret pentru moarte, ba inca am dori o asemenea moarte, in locul unei morti liniștite in pacea casei noastre de pe planeta Pamînt.</p>
+            <p>E un moment prea însemnat pentru a nu ne pastra tot singele rece si toata judecata de care suntem ca-pabili.</p>
+            <p>Intorsei rcpede butonul de mai multe ori, slabind intensitatea curenților cari se duceau si-veneau de la un capat la celalalt al proiectilului; efectele micsorarii vitezei le-am simtit numaidecit, planeta ce mai adi-neauri venea inspaimintatoare inaintea noastră, ca un monstru care avea să-și inghita pe loc prada, a inceput să-și micsoreze iuțeala: in fond, proiectilul nostru cel care merge mai incet, dar aparentele inșeala intotdeauna. Mi-aduc aminte cite mii de ani le-au trebuit oamenilor ca sa constate ca Pamintul e rotund și ca nu Soarele se învîrtește împrejurul Pămîntului, ci aces-ta imprejurul Soarelui.</p>
+            <p>Un glumet spunea de cei cari credeau ca Soarele se învîrtește imprejurul Pămîntului, ca se aseamana în-tocmai cu cineva care ar zice ca, punînd sa frigi un pui intr-o vatră, e mai ușor sa se învîrtească vatra, casa, orașul, Pămîntul in jurul puiului, ca focul sa vie din toate partile spre pui, decit sa zici ca învârtești puiul in jurul frigării spre a-i intoarce toate partile spre caldura.</p>
+            <p>La polul nord al planetei se zăresc citeva pete albe izolate: trebuie sa fie zapada care nu are o așa de mare intindere cum are aceea de la polii nostri.</p>
+            <p>Ne apropiem mereu. Acum, nu mai e voința noastra: acum, ce vor voi legile fatalitații!</p>
+         </div>
+         <div type="chapter" n="4">
+            <head>IV</head>
+            <p>PE VENUS. OAMENII-PĂSĂRI</p>
+            <p>Sunt eu sau visez?! Am putut noi oare sa ajungem cu bine pe o alta lume?! O lume așa de indepartată de a noastră!</p>
+            <p>Sa incerc a nota, cum voi putea, ceea ce ni s-a in-tâmplat de la venirea noastra pe Venus.</p>
+            <p>Teama noastra cea mai mare era, dupa cum am mai spus-o, sa nu firn aruncati cu putere de vîrful vreunei stinci, de care ne-am fi zdrobit cu siguranta.</p>
+            <p>Cind am socotit ca nu ne mai despart decit citeva secunde de planeta, am oprit cu totul functionarea cu-rentelor electrice si am lasat masina sa cadă din pro-pria sa greutate.</p>
+            <p>Pe Pamînt, un corp care cade in prima secunda par-curge 4,90 m.; pe Venus — 4,45 m.: e o diferenta prea mica, dar totuți exista una.</p>
+            <p>Noi insa aveam o viteza dobîndita de mai inainte; comptam insa pe rezistenta ce va trebui sa intimpinam din partea atmosferei lui Venus, care ar opune cu atit mai multa rezistenta cu cit ultimele paturi care inva-luie solul sunt cele mai dense.</p>
+            <p>In adevar, aceasta a fost o mare fericire pentru noi, si o alta imprejurare, mai fericita, a fost aceea ca in loc de a cadea pe virful vreunei stinci, sau chiar pe sol, am fost azvirliți in linie oblica intr-una din medite-ranele care inconjoara ca un brîu ecuatorul planetei.</p>
+            <p>Ne-am sprijinit fiecarc intr-un colt, dupa ce avuse-sem grija a ne fixa cit mai bine instrumentele de care ne servisem, și, orbiti de razele cele vii ale Soarelui, aeateptam...</p>
+            <p>Cind ne-am aruncat in acea mare nu am simtit nici o zguduitura puternica, ba, dupa citeva secunde, parea ca plutim tot in eterul pe al carui drum venisem.</p>
+            <p>Ne-am oprit.</p>
+            <p>Am stat astfel in fundul marii vreo 10 minute numai.</p>
+            <p>Asteptam, cu o liniște de care ne miram singuri. Dupa socotelile noastre, marea in care ne aflam nu putea fi adinca.</p>
+            <p>Trebuia insa cautat mijlocul de a iesi cu bine afara aceasta nu era tocmai ușor, ba era chiar imposibil, prin propria noastră vointa si putere.</p>
+            <p>Pe cind ne framintam mintea cu asemenea lucruri, am simtit cum ne mișcam din acel loc, in sus. Ușor... ușor... am inceput sa zărim cerul albastru.</p>
+            <p>Cind ne gisirm pe uscat, am deschis cu precautiune singura uscioară prin care puteam iesi și respiraram un aer ca și al nostru... dar, din cauza unei calduri mai mari decit aceea cu care eram obișnuiti, care fă-cea aerul mai greu de respirat, am pierdut amindoi cunoștința și am căzut jos, mai inainte chiar de a putea ieși din proiectilul nostru.</p>
+            <p>Singura priveliște ce-mi aduc aminte ca am vazut, ca un tablou magic, a fost aceea a unui cer albastru pe care alergau cu iuteala nori albi.</p>
+            <p>In departare se zareau virfuri de munti.</p>
+            <milestone unit="unnumbered"/>
+            <p>Cind m-am trezit, ma aflam intr-un fel de sala imen-sa de forma ovala, cu zidurile goale, fara cea mai mica podoabă. Prin pereti se aflau practicate vreo zece fe-restre mici, prin care se zarea cerul. Atari era o lu-mina orbitoare.</p>
+            <p>Alaturi de mine era companionul meu: dormea inca.</p>
+            <p>M-am frecat bine la ochi si m-am sculat in picioare. Eram mai ușor ca niciodata: mi se parea ca, daca voi face un pas, voi putea zbura din loc. Mi-adusei aminte numaidecit că gravitațiunea pe Venus e mai mică decit pe Pamint. Afara,de aceasta, am observat ca sunt tot asa de gol ca si un om care se îmbaiaza.</p>
+            <p>In sala — nimeni... Privii pe una din feresti: o lumina orbitoare... La orizon erau niste nori negri cari se afundau cu repeziciune.</p>
+            <p>As fi voit sa vad Soarele, dar — deși era o lumina intensa, de abia puteam zari terenul — totuși nu 1-am putut vedea. Imi explicai cauza gindind ca ferestrele erau indreptate spre miaza-noapte.</p>
+            <p>Spre miază-zi era deci intrarea; dar nu as fi in-draznit să fac un singur pas afara din sală, de teama ca nu cumva să fiu asfixiat de atmosfera cea greoaie și de caldura cea coplesitoare ce trebuiau sa domneasca.</p>
+            <p>Deja in sală era-o caldura destul de mare zi sufcream intrucitva de aceasta, cu toate cS eram gol. Tovarasul meu era in aceeasi toaleta.</p>
+            <p>Am inceput apoi sa-mi fac felurite ipoteze asupra fiintelor care ne adusesera acolo și care ne transporta-sera cu atita ușurintă.</p>
+            <p>De ce nu se arată nimeni? Suntem oare prizonierii vreunei natiuni razboinice si sălbatice? și, din intim-plare, antropofage — imi ziceam eu.</p>
+            <p>Saitni, companionul meu, face o mișcare... ma re-ped spre el... dar ma trezesc mai departe decit aș fi voit să fiu... Ma intorsei ușor și, punindu-i mina pe umar, il mișcai putin.</p>
+            <p>— Saitni!</p>
+            <p>Saitni isi intinse bratele ca dupa un somn lung si, cu greu, imi raspunse:</p>
+            <p>— Ce e?</p>
+            <p>— Desteaptă-te.</p>
+            <p>— ședințele incep mai tirziu... e destula vreme... lasa-mă sa mai dorm puțin, Ralta.</p>
+            <p>— Nu e Ralta... sunt eu... Asales...</p>
+            <p>Saitni deschise ocahii mari și fu in picioare intr-o cli-pita.</p>
+            <p>— Pe Venus?... Nu e așa?..striga el.</p>
+            <p>— Pe Venus.</p>
+            <p>— Traiască marina noastra!...</p>
+            <p>și, ca un nebun, incepu sa sara prin sala, oprindu-se indată mi-rat de prea multa ușurinta cu care se in-virtea.</p>
+            <p>Dupa ce se mai liniști, am inceput să discutam asu-pra locului unde ne aflam.</p>
+            <p>— La dracu! Nu cumva ne-au inchis aci domnii din Venus?</p>
+            <p>— Nu știu ce vor cu noi, raspunsei, dar mai bine să asteptam linistiti.</p>
+            <p>Lumina zilei incepu să slăbeasca: norii de la orizon disparuscra cu desavirsire; cerul lua o infatișare sum-bra.</p>
+            <p>Peisajul ce se desfasura inaintea noastra avea-totul pentru a fi pamintesc, totusi nu-mi aduc am into să mai fi văzut o asa pozițiune pe Pămînt, cu care sa o pot ascmăna.</p>
+            <p>Mai intii, albastrul cerului, chiar dupa ce Soarele apusese, era foarte intens, cum nu se poate vedea nici in regiunile ecuatoriale ale Pamintului, si aceasta desi-gur din cauza atmosferei celei dese ce inconjoara aceas-tă planeta.</p>
+            <p>Ca sala noastra am zarit mai multe, puse toate pe dcaluri inalte, la poalele carora se intindea o nemargi-nita mare verzuie pe care nu se vedea nimic plutind.</p>
+            <p>In aer de asemenea nu se vedea nici o pasăre.</p>
+            <p>Era o natura splendida, dar fara cea mai mica umbra de viatA; nici marea cea intinsă nu-și incoltea oglin-da-i cu sbircitura vreunui val.</p>
+            <p>Crepusculul fu lung, de o duratA aproape inca o data cit a acelui de pe Pamînt.</p>
+            <p>Deveniseram nerăbdători. In sală incepuse să se in-tunece. Pe cer se aratau deja stelele de intiia si a doua mă-rime.</p>
+            <p>Deodata se auzi un zgomot usor. Dintr-un ungher ascuns al salii inainteaza spre noi niste ființe ciudate, purtînd in miini diferite lumini — albastre, roșii, verzi etc. —, lumini care nu provcneau din vreo ar-dere,' ci erau niste simple fosforescente intense.</p>
+            <p>La lumina lor am putut zari pe cei cari le purtau.</p>
+            <p>Lucrul care mi-a atras privirea intii a fost lipsa de brațe si inlocuirea lor cu aripi, la acele ființe.</p>
+            <p>Corpul lor era foarte slab și acoperit cu un fel de pene, picioarele de asemenea subțiri și aproape negre, capul cu toate acestea dezvoltat aproape ca al nostru.</p>
+            <p>La prima imprcsie, te faceau să-i com-pari, fara de voie, cu pasarile mari pămîntești.</p>
+            <p>De aripi se serveau ca de miini și pe ele purtau acele lumini asa de placute la vedere.</p>
+            <p>Erau vreo zece indivizi de felul accsta.</p>
+            <p>Toți ramasera la o distanță oarecare, privindu-ne lung si cu curiozitate.</p>
+            <p>Micii lor ochi, luminați de luminile ce purtau, ma iritau.</p>
+            <p>Unul-din ei, ca si cum ar fi priceput nerabdarea mea, mă lua usor cu aripa si ma conduse catre locul de unde venise; un altul fu tot asa de amabil cu Saitni, care nu-și mai venea in fire de mi-rare.</p>
+            <p>Am iesit cu toți afara din imensa sala.</p>
+            <p>Spectacolul ce mi se infatisă inaintea ochilor ora din cele mai splendide</p>
+            <p>Ne aflam pe o terasa destul de ridicata deasupra nivelului marii... inaintea noastra aveam iarasi ma-rea: atpnci imi inchipuii ca ne aflam pe o insula.</p>
+            <p>Se innoptase.</p>
+            <p>Stelele sclipeau strălucitoare, pastrind aceleasi con-figuratii ca vazute de pe indepărtata noastra planeta.</p>
+            <p>Calea Laptelui mergea sa se-cufunde in marea cea ntinsa si liniștită, inconjurind cerul cu semicercul său de pulbere argintie.</p>
+            <p>Gemenii, Orion, Sirius... straluceau cu toată pute-rea razelor lor.</p>
+            <p>Deodata privirea mi se opri mirată; Jupiter plana in Gemenii, alb si limpede... In Cancer, insă, se afla o stea mai strălucitoare, un luceafăr... Saturn nu putea fi, caci ar fi fost mai mic vazut si are o culoare plumburie... Marte — nu, căci e roșiatec... Ce pla-netă era deci?... Vreo stea noo, poate!...</p>
+            <p>Nu, era Pămîntul!... Pămîntul pe care-l părasisem cu atitea speranțe, si cu atit regret însa...</p>
+            <p>Era Pamîntul, care stralucea pe cerul lui Venus ca, un splendid luceafăr verzui.</p>
+            <p>La un gind eram si eu si Saitni care, cu vocea tre-murind de emotiune, șopti, indreptind mina spre par-tea cerului unde se afla lucitoarea planctă:</p>
+            <p>— Pămîntul nostru!</p>
+            <p>Alături — o mică stea: era Luna...</p>
+            <p>Atunci imi adusei numaidecit aminte de instru-mentele astronomice ce adusesem cu noi... si bine-înțeles ma mirai că nu-mi văd masina.</p>
+            <p>Dar cum sa mă inteleg cu asemenea fiinte, care di-fera cu totul de mine?!</p>
+            <p>Nu remarcasem inca intre ei nici o conversatie, nici o vorbă șoptită cel putin.</p>
+            <p>Teamă insă nu ne inspirau acele fiinte, din contra: din cauza lungilor lor aripi de o albeață incomparabila, păreau niște arhangheli pictati — lăsind insă la o parte figura lor cam urita — judecind pamînteste. Si cauza uriteniei lor era nasul extrem de lung ce aveau, ochii cei prea mici. Un venusian de linga noi, vazin-du-ne cum ne uitam in jurul nostru ca și cum am fi cautat ceva, se repezi ca un fulger in spașiu, fu urmat de un altul, si amindoi dispărura, lasind in fuga lor inchipuirea unei dungi roșii.</p>
+            <p>Saitni era totdeauna glumet de felul lui, și impre-jurarile nu-l schimbasera deloc. La un moment dat, izbit de solemnitatea tacerii ce domnea in jurul lui, se repezi pina in mijlocul terasei și de acolo, cu o voce tunatoare, spuse cele ce urmeaza:</p>
+            <p>— Venusieni! Patria noastra e acea verde stea ce lucește pe cerul vostru așa de splendid. De acolo am venit noi pe aripele fulgerului și tot asa, poate, ne vom intoarce. Va vom spune lucruri de veti ramine cu gu-rile cascate, dacă din intimplare veți ințelege ceea ce vă vom spune... dar, pină atunci, dați-ne masina noastra, caci in ea avem tot ce ne trebuie, și mai ales alimente... Nu cred ca veti fi atit de nemiloși ca sa ne lăsati sa murim de foame!</p>
+            <p>Venusienii, bineînțeles, erau uimiti de gesturile ami-cului meu, dar erau departe de a ghici ceea ce el debita cu atita caldură si foame.</p>
+            <p>Frumosul fu insa ca, in același moment, venusienii cari plecasera se reintoarseră purtind pe cite o aripa masina noastra, pe cind cu cea libera taiau spațiul.</p>
+            <p>— Drace! Ciudata putere! exclama Saitni si apoi amindoi, foarte nerbdatori, cercetaram marina ca sa vedem dac nu-i lipseste ceva. Totul era intact, nici un resort stricat, singur cronometrul isi daduse sfirsi-tul. In schimb aveam ceasornicele de buzunar, pe care le gasiram in haine.</p>
+            <p>Desigur, venusienii ne dezbracasera de haine, pe care le pusesera in masina, fiindca am fi suferit prea mult de caldură.</p>
+            <p>Ne supara insa multa curiozitate cu care domnii lo-cuitori ne priveau, nedind macar nici un sunel prin care am fi putut judcca limbagiul lor.</p>
+            <p>Am scos afara din mașină tot ce ne trcbuia pentru observatiunile noastre astronomice. Nu puteam rezista la tentațiunea de a ne vedea imediat planeta indepar-tată ai carei fii eram.</p>
+            <p>Imi montai repede una din lunete și o indreptai deci spre planeta Pamînt.</p>
+            <p>Era inters spre noi tocmai continental vechi. Africa se distingea perfect, singura partea de sus, unde Medi-terana o desparte de Europa, era estompata și contu-rul pe alocurea era vag. In Europa se distingeau numai părțile meridionale, ca Spania, Italia si intrucitva Peninsula Balcanica, restul era de asemenea de un alb-cenușiu. Asemenea, se vedea o mare parte din Asia occidentala, Siberia era insa cu totul nedeslușita.</p>
+            <p>Am dat rindul lui Saitni, sa priveasca și el acel spectacol splendid, pe cind venusienii ne priveau din ce in ce mai curioși, deși cu multa umilinta.</p>
+            <p>Incepuse să ne fie cam frig. Demontaram lunota, am strins cu grija toate părtile și, puind-o la locul ce ocu-pase, ne luaram hainele.</p>
+            <p>Fara ca sa știm și chiar fără sa mai avem vreme de a ne impotrivi, ne-am trezit așezați fiecare pe spatele unui venusian și, cu intreg cortegiul de venusieni ce se afla, am pornit.</p>
+            <p>Cu aripile lor cele mari și albe loveau aerul, spin-tecând spațiul cu repeziciune.</p>
+            <p>Luminile ce purtau ne luminau perfect calea si puteam chiar distinge solul deasupra caruia zburam. zi erau nenumaratele cirduri, ca al nostru, de oameni-pă-sari, cari purtau asemenea lumini de toate culorile. Parea ca locuitorii acelei planete iși dadusera cu toti intilnirea. in acea seară, in locuride unde ne aflam.</p>
+            <p>Tot atunci am putut remarca o multime de păsari mici, aproape asemănătoare cu cele de pe Pamint, care umpleau aerul cu strigătele lor ascufite.</p>
+            <p>Sala ce parasisem era cioplita chiar in stinca. Nu-i intelegeam bine scopul pentru care era facuta, caci-venusienii ne lasasera numai pe noi in ea: daca ar fi fost un loc de adapost pentru ei, de ce nu au stat cu noi?</p>
+            <p>Dar aceste detalii, așa de neinsemnate, nu erau nimic pe linga problemele ce ni se iveau la fiecare pas inaintea noastra si pe care tocmai tirziu le-am putut in adevar intelege.</p>
+            <p>Inaintea noastra la orizon se inalțau coame de munți: intr-acolo era desigur un continent intins, nu un arhi-pelag, dupa cum vazusem de la venirea noastra pe planeta.</p>
+            <p>Dar nu intr-acolo ne indreptaram noi, căci, dupa ce ocoliram un inalt deal, ne indreptaram inspre miaza-zi.</p>
+            <p>Zborul conducatorilor noștri era neinchipuit de lin, aripile lor taiau cu putere aerul și un singur avint le ajungea sa strabata citeva zeci de metri. Nici o sfor-tare, nici o munca, aripele se desfasurau automatic, faceau un semicerc lung, apoi veneau la loc, pentru a se deschide iarasi.</p>
+            <p>De noi nici nu pareau incurcatf, bravii oameni, cu toate ca corpul lor era aza de curios construit și asa de fragil in aparenta, incit ai fi crezut că se va fringe in orice moment sub greutatea corpului tau.</p>
+            <p>Zburam mereu... zburam necontenit... dar ce m-semna oare iuțeala cu care oamenii-pasari ne condu-ceau, comparind-o cu aceea cu care venisem de la Pămînt?!</p>
+         </div>
+         <div type="chapter" n="5">
+            <head>V</head>
+            <p>VENUSIENII</p>
+            <p>Oriunde ne aruncam privirile vedeam numai mii de acele lumini fosforescente, de care purtau și conduca-torii noștri.</p>
+            <p>Inaintea noastra departe, mult departe, se zărea un intreg popor de lumini, și aripi albe reflectau in spa-țiu lumina cea curioasa.</p>
+            <p>— Desigur e o petrecere, la care suntem invitati, imi zise in graba Saitni, care tocmai trecu inaintea mea din cauza unei lovituri de aripi mai puternice a conducatorului sau.</p>
+            <p>Inaintea noastra se desfasura un tablou curios și splendid.</p>
+            <p>Locul unde se aflau acele mii de lumini era o in-sula, insa o insula mai mare decit toate cele pe care le vazusem mai inainte; in partea spre care inaintam noi se aflau niste coline așezate in forma de terase; pe virful ultimei terase se afla o sala identica cu aceea in care ne desteptasem.</p>
+            <p>Necazul meu era insa mare ca inca nu ddusem peste clădiri care sa-mi dovedeasca ca Venus e locuită de o omenire civilizata. Oare numai acele soiuri de ființe care ne conduceau erau locuitorii planetei? Atunci civi-lizația venusiana e spre decadere sau abia la incepu-tul ei!</p>
+            <p>Pe cind faceam diferite reflexiuni asupra locuitori-lor din Venus, conducatorii nostri ne depusera cu o gra-ție extrema pe una din terasele colinei si apoi se retra-sera foarte respectuos deoparte.</p>
+            <p>Terasa pe care descinsesem putea sa aibă vreo 50 de metri lungime și vreo 20 de metri lațime; deasupra era o altă terasa, mai mica.</p>
+            <p>Spre adinca noastra mirare, ne aflaram in fata a sute de fiinte care se deosibeau prea puțin de noi.</p>
+            <p>Fiintele ce noi luasem drept venusieni ce erau deci?</p>
+            <p>Adevărații venusieni ne semanau intocmai, numai pielea le era prea roșiatecă, si in general toti aveau ochii extrem de mici. Nasul lor era, fără deoscbire, acvilin adus.</p>
+            <p>Ce raport era, deci, intre aceste doua omeniri deo-sibite?</p>
+            <p>In locul aripelor ce purtau ceilalti, acestia aveau miini, ca si noi, dar foarte subtiri si noduroase. Picioa-rele le erau, de asemenea, extrem de subtiri: se apro-piau foarte mult de acelea ale primilor locuitori ce vazuserăm.</p>
+            <p>Unul din ei se apropie usor de mine si, luindu-ma de mină, imi arăta spre cer. In ochii acestuia, ca si in ai celorlalti cari il inconjurau, se citea inteligenta. Erau uriti cu totii, dar erau foarte simpatici. Cind imi arată cerul cu mina, intelesei numaidecit ceea ce voia să stie și, cu voce tare, ca si cum ar fi putut intelege ceea ce-i spuneam, indreptai mina spre planeta Pămînt ce se inălțase mult pe cerul venusian, și zisei:</p>
+            <p>— Venim de pe acea planetă.</p>
+            <p>Acel care ma intrebase cu un gest așa de eloevent, cum și ceilalti toti cari il inconjurau, pareau foarte mirati si priveau spre mine cu neincredere.</p>
+            <p>— <hi>Lan</hi>... spuse tare interpelatorul meu, aratind verzuia stea.</p>
+            <p>— <hi>Lan</hi>... repetara ei toti.</p>
+            <p>In acelasi moment, el se aplecA și lua dintr-o ladă o pinza pe care se afla o harta. Mi-o arată surizind ușor.</p>
+            <p>— <hi>Lan</hi>... mai zise el, arAtind cind planeta PAmint, cind harta ce avea in mina.</p>
+            <p>Ma uitai cu atentiune pe hartă...: era continentul vechi intreg; apoi, desfăsurind harta mai mult; conti-nentul nou.</p>
+            <p>Aceste harți insa erau atit de bine desemnate, si cu atita preciziune, incit nu ne-am putut retine, nici eu nici Saitni, o esclamatiune de mirare. Va sa zica, venu-sienii au ajuns la un grad inalt al stiintei cosmosului. Imi inchipuii numaidecit ca lunetele cu care s-au fa-cut observatiunile necesare la formarea hartilor trebuie sa fie formidabile si asteptam cu nerabdare sa vad un observator astronomic.</p>
+            <p>Cautai pe harta locul do unde plecasem de pe Pa-mînt, loc situat la vreo 10 chilometri departare de Paris, un vechi oras curopean: unde a inflorit civilizația europcana odinioara, azi valurile marii lovesc cadentat ruinele trecutului. Arătai cu degetul locul de unde ple-casem si interlocutorul meu — daca as putea zice asa, - deoarece nu ne intelegeam decit prin gesturi — ma batu ușor pe umar, ca semn ca a inteles.</p>
+            <p>Pricepui intrucitva rolul ccleilalte rase, aceea pe care o vazusem intti, dupa modul respectuos in care se purta fata de cei din urma. Oamenii-pasari stateau la oare-care distanta, cu ciocul-nas aplecat cu umilire. Aveau oare vreo inteligenta acele fiinte?</p>
+            <p>La un moment dat, un individ-pasare aduse o cutie lungă pe care o depuse cu umilinta la picioarcle noas-tre. Ceea ce era mai ciudat pentru noi era modul cum aripele inlocuiau perfect miinile, ba inca aveau in ele mai multa putere decit avem noi in brațe. Cel cu care ne intelesesem se apleca spre cutie, o deschise si scoase din ea un fel de sticla curioasă. Taiata intr-un mod geometric cu totul ciudat, acea sticla nu parea a fi bună de altceva decit de a admira maiestria cu care era lucrata.</p>
+            <p>Venusianul mi-o dete in mina si-mi facu semn să ma uit spre Pamint</p>
+            <p>Dupa o prealabila cercetare, in care avusei timp sa admir milioane de sori noi ce aparcau prin puterea sticlei, găsii Pamintul.</p>
+            <p>Ma asteptam sa-l vad marit întrucitva, dar nu cre-deam sa-l pot vedea asa de mare. E stiut ca nici in lunetele noastre astronomice nu poti vedea un astru in intregimea lui si, cu cît ocularul va avea o mai mare putere, cu atit vei vedea un spatiu mai mic, insă portiunea vazuta fund foarte detaliata. Judecind dupa lunetele noastre pamintești, sticla ce aveam in mină marca sau apropia un obiect de doua mii de ori. Pe cind noi, cu toata perfectiunea la care am ajuns, nu am putut inlatura atitea mașinarii pentru montarea unei lunete, locuitorii din Venus privesc foarte comod Cosmosul printr-o singura sticla.</p>
+            <p>Continentele Pamintului prezentau o configurate foarte bine deslușită și aveau o culoare verzuie, pc cind mrile si oceanele apareau sumbre.</p>
+            <p>Era, in adevar, ceva ingrozitor pentru intcligenta noastra: cum so putea ca o asemenea sticla sa aibă atita putere?</p>
+            <p>Prietenul meu incerca și el de asemenea o alta sticla și rămase extaziat ca și mine. Intr-un moment de en-tuziasm, dadu cu palma peste pintecele venusienilor, exclamind:</p>
+            <p>— Sunteți oameni ori draci?</p>
+            <p>Ce e drept, Saitni era cel mai certat cu regulele bu-nei-cuviințe din Academia noastră. Era de o natură vesela si adeseori veselia aceasta ii atragea observatiile colegilor cari il blamau, spunindu-i ca, pentru un om de știinta, nu e destul de serios.</p>
+            <p>Venusianul meu rămasese cam mirat de gestul lui Saitni, dar mai mult va fi gindit ca un gest de ad-miratie extrema a-acestuia.</p>
+            <p>Timpul trecea insa iute pe cind contemplam in ex-taz astrele cerului, inarmați cu un asa ochi puternic. Stelele incepeau sa pălească, la orizon cerul se albise si aparuse spre rasărit un luceafar rosiatic. Era aproape să nu-l recunosc: Luceafarul scînteitor de lumini nu era altul decit planeta Mercur, care de pe Pamînt abia se zarește citeodata, de cele mai multe ori fiind con-fundat cu razele Soarelui. Deși cel mai mic din toate planetele care se invirtesc in jurul astrului-rege, Mercur vazut de pe Venus e admirabil.</p>
+            <p>Pe cind contemplam răsarirea acestei planete, o mul-țime de oameni-pasari zburau din toate partile catre insula pe care ne aflam: veneau cu zborul fulgerului mii si mii. Luminile ce purtau cu ei, palite si ele de aurora, se asemănau cu stelele-ce mureau incet pe cer.</p>
+            <p>La un semn al celui cu care vorbisem, miile de oameni-pasari se aplecara spre pamint, pastrind aceasta pozitiune pină cind venusianul nostru ispravi o ruga-ciune, in care desigur invoca o divinitate cereasca, caci arata mereu spre cer și mai cu seama spre răsaritul care incepuse sa se inroseasca.</p>
+            <p>La lumina vaga a aurorei, venusienii imi parura si mai uriți.</p>
+            <p>La niste vorbe ale venusianului, oamenii-pasari, ca un stol speriat de porumbiei, se imprastiara in diferite puncte ale planetei.</p>
+            <p>Rmasesem pe terasa numai eu, Saitni si venusianul nostru, insotit de alti doi. Mai departe, foarte umiliti, stateau asemenea vreo zece oameni-păsări.</p>
+            <p>Venusianul facu un semn oamenilor-pasari cari as-teptau deoparte in cea mai mare umilință, și iata-ne asezati citeșicinci pe spatele a cinci oameni-păsări cari iși deschisera aripele lor mari si iși luara zborul.</p>
+            <p>De asta data insa iuteala cu care zburau era foarte mare, din cauza temerii de a nu apuca soarele deasupra orizonului. Iuteala cu care zburam era aproape sa ma faca sa lesin.</p>
+            <p>Zburam aproape de suprafata marii, care era foarte linistita. Citeodata conducatorii noștri atingeau cu vir-ful lungilor lor aripi albe apa marii, dupa cum fac rindunicile noastre voioase.</p>
+            <p>Soarele inccpuse sa rasara, un soare enorm, care părea ca imbrățișează cu masa lui intreaga parte a rasaritului.</p>
+            <p>Se poate inchipui ce efect trebuie sa producă asupra cuiva un rasărit de Soare pe Venus, știind că Soarele o de doua ori si ceva mai mare văzut do pe acea planeta. Ca sa-mi esplic si mai bine de ce Soarele e asa formidabil la orizon, imi adusei aminte ca, desi atmo-sfera lui Venus c compusa din același gaz ca șia noas-tră, are insa o densitate de doua ori mai mare și cu-prinde mai multi vapori de apa.</p>
+            <p>Stincele ce intrezarisem in prima noastra călatorie spre nord, le aveam acum dinaintea ochilor. Era un intreg oras de săli ca acelea de unde ne deșteptasem, toate practicate in stincile care predominau asupra celorlalte.</p>
+            <p>Cum am ajuns pe linga ele, am intrat intr-una din acele sali.</p>
+            <p>Era una din cele mai spațioaase — puteau incapea mii de oameni in ea — și domnea o racoare continua care se datorea mai ales izvoarelor ce șipoteau pe ici și colo din stinca, izvoare care adumndu-se la un loc mergeau sa se verse afara in mare printr-un canal.</p>
+            <p>In fundul sălii era ridicata un fel de estradă, tot de piatra; de jur imprejurul ei erau niste firide practicate in zid, in care se aflau lungi suluri de pinza.</p>
+            <p>Erau deja multi venusieni adunați acolo în curiozi-tatea mea, aș fi dorit sa vad o venusiana, ca sa pot stabili o comparatie intre cele doua sexe. Erau atîția cari discutau cu oarecare aprindere, uitindu-se mereu cu micii lor ochi spre noi, dar nu puteam zice: „Iata o venusiana!”. Imi inchipuiam totuși că, ajunsi la o cul-tura mai indepărtata ca a noastra, femeia va urma să ia parte și ea la discutiile științifice asupra Cosmosului.</p>
+            <p>Așezați pe niște trepte lungi care coduceau la es-trada, eu Saitni asteptam cu nerabdare ce se va mai întîmpla si ce vom mai afla nou. Dupa cîteva mi-nute simtii insa că, asa cum știam, eram nu se poate mai bine si ca de aș dormi as fi și mai bine; cind intor-sei capul spre Saitni, acesta deja adormise, cu toata nerabdarea lui. Incetul cu incetul, mi se inchisera ochii: si mie: legiuni de ginduri, de privelisti curioase, de ființe enigmatice trecura pc dinaintea mea si nu mult dupa aceea adormii.</p>
+            <p>Cind m-am dezteptat, sala era plina de venusieni. Cel pe care-l cunoșteam mai bine sta pe estrada, de unde vorbea cu animatie, artind niste harti celorlalti.</p>
+            <p>Saitni era deja deșteptat, dar nu voise sa-mi turbure somnul. De la el am aflat ca, de vreo jumatate de ora, venusianul vorbea de noi si de planeta noastră.</p>
+            <p>Cuvîntarea lui era placuta, vorbele sonore. Oh! cat as fi dat sa inteleg atunci ceea ce vorbea!</p>
+            <p>Ascultam cu atenție si mi se părea chiar ca inteleg, cind ochii lui inteligenți se opreau asupra noastra sau asupra harților care reprezentau configurația continen-telor noastre.</p>
+            <p>— Trebuic să fie foarte interesant, imi sopti Sainti.</p>
+            <p>Dar eu eram asa de distrat incît uitai de a mai da un raspuns, chiar neînsemnat, acestei observațiuni.</p>
+            <p>In sfirsit, conferința se ispravi, venusienii se retra-sera, dupa ce mai intii se uitara scrutator la noi. Ra-maseram iarasi numai cei cinci cari veniseram intîi in sală.</p>
+            <p>Conferențiarul, dupa ce cu ajutorul celorlalți doi puse in regula la loc harțile de care se servise, veni la noi. Ințeleserăm numaidecît ce voiau: sa învațam limba venusiana.</p>
+            <p>Ziua aceea o consacraram primelor noțiuni, care bineințeles fura luate din domeniul astronomici. El ne arăta pe rind planetele si constelațiunile, spunindu-ne numele lor, pc care le puteam repeta cu multă înles-nire.</p>
+            <p>Ne miram insa de un lucru: cind dorm aceste fiinte, cind manânca ele? Daca nu cu alimente grosolane, cum faceau strmosii nostri chinezii, japonezii, francezii, germanii, de ce nu se nutresc cel putin cu pastile, ca noi? Dar toate acestea mi le-am esplicat mai tirziu.</p>
+            <p>Peste cîteva saptamini eram foarte inaintati in lim-ba lor, care era foarte simpla si dovedea o lungă intre-buințare a ei; pe linga acestea, limba lor era univer-sală, caci toți venusienii vorbeau aceeași limba. Limba noastra, care e așa de curata și ușoara fata cu aceea care se vorbea acum citeva mii de ani pe planeta Pa-mînt, e pe o treapta mai inferioară fata cu aceea care se vorbețte pe Venus. Cind am putut înțelege intru-citva aceasta limba, cind am putut sa-mi dau soco-teală prin experiența de toate lucrurile și faptele ce mi se pareau asa de curioase, am regretat atunci ca nu pot si pamîntenii sa ajunga la o asemenea treapta de civilizatie.</p>
+            <p>Cele ce voi schita aci vor fi numai trasaturi generale asupra modului lor de viata, starii lor sociale, știintei, religiunii lor — daca s-ar putea zice ca au una. Vor parea curioase cele ce urmeaza, fiindcă, chiar la sta-rea de cultura la care am ajuns astazi, pamîntenii tot nu au putut desradacina cu totul din sufletul lor vechile credinte. Daca s-ar fi incercat cineva sa apere asemenea fel de viața cum e acel al venusienilor și dacă acel cineva ar fi trăit acum cîteva mii de ani, ar fi riscat sd fie supus batjocorei și tratat de ne-pun. Acum, cei 23 de savanți ce avem ar ridica doar din umeri; de restul pamîntenilor nu vorbim, aceștia vor mai astepta mult pina sa ne devie egali in știință.</p>
+            <p>Ca și Pamintul, Venus nu e decit un copil al Soare-lui: prin invirtire, acesta din urmă a desfăcut de la ecuatorul sau un imens inel, care a avut un punct de condensate si o orbita deja formată. Imprejurul acelui punct s-a gramădit, prin invirtirea lui imprejurul Soa-relui, toata materia risipita ce forma inelul. Cind ma-teria a fost toată aduna la un loc, ea a continuat să se învirteasca ca un glob gazos imprejurul astrului-i rege, învîrtindu-se in acelasi timp si împrejurul sau. Noua planeta in stare de nebulozitate a incercat, prin invirtire, sa rupa din ecuator un inel identic cu acela care o formase, dar n-a izbutit. Puterea sa nu a fost destul de mare și nu a putut forma nici un satelit, deci a rămas sa-și faca drumul ei fară nici un insoțitor pe linga ea.</p>
+            <p>Incetul cu incetul materia gazoasă s-a racit, din cauza temperaturei prea reci care o inconjura, si a inceput sa se lichefieze. Densa atmosfera ce poseda acum în-cepu sa se formeze, bineînțeles amestecata la inceput cu diferite gaze streine de care acum e curătată. Usca-tul a inceput să apară in forma de mici insule.</p>
+            <p>Transformațiunile acestea se faceau cu ajutorul a zeci de mii si sute de mii de ani ca și la noi.</p>
+            <p>Insulele au devenit din ce in ce mai mari, s-au legat unele cu altele si apoi au ajuns să formeze continen-tele, a caror configurate nu a ramas tot asa cum era la inceputul formării lor.</p>
+            <p>Ploi diluviene cadeau pe continentele de curind for-mate, căci evaporarea se facea pe o scara foarte în-tinsă, din cauza Soarelui care era mult mai mare si din cauza apei care era mult mai multa.</p>
+            <p>Aparură primele fiinte. Bineinteles, cele mai rudi-mentare posibile, apoi, prin o transformatune inceată succesiva, a ajuns să se creeze omenirea planetei. Pe Venus omenirea nu s-a dez-voltat ca și la noi.</p>
+            <p>Omenirea de pe Venus s-a bifurcat de la inceputul ei: o parte era formata din oamenii-pasari pe cari îi vă-zusem la descinderea noastra pe planeta, iar o alta parte, cea mai inteligenta, din aceia cu cari ne puteam înțelege. La început, insa, cea din urmă rasa nu era cu mult superioara celei dintîi a trebuit o dezvoltare gradată a inteligenței ei pentru a putea fi proclamata regina planetei pe care ne aflam..Pe cînd prima specie se reproducea întocmai ca la noi, cea de a doua a avut menirea sa se poată reproduce pe o altă cale.</p>
+            <p>De aceea la venusieni nu există deosebire de sex. Dragostea pentru femeie o, dar, necunoscută lor.</p>
+            <p>Aceasta e una din cauzele care ne esplica repedea lor urcare pe o treapta înaintată a civilizațiunei: grijele ce dragostea aduce cu ea, preocupațiunile neinsemnate ce ea da încă pămîntenilor, le sunt cu totul neînțelese, deoarece ele nu există. Sentimentul nu poate împiedica pe cei inteligenți, știinta a putut să se dezvolte in liniște pe Venus. Mai sunt, nu e vorbă, și alte cauze principale, dar aceasta e una din ele.</p>
+            <p>Venusienii își produc fiecare copiii prin libera voin-ță: cind au ajuns la maturitate — pe care ei o socot de 40 de ani, anul lor fiind insa pe jumătate cit al nostru își injectează in piept o substanță protoplas-mică pe cari dupa o lună o scot afara cu multă ingri-jire si o depun intr-un fel de urnă pe care o inchid, nelăsînd decit o mică deschizatura pe unde să poată respira viitorul copil. Aici s-ar putea pune intrebarea: in sinul unei mame de pe Pamînt un foetus are cu ce se hrăni pentru ca sa se poată dezvolta; dar intr-o urnă de unde va putea lua el materiile trebuincioase formării lui?</p>
+            <p>Răspunsul, iată-l:</p>
+            <p>Venusienii nu se nutresc niciodata. In fiecare lună se injectează cu o substanță și le e destul pentru o lună. Ce e drept, acrul ajută foarte mult la aceasta, căci conține materii care, introducîndu-se in plămini, nu numai curățesc singele, dar il si nutresc. O proba evidentă de aceasta e că noi, chiar de cind suntem aci, nu mai avem nevoie nici de jumătatea pastilelor ce mincam altădată. Unui foetus insa nu-i trebuiește nici injecțiuni, abia după scoaterea din urna are nevoie de acestea.</p>
+            <p>Venusienii nu au fost niciodata deosebiți prin reli-giune, rasa sau obiceiuri — vorbesc de venusienii cei inteligenți, nu de oamenii-pasari — deci nu au putut cunosște războiul. Nici nu am putut sa esplic vreodată vreunui venusian înțelesul războiului, deoarece limba lor nu conține asemenea cuvinte.</p>
+            <p>Si aceasta e a doua cauza a dezvoltarii lor.</p>
+            <p>Fiecare e stapîn pe persoana sa, fiecare face ceea voiește. Legi nu exista.</p>
+            <p>Aceasta omenire a ințeles adevarul scop al vietii.</p>
+            <p>Aruncați pe un glob din spațiul nemarginit, la ce bun ar fi fost a se dezbina, a-și alege fiecare trib un stă-pîn a carui progenitura incapabila sau capabilă sa aiba drepturi asupra tuturor celorlalti?</p>
+            <p>Numărul venusienilor nu e atit de mare ca al pa-mintenilor, si aceasta grație nereproducțiunii. Dupa cum am fost asigurat, totalitatea locuitorilor nu trece nici peste un milion; nu punem insa la socoteala pe oamenii-pasări, al caror numar trece peste doua mi-lioane.</p>
+            <p>Literatura, artele, invențiile noastre pamintești pentru a ne face viața mai plăcută in mijlocul atitor agi-tațiuni in care ne aflam mai nainte, nu exista pe Venus. Căci dragostea și razboiul lipsind, lipsesc si cele doo elemente puternice ale poeziei.</p>
+            <p>Neîmpiedicați deci de nimic, venusienii s-au îndelet-nicit cu cunoasterea Cosmosului. Rezultatele științei lor nu se transmit prin ajutorul carților, pe care ei nici nu le cunosc, ci prin viul grai și prin o indelungata prac-tică.</p>
+            <p>Ei nu au tras din științe alte foloase decit acelea care le-au fost trebuincioase pentru reproducțiunea speciei. Incolo — știința a fost și este pur speculativă. De aceea venusienii nici nu au avut nici vor avea indus-trie, comerciu etc.</p>
+            <p>Specia cealalta, posedind o inteligență inferioară, ascultă orbeste de cea superioara ei. Oamenii-pasari sunt niște simpli servitori ai acelor dintii; nu sunt asu-priți, nici maltratați. Pentru ei, venusienii au creat o religiune: aceea a astrelor la care se închinau, oficiul divin fiind facut de rasa superioara. Ei servesc mai ales ca mijloace de locomotiune pentru venusieni, gra-ție aripilor puternice cu care sunt inzestrați. Locuin-tele lor sunt aproape la fel cu ale venusienilor. Oamenii-pasari, in virtutea modului lor de reproducțiune, au familii, sotie și copii.</p>
+            <p>Venusienii de amindoua speciile nu cunosc boala: medicina nu are deci nici un drept de a exista. și, desi cunoșteau cerul cu toate astrele lui, nu-și știau mai deloc persoana lor fizica: niciodata venusienii nu disccau corpuri, fie chiar al unui om-pasare.</p>
+            <p>Umblau goi, din cauza prea marii caiduri ce dom-nește pe planeta.</p>
+            <p>Partile locuite mai ales de ei sunt cele de pe mar-ginea ecuatorului, unde căldura prea mare e temperată de apropierea mării și de ploile diluviene ce cad ade-sea. Spre poli, nu cunosc decît unele triburi ale rasei inferioare, dar nici acestea nu au un loc stabil, de-oarece temperatura ajunge uneori spre pol tot așa de ridicata ca și la ecuator. Trecerea de la o caldura ex-trema la un frig prea mare e foarte bruscă în acele parți.</p>
+            <p>Ziua, din cauza căldurii inabușitoare, venusienii stau de preferință in vaste sali, ca in aceea unde noi suntem gazduiți, sali care se afla raspindite mai in toate părțile planetei.</p>
+            <p>Noaptea sunt însă în plină activitate, afară numai daca nu ploo cu torente, cum uneori se intîmpla. Ei zboara pe intinsele mări conduși de oamenii-pasari și studiază frumoasele astre ce stralucesc asa do viu pe cerul venusian.</p>
+            <p>Cind dorm deci? Nu dorm niciodata așa cum dor-mim noi.</p>
+            <p>Ei nu simt trebuință de repauz, căci cele mai multe organe care simt nevoie de liniște la un pamîntean lipsesc cu totul venusienilor. Singurul lor repauz e acela de a sta la un loc pentru citeva minute, necuge-tind la nimic.</p>
+            <p>Noua ni se pare cu totul ciudata o asemenea viața, si chiar chimerica. Sa nu iubești, sa nu manînci, sa nu dormi!... Dar acestea sunt aproape singurele elemente care, fac fericirea unui pamîntean si care, toate la un loc, formează viața pentru el.</p>
+            <p>Religiunea lor? Nu aveau nici una.</p>
+            <p>Credeau intr-o transformare continua a formelor naturei, cauzata de niște puteri neinteligente insa imuabile si veșnice, credeau in spatiul infinit populat de planete, unele locuite altele nu. In nemurirea su-fletului nu au crezut niciodata si iarăși nu i-am putut face sa ințeleaga bine cum oamenii și-au facut aseme-nea ipoteze.</p>
+            <p>Morala lor? Nu aveau nici un codice de morala. Nu erau nici maxime și sfaturi care sa circule din gură in gură asupra acestui subiect. Nu se vătămau insa niciodata unul pe altul, averea nu puteau să-și rapească deoarece nu aveau nici unul nimic, demni-tați nu existau pentru a se naște ambiția si gelozia. Femeile neexistînd, nu exista nici un sentiment de iubire, dar nici de ura și gelozie.</p>
+            <p>In schimb, toți erau binevoitori unii cu alții, se inițiau mutual in secretele ce ei smulgeau naturei si apoi, liniștiți si senini, asteptau ceasul din urma al vieții.</p>
+            <p>Oh! astfel de viața fără emoțiuni ar displacea chiar in secolul de fața pamîntenilor. Pentru mine unul insă o asemenea viață este idealul la care trebuie să ajungă omenirea unei planete.</p>
+            <p>Saitni, cu firea lui înclinată spre sentimentalism, nu prea vedea insa cu ochi buni acest mod de a trăi.</p>
+         </div>
+         <div type="chapter" n="6">
+            <head>VI</head>
+            <p>O SERBARE VENUSIANA</p>
+            <p>Au trecut poate mai multe luni de cind suntem oaspetii stralucitorului Luceafar.</p>
+            <p>Luceafar! Nici nu-mi vine sa cred ca acest glob cu mari intinse, cu munți inalți, acest sol ce acum il calc cu piciorul reflectă in spațiu 'o lumină asa de strălucitoare. Privind insă indepartatul Pamînt, care acum lucește așa de vizibil pe cerul lui Venus, mi-a-duc aminte ca se afla si el in aceleași condițiuni, ca acum citeva luni eram unul din locuitori lui.</p>
+            <p>Ciudata si splendida e organizatiunea Cosmosului!</p>
+            <p>Incetul cu incetul, am inceput a intelege limba ve-nusiana, limba așa de melodioasa și asa de usoară! Pu-team chiar exprima unele ginduri, si mai ales in ces-tiuni de domeniul astronomiei.</p>
+            <p>Venusianul cu care am vorbit îtîi si care se bucură de mult respect printre ceilalți, ca fiind unul dintre cei mai invațați, poarta armoniosul nume de Silansis.</p>
+            <p>Mai deunăzi, Silansis ne-a anunfat că va fi in curind o sarbatoare a oamcnilor-păsari si, cum venu-sienii superiori sunt quasi-preoții cultului lor, vor pre-zida serbările din acea zi sau, mai bine zis, din acea noapte, deoarece in timpul zilei e imposibila orice activitate, afara de zilele cind tot cerul e acoperit de nori, dar in acele zile ploua de obicei torențial.</p>
+            <p>Am fost si noi invitați la aceste serbari. Eram foarte curioși sa vedem modul de petrecere al venusienilor-pasari, caci venusienii superiori nu abuzau niciodata de petreceri.</p>
+            <p>In ziua hotarita, indata ce imensul Soare disparu dupa orizont, porniram cu ajutorul oamenilor-pasări spre direcțiunea unde gasisem pe venusieni la venires noastră. Drumul nu fu lung, dar nu am avut ocazia sa admiram toate peisajele ce treceau pe diriaintea noastra, caci bieții oameni-pasri ce ne conduceau do-reau sa ajunga cit mai repede la locul serbarii.</p>
+            <p>Mii si mii de oameni-pasari zburau din toate parole spre locul unde ne indreptam noi. Venisera poate si de la antipozii planetei.</p>
+            <p>Pe locul unde se strinsesera cu toții-nu incapea nici sfertul multimii adunate. Toate treptele marii strade erau pline, de aceea ostrada era inconjurata pina la o mare departare. Zeci de mii de lumini luceau fantastic si faceau sa dispara intunericul nopții. Cite un om-pasare, mai curios, se avinta in mijlocul mulțimii, plana deasupra maselor, apoi se lasa usor spre sol.</p>
+            <p>Un venusian superior lua cuvintul. Deși cunosteam mai toate cuvintele venusiene, care de altminteri sunt foarte puține, observai cu mi rare ca nu ințeleg mai nimic din ceea ce vorbea venusianul. Intrebuința numai niște monosilabe guturale, pe care le remarcasem la oamenii-păsări. Silansis intari ipoteza mea: in ade-văr, limba ce vorbea venusianul era a venusienilor-pasari. In același timp, imi mai spuse ca e foarte greu pentru un venusian superior a invăța această limbă așa de aspră.</p>
+            <p>La un semn al vorbitorului, mii de oameni-pasari se desprinsera din gloată și, in filfiit de aripi, se aruncara in spatiu. In citeva minute, se formara sus doua tabere distincte. Era un fantastic amestec de diferite lumini-Mii de o parte, mii de alta — fiecare tabara apoi se aranja intr-o clipita in forma unui imens sirag. fiecare sirag, apoi, se indreptă intr-un punct opus celuilalt și zbura asa de departe incît fosforescentele lor lumini se confundau cu praful de stele al Caii Lap-telui.</p>
+            <p>Dupa mai multe evoluțiuni, se intoarsera amîndoo taberele îndărăt si, la citeva sute de metri deasupra estradei, se napustiră una asupra alteia.</p>
+            <p>De asta data, fantasticul isi ajunse punctul lui culminant; toate acele mii de culori amestecate care apă-reau sau dispreau, toate acele aripi albe ce reflec-tau multicolorele lumini, toate acele strigăte guturale și disperate — faceau ca privelistea sa fie de neinchi-puit. Cite un om-pasăre, obosit sau ranit, se 1ăsa ușor in jos, pe cind lumina ce o purta iși facea impresia unei frumoase stele cazatoare.</p>
+            <p>Deodata, din haosul de lumini se formara iar doua siraguri, care de astă dată se intretaiau in mai multe parti, dind naștere la figurile cele mai bizare și mai amuzante.</p>
+            <p>Venusienii superiori contemplau in seninatate aceas-tă priveliște, neimpresionați, ba poate chiar plictisiți. In schimb, oamenii-pasari cari ramasesera jos contemplau cu aviditate scenele aeriene si pareau gata a se arunca si ei in aer. Dar erau aranjați dupa triburi și trebuia ca fiecare trib sa-și astepte rindul.-</p>
+            <p>Cele doo tabere inamice se despărțiră din nou și apoi se risipira ca un stol de păsari speriate, marind numarul stelelor de pe cer.</p>
+            <p>Îmi obosisera ochii privind aceste scene.</p>
+            <p>Jocurile acestea imi aminteau razboaiele pamintești, așa cum ele sunt descrise in vechile noastre anale.</p>
+            <p>Silansis, observind ca începusem a fi obosiți de aceste curioase privelisti, chemă pe oamenii-pasari cari ne adusesera si cari, cu parere de rău trebuiau sa ne reconducă.</p>
+            <p>Tot cerul era plin de stele. Pamintul trona limpede verde spre apus, lucirea lui contrastind mult cu ebenul cerului venusian. Ici și colo — cite o stea ca-zătoare care lasa in urma ei o imensă dunga luminoasa.</p>
+            <p>Cercai sa esplic lui Silansis ca urma luminoasa a ste-lei cazatoare se datora persistentei pe retina, dar Silansis imi răspunse:</p>
+            <p>— Esplicarea ta nu o inteleg, noi insa esplicam urma luminoasa a stelei astfel: Steaua arzind desface din masa ei mici bucați incandescente care, ramase in urma, continua sa arda citva timp.</p>
+            <p>Esplicarea lui Silansis imi paru ingenioasa... mie nu-mi venise in minte niciodata acest lucru, totuși asa de simplu.</p>
+            <p>In noaptea aceea facuram mai multe observatiuni astronomice și, vorbind de Pamînt care tocmai apusese, arătai lui Silansis pe harta ce poseda locul unde se afla pe Pămînt un vulcan numit Vesuviul. Ii dadui chiar amănunte asupra activitatii acestui vulcan in timpurile vechi. Silansis lua cuvîntul:</p>
+            <p>— Vulcanii voștri pămîntesti nu-i pot cunoaște, eu insa iti voi arata in curind un vulcan venusian numit chlani și care din cind in cind mai sta cu noi de vorbă! Eruptiunile lui, ce e drept, sunt foarte rare, dar sunt formidabile. Î1 vom putea vizita fara pericol, deoarece acum se odihnește. Acum e tirziu, in curind va răsări soarele, miine seara insa il vom putea vizita.</p>
+            <p>Restul nopții il petrecuram in liniste, răsfoind paginate colosale ale haosului.</p>
+            <p>Saitni rămasese foarte impresionat de dansurile ae-riene ale oamenilor-psari și-mi povesti de cunoștința ce făcuse acolo cu o venusiana-pasăre, Bietul Saitni, a rămas tot terrian!</p>
+         </div>
+         <div type="chapter" n="7">
+            <head>VII</head>
+            <p>VII VULCANUL chLANI</p>
+            <p>În fundul vulcanului Gina</p>
+            <p>Pe la miezul zilei, tocmai adormisem, cind am fost deșteptat de o zguduitura puternica.</p>
+            <p>Saitni, care era deja in picioare, se repezi spre mine, văzîndu-mă așa speriat, dar abia făcu un pas și o noua zguduitura îl doborî la pamînt. Din fericire, după cum am putut constata mai tirziu, s-a ales numai cu cîteva vînatăi.</p>
+            <p>Silansis, care se afla cu noi, veni spre mine rîzînd:</p>
+            <p>— Nu e nimic, chlani vorbește.</p>
+            <p>— In orice caz, prea vorbeste puternic, doar nu sun-tem surzi, raspunse Saitni, frecîndu-și partile atinse.</p>
+            <p>Imi adusei aminte de vizita ce proiectasem să-i fa-cem și zisei:</p>
+            <p>— Dar vizita noastra?</p>
+            <p>— O amînam. Vom asista desigur la un spectacol interesant.</p>
+            <p>Nu mai urma nici o zguduitura.</p>
+            <p>Afara cerul era cu totul innorat și niște nori negri veneau cu repeziciune dinspre sud, gata sa se transforme in ploaie.</p>
+            <p>Silansis mai zise:</p>
+            <p>— Putem profita de timpul cît le trebuie norilor sa ajungă aci, ca sa privim pe batrînul chlani.</p>
+            <p>Ieșiram cîteșitrei afara din sala. In partea de nord știam mai dinainte ca se afla un lanț de munți cari prezentau caracterele munților vulcanici. Silansis îmi arată until din vulcanii acelui șir de munți, care az-virlea in sus 'o lungă coloană 'de fum cenușiu: chlani. Catena de munți din care chlani facea parte nu avea nici un munte care sa intreaca inălțimea de 1000 de metri, iar chlani nu avea nici 600 de metri in inalțime.</p>
+            <p>— Desigur ca peste doua sau trei zile va face erup-țiune, zise Silansis.</p>
+            <p>In adevar, dupa ce chlani se mai scutura din amor-țeala in care zăcuse atîta timp, a treia zi de la data primului cutremur facu erupție. Cum ferestrele salii dadeau spre nord, am putut urmari perfect toate fazele erupțiunii.</p>
+            <p>Fumul care ieșea mereu prin crater se facu din ce in ce mai gros și mai negru, formind o imensa coloana neagra care parea ca nu mai are sfirșit. Vîrful coloa-nei insa devenind mai greu, se turti, lua o formă elip-tică, totul repauzîndu-se pe lungul trunchi care se pierdea în fundul craterului. Întreaga coloana iși schimba intunecata-i culoare intr-un rosu viu. Nume-roase fulgere strabatura de la un capat la celălalt imensa coloana. In acest timp, chlani clocotea cu furie și chiar locul unde ne aflam se clatina cu noi.</p>
+            <p>chlani incepu sa arunce in aer pietre aprinse care cadeau in departari, asemanatoare focurilor de arti-ficii. O parte din crater zbura in aer ca o pana, inso-țita de un prelung si formidabil tunet.</p>
+            <p>Un riu, aproape un fluviu izbucni din coasta vul-canului indirjit și, in același timp, chlani aruncă peste bordul craterului o mare de lava aprinsă care curgea cu repeziciune spre poalele lui, pierzindu-se apoi in marea infuriată ce lovea coastele lanțului de munți. Lava se incolacea prin increțiturile scoboririi ca un imens șarpe de foc, bubuiturile continuau cu acelasi răsunet, pe cind enorme pietre aprinse luminau tot cerul.</p>
+            <p>Erupțiunea a continuat citeva ore și nici unui din cei cari priveam nu ne induram sa ne parasim locul. Silansis rupse tăcerea:</p>
+            <p>— Cum vedeți, trebuie sa așteptam mai mult timp:</p>
+            <p>Batrinul chlani e in stare sa mai repete aceasta fru-moasa reprezentațune.</p>
+            <p>Saitni era amețit de ccea ce vazuse; dupa el, acele momente trebuiau sa se asemene cu sfîrsitul lumii.</p>
+            <p>— Nu lipsea nimic, zicea Saitni: apa, foc, fulgere, traznete, cutremure... și cind te gîndesti ca unchia-sul, dupa cum ii zice Silansis, ne poftea cu... cu gura deschisă... sarlatan batrin! Ii mirosise a carne de terrian!</p>
+            <p>și Saitni amenința vulcanul cu gestul, pe cînd chlani, semeț, cu capul in sus, slida seninatatea cerului arun-cind valuri de fum sau cîte un enorm bloc aprins.</p>
+            <p>Trecusera mai bine de doua saptamîni. chlani, obosit acum, se repauza iarasi, visînd la gloria lui cea efe-mera.</p>
+            <p>Intr-o seara superbă, Silansis, intovarășit de noi doi și cu ajutorul a trei oameni-pasari, ne aflam la poalele lantului de munți din care facea parte și chlani.</p>
+            <p>— Nu cumva o sa intram prin crater? intreba Saitni glumind.</p>
+            <p>— Se prea poate, raspunse Silansis cu mult singe rece.</p>
+            <p>Lava nu se intăirise inca bine, dar nu mai putea aluneca la vale, era prea viscoasa. Riurile formate in momentul erupțiunii nu mai existau, insa se distingea perfect trecerea lor, aproape de la baza craterului și pina la poalele lui chlani.</p>
+            <p>Cum am mai spus, lanțul poseda mai multe cra-tere; Silansis, care urea inaintea noastrS, opri pe omul-pasăre care-l purta, pe marginile unui crater ve-cin cu chlani.</p>
+            <p>— lata planul meu, zise el foarte serios. Vom vizita interiorul acestui vulcan stins numit Gina, ca sa putem observa interiorul lui chlani, deoarece acești doi vul-cani comunică intre dinșii.</p>
+            <p>— Nu am spus eu?! striga Saitni. Frumoasa idee! Asta insemneaza sa ne omorim singuri!</p>
+            <p>Aceasta mi-o spuse in limba terriana, caci nu ar fi voit sa contrarieze pe conducatorul nostru.</p>
+            <p>Silansis insa nu mai așteptase sa ne dam parerea deja omul-pasare se cufundase cu el in adincimea vul-canului. Oamenii-pasari cari ne purtau urmara exem-plul confratelui lor și — iata-ne calatorind spre centrul pamîntului sau, mai bine zis, spre centril lui Venus. La luminile fosforescente ce conducatorii nostri purtau, am putut remarca interiorul vulcanului a că-rui scoborire intreprinsesem.</p>
+            <p>Era format mai tot din trachit, pe unele locuri ve-chea lava ramasese impietrita, dind naștere la figuri foarte ciudate. Cu cit ne cufundam mai mult, cu atit distanța dintre marginile craterului se marea.</p>
+            <p>Ne gaseam poate la jumatatea scoboririi noastre, cind auzirm niște urlete surde, asemenea cu zgomotul ce-l fac talazurile unei mari infuriate care se izbesc de stinci. Auzeam pe Saitni, care venea dupa mine, cum murmura, desigur contra escursiei, dar zgomotul ce venea de jos ma facea sa nu inteleg ceea ce spune.</p>
+            <p>In sfirșit, am pus piciorul pe sol. Era o caldura na-busitoare, ametitoare.</p>
+            <p>La ciți metri ne gaseam departe de suprafața pamîntului? Nu-mi puteam da bine socoteala, aproxima-tiv însă la vreo 800—900 de metri, o distanța destul de mare.</p>
+            <p>Cu cit inaintam, cu atit caldura devenea mai cople-șitoare si cu atit zgomotele rasunau mai puternic in strania arhitectură a imperiului plutonian.</p>
+            <p>Deodată, la o cotitura subită a gangului ce urmam, o lumina vie ne lua ochii: aveam in fața noastra, la o adincime de vreo 50 de metri, o imensă mare de foe care se agita ca o mare furtunatecă. La intervale foarte regulate, mijlocul acestei mari se ridica, se umfla ca un balon monstruos, apoi crapa cu zgomot, iar va-lurile de foc si reluau cursa lor nebuna.</p>
+            <p>Nici o priveliște din lume, nici chiar cursa spaimin-tătoare ce o facusem pentru a veni pe Venus, nu ma infiorase asa de mult ca spectacolul acestei mari de foc. Ma asteptam la fiecare moment sa vad acele valuri venind spre mine și inghițindu-ma.</p>
+            <p>Caldura devenea din ce in ce mai insuportabila.</p>
+            <p>Saitni, care era ingrozit ca și mine de acest specta-col înfiorător, articula citeva cuvinte pe care eu nu le intelesei și pe care le intelese insa Silansis, care se afla mai departe de dinsul. La un semn al lui Silan-sis, cei trei oameni-pasari ne luara pe sus și in curind am ajuns in fundul vulcanului. Gina. Usor, apoi, am ieșit pe gura vulcanului.</p>
+            <p>Aer... aer... iata ce ne trebuia! Simțeam ca, daca aș mai fi respirat mult timp acea atmosferă calda, na-busitoare, plina de diferite emanațiuni gazoase, mi-as fi dat pe loc sfirșitul.</p>
+            <p>Saitni, capătind curaj, repeta mereu, agitindu-se:</p>
+            <p>— Colosal! Colosal!</p>
+            <p>Pe cind ne indreptam spre locuința noastră, Silansis ne mai dadu amanunte asupra aventurilor lui chlani. Mosneagul avea multe crime la activul său. Intr-un rind,, spunea el, niște oameni-pasari au locuit pe coasta lui chlani. chlani dormea de mult, linistit, pașnic, nu-mai unui din toti acești vulcani era in activitate, si incă si acela inofensiv. Oamenii-pasări cari locuiau acolo erau in numar ca la doozeci. Locuinta lor era o veche sala, părăsită de niște colegi ai nostri cari se ocupaseră cu studiul vulcanilor. Intr-o bună zi, in mij-locul liniștei de care eram impresurați, se auziră niște urlete ingrozitoare, apoi imediat o detunătură spaimin-tătoare: parea că o mie de trăznete cad asupra pamîn-tului. chlani izbucnise. Craterul intreg, cu coasta pe care se afla sala oamenilor-pSsari, fu aruncat in aer.</p>
+            <p>Nici unul din cei dinauntru nu a scăpat. Totul a fost aruncat la o inălțime considerabilă, incît abia dupa ci-teva minute au recăzut bucațile pc sol.</p>
+            <p>De atunci, mai cu scamă, oamenii-păsări au o mare frică de vulcani.</p>
+            <p>Focul e pentru ei Dumnezeul lor.</p>
+            <p>Stelele au in religiunea lor o influents binefăcătoa-re, Soarele și focul central sunt demonii lor.</p>
+            <p>Pe cind vorbea Silansis, eu întorceam mereu capul spre chlani, care se pierduse ca o imensa fantasma in intuneric.</p>
+            <p>Saitni in acea zi avu un vis oribil: chlani se plicti-sise in acelasi loc și- plana in aer, avînd ca baza o imcnsă mare de foc, gata sa se lase chiar in locul unde dormea amicul meu.</p>
+            <p>Saitni sari in sus speriat, apoi, surîzînd, ne povesti visul, privind pe fereastră daca chlani e tot in aceeași pozitie, pe cind batrinul revolutionar dormea liniștit, visurile lui transformindu-se intr-o imensă panase alba care sc pierdea in azurul cerului senin.</p>
+         </div>
+         <div type="chapter" n="8">
+            <head>VIII</head>
+            <p>CONFERINțA. SENTIMENTALISMUL LUI SAITNI</p>
+            <p>In sfîrșit, dupa oarecare osteneală, am izbutit sa mi exprim perfect in limba venusiană si prima mea incercare in publicut venusian a fost finerea unei con-ferințe in care am tratat despre Pămînt. Le-am po-vestit geneza lui, aparitiunea omenirei, formele ei de guvernamint, le-am explicat distracțiile ei, științele, artele si tot ce ține de Pămînt.</p>
+            <p>Le-am explicat cum razboiul, religiunea și iubirea au pus piedici civilizatțunii și cum am cautat sa ne scapam de toate aceste copilarii.</p>
+            <p>Am vorbit despre Pamînt asa cum cred ca e logic, dar a fost interesanta discuția ce am avut-o in urma cu Saitni, care are alte vederi. La sfirsitul sedinței, dupa co am mai discutat cu cițiva venusieni asupra Pamintului, Saitni ma lua deoparte si-mi zise:</p>
+            <p>— Ascultă, Axales, modul cum ai zugravit venusie-nilor Pamîntul si omenirea de pe el nu-ti pare cam exagerat?</p>
+            <p>— Cam exagerat, dar nu am gasit inca destule ex-presiuni pentru a putea face pe venusieni să ne înțe-leaga cu totul.</p>
+            <p>— Tu crezi ca vom merge spre perfecțiune înlatu-rind iubirea, sentimentul?</p>
+            <p>— Saitni, vorbele tale ma cutremura! știam ca, adolescent, tu ai avut inclinatiune spre sentimentul eterat — și distrugator al voinței — numit iubire, dar nu știam că, dupa atîți ani de studiu, mai ți-au ramas urme nesterse din o asemenea copilarie.</p>
+            <p>— Asales, relua el, dacă ne înselam cu toții? Daca scopul ce crezi tu mai cu seama ca trebuie ajuns nu e cel adevarat? La ce bun a cunoaște Cosmosul, cind stim cu toții ca viata e efemeră si cunoțtintele noastre se aseamănă cu acelea ale unei insecte care a trăit o zi? zi atunci, o alta concluzie se prezinta: viata, viata dezlegata de orice piedici, deosebita de aceea animala prin iubire și contemplatiune!</p>
+            <p>— Dar aceasta ar insemna distrugerea complecta a omenirei... Ah! daca te-ar auzi vreun membru al Academiei, ai fi izgonit din sînul ei și aruncat in gră-dinele fericirei, sa poți contempla in pace apusul soarelui si răsăritul lunei, braț la braț vreo desperată pamînteana!</p>
+            <p>— Ah, da, uitasem! tn discursul tau ai vorbit și de puterea discrețională a celor învățați, dar nu ai bagat de seamă ca poziția ce voi faceti celorlalți paminteni e ca și aceea a sclavilor din vechime.</p>
+            <p>— Nu sunt oare liberi sa faca orice vor, îi supunem la vreo munca, îi intrebuintam la ceva, nu-i lasam sa se iubeasca in pace, afara de cazul cind, visind prea mult, dau exemplu rau celorlalți?</p>
+            <p>— Va sa zica nu sunt liberi: iată deci o contradic-ție in principiile voastre.</p>
+            <p>— Saitni, tu ma sperii, unde sunt dar credintele tale?</p>
+            <p>— Si eu ma sperii, fiindcă nu văz in venusienii de aici decit excesul stării noastre sociale.</p>
+            <p>— Ah! Starea lor e cea mai inalta civilizație!</p>
+            <p>— și eu iți spun, Asales, ca acesta e cel mai adinc dispreț ce 1-am aduce vietii si naturii ce ne-a creat. Sa-ti spun drept, mie mi se pare societatea celor 25 de pamînteni, ca si venusienii invațați de aci, o turma de pedanti cari nu pot intelege viața și cari voiesc sa desguste și pe alții.</p>
+            <p>— De ce nu te retragi atunci din Academie?</p>
+            <p>— Fiindci aș putea fi un auxiliar puternic al celor apasași, pe cari aș face tot posibilul spre a-i scoate din robia voastră, revoltîndu-i. Mi-e frica însa si mie de consecințele la care as ajunge.</p>
+            <p>— De ce nu spuneai și pe Pămînt, Saitni, asemenea lucruri?</p>
+            <p>— Suntem prea departe de el si poate chiar ca nu-l vom mai vedea, deci pot sa-ti spun parerea mea in pace.</p>
+            <p>— Crezi că nu ne vom mai putea intoarce?</p>
+            <p>— Sunt sigur.</p>
+            <p>— Eu, din contra, am multă speranță.</p>
+            <p>Astfel, o conversațiune de citeva minute a fost de ajuns ca sa privesc cu alți ochi pe colegul meu și nu-mai simpatia ce am pentru el ma opreste de a-i face ceva rau; am insa cel mai adinc dispret pentru ideile ce profeseaza.</p>
+            <p>O civilizație ca a lui e o stare de salbaticie.</p>
+            <p>Stiința e singura care trebuie sa domneasca pe Pa-mint.</p>
+            <p>Dar daca ne inselam cu toții?</p>
+         </div>
+         <div type="chapter" n="9">
+            <head>IX</head>
+            <p>IX ESPLORĂRI. AVENTURA LUI SAITNI</p>
+            <p>Citeva zile in urma ședinței, cu prietenul Silansis si cu alți doi venusieni, ne-am hotarit sa facem o mica preumblare pe planeta.</p>
+            <p>Saitni bineinteles facea parte. Bietul companion își pierduse umbrela perfecționata, se consola insa prin faptul ca pe ploaie nu puteai să te miști din sală, caci aici ploile sunt adevarate diluvii. Se caznise sa explice venusienilor invenția si necesitatea umbrelei, dar aces-tia nu au voit să-l înțeleagă deloc; cind ploua, ziceau ei, ce nevoie ai să te duci afară, ce afaceri altele avem noi decit de a studia Cosmosul si, cind suntem impie-dicați de a-l vedea, sa reflectm la cele ce am văzut? Saitni nu punea la socoteală ca venusienii nu aveau ce să-si strice, deoarece umblau goi.</p>
+            <p>Indată ce incepeau ploile cele mari, simteam multa umezeală, mai cu seamă in acele răcoroase sali, si eram nevoiți sa punem pe noi oarecare imbracaminte.</p>
+            <p>Intr-o seara, cind Soarele imens și roșu se ineca in apele marii liniștite, am luat cu noi mai multi oameni-pasari si ne-am îhdreptat spre emisferul de nord al planetei. De cind venisem, nu ne departasem de locul unde descinsesem, decit prea putin relativ cu distanta cc aveam acum sa parcurgem. Aceasta era prima noas-tra calatorie.</p>
+            <p>luțeala cu care zburam nu era prea mare si ne per-mitea sa zărim toate peisagele pe unde treceam. Ste-lele incepusera sa rasara, planeta noastra aparea toc-mai inspre ziua, nu aveam fericirea de a calatori avind-o pe cer. Luminile ce conducătorii nostri purtau ne luminau perfect calea.</p>
+            <p>Ne apropiam cu incetul do un lanț de munți ale caror vîrfuri erau acoperite cu zapada. Ingrijisem de a lua cu noi niște vestminte mai groase ce adusesem de pe Pămînt. La înalțimea la care zburam era foarte bine, caci aerul era mai puțin dens ca acel de pe su-prafața planetei; la suprafata globului, inăbuseam.</p>
+            <p>Intrebai pe Silansis:</p>
+            <p>— Care parte a planetei e mai muntoasa?</p>
+            <p>— Cea de nord.</p>
+            <p>— Noi deja am presupus aceasta inca din socolul al XlX-lea, si in al XXIII-lea eram siguri. Tot in acest din urma secol am putut determina o mare parte din configurația ce cunoastem acum.</p>
+            <p>— Pamintenii nostri nu erau deci nici atunci asa de inapoiați.</p>
+            <p>— Nu, ne aflam pe calea progresului, dar pina la inceputul secolului al XXX-lea nu prea am stiut multe. Nenororirea e ca tocmai acum, in apogeu, cine știe ce catastrofă ameninta Pamintul: deja Soarele a pierdut mult din caldura de odinioară. Acum citeva mii de ani, un pamintean desigur ar fi pierit intrind in atmosfora planetei voastre, din cauza caldurii prea mari a Soarelui.</p>
+            <p>Tot discutind asemenea lucruri, am ajuns la poa-lele muntilor de cari am vorbit mai sus. Erau acum doi păreri: de a trece peste munți, sau de a face un lung ocol. Saitni propuse să trecem pe deasupra mun-ților, după ce se consulta mai intii cu conducătorii nostri inteligenți.</p>
+            <p>Imbracaram tot ce aveam mai calduros și oamenii-pasari se repezira batrind din aripi spre creștetul inal-tilor munți. Frigul incepu ușor sa se simta, venusienii parcau insa ca nu sufar de nimic, cu toate ca nu erau acoperiți decit cu o ușoara mantila alba, ceea ce le dădea up aspect foarte fantastic. Eu simtii cum sin-gele imi bate din ce in ce mai incet si la un moment dat era aproape sa pierd cunostința. Venusianul meu, obicinuit cu asemenea slabiciuni din partea noastră, facu un semn oamenilor-pasari și mai iute ca fulge-rul trecuram peste munți, scoborindu-ne apoi cu o iu-teală potrivita, pentru a nu face o trecere bruscă. Pu-terile au început să-mi revie.</p>
+            <p>Dinaintea noastra se intindea un continent luminat de fantasticele lumini ale locuitorilor cari il cutreie-rau in toate parțile.</p>
+            <p>Pe cind ne scoboram, cind imi venii bine in simțire, m-am uitat să-l vad pe Saitni, dar acesta nu era cu noi. Fac atent pc Silansis si acesta, remarcînd si el faptul, intrcba pe ceilalți. Nimeni nu stia, bineințeles. Lipsea si omul-pasre cu care el piecase.</p>
+            <p>Saitni... Singurul meu tovaras! Singurul pămîn-tean!</p>
+            <p>Mă gindii ca a voit doar sa glumeasca, dar nu! Ur-carea era pericoloasă, se putea să i se fi intimplat ceva.</p>
+            <p>Ce era de facut?</p>
+            <p>Să trecem inapoi munții Salonis? M-aș fi expus de prisos. Cei doi venusieni isi luara zborul cu oamenii-pasări înspre partea de unde venisem. Silansis, in timpul acesta, se caznea să ma distreze, explicîndu-mi localitățile unde ne aflam. Căutarile venusienilor au fost zadarnice, locurile unde presupuneam ca va fi ra-mas Saitni erau ocupate de oamenii-păsari cari, fiind intrebați de companionii lor, nu au putut da nici o deslusire.</p>
+            <p>Eram foarte trist, totuși aveam speranta ca intim-plarea poate va fi scapat pe Saitni de orice pericol. Voiam sa trec munții indărăt si sa conduc eu cu Si-lansis cautarile, dar venusienii se opusera zicind ca nu e nevoie, caci dacă Saitni e cu un om-pasare se va putea întoarce in siguranta, daca nu unde ne aflam, apoi acasa.</p>
+            <p>Incepuse sa se lumineze de ziua.</p>
+            <p>In curind imensul Soare avea sa-si faca aparifiunea pe bolta cereasca, spre orizonul rasaritului deja in-roșit</p>
+            <p>Companionii mei, dupa ce căutară citva timp, au ga-sit locuinți de piatra situate pe coasta munților. In-tr-una din ele ne-am retras cu toții.</p>
+            <p>Ziua trecu fără cel mai mic incident.</p>
+            <p>Eram desperat: singurul meu tovaras se pierduse de-sigur in vreuna din prăpăstiile munților sau cazuse in-tr-una din vastele mări ce ne inconjurau. Venusienii ma asigurau mereu ca servitor mai credincios nu poate fi ca un om-pasare, dar eu catre sfirsitul zilei pier-dusem orice speranta.</p>
+            <p>Insa cind Soarele disparu dupa niște inalți munți cari iși desfasurau lantul lor gigantic spre apus, Saitni intra insoțit de omul-pasare.</p>
+            <p>Uitai de rezerva ce pamintenii au pastrat totdeauna și sării de gitul terrianului.</p>
+            <p>Saitni era foarte vesel.</p>
+            <p>— Desigur ca afi fost cu totii ingrijati de soarta mea, si mai cu seama tu, Asales. Sa va spun insa cu de-amanuntul ceea ce ni s-a intîmplat. Cind ne-am invoit să trecem peste coama muntilor, conducătorul meu isi indoise puterile; ajunsesem la o inălțime con-siderable, deodata insă aripele conducatorului meu in-cepura sa spintece aerul din ce in ce mai incet si, in loc de a ne sui, am inceput si scoborim in linie oblica spre aceeași coasta a munților. Cind am pus piciorul de pămînt, pe voi va zaream numai ca niște puncte negre deasupra munților, apoi v-am pierdut din ve-dere.</p>
+            <p>Omul-pasare iși rupsese o parte a aripei.</p>
+            <p>Imi facu semn sa stau pe loc și pleca, alergind cu picioarele si ajutindu-se din cind in cind de aripa ce putea funcționa.</p>
+            <p>Peisajul unde ma aflam era splendid. Trecusem o mare pe care luceau mii de lumini multicolore; inspre miaza-noapte se intindeau muntii giganti paste cari voi ați trecut.</p>
+            <p>Așteptam foarte linistit intoarcerea conducatorului meu, cind deodata mii de lumini, care par ca rasar din pamint, ma impresoara și sunt inconjurat la moment de un intreg popor de oameni-pasări. Unii zbu-rau mai sus spre a mi vedea mai bine, altii se apro-piau de mine si cu virfurile aripilor ma atingeau, pa-rind u-li-se ca poate ma voi pierde din fata lor ca o vedenie. Eu m-am sculat in sus si le-am vorbit in limba venusiana astfel:</p>
+            <p>— Sunt venit dintr-o planets sora cu a voastra!și cu un gest am aratat cerul.</p>
+            <p>Imediat intregul popor căzu ca prin farmee la pi-cioarele mele. Foarte mirat, nu intelegeam nimic din cele ce voiau de la mine. Unul din ei se apropia si cu multa delicatete ma inveli cu aripa lui ca și cu o manta, un altul facu acelasi lucru de alta parte și — iată-ma ridicat triumfător in aer, urmat de lungul șir de oameni-pasari cari scoteau strigate răgușite, bătînd din aripi. Astfel escortat, am retrecut marea, insa nu ne-am indreptat spre partea de unde venisem, ci în-spre apus.</p>
+            <p>Regiunea in care ne aflam era acoperită numai cu dealuri, iar in departare se intrevedea o mare lumi-nata vag de aurora ce se arata. Dealurile erau acope-rite cu mii de clidiri de piatră. Ne opririm pe cel mai inalt, care se afla in mijloc.</p>
+            <p>Cu aceeasi delicatețe ca la inceput am fost dus iniuntru, mai mult pe sus. O multime de pisiri-femei ne ieșise inainte si, la vederea mea, au scos tipete și mai lugubre decit barbatții lor. Am fost suit pe un fel de estradă și indata ceilalți s-au prosternat la picioarele mele, scoțînd țipete asurzitoare.</p>
+            <p>La inceput, acest spectacol ma distra mult prin nou-tatea lui, dar am inceput curind sa ma plictisesc. Am făcut atunci o mișcare ca si mi dau jos; imediat ve-nusienii se repeziri la mine și ma instalara cu multă gratiozitate la locul meu.</p>
+            <p>După vreun ceas de cind mă aflam intr-o așa de caraghioasă pozițiune, un om-pasire iși făcu loc prin mijlocul mulțimii veni la mine. Era conducitorul meu..</p>
+            <p>Ceilalți se repeziri la el amenintitori, dar conducitorul meu horcăi ceva, din care nu am putut înțelege nimic, și amuțiră cu toții. Sprijinit de el, spintecai valurile multimii si am ieșit afari.</p>
+            <p>Dar căldura incepuse sa se simtă. Conducătorul meu băgase de seamă că nu cram in stare de a suporta nă-bușeala atmosferei ce mă inconjura și se repezi cu mine pe unul din dealurile vecine, unde se afla o sală de felul acesta. Acolo am stat tot timpul zilei. Spre seara am venit aci, după ce mai intîi am ficut un lung ocol, lăsînd intr-o parte muntii cei inalți ce ne des-părțeau.</p>
+            <p>Eu surîsei și ma adresai atunci amicului venusian; acesta ințelese surîsul meu interogator si imi răs-punse:</p>
+            <p>— Dupa cum v-am mai spus la venirea voastră aci, pamenii-păsări, cum le ziceți voi au o religiune foarte curioasă și au crezut că Saitni e un zeu scoborit din cer. Trebuie sa mai știți că majoritatea sunt liberi nu vin la noi decit pentru a le oficia serviciul divin. Cei liberi trăiesc in comun și au obiceiuri mai ciudate decit ale celor ce stau pe linga noi. Prietenului tău insă nu i se putea întîmpla nimic, Asales, caci sunt foarte prietenoși și cu moravuri blinde; afara de aceasta, unde mai pui ca au o mare teama de noi. Indata ce omul-pasare i-a facut sa infeleagă ca Saitni e protejatul nostru, au renunțat la dreptul de a-l tine inchis pentru a i se inchina.</p>
+            <p>Mulțumii imprejurărilor care imi aduceau pe Saitni teafăr și sănatos și ne hotărîrăm ca la lumina stelelor sa ne continuant drumul.</p>
+            <p>Am neglijat însa pina acum de a vorbi de flora si de fauna acestei planete.</p>
+            <p>In adevar, daca există undeva animale nenumarate, apoi desigur planeta Venus e una dintre cele dintîi la numar.</p>
+            <p>Dar animalele acestea nu au împărțirea ca pe Pa-mint; toate se impart in doua mari clase: păsări și pești. Mamifere nu există acolo.</p>
+            <p>Mările venusiene sunt populate cu un număr infinit de pești de toate speciile, in mare parte necunoscute pămintenilor. Dimensiunile lor nu sunt mari: cei mai mari pești nu măsoara nici pină la 2 metri.</p>
+            <p>Păsările sunt tot ce poate fi mai fantastic pe aceasta planeta, de la cele mai minuscule pină la cele mai mari, care aproape egalează pe oamenii-păsari. Nu există insă păsări răpitoare, chiar cele mari se nutresc cu sămintele și cu fructele ce sunt asa de numeroase pe planeta Venus.</p>
+            <p>Arborii și plantele ce cresc pe aceasta planeta au dimensiuni colosale și sunt de o natură foarte elas-tică: in timpul furtunelor ce se deslănțuiesc cu atita furie pe Venus, ei se indoiesc pina la pămînt, dar nici unul nu se rupe. Frunzișul lor e foarte des si ascunde mii de cuiburi de pascări.</p>
+            <p>O padure venusiana e un rai pentru auz si vedere.</p>
+            <p>Florile care impodobesc pădurea sunt mici, dar toate strălucitoare prin culorile lor.</p>
+            <milestone unit="unnumbered"/>
+            <p>Cu cît inaintam catre miaza-noapte, cu atit se scurtează ziua și putem calatori mai mult.</p>
+            <p>Planeta Venus e in general mai muntoasa decit Pa-mîntul, întocmai după cum prevzusem inca din se-colele al XlX-lea și al XXIII-lea. Munții sunt cu mult mai irialți decit ai Pamintului; așa, dupa ' socoteala mea, unii ajungeau la colosala inălțime de 12000 de metri. De aceea, de multe ori eram nevoiți să ocolim acești inalți munți, spre a nu fi expusi sa pierim de frig.</p>
+            <p>În drumul nostru intîlneam necontenit triburi raz-lețe de oameni-păsari. Cind treceam pe lingă accsti pașnici locuitori ai Nordului, conducatorii noștri sco-teau niște sunete guturale foarte ciudate, la care ras-pundeau cei de jos in cor.</p>
+            <p>Dupa o calatorie de cîteva zile, observai că ziua nu mai dura decit cîteva ore; aceasta mă ingrija foarte mult, fiindca frigul se accentua din ce in ce. Venusie-nii mei păreau insa ca nu suferă de nimic, păreau ca mai mult rau le face caldura excesiva decît frigul cel mai mare.</p>
+            <p>Într-o zi, tocmai cind ne pregateam sa plecam, simți cum un fior rece imi strabătu tot corpul.</p>
+            <p>Ah! afurisita organizare a corpului omenesc de pe Pamint!</p>
+            <p>Abia am mers vreo cîțiva chilometri, si nu am mai putut continua drumul. Ne-am oprit numaidecit si am intrat intr-una din acele sali de piatra care se afla risipite pe intreaga planeta. Saitni era foarte îngrijat, ma luase de mina si nu era in stare sa-mi mai spuie un singur cuvint.</p>
+            <p>Din neglijența, lasasem acasa toate medicamentele ce luascm cu noi de pe Pamint.</p>
+            <p>In mijlocul acelor pozițiuni salbatice, unde aș fi putut găsi vreun ajutor in slabele si ofilitele plante ce cresteau acolo?</p>
+            <p>Capul îcepu sa-mi vijiie, vedenii nebune incepura sa-mi joace inaintea ochilor; la un moment dat, mi se pru ca sunt azvirlit de pe planeta in spațiu și ca mă duc rostogolindu-ma necontenit in infinit.</p>
+            <p>Pierdui cunostința.</p>
+         </div>
+         <div type="chapter" n="10">
+            <head>X</head>
+            <p>MOARTEA UNUI VENUSIAN. CREMAțIUNEA</p>
+            <p>Cind m-am trezit, eram in vechea noastră locuința. O rază de la Soare patrundea prin una din ferestrele predicate in stincă și inveselea monotonia salii.</p>
+            <p>M-am ridicat și vazui pe Saitni care, cu ochii plini de lacrămi, îmi saruta miinile de bucurie, spre marea mirare a venusienilor cari ne înconjurau.</p>
+            <p>— Scapat, esti scapat, murmura el mereu, plingind de bucurie.</p>
+            <p>Mi se esplica apoi cum scapasem.</p>
+            <p>Fiindca venusienii nu cunoșteau nici un fel de medi-camente, deoarece nu aveau trebuință de ele, nu gasi-seră alt mijloc mai bun decit sa mă adoarma imediat și cu viteza cea mai mare posibilă, să mă ducă acasă, unde Saitni mi-a dat tot ajutorul posibil.</p>
+            <p>— Oh! ce ciudată organizare a corpului aveți voi, pămintenii, imi zise Silansis. Recunosc si eu ca, in aceasta privinta, noi suntem privilegiati. Noi, daca nu calătorim ziua, aceasta nu o facem fiindcă ne-am im-bolnăvi, ci fiindcă am pierde din putere si am fi proa mult obosiți; și, afara de aceasta, lumina Soarelui re-flectindu-se in apa e orbitoare și am rămine făra ve-deri.</p>
+            <p>— Iți poți inchipui, Silansis, răspunsei eu, ce era acum citeva secole, cind de cele mai multe ori un pamintean murea de boala.</p>
+            <p>— Saitni, ma adresai eu apoi tovarașului meu, cind ne vom putea intoarce pe iubitul și necivilizatul nos-tru glob?</p>
+            <p>— Dupa ce imi voi fi gasit margaritarul meu de um-brela.</p>
+            <p>— Atunci, niciodata.</p>
+            <p>— Eu cred ca unul din oamenii-pasări a furat-o din curiozitate. Mai curind sau mai tirziu tot o voi gasi. Nu e vorbă, nici nu aș putea sa-mi utilizez umbrela mea, căci acestea nu sunt plei, sunt adevărate poto-puri. Mă intreb întotdeauna; nu mă aflu oare pe Pamint, in cele dintii timpuri ale lui?... Sau, nu mă aflu in ajunul unui cataclism final?</p>
+            <p>In adevăr, ceca ce spunea Saitni era exact. Ploile pe aceasta planeta erau foarte numeroase si puternice, aceasta din cauza evaporațiunii repezi, Soarele avind un diametru indoit văzut de pe Venus. Norii se adu-nau într-o clipa și erau intotdeauna mînați de un vînt turbat care pe Pamînt ar fi rasturnat toate clădirile cele inalte și fragile ale oamenilor. Îndata cerul se în-tuneca, tunete surde murmurau in depărtare pîna cind din ce in ce se apropiau insoțite de traznete. Iuțeala îngrozitoare cu care ploaia cadea, vîntul cel repede ce indoia pina la pămint arborii cei mai inalți, vintul mării infuriate care izbea cu turbare stincile si, in sfirșit, tunetele și trăznetele ce bubuiau și care aco-pereau și executau aceste concerte splendide in salbă-ticia lor, te lăsau sa crezi ca indata planeta se va cufunda sub picioarele tale si ca apa va acoperi totul pentru veșnicie.</p>
+            <p>Eu și Saitni erani ingroziti intotdeauna, de cite ori se repeta aceasta infiorătoare scena. Silansis insă, impa-sibil, clatina din cap, zicind:</p>
+            <p>— Ceea ce vi se pare voua așa de ingrozitor e nu-mai parțial. Legile care guvernă Cosmosul sunt impa-sibile. Orisice s-ar intimpla pe o minuscula parte a neinsemnatei noastre planete n-are mai mare valoare decit o pietricica pe care o arunci in mare. Pamintul, Venus — so vor invirti mcreu in jurul lor si in jurul Soarelui, după aceleasi legi vesnice si neschimbătoare.</p>
+            <p>și noi stiam lucrurile acestea, dar frica nu ne era mai mica, pentru ca ne impresionau prea mult.</p>
+            <p>Venusienii nu mureau niciodată de accidente si aceasta ni se pare curios. Rareori cite un om-pasăre, sur-prins de furtuna in inălțimea atmosferei, era traznit si recadea pe planeta ca un scrum de cenușă.</p>
+            <p>Citeva zile după întoarcerea noastra, Silansis imi anunta ca unul dintre cei mai ințelepți venusieni mu-rise noaptea trecută.</p>
+            <p>— Cum! esclamai eu, Cesiri a miurit? leri era săna-tos si mi-a esplicat aproape o ora detaliile geografice de pe niste asteroide.</p>
+            <p>— Cind a vorbit cu tine Cesiri știa foarte bine că are să moara astazi, imi zise Silansis.</p>
+            <p>— De unde știa?</p>
+            <p>— Avem o limita a virstei peste care nu putem trece. Uneori am putea sa mai prelungim, pentru citeva luni sau și pentru un an, viata, dar la ce-ar folosi acest lucru daca nu putem sa conservam in acelasi timp si inteligenta?</p>
+            <p>— Ce faceți cu cadavrul?</p>
+            <p>— Il ardem.</p>
+            <p>— Noi tot nu am ajuns la acest mod practic de dis-trugere. In secolul al XlX-lca, ideea accasta capatase oarecare putere, reamintind același lucru ce facea un vechi popor, din secole și mai tirziu; se formase deja o societate anumita pentru acest scop, dar revoluțiile groaznice care urmară facura sa dispara această idee; in secolul al XXV-lea am fost nevoiți sa reluam vechile moduri de ingropare, adica de a baga cadavrul in pa-mint. și de atunci ideea aceasta s-a inradacinat așa de mult, încît nici nu se mai aminteste de cremațiune. Multe sunt lucrurile si obiceiurile care ne mai leaga inca de lumea veche. Cu toate astea, e logic ca indivi-dul, odata mort, sa facă astfel ca substantele din care el e compus sa fie date imediat inapoi naturei, ca ea apoi sa formeze alte fiinte. E o frustrare a naturei aceea de a da indarat cit mai tirziu elementele din care e compus individul. Tot ce e fără viața nu are valoare. Individul mort trebuie sa dea numaidecit naturei toți atomii care 1-au organizat si 1-au facut sa traiasca.</p>
+            <p>— Ceea ce spui tu, Asales, e foarte adevarat. Pamin-tenii desigur ar trebui sa adopte acest mod de distru-gere a corpului. Daca vrei, sa mergem azi la locuinta lui Cesiri si sa asistam la arderea corpului sau.</p>
+            <p>Spre seara, deci, ne indrumaram pe jos, locul fiind aproape: un singur deal ne desparțea.</p>
+            <p>Mii și mii de lumini veneau din toate partile planetei; din cauza iutelii cu care unele erau conduse, pa-reau ca sunt enorme stele cazatoare.</p>
+            <p>Am ajuns in fata sălii unde locuia Cesiri.</p>
+            <p>Afara, pe un stei de piatra, era asezat venusianul, cu mîinile puse sub cap, ca si cum ar fi fost adormit. Ve-nusieni nenumarati il inconjurau. Oamenii-psari, la o distanta respectabila, stau curioși.</p>
+            <p>Se adusera mai multe. vase; doi din venusieni unsera pe Cesiri, care era gol, cu lichidele si unsorile continute in ele si apoi ii detera foc cu o materie necunoscută.</p>
+            <p>Flacarile tișnira usor, apoi deodata o flacara albastră învali cu totul cadavrul aureolat.</p>
+            <p>Venusienii nu pareau miscați, nici unul, de un ase-menea spectacol.</p>
+            <p>Flacarile albastre se urcau la cer cu o repeziciune ui-mitoare, ca și cum ar fi fost purtate de vint, cu toate ca atmosfera, ca niciodata, era liniștita.</p>
+            <p>Se raspindea in aer un miros placut.</p>
+            <p>Silansis chema doi oameni-pasări și am piecat ina-poi.</p>
+            <p>De pe dealul nostru se vedea perfect locuința lui Cesiri.</p>
+            <p>Spectacolul era straniu. Imprejurul unei imense fla-cari albastre — mii de ființe care furnicau, iar oame-nii-pascări, cu aripile lor albe ca zapada, apareau ca și niște statui.</p>
+            <p>Scinteiau pe cer mai toate stelele, începuse a sufla un vint binefacator, pe cînd la poalele dealului nostru marea se lovea incet, cadențat, de maluri, amintindu-ne refrenul „toate trec... toate trec.</p>
+            <milestone unit="unnumbered"/>
+            <p>Se apropie încet ziua cind Silansis va chema majori-tatea venusienilor ca sa asiste la o conferința a mea asupra modului cum au cunoscut și studiat pamintenii Cosmosul. Mai ales voi vorbi despre planeta lor.</p>
+            <p>Dupa ce voi vorbi venusienilor, chiar de a doua zi ma voi consulta cu Saitni asupra mijloacelor ce tre-buiesc gasite ca sa ne putem intoarce pe planeta noas-tra.</p>
+            <p>Saitni imi spuse după moartea lui Cesiri:</p>
+            <p>— Cremațiunea poate fi modul cel mai științific și mai igienic de distrugere a cadavrului, dar eu mai bine voiesc sa fiu ingropat in humusul planetei mele. Eu nu sunt ca tine, continua el, ca sa-mi ascund toate senti-mentele; nu sunt nici sentimental neghiob, ca cei din grădinele fericirei, dar îmi iubesc planeta mea, tot așa cum un japonez sau un german din antichitale isi iu-bea patria in care se născuse.</p>
+            <p>Ceea ce-mi spunea Saitni era foarte adevărat: chiar arsi sa fim, mai bine e insă arsi pe planeta noastra. E un prejudițiu, imi dau foarte bine socoteala de el, cu toate acestea nu pot să-l alung.</p>
+            <p>O voce interna pare că-mi șoptește:</p>
+            <p>— Tu nu vei fi niciodată un adevărat cetățean al cerului — care nu are margine, care nu are deosibiri de planete, căci toate sunt copilele spațiului, ale tim-pului și ale materiei. Tu tu prea mult la umila ta planeta, pierdută in nemărginit.</p>
+            <p>Seara, cînd luceafărul Pamint rasare cel dintîi pe bolta cereasca a lui Venus, stateam ginditor și-mi fu-geau fără de voie privirile spre lucitoarele lui raze care par ca ne cheamă înapoi.</p>
+            <p>Imaginea Raltei, ca niciodată, imi apărea curată ina-inte, o confundam fără de voie cu planeta mea, le identificam. Puțin cîte puțin, am inceput sa inteleg iubirea sentimentalilor cari îsi duc viața intr-o veșnică visare, idealizind pe adorata lor, care adeseori nu exis-tă. Savantul care cunoaste legile Cosmosului, care își dă socoteala fără să se sperie de mizerabila noastră soartă, acel savant dispare din mine... Rămînea o ființă cu vechi prejudecăți, de care zadarnic voiam sa scap.</p>
+            <p>Atita timp cit omenirea pămîntenească nu va putea să se continue decît prin mijlocul practicat de la începu-tul ei, intotdeauna iubirea va prinde in mrejele ei pe oameni, făcîndu-i sa uite chiar ca aceasta nu insem-nează decit continuarea speciei. O înselătorie vesnica și plină de succes, căreia nu-i va putea rezista nimeni.</p>
+            <p>Ințeleg acum de ce sentimentalii din gradinele feri-cirei sunt asa de orbiți de pasiuni nebune care îi fac să fie demni de plins si ii reduc la o melancolie fără vindecare pentru toata viața.</p>
+            <p>De cîte ori vad perechi de oameni-pasari cari se în-vălesc in aripile lor cu atita foc, imi-aduc aminte de imperial dragostei de pe planeta noastra.</p>
+            <p>Nu erau unii învațați si filosofi cari voiau sa csplice chiar legile Cosmosului prin accst ciudat sentiment?</p>
+            <p>Saitni se intoarse emoționat intr-o dimineață, spu-nîndu-mi cum a asistat la nașterea unui venusian inferior. In adevăr, era un lucru foarte interesant: venu-sienii inferiori nășteau copiii lor vii, sau asa cum pSsarile noastre faceau oua?</p>
+            <p>Saitni povesti următoarele:</p>
+            <p>— Pe cind admiram planeta Pamintului care se apro-pia de apus, iata ca un venusian se a propie de mine si mă atinge ușor cu aripa, in acelasi timp scoțînd citeva sunete prin care părea ca imploră ceva. Nu înțelesei ce vrea de la mine, dar plecai cu el. Era venusianul care m3 scapase din miinile concetațenilor sai, cînd acestia zor-nevoie sa ma proclame de zeul lor.</p>
+            <p>Mă purtă ca la un sfert de oră, pînă am ajuns pe virful unui inalt deal. Acolo fui primit la ușa unei săli cu strigăte răgușite de bucurie: o femeie era aproape sa nasca si se zbătea, fara a putea face ca copilul sa iasa afară... Aveam nevoie de cîteva instrumente de acasă; scrisei un bilet lui Silansis si am avut ce do-ream în mai putin de douazeci de minute.</p>
+            <p>Cu ajutorul instrumentelor inlesnii facerea sarmanei femei; dar care nu-mi fu mirarea cînd, in loc de copil, avui in mîini un enorm ou lungareț și foarte elastic. Mirarea mea fu si mai mare cînd un venusian imi lua repede oul din miini și taie coaja cu un fel de piatră ascuțită: din ou iesi un mic venusian ce umplea sala de țipetele lui asurzitoare. Pe mine m-au aclamat toți prin strigăte identice, iar nobila matroană, spre ultima și prea marea mea mirare a dansat mai multe jocuri venusiene pasaresti, ca si cum nu i s-ar fi întîmplat nimic.</p>
+            <p>Pe fiecare zi, astfel, descoperim tot lucruri noi care ne pun in mirare și ne fac sa cugetăm la multiplele mijloace ale naturii pentru propagarea speciei.</p>
+            <p>Am ajuns la concluzia că știința unei singure pla-nete e vană: e ca si citirea unei singure foi dintr-o carte, vrînd apoi sa judeci întreaga opera a autorului.</p>
+         </div>
+         <div type="chapter" n="11">
+            <head>XI</head>
+            <p>PĂMÂNTENII SI VENUS</p>
+            <p>Ziua cind trebuia sa le vorbesc venusienilor despre cunoștintele noastre cosmologice si despre modul cum am ajuns la ele — acea zi a sosit si a trecut deja.</p>
+            <p>Voi relata aci o schița generala despre ceea ce am vorbit.</p>
+            <p>Venusienii au o atențiune de fier: daca aș fi putut vorbi 24 de zile de-a rindul, desigur ca venusienii ar fi ascultat cu cea mai mare plăcere.</p>
+            <p>Ca de obicei, sala era plina. Venisera venusieni din toate ungherele planetei. Oamenii-păsari lucraseră la construcția aceasta aproape o lună. In mijlocul tacerii generale, înconjurat de schițele ce făcusem mai dina-inte, începui cuvîntarea:</p>
+            <p>— La inceput au fost multe păreri asupra Cosmo-sului. Toți insă se învoiau- in a spune că Pămîntul e fix in centrul Universului, că bolta cerului e solida, că Soarele e un glob fcut dintr-adins pentru noi ca sa ne lumineze, iar stelele ca să ne facă privelistea plăuta in timpul nopții.</p>
+            <p>Cu timpul, știința a inceput sa-și elaboreze legile sale. Un astronom a dat cea mai puternică lovitura vechiului sistem: el demonstră ca Pamintul e un sim-plu glob ca si altele, care se invirtește imprejurul Soa-relui. Un alt astronom descoperi legile dupa care toate planetele sc învîrtesc imprejurul astrului rege și, in fine, un altul descoperi legile atracțiunii universale, la care se supun nu numai planetele ce formează corte-giul Soarelui, ci toate stelele ce pina atunci erau cre-zute ca fixe.</p>
+            <p>Se inventasera de asemenea lunetele și telescoapele, cu ajutorul carora luminile indepartate au fost stu-diate din punctul de vedere fizic, descoperindu-se detalii care se asemanau in mare parte cu acele ale Pa-mintului. Cometele avura o lege, stelele au fost stu-diate, geisindu-se prin calcule departarea la care plu-tesc.</p>
+            <p>Planeta voastra a inceput sa fie studiată cu multa îngrijire dar cu foarte multa greutate, deoarece pentru noi sunteți prea apropiată de Soare si lumina ce planeta voastra reflectă in spațiu împiedica pe astronomi de a distinge bine continentele și marile voastre. Catre sfirsitul veacului al XlX-lea, înca erau indoieli, emise de astronom! însemnați, asupra rotațiunii planetei Venus: unii susțineau că Venus se mișcă, ca si planeta Pamîntul, in 24 de ore imprejurul axei sale; alții, cei cari se indoiau, sustineau ca invîrtirea lui Venus îm-prejurul axei sale e egala cu aceea imprejurul Soa-relui, deci urmeaza sa prezinte intotdeauna aceeași fata Soarelui.</p>
+            <p>In antichitate, planeta voastra purta foarte multe numiri; asa, de exemplu; <hi>Vesper</hi>, <hi>Lucifer</hi>, <hi>Pnuteritan</hi>, <hi>Sara</hi>, <hi>Anadid</hi>, <hi>Nana</hi>, <hi>Nahit</hi>, <hi>El Zohra</hi>, <hi>Phosphoros</hi>, <hi>Venus</hi>, <hi>Junona</hi>, <hi>Isis</hi>. Dintre toate, <hi>VENUS</hi> este aceea care a predominat, nume care i se da si azi.12</p>
+            <p>Observațiunile facute asupra planetei Venus sunt unele din cele mai vechi și e lesne de ințeles cauza, caci, vazuta de pe Pamînt, planeta ce locuiți e splen-dida prin lumina ei, ea poarta umbra ca si Luna 13 si de multe ori e văzuta chiar in mijlocul zilei, fapt care speria mult pe cei superstițioși, cari considerau aceasta ca un semn ceresc.</p>
+            <p>Venus, ca si celelalte planete, in antichitate avea in-fluențe faste și nefaste asupra omenirei. Pozitiunile planetelor pe bolta cereasca, relative unele la altele, erau masurate cu grija intotdeauna la nașterea vreu-nui prinț.</p>
+            <p>Planeta voastră era Zeița Amorului si era reprezen-tata ca o femeie frumoasa — dupa cum pamintenii ințeleg frumosul — cu parul auriu și goala.</p>
+            <p>Venus, ca și celelalte planete, avea legende nenuma-rate. Se zicea că ea s-a nascut din spuma marii și se povesteau multe aventuri galante ale acestei dame cu zeii, și mai ales cu zeul Marte, Zeul Razboiului, planeta ce poarta același nume avind, dupa cum știți, o culoare roșiateca, asemănătoare cu a sîngelui, culoare care, de pe Pamint, e și mai pronunșată.</p>
+            <p>Omenirea transportase in cer toate pasiunile ei.</p>
+            <p>Cum s-a mai spus, Venus e cunoscută din cele mai indepartate timpuri.</p>
+            <p>Seara, cînd oamenii se odihneau de munca zilei, prin-tre miile de stele ce luceau pe cer contemplau mai ales Luceafarul, planeta voastra, care urmează Soarelui cu o ora sau chiar mai mult de doua. Alteori, ei zareau dimineata o altă stea, care preceda Soarele. Necunos-cînd legile dupa care se conduc planetele, iși inchipu-iau ca acestea sunt doua astre diferite și numeau pe una Luceafarul de seara și pe alta Luceafarul de dimi-neață. Cu timpul, au remarcat că cele doua stele erau una și aceeasi, care își schimba pozițiunea sa fața de Soare, împrejurul căuia se învîrtește.</p>
+            <p>Prima observațiune stiințifica ce se facu asupra aces-tei planete a fost acea din secolul al XVll-lea inainte de era noastra, dar aceasta observațiune se marginea a nota pozițiunea acestei planete fața de celelalte stele planete.</p>
+            <p>Venus are o forma rotunda, pe care nu o păstreaza intotdeauna si care variaza ca și aceea a Lunei, 11 caci, dupa cum v-am mai spus alta data și dupa cum stiți și voi din observațiunile voastre astronomice, Pamîntul are un satelit numit de noi Luna. Descoperirea faze-lor planetei voastre a rasturnat deci multe credinte inradacinate in sufletul pamîntenilor si i-a facut sa inceapa a judeca mai adinc asupra misterelor de care e înconjurat Cosmosul, mistere care de altminteri dispar dinaintea ochiului patrunzator al stiinței.</p>
+            <p>Cu ajutorul cifrelor, al lunetelor, planeta voastră a inceput sa fie mai bine cunoscuta prin veacurile al XlX-lea și al XX-lea. lata rezultatul cercetarilor fa-cute de astronomii de atunci, care sunt cu totul aproape identice cu cele de astazi, lasînd însa deoparte detalii-le asupra configurației continentelor si marilor de pe planeta voastra, detalii care numai cu ajutorul timpu-lui al perfecționarii instrumentelor au putut fi va-zute.</p>
+            <p>Se știe, deci, ca Venus e prea puțin mai mica decit Pămîntul, ca aveți un an de 224 de zile pamintești — pmintește vorbind, 7 luni și 15 zile; ca durata zilei la voi e de 23 de ore, 21 de minute si 22 de secunde. De asemenea, se remarcase inclinarea axei planetei se presupusese ca aveți anotimpuri excesive, cind cal-duroase prea mult, cind friguroase. Se presupunea ca aveți munți inalți, munți ce va acoperă planeta mai in intregime, și se cunoșteau de atunci chiar și marile ce inconjoară ecuatorul vostru. Unii intrevazusera chiar zăpezi la polurile planetei voastre și, dupa mai multe cercetări, se ajunsese la convingerea ca nu aveți nici un satelit.</p>
+            <p>Incepuse sa se serie multe romane astronomice asupra planetei și locuitorilor ei.13 Unii ziceau ca Venus tre-buie sa fie locuită de oameni negri, din cauza arșiței Soarelui; altii ziceau ca rasa ce domneste aci trebuie să fie foarte frumoasa și inteligentă, ca traiți numai in placerile dragostei — in sfirșit, foarte multe ipoteze, care de care mai nelogice. Trebuie sa știți insa ca ma-joritatea acestor romane erau mai mult ca sa faca pe oameni sa se distreze. Cu cit autorul avea mai multa imaginafiune și cu cit, prin urmarc, se departa de la datele stiințifice, cu atit opera era mai bine vazută de cei cari o citeau.16 și nu numai asupra planetei voastre s-au scris asemenea romane, ci asupra tuturor plane-telor cunoscute.17</p>
+            <p>Cu timpul, am ajuns însă nu numai sa avem romane, ci savanții, lucrînd si observînd, au reușit să faca harta planetei voastre, cum aveau mai inainte si pe aceea a lui Marte si a Lunei. Aci le făcui mai multe configu-rațiuni ale continentelor si marilor lor, cum si cîteva harti reprezentind canaluri de pe planeta Marte.</p>
+            <p>Vedeți deci ca posedam și noi, in timpul de fața, cunoștinta Cosmosului și ca ne perfectionăm mereu in aceasta știinta.</p>
+            <p>Cind ne vom întoarce pe Pamint, vom face o adeva-rata revoluțiune in instrumentele de optică, pe care le vom perfecționa dupa modelul celor ce am găsit aci la voi.</p>
+            <p>De asemenea, voi preconiza, pe cit voi putea și pe cit vor permite împrejurările in care se afla locui-torii Pămîntului, voi preconiza modul vostru de viata, abnegațiunea voastra sublima de la orice alte placeri, studiind continuu Cosmosul și legile lui. Trebuie sa facem ca și restul omenirei sa ajunga la aceleași re-zultate ca și noi, sa vază lumea și Cosmosul ca o ne-contenita transformare, sa vază ca nu trebuie sa punem prea mult preț pe umila noastra planeta, si mai putin inca pe individualitatea noastra.</p>
+            <p>Ce ne pasa daca nu vom mai fi peste citeva milioane de ani nici noi nici planeta noastra, daca nimeni nu e nemuritor și daca moleculele noastre și ale Pămîntu-lui ce locuim vor da naștcre altor lumi, altor corpuri, care vor trai cum trăiesc și cele de acum, pentru a pieri in noapte și in intuneric.</p>
+            <p>Destul că o clipă a scinteiat in intunericime facia cea curată a inteligenței, stiinței si adevărului.</p>
+         </div>
+         <div type="chapter" n="12">
+            <head>XII</head>
+            <p>PREGĂTIRI DE PLECARE.SAITINI ÎNDRĂGOSTIT</p>
+            <p>Citeva zile dupa aceasta conferința, am avut cu Sait-ni o discuție foarte lunga asupra modului cum am pu-tea capata electricitatea in acumulatoarele masinei noastre, pentru a ne putea întoarce pe planeta Pamînt. Nu făra temere am deschis aceasta conversațiune, căci știam foarte bine ca Saitni, ca și mine, nu cunoștea un mijloc cu care am putea prinde electricitate din at-mosfera. Ne lipseau aparatele necesare caci, fiind prea mari, nu le-am putut aduce cu noi.</p>
+            <p>Îi expusei lui Silansis cauza neliniștei noastre și el raspunse ca poate nu e un lucru așa de greu dupa cum gindeam noi. Ideea lui Silansis era urmatoarea: sa ca-patam electricitatea necesara chiar din nourii planetei cari, in timp de furtuna — stare aproape normală —, poseda electricitate uimitoare prin forța ei distruga-toare.</p>
+            <p>Eu surîsei cu neincredere: asa ceva, dupa mine, era mai mult ca imposibil; cel care ar fi facut esperiența ar fi fost traznit pe loc, orice mijloace ar fi intrebuin-tat și orice precauțiuni ar fi luat.</p>
+            <p>Silansis propuse ca sa ne servim la prima încercare de oamenii-pasari, dar nici eu nici Saitni nu am primit această propunere.</p>
+            <p>Silansis cunoștea perfect vehiculul nostru, pîna in cele mai mici detalii. Incepu sa studieze modul cum se facuse incarcarea acumulatorilor, eu dîndu-i esplica-țiunile necesare, si intr-o buna seara imi spuse foarte liniștit:</p>
+            <p>— Am gasit.</p>
+            <p>Neincrederea mea era aceeasi.</p>
+            <p>Asteptam cea dintii zi in care atmosfera sa fie sau-rate de atita electricitate. Ceea ce ma ingrija mai mult era soarta masinei mele, căci de ea depindea si viața mea și a lui Saitni.</p>
+            <p>Ne hotărîsem ca noi doi, Silansis și eu, sa facem în-cercarea.</p>
+            <p>De citeva zile, Saitni disparuse. De altfel, nu ma mira absenta lui, caci se intimpla de multe ori să lipsească mergind sa viziteze planeta, insoțit de venusieni și oameni-pasari. Lucru care mi se intimpla adesea si mie.</p>
+            <p>Silansis puse in comunicatie acumulatorii masinei cu niște sirmă groasa, de un metal necunoscut pc Pămînt. Incercarea consta in a face ca electricitatea sa se scurga toata prin acea sirma in acumulatoare, care aveau o puternica forță de primire. Totul era insa ca nu cumva, sub influența vreunei descarcări prea pu-ternice, sa nu fie distrust nu numai marina, dar chiar si noi.</p>
+            <p>Eu cu Silansis eram ocupați cu supravegherea robi-netelor care inchideau comunicația în caz cînd indica-torul ar fi aratat o cantitate suficienta pentru calatoria noastră siderala.</p>
+            <p>După o așteptare de vreo jumătate de ceas, timp in care incărcarea s-a făcut foarte regulat fără nici un accident, tntrerupseram circulatia și...</p>
+            <p>— Ura!... În curind vom porni spre Pămînt, tipam eu, spre marea mirare a venusianului Silansis.</p>
+            <p>Saitni tocmai sosea cu un om-pasăre. Cum îl zării și fu jos de pe aripile păsării, îi sării de gît:</p>
+            <p>— Suntem scăpați, Saitni, plecarea noastră e sigură!</p>
+            <p>Saitni se uita lung la mine și-mi răspunse cu o voce seacă:</p>
+            <p>— Atît mai rău.</p>
+            <p>— Cum atît mai rău? Nu cumva îți pare rău că-ți vei vedea planeta?</p>
+            <p>— Imi pare rău că va trebui să plec de aci.</p>
+            <p>— și cauza?</p>
+            <p>— Cauza!... Cauza!... repeta el, foarte încurcat și neîndrăznind să se uite drept in ochii mei, urmArind cu privirea pe Silansis, care sta mai departe de noi, examinind masina. Cauza... e că... sunt indrăgostit!</p>
+            <p>— De cine?!... Nenorocitule!... De vreun venu-sian?... Amor contra naturei?...</p>
+            <p>— Nu, de o venusiana.</p>
+            <p>— Din rasa inferioarA!</p>
+            <p>— Tocmai... și dă-mi voie să ți-o prezent.</p>
+            <p>In adevăr, nu observasem că omul-pasăre cu care venise Saitni era o femeie-pasăre: distinctiunea era greu de făcut de departe, căci cele doo sexe nu se deosibeau mult unul de altul, deoarece mamelele erau foarte mici la femei. Era însă o deosebire: femeile ve-nusiene erau mai frumoase decit bArbatii lor și ochii lor aveau o espresie de melancolie vagă și ciudată, cum am văzut la multi sentimentali din grădinele fe-ricirei.</p>
+            <p>Eu zisei atunci lui Saitni, care sta cu capul plecat spre pămînt:</p>
+            <p>8 — În anul 4000 sau o călătorie spre Venus</p>
+            <p>Cum, Saitni! La virsta ta sa faci o asemenea pros-tie, sa te indragostești ca cel din urma pamîntean sentimental! Tu faci Academia noastra de rîs si vei fi șters, cu siguranță, din numarul celor 25, și la urmă inchis cu pasărea ta in gradinele fericirei!</p>
+            <p>— Nu voiu să stiu nimic! O iubesc, mă iubeste!</p>
+            <p>— Dar e un amor contra naturei: nu e o femeie, e o pasare!</p>
+            <p>— Privește-o, Asales, si spune dacă nu seamănă cu cea mai frumoasă femeie după Pămînt!</p>
+            <p>— Dar ea... -</p>
+            <p>— Oh! prietene, nu-ți poți inchipui dragostea ce are pentru mine!... Cu ajutorul ei am găsit umbrela pierdută... lata!</p>
+            <p>Si, cu un gest triumfator, roti pe deasupra capului colosala umbrela, ca și un erou din timpurile vechi care invîrtea o sabie amenințătoare contra inamicului.</p>
+            <p>— Ah! Ințeleg acum, esclamai cu rîzînd, e o dra-goste din recunostință.</p>
+            <p>— Nu rîde, Asales, căci voi fi dezolat: din această cauză nu ti-as mai vorbi niciodată!</p>
+            <p>— Zi, e serios?</p>
+            <p>— Foarte.</p>
+            <p>— Prea bine, ascultă ceea ce eu iti spun acum: peste trei zile vom pleca. Masina e gata. ea nu asteaptă decit imboldul nostru... sau numai al meu, asta de-pinde: dacă nu te învoiesti pînă peste trei zile să ple-căm, vei ști că eu plec singur!</p>
+            <p>Saitni nu răspunse si se depărtă foarte trist, insoțit de dulcineea lui.</p>
+            <p>Eu pusesem acest termen scurt, căci stiam cu sigu-ranță că Saitni nu ma va 1ăsa să plec singur.</p>
+            <p>Trecuseră deja doo zile si Saitni tot nu se arătase.</p>
+            <p>Tn timpul acesta, eu pregătisem totul de piecare, regulasem toate aparatele, pnoi restul timpului mi 1-am petrecut in compania înțelepților venusieni, cari erau necajiți ca nu pot face o asemenea calatorie. Mașina mea era facuta numai pentru doo persoane, cantitatea de aer trebuincios era calculate numai pentru acest nu-măr: o ființa mai mult ar fi fost o moarte sigura a cîtor trei.</p>
+            <p>Am corijat cu Silansis un memoriu detaliat asupra planetei Venus, pe care il lucrasem in timpul șederii mele acolo.</p>
+            <p>Silansis rni-a fagaduit ca, pina într-un an, crede că va putea sa viziteze Pamîntul. Cind 1-am intrebat prin ce mijloc, nu a voit sa-mi spuie, zicându-mi că acesta e secretul său. Ne-am învoit insa ca, inainte cu citeva luni de piecare, sa ne avizeze prin oarecare semne, de exemplu formarea unei imense linii geometrice pe o scara intinsa. Cu instrumentele noastre perfectionate, am putea distinge foarte bine acele semne si, ca sa nu ramiie indoiala asupra lor, venusienii vor schimba ne-contenit acele forme; vor face cercuri, patrate, parale-lograme etc.</p>
+         </div>
+         <div type="chapter" n="13">
+            <head>XIII</head>
+            <p>SPRE PĂMÂNT</p>
+            <p>A treia zi dimineașăță, Saitni s-a inters. Venea trist și îngîndurat.</p>
+            <p>Eu, de bucurie, am uitat tot necazul ce mi-l prici-nuise și 1-am primit cu brațele deschise:</p>
+            <p>— In sfirșit!... Ai lasat acele ginduri urite la o parte!</p>
+            <p>— M-am intors fiindca țiu prea mult la Pamint și la tine, altfel...</p>
+            <p>— Altfel... ai fi ramas cu pasarea ta.</p>
+            <p>— Sărmana fata... cu ce durere ne-am desparțit. Va veni la plecarea noastra... Mîine e ziua plecării, da?</p>
+            <p>— Da. Mîine dimineata, odata cu rasaritul Soarelui, vom pleca.</p>
+            <p>— Iartă-ma, Asales, dacă nu am venit sa-ți dau aju-tor pentru pregatirile plecării, dar sunt cuprins de o pasiune pe care nu am mai cunoscut-o pina acum... Am ajuns mai rau decit un sentimental pamîntean.</p>
+            <p>— și ce sperai tu, Saitni, de la o ființa astfel orga-nizată? Nu știe nici limba venusiana sa vorbeasca.</p>
+            <p>— Da, dar ne ințelegem mai bine decit in orice limba.</p>
+            <p>— Bine... dar din punctul de vedere fiziologic...</p>
+            <p>— Mi-a dat tot ce o fata poate sa dea.</p>
+            <p>Ramasei inmarmurit:</p>
+            <p>— Dar legile naturei sunt călcate! esclamai eu.</p>
+            <p>— Ce legi!... Ce natură!... Doo finite de sex di-ferit care se ințeleg si se iubesc... E oare vreo lege care să oprească lucrurile naturale? Legile le-am dat noi in inchipuirea noastra naturei, pentru a ne impie-dica singuri fericirea.</p>
+            <p>Desigur, atmosfera cea inabușitoare a planetei jucase aceasta farsa pe socoteala creierului prietenului meu.</p>
+            <p>Dar, fiindcă se hotarise sa piece cu mine, aceasta dragoste ciudata avea un sfirșit pentru vecie: ne vor desparti in curind de la 10 pina la 15 milioane de leghe.</p>
+            <p>Mîine, deci, ne vom indrepta catre verzuiul Luceafar ce lucește așa de liniștit si senin in frumoasele nopti ale planetei Venus!</p>
+            <p>Rimas bun, locuitori curioși ai unei planete soră cu Pamîntul!</p>
+            <milestone unit="unnumbered"/>
+            <p>Ziua cea mare, ziua plecării!</p>
+            <p>Parca sunt mai vesel acum decît in ziua cind pleca-sem sa descopar o lume noua.</p>
+            <p>E dorul de a-mi vedea mai iute planeta, locurile unde am copilărit, unde am invațat să cunosc misterele ar-monicei naturi.</p>
+            <p>Citeodată, cînd aud pronunțîndu-se cuvîntul natura, sau numai ma gindesc la el, imi defileaza pe dinaintea ochilor legiuni fara număr de lumi locuite ori pustii, miliarde de corpuri cerești ratacitoare care plutesc in spațiu minate de acele legi veșnice care nu-au inceput si care nu vor avea sfirșit.</p>
+            <p>De multe ori cînd am astfel de ginduri, imi pun intrebarea:</p>
+            <p>La ce bun toate acestea? Pentru ce se naște o planeta din sinul haosului ca sa dea nastere unei omeniri care dupa milioane si milioane de sccole ajunge la o perfectionare extrema, incepe sa înțeleagă Cosmosul, apoi treptat-treptat, scoborind scara suită, trecind prin aceleași faze in sens invers, se pierde in intuneric și uitare...</p>
+            <p>La ce bun o inșelatorie vecinică facînd pe oamenii unei planete sa creada ca dinșii se afla in centrul, lumii, ca tot cerul și astrele lui se invirtesc impreju-rul ei, daca vine mai tirziu deziluzia, nu numai ca nu avem importanța in Univers, dar că poate suntem pe o planeta foarte mica fata de alte corpuri cerești...</p>
+            <p>La ce bun știintele vane ce-și fauresc oamenii lor după modul lor de a înțelege?</p>
+            <p>Care le va fi codul lor de morala?</p>
+            <p>Care le va fi conduita ce trebuie sa urmeze in viața?</p>
+            <p>Intrebari fara raspunsuri.</p>
+            <p>Pamintul și toate corpurile cerești vor urma inainte cursa lor nebuna iar intrebările oamenilor se lovesc de sînul de piatră al naturei: nimeni nu răspunde, ni-meni nu le-aude, caci nimeni nu există.</p>
+            <p>Există doar legi veșnice și neschimbatoare care fra-mintă materia continuu transformind-o după voia lor, daca s-ar putea zice ca au voința aceste legi inflexibile și inconștiente.</p>
+            <p>Bun! Iată-mă cuprins de visuri.</p>
+            <p>Curios! Pare că ma apropii de concluziile lui Sait-ni...</p>
+            <milestone unit="unnumbered"/>
+            <p>Venusienii s-au adunat cu toți spre a asista la ple-carea noastră. Au venit și oamenii-păsări din toate părțile planetei Venus.</p>
+            <p>Pentru ultima oară le adresez citeva cuvinte prin care le multumim la toți de buna primire ce ne-au făcut.</p>
+            <p>Saitni, intr-un colt, sta rezemat de pasărea sa care, cu ochi vagi si melancolici, privea spre monstrul ce stă gata să-i răpească iubitul.</p>
+            <p>Făcui semn lui Saitni, ne urcarăm in mașină și, la un moment dat, mașina zbură cu o iuțeală mai mare ca a fulgerului către indepărtatele regiuni pe unde zboara imense corpuri cerești fulgerătoare de lumină.</p>
+            <p>Noi eram cei dintii care bătatoream acest drum.</p>
+            <p>Poate intr-o zi locuitorii planetelor care formează cortegiul Soarelui nostru vor putea fi in continua corespondență. Mercur, Venus, Pămîntul, Marte — și multe din micile planete și mulți din sateliții planetelor mari — sunt locuite.18</p>
+            <p>Planetele cele mari abia acum conțin desigur germe-nii vieții omenești. Jupiter e deja in epoca lui terțiara, daca s-ar putea stabili o comparație intre Pămînt și enormul glob ce e de 1300 de ori mai mare decît Pa-mintul. Saturn, Uranus, Neptun și Pluton (aceasta din urma e cea mai departata, din toate planetele, de Soa-re; e descoperită de venusieni, pamintenii insa o bănu-isera de mult dupa perturbațiunile ce aceasta producea planetei vecine, Neptun19) — sunt incă in primele lor perioade. Va trece mult timp pîna cînd pe aceste pla-nete se vor dezvolta ființe inteligente care sa poata intelege Cosmosul.</p>
+            <p>Poate ca nici nu vor mai fi atunci ființe cugetătoare pe planetele ce acum au omeniri inteligente.</p>
+            <p>Pamintul va fi desigur un imens țintirim lipsit de aer prin urmare de apă.</p>
+            <p>Incetul cu incetul, după un timp — indelungat pentru fiecare planeta, dar socotit ca o clipire in timpul infinit — toate planetele sistemului solar vor fi lipsite de viață. Soarele care 1e dă la toate căldură va stinge facla lui datatoare de viața va duce cu el in nemărginire imensele globuri moarte. Va rătăci poate mult timp pină cînd va întîlni un glob imens asemenea lui din ciocnirea lor se va naste lumina, căldura și apoi, mai tîrziu, viata.</p>
+            <p>Dar aceasta se repeta dintotdeauna.</p>
+            <p>Noi suntem oare primele fiinte care contempla Uni-versul? Nu au mai fost milioane și miliarde altele care s-au stins?</p>
+            <p>Mai adineauri, cind am zis ca noi suntem cei dintii cari calatorim prin aceste paragini, am zis-o numai in ceea ce privește planeta noastra.</p>
+            <p>Poate omenirile ce ne-au precedat pe alte Pamînturi au fost mai inaintate, poate au comunicat planetele unele cu altele cu mai multa inlesnire.</p>
+            <p>Poate!...</p>
+            <p>Dar cugetarea se sperie și se pierde in baosul sau mai bine zis in armonia nemărginirei.</p>
+         </div>
+         <div type="chapter" n="14">
+            <head>XIV</head>
+            <p>COMETA</p>
+            <p>Pe cînd gindurile ma purtau in depărtările spațiului ale timpului, zburam cu o iuțeala neinchipuită, mai mare chiar decît a multor planete.</p>
+            <p>Saitni, cu figura posomorită, privea pe ferestre spre locul unde lăsem planeta Venus, care acum se făcuse foarte mica.</p>
+            <p>— Saitni, lasă gindurile care îți rod sufletul. Gin-dește-te mai bine la bucuria ce vei incerca vazindu-ți planeta.</p>
+            <p>— Acum mi-e egal... Am putea sa trecem și dincolo de Neptun, dincolo de Pluton... chiar intr-alt Soare vecin.</p>
+            <p>— Sa nu vorbești intr-un ceas rău, Saitni.</p>
+            <p>Pe cînd ziceam aceste cuvinte, am privit distrat spre partea dinainte a masinei noastre. La o distanța la care Pamîntul nu se putea afla inca, lucea un corp care nu părea sa aibă o forma perfect rotunda.</p>
+            <p>Ce putea fi?l</p>
+            <p>Mi-adusei aminte imediat că discutasem cu Silansis asupra unei comete care trecuse pe lingă Pămint si se indrepta spre orbita lui Venus.</p>
+            <p>Nu cumva ne-am ciocni in drumul nostru?</p>
+            <p>Trezii pe Saitni din impasibilitatea in care se afla și-i aratai cu un gest astrul ce se indrepta amenin-țător spre noi.</p>
+            <p>Saitni zise incet:</p>
+            <p>— O cometă.</p>
+            <p>Era o cometa imensa. Lucru curios, nu avea coadă. Aceasta mă facea sa cred ca e adevărată opiniunea emisa de unii din Vechii astronomi paminteni, ca o coada de cometa nu e decit un reflect al simburelui ei in eter.</p>
+            <p>Si noi ne indreptam mereu spre acest corp care vine din ce in ce mai navalnic, mai turbat!</p>
+            <p>Ce trebuie sa facem oare? Să deviam drumul? Dar am fi amenințati sa pierdem centrul de atracțiune al Pamintului și atunci — adio orice speranță de a ne mai vedea planeta!</p>
+            <p>Putem studia foarte bine constituția fizica a cometei. Un enorm corp solid, compus in mare parte de materii incandescente care ard ca intr-un imens cuptor.</p>
+            <p>Pare un adevarat infern, dupa cum 1-au zugravit religiunile vechi pamîntene.</p>
+            <milestone unit="unnumbered"/>
+            <p>Intr-o clipă, monstrul gigante s-a apropiat și a trccut pe linga noi cu o iuțeala neinchipuită, data fiind și iu-teala nemasurată cu care mergeam noi in sens invers. Am putut insa remarca, in momentul trecerii, ca ne-am apropiat de el spre partea lui inferioara.</p>
+            <p>Monstrul se ducea departe in adincimile spațiului clocotind cu furie, iar noi zburam acum, dupa cum arata indicatorul, cu o iuțeală mult mai mare decit aceea cu care am plecat. Cometa poseda electricitate considerabila și ea e cauza prea marii activități a acu-mulatoarelor noastre.</p>
+            <p>Cum s-a facut încarcarea? Mister. Nu am ințeles niciodata.</p>
+            <p>Dar drumul nostru desigur e schimbat...</p>
+            <p>Oh! fragile ființe omenești, natura va poate zdrobi: intr-o clipa, cu una din nenumAratele ei puteri!</p>
+         </div>
+         <div type="chapter" n="15">
+            <head>XV</head>
+            <p>SPRE INF1N1T</p>
+            <p>Pamîntul începuse sa se zareasca asemeni unui mic glob rotund. Luna era de cealalta parte a Pamîntului, mai mult ca un punct decit ca un glob. M-am bucurat de acest fapt, fiindca nu știam bine ca ea ce am apucat din cauza deviațiunii ce suferisem din partea come-tei. Dacă din intimplare Luna ne-ar fi atras spre ea, cu iuțeala cu care mergeam desigur ca ne-am fi zdrobit de stincile vreunui crater, în care ne-am fi găsit moar-tea.</p>
+            <p>Ce pericole pentru niște ființe așa de plapinde ca oamenii, cind voiesc-să infrunte legile naturei! E mon-struoasă o asemenea lupta, e neegala, si totuși suntem nevoiți sa o suportați, caci nu avem incotro.</p>
+            <p>Mai avem citeva ore.</p>
+            <p>Vom putea debarca in pace? Daca ne-am strivi de vreuna din inaltele coame de munți ai Pamîntului? Dar aci cazul e mai puțin probabil, caci pe Pamint se afla mai multe mari decit continente.</p>
+            <p>Dar daca vom cadea in mare nimeni nu ne va ve-dea cazînd, cine ne va scoate? Pe Venus am fost sal-vați de oamenii-pasari, cari ne obsevasera caderea; dar daca se va intimpla să cădem tocmai in Oceanul Pacific, departe de orice ființe omenesti?</p>
+            <p>Reflectiile acestea mă fac trist, și pe mine și pe Saitni. </p>
+            <p>In orice caz tristi sau voioși, soarta ne va fi aceeași.</p>
+            <p>Vom rămîne însă în analele planetei noastre ca doi oameni curagioși cari au infruntat cele mai mari pericole pentru cauza științei Cosmosului!</p>
+            <milestone unit="unnumbered"/>
+            <p>Mai avem vreun start de oră pina sa ajungem.</p>
+            <p>Saitni imi vorbi adineauri de viața ce ar dori sa aibă de acum inainte, daca ar izbuti sa ajunga cu bine pe Pămînt.</p>
+            <p>— La ce bun atîta munca, pentru ce sa cauți a cu-noaste misterele nepătrunse ale naturei, care sunt cu atit mai mari cu cît cunoști mai multe! „știinta e ca o sfera care, cu cit îsi marește volumul, cu atit își înmulțește punctele sale de contact cu necunoscutul” — a zis un vechi savant, și avea cea mai mare drep-tate.</p>
+            <p>De aceea, zicea Saitni, as dori sa incep o noo viață, aș voi să traiesc retras departe cu o femeie care sa mă iubească si sa o iubesc. Sunt cu totul plictisit de viata ce o duc... Orisice am descoperi noi, orisicite cuno-stinte am poseda asupra Cosmosului — toate au un mic termen: uitarea.</p>
+            <p>Ce dulce e viața in singuratatea a doi care sa iubesc si, in locul acestui vis frumos, să te pierzi fn spațiu!</p>
+            <p>— Ti-e frica, Saitni?</p>
+            <p>— Frică?... Nu... Dar imi pare ca aș fi dorit sa mor mai bine in voluptoasele brațe ale unei femei iu-bite, decît pe recele sin al naturei!</p>
+            <p>Pe cînd vorbeam astfel, iată ca, la o distant oare-care in dreptul nostru, 1ăsam Pamintul... încercarea de a descinde e zadarnicita... suntem pierduti de-a pururea in nemarginire!</p>
+            <p>Departe, departe de tot, Pamîntul se scufundă în in-finit... noi, inmarmuriți, privim cum lumina lui se stinge din ce in ce...</p>
+            <p>Pierduți... pierduți pentru veșnicie! Vom merge astfel fara sa ne dam seama unde, vom putea trece cor-tegiul Soarelui, apoi — dincolo de el, tara să ne oprim.</p>
+            <p>Vom muri în această afurisita mașină și noi tot vom zbura, departe... departe..</p>
+            <p>Peste milioane si milioane de leghe, vom întîlni poate vreun corp ceresc, si vom cadea pe el: de va fi un soare ne vom volatiliza la moment, de va fi o planeta vom servi de curiozitate astronomică locuitorilor ei.</p>
+            <p>Mai adineauri, gaseam gînduri consolatoare, dar acum nu ma pot abține de a nu varsa lacrami amare. Oh! țin... țin la acel Pamint pe care m-am nascut, de pe care am învațat Cosmosul, a carui istorie ce se pierde în noapte o cunosc si o înțeleg.</p>
+            <p>Oh! Ciarit, ce dulce viață ne-am fi facut noi amîn-doi!</p>
+            <p>Du-te, turbata masină! Puterea care o posezi și cu care devorezi spatiul și timpul noi ti-am procurat-o, noi, acum victimele tale. Corp neinsuflețit, ti-am dat viață, cu care tu vei stinge pe a noastra!</p>
+         </div>
+         <div type="chapter" n="16">
+            <head>EPILOG</head>
+            <p>Aci autorul e indreptațit sa intervina, pentru a nu se crede ca cei doi calători au fost duși dincolo de sfera de atracțiune a Soarelui.</p>
+            <p>Asales și Saitni au debarcat pe Marte. Vom vedea in-sa aceasta într-alt volum, pe care il vom consacra nu-mai șederii lor acolo, cum si intimplarilor la care le-a dat naștere șederea lor pe acea planeta.21</p>
+            <p>Sa aruncam însa o privire spre planeta Pamint, pe care am parasit-o de atita timp.</p>
+            <p>De citeva secole inaintea lui Asales, starea sociala era aceeași: aceeași domnie a stiinței, pe care Asales o lauda așa de mult. Dupa plecarea lor, insa, nu a mai tinut mult timp aceasta liniște.</p>
+            <p>Printre locuitorii planetei se ivira turburări grave. Se știe-că erau numai 25 de indivizi cari formau un fel de guvern absolut fara nici un control din partea mulțimii. Daca însa nu ar fi restrins așa de mult liber-tatea locuitorilor, închizind pe unii din ei si omorin-du-le copiii, desigur ca, cu toata autocrația lor, aceștia nu s-ar fi revoltat.</p>
+            <p>Într-o noapte, locuitorii cei mai inteligenți luînd ini-țiativa, au distrus toate masinele si aparatele electrice cu care cei 25 dominau mulțimea; apoi, mulțimea a na-valit in palatele lor, distrugînd tot ce le ieșea in cale. Cel dintii lucru la care s-a gindit multimea a fost li-bertatea celor inchiși. Familiile invatate fura crutate, cu condițiunea ca nici un membru din ele sa nu se mai ocupe cu știința.</p>
+            <p>Era o lecție generala: toți erau buni, interesele ma-terial nu-i desparțeau, nu aveau comert și industrie ca să-si faca concurența, nu aveau trebuința de a mîn-ca alimente grosiere. lubivea scoborise ingerii ei pe pamint.</p>
+            <p>Era o primavara veșnica de iubire. In cîțiva ani, populația se indoi (numarul oamenilor descrescuse mult in timpul celor 25). In sufletul tuturor puteai citi ca intr-o carte: „Iubire... iubire veșnică și dispreț nemar-ginit pentru recea natură cu legile ei inflexibile.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
