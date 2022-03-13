@@ -4,7 +4,7 @@ chars:
 	'chars.pl {} >> stats/chars-files.txt'
 	chars-summ.pl < stats/chars-files.txt > stats/chars.txt
 tei2text:
-	find ../level1 -name 'ROM*.xml' | $P --jobs 10 \
+	find level1-fixed -name 'ROM*.xml' | $P --jobs 10 \
 	'$s -xsl:eltec2text.xsl {} > text/{/.}.txt'
 tags:
 	rm -f stats/tags.*
