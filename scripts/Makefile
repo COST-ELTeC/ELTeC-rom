@@ -12,6 +12,8 @@ tags:
 	'$s -xsl:tagcount2.xsl {} >> stats/tags.tmp'
 	cut -f1 stats/tags.tmp | sort | uniq > stats/tags.lst
 	rm -f stats/tags.tmp
+
+# level1-fixed/* have been hand-edited, so we can't automatically make them anymore
 xxx-fix-l1:
 	find ../level1/ -name 'ROM*.xml' | $P --jobs 10 \
 	'$s -xsl:fix_level1.xsl {} > level1-fixed/{/}; ${j1} level1-fixed/{/}'
