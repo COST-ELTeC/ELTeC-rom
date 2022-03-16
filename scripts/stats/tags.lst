@@ -1,21 +1,21 @@
-back
-body
-corr
-div
-emph
-foreign
-front
-gap
-head
-hi
-l
-label
-milestone
-note
-p
-pb
-quote
-ref
-text
-title
-trailer
+back	OK
+body	OK
+corr	OK
+div	OK
+emph	OK
+foreign	OK
+front	OK
+gap	OKish
+head	OK
+hi	OK
+l	OK
+label	OK
+milestone	OK
+note		OKis (do we want back and notes!?)
+p		OK
+pb		OK
+quote		OKish (used instead of q but also on the level od div)
+ref		OKish (used in the middle of paragraph without attributes)
+text		OK
+title		OKis (used in the middle of paragraph, but \n split paragraph)
+trailer		OK (used as paragraph)

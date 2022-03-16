@@ -1,4 +1,4 @@
-<!-- Dump text from ELTEC, one "paragraph" per line -->
+<!-- Dump text from ELTEC, one "paragraph" per \n\n line -->
 <xsl:stylesheet version="2.0"
 		xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
 		xmlns:xs="http://www.w3.org/2001/XMLSchema" 
@@ -12,8 +12,8 @@
   <xsl:template match="/">
     <xsl:apply-templates select="tei:TEI/tei:text"/>
   </xsl:template>
-  <xsl:template match="tei:p | tei:note | tei:l | tei:trailer">
+  <xsl:template match="tei:quote | tei:head | tei:label | tei:p | tei:l | tei:note | tei:trailer">
     <xsl:value-of select="normalize-space(.)"/>
-    <xsl:text>&#10;</xsl:text>
+    <xsl:text>&#10;&#10;</xsl:text>
   </xsl:template>
 </xsl:stylesheet>
