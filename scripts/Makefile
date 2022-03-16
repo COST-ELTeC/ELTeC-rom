@@ -1,3 +1,11 @@
+test-tei1:
+	eltec-conllu2tei.pl conll/ROM001.conllu level1-fixed test
+	${j2} test/ROM001-L2.xml
+ana2tei:
+	ls -d conll/*.conllu.ner | $P --jobs 10 \
+	eltec-conllu2tei.pl '{}' 'level1-fixed' '../level2'
+	${j2} ../level2/*.xml
+
 chars:
 	rm -f stats/chars-files.txt
 	ls text/ROM*.txt | $P --jobs 24 \

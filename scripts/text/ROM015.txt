@@ -1,563 +1,1134 @@
 Radu Ionescu la 1866
+
 RESTITUTIO
+
 RADU IONESCU
+
 SCRIERI ALESE
+
 Ediție îngrijită, prefață, note și bibliografie de
+
 DUMITRU BĂLĂEț
+
 EDITURA MINERVA. BUCUREșTI. 1974
+
 PROZĂ
+
 DON JUANII DIN BUCUREșTI
+
 28 noiembre 1861
+
 Domnule redactor
+
 Binevoiți a primi acest manuscript pe care-l veți tipări, daca veți găsi într-însul oarecare interes ce iese din descrierea unor obiceiuri contimporane. Publicarea acestui romanț în foaia ce dirigeți va fi pentru mine o dovadă c-am izbutit ș-o încuragiare d-a urma înainte. Sunt întemeiat a crede aceasta prin simtimentul frumosului și printr-o critică serioasă ce am observat că domină în aprețuirile d-ră literare.
+
 Mulți se vor mira, fără îndoială, că mă ocup cu observarea obiceiurilor și cu scrierea unui roman pe cînd ocupațiunea generală este politica; da, toți se ocupă cu politica, și nu voi cădea în apostazia d-a zice că politica nu este un lucru interesant și folositor; dar dacă nu mă înșel, politica a ajuns o boală, o epidemie, un vîrtej care întoarce și amețește sărmanele capete ale iubiților mei compatrioți și mîndri strănepoți ai lui Mihai Viteazul și ștefan cel Mare. Adunările fac politică și legile trebuincioase și folositoare sunt puse la dosar; ministerele fac politică și administrațiunea este lăsată în voia bunului Dumnezeu; foncționarii fac politică și lucrările lor serioase sunt neîngrijite; școlarii fac politică și cartea este pusă la ciochină; fetele mici chiar fac politică cu psihograful. Tinerii fără știință și fără experiință fac toți politică, și vor s-ajungă deodată sus, cît se poate mai sus, și mi-aduc aminte de versul satiricului Persiu:
+
 Adevărul este că epoca în care suntem este originală și caracteristică pentru ceea ce privește starea spiritelor. Fiecare lucru are mai multe fețe și fiecare față are semnele sale particulare, trăsurele sale deosebite cari o deosibesc de celelalte.
+
 O societate, și, ca să vorbim despre noi, societatea română din zilele noastre, se prezintă unui observator sub mai multe fețe, cari, studiindu-se fiecare în parte, ar compune Comedia sociale , precum Balzac a fotografiat toată societatea franceză din secolul XIX în profundele sale romanțe cari compun nepieritorul său moment grandios: Comedia umană .
+
 La noi, nimeni nu poate avea pretențiunea de a ridica un aseminea monument, chiar în proporțiuni mai mici, potrivite cu societatea noastră. Un merit mai prețios este să cunoaștem ceea ce putem. Ne lipsește civilizația Franciei, care creează în societate noo trebuințe, noo obiceiuri, noo credințe, noo caractere, noo clase și o mulțime de noo patime, vițiuri, lupte și ambițiuni, cari au proporțiunile mari ale civilizației care le nasc; și apoi, afară de acestea, trebuie să avem modestia a mărturisi că românilor le lipsește geniul lui Balzac, și studiile sale întinse, și munca sa extraordinară și neobosită, calități însemnate pe cari Balzac le-a avut pe toate și prin cari a izbutit a crea o operă mare, colosală, în care o societate întreagă, mare, întinsă, complectă, se mișcă, trăiește, se luptă cu toate vițiurile și virtuțile sale, cu toate nenumăratele sale tipuri și caractere, cu toate măririle și mizeriile civilizației moderne.
+
 Dacă trebuie să credem că suntem încă foarte departe de Comedia umană a lui Balzac, și prin urmare de Comedia sociale a noastră, putem însă avea romanțe de obiceiuri care să ne reprezinte cîte o față numai a societății noastre, cîte unul numai din numeroasele tipuri cari vedem împrejurul nostru.
+
 Englitera nu are o Comedie umană , dar are încîntătoarele romanțe d-obiceiuri ale lui Thaccheray și Dicchens, cari, c-un rar talent, c-o profundă observațiune, c-un stil plin de viață, de mișcare și de poezie, ne reprezintă deosebite scene și caractere din viața societății engleze.
+
 Romanțul și drama în general domnesc în timpurile noastre toate celelalte expresiuni ale literaturei. Poezia epică și lirică sunt absorbite astăzi de romanț și dramă. Fondul este același, ca și natura intimă a omului, dar formele s-au schimbat. Ceea ce era simplu la începutul societăților, astăzi s-a complicat prin civilizație; viața nu mai este supusă unei fatalități neîmpăcate, care o condamna la cele mai crude suferințe, sau norocului puternic care o strălucea prin fapte fabuloase. Oamenii nu se mai fac lesne eroi; eroii nu mai trec lesne între zei, și zeii nu mai locuiesc Olimpul. Tigrii și leii nu se mai îmblînzesc de sunetele armonioase ale lirei lui Orfeu; și rezbelul nu se mai face pentru răpirea unei Elene. Copilul, legănat și uimit prin farmecul viselor, s-a făcut bărbat și caută realitatea și viața pozitivă.
+
 Cauzele acestei transformări a vieței sunt numeroase și diferite. Este un rău sau un bine? este decadență sau progres? N-am intențiunea să dezvoltez aici aceste puncte; nu voiesc a face din această scrisoare o prefață sau un curs de istorie literară. Fiecare se teme de prefațe, mai cu seamă cînd ele dezvoltează teorii literare. Am atins cîteva generalități a căror dezvoltare o poate face și înțelege oricine astăzi. Pot zice însă că omenirea merge înainte. Frumosul există, el este încă urmărit și se manifestează iară, dar sub forme deosebite.
+
 Poezia n-a pierit și nu va pieri, pe cît sufletul omenesc va avea încă simtimentul frumosului, pe cît el va simți bucuria și durerea, pe cît el va putea iubi. Dar poezia nu intră în amănuntele vieței familiare; ea nu poate urma pe om în nenumăratele forme ce ia în societatea modernă; ea nu poate pătrunde în toate scenele în cari se desfășură existința noastră; ea ar pierde aripele sale radioase, dacă ar voi s-atingă toate mizeriile vieței omenești.
+
 Romanțul poate lua toate formele, ne poate spune tot, ne poate descrie tot. Faptele mari ale istoriei, simțimentele puternice ale sufletului, obiceiurile vieței, romanțul coprinde tot, exprimă tot. Unul caută dezvoltarea vieței în studiul faptelor istorice, altul în analiza inimei omenești, cel din urmă în observarea obiceiurilor. Aceste trei forme se complectează una pe alta și formează istoria întreagă a societății.
+
 Aici ni se prezintă o întrebare foarte naturală. Societatea noastră română, în care trăim și lucrăm, are tipuri și obiceiuri a căror descriere să ne poată interesa și fi folositoare? Romanțul, în deosebitele sale forme, poate dobîndi un caracter de originalitate, descriind faptele, pasiunile și obiceiurile ce ar studia, analiza și observa în societatea noastră? A zice: da, este lesne; dar îmi vine cu greu a demonstra acest răspuns afirmativ. Ne-ar trebui mai multe pagine, și aș cădea iar în prefață, lucru de care voiesc a fugi.
+
 Demonstrarea cea mai bună a acestui răspuns s-ar putea face prin fapte, și aceste fapte ar fi romanțele scrise. Cuvintele ce aș zice acum poate să nu convingă pe toți. Dar voi întrebuința mai voios p-aceasta, nefiind sigur d-a izbuti prin cel de-al doilea.
+
 Mă voi mărgini a însemna numai un caracter general al societății noastre, și cred atunci că fiecare va vedea cîmpul întins care se deschide înaintea romanțului și originalitatea ce poate dobîndi.
+
 Oricine a observat, cît de puțin, viața noastră materială, a fost fără îndoială izbit de un mare contrast care există în puține societăți moderne. Acest contrast iese din luxul, gusturile, viața unei societăți civilizate, în fața mizeriei, înapoierii, greutăților unei societăți primitive. Acest contrast din viața materială îl găsim și mai pronunțat în viața morală și intelectuală. Nu intru în amărunte, căci m-ar duce prea departe. Ce rezultă însă din acest mare contrast? O societate care se înșeală singură, siiindu-se a se arăta în aparință ceea ce nu este în realitate; o stare ciudată, neînțeleasă, originală, în care găsim un amestec de civilizație și de barbarie, dar care nu este nici civilizație, nici barbarie, și în care nu vedem nici binele și răul civilizației, nici virtuțile și instinctele sălbatice ale barbariei. Voim a ieși din această stare din urmă și suntem încă legați de dînsa; voim a intra deodată în civilizație și nu suntem încă pregătiți pentru această stare. Am păstrat de la cea dintîi aplecări și instincte, și am pierdut virtuțile cele mari; am luat din civilizație multe din relele sale, fără să putem realiza și toate progresele sale însemnate. O plantă din climele calde, pusă într-o țară fără pămîntul în care a crescut, pierde forma, culoarea, parfumul și devine ceva care nu mai are nume, care nu mai însemnează nimic.
+
 Oricine poate dezvolta aceste observări generale, și va vedea originalitatea sub care se prezintă societatea noastră în toate privințele.
+
 Izbit d-acestă originalitate, m-am încercat a scrie un romanț d-obiceiuri: nu este încă o scriere, este o încercare, și astfel să fie judecată.
+
 Cunosc cîte lucruri se cer pentru asemenea scrieri, cele mai grele poate, împreună cu drama; cunosc de asemenea cîte din aceste lucruri îmi lipsesc.
+
 Am observat și-am muncit, iată tot ce pot zice; am conștiința c-am făcut ce am putut, publicul îmi va spune dacă am făcut bine.
+
 Domnule redactor, am fost lung fără voia mea, dar a trebuit să vă vorbesc despre cîteva lucruri asupra cărora aș fi voit însă a mă întinde și mai mult.
+
 Permiteți-mi a rămîne necunoscut, înfășurat sub vălul anonimatului, și binevoiește a primi sincerele mele expre-siuni de stimă și afecțiune.
+
+I. Ce este Don Juan
+
 Înainte de a vă prezintă eroii din capitala bucuriei, a căror viață, fapte, obiceiuri le vom cînta în proza acestui romanț, să convorbim puțin despre acest nume care ne face să tresărim, despre acest tip fermecător care strălucește in mintea noastră, despre Don Juan, care a inspirat pe cei mai mari poeți și al cărui misterios nume turbură sufletele curate ale tinerelor frumuseți, cari nu văd decît partea lui cea strălucitoare. Avînd înaintea noastră această figură mare, înconjurată de razele poeziei, vom înțelege mai bine pe Don Juanii noștri cari fac atîta zgomot în București, cu viața lor triumfătoare și misterioasă.
+
 Don Juan! nume dulce și poetic, nume plin de farmec și mister, care mișcă orice inimă ș-aprinde orice minte!
+
 Cine cunoaște alt nume mai întins, mai răspîndit, mai cunoscut în lumea toată! Cine pronunță alt nume care să ne răpească deodată c-o putere neînvinsă în regiuni încîntătoare d-amor și poezie, care să ne coprinză imaginația și să lase într-însa suveniri neșterse și urme de foc ale unei fantome ce ne uimește, ce iubim, ce urmăm cu dor, și niciodată nu o putem ajunge; cine pronunță alt nume care să desfășure înaintea noastră o viață mai fericită, mai aventuroasă și mai îmbătătoare, o viață pe care amorul și frumusețea, rîsul și bucuria scutură necontenit salbele lor de flori suave care nu-și pierd niciodată parfumul, de raze a căror lumină nu se mai stinge, de vesele cîntece cari nu încetează în această lungă sărbătoare, viață pe care amorul și frumusețea, rîsul și bucuria revarsă comorile lor nesecate de nebunatice plăceri, și dezmierdări cerești, și nespuse voluptăți; în care cele mai răpitoare femei, a căror frumusețe farmecă și uimește, apar un minut numai, își dau sărutarea și amorul lor, și cad în prăpastie cu buzele pălite și cu inima sfîșiată, și după dînsele vin altele cari au aceeași soartă, ca visele zîmbitoare cari strălucesc un minut și pier, ca stelele cari lasă prin aer o urmă luminoasă și se sting deodată în noapte.
+
 Care minte nu este coprinsă și amețită de farmecul unei viețe atît de încîntătoare? Care inimă nu este mișcată, turburată și învinsă de puterea acestei ființe extraordinare?
+
 Don Juan! nume puternic și triumfător! nume de foc care consumă inima în care a pătruns! Cele mai mari nume sunt palide, slabe, reci și neputincioase pe lingă numele tău; toate viețele cele mai strălucite se întunecă lingă splendoarea care înfășură viața ta; toate fericirile visate de tînărul care intră zîmbitor în lume sunt o rază slabă lîngă soarele fericirii tale!
+
 Dar este oare numai un vis această viață? o închipuire capricioasă a geniului creator al poeților? un cînt armonios care nu lasă în urmă decît o frumoasă suvenire? Lumea toată pronunță cu amor numele lui Don Juan, și cu dor visează la frumusețea Iui, la fericirea lui. Care din noi, în acele dulci ore cînd visele ușoare ne duc pe aripile lor în lumile radioase ale fanteziei, care din noi, gîndindu-se la Don Juan, nu și-a adus aminte de acel suav portret al lui Rafael, cu capul rezimat pe mînă, un cap răpitor de grație și frumusețe, cu zîmbirea dulce și întipărită de fericire, cu privirea pierdută și înecată în admirația unei lumi încîntătoare, unui ideal divin.
+
 Așa ne-am închipuit pe Don Juan; așa el se prezintă în visurile noastre; sub această imagine el ne răpește și desfășură înaintea ochilor uimiți, viața sa încununată de amorul atîtor ființe, ale căror inime s-au topit sub strînsoarea acestui suflet înfocat, nesățios, nestatornic și misterios.
+
 Căci era nefericite femeile înaintea cărora se ivea Don Juan, și nici una nu se putea împotrivi farmecului privirii lui. Dar sărutarea lui lăsa veninul de moarte pe buzele ce atingea; iubirea lui arunca durerea și desperarea în sufletele aprinse de flacăra ochilor lui. El iubea, dar iubirea lui nu se oprea p-o singură femeie; el iubea necontenit, dar ca paserea care cîntă totdeauna, dar nu cîntă numai într-un arbur, el iubea, și ardea tot ce iubea, și iubea necontenit, ca flacăra care se întinde, trece din loc în loc, arzînd necontenit și pustiește tot pe unde trece.
+
 Dar ce este, ce înseamnă Don Juan? Această viață strălucită nu are nici un nor pe dînsa? atîta lumină nu are nici o umbră? atîta rîs și bucurie nu lasă în urmă nici o lacrimă, nici un suspin? atîta admirație ce ne deșteaptă Don Juan ne face să uităm cu totul doliul și desperarea ce lasă după dînsul?
+
 Cine nu-și aduce aminte d-această scenă admirabilă din nemuritoarea comedie a lui Molière, Don Juan sau Ospățul de piatră , în care Don Juan răspunde lui Sganarel:
+
 „Ce fel! vrei să mă leg a rămîne cu cel dintîi obiect care mă răpește, a mă lepăda de lume pentru dînsul, și-a nu mai avea ochi pentru nimeni? și ce lucru frumos d-a se mîndri c-o mincinoasă onoare spre a fi credincios, spre a se îngropa pentru totdeauna într-o pasiune și spre a fi mort din tinerețea sa pentru toate celelalte frumuseți cari ne pot uimi ochii! Nu, nu, statornicia nu este bună decît pentru ridiculi; toate frumoasele au dreptul să ne încînte, și avantagiul d-a fi întâlnită cea dintîi nu trebuie să răpească celorlalte dreptele pretențium ce au toate asupra inimelor noastre. Pentru mine, frumusețea mă farmecă oriunde o găsesc, și mă supui lesne puterii plăcute cu care ea ne atrage. în deșert aș fi legat; amorul ce am pentru o frumoasă nu îndatorează sufletul meu să fie nedrept cu altele; păstrez ochii ca să văz meritul tuturor, și dau fiecăreia închinăciunile și tributul la care natura ne supune. Orice să fie, nu pot refuza inima mea la ceea ce-mi place; și îndată ce un chip frumos mi-o cere, zece mii [de inime] dacă aș avea, le-aș da pe toate. Apoi, iubirile noo au un farmec ce nu se poate explica, și toată plăcerea amorului este în schimbare. Simți o plăcere nespusă d-a învinge, printr-o sută de omagii, inima unei tinere frumuseți, d-a vedea pe fiecare zi micile progrese care face în inima sa, a combate prin transporturi, prin lacrime și suspine nevinovata pudoare a unui suflet care cu greu își dă armele, a sili pas cu pas toate micile împotriviri ce ea ridică înaintea noastră, a învinge toate cuvintele din care își face o onoare, și-a aduce încet acolo unde dorim s-ajungă. Dar după ce am triumfat, în fine, nu mai este nimic de zis, nimic de dorit, tot farmecul pasiunii s-a stins, și adormim în liniștea unui asemenea amor, dacă un alt obiect nou nu vine să deștepte dorințele noastre și să prezinte inimei noastre atingătoarele plăceri de a face o noo concuistă. în fine, nu este nimic mai dulce decît a învinge împotrivirea unei frumoase persoane; și, în această privință, am ambițiunea concurenților cari zbor necontenit din biruință în biruință și nu se pot hotărî a mărgini ambițiunea lor. Nimic nu poate opri focul dorințelor mele, îmi simț o inimă să iubesc tot pămîntul; și, ca Alexandru, aș dori să fie și alte lumi ca să pot întinde concuistele mele amoroase.”
+
 Iată portretul desăvîrșit a lui Don Juan; acest nume ne farmecă și ne înfioară, ne farmecă pentru că el are toate darurile cu cari natura poate înzestra p-un om, și viața sa este o sărbătoare de frumusețe și poezie, de amor și plăcere; ne înfioară pentru că aceste daruri unite toate într-însul, tinerețe și spirit, frumusețe și avuție, devin arme fatale cu cari el lasă în urmă-i lacrime și durere, doliu și blesteme. Frumusețea sa fermecătoare, spiritul său scînteietor, tinerețea sa curagioasă și ne-păsătoare, avuția sa nesfîrșită ș-aruncată pe oriunde trece, uimesc pe toate femeile, și toate fetele îi sunt zîmbitoare, și toate inimile răpite îl iubesc, și toate brațele îl strîng înfiorate. Dar el ne înfioară, căci trecerea lui strălucită prin viață lasă în urma-i lacrime și suspine, ure și blesteme, și lacrimele nu-l ating, suspinele nu-l înduplecă, urele nu-l zguduie și blestemele nu-l înspăimîntează. După o noapte d-amor, de plăcere și de jurăminte, el se scoală și lasă în desperare obiectul fericirii sale și rîde de jurămintele sale, și-și preumblă privirea împrejurul său spre a găsi o noo iubire, o noo victimă.
+
 El aleargă după o frumusețe răpitoare, pătrunde într-o familie fericită, ucide pe tatăl, calcă pe cadavrul lui, răpește pe fiica sa coprinsă de admirație și de spaimă, și-o aruncă a doua zi, fără milă și remușcare, alergînd iară după amor și frumusețe, alergînd după alte nefericite victime.
+
 Molière, prin geniul său incomparabile, a descris acest tip extraordinar sub toate deosebitele sale fețe și ne înfățișează pe Don Juan în toată strălucirea lui, care, cu cît este mai mare, cu atît ajunge să ni se arate mai odios, și cu atîta ne inspiră mai mare ură. El triumfă necontenit, el este mereu căutat, iubit, adorat; ca s-ajungă la scopul său, ca să cîștige un nou triumf, el întrebuințează toate formele corupțiunii și este gata a face tot. Aci vorbește d-amor etern cu vorbele cele mai fermecătoare, aci uimește ochii cu comori d-avuție, aci se preface coprins de desperare și cine se poate împotrivi lacrimilor lui Don Juan; la una promite căsătoria, pe alta o prinde în curse perfide. Ateu, ipocrit, amăgitor, perfid, amant necredincios, soț adulter, fiu desnaturat, blînd, dulce, lingușitor, la început, și crud, rece, tiran, după victorie. Don Juan nu respectă nimic, nu se teme de nimic, el rîde de toate, își bate joc de toate, chiar de femeia pe care ieri o adora în genunchi, chiar d-amorul său, cu toate că iubește, cu toate că este setos de iubire, cu toate că într-însul arde o flacără nestinsă de iubire.
+
 Pe cît el este de încîntător în vorbele sale, pe cît este de mare în dorința sa de a iubi, pe atît este de odios în faptele sale, cînd declară amorul său unei femei, nici una nu i se poate împotrivi, dar a doua zi el uită și este barbar, crud, neomenos. înzestrat cu cele mai strălucite calități, el se face un monstru cu cele mai mari vițiuri, și cu cît este de frumos, încîntător și iubit, cu atît este și înspăimîntător, urît și blestemat.
+
 Dar ce ar fi Don Juan fără aceste vițiuri? și ce demon fatal, ce dorință nestinsă arde sufletul său?
+
 Ce sete nestinsă arde sufletul său, sete pe care n-o poate potoli amorul atîtor frumuseți alese? Nici o frumusețe nu-l respinge, nici o piedică nu-l oprește, nici o putere nu-l înspăimîntează. Oriunde se prezintă, Don Juan este iubit, și care femeie s-ar împotrivi puterii sale fermecătoare? El are tinerețea, această primăvară a vieții care înflorește tot, acest soare al vîrstei, care însuflețește tot, el are avuția care este cheia d-aur cu care se deschide toate ușile, care înlăturează mizeriile și greutățile amorțitoare ale vieței, care aduce pe toate fețele o zîmbire și pe toate lucrurile o strălucire și realizează toate visele și toate fanteziile unei imaginațiuni nebune; el are spiritul, această rază divină care-și aruncă lumina vie peste tot ce atinge, acest foc scînteietor care însuflețește orice vorbă, orice privire, orice gest, această putere care învinge și triumfă, ne atrage și ne ține sub un farmec, el are frumusețea, imagine radioasă a divinității, al viselor celor mai încîntătoare, după care suspinăm adesea în mijlocul nopților, simtiment puternic pe care natura l-a pus în sufletele alese și cari sunt răpite cînd găsesc în viața lor acest ideal, el are toate aceste strălucite calități, dintre care una ajunge adesea spre a face fericirea unui om; el le are pe toate; el este Don Juan.
+
 El este Don Juan și este iubit, este adorat, este fantoma radioasă care apare în visele tinerei frumuseți care se deșteaptă, îl caută și suspină după dînsul. El iubește din toată puterea sufletului său, dar este nestatornic, este înșelător, este crud, însă tot este adorat, căci el este Don Juan, frumusețea sa este divină, spiritul său este scînteietor, avuția este nesfîrșită, el iubește mereu și, cînd iubește, el pune în iubirea sa tot sufletul său, toată inima sa, toată viața sa.
+
 „Pentru mine, frumusețea mă răpește oriunde o găsesc, și mă supui lesne puterii plăcute cu care ea ne atrage. Nu pot refuza inima mea frumuseții ce văd; îndată ce un chip frumos mi-o cere, dacă aș avea zece mii de inime, pe toate le-aș da.” Prin aceste cuvinte pe care Molière le pune în gura lui Don Juan, putem înțelege acest tip misterios, putem coprinde întinderea nemăsurată a dorințelor sale, putem explica marele contrast ce vedem în toată viața lui Don Juan.
+
 Frumusețea! Frumusețea! iată demonul care muncește spiritul său; iată setea nestinsă care arde sufletul său. Frumusețea! iată visul după care aleargă necontenit, iată idealul, pe care Dumnezeu l-a pus în sufletul său și pe care, negăsindu-l într-o femeie, îl caută într-alta, și-l caută în toată viața fără să-l găsească.
+
 Este mare, este frumos, este puternic acest Donjuan, și astfel s-a întipărit în mintea noastră, astfel ne vizitează în visele noastre; acest Don Juan, a inspirat lui Lord Byron cîntul suav și răpitor cu Haidea ; p-acest Don Juan l-a cîntat Alfred de Musset în nemuritoarele versuri cari nu se vor uita niciodată:
+
 Il en est un plus grand, plus beau, plus poétique,
+
 Que personne n-a fait, que Mozart a rêvé,
+
 Qu- Hoffmann a vu passer, au son de la musique,
+
 Sous un éclair divin de sa nuit fantastique,
+
 Admirable portrait qu-il n-a point achevé,
+
 Et que de notre temps Shachespeare aurait trouvé.
+
 Acesta este tipul mare și frumos, acesta este adevăratul Don Juan.
+
 Oui, Don Juan. Le voilà, ce nom que tout répète,
+
 Ce nom mystérieux que tout l-univers prend,
+
 Dont chacun vient parler, et que nul ne comprend.
+
 Si vaste et si puissant, qu-il n-est pas de poète
+
 Qui ne l-ait soulevé dans son coeur et sa tête
+
 Et pour l-avoir tenté ne soit resté grand.
+
 Cît este de frumos acest Don Juan! ce creațiune plină de farmec și de poezie!
+
 Să traducem aci cîteva strofe, pe care nici o descriere nu le poate ajunge:
+
 „Este altul mai mare, mai frumos, mai poetic pe care Mozart i-a visat, pe care Hoffmann l-a văzut trecînd, în sunetul muzicei, pe un fulger divin în noaptea sa fantastică, admirabil portret pe care nu l-a terminat, și pe care în timpul nostru numai Shachespeare l-ar fi găsit.
+
 Un june stă culcat pe-o verde cîmpie, visător ca amorul și frumos ca geniul, amanta sa răpită este gata s-adoarmă. El are abia doozeci de ani, inima sa se deschide acum, ramură tremurîndă încă din aburul vieței, căzută, ca și Christul, spre a iubi și a suferi.
+
 Iată-l înecîndu-se în lacrime de femeie, înaintea acestei nature frumoase ca și dînsul, strîngînd lumea întreagă pe inima-i înfocată, slab, și, ca iedera avînd trebuință de altul, și el nu ascunde aceasta și suspendă sufletul său, ca un lut eolian, de buzele Nopții.
+
 Iată-l întrebînd pentru ce inima sa suspină, jurînd, cu ochii în lacrime, că nu dorește nimic, mîngîind p-a sa iubită și cu sunetele lirei sale înveselindu-i somnul ca un înger păzitor; întinzînd cupa sa d-aur acelora cari zîm-besc, voind să vază fericirea lor ca să caute într-însa p-a sa.
+
 Iată-l june și frumos, sub cerul Franciei, bogat la doozeci de ani ca un avar ce-și îngroapă banii; privind natura c-o inimă plină de speranță, iubind, iubit de toți, deschis ca o floare; atît de fraget, încît îngerul fru-museței ar săruta pe fruntea lui frumusețea inimei sale.
+
 Iată-l, priviți, spuneți viața lui. Ce soartă se poate prezice acestui copil al cerului? Amorul, apropiindu-se de dînsul, jură că va fi etern; azardul cugetă la el, sînta Poezie întoarce surîzînd cupa sa d-ambrozie pe părul său mai moale și mai blînd decît mierea.
+
 Acest palat este al său, servii și cîmpiile sunt ale sale; pădurea, rîul și muntele au ținut minte numele său ascultând ecoul. Al lui este satul, și palida turmă de călugări. Cînd trece și străbate o cătune, bunul înger al locului se scoală și-l însoțește.
+
 Patru prințese au cerut mîna sa. Aflați că dacă ar voi pe regina de amantă, și trei palate încă, el le-ar avea mîine; că un ovrei ar pleșuvi numărînd avuția lui, și că ar putea s-arunce, fără să se bage de seamă, grîul secerișelor sale, la paserile dupe cale.
+
 Ei bine, acest om va trăi în taverne, între doi cărbunari, așezați lîngă o sobă; praful va înnegri barba și sprîncenile sale; îl veți vedea într-o zi tremurînd și cu ochii stinși, viind în manta sa să doarmă sub felinare, cu fața sîngerată și cu coatele înnegrite.
+
 Îl veți vedea sărind pe scara d-aurită ca s-alerge în noroi, ieșind dintr-un budoar strălucit, puindu-și buza arzătoare pe o prostituată, pînă cînd încă dona Elvira despletită, în profunda noapte crezînd că-l vede încă, n-a încetat d-a mișca lampa și batista sa.
+
 Îl veți vedea lacheu pentru o camardinară, ascunzînd sub hainele sale pe sluga sa tremurînd de frig, îl veți vedea liniștit și rece ca o piatră împingînd în apă cadavrul unui tată și lăsînd pe bătrînul s-atingă cu mîinile sale de sînge păreții încă calzi de dezonoarea fiicei sale.
+
 Ce veți zice atunci? A! veți crede poate că lumea a rănit această inimă mare și superbă, că este oarecum un Lara, care se vede nesocotit, pe care oamenii l-au judecat rău, care știe ce poate fi și care, văzînd că în deșert ar fi astfel, întoarce ură pentru ură și dispreț pentru dispreț.
+
 Ei bine, vă înșelați. Niciodată om în lume nu s-a gîndit mai puțin decît el că este uitat. Niciodată n-a izbit o ușa fără a i se deschide; niciodată n-a simțit nestatornicia valului și niciodată n-a văzut ridicîndu-se sub piciorul său șarpele viclean al amicei înșelătoare.
+
 Ce zic? așa cum este, lumea îl iubește încă; el n-a pierdut nici avere, nici rang. înaintea lui Dumnezeu, înaintea tuturor, el sade pe scaunul său. Răul ce a făcut toată lumea știe, geniul său se cunoaște, se admiră, se onorează.
+
 — Numai să știți, însă, acest om este Don Juan.
+
 Da, Don Juan. Iată-l, acest nume repetat de toți, acest nume misterios pe care tot universul îl ia, despre care toți vorbesc și nimeni nu-l înțelege; atît de mare și atît de puternic, încît nu este nici un poet care să nu-l fi deșteptat în inima sau în capul său, și care să nu fi rămas mai mare pentru această încercare.
+
 Trei mii de nume frumoase! trei mii nume de femei! și nici unul tu n-ai pronunțat fără ca să plîngi! și acest foc de iubire care arde sufletul tău, care cînd a murit, din vinele tale de flacără, se sui în cer ca un înger uitat, din aceste trei mii de amoruri nici unul n-a putut să-l stingă!
+
 Ele te iubea însă, aceste ființe nesocotite, ce tu strîngeai pe rind pe inima ta de fier; vîntul care te purta, și pe ele le răpise, ele te iubea, Don Juan, aceste sărmane părăsite cari acoperea cu săruturi umbra amorului tău, care-ți da viața lor, și care n-avea decît o zi!
+
 Dar tu, spectru slăbit, tu, ce făceai cu ele? A! moarte și nefericire! le iubeai șj tu! crezînd a vedea mereu pe noile tale amoruri răsărind soarele nopților tale eterne, tu ziceai în fiecare seară: Iată-l poate! așteptînd mereu și astfel îmbătrînind.
+
 Întrebînd pădurile, marea, cîmpiile, aurele dimineței, în orice oră, în orice loc, despre femeia sufletului tău, despre întîia ta dorință! luînd drept logodnica ta un vis, o umbră deșeartă, căutînd în inima unei hecatombe omenești, preot desperat, spre a găsi pe Dumnezeul tău.
+
 și ce voiai tu, dar? Iată ce lumea după trei sute de ani se întreabă încă încet. Sfinxul cu ochi pătrunzători așteaptă spre a i se răspunde. Ei știu să socotească ora, ei știu că pămîntul este rotund, ei merg în cerul lor pe vîrful unui compas, dar ceea ce tu voiai, ei nu pot să știe.
+
 Cine este dar, zic ei, acea femeie necunoscută care singură ar fi pus mîna pe frîul cursierului său? pe care totdeauna o cheamă și care n-a venit? Unde a găsit-o, unde a pierdut-o? și ce nod atît de puternic a putut să-l lege, încît dacă ea n-a venit, el n-a putut s-o uite?
+
 Nu era nici una, sau mai nobilă sau mai frumoasă, între atîtea frumuseți, care, de departe, sau d-aproape, să fi avut cel puțin cîteva trăsure d-ale idealului său mare? Pentm ce n-o păstra? Să ne spuie care este.
+
 Toate semăna cu dînsa dar nu era niciodată ea; toate semăna cu dînsa, Don Juan, și tu mergeai.
+
 Tu nu te-ai ostenit străbătînd pămîntul! Această fantomă deșartă, către care Dumnezeu, te-a trimis, tu nu ai zdrobit forma sa, sub piciorul tău! Tu te-ai urcat, ca vulturul în cuibul său, fără să ai prada ta, sau ca tunetul în norul său de aur, fără să fi trăsnit!
+
 Tu n-ai vorbit rău despre această lume neghioabă, care îți aruncă în față o privire stupidă; tu ai văzut-o așa cum este, în diformitatea sa; și tu te aruncai mereu pe acest munte sterp, și tu sugeai mereu, mai june și mai însetat, sînul de aramă al realității. și vergina cu ochi albaștri, pe moalea otomană, în brațele-i parfumate te legăna alene; de la fiica regelui pînă la țărancă, nimic tu nu desprețuiai, nici chiar pe curtizană, pentru care te luptai cu nefericitul său amant minor, care într-un puț căuta un diamant.
+
 Tu străbăteai Madridul, Parisul, Napoli și Florența, senior mare în palate, ihoț în răspîntii, nenumărînd nici bani, nici nopțile, nici zilele: învățînd de la trecător să cînți romanța sa; necerînd de la Dumnezeu ca să iubești viața, decît întinsul tău orizon ș-întinsele tale amoruri.
+
 Tu regăseai pretutindeni adevărul urît, niciodată aicea jos ceea ce căuta dorințele-ți arzătoare, pretutindeni idra eternă care-ți arăta dinții și urmînd necontenit viața ta aventuroasă, privind sub picioarele tale această mare furtunoasă, tu ziceai încet: „Mărgăritarul meu este acolo înîntru”.
+
 Muriși plin de speranță în calea ta nemărginită, și îngrijindu-te puțin că lași aicea jos lacrime și sînge pe urmele pașilor tăi. Mai întins decît cerul, mai mare decît viața, tu pierduși frumusețea ta, gloria ta, și geniul tău, pentru o ființă imposibilă și care nu există.”
+
 Iată această frumoasă și admirabilă discripțiune a lui Don Juan.
+
 Iertați, buni cetitori, dacă v-am pus înainte atîtea strofe, dar ele sunt atît de răpitoare, poezia lor este atît de suavă și ne descrie pe Don Juan, pe adevăratul Don Juan cu colori atît de vii și poetice, încît mi-a fost peste putință de a nu fi coprins de farmecul lor.
+
 Sunt palide aceste strofe, traduse în proză, și lipsite de mișcarea, de viața și de-armonia versurilor poetului. Dar chiar în această proză putem vedea cît este de frumos acest Don Juan, în a cărui viață aventuroasă, neregulată, tîrîtă din strălucirile palatelor în tina stradelor întunecoase, vedem o rază de lumină care se ivește necontenit și-atrage pe Don Juan; vedem o fantomă tăcuta și misterioasă care vine înaintea lui cînd el iubește și este fericit, și atunci această iubire i se pare rece, această fericire se stinge, și el, cu inima strînsă de durere, cu vocea înecată de suspine, cu ochii plini de lacrime, zdrobește idolul adorației sale care n-a fost idealul sufletului, și-aleargă înainte după fantoma misterioasă, pe care n-o poate niciodată apuca în brațele sale arzătoare. Această fantomă, care străluce sub vălul ce acopere fața sa și a căreia putere neînțeleasă este atît de mare încît Don Juan niciodată nu i se poate împotrivi, această fantomă, pe care sufletul său o iubește fără s-o fi privit în față niciodată, la care se supune fără să-i fi auzit niciodată vocea, pe care o urmează totdeauna fără s-o întrebe unde voiește să-l ducă, această fantomă misterioasă, pe care o vede în toate nopțile la capul său, pe care sufletul său o iubește c-un amor mare și puternic, s-o caute necontenit împrejurul său, această fantomă este frumusețea, este idealul, este logodnica cerească a sufletului său.
+
 Dar unde a văzut Don Juan această fantomă, această frumusețe, acest ideal, această logodnică cerească? Sufletul său a văzut odată această frumusețe, acest ideal, dacă el o iubește cu atîta putere, dacă el aleargă prin lumea toată ca să strîngă în brațele sale p-această frumusețe necunoscută, singura iubită a inimei sale, această fantomă radioasă a visurilor sale.
+
 A văzut el această fantomă ivindu-se în alba lumină a dimineței, spre a culege roo și parfumul după sînul virginal al florilor zîmbitoare? A văzut-o el un minut pe fulgerul scînteietor care străbate cerul înnorat într-o noapte întunecoasă? a văzut-o el în crepuscula serii înăl-țîndu-se către ceruri împreună cu imnele religioase ale naturei întregi? a văzut-o el alergînd cu razele soarelui prin arburii întineriți de cîntecul paserilor, prin florile înamorate de strălucita-i frumusețe, prin undele transparente tresărind d-amor l-a ei vedere? Unde a văzut-o, nimeni nu știe, nici el singur nu știe, acela care-o iubește, care o caută necontenit, care o urmează mereu.
+
 Această fantomă misterioasă este frumusețea, este idealul, și omul care o iubește ș-o urmează necontenit este Don Juan!
+
 Aceasta este Don Juan, Don Juan frumos, puternic, incîntător; Don Juan, creațiune răpitoare a poeziei, vis dulce și plăcut al voioasei tinereți, cîntec armonios care leagănă sufletele curate, Don Juan înamorat de frumusețe, de ideal.
+
 Acest amor pentru frumusețe, pentru ideal, acest amor mare ca lumea, nemărginit ca cerul, arzător ca soarele vieței, acest amor înalță pe Don Juan, acest amor îi dă farmecul cu care ne uimește, acest amor îi dă puterea prin care ne atrage către dînsul, și-l iubim, și ne gîndim cu dor la dînsul, și-l vedem cu răpire în visele noastre.
+
 Este Don Juan înamorat de frumusețe, Don Juan înamorat de ideal.
+
 Pasiune mare și fatală, izvor de voluptăți divine și de crude suferințe; a iubi un vis zîmbitor care fuge, o rază strălucitoare care se ascunde, o umbră răpitoare care dispare; și cu toate acestea iubirea este mare și înfocată, căci acel vis este dulce și frumos, acea rază este o imagine a splendorii divine, acea umbră este dorul nestins al sufletului. Dar unde este această frumusețe, unde este acest ideal? în deșert aleargă după dînsul Don Juan, în deșert el îneacă privirea sa în ochii arzători a trei mii de frumuseți, în deșert el străbate lumea toată și strînge la sînul său inimele june ce întîlnește, căci sufletul lui tot suspină după doful său iubit, după frumusețe, după ideal. Don Juan moare, chemînd mereu acest ideal, pe care nu l-a găsit, moare urmat de lacrimile, durerile și blestemele victimelor sale, moare, și numai atunci poate sufletul său găsește idealul după care a suspinat toată viața sa p-acest pămînt.
+
 Astfel Goethe ne descrie într-o admirabilă baladă imaginea acestei mari și nebune pasiuni pentru ideal, spuindu-ne că un june călugăr, cu sufletul arzător, zărește într-o dimineață, la razele soarelui, pe verdea ramură a unui arbur, o strălucitoare pasăre d-aur, și sare numai-decît s-o prinză, dar pasărea fuge p-un alt arbur, și el aleargă iară după dînsa; pasărea d-aur zboară necontenit, și entuziastul călugăr aleargă mereu, trece dealuri și văi, trece cîmpuri și ape, dar în deșert această fugă, căci pasărea zboară îndată ce el s-apropie. Zdrobit de osteneală, el cade obosit, și atunci se vede bătrin, cu părul alb, c-un picior în mormînt, în vîrstă de o sută de ani!
+
 Imagine adevărată a celui ce aleargă după ideal! imagine care ne explică viața lui Don Juan.
+
 Cerem iertare cetitorilor noștri pentru că i-am ocupat atîta timp de Don Juan, fără a ne gîndi numaidecît a-i prezenta eroii noștri, și recunoaștem dreapta curiozitate ce-au ca să afle cine sunt, ce fac și ce devin.
+
 Dar și eroii noștri sunt Don Juani; și eroii noștri fac zgomot prin viața lor, prin faptele lor, prin biruințele lor, și eroii noștri au în mintea lor pe Don Juan și vor să calce pe urmele lui. Viața lor este misterioasă, originală, aventuroasă, și o vom desfășura toată, rămîind, pe cît vom putea, mai credincioși realității sub care i-am observat.
+
 Am căutat mai întîi a reprezintă, prin recile fraze ale prozei, figura cea mare a lui Don Juan, după cum ni l-au arătat poeții cei mari în versurile lor arzătoare și pasionate, după cum l-am simțit și noi, în orele cînd această frumoasă creațiune a strălucit în visele noastre.
+
 Am stăruit asupra acestui tip al lui Don Juan spre a nu se amesteca razele sale, strălucirea sa, amorul său, cu umbrele, cu desfrînarea unor ființe cari nu iubesc nimic în viață, decît numai pe dînșii poate, cari caută plăcerea, oriunde și prin orice mijloace, fără să aibă o lacrimă în ochi, un surîs pe buze, un dor în suflet; cari sunt gata să facă orice fără să aibă curagiul d-a expune viața lor, și să intre noaptea pe furiș, tîrîndu-se, lingușind unde ziua nu are curagiul a se arăta; cari caută în orgie și în desfrînare moartea urîtului ce-î usucă, căci nici o idee mai înaltă nu le străbate mintea, nici un simtiment mai nobil nu le deșteaptă inima; sufletul lor este mort, inima lor este înghețată; mîna lor gata și repede s-apuce, nu se deschide niciodată înaintea săracului, gura lor uscată de veninul vorbelor adunat în drojdiile orgiilor nu mai poate pronunța o singură expresiune de entuziasm și poezie; mici și plini de orgoliu, fanfaroni fără de curagiu, ambițioși fără de mijloace, înamorați fără să iubească, desfrînațî fără rușine, criminali fără remușcare, cu toate instinctele rele fără o singură aplecare frumoasă, ființe degradate s-afundă pînă în cele din urmă regiuni ale vițiului; umbre purtate de vîntul corupțiunii prin toate tinele și mizeriile vieței.
+
 Nemărginită deosebire între Don Juan frumos, poetic, încîntător, cu figura radioasă, și aceste urîte, vulgare și disprețuite ființe, cu fața înnegrită și întunecoasă; între Don Juan, înamorat de frumusețe, căutînd în viață idealul, și între aceste ființe, fără nume, iubind vițiul și căutînd în fundul cupei desfrînarea.
+
 Cerem asemenea iertare cetitorilor noștri pentru forma ce am dat stilului acestui capitul, o formă atît de mult depărtată de simplitatea unei povestiri. Am vorbit însă de Don Juan, am vorbit de acest mare tip, care a inspirat poeților cele mai frumoase creațiuni; si ne temem că muza noastră timidă, care acum se încearcă a vorbi, nu ne-a dat toate culorile, toate imaginile, toate razele sale ca să putem descrie pe Don Juan, așa cum el se prezintă în imaginația noastră.
+
 Dar indulgința ce sperăm a întîlni pentru acest început ne încuragează a povesti viața Don Juanilor din București.
+
+II. Societatea
+
 Iată un subiect mare, întins, plin de amestec și varietate; ar trebui volume întregi spre a face despre societate un tablou exact și complect. Ce vom putea noi zice în cîteva pagini ale acestui capitol? Foarte puțin; cu toate acestea trebuie să zicem cîteva cuvinte despre societatea în care vom vedea pe eroii noștri trăind și lucrînd; trebuie s-aruncăm o privire repede asupra cîmpului unde se va desfășura deosebitele scene ale istoriei ce vom povesti.
+
 Plugarul înțelept, care voiește a face frumoase semănături, cercetează mai întîi pămîntul în care va pune semințele sale; dacă pămîntul este bun, el știe că grîul său Va fi frumos și abundent. Avînd o idee despre societatea actuală, vom înțelege mai bine viața și faptele ce vor trece pe dinaintea noastră în această istorie și ne vom mira mai puțin despre ceea ce vor fi și vor face deosebitele personagie pe cari le-am studiat după natură în societate.
+
 Mărturisim greutatea care încercăm d-a expune observările noastre asupra societății, temîndu-ne d-a nu atinge pe iubiții noștri contimporani, dintre cari sperăm că unii ne vor ceti și au tot dreptul de a nu voi să se vază criticați. Avem însă o mîngîiere în excepțiunile bune cari se găsesc în societate, și credem că cetitorii noștri se vor vedea în acele excepțiuni frumoase.
+
 Oricare societate se compune de diferite clase și de diferite vîrste, avînd fiecare misiunea sa, caracterul său, viața sa proprie; lucrînd fiecare în sfera sa, cu ideile și obiceiurile sale, și mergînd toate împreună către un scop comun, care este fericirea și progresul.
+
 Nu poate exista o societate fără idei, fără pasiuni, fără simtimente, cari se manifestă în deosebitele clase și în deosebitele vîrste; natura acestor idei, acestor pasiuni, acestor simtimente ne face a cunoaște o societate și-a înțelege gradul său de dezvoltare sau înapoiere, de prosperitate sau mizerie, de mărire sau decadință. Observarea oamenilor ne ajută a judeca o societate, precum studiul unei societăți ne face a ști ce sunt și ce pot fi oamenii care o compun.
+
 „Omul se naște bun și societatea îl face rău”, a zis Rousseau, axiomă foarte adevărată într-o privință numai, căci dacă o societate este rea, coruptă, omul aruncat într-însa cade ostenit de luptă, și este tărît de torentul puternic al corupțiunii. Dar, dacă credem că lîngă rău există și binele, că binele triumfă pentru că omul este perfectibil, atuncea trebuie să credem c-o societate se poate regenera, prin influința dezvoltării progresive a oamenilor din cari ea se compune. Este un adevăr pe care legea progresului ni-l arată necontenit în istoria omenirii.
+
 Ce putem zice despre societatea noastră? Cari sînt ideile, pasiunile și simtimentele cari mișcă și caracterizează deosebitele sale vîrste? Iată ceea ce cu nerăbdare așteaptă să afle cetitorii noștri, și ne vine foarte greu d-a exprima cugetarea noastră, așa precum ne-am formulat-o după observările ce am făcut.
+
 Puțini poate vor voi să ne creadă că nopți întregi ne-am gîndit la feluritele caractere ale societății noastre; și de cîte ori am voit a pune pe hîrtie aceste observări, ne-a fost cu neputință de a scrie un rînd fără de a-l șterge numaidecît.
+
 A fost aceasta temerea de a nu ne depărta de simpla povestire a unui romanț, intrînd într-o disertațiune de critică morală care ar putea osteni pe cetitori? sau o firească îngrijire de a nu ridica multă lume în contra noastră făcînd o descripțiune fidelă a societății actuale, care ar fi fost foarte tristă pentru adevărul ce ar fi coprins? Sau poate a fost lipsa de înlesnire sau neputința chiar d-a exprima observările noastre sub o formă plăcută și atrăgătoare?
+
 Nu putem ști care a fost adevărata cauză din acestea; poate au fost toate împreună; adevărul este c-am preferat a descrie această stare prin personagele cari se vor prezintă peste puțin înaintea noastră. Acum ne vom mărgini a face cîteva observări generale spre a introduce pe cetitori în istoria ce vom descrie.
+
 Să începem cu partea de sus a societății sau cu partea de jos? cu tinerii sau cu bătrînii? cu saloanele strălucite ale avuției, sau cu acele triste, obscure și dureroase morminte de mizerie?
+
 Este o vîrstă în viața omului, plină de farmec și poezie, de vise frumoase și de speranțe zîmbitoare; este o vîrstă în care bucuria nu se stinge niciodată, în care amorul vesel și rîzător revarsă plăcerile sale suave și curate, în care entuziasmul pentru tot ce este frumos, mare, nobile, este focul sacru care o însuflețește; această vîrstă pentru care viitorul deschide cu amor o lume radioasă și în-cîntătoare, această vîrstă fericită este tinerețea, și ființele fericite care poartă cununa d-aur a acestei vîrste sunt tinerii.
+
 Ascultați aceste admirabile cuvinte despre tineri: „Iuți, arzători, purtați de focul lor, ei nu se pot guverna; pasionați pentru ceea ce onorează, ei nu suferă a fi socotiți de nimic, dar se revoltă dacă se cred ofensați, ei iubesc distincțiunile, mai cu seamă aceea a victoriei, căci tinerimea este geloasă de preeminență, și victoria este preeminență; ei iubesc aceste doo ambițiuni mai mult decît banii; ei aleargă către speranță fiindcă simt intr-înșii focul naturei care-i însuflețește. Ei trăiesc mai cu seamă în viitor; speranța este a viitorului, aducerea-aminte face parte din lucrurile trecute; și la tineri viitorul este întins, trecutul foarte scurt. în primele zile ale vieței, li se pare că n-au a-și aduce aminte de nimic, dar să spere tot. Ei sunt curagioși și întreprinzători pentru că inima lor este plină de foc; ei sunt simțitori pentru rușine căci nu iubesc decît lucrurile frumoase; ei au sufletul generos pentru că n-au fost osteniți de viață și n-au experiența necesităților lumii. Generozitatea sufletului este de a se stima pe sine demn de ceea ce este mare, și aceasta merge bine cu speranța. Ei iubesc tot ceea ce este frumos, pentru că trăiesc mai mult cu simtimentul și simtimentul înalță la frumosul moral; ei au mai mult decît alte vîrste gustul amiciei prin farmecul d-a trăi împreună; și pentru că sunt deprinși a nu vedea în nimic interesul, nu-l văd nici în alegerea amicilor; ei sunt simțitori și miloși, sub impresiunea care-i face să crează că toți oamenii sunt onești și buni, căci ei judecă pe alții după nevinovăția intențiunii lor."
+
 Iată cum descrie Aristote caracterul tinerilor.
+
 Dar să privim o adunare de tineri: ei sunt eleganți și parfumați, veseli și zgomotoși, îndrăzneți și nesocotitori; sunt ei aprinși d-o idee generoasă? sunt ei purtați de entuziasm și însuflețiți de amor pentru ceea ce este mare și frumos? vorbesc ei despre lucrurile cari înalță și înnobilează inima? acești tineri stau împrejurul unei mese nopți întregi, joacă cărți și-și pierd sănătatea, inima și averea; amorul și entuziasmul au fugit din sufletul lor; ei caută distracția și interesul în iubire; sunt reci și indiferinți pentru tot; nimic nu-i atinge și nu deșteaptă devotamentul și generozitatea lor; ideile mari și ambițiunea nobilă nu coprind și nu exaltează sufletul lor; studiul și dorința de a fi folositori țărei lor nu-i răpește din vîrtejul unei vieți triste și neînsemnate; ei nu speră nimic căci nu cred în nimic și trăiesc numai în prezent.
+
 Umbre palide, slabe și uscate, acești tineri cari sunt cea mai frumoasă vîrstă a vieței, nu știu pentru ce sînt în viață, ei nu iubesc nimic, nu speră nimic, nu lucrează nimic, și se plîng de viață, și sunt deja c-un picior în mormînt.
+
 Iată un tînăr care, după eleganța, luxul și parfumul ce te încîntă în exteriorul său, te face a crede că este legănat în brațele avuției; el aruncă aurul cu dispreț și nu se poate lipsi de nici o plăcere; el nu părăsește trăsura în care stă răsturnat c-un aer disprețuitor pentru aceia cari umblă pe jos; el aleargă totdeauna cu cei mari și abia aruncă o privire peste cei mici; cu cei de sus este zîmbitor, afabile, îndatoritor, blînd și respectos; cu cei de jos este mîndru, aspru, brutale, crud și insolent. Cine este acesta? A! dacă voiți a ști adevărul, aflați atunci că acest tînăr nu are nici un venit și nu muncește deloc ca să cîștige ceva; el trăiește lingușind p-aceia de la cari voiește să capete puține parale, aleargă la cărți, și dacă cîștigă nu plătește ce a luat, face datorii și înșeală pe toți, astăzi te mîngîie, te lingușește, te sărută ca să-i dai cîteva parale și mîine trece pe dinaintea-ți cu capul în sus, fără să-ți arunce o privire; născut în clasa de jos, aleargă în clasa de sus, se umilește înaintea celor mari, îi laudă, îi înalță, îi admiră și critică, batjocorește, defăimează pe cei mici; cînd are trebuință de cei mici, disprețuiește și înjură pe cei mari ca inimici cari trebuie exterminați spre a ridica în locul lor pe cei de jos; pentru acest tînăr, poporul este o turmă de brute cu cari el nu poate trăi, căci inteligința sa și gusturile sale nu poate găsi în popor nici o mulțumire; creșterea sa, instinctele sale îl împing către aristocrație, unde sunt ființe alese, deosebite, și în care natura a pus tot ce este nobile, mare și frumos. Iată cîteva trăsure generale despre viața, obiceiurile și caracterul acestui fel de tineri.
+
 De altă parte vedem tineri pe care natura i-a înzestrat cu cele mai frumoase daruri; inteliginți, spirituali, plini de viață și de foc, ei ar putea face lucruri mari, ei ar putea aduce servicii însemnate patriei lor, ei și-ar cîștiga un nume nemuritor prin lucrările inteliginței lor; dar acești tineri cari pot avea un viitor atît de frumos, n-au într-înșii ambițiunea nobilă care aprinde sufletul pentru ceea ce este mare; ei n-au amorul puternic pentru studiul care dă cele mai frumoase cunune ei părăsesc de timpuriu școala și intră în viața zgomotoasă și s-aruncă în plăcerile ei, cari le usucă inima și mintea, și aleargă după o foncțiune neînsemnată, unde își îneacă existența fără să poată înainta, căci n-au nici știința, nici amor d-a lucra; trebuința, luxul și lipsa de principe morale îi împinge la abuz și sunt depărtați, dezonorați, mărind ceata acelor ființe triste a căror viață este un mister.
+
 Să mergem într-un salon din cele mai frumoase și mai strălucite; lumină, flori, lux, avuție, toate sunt răspîndite cu abundință, nimic nu s-a cruțat spre a uimi ochii prin aurul aruncat în toate părțile; dar în deșert ochii, osteniți d-atîta lux, caută să admire frumosul; în deșert caută un tablou însemnat, o stato, o colecțiune de obiecte de artă, ceva, în fine, în care să se descopere simtimentul frumosului. Lumea se adună, lume aleasă și elegantă; iată femei răpitoare de grație și frumusețe, cu ochii plin de foc și de viață, privire dulce și amoroasă, surîs suav și încîntător, toalete care te farmecă prin gustul, eleganța și avuția lor, înmuiate în flori de cari primăvara ar fi geloasă, în dantele pe cari o suflare le-ar rupe dacă le-ar atinge, în briliante cari revarsă asupra lor mii de raze scînteietoare. Care om nu s-ar crede fericit a privi aceste frumusețe și a vorbi cu ele; ar fi fericit acela care ar vedea albele lor degete scoțînd din piano armonioasele sunete cari răpesc sufletul în regiuni cerești, sau care ar asculta vocea lor cîntînd melodiile suave și dulci cari mișcă inima și lasă într-însa suveniri neșterse; ar fi fericit poetul cari și-ar auzi versurile interpretate d-aceste ființe, a căror voce ar exprima toată poezia lor. Iluziuni plăcute cari pier înaintea realității. Aceste frumuseți nu știu a executa nemuritoarele inspi-rațiuni ale artiștilor mari, vocea lor nu știe a cînta, ele nu știu a recita o singură poezie națională, și nici nu cunosc cari sunt poeții români; ele nu știu a vorbi frumoasa lor limbă românească; scriu tot, vorbesc tot, citesc tot în limbă străină, și dacă nu ne plîngem noi, ne plîng străinii cari văd disprețul ce avem pentru limba noastră, căci este pierdută societatea care disprețuiește limba sa națională. Dar poate că conversația lor este interesantă, variată, spirituală, patriotică, chiar într-o-limbă străină. Foarte rar vei auzi vorbindu-se despre scrieri1 însemnate, despre artele frumooase, despre dorințele și aspirațiile țărei; foarte rar vei vedea scînteind în aceste conversații spiritul care însuflețește orice vorbă, care îndreptează un ridicol fără a ofensa, care înțeapă fără a răni, care place și chiar cînd este crud.
+
 Nu putem a mai face alte tablouri, căci am ieși din cadrul restrîns în care ne-am închis; cîteva observațiuni generale și vom termina.
+
 Societatea noastră se mișcă fără să știe unde merge, lucrează fără să aibă un scop determinat, nu este o mișcare de idei înalte și frumoase care să coprinză spiritele, să le preocupe, să le intereseze pentru dezvoltarea lor; nu este o lucrare a inteligințiilor cari caută, observă, cugetă și produce scrieri spre a lumina, a îndrepta, a moraliza și spre a exercita o influință mîntuitoare asupra îmbunătățirii stării actuale; nu este entuziasm și ardoare pentru o idee mare, pentru a cauză dreaptă,, pentru o scriere frumoasă; nu este încuragiare și emulație în silințele de a lucra ș-a se deosebi în admirabila luptă de idei care să producă în societate o mișcare generală; nu sînt pasiuni și simtimente tari cari dovedesc totdeuna un suflet mare și înfocat, o viață întinsă și puternică, activitate și energie. Amorul este un comerț în care doo ființe rămîn unite pe cît timp sunt strînse cu legăture d-aur; un chip frumos nu mai răpește sufletul; emoțiuni, suspine, lacrime, vise și cugetări de iubire, flori cerești ale tinereței, nu mai turbură inimele june. Amicia dulce și liniștită, tezaur de mîngîiere, este o lingușire pentru interes, pentru favoare, care se stinge cînd acestea nu se mai pot dobîndi, sau se schimbă într-o crudă ingratitudine, răsplătind binele prin rău. Simtimentul religios, care este viața unei societăți, pentru cîțiva este ipocrizie și o mască spre a ascunde faptele cele rele, și pentru mulți a pierit cu desăvîrșire, făcînd dintr-însul un obiect de rîs, fără să fie înlocuit prin neschimbate precepte de înaltă morală, pe care se întemeiază orice adevărată religiune. Urele și răzbunările sunt meschine, îndreptate nu în contra acelora cari au înviolat un princip mare, cari au săvîrșit o crimă, cari au făcut un scandal public, dar în contra meritului care se înalță, în contra judecății drepte care izbește ipocrizia și insolența, în contra capacității care disprețuiește ignoranța trufașă, în contra bunului-simț care rîde de exagerările înșelătoare. Ambițiuni și pretențiuni nemăsurate, nepotrivite cu mijloacele cari există și din care iese un amestec de idei și de credințe greșite, care împiedică orice nobilă silință de a izbuti, care îneuragează incapacitatea și imoralitatea și oprește dezvoltarea regulată a ideilor drepte și folositoare. Abuzul și camăta, suferite și primite ca un lucru firesc; persoanele înavuțite, prin despuierea și desperarea săracilor desfășură cu nerușinare în public luxul lor stors din jafuri și carnete, și sunt îmbrățișate, serbate oriunde se prezintă, fără ca disprețul și ura publică să deștepte într-însele mustrarea de cuget. Defăimarea este puterea care nu cruță nimic; veninul său pătrunde în tot locul, pătează pe oricine voiește și nu revoltă pe nimeni; cel mai bun, cel mai onest, cel mai capabile este tîrît în noroi, și toți aplaudează fără a se gîndi că va veni și rîndul lor; defăimarea este scara pe care se ridică cel mai depravat și cel mai ignorant; și numele cel mai întins și mai cunoscut este acela care defaimă mai mult
+
 Iată societatea în care am observat pe eroii noștri, a căror istorie o vom spune îndată.
+
+III. Doi amici
+
 — O oră aproape și nu mai vine; și trebuie să joc negreșit astăzi, căci îmi spune inima că voi cîștiga, și niciodată n-am avut mai mare trebuință de bani. O sută de galbeni, și sunt omul cel mai fericit. Cu toate acestea, dacă el nu va veni, nu pot face nimic, toate proiectele mele se năruiesc; într-o zi se duce tot ce am dobîndit pînă acum, un altul va împlini astă-seară ceea ce eu am promis, și aceasta mă face să înnebunesc. Zece ani aș da din viața mea, aș face nu știu ce ca să am punga mea o sută de galbeni. Ce este o sută de galbeni? nimic; îi apuci între doo degete și se duc fără să simți c-ai avut ceva; și cu toate acestea acum ar fi pentru mine o comoară întreagă. A! vă urăsc, vă blestem, oameni bogați; pentru ce sunteți avari, egoiști? neghiobi cari nu știți a vă folosi de banii voștri, cari nu știți a trăi. Luați-mă pe mine de profesor și dați-mi bani, să vă învăț eu atunci să cheltuiți și să fiți fericiți. Spui drept că nu înțeleg pentru ce Dumnezeu a făcut bogați și săraci. Curioasă plăcere! Sfînt princip al egalității, ție mă închin, și voi fi cel mai înfocat apărător al tău. Dar, zău, sunt nebun...
+
 Un rîs zgomotos urmă aceste cuvinte pe care le zicea, cînd repede, cînd încet, un tînăr de doozeci și opt de ani, răsturnat pe un pat, într-o poziție leneșă, îmbrăcat într-un costum bizar; un pantalon larg de flanelă albastră, cu bande de șnur galben zig-zag, cizme de casă de saftian auriu, căptușite înîntru cu blană albă de iepure, și cu carîmbii înconjurați pe dinafară de trei degete cu atlas roșu, o cămașă de flanelă roșie strînsă la gît cu o legătură largă de mătase albă cu funde foarte mari; în cap o căciulă scoțiană, tivită cu doo panglice negre subțiri la spate, și de jur-împrejur cu o bandă cadrilată, alb și roșu; pe spate avea un șal scoțian de lînă cu cadrilature largi, de diferite culori: albastru, verde și roșu cu abundință.
+
 — O oră și jumătate! strigă junele nostru, fluierînd de cîteva ori după ce-și aruncă ochii pe ceasornicul care se afla pe masa de noapte, lîngă pat: un cronometru foarte frumos, cu tabla d-aur pe care se putea vedea ora, ziua și secundele, c-un lanț scurt de aur, îndoit, strîns la mijloc de un glob mic, pe care era trei mari peruzele și c-un medalion în forma unei inime, cu smalț verde, acoperit pe amîndoo părțile de mici briliante, și ascunzînd negreșit o suvenire prețioasă.
+
 — O oră și jumătate și nu mai vine! Ce trebuie să fac? zise el sărind jos din pat, făcînd un gest de supărare, aruncîndu-și căciula și străbătînd camera sa cu pași mari și repezi.
+
 Aseară, am vorbit eu singur cu dînsul, și astăzi i-am scris să vie la unsprezece ore și mi-a răspuns că va veni.
+
 Pentru ce mă face să aștept atîta? O să-i fac o scenă să-și aducă aminte toată viața lui de mine, să cunoască cine sunt, și să nu mă joace ca p-un copil; trebuia să vie la ora hotărîtă, dacă i-am spus și i-am scris să vie. li voi plăti scump această așteptare.
+
 Un zgomot de pași care se apropia de ușe îl făcu să se oprească în preumblarea sa neregulată, strigînd:
+
 — În sfîrșit, vine. Dar cînd ușa se deschise, văzu pe feciorul său, eare-i zise că tutungiul a venit să ceară trei galbeni, și-l roagă să-i plătească pentru c-a venit de mai multe ori. Bietul fecior n-apucă să termine, și se trase îndărăt înaintea privirii amenințătoare a stăpînului său.
+
 — Nu ți-am zis, strigă aceasta dînd din picior și apropiindu-se de sluga sa, care se mai trase iară îndărăt, nu ți-am poruncit aseară ca să spui acestor ființe nesuferite că nu sunt acasă?
+
 — Nu mi-ai zis nimic aseară, coconașule; mi-ai poruncit numai să mă duc de dimineață cu scrisoarea ce mi-ai dat la domnul Colan.
+
 — Dar ți-am zis altă dată, ți-am zis d-atîtea ori aceasta, ființă stupidă, care-mi scoți sufletul cu neghiobiile tale. Aide, ieși afară și lasă-mă în pace.
+
 — Dar ce să zic tutungiului, căci așteaptă la mine?
+
 — Spune-i că voi trece astăzi pe la magazia sa eu însumi ca să mai iau tutun, căci l-am isprăvit.
+
 — Nu cunosc oameni mai fără creștere, zise el după ce feciorul ieși afară, decît acești păcătoși negusturi cari vin să-ți scoată sufletul în toate zilele pentru o mizerie de trei sau patru galbeni. Aș mai înțelege aceasta cînd ar fi o sumă mare, și atunci însă trebuie să aibă delicatețea să aștepte. în ce stare am ajuns! au dreptate unii să strige că a pierit omenia dintre oameni și creditul s-a înecat în Dunăre. Suntem o țară pierdută. E!... ta, ta, ta.
+
 După aceste exclamații de dezgust și nemulțumire, el se opri înaintea oglindei pusă în dreptul unei canapele, se privi într-însa, întorcîndu-și capul în deosebite direcțiuni, își resfiră favoritele mai de cîteva ori, le potrivi vîrfurile, își trase mustățile pe buze, uitîndu-se la ele, își trecu de doo ori mîna pe frunte și pe păr, care era tuns mic, se întinse, strîngînd pumnii, întinzînd mînele într-o linie curmezișă, își plecă capul la dreapta, la stînga și pe spate, căscă cu desfătare, seoțînd un lung sunet care trecu prin mai multe tonuri și s-aruncă pe canapea unde se afla o mulțime de diferite obiecte: o giletă, gulere, o cravată mare și alta mică, o cămașe, cărți, jurnale, o perie și alte lucruri cari nu se deosebea bine. El se culcă pe toate acestea, puse capul cu fața în jos pe o mică pernă moale de lină cu flori, cu mînele atîrnînd în jos la capul său.
+
 După doo minute, își urcă mînele pe piept, își întoarse capul cu fața în sus, ridicîndu-l puțin si rezemîndu-se pe cot, ca cum ar fi auzit pe cineva viind.
+
 Într-adevăr, cineva venea, căci cîteva lovi ture în ușe îl făcură să sară după canapea, strigînd: „Intră!”
+
 — A! tu ești Alexandre, zise el, cînd ușa fu deschisă pînă la părete și văzu oprindu-se în mijlocul pragului un tînăr foarte elegant, cu picioarele puțin depărtate și cu mînele în buzunarele pantalonului tăiate orizontal, nelăsînd afară decît degetul cel mare.
+
 -— Va să zică, așteptai pe cineva; pe Adam sau pe Eva? Căci desigur nu face onoarea să aștepți pe creditori, zise acesta, intrînd în casă, închizînd după dînsul ușa cu piciorul, și trîntindu-se în mijlocul canapelei.
+
 — Așteptam pe omul cel mai nesuferit și cel mai trebnicios, pe ființa cea mai rău-crescută și cea mai bine primită, p-acela pe care-l disprețuiesc și de care sunt silit să mă rog, p-acela...
+
 — Oprește-te, c-am ghicit; aștepți pe strălucitul Colan, nu este așa?
+
 — Așa, pe dînsul.
+
 — Ai dreptate, este nesuferit, fanfaron, rău-crescut, mincinos, lăudăros, făgăduind totdeuna și neîmplinind niciodată, seoțînd ca dracul bani din pămînt, silindu-ne s-alergăm după dînsul, trăind ca un prinț din spinarea noastră. O! este nesuferit, cel mai nesuferit.
+
 — Da, foarte nesuferit, repetă junele nostru care se preumbla cu neastîmpăr prin casă, cu capul în jos, oprindu-se înaintea mesei pe care se afla ceasornicul. Doo ore, strigă el; să știi că nu mai vine, m-a înșelat și astă dată.
+
 — D-aceasta sa nu te miri: să te miri mai mult dacă va veni.
+
 — Dar mi-a spus aseară, mi-a răspuns astă dimineață că va veni.
+
 — Adevărat?
+
 — și fără dînsul sunt nefericit, sunt pierdut.
+
 — și ce trebuință așa mare ai de bani, căci cu Colan numai pentru bani ai a face.
+
 — Voi să am cîțiva galbeni ca să joc; deseară am trebuință de o sută de galbeni.
+
 — Am înțeles!
+
 — Cu orice preț trebuie să găsesc această sumă; altfel toate stăruințele mele de o lună...
+
 — Ești nebun, Gogor, nebun de legat; în aceste vremi de criză, tu vorbești d-o sută de galbeni. Dar fii odihnit, îți dau eu acest bagatel; acum vrei?
+
 — Mie îmi crapă buza de necaz și tu glumești; aș vrea să fii în locul meu.
+
 — Aceasta vrei? apoi am fost și sunt; să ne dăm mîna amîndoi, pînă la moarte, dar pe altă cale.
+
 — Atunci cum îți vine să glumești?
+
 — Ce să faci, Gogor; trebuie să /îzi de multe ori și fără voie, trebuie să glumești spre a goni urîtul, căci mor de urît...
+
 — Numai urîtul?
+
 — Urît și sărăcie, căci urîtul cel mai rău este urîtul sărăciei. și spune tu singur, cine ar putea să ne crează pe noi săraci, văzîndu-ne afară și ascultîndu-ne vorbind.
+
 — Acesta este meritul, acesta este talentul, și nu ne lipsește. A! ce zici?
+
 — Acesta nu; și este un mare talent; cu toate acestea, cu mari greutăți izbutim, o declar între noi. Este un an aproape de cînd sunt fără foncțiune, o știi bine, și cum văz, ministerul acesta are să ție mult pentru nefericirea și pieirea țărei. Este ceva grozav, ministerul acesta, este scelerat, antiliberal, antinațional, și te asigurez c-o să piarză țara dacă nu va da Dumnezeu să cază. Nu vezi ce schimbări face! De, spune, poți a servi cu asemenea oameni? li cunosc, am trăit cu dînșii, și-mi place să trăiesc cu dînșii; ca oameni de petrecere, nu poți să te desparți de dînșii; dar altfel, sunt inimicii națiunii, și voi să rămîn statornic în credințele mele. De cîte ori mi-au propus foncțiuni și am refuzat, nu voi servi decît cu ai noștri, și trebuie să vie la putere.
+
 — Trebuie, dar iată că nu vin; și-i aștept ca și tine cu mare nerăbdare. Pînă atunci, însă, văz că nesuferitul Colan nu mai vine, și cînd mă gîndesc deseară, îmi vine să înnebunesc. Ce să zic? ce să fac? căci sunt nebun, Paloti, sunt nebun.
+
 — D-amor, nu este așa?
+
 — O iubesc, Alexandre, o iubesc din toate puterile sufletului meu.
+
 — Adevărat?
+
 — O! da, da, o iubesc ș-am uitat tot pentru dînsa; de o lună, zi și noapte, mă gîndesc la ea și nu văd alt chip decît chipul său, și n-aud altă voce, decît vocea sa. și ce chip! ce voce! Este un înger înaintea căruia trebuie toți să cază în genunchi, este cea mai frumoasă femeie ce am văzut!
+
 — Ce entuziasm! ce transport! Gogor Terez înamorat și nebun d-amor! după cum zici. Nu este lucru nou, adause Paloti, rîzînd tare și rar.
+
 — Este sincer, foarte sincer, ceea ce-ți spui, mă crede, Alexandre. Aș da viața mea, aș da tot ce am pentru dînsa, pentru amorul ei.
+
 — Tot ce ai? puțin lucru atunci.
+
 — Ești dispus a rîde astăzi, și eu nu sunt; dacă vrei să crezi, eu nu te silesc, ți-am spus ceea ce simt.
+
 — Te crez, te crez; nu știu eu că tu așa ești?! Te aprinzi ca un chibrit și tot așa de iute te stingi; ai o inimă caldă, un suflet înfocat, dar ceea ce știu și mai bine este că n-ai bani, și-ți trebuie bani.
+
 — Voi avea, strigă Gogor cu putere; voi juca și voi cîștiga.
+
 — Lucru foarte putincios, dar cu ce să joci?
+
 — Ai dreptate, așa este, cu ce să joc! Colan nu mai vine, și toată speranța îmi este la dînsul, zise el, izbind din picior, și puindu-și mîna pe fruntea aplecată către piept.
+
 În timpul acesta, ușa se deschise și amîndoi scoaseră o strigare:
+
 — Iată-l, în sfîrșit 1
+
 — Ei bine! zise Gogor, închizînd ușa, încrucișînd brațele și dînd din cap, ei bine! frumos îți șade să mă faci a te aștepta atîta timp?
+
 — Dacă ești supărat, mă duc, răspunse Colan, în-dreptîndu-se spre ușe.
+
 — Atîta ar trebui acum, ca să nu-ți mai vorbesc în toată viața mea, zise Gogor, trăgînd clopotul ca să vie feciorul.
+
 — și această pedepsire, cu mare dreptate, cum aș face și eu în locul tău, adăugă Paloti, care se sculă după canapea, și se puse călare p-un scaun, al cărui spate îl îmbrățișase cu mîinile sale, pe care își rezima bărbia.
+
 — și atuncea sunt pierdut, nu este așa? zise Colan, rîzînd cu multă dispoziție și puindu-se p-un alt scaun în fața lui Paloti și tot în acea pozițiune. Voi, prinți și baroni, mari și tari, bogați și nobili, nu mai vorbiți cu Colan, și sărmanul Colan, urgisit de voi, este pierdut. Mergi de te îneacă, Colane, căci Gogor Terez și Alexandru Paloti nu te mai bagă în seamă. Aceste cuvinte fură urmate d-un rîs foarte tare și ascuțit, care făcea pe Colan să-și dea capul pe spate.
+
 — Ești neprețuit, ești nemuritor, Colane; vino să te sărut, fără tine nimeni nu poate trăi în București, zise Gogor, luînd pe Colan de barbă și sărutîndu-l pe amîndoi obrajii. Negreșit c-ai găsit ce te-am rugat?
+
 — Cînd zic o vorbă, trebuie să mă crezi; iată zece galbeni, mai mult nu poci să-ți dau, răspunse Colan.
+
 — Numai zece? apoi ce ți-am zis? ce te-am rugat? îmi trebuie cu orice preț doozeci și trebuie să mi-i dai, zise Gogor c-un aer supărat.
+
 — Ha!... ha!... ha!... brava, Terez, brava, îmi placi și te iubesc, strigă Colan apropiindu-se de masa de noapte, pe care făcu puțin loc într-un colț, scoase încet din buzunar zece galbeni pe care-i numără foarte încet, făcînd pe fiecare să sune de mai multe ori, și adăugind:
+
 — Frumoasă monedă, superbă, mică, curată, lucioasă, ușoară; o! ți-e drag să te poci cu dînșii, să-i stringi, să-i întinzi iară pe masă, făcînd tot felul de figure cu acest amor de galbeni. Ce zici, Paloti? spune, amicule, răspunde, nu iubești această jucărie? nu înțelegi această plăcere? Dar, te văz eu după chip că astăzi ești filosof și disprețuiești acest prost metal; deșărtăciune, ticăloșie, absurditate; aurul, galbenii, banii: prostie, nu este așa, Paloti? Dumnezeu a dat bani neghiobilor, răspunde; oamenii mari, cu spirit, cu știință, cu inimă nobilă, sunt săraci; vorbește, de nu este așa?
+
 Colan începu iară să rîză, rar și tare, scoțînd și cîte o strigare ascuțită, și jucîndu-se mereu cu galbenii, fă-cîndu-i să sară în palmă, aruncîndu-i iară, unul cîte unul, pe masă, observîndu-i de cîte ori sărea, pînă să se așeze, și repetînd de mai multe ori: admirabil sunet! încîntătoare voce! ce drăgălași sunt!
+
 În timpui acesta, Paloti sta tot cu bărbia pe mînile rezimate de spatele scaunului. Capul său era puțin plecat; el nu zicea nimic, dar din cînd în cînd își îndrepta ochii spre Colan și-și posomora sprîncenele. Cîteo-dată fluiera o arie din Traviata sau Trovatore , sau bătea ușor și neregulat din picioare. Gogor Terez se preumbla prin cameră, înfășurat în șalul său, cu ochii la pămînt, neuitîndu-se nici la Colan, nici la galbenii cu care acesta se juca pe colțul mesei. Din cînd în cînd însă sunetul lor îl oprea în fundul camerei, și-l făcea să arunce o repede privire spre mica mescioară, dar îndată își punea capul în jos și reîncepea preumblarea sa. La o noo exclamație a lui Colan, el se duse către masă, dar nu știm dacă s-a dus ca să ia galbenii, căci el s-a uitat la ceasornic.
+
 — Doo ore și jumătate! strigă el, aruncînd șalul pe pat, și întinzînd mîna spre perete să tragă clopoțelul.
+
 — Va să zică n-ai trebuință de parale, zise Colan zimbind, uitîndu-se la Terez, cu capul plecat într-o parte și începînd a lua galbenii dupe masă, încet și cîte unul, pe care-l ridica spre a vedea anul scris pe dînsul. După ce-i strînse pe toți în mînă, se sculă dupe scaun, îi mai sună de cîteva ori, și zise iară: va să zică nu-ți trebuie?
+
 — Ești nebun, Colane, strigă în fine Gogor supărat. Auzi vorbă, dacă-mi trebuie? Pentru ce te aștept de trei ore și n-am putut face nimic pînă să te văz odată c-ai venit? Dar știi bine că-mi trebuie just doozeci de
+
 galbeni și tu îmi dai numai zece. Nu este frumos, Colane, din partea ta, mai cu seamă cu mine.
+
 Zicînd aceste vorbe, începu să zîmbească, și întinse mîna de lo galbenii din palma lui Colan, care-i mai resfiră o dată cu mîna cealaltă, zicînd:
+
 — Ce frumoși sunt! ți-i dau cu toată inima, și aceasta face mult; și este ceva zece galbeni, cînd nu dai dobîndă, cînd nu dai poliță cu trei giruri și amanet de trei ori mai mare. Iată, astăzi chiar, am luat pentru Adrescu o sută cincizeci de galbeni cu poliță de doo sute; pentru Tofan Lelio o sută de galbeni cu poliță de o sută cincizeci; lui Toni Burton i-am dat doozeci de galbeni, lui Costică Tavari zece. E! auziți voi bani, auziți voi sume de bani! și apoi ziceți că Colan nu este strălucit, nu este nemuritor. Toți aleargă la mine cînd au trebuință de bani, și numai eu pot să le găsesc, numai eu; ești om mare tu, Colane, să trăiască Colan!
+
 — Să trăiască Colan! strigară împreună Paloti și Terez.
+
 — Declar în gura mare că Colan este nemuritor, zise Paloti, făcînd cu ochiul lui Gogor și scoțîndu-și abia acum pălăria din cap. Mă închin înaintea puterii lui Colan, și zic, oriunde și totdeuna, că el are o știință deosebită de a găsi parale, și apoi este omul cel mai îndatoritor Cînd ai trebuință de bani adresează-te la Colan, și fii sigur că vei găsi...
+
 — Să știți voi c-așa este, întrerupse acesta, ridicînd mînele în sus. Toată lumea mă cunoaște, și am credit în piață; oricînd voi vrea, eu găsesc bani, și dau la toți, și toți sunt siliți să vie la mine să mă roage, pentru că eu sunt Colan, și unul este Colan. Dar voi ce sunteți? cine vă dă voo bani? ce aveți voi? Numai fumuri, mîndrie, cu nasul în sus, prinți și baroni; cine vă vede pe voi la șosea, la teatru, vă ia de milionari, și cînd colo, tot la mine alergați, tot la amicul Colan. Ha!... ha!... ha!... Spuneți, nu este așa?
+
 — Da, da, nemuritorul nostru amic, strigă Gogor, zicînd feciorului, care intrase, să vie a-i da să se spele și să se îmbrace. Ajută-mi, Doamne, să cîștig o sută de galbeni, și voi fi omul cel mai fericit.
+
 — știu ce ai de gînd să faci, zise Colan, dar ești nebun, și nebun o să fii; zi Gogor Terez și lasă-l în pace. Alergi după Serini, și suspini, și cheltuiești banii cari nu ai, după cum ai alergat ș-ai suspinat după altele:, fără ca să te iubească nici una. Spune, ce ai de folosit? ai izbutit vreodată? numai vorbe mari de tine, ca să faci pe oameni să crează că este ceva, și în faptă nerozie. N-am dreptate, Paloti? Spune.
+
 — Foarte mare, răspunse acesta sculîndu-se în picioare și puindu-și pălăria în cap. I-am zis că este nebun, și el nu voiește să mă crează.
+
 — Nebun, nebun, repetă Colan, care se gătea să plece.
+
 — Dar ce faceți, le zise Gogor, care se întoarse spre dînșii, ștergîndu-și fața. Pentru ce vă duceți? Mai stați puțin să plecăm împreună. Nu mergem toți la Forian? Acolo este joc astăzi, și poate să mîncăm la dînsul; un minut și sunt gata. A! cu ce nerăbdare aștept această seară!
+
 — Adevărat, zise Paloti.
+
 — Zi mai bine c-aștepți să vezi norocul, adăugă Colan. Dar, ce este drept, e frumoasă Serini, foarte frumoasă, cara mia, anima mia; ea merită să fie iubită, adorată, un angelo; dar se uită ea la noi? nebunie. O! ce voce adorabilă! armonie divină. Dar nu ne atingem noi de acești îngeri. Aide, Terez, mai iute, căci este tîrziu.
+
 — Acum sunt gata, răspunse acesta, care alegea o cravată, din vreo treizeci ce avea desfășurate înaintea lui, de toate formele, mărimile și colorile.
+
 Paloti și Colan aprinseră cîte o țigară de havana și s-așezară pe canapea, fiecare într-un colț, cu pălăriile în cap, unul cu mînele în buzunarele pantalonului, și altul în ale giletei, uitîndu-se la Terez care înnoda, deznoda, și iară înnoda la gît, împrejurul unui guler drept și tare, o legătură mare, vărgată negru și roșu, prinzînd-o c-un ac, al cărui cap rotund și turtit era format d-o mare pirozea încongiurată c-un cerc d-aur.
+
 — Mult gust are la îmbrăcămine Terez, mă înnebunesc, zise Colan, adresîndu-se către Paloti.
+
 — Are lucruri frumoase, răspunse acesta, sculîndu-se să vază d-aproape legătura lui Gogor. Este departe însă de tine, adaugă el, bătînd pe umere pe Colan.
+
 Colan era un om înalt, gros în spate, cu pieptul larg și scos afară, formele corpului său spunea că trebuie să fie tare și sănătos, și în tot era, cum se zice, arătos. Capul său nu era frumos și n-avea o expresiune simpatică și atrăgătoare; trăsurele era regulate, dar nu era însuflețite, nu se refleta în ele nici o idee care să oprească asupra-i privirea acelora cari îl vedea pentru întîia oară; avea mai mult ceva comun, după care un om deprins a ceti în fizionomii ar fi crezut mai lesne că este lipsit de învățătură, și educație morală, decît să păstreze întipărite urmele unei origine de jos. O barbă mare, plină și bine îngrijită, pieptănată ușor, la dreapta și la stînga, încadra prea bine fața și-i da pînă la un punct un aer măreț, mai cu seamă cînd sta în picioare și ținea capul în sus, după cum avea obiceiul; niște sprîncene dese și bine arcuite arunca o umbră ușoară peste ochii săi și le da o expresiune care nu era lipsită de oarecare farmec. Fruntea însă era cei mai mare inamic al acestei figure: mică, turtită, obscură, fără cea mai ușoară ridicare, nu exprima nici o deosebire de inteligință, nici o lumină care să arate că coprinde o idee; se părea că natura, făcînd un corp atît de mare, era ostenită la construcțiunea celei mai însemnate părți care face noblețea și mărirea unui om. Se vedea în acest personagiu un amestec de frumos și de urît, de putere corporală care impunea la început și d-o expresiune comună a capului, care-ți spunea îndată că nu trebuie să aștepți mult de la mijloacele sale intelectuale. Nu-i lipsea oarecare înlesnire în mișcările corpului, care i-ar fi dat puțină grație, dacă nu ar fi luat urîtul obicei să ție capul prea sus și să-l miște prea des. Pe lîngă aceasta mai avea și obiceiul, mai totdeuna cînd nu vorbea, de a scoate prea mult afară buza sa de jos, care-i da un aer de dispreț ș-aro-ganță pentru aceia cari nu l-ar fi cunoscut. Asemenea, cînd își punea mînele în bozunarele giletei, își îndoia corpul pe spate, și din toate aceste mișcări d-a capul, făcea o linie foarte disgrațioasă. Gît despre ceea ce era, curbă cum trăia și ce făcea, vom avea ocaziunea să aflăm aceasta mai tîrziu, chiar de la Colan.
+
 — în fine, te-ai gătit, zise el admirînd pe Gogor și fluierînd de cîteva ori. Dacă Serini nu te iubește, vina nu este a croitorului, care îți taie hainele cu atîta șic, da, cu mult șic.
+
 Zicînd aceste cuvinte, lo pe Gogor de umăr, îl întoarse la stînga și la dreapta, îl examină de sus pînă jos, îi trase jacheta la piept și, apucîndu-i talia c-o mînă, îl îmbrățișă, strigînd:
+
 — Apelpisit! mă înnebunesc!
+
 — Strălucite amic și nemuritorule Colane, sunt fericit că hainele mele au putut să deștepte admirația domniei-voastre; sunt încîntat.
+
 — Admir persoana dumitale, prinț și baron scăpătat care păstrezi încă... răspunse Colan, care fu întrerupt de Paloti:
+
 — Aide să plecăm odată, că mi s-a urît.
+
 — Aide, zise Gogor, vărsînd parfume în batistă.
+
 Colan apucă înainte fluierînd, și după dînsul ieșiră Paloti cîntînd, și Gogor trăgîndu-și părul la spate.
+
+IV. Alți doi amici
+
 Pînă cînd să ajungă frumoșii noștri cavaleri la vestitul Forian, unde vom intra în lumea elegantă, să facem cunoștință cu alți doi amici, cari ne vor arăta de ce se compun cîteodată legăturile amiciei.
+
 Pe o stradă paralelă cu Podul Mogoșoaei, oricine voiește a ne face plăcere să vie cu noi, va observa o casă mare cu doo etagiuri, fără ornamente, c-o înfățișare simplă și spoită c-o culoare căreia nu se poate da nici un nume, și l-a căreia vedere, un pictor ar închide ochii ș-ar fugi. Ce minunat serviciu ar face acela care s-ar ocupa s-ana-lizeze gustul și simtimentul pentru frumos al proprietarilor ș-al arhitecților, în ceea ce privește culorile și ornamentele caselor! Vă închipuiți ceva mai interesant și mai amuzant decît această analiză? Ce culori bizare,originale, curioase, grotești, necunoscute, pe care nu le găsești nici pe paleta cea mai avută a lui Delacroix sau Descamps! Străinii zic că Bucureștii este un oraș foarte pitoresc; poate să fie așa pentru acei cari nu l-au văzut niciodată, sau cari l-au văzut din deal de la Filaret. Într-adevăr, din acea înălțime Bucureștii poartă cu mîndrie numele său de capitală a bucuriei și înfățișează o vedere magică, pe care puține capitale din Europa p desfășoară înaintea ochilor artistului amator de varietate și pitoresc. Numeroasele turnuri ale bisericilor, de deosebite forme și înălțimi, acoperișele caselor de felurite culori, în tinichea albă sau văpsită verde ori roșu, mai multe monumente cari se ridică triumfătoare și rup trista monotonie a liniilor drepte, un însemnat număr de grădini pline de verdeață, risipite într-o mulțime de punturi, umbrele și luminile produse de razele soarelui, în acest frumos amestec, dau orașului București o fizionomie din cele mai originale și plăcute, o înfățișare din cele mai variate și încîntătoare.
+
 Cîtă deosebire însă cînd intri pe stradele neregulate, noroiose sau pulberoase, ale acestui oraș, care în depărtare ți se arată atît de frumos! Tot farmecul acela care îți încînta ochii a pierit, și ești coprins d-o tristă impresiune pentru că te vezi înșelat. Această împrejurare se întâmplă foarte des și în multe privințe pentru viața din București: mai tot este frumos în depărtare, dar de aproape este trist, de multe ori urît, și întâmpini grele decepțiuni.
+
 Să ne oprim însă prin oraș astă dată, căci vom avea de multe ori ocaziunea să străbatem numeroasele și încurcatele sale ulițe; acum să ne grăbim a însemna bine casa în care aveam a pătrunde spre a nu ne rătăci altă dată, pentru că nimic nu este mai greu în București decît să găsești pe cine cauți. Ulițele toate port un nume, dar numai păreții pe care este scris îl știu, căci în deșert l-ai spune unui birjar, în deșert ai întreba pe un nefolositor gardist. Ca să găsești pe cineva trebuie să știi că de la casa lui A se face o uliță ia dreapta și lîngă casa lui B s-apuci pe uliță la stînga, ș-în fața unei circiume este o uliță pe care, vizavi d-o casă verde, este o casă mică, un maidan, o băcănie și alături este casa ce cauți, cu doi salcîmi la poartă.
+
 Așa, în fața casei noastre este o fierărie cu o curte mare, în fundul căria este un caretaș care nu-și face cunoscută meseria sa decît prin mulțimea de trăsure stricate, unde un arheolog poate studia istoria deosebitelor transformări prin care a trecut această invențiune, care a scăpat atîtea picioare de a nu se nămoli și frînge în variatele lacuri și numeroasele gropi, a căror repede dezvoltare ne dovedește că progresul se realizează la noi. Alături cu casa, de o parte este cojocăria văpsită Cu roșu și avînd la ușe atîrnată o blană de vulpe, apoi se află o casă cu doo caturi mici, jos este o circiumă văpsită galben, și catul de sus este vișiniu c-un balcon verde; de altă parte, este o căsuță albă, înconjurată de o mulțime de pomi și îngrădită cu uluci.
+
 Acum, după ce cunoaștem bine casa în care vom veni foarte des, putem intra fără să ne temem c-altă dată n-o vom găsi. O tăcere adîncă domnește în curte, și dacă nu ești cu trăsura ca să deștepți lumea, nu-ți iese nimeni înainte. Jos la ușa de intrare, nu există un clopoțel și, neavînd pe cine să întrebi, ești silit s-o deschizi singur; îndată se înfățișează o scară lată, cernită, fără lustru și acoperită la mijloc c-un covor strimt, ordinar și vărgat, care-ți spune că trebuie să calci pe dînsul. Sus, la capătul scării, se află doi frumoși leandri înfloriți, și de jur-împrejur o galerie cu geamuri cari luminează scara, intrarea cea mare de sus și camerele cari dau în curte. Ai în față și la stînga mai multe ușe, și nu vezi pe nimeni care să-ți zică dacă domnul sau doamna sunt acasă și în care cameră îi poți găsi. Dar fiindcă cunoaștem această casă, ne putem introduce singuri prin cea dintîi ușă la stînga, care se deschide în salon.
+
 Aci, un frumos tapet se întinde sub picioare, un piano lung, un candelabru atîrnat în mijloc, doo rînduri de perdele frumoase, mobile elegante și avute, mai multe mese pe cari se află lampe de bronz și porțelane, vase de flori și o mulțime de lucruri gentile, îți fac o im-presiune foarte vie, nu atît prin avuția lor, cît prin contrastul care te izbește între ceea ce ai văzut pe afară și ceea ce găsești înăuntru.
+
 La dreapta, este o ușă deschisă care da într-alta cameră; între această ușă și fereastră, în salon, pe o canapea, înaintea căria se află o masă acoperită c-un tapet foarte subțire, avînd pe dînsa un vas c-un buchet foarte frumos, sade o tînără femeie c-un mic copilaș pe genunchi, pe care, apucîndu-i mînușițele, se silește a-l ținea în picioare. Dar copilul, încă slab, șovăiește mititelul și, însuflețită de bucurie, muma sa, căci numai o mumă simte farmecul nespus al acestor încercări, îl strînge cu amor la pieptul său și-l acopere de sărutări.
+
 — O, dulce îngeraș, cît este de drag și frumușel! Ce ochișori negri, ce guriță mititică, ce obrăjiori albi și rumeni, să-l mănînce mama pe el, suflețelul mamii! zicea ea, sărutîndu-l la fiecare vorbă, dă-mi o guriță, bibi, dă mamii o guriță, așa, o, dragul meu îngeraș, cum înțelege el tot, adăuga tînăra mumă cu transport cînd copilașul apropia buzișoarele lui mici și rumeoare de gura mumei sale, ai cării ochi era înecați de fericire. Zi tata, bibișor, ta... ta, ta... ta, așa, puișor, așa, drăguță, tata; și copilașul, pe care muma sa îl ținea ridicat de subțiori, repeta, cu vocea sa mică, dulce și armonioasă: tata... tata...
+
 — Auzi, Tinco, cum vorbește Nicușor, strigă ea răpită de bucurie, adresîndu-se către doica copilului, care sta lîngă dînsa pe un taburet; aleargă, Tinco, și cheamă pe Lopod să vie curînd să vază ceva, dar nu-i spune ce, aleargă, Tinco.
+
 Îndată se deschise o ușă mică și apăru în salon, prin camera din fund, un om ca de treizeci de ani, blond și puțin roșu la față, de o talie de mijloc subțire, un cap mic, și avînd mustăți.
+
 — Ce este, Lino, ce m-ai chemat să văz, întreabă el, c-o voce cam bruscă și puțin ascuțită, oprindu-se la ușă. Ce este?
+
 — Dar vino încoa; apropie-te aci, îi zise femeia sa c-un ton rugător, vino s-auzi ceva care să te facă fericit.
+
 — Ei bine, dar ce este, în sfîrșit, spune odată, întreabă el, înaintînd cu cîțiva pași către canapea.
+
 — Ascultă, Lopod, ascultă, și, adresîndu-se către copil, pe care-l ridică iară în sus, jucîndu-l pe genunchi; puișorul mamii, zi ta... ta, zi, drăguță, taata, și copilul uitîndu-se la tatăl său și întinzînd mînușițele către el, repetă: tata, plecîndu-se și căutînd a merge la dînsul.
+
 — Ei bine, auziși Lopod, auziși gurița lui, zise muma, sărutînd de mai multe ori această rumenă guriță: el pentru întîia oară zice tata, și...
+
 — Trebuia să zică odată, o întrerupse el.
+
 — Dar nici un copil nu vorbește la vîrsta lui, urmă ea.
+
 — și pentru aceasta tu crezi că vorbește? zise el voind a se depărta de canapea.
+
 — Negreșit că el vorbește, înțeleptul mamii, și el a zis întîi tata, și eu l-am învățat, adăugă ea, zîmbind c-un aer de dulce cochetărie și uitîndu-se la dînsul ca cum ar fi cerut s-o răsplătească c-o sărutare sau c-o mîngîiere.
+
 — Astăzi a zis tata și mîine o să zică mama; astfel încep toți copiii să vorbească, fu tot răspunsul său, în-cepînd a se preumbla prin salon.
+
 — Dar vino, Lopod, de-l sărută; iată, el te cheamă, mititelul; cheamă pe tata, puișor, zise ea sărutînd copilașul, care repetă iară: tata.
+
 Atunci Lopod se apropie încet de canapea, se plecă puțin în jos, lo pe copilaș de gușe, apoi apucă cu doo degete un obrăjel al lui și sărută pe celalt, pe cînd mama își apleca și ea capul, pare c-ar fi așteptat ceva. Dar copilul începu să plîngă și Lopod se depărtă numaidecît.
+
 — Dar cum nu știi,tu să mîngîi copii, iată, i-ai roșit obrăjorul de mult ce l-ai strîns și-l doare, drăguțul mamei, zise ea c-un ton plîngător, strîngînd copilul la sîn și sărutîndu-l.
+
 — Ești mai copil decît el, Lino, se grăbi el a răspunde, avînd aerul de a fi puțin întinerit. M-ai întrerupt de la lucrul meu serios pentru o copilărie, și am să scriu o mulțime de hîrtii și să închei niște socotele; pentru aceasta nici nu ies din casă pînă deseară.
+
 Abia terminase aceste cuvinte și o trăsură s-auzi intrînd în curte.
+
 — Cine să fie? întrebă Lina.
+
 Lopod alergă la fereastră, se uită pe geam și răspunse:
+
 — Este carîta lui Manomar, trebuie să fie Mina, și numaidecît se duse să deschiză ușa salonului și, ieșind afară, zise:
+
 — A! bon jur, madame Manomar, și o voce îi răspunse d-afară:
+
 — Bonjur, mosieo Talersterst.
+
 Numaidecît o femeie naltă, brună și foarte frumoasă, într-o rochie de moar negru, se ivi în ușe și zise îndată, înaintînd repede:
+
 — Bonjur, chère Lina, bonjur!
+
 — A! bonjur, Mina; răspunse aceasta, sculîndu-se după canapea și viind spre doamna Manomar; și după ce junele femei se luară de mînă și se sărutară de mai multe ori, merseră a se așeza pe canapea. Lopod închise ușa salonului, se apropie de canapea, lo un scaun, și se puse în partea ferestrei, lîngă doamna Manomar.
+
 — Ce frumos copil, Lino, este într-adevăr un drag amoraș, zise ea mîngîind și sărutînd copilul, și îți seamănă, cum n-am văzut pînă acum să semene un copil așa.
+
 — Dar nu-mi seamănă mie, zău, deloc, Mino, este leit Lopod, uită-te bine, răspunse Lina...
+
 — Nicidecum, întrerupse acesta; nu este așa? urmă el adresîndu-se către vecina sa, care-i răspunse surîzînd:
+
 — și eu găsesc că seamănă mai mult cu Lina, dar adevărul este că vă seamănă la amîndoi, ca să nu vă supărați nici unul. Nu este mai bine așa?
+
 — Ce gătită ești astăzi, te-ai înnoit de sus pînă jos, zise Lina, observînd și admirînd pe Mina; pălăria este de nebunie; mai cu seamă florile sunt cît se poate de frumoase, și garnitura dinnăuntru și bridele; e foarte elegantă si te face așa de frumoasă!
+
 — Nu e urîtă, răspunse Mina, dar garnitura de tul o voiam mai învoaltă, și dantela de la bavolete nu-mi place; pe urmă, florile sunt puse prea mult înăuntru; am luat-o numai fiindcă voiam să ies astăzi cu pălăria noo, dar am dat să-mi facă alta.
+
 — Da, zău, Mino, este prea frumoasă, zise Lina.
+
 — Așa, dragă, dar cînd apucă un lucru să nu-ți placă, apoi orice-i face nu poți să-l porți, răspunse Mina. Dar dumneata ce zici? adăugă ea, întorcîndu-și capul către Lopod.
+
 — Nu mai rămîne îndoială că gustul dumitale este mai frumos decît al meu, și atunci nu-mi voi permite să am altă părere.
+
 — Auzi, auzi, Lino, ce compliment în toate formele, zise Mina; ce zici tu, căci eu nu pot răspunde nimic.
+
 — A! madam Manomar, se vede că astăzi ești hotărîtă să nu mă cruți, și știi că nu cutez a mă lupta c-o femeie frumoasă și spirituală, zise Lopod, îndulcindu-și vocea, aplecîndu-și capul, și închizînd puțin ochii, spre a da o putere mai vie privirii sale.
+
 — Dacă vei urma mereu așa, adăuga doamna Manomar, trăgîndu-și capul îndărăt și însoțind cuvintele sale c-un surîs grațios, care dovedea îndestul că-i plac aceste cuvinte, dacă vei urma p-această cale o să mă faci a nu mai avea curagiul...
+
 — A! madam, întrerupse Lopod cu aceeași voce, dar această cale este calea adevărului, și un suflet c-al dumitale nu mă poate îndemna să mă depărtez de dînsa. întreabă și pe Lina dacă nu am dreptate, nu este așa, Lino?
+
 — O da, răspunse aceasta, sărutînd copilul său pe care-l strîngea la piept; tu ești așa de frumoasă și de bună și mă iubești așa de mult, încît oricîte lucruri frumoase ți-ar zice cineva, m-aș simți poate mai fericită deeît tine, mai cu seamă cînd aceste lucruri ți le spune Lopod, care mă iubește atît de mult.
+
 L-aceste cuvinte un surîs ciudat a trecut repede pe buzele doamnei Manomar ș-ale lui Lopod, cari însă nu se priviră nicidecum, spre a ne face să credem că s-ar fi putut înțelege spre a surîde. Cu toate acestea, Mina strînse mîna Linei și amîndoo femeile se îmbrățișară.
+
 — Dumneata, însă, galantul meu domn, tot trebuie să părăsești această cale, căci te deprinzi rău, și dacă Lina mă iubește atît de mult, și este atît de bună pentru mine, poate în altă parte...
+
 — O! nu, nu, se grăbi a răspunde Lina, rîzînd și apueînd mîna doamnei Manomar, te asigurez, Mino, că niciodată nu voi fi turburată d-această grije pe care n-am înțeles-o, mă crede. Lopod mi-a dat atîtea probe de iubire, încît aș fi adevărat o nebună cînd mi-ar trece un minut prin minte ideea că glumele sale l-ar face să mă iubească mai puțin, și cînd am acum pe acest îngeraș, în a cărui privire văz zi și noapte pe tatăl său. Nu se zic atîtea lucruri despre dînsul? că are mai multe succese, că este înamorat și iubit de multe? dar el singur mi le spune și rîdem împreună d-aceste nebunii, care mă fac să-l iubesc și mai mult, încredințîndu-mă că el merită să fie iubit.
+
 — Ești fericită, zise doamna Manomar, c-a ajuns să aibi atîta încredere, care nu-ți turbură nicidecum inima; eu însă, adăugă ea, aruncînd o privire spre Lopod, n-aș fi niciodată astfel. Am dreptate să fiu așa. Ce zici? urmă ea, adresîndu-se către Lopod, care se mișcă puțin pe scaunul său înainte de a răspunde.
+
 — Sunt cîteodată...
+
 — Dar mă duc, îl întrerupse doamna Manomar, sculîndu-se după canapea, venisem un minut numai, și m-am uitat aci, și cum să nu mă uit cînd te iubesc atît, mai adăugă ea cu același surîs, de mai înainte, îmbrățișînd pe Lina, dînd mîna lui Lopod și îndreptîndu-se spre ușe.
+
 Lopod însoți pe doamna Manomar afară, dar ieșind și Lina cu copilul în brațe, buna sa amică îi zise să intre înăuntru pentru că bate vîntul tare și poate să facă mult rău copilului, Lina îi făcu cu mîna cîteva salutări și intră în salon închizînd ușa după dînsa. Lopod urmă pe doamna Manomar pe scară pînă jos, dar s-a prins rochia de un cui pe scară, și plecîndu-se s-o desprinză, i-a căzut pelerina, pe care a trebuit s-o puie pe spate, și toate aceste împrejurări firești au întîrziat plecarea trăsurei sale.
+
 Lopod sui scara foarte repede și cu zgomot, ca cum ar fi sărit mai multe trepte odată și, fără a se întoarce în salon, merse d-a dreptul în camera sa, cu fața plină de bucurie.
+
 Femeia sa, necunoscînd cauzele cari au întîrziat plecarea doamnei Manomar și văzînd asemenea că bărbatul său nu se întoarce în salon, a chemat pe doica să-i lase copilul spre a merge se vază pe Lopod. Dar cînd se afla în intrare, aude o trăsură oprindu-se la scară și vede urcîndu-se pe cel mai intim amic al lui Lopod.
+
 — A! bon jur, madam Talersterst.
+
 — Bonjur, monsieur Manomar.
+
 El întrebă dacă Lopod este acasă, și se îndreptară amîndoi către camera lui.
+
 Amîndoi intrară la Talersterst, care se preumbla prin camera sa cu mîinile la spate, cu capul în jos, avînd aerul a fi foarte absorbit de vreo gîndire, căci el n-auzi scîrțîitul ușei cînd se deschise și nu observă pe femeia sa și pe Manomar, decît numai cînd se întoarse în preumblarea sa cu fața către ușă și-i văzu pe amîndoi opriți înaintea sa. Cineva ar fi observat atunci în tresărirea corpului său că această vizită l-a turburat puțin, și fără îndoială l-ar fi văzut asemenea roșind, dacă el n-ar fi fost roșu de natura sa. Se vede bine însă că este turburat, pentru că deodată el se opri în loc, uitîndu-se cînd la femeia sa, cînd la Manomar, dar numaidecît el zîmbi ușor, ca cum n-ar fi avut a se îndoi de nimic, și înaintă către Manomar, apucîndu-i amîndoo mîinile și strîngîndu-le între ale sale.
+
 — Dar ce-ai pățit, Talersterst, de ești așa de mult pe gînduri încît nu simți și nu vezi pe cine intră în casă? întreabă Manomar.
+
 — Nimic, răspunse Talersterst rîzînd, nimic.
+
 — Nimic nu se poate, adăugă cel dintîi, adînc absorbit erai, aceasta am văzut-o, nu este așa, madam Talersterst? urmă el, adresîndu-se către aceasta, care examina scriitorul bărbatului său. Dacă n-ai fi însurat, aș crede desigur că ești amorezat, dar acum mi se pare că politica te pune pe gînduri. Ai vreo știre? se schimbă ministerul sau rămîne?
+
 — O să rămîie, după cum era vorba aseară, răspunse Talersterst răsucindu-și mustața și dîndu-și un aer de importanță.
+
 — Bravo! strigă Manomar, izbind în palme și fre-cîndu-și mîinile, bravo! iată-ne tot sus, și acum să vezi! dar...
+
 — Eram gata să viu la tine, îl întrerupse Talersterst, doream să te văz și să-ți vorbesc ceva.
+
 — Te-ai fi ostenit să vii în deșert, îi zise amicul sau, trăgîndu-și favoritele în jos cu amîndoo mîinile, bagîn-du-și capul în umeri, și umflîndu-și bucele, mișcări ce-i era foarte obișnuite. știi că la ora aceasta nu sunt niciodată acasă.
+
 — și apoi, erai hotărît să nu ieși nicidecum astăzi, îi zise femeia sa, apropiindu-se de el și uitîndu-se la dînsul c-o privire care ar fi voit să-l surprindă și să citească ceva în chipul bărbatului său, care îi răspunse, întorcîndu-și capul de la dînsa și îndreptîndu-se către biurou:
+
 — Așa, ai dreptate, nu eram să ies, dar... mi-am adus aminte... trebuia să mă duc la șeful meu și să întîlnesc pe Manomar spre a vorbi ceva cu dînsul. După aceste cuvinte, zise cam eu greutate, ei scoase o cheiță din buzunar, deschise o cutie a scriitorului său și lo dintr-însa cîteva hîrtii, îndoite în patru; apoi închise și se uită de cîteva ori împrejur, avînd aerul d-a căuta ceva.
+
 — Voiești ceva? îl întrebă Lina, apropiindu-se de dînsul.
+
 — Cat ceva și am uitat ce, răspunse el; cum vi se pare aceasta? curios lucru adăogă el, aruncîndu-și cu distracțiune privirea pe deosebite obiecte.
+
 — Trebuie să ai tu ceva, zise Manomar, de nu știi aici ceea ce cauți, negreșit că mintea ta este preocupată; aceasta se citește în ochii tăi.
+
 — și eu am observat aceasta îndată ce l-am văzut și nu știi ce curioasă sunt să știu la ce se gîndise atît de mult, adăugă doamna Talersterst rîzînd.
+
 — Dar n-am nimic, zise repede Lopod, cam nemulțumit de aceste întrebări indiscrete; nu mă gîndesc la nimic, urmă el, puind hîrtiile după masă în buzunarul de la piept al fracului său; cînd mi-am adus aminte că trebuia să mă duc la șeful meu, afară de aceste hîrtii, mai voiam să iau ceva și am uitat acum ce.
+
 El își strînse fracul la piept într-un nasture și se îndreptă către o masă mică de lîngă sobă spre a-și lua pălăria.
+
 — Te întorci curînd, Lopod? îl întrebă femeia sa.
+
 — A! mai curînd sau mai tîrziu, nu poci să-ți hotărăsc cînd mă voi întoarce, răspunse el, pipăindu-și buzunarele dindărăt ale fracului și deschizînd un dulap cu oglindă din care lo o batistă.
+
 — Dar negreșit că vei veni de prînz, mai adăugă doamna Talersterst; astăzi mănîncă la noi domnul Som-nolian, după cum ne-a promis aseară.
+
 — Dacă voi sfîrși lucrul cu șeful meu, fără îndoială că voi veni; altfel sunt silit să prînzesc acolo.
+
 După aceasta își puse pălăria în cap și veni în dreptul ușei cu oglindă a dulapului, își potrivi cu amîndoo mîinile gulerul cămășii întors, funda legăturei, își plecă puțin pălăria într-o parte și își potrivi mustățile, răsucindu-le la vîrf; apoi se îndreptă către ușă, pe care o deschise doamna Talersterst, dar se întoarse iute la birou, apucă o mică oglindă, se uită bine și d-aproape într-însa, și zise:
+
 — Trebuia să pui altă cămașe; și se duse a deschide dulapul.
+
 Atunci, femeia sa, care ieșise din cameră, lăsînd ușa deschisă, salută pe Manomar, întinzîndu-i mîna pe care acesta o strînse, și invită c-un ton rugător pe Lopod, să vie acasă la prînz.
+
 Ea se îndreptă către salon, încet și gînditoare; cineva ar fi observat o ușoară umbră de întristare acoperind fruntea sa.
+
 — Ascultă, zise Manomar, închizînd ușa și apropiin-du-se de Talersterst, sunt nerăbdător să aflu ce știi despre minister. Ce s-a făcut aseară, căci astă dimineață am fost ocupat în cancelarie și n-am putut vedea pe nimeni.
+
 — Ministerul rămîne, răspunse Talersterst făcîndu-și pregătirile spre a se îmbrăca din nou.
+
 — Ei bine, dar cum? căci aseară nu era sigur să rămîie, întrebă Manomar, puindu-se p-un scaun, și plecîndu-și corpul înainte, cu mîinile pe genunchi, ca s-asculte mai bine.
+
 — Am lucrat mult pentru aceasta, zise Talersterst, ridicîndu-și cu mîndrie capul în sus.
+
 — Tu? întrebă cu mirare Manomar.
+
 — Eu, răspunse apăsat Talersterst.
+
 — și cum? mai întrebă Manomar; știe șeful tău aceasta?
+
 — Cum să nu știe, răspunse cu îngîmfare Talersterst; citește scrisoarea care mi-a trimis astă dimineață; și ei scoase din buzunar o scrisoare pe care o întinse lui Manomar, zicîndu-i: citește!
+
 Manomar dezdoi scrisoarea și citi următoarele rînduri în limba franceză:
-„Scumpul meu Talersterst,
-Am aflat tot ce ai vorbit aseară, îți mulțumesc și te admir; planul este minunat, o parte ai executat-o cu mare finețe, sper că și restul va izbuti tot așa de bine. Vom triumfa și vom fi tari. Îmi vei face plăcerea să vii deseară a lua ceaiul la mine...”
+
+„Scumpul meu Talersterst, Am aflat tot ce ai vorbit aseară, îți mulțumesc și te admir; planul este minunat, o parte ai executat-o cu mare finețe, sper că și restul va izbuti tot așa de bine. Vom triumfa și vom fi tari. Îmi vei face plăcerea să vii deseară a lua ceaiul la mine...”
+
 — Bravo! strigă Manomar, făcînd cu capul mai multe semne de aprobare și mulțumire; explică-mi însă aceasta, Talersterst, căci tu nu mi-ai spus nimic, urmă el scu-lîndu-se după scaun și trăgîndu-și favoritele în jos.
+
 — Iacă, dar să rămîie între noi, zise Talersterst, care se opri înaintea lui Manomar, căci cine știe cum se întoarce lucrurile, și atuncea să nu știe ce am făcut aceia pe care astăzi îi săpăm. Noi trebuie să fim bine cu toți și mai cu seamă cu aceia cu cari ne facem interesele mai bine. îndată ce am simțit că ministerul este amenințat să cază, m-am înțeles cu șeful meu, care este foarte devotat acestui minister pentru că și el și eu facem ce voim, iară ca ministerul să ne facă nici o observare, pentru că are trebuință de șeful meu și acesta are trebuință de mine, am pus pe unii să răspîndească vorba că roșii sunt niște nebuni, ambițioși, pasionați, care vor să dărîme orice minister ce nu este al lor, care ține țara în dezordine și anarhie ca să nu poată nimeni sta la putere, care răspîndesc în public ideile cele mai greșite și exagerate ca să nu fie niciodată mulțumit de lucrările guvernului, cari...
+
 — Prea bine! întrerupse Manomar.
+
 — Cari fac totdeuna gura mare ca să-i auză publicul și încolo nu sunt buni de nimic, pentru că sunt niște smintiți fără seriozitate și fără idei practice, cari aruncă asupra oamenilor capabili de cari se tem și pe cari nu-i pot combate pe față calomniile cele mai grele ca să-i înnegrească în ochii oamenilor celor lesne crezători, cari...
+
 — Bravo, Talersterst! strigă rîzînd Manomar.
+
 — Cari depărtează din gașca lor pe toți aceia cari nu se închină înaintea lor și nu urmează orbește urele și patimele lor, declarîndu-i de antiliberali, de apostați, de renegați și de inamici ai națiunii; cari speculează toate simtimentele cele frumoase spre a strînge bani, spre a pune ura între oameni, spre a fi aplaudați de oamenii simpli, făcîndu-i să crează că numai ei sunt mari, învățați, patrioți, și că ei singuri pot să mînuiască țara; cari...
+
 — Bravo! Talersterst, bravo! întrerupse iară Mano-mar cu fața plină de bucurie.
+
 — Cari au făcut din presă, din jurnale un scandal din cele mai grozave, aruncînd tuturor injurii neauzite, făcînd pe cine vor ei trădători, și vînzători, aruncînd discordia în familii, tîrînd pe miniștri în noroi, îndemnînd pe public să se revolte în contra autorităților, aruncînd în spirite dezordinea și anarhia, și nerăspîndind nici o idee practică, nici o învățătură folositoare. Oamenii aceștia încurcă lucrurile, opresc țara de a fi organizată, ca să facă a se crede că fără dînșii țara nu poate merge înainte; și ei sunt numai niște intriganți plini de ure și de patime, ambițioși fără capacitate, gata să răstoarne tot spre a se ridica ei. A! ce zici de acest plan? Nu e așa că este minunat?
+
 — Minunat! admirabile! răspunse Manomar; și a izbutit acest plan, ai?
+
 — Eu nu crez nimic din acestea, dar cum să nu izbutească un asemine plan, zise Talersterst.
+
 — Bravo! strigă Manomar, așadar merg lucrurile de minune?
+
 — De minune, răspunse Talersterst; cum nu era să impresioneze o asemenea descriere? am făcut-o într-adins ca să sperie mult, să fugă toți de dînșii, să piarză orice credit și să nu poată veni la minister. Ce poate aștepta cineva cînd ar veni la putere acești oameni, așa după cum i-am descris eu? Negreșit că fiecare prevede că țara va cădea în cea mai grozavă anarhie, că ei sunt incapabili d-a guverna. Dar să nu iasă vorbă, căci poate să avem trebuință de dînșii, cine știe?
+
 — Fii pe pace, și apoi tot această propagandă o fac și eu prin oameni de ai mei, buni de gură, cari spun despre dînșii tot ce le trece prin minte. Dar daca vine dreapta la putere? Nu este mai rău pentru noi, atuncea? adăugă Manomar cam îngrijit și mișcînd capul.
+
 — Nu te teme; aceasta este a doua parte a planului, răspunse Talersterst, voi face șd pentru reacționari ceea ce am făcut și pentru roșii, pe care i-am înnegrit pe cît am putut. Voi zice că boierii sunt vrăjmașii de moarte ai Unirii ș-ai Convențiunii, că sunt în înțelegere cu străinii și vor să le vînză țara, că sunt hotărîți să împiedice și să încurce orice guvern ca să descurageze țara și s-o facă a crede că numai ei singuri știu să guverneze, că vor să răstoarne starea de lucruri de astăzi ca s-aducă iară starea cea veche împreună cu candidații lor și, în fine, voi arunca asupra lor cele mai grele învinovățiri ce voi găsi în felul acesta, și atunci ministerul rămîne desigur și noi rîdem și de unii și de alții și ne facem treburile noastre. Iată planul tot, la care să mă ajuți și tu, aducînd pe fiecare zi nuvele care să întărească zisele mele, dar să te ferești a nu ne da de gol, căci o pățim; ne stricăm cu toți, și înțelegi bine că aceasta nu ne vine la socoteală.
+
 — Mai este vorbă, zise Manomar, sculîndu-se după scaun și frecîndu-și mîinile de bucurie; trebuie să lucrăm cu mare prudință, căci, negreșit, de unde știm noi ce se poate întîmpla, și toată știința noastră este de a putea fi bine cu toți, ca să nu pierdem funcțiunile și prin urmare foloasele ce ele ne aduc. Nu am dreptate?
+
 — Așa crez și eu că trebuie să facem, pentru că acesta este singurul mijloc d-a ne asigura pozițiunea noastră, pe de o parte înnegrind pe cît putem și pe unii și pe alții, iară pe alta făcîndu-i să crează pe toți că le suntem devotați. în fața lor, eu sunt bine și cu unii și cu alții; cînd vorbesc cu boierii, zic despre roșii tot ce-mi trece mai rău prin minte; cînd mă întîlnesc cu roșii, zic despre boieri toate grozăviile; și cu chipul acesta înțelegi că oricare ar veni 1a putere o să ne crează d-ai lor și o să ne îmbrățișeze; însă pentru aceasta trebuie să lucrezi cu mare iscusință.
+
 — Să vezi, răspunse Manomar, nici nu poți face altfel; căci cu cine trebuie să te hotărăști a merge? și apoi nu este o nebunie sau mai bine o curată neghiobie ca să mergi orbește cu unii? să te urci cu dînșiiji să cazi cu dînșii? și pentru că doi sau trei vor să meargă cu principe, trebuie și noi să ne ținem legați de dînșii? și apoi nu văz nicidecum această trebuință. Oricari să fie, cînd vor veni la putere, ei tot au trebuință de noi, chiar dacă noi ne-am fi depărtat de dînșii. Iată-mă eu, pentru ce să merg mai departe? N-aveam nici idee despre politică, și nici nu mi-a trecut vreodată prin minte c-o să devin om politic. Dar într-o zi am plecat cu roșii și fără să știu pentru ce n-am plecat cu boierii. Eu am strigat pentru dînșii, ei au strigat pentru mine, și am ajuns să fiu cunoscut; atunci am văzut că sunt și eu ceva, și m-am hotărît să merg cu dînșii, pentru că i-am văzut tari; atunci însă am voit să fiu ceva mai mult, am voit să merg mai departe. M-am făcut și eu ambițios pentru că pe toți împregiurul meu i-am văzut ambițioși, lucru care astăzi mi se pare foarte firesc. Vorbim pentru patrie și în numele patriei, dar asta nu te folosește decît ca să ajungi ceva spre a te folosi cu adevărat atunci. în fine, prin aceste mijloace și cu ajutorul lor, am ajuns ceea ce sunt, după cum știi prea bine. Dar nu ar fi fost o nerozie din partea mea, să-mi las și eu funcțiunea dacă ei s-au retras? și apoi funcțiunea mea nu este însemnată. Mărturisesc cu sinceritate că ei sunt nebuni, fac gură mare și treabă puțină, și cu cît ar fi stat mai mult la putere cu atît s-ar fi încredințat toți că nu știu să guverneze. Am trăit cu dînșii și îi cunosc bine, pe oamenii capabili și independinți nu-i suferă între dînșii, pentru că vor să domineze, să fie numai ei și să aibă instrumente, oricine ar fi. Iacă, te asigurez că dacă ministerul acesta va cădea din nefericire, mă voi duce iară la dînșii, și mă vor primi cu brațele deschise, pentru că mă voi arăta pocăit, și voi face ceea ce-mi vor zice, pînă mi-o veni apa la moară. Nu am dreptate și nu este adevărat? Ce zici?
+
 — Foarte adevărat, și astfel fac și eu, răspunse Talersterst, care își făcu din nou toaleta, gătindu-se să iasă. Ascultă, adaugă el, toate acestea sunt bune și frumoase, dar am trebuință de parale și o să te rog pe tine să mă împrumuți iară, pînă mi-o intra ceva bani. Să-mi dai cincizeci de galbeni.
+
 — Nu am nici o para în casă; a trebuit să plătesc ieri doo polițe.
+
 — Dacă vrei, îmi găsești.
+
 — Am niște bani ai statului, și cum poci lua dintr-înșii? Dacă ministerul cade?
+
 — Dacă este numai aceasta, apoi fii pe pace; voi trece pe la tine la șase ore, pentru că-mi trebuie negreșit deseară.
+
 — Aide să ieșim, să mă lași la șeful meu, ca să aflu ce i-a spus ministrul, și deseară apoi ne întîlnim 1 a otel ca să supăm.
+
 După aceasta ieșiră amîndoi, fără ca Talersterst să mai intre în salon spre a vedea pe femeia sa.
+
+V.Unde cunoaștem pe Don Juani
+
 Mîndri, veseli și săritori, Colan, cel arătos, cu degetul cel mare atîrnat de tăietura giletei de ia umăr și cu capul în sus, mișcîndu-l la dreapta și la stînga, Paloti, cu gherocul închis la piept și cu mînile în buzunarele de la spate, Gogor, cu pălăria cam într-o parte și adusă înainte, cu gherocul dat în lături la piept și cu amîndoo degetele cele mari băgate în tăietura giletei de la subțioară, intrară cîtetrei, unul după altul, vorbind, cîntînd și rîzînd, la Forian, unde mai multe persoane era strînse împregiurul unei mese. Nimic nu era mai pitoresc, mai bizar și mai original decît grupa formată d-aceste persoane, cu deosebitele lor pozițiuni, costume, figure și mișcări. Unii sta în picioare, țiind ceva într-o mînă adusă la piept și cu alta întinsă spre masă; alții ședea pe scaun, sau drepți cu 'mînele sub masă și cu ochii în jos, sau cu cotul pe masă, rezemîndu-și capul pe mînă și cu altă mînă întinsă pe masă, sau cu amîndoo coatele pe masă, și țiindu-și fruntea cu mînele; unii iară stînd în picioare pe la spatele altora, plecîndu-se cîteodată spre masă, ridicîndu-se, făcînd cîțiva pași în cameră și întorcîndu-se iară la masă. Aceste persoane era necontenit în mișcare, care cu capul, care cu mînile, care cu picioarele, care cu toate împreună; sau se ridica puțin pe scaun și se trîntea iară, mișcînd scaunul înainte sau îndărăt, sau se pleca pe masă ori se trăgea îndărăt cu o mare iuțeală, sau amesteca ceva repede cu mînile, ori răscolea cu convul-siune ceva pe masă și scotea o foiță pe care o apropia, ascunsă în palmă, de ochi, sau o băga sub masă ca s-o vază, ori o împingea deodată înainte fără să se uite la dînsa; alții odată se depărta repede de masă, se întorcea ori sărea pe scaun, lua foița după masă, o rupea și da o lovitură cu piciorul pe parchet sau cu mîna pe masă. Costumele și figurile nu era asemenea mai puțin bizare, unii avea haina ridicată în sus și dată pe spate; alții avea strînse mînecile hainei lor pînă aproape de cot, lăsînd să se vază cămașa; cîțiva scoseseră haina rămîind numai în giletă și cămașă, pe unii îi vedeau cu gileta deschisă de tot la piept, pe alții fără guler și legătură, unii luaseră pe spate o haină de casă sau un șal, și alții scoseseră pe jumătate sau de tot cîte o cizmă, ca să libereze puțin piciorul dintr-o închisoare prea strîmtă.
+
 Figurile avea deosebite expresiuni cari se schimba pe fiecare minut; vedeai unele posomorite, triste, surîzînd deodată; altele vesele, posomorîndu-se iară deodată; unele încrețea fruntea sau strîngea sprîncenele, altele își mușca buzele sau deschidea ochii mai mari; pe unele citeai curiozitatea, neodihna, așteptarea; pe altele supărarea, pe cîteva mulțumirea și bucuria; unele era mîndre și îngîmfate, altele umilite și plouate.
+
 Aceste persoane nu era mute, dar era foarte absorbite, căci vorbea puțin; și aci domnea o tăcere adîncă, aci izbucnea deodată exclamații, rîsuri, strigăte, monosilabe zgomotoase, și apoi urma iară o tăcere absolută. Cînd vorbea, însă, auzeai o limbă neînțeleasă, necunoscută și neînsemnată încă între limbele vorbite de oameni pe fața globului. Această limbă însă era vorbită de persoanele dimpregiurul mesei, care părea a fi oameni, și ascultîn-du-le de mai multe ori, observai că această limbă are vorbele sale, are vocabularul său, are gramatica sa, are expresiunile sale proprii, precum: paroli, maz, pace, îndoită, colțuri, ochiul, sonica, arbur, setleva, mare, trei pe margine, figură, ichenleva, în față cvarta de rigă, terză de noo ochi, cvartă majoră, cinci și cincisprezece, terză de dame, patrusprezece ași, treizeci ochi, terzâ de vaiet și multe alte aseminea cuvinte cabalistice.
+
 Dar ce făcea aceste persoane, și ce era pe acea masă, care le absorbea atît de mult, le mișca, le schimba fizionomia și le făcea să vorbească această limbă? Masa era lungă și avea o înfățișare foarte originală, și, fără descrierea sa, tabloul ar fi incomplect. Ceea ce-ți izbea ochii mai întîi era dezordinea cea mare după această masă, unde unul care n-ar fi fost inițiat în această știință cabalistică n-ar fi putut înțelege nimic. Galbeni, lire, ludovici, icosari, sfanți, se afla înaintea fiecăria persoane și era necontenit în mișcare către un punf, unde era mai multă monedă, care aci s-adăoga, aci dispărea, către centrul mesei era înaintate o mulțime de foițe cu punturi roșii și negre, sau cu figure, unele era singure, pe față sau întoarse, cu galbeni dasupra, la mijloc sau cu unul pe jumătate ascuns sub dînsa, altele era adunate doo-trei la un loc, îndoite la mijloc, sau la colțuri; pe lîngă aceste cărți se afla bucăți de cretă, puțin cam lungi, unele rotunde, altele în patru colțuri, cu o parte ascuțită și cu alta înfășurată în hîrtie aurită; aceste bucăți de cretă era însoțite de mici perioare rotunde; împrejurul acestor instrumente era scrise pe un postav verde o mulțime de cifre și socotele, formînd o linie lungă în dreptul fie-cării persoane care însemna o cifră, trăgea peste dînsa o linie, repeta această operație de mai multe ori, apoi ștergea tot sau o parte, și iară însemna; pe marginea de jur-împrejurul mesei, se afla o mulțime de acele foițe, amestecate, strînse, răspîndite, rupte, luate în mînă și aruncate iară.
+
 Cînd cele trei cunoștințe ale noastre, Gogor, Paloti și Colan, se prezintară înaintea acestor persoane, absorbite în frumoasa lor ocupațiune, și făcură fiecare cuvenitele salutări amabile, grațioase, unele nici nu se uitară la dînșii, altele ridicară capul, îi priviră și-l plecară iară pe masă, cîteva le răspunseră c-o mișcare din cap și c-o ușoară zîmbire. Ei se îndreptară către un personagiu în vîrstă, înaintea căruia se plecară fiecare pe rînd, mai mult unul, altul mai puțin, și toți strînseră mîna, adăogînd expresiunea de respect: sărut mîna, cocoane Tache, sau numai coconule. Acesta, după respectul ce i se arăta, după vîrsta sa, și mai cu seamă după costumul de casă ce avea, o căciuliță de catifea neagră, c-un ciucure în mijloc, o haină largă iară de catifea d-aceeași culoare, o legătură roșie la gît, pantaloni largi, cu oantofi în picioare, și c-un lung ciubuc în mină, părea să fie stăpînul casei, într-adevăr, era coconul Tache Forian.
+
 Îndată apoi ei își lăsară pălăriile, își băgară mîna prin buzunare și se repeziră către masă, după ce Gogor zise lui Paloti, care rămase mai îndărăt:
+
 — Este cam tîrziu.
+
 — A! iacă și strălucitul Gogor, zise cineva.
+
 — Sărut mîna, nene, răspunse Gogor; nene era expresiunea sa obicinuită de mîngîiere.
+
 — Taie cărțile, căci poate să vii cu noroc.
+
 — Gogor și noroc, nu rimează împreună, zise altul.
+
 — Gogor... rimează... cu... amor, adăugă stăpînul casei.
+
 — Bravo! cocoane Tache, strigară deodată mai mulți.
+
 — și este foarte nimerit, de minune, adăugă Gupidon; ha... ha... ha... ce bine este zis!
+
 — Ești nemuritor, cocoane Tache, zise Paloti, apropiindu-se înaintea lui cu admirație. Așa este, urmă el rîzînd, Gogor este totdeauna amorezat, dar bietul băiat este nenorocit în amor.
+
 — Apoi să vedeți, răspunse coconul Tache, trăgînd de cîteva ori din ciubuc, la Gogor... răspunde amor... dar răspunde și...duce dor...
+
 — Bravo! strigară și bătură din palme toți.
+
 — Ce spirit!
+
 — Ce frumos!
+
 — Foarte bine zis!
+
 — Minunat!
+
 — Admirabil!
+
 — Unul este coconul Tache Forian!
+
 — Scrie și p-acesta!
+
 — Merită să fie scrisă! ziseră mai toți din casă, afară de cîțiva cari era cu totul absorbiți de joc.
+
 — Ce zici tu, Setor dragă, este frumoasă această... tu ai mult spirit... și înțelegi ce este frumos.
+
 — S-o scrii, nene, spiritul este rar la noi, mai rar și decît banii, cari astăzi este lucrul cel mai rar.
+
 — Adică... nu știu de ce zici... că banii sunt rari.
+
 — Așa este, cocoane Tache, ziseră mai mulți.
+
 — Toată lumea o zice, adăugară alții.
+
 — Toată lumea! repetară mai toți.
+
 — Astea sunt vorbe... zise coconul Tache, una se zice și alta se face... eu vă văz pe toți cu bani... aveți birje cu ziua... sunteți îmbrăcați ca baronii... mîncați totdeuna bine... petreceți în toate serile... și jucați cărți regulat... cum faceți acestea dacă nu sunt bani?
+
 — Facem datorii, răspunse Cupidon.
+
 — Nu zic de cei care au moșie... căci moșia se preface în bani... nici de acei cari au slujbă... căci slujba nu lasă punga goală... dar de aceia cari n-au nimic.
+
 — Avem credit, ziseră cîțiva, și creditul este avere mare.
+
 -— Care se pierde cînd n-ai nimic... răspunse coconul Tache, mă gîndesc de mulți ani... să dezleg această problemă... foarte încurcată... să trăiești și să cheltuiești... fără să moștenești sau să muncești...
+
 — și ce ai găsit? întrebă Paloti, care se întoarse de la masă, cu cîțiva galbeni în mînă, pe care-i cîștigase în stos.
+
 — O parte a răspunsului... o ai în mînă, zise coconul Tache rîzînd.
+
 — Dar cealaltă parte care este?
+
 — Cealaltă parte... nu se poate spune acum... o veți vedea după moartea mea.
+
 — O, dar este nesuferit! strigă unul de la masă.
+
 — Ce este, Cupidon? întrebă bătrînul, apropiindu-se de el.
+
 — Pierz mereu, o carte blestemată, înainte cîștigam, norocul mă persecută.
+
 — Norocul este nestatornic, dragul meu.
+
 — și legat la ochi, zise Setor.
+
 — Dar cine cîștigă?
+
 — Gogor.
+
 — Auzi ce zice prietenul nostru Setor.
+
 — Lasă, zău, că astăzi m-ați prăipădit, răspunse Gogor, mai trăgînd cîțiva galbeni de la o carte ce cîștigase.
+
 — și spune drept... n-ai vrea să fii și altă dată prăpădit cu vorbe de noi și răsplătit cu bani de noroc?
+
 — și ce noroc! strigă Bolborescu, sculîndu-se după scaun și aruncînd cărțile.
+
 — Nu mai joc, strigă iară cu supărare Fumurescu.
+
 — Nu te supăra, milord, îi zise rîzînd bătrînul Forian, care-l numea: milord Fumurescu, cînd voia să glumească. Ploaia trebuie să cază și pe locuri uscate.
+
 — O singură carte mai pui. Zece galbeni asul.
+
 — și eu tot doo lire asul, zise Bolborescu, plecîndu -se jos să ia o carte.
+
 — O liră dama, strigă Paloti.
+
 — N-aș vrea să cîștigi, zise rîzînd coconul Tache.
+
 — Pentru ce, coconule?
+
 — Nu m-ai înțeles, dragă Filfion?
+
 — A! ai dreptate.
+
 Coconul Tache numea în glumă pe Paloti, Filfion, și pe Gogor, Filfizon, ca să meargă bine cu don. Așa le zicea adesea: don Paloti Filfion, don Gogor Filfizon.
+
 — Stai nu trage încă, strigă unul sculîndu-se de la o margine a mesei unde jucase pichet.
+
 — Iată și Nestor, Paloti începe acum stosul, zise Cupidon, lîngă care se așezase.
+
 — A cîștigat la pichet și vine să piardă la stos, răspunse c-o voce răgușită Forfanton cu care jucase,' luînd și el o carte.
+
 — Stați un minut, zise Colan, care în urmă făcea bancul, sculîndu-se în picioare și scoțîndu-și batista spre a-și șterge fruntea care se acoperise de sudoare.
+
 — Te-ai pierdut de tot, o, mare Colan, zise coconul Tache.
+
 — Mare de corp, adăugă Setor.
+
 — Cum îți place mai bine, Colane? întrebă Forian.
+
 — Să fiu mare astă dată cînd voi trage, răspunse Colan. Dar să vedem aci, căci este lucru serios. Dumneata, cocoane Iancule, s-adresează el către o persoană bătrînă, al cărui păr era însă negru, mergi la pace de zece galbeni, ochiul un galben, o liră maz și altă, carte paroli de doo lire.
+
 — Așa.
+
 — Dumneata, musiu Nestor?
+
 — Doo lire.
+
 — Gogor, tu mergi paroli de trei lire o carte, și altă carte la pace de zece și cinci mazo.
+
 — Da.
+
 — Joacă nebunește Gogor, zise Paloti.
+
 — Așa sunt tinerii cu inima înfocată, răspunse Forian.
+
 — Mai ales cînd n-au să piarză nimic, adăugă Bolborescu.
+
 L-aceste cuvinte Gogor ridică capul, dar o privire fixă a lui Bolborescu îl făcu să îl aplece iară.
+
 — Tu? urmă Colan, adresîndu-se către Paloti.
+
 — O liră.
+
 — Dumneata, nene Cupidon, mergi înainte la cinci lire si un maz.
+
 — Întocmai.
+
 — Tu, Fumurescule?
+
 — La pace de cinci galbeni, și zece pe carte.
+
 — Cine a mai puntat?
+
 — Eu, zise Forfanteron, ochiul și galbenul.
+
 — Întorc cărțile.
+
 O tăcere adîncă urmă aceste cuvinte zise rar, tare și cu solemnitate. Dar numaidecît începu o confuziune generală, zgomot și mișcare. Unii arunca bani dupe cărți, le rupea și le arunca; alții se scula repede în sus, își exprima necazul printr-un gest din mînă sau din picior, unul trăgea banii înainte și așeza în coloane galbenii de o parte, lirele de altă parte; vreo doi-trei întindea mîna pe masă, lua banii cîștigați, îi băga în bozunar și se preumbla prin casă, sau se uita pe fereastră.
+
 Rezultatul a fost acesta.
+
 Toți se sculară cu zgomot de la masă și începură a se preîmbla prin cameră.
+
 Această preîmblare era foarte originală, și nu știm ce ar fi crezut cineva care ar fi văzut deosebitele mișcări ale acestor persoane, fără să știe ce s-a întîmplat mai înainte ca să le puie în această pozițiune. Salonul în care făcea această preumblare nu era prea întins, încît aceste persoane destul de numeroase, era nevoite a se lovi în trecerea lor, a se afla față în față și a se feri unele de altele, c-un aer ce te-ar fi făcut să crezi că sunt inimici.
+
 Într-adevăr, era unele persoane cari nu se suferea nicidecum în acel minut; îndată ce doo din acestea se afla din întîmplare față în față, trebuia să vezi pe una din ele posomorind sprincenile, plecînd capul în jos și trăgîndu-se c-un gest de neplăcere laoparte, ca să nu se atingă de acea persoană.
+
 De unde venea această schimbare și răceală între dînsele, căci cu cîteva minute mai înainte, era toate împreună împrejurul mesei cabalistice, vorbind și glumind toate?
+
 Cînd preîmblarea înceta, se forma deosebite grupe cari înfățișa între ele un contrast foarte ciudat; toate vorbea încet și gesticula mult, dar expresiunea chipului lor era cu totul diferită; pe unele le vedeai triste și descuragiate, cu părul puțin în dezordine și cu fața puțin aprinsă; unele persoane făcea gesturi de supărare, sau își trecea mîna pe păr și pe față, închizîndu-și ochii și trăgînd mustățile în jos pe buze. Alte grupe le vedeai vesele și zîmbitoare, miș-cîndu-și corpul în toate sensurile, ca cum fericirea n-ar fi încăput în ele, vedeai pe o persoană ridicîndu-și capul în sus, răsucindu-și mustața, răsfirîndu-și favoritele sau pieptănîndu-și barba, pe altele le vedeai jucîndu-se cu mîna în bozunare, ceea ce le producea în față o expresi-une de nespusă fericire.
+
 Cauza acestei repede metamorfoze și a acestor diferite clase într-un timp cînd toți strigă să fie numai o clasă, era cîștigul și pierderea, bozunare pline și bozunare goale, avuție și sărăcie, deosebite situațiuni, vesele sau triste, în cari ajunseseră aceste persoane, întrebuințînd timpul care este proprietatea lor, aplicînd o știință care dovedește lucrarea inteliginței și bucurîndu-se de prețioasa libertate care deosebește pe om de celelalte animale și care se proclamă astăzi de toți.
+
 Timp, știință, libertate, iată ce se întrebuințează împrejurul acelei mese, și ceea ce produce deosebite rezultate. Unii au pierdut, alții au cîștigat; iată tot, și lucrul este foarte firesc.
+
 — Ei bine! zise Forian, cu minele ia spate, țiind o pereche de mătănii de chihlimbar, ei bine! copiii mei, ați meditat îndestul asupra norocului. Spuneți-mi și mie, cine a pierdut și cine a cîștigat, ca să mîngîie bătrînul pe cei nenorociți și să puie în sufletul lor speranța că mîine vor pune mîna pe noroc.
+
 — Lista paraponisiților este mare și duioasă, zise Setor.
+
 — Prea duioasă, repetă Fumurescu, înălțîndu-se în vîrful picioarelor ca s-aprinză o țigară de la Bolborescu.
+
 Nesuferită, adăugă acesta.
+
 — Stați că vă spui eu tot, copiilor, zise Forian, apro-piindu-se de dînșii.
+
 — Ești nemuritor, cocoane Tache, strigă Paloti, cu minele în bozunarele giletei și plecîndu-și corpul înainte.
+
 — Tu ai cîștigat, Filfion, îi zise numaidecît Forian, întorcîndu-se către el și aducînd înainte mîna dreaptă care se juca cu mătăniile.
+
 — Așa, coconule, răspunse Paloti, plecîndu-și capul și puindu-și mînele în bozunarele de la spate ale gherocului. Puțin, însă, puțin, adăugă el.
+
 — Puțin, iubitule, este ceva mai mult decît nimic, zise Forian.
+
 — Încă una frumoasă, strigară mai mulți; puțin este ceva mai mult decît nimic, repetară ei oprindu-se la fiecare vorbă, însoțiind-o c-o mișcare din cap și c-un gest al mînei. Puțin este ceva mai mult decît nimic! foarte frumos, mai strigară ei cu admirație.
+
 — și mult mai mult decît a pierde, adăugă Setor, băgînd mînele în bozunare, lipind brațele de corp și ridi-cîndu-și umerii.
+
 — Tu ai pierdut, dragă Setor, zise Forian, apropiindu-se de el; speranța este dată omului spre mîngîiere, adăugă el.
+
 — Aceasta este din cele scrise, strigă unul.
+
 — și este minunată, adaugară mai mulți, plecînd capul spre Forian.
+
 — Să vedem întîi pe cei cari au pierdut, nenorociții, mai înainte de toate, zise Forian; și aceasta nu este greu de aflat, mai cu seamă cînd cineva are experiența vieței; aceia cari cîștigă se înveselesc. Iată, sunt sigur că Cupidon a pierdut.
+
 — și cînd n-am pierdut, ca să nu pierz și acum? răspunse acesta cu supărare,
+
 — și tu ai pierdut, milord Fumurescu, urmă coconul Tache.
+
 — și am pierdut mult pentru astăzi,
+
 — Pentru tine nu este niciodată mult.
+
 — Dar am pierdut doo sute de galbeni, și cred că este prea mult.
+
 — Nu se poate, strigă marele Colan, eu știu cîte parale aveai.
+
 — O sută cincizeci, zise Fumurescu, pentru care ți-am dat poliță de doo sute.
+
 — Ai dreptate, și cu cită osteneală i-am găsit, este criză mare.
+
 — Adevărat! zise Paloti, uitîndu-se posomorit la Colan.
+
 — și mie tot așa mi-a făcut, strigă Cupidon; ați mai auzit d-voastră boierilor, pentru o sută să dau o sută cincizeci?
+
 — Criză de bani! criză mare! răspunse Colan, scoțîndu-și pieptul înainte și ridicîndu-și capul în sus.
+
 — Mi se pare că și tu pierzi, Burton, dar nu pierzi mult, zise Forian adresîndu-se către o persoană foarte elegant îmbrăcată, deși era foarte groasă, foarte grasă și foarte burtoasă, pentru care i se zicea și Burton. Cu tot corpul său voluminos, Burton nu era un om urît: se mișca cu anevoință silindu-se însă a fi grațios, mai mult prin su-rîsul său, căci cînd voia să se plece, se pleca cu tot corpul, fiindu-i cu neputință a-și îndoi mijlocul. Gîtul său cel gros nu-i permitea a-și întoarce capul cu înlesnire și era silit a se mișca iară cu tot corpul, la dreapta sau la stînga, țiind mai totdeauna mînele în jos încovoiate, ceea ce-l făcea să semene prea mult c-un vas mare cu mînuși. Gușa sa foarte dezvoltată se odihnea alene pe un guler ascuțit, ale căruia colțuri le pleca în jos sub greutatea ei. Părul său, des și bogat, îi lăsa prea puțin fruntea descoperită, și printr-o cărare foarte dreaptă, ce pleca din dreptul nasului și mergea pînă la ceafă, care se revărsa peste guler, era despărțit în doo aripe mari, stufoase și strălucitoare, cari mărea și mai mult capul său, dîndu-i înfățișare foarte ciudată. Burton avea o singură solidă ocupație, în care cîștigase o reputație foarte meritată; era un adevărat oracul pentru toți cari voia cîteodată să-și dezmierdeze stomahul. Burton mai avea un rival în această grea știință, care cere mari mijloace intelectuale, imaginație, calcul, prezență de spirit, deosebite combinări, deosebite invenți-uni și, mai presus de toate, un gust foarte dezvoltat. Acest rival era Forfanteron, care, pe cînd norocul jîl legăna în brațele sale, era muncit zi și noapte de nobila ambițiune de a mînca în București mai bine decît toți. Burton era un școlar al său, care, cu dispozițiile naturale ce avea și cu studiile serioase ce a făcut, a izbutit a dobîndi o specialitate în care se deosebea pe fiecare zi mai mult, pentru că avea un adevărat cult pentru burtă. Gînd mergea cu amicii săi să supeze noaptea la Hotel de France, unde Hugues avea cea mai bună cuhnie franceză, Burton se punea la biurou și făcea carta, căci toți striga: Burton să facă carta! și, c-o nemărginită încredere în gustul său și în adînca sa știință, toți era siguri că avea să mănînce bine. Hugues chiar era gelos d-atîta știință ce vedea într-un profan, dar perspectiva cîștigului ce asemenea cartă desfășura în mintea sa îl făcea să înăbușească în sînul [său] orice exploziune de rivalitate și să zică frecîndu-și mîinile:
+
 — Este perfect, n-am văzut niciodată un gust mai fin și mai delicat, după care adauga și un calambur.
+
 și Burton, mîndru și zîmbind, ceea ce-i umfla gușa, zicea:
+
 — N-est-ce pas, père Hugues?
+
 Cînd Forian întrebă pe Burton dacă pierde, acesta vorbea cu Forfanteron despre o mîncare noo ce a învățat pe bucătarul său să facă, și vorbea cu atîta entuziasm despre calitățile suculante ale acestui fel de bucate, care făcea pe Forfanteron să-și deschiză ochii mari și să ridice sprincenile, încît n-auzi întrebarea lui Forian.
+
 — Pierzi și tu, Burton? mai repetă Forian, apropiindu-se de el.
+
 — Nu pierz mult, cocoane Tache.
+
 — Fiecare la rîndul său, ieri ai cîștigat, astăzi pierzi. Dumneata pierzi mai mult, mi se pare, cocoane Iancule.
+
 — Ce să faci norocului, răspunse acesta c-un aer trist, fumînd c-un lung port-țigare de spumă și vorbind cu Bolborescu, care strigă:
+
 — Nesuferită șansă! să pierz șapte cărți pe rînd și să mă bată tot în față. S-a mai văzut aceasta? să pierzi necontenit, într-una!
+
 — Va să zică cei cu norocul și cu bozunarul plin sunt Gogor, Colan, Nestor, Paloti, Forfanteron.
+
 — și apoi Gogor și Colan au cîștigat și pleacă cu bozunarul plin, zise repede Bolborescu.
+
 — E! după timp frumos, vine ploaie, zise Forian zîmbind.
+
 — Așa, dar banii lor nu mai vin p-aice, adăugă Cupidon, care se uita în oglindă, își pieptăna barba și își netezea sprîncenele.
+
 — Dar nici nu le rămîn în pungă, zise Se tor.
+
 — A ferit Dumnezeu, adăugă Forfanteron c-o voce răgușită.
+
 — Atît mai bine, zise Forian, se pun în circulație și dau viață comerțului. Mă prind că mîne Gogor nu mai are nici o para.
+
 — Acesta e talentul cel mare, adăugă Fumurescu.
+
 — și frumos talent, îi félicitez, zise Burton.
+
 — în care se perfecționează cu paguba noastră, urmă Bolborescu.
+
 — V-ați pus cu toții pe mine, nu este frumos, zise Gogor, rîzînd, închizînd puțin ochii și dînd din cap.
+
 — Invidia, Gogor, invidia, răspunse coconul Tache.
+
 — Bravo! bravo! strigară mai mulți, bătînd din palme și rîzînd cu zgomot. Ați auzit: invidia! bravo!
+
 — și este foarte bine zis, adăugă Paloti, Gogor merită să fie invidiat.
+
 — Gogor? întrebară cîțiva cu mirare, iată ceva nou, cocoane Tache.
+
 — Gogor, răspunse Paloti cu seriozitate, plecîndu-și capul în jos.
+
 — Dar ce minune s-a întîmplat? întrebă Forian.
+
 — și adevărat, a trebuit să fie o minune, adaugă Cupidon, care-și mai aruncă ochii în oglindă, mișcîndu-și corpul.
+
 — Ia spune, Gogor, ce noroc a dat peste tine? întrebă iară Forian.
+
 — Dar nu este nimic, cocoane Tache, zău că nu este nimic, răspunse Gogor, nu cunoști glumele lui Paloti?
+
 — Dacă este o glumă, apoi tu mi-ai spus-o, îi zise Paloti.
+
 — D-aceasta să fii sigur, adăugă Forfanteron.
+
 — Stați să vă spui eu, strigă Colan, astă-seară...
+
 — și ce să spui? întrerupse Gogor.
+
 — Spune, spune, strălucite Colan, strigară mai multe voci deodată.
+
 — Trebuie să fie vorba d-amor, zise Cupidon.
+
 — Daca este la mijloc Gogor adaugă Fumurescu.
+
 — Numai să nu ofteze de dor, zise Forian, și toți începură să rîză cu hohot.
+
 — Cam așa mi se pare, zise Paloti, dar s-ascultăm pe vestitul Colan.
+
 — Cunoașteți, urmă acesta, cum oftează Gogor după femei?
+
 — Cunoaștem, cunoaștem.
+
 — și ceea ce le spune?
+
 — Ne închipuim.
+
 — Inima lui, viața lui, starea lui, el sacrifică tot la picioarele lor.
+
 — Frumoasă declarație, zise Forian.
+
 — Amorul lui este mare ca lumea, va face toate sacrificele pentru angelul vieții sale, și alte multe d-acestea, pe care eu nu le pot spune ca dînsul.
+
 — știm de mult aceasta.
+
 — Închipuiți-vă pe Colan făcînd o declarație, trebuie să mori de rîs, zise Fumurescu.
+
 — Ha! ha! ha! ce frumusețe! strigă Colan.
+
 — Dar isprăvește, Colan, îi zise coconul Tache, nerăbdător.
+
 — În sfîrșit, să vă spui, Gogor oftează și este topit după cara mia, după anima mia, după Serini.
+
 — Serini? strigară toți.
+
 — Serini? întrebă Forian, apropiîndu-se cu mirare de Colan și uitîndu-se cu ochii deschiși mari la Gogor.
+
 — Serini? întrebă, asemenea, coconul Iancu, sculîndu-se repede dupe scaun și uitîndu-se cu mirare cînd la Colan, cînd la Gogor, cînd la Forian.
+
 — Serini? Gogor glumește, zise Cupidon, c-un aer de îndoială, puindu-se iară în dreptul oglindei.
+
 — Nu se poate, zise coconul Iancu.
+
 — - Nu este așa că nu se poate, nene Iancule? adăugă Forian, îndreptîndu-se către acesta, care părea a fi tulburat. Nu se poate, urmă Forian. O, Serini! adorabilă Serini! încîntătoare Serini!
+
 — Un angelo divino! strigă Colan, ridicînd capul și minele în sus. A! ce femeie!
+
 — Adevărul este că e preafrumoasă, ziseră mai mulți.
+
 — Preafrumoasă, repetară alții.
+
 Trei persoane era impresionate d-aceste laude cari se făcea despre Serini: conu Iancu, Forian și Gogor; la fiecare vorbă pentru Serini, ei se uita unul la altul, zîmbea de bucurie și le strălucea ochii de fericire.
+
 — Dar tu ce zici, Fumurescule? îl întrebă Cupidon, ce zice inima ta? Nici o dorință?
+
 — Adică mai bine ce zice punga mea! Deocamdată nimic, cu desăvîrșire nimic; dar dumneata, nene Cupidon?
+
 — Cît despre mine, nimic pentru aceasta; inima mea este dusă în altă parte.
+
 — Ar fi mai adevărat să zici în mai multe părți, întrerupse Forian.
+
 — Am uitat pe toate pentru Malvina. O! sunt nebun!
+
 — Ce nume frumos, zise coconul Tache, este luat din Ossian.
+
 — Foarte frumos nume, repetară mai mulți.
+
 — Dar ea este frumoasă! și cîte greutăți! cîte piedice! strigă Cupidon.
+
 — Amorul fără piedice nu are nici un farmec, zise Forian.
+
 — Dar cînd sunt prea mari, este un chin de moarte.
+
 — Pentru tine însă pînă acum n-au fost piedice pe care să nu le învingi.
+
 — Dar acum sunt prea mari. Privigherea bărbatului ei, bănuielile femeii mele, gelozia unei amante vedhi, lipsa de parale multe...
+
 — Am auzit însă că bărbatul este nerod, zise Fumu-rescu.
+
 — Acesta este adevărat, zise Cupidon.
+
 — Avantagie mare! zise Forian; dar te duci? întrebă el pe Cupidon, care-și pusese pălăria în cap și se uita în oglindă, potrivindu-și barba, cravata și hainele.
+
 — Mănînc astăzi la Filovinos.
+
 — Mai iată un adorator al sexului frumos, zise Burton.
+
 — și al vinului bun, adăugă Forfanteron.
+
 — Amorul și vinul merg totdeuna împreună, zise Forian zîmbind; Anacreon a cîntat: Vino, frumusețe, vino cupă plină.
+
 — și multe istorii are Filovinos, zise coconul lancu; trăiește foarte bine.
+
 — Dar cum s-a sfîrșit cu Serini? întrebă Setor.
+
 — Să lăsăm în pace pe Gogor, el e destinat să ofteze, zise rîzînd Fumurescu. Deseară este bonificiul frumoasei Serini.
+
 — Bine zici, strigară mai mulți, să cumpărăm buchete.
+
 — Să-i aruncați și din partea mea doo, zise Forian.
+
 — Da, da, repetară toți.
+
 — Ascultați dar o scrisoare a mea către Serini, adaugă el după un moment de tăcere, îndreptîndu-se către biu-rou, și trăgînd o cutie din care scoase cîteva pagini scrise.
+
