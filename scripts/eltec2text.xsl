@@ -10,9 +10,8 @@
   <xsl:output method="text"/>
   <xsl:template match="text()"/>
   <xsl:template match="/">
-    <xsl:apply-templates select="tei:TEI/tei:text"/>
+    <xsl:apply-templates select="tei:TEI/tei:text/tei:body"/>
   </xsl:template>
-  <xsl:template match="tei:back"/>
   <xsl:template match="tei:quote | tei:head | tei:label | tei:p | tei:l | tei:note | tei:trailer">
     <xsl:value-of select="normalize-space(.)"/>
     <xsl:text>&#10;&#10;</xsl:text>

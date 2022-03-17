@@ -1,3 +1,13 @@
+test-conllu:
+	rm -f conll/*
+	get-conllu.pl 'text/ROM001.txt' conll
+conllu:
+	rm -f conll/*
+	get-conllu.pl 'text/ROM*.txt' conll
+
+conllu2tei:
+	eltec-conllu2tei.pl 'conll/ROM*.conllu level1-fixed ../level2
+	${j2} test/ROM001-L2.xml
 test-tei1:
 	eltec-conllu2tei.pl conll/ROM001.conllu level1-fixed test
 	${j2} test/ROM001-L2.xml
