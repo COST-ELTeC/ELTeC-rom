@@ -32,7 +32,7 @@
         <availability>
           <licence target="https://creativecommons.org/licenses/by/4.0/"></licence>
         </availability>-->
-            <p/>
+            <p>Encoding to ELTeC level 1</p>
          </publicationStmt>
          <sourceDesc>
             <bibl type="firstEdition">
@@ -46,7 +46,6 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
-         <p/>
       </encodingDesc>
       <profileDesc>
          <langUsage>

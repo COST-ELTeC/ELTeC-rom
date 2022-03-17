@@ -57,7 +57,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
-         <p/>
+         <p>Encoding to ELTeC level 1</p>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -818,7 +818,6 @@
             <l>
                <hi>Te soarbe-n șterse depărtări?...</hi>
             </l>
-            <p/>
             <l>
                <hi>Din umbra ce la piept o strîngi</hi>
             </l>
