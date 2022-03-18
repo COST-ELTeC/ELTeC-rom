@@ -230,7 +230,9 @@ Peste câteva zile Chiril plutea pe o plută, pe Mureș, într-acolo unde-i bun 
 
 Zilele erau calde, nopțile senine și plutașii cântau:
 
-Mureș, Mureș apa lină, Floare în dalbină...
+Mureș, Mureș apa lină,
+
+Floare în dalbină...
 
 Munții și pădurile mari rămâneau departe și câmpul se întindea în dreapta tot mai larg, mai neted, mai mănos. In stânga dealuri mici se înșirau cu bogate vii și pomi roditori; livezi îmbelșugate de pomi, cu cren-gile plecate, pline de rod.
 
