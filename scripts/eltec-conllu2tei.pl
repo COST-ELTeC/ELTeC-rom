@@ -30,8 +30,10 @@ $out_dir = shift;
 
 #Top-level element that contains text
 $root_element = 'body';
+
 #Elements taken to contain text
-@text_elements = ('quote', 'head', 'label', 'p', 'l', 'note', 'trailer');
+#@text_elements = ('head', 'p', 'l', 'quote', 'note', 'trailer');
+@text_elements = ('head', 'label', 'p', 'l', 'note', 'trailer');
     
 if ($conll_dir =~ /\.$anaExt/) {$in_conllu = $conll_dir}
 elsif (glob("$conll_dir/*.$anaExt")) {$in_conllu = "$conll_dir/*.$anaExt"}
@@ -107,11 +109,15 @@ sub merge {
 	    $out .= conll2tei($conll_ab);
 	    $out .= "\n$tagc";
 	}
-	elsif (my ($tago) = $tei =~ m|^(\s*<[^ />]+ ?[^>]*/?>)|) {
+	elsif (my ($comment) = $tei =~ m|^(\s*<!--.+?-->)|s) {
+	    $out .= $comment;
+	    $tei =~ s|\Q$comment\E||;
+	}
+	elsif (my ($tago) = $tei =~ m|^(\s*<[[:alpha:]][^ />]+ ?[^>]*/?>)|) {
 	    $out .= $tago;
 	    $tei =~ s|\Q$tago\E||;
 	}
-	elsif (my ($tagc) = $tei =~ m|^(\s*</[^>]+>)|) {
+	elsif (my ($tagc) = $tei =~ m|^(\s*</[[:alpha:]][^>]+>)|) {
 	    $out .= $tagc;
 	    $tei =~ s|\Q$tagc\E||;
 	}
@@ -141,7 +147,7 @@ sub text_element_start {
     my $tei = shift;
     my $element;
     foreach my $elem (@text_elements) {
-	if ($tei =~ m|^\s*<$elem ?[^>]*>|) {$element = $elem}
+	if ($tei =~ m|^\s*<$elem( [^>]+)?>|) {$element = $elem}
     }
     return $element
 }
