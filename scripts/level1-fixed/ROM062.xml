@@ -1537,7 +1537,6 @@
                <l>Oare ce eu ti-am gresit?</l>
                <l>Nu ti-am dat eu tie oare,</l>
                <l>Toate oare ce-ai dorit?</l>
-               <l>                   </l>
                <l>O petrecere mai vie</l>
                <l>Ca sa-ti procurez eu tie</l>
                <l>Departe am fost cu tine</l>
@@ -1552,7 +1551,6 @@
                <l>Iat-o, iat-o c-a ajuns</l>
                <l>Dar o las ca sa soseasca</l>
                <l>Caci speranta mi-a apus!</l>
-               <l>                       </l>
                <l>Mi-a apus, caci tu copila</l>
                <l>Cererea mi-ai refuzat,</l>
                <l>De mine n-ai avut</l>
@@ -2064,31 +2062,20 @@
             <p>Unchiul ma sfatueste pentru drept alt unchiu imi spune sa fac si literele.</p>
             <p>- Dreptul si literatura pot face numai un bun avocat. Uite de pilda Mornea, cind îți vorbeste el, cînd spune:</p>
             <quote type="verse">
-               <l>- <foreign>Je l-ai vu dis-je, cu, de mes propres yeux vu</foreign>
-               </l>
-               <l>
-                  <foreign>Ce qu-on appelle vu.</foreign>
-               </l>
+               <l>- <foreign>Je l-ai vu dis-je, cu, de mes propres yeux vu</foreign></l>
+               <l><foreign>Ce qu-on appelle vu.</foreign></l>
             </quote>
             <p>Si in fiecare data cind venea vorba despre cariera mea, unchiul reincepea vorba d-sale.</p>
             <p>- Uite de pilda Mornea, cind vorbeste el, cand iti spune:</p>
             <quote type="verse">
-               <l>
-                  <foreign>Je l-ai vu, dis-je, vu, de mes propres yeux vu</foreign>
-               </l>
-               <l>
-                  <foreign>Ce qu-on appelle vu.</foreign>
-               </l>
+               <l><foreign>Je l-ai vu, dis-je, vu, de mes propres yeux vu</foreign></l>
+               <l><foreign>Ce qu-on appelle vu.</foreign></l>
             </quote>
             <p>Dreptul si literatura!</p>
             <p>Acum eram obisnuit. Cind venea vorba de cariera, stiam ca va fi vorba si de Monica si incepeam singur sa recitez vorbele lui Molière, pe care unchiul le dadea pe seama bietului Mornea:</p>
             <quote type="verse">
-               <l>
-                  <foreign>Je l-ai vu dis-je, vu, de mes propres yeux vu</foreign>
-               </l>
-               <l>
-                  <foreign>Ce qu-on appelle vu.</foreign>
-               </l>
+               <l><foreign>Je l-ai vu dis-je, vu, de mes propres yeux vu</foreign></l>
+               <l><foreign>Ce qu-on appelle vu.</foreign></l>
             </quote>
             <p>Da! Dreptul si literatura, atita numai!</p>
             <p>Dreptul? Dar eu nu pot minti, nu pot sa fac sa se osindeasca oamenii. Nu voiu sa fiu advocat, negutator de vorbe.</p>
