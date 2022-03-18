@@ -8,14 +8,13 @@
   xmlns:fn="http://www.w3.org/2005/xpath-functions"
   exclude-result-prefixes="fn tei xi">
   <xsl:strip-space elements="*"/>
-  <xsl:preserve-space elements="tei:c"/>
   <xsl:output method="xml" indent="yes"/>
 
   <xsl:variable name="today-iso" select="format-date(current-date(), '[Y0001]-[M01]-[D01]')"/>
   <xsl:variable name="today-slv" select="format-date(current-date(), '[D1]. [M1]. [Y]')"/>
 
   <xsl:param name="change">
-    <change when="{$today-iso}">Tomaž Erjavec: Annotation with Nikola's tool-chain &amp; TEI editing.</change>
+    <change when="{$today-iso}">Tomaž Erjavec: Annotation with UD-Pipe.</change>
   </xsl:param>
 
   <xsl:template match="tei:publicationStmt/tei:date">
@@ -31,7 +30,6 @@
       <xsl:apply-templates/>
     </xsl:copy>
     <respStmt>
-      <resp xml:lang="sl">Jezikoslovna obdelava</resp>
       <resp xml:lang="en">Linguistic processing</resp>
       <name>Tomaž Erjavec</name>
     </respStmt>
@@ -47,11 +45,6 @@
     </xsl:copy>
   </xsl:template>
 
-  <!-- To fix (ex) bug in level-2 schema
-  <xsl:template match="tei:distributor"/>
-  <xsl:template match="tei:availability"/>
-  -->
-  
   <xsl:template match="tei:encodingDesc">
     <xsl:copy>
       <xsl:attribute name="xml:lang">en</xsl:attribute>
@@ -62,17 +55,10 @@
   <xsl:template match="tei:encodingDesc/tei:p">
     <xsl:copy>
       <xsl:apply-templates/>
-      <xsl:text> Tokenisation and sentence segmentation performed with </xsl:text>
-      <ref target="https://github.com/clarinsi/reldi-tokeniser">ReLDI tokeniser</ref>,
-      <xsl:text>word modernisation with </xsl:text>
-      <ref target="https://github.com/clarinsi/csmtiser">CSMTiser</ref>,
-      <xsl:text> and UD morphosyntactic tagging and lemmatisation with </xsl:text>
-      <ref target="https://github.com/clarinsi/classla-stanfordnlp">CLASSLA-StanfordNLP</ref>
-      <xsl:text> trained for Slovene. Named entities were annotated with </xsl:text>
-      <ref target="https://github.com/clarinsi/janes-ner">Janes-NER</ref>
-      <xsl:text>, which uses the set of NE labels detailed in the </xsl:text>
-      <ref target="http://nl.ijs.si/janes/wp-content/uploads/2017/09/SlovenianNER-eng-v1.1.pdf">Annotation guidelines for Slovenian named entities Janes-NER V1.1</ref>
-      <xsl:text>.</xsl:text>
+      <xsl:text> Tokenisation, sentence segmentation, morphosyntactic tagging and lemmatisation
+      performed with </xsl:text>
+      <ref target="https://lindat.mff.cuni.cz/services/udpipe/">UDPipe</ref>
+      <xsl:text> using the romanian-nonstandard-ud-2.6-200830 model.</xsl:text>
     </xsl:copy>
   </xsl:template>
   
@@ -96,8 +82,9 @@
     </xsl:copy>
   </xsl:template>
   
-  <xsl:template match="tei:div | tei:text//tei:p  | tei:p/tei:l  | tei:text//tei:note
-		       | tei:s | tei:w | tei:pc">
+  <!--xsl:template match="tei:div | tei:text//tei:p  | tei:p/tei:l  | tei:text//tei:note
+		       | tei:s | tei:w | tei:pc"--> 
+  <xsl:template match="tei:div">
     <xsl:copy>
       <xsl:attribute name="xml:id">
 	<xsl:value-of select="ancestor::tei:TEI/@xml:id"/>
