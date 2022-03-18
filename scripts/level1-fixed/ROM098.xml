@@ -27,7 +27,7 @@
             <measure unit="pages">170</measure>
          </extent>
          <publicationStmt>
-           <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
             <date when="2022-03-02"/>
             <availability>
@@ -46,7 +46,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
-        <p>Encoding to ELTeC level 1</p>
+         <p>Encoding to ELTeC level 1</p>
       </encodingDesc>
       <profileDesc>
          <langUsage>

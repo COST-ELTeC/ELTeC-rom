@@ -27,7 +27,7 @@
             <measure unit="pages">624</measure>
          </extent>
          <publicationStmt>
-           <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+            <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
             <date when="2022-03-02"/>
             <availability>
@@ -48,7 +48,7 @@
          </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
-        <p>Encoding to ELTeC level 1</p>
+         <p>Encoding to ELTeC level 1</p>
       </encodingDesc>
       <profileDesc>
          <langUsage>
@@ -4588,7 +4588,8 @@
                <p>Omu de geniu, care — dupa espressiu-nea sa — întrecea pe Shachespeare, elu intra cu o arogantia, si nescotiendu-si tîgar-a din gura, salută pe Aureliu cu acèste vorbe:</p>
                <p>— Servus amice!</p>
                <p>Aureliu tocmai siedea la mèsa si lucra. Vediendu acèsta portare impertinenta, elu nici nu sè scolă, ci continuandu-si lucrulu, respunse cu dispretiu:</p>
-               <p>— Servus!</p>               <p>— Ce felu! Dar tu nici nu te scoli, candu vedi intrandu in odai-a ta unu omu asia de mare? @</p>
+               <p>— Servus!</p>
+               <p>— Ce felu! Dar tu nici nu te scoli, candu vedi intrandu in odai-a ta unu omu asia de mare? @</p>
                <p>— Taci si nu vorbi multe, căci am lucru!</p>
                <p>— Dar eu nu potu siede multu. Timpulu meu e scumpu. Musele ine invita. Am sè scriu unu raportu despre balulu de alal-ta eri.</p>
                <p>— Apoi du-te dara si-lu scrie!</p>
