@@ -14,7 +14,7 @@
   <xsl:variable name="today-slv" select="format-date(current-date(), '[D1]. [M1]. [Y]')"/>
 
   <xsl:param name="change">
-    <change when="{$today-iso}">Tomaž Erjavec: Annotation with UD-Pipe.</change>
+    <change when="{$today-iso}">Annotated with UD-Pipe.</change>
   </xsl:param>
 
   <xsl:template match="tei:publicationStmt/tei:ref[@type='doi']"/>
