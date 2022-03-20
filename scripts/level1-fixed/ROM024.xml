@@ -25,7 +25,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -60,6 +60,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -2624,7 +2625,7 @@
             <p>părțile m ani îndelungați, ai fi fost o jv vi.1 destul de grea pentru căpetenia unui stat. Ioate relele, împotriva cărora el se ridicași, i se desvăluise/ă a:i cu cea mai mare strășnicie, ținându-i calea cu o ură înverșunată. și ceea ce îi venise mai greu firii sal de ostaș, era, ca fusese silit să apuce calea întortociiiata a daraverilor politicești.</p>
             <p>In ziua de 13 Maiu' sosi la București știrea ca trupe turcești trecuseră Dunărea la Giurgiu și la Silistra.</p>
             <p>Atunci Domnul Tudor porunci, să se aducă boerii de la Belvedere la Cotroceni.</p>
-            <p>Ceeace auzind aceștia, strigară îngroziți:,țVrea să ne taie!” Dar căpitanii escortei îi liniștiră; dealtmin-trelea, boerii n-aveau încotro, trebuiau să meargă.</p>
+            <p>Ceeace auzind aceștia, strigară îngroziți:,ȚVrea să ne taie!” Dar căpitanii escortei îi liniștiră; dealtmin-trelea, boerii n-aveau încotro, trebuiau să meargă.</p>
             <p>întrevederea cu căpetenia pandurilor fu plină de ură. Boerii stătuseră muți, abia răspunzându-i la salut. și el, fără multe cuvinte, puse înaintea lor o hârtie, pe care le cern să o iscălească. Când unul din ci întrebă, ridicând sprâncenele, ce înseamnă aceasta, Vla-dimirescu îi zise: „Citește tare, arhon vornice”.</p>
             <p>Era o protestare cătreîmpărații adunați la Leibach. împotriva năvălirii Turcilor pe pământul românesc, si împotriva eteriștilor, ale căror fapte ne mai po menite în țară străină erau arătate în toată desfrâ-narea lor. și de oarece boerii iară nu puteau alege altă cale, tăcură și iscăliră.</p>
             <p>Domnul Tudor le zise apoi: „Sfinția Sa episcopul de Argeș și doi grămătici pleacă astăzi, ca să ducă această protestare la Leibach. D-voasira sunteți slobozi să plecați și să vă duceți la rudele D-voastra în tara nemțească. știți că lor le-am înlesnit totdeauna trecerea graniței. Eu merg în Oltenia, cu toată adunarea norodului și mă voi întări în mănăstirile de acolo, pe care le țin pandurii, și unde am strâns zale iele. De o vrea Dumnezeu, am de gând să mă țin multa vreme așa, până cefvoi sili pe turci, să dea țarii drepturile, pe-care prin mine le-a cerut adunarea norodului dela Poartă. Plecați sănătoși și fiți pe pace a va lumineze Dumnezeu și să vă facă sa iubiți tara</p>
@@ -3225,22 +3226,22 @@
             <p>prezintă ultimele noutăți literare ale</p>
             <p>editurii:</p>
             <p>O</p>
-            <p>Ionel Teodoreanu LA PORțILE NOPțII</p>
+            <p>Ionel Teodoreanu LA PORȚILE NOPȚII</p>
             <p>o</p>
             <p>C. Manolache POEZIA TRUPULUI o</p>
-            <p>Octav Dessila PORțI FĂRĂ NUMĂR</p>
+            <p>Octav Dessila PORȚI FĂRĂ NUMĂR</p>
             <p>o</p>
             <p>ștefana Velisar Teodoreanu</p>
             <p>ACASĂ</p>
             <p>o</p>
-            <p>R. H. Zambaccian MONOGRAFIA PICTORULUI „GH. PETRAșCU” MONOGRAFIA PICTORULUI „N. GR1GORESCU” o</p>
+            <p>R. H. Zambaccian MONOGRAFIA PICTORULUI „GH. PETRAȘCU” MONOGRAFIA PICTORULUI „N. GR1GORESCU” o</p>
             <p>Al. Nora</p>
             <p>UN OM UITAT: OTIN MILLE</p>
             <p>Catalogul cărjilor se trimete gratuit la cerere de către editurr—Calea Moșilor 64 — București</p>
             <p>59806-946</p>
-            <p>PREțUL LEI 300.</p>
+            <p>PREȚUL LEI 300.</p>
             <p>1</p>
-            <p>EDITURA „CARTEA ROMANEASCĂ”, BUCUREșTI</p>
+            <p>EDITURA „CARTEA ROMANEASCĂ”, BUCUREȘTI</p>
          </div>
       </back>
    </text>

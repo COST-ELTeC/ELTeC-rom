@@ -32,7 +32,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -52,7 +52,7 @@
                <author>C. Mille</author>
                <title>Dinu Millian</title>
                <pubPlace>Bucharest</pubPlace>
-               <publisher>ATELIERELE SOCIETĂțII ANONIME PE ACțIUNI „ADEVERUL”</publisher>
+               <publisher>ATELIERELE SOCIETĂȚII ANONIME PE ACȚIUNI „ADEVERUL”</publisher>
                <date>1913</date>
                <ref target="http://doi.org/10.5281/zenodo.3843302">Facsimile on zenodo</ref>
             </bibl>
@@ -73,6 +73,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -2062,20 +2063,31 @@
             <p>Unchiul ma sfatueste pentru drept alt unchiu imi spune sa fac si literele.</p>
             <p>- Dreptul si literatura pot face numai un bun avocat. Uite de pilda Mornea, cind îți vorbeste el, cînd spune:</p>
             <quote type="verse">
-               <l>- <foreign>Je l-ai vu dis-je, cu, de mes propres yeux vu</foreign></l>
-               <l><foreign>Ce qu-on appelle vu.</foreign></l>
+               <l>- <foreign>Je l-ai vu dis-je, cu, de mes propres yeux vu</foreign>
+               </l>
+               <l>
+                  <foreign>Ce qu-on appelle vu.</foreign>
+               </l>
             </quote>
             <p>Si in fiecare data cind venea vorba despre cariera mea, unchiul reincepea vorba d-sale.</p>
             <p>- Uite de pilda Mornea, cind vorbeste el, cand iti spune:</p>
             <quote type="verse">
-               <l><foreign>Je l-ai vu, dis-je, vu, de mes propres yeux vu</foreign></l>
-               <l><foreign>Ce qu-on appelle vu.</foreign></l>
+               <l>
+                  <foreign>Je l-ai vu, dis-je, vu, de mes propres yeux vu</foreign>
+               </l>
+               <l>
+                  <foreign>Ce qu-on appelle vu.</foreign>
+               </l>
             </quote>
             <p>Dreptul si literatura!</p>
             <p>Acum eram obisnuit. Cind venea vorba de cariera, stiam ca va fi vorba si de Monica si incepeam singur sa recitez vorbele lui Molière, pe care unchiul le dadea pe seama bietului Mornea:</p>
             <quote type="verse">
-               <l><foreign>Je l-ai vu dis-je, vu, de mes propres yeux vu</foreign></l>
-               <l><foreign>Ce qu-on appelle vu.</foreign></l>
+               <l>
+                  <foreign>Je l-ai vu dis-je, vu, de mes propres yeux vu</foreign>
+               </l>
+               <l>
+                  <foreign>Ce qu-on appelle vu.</foreign>
+               </l>
             </quote>
             <p>Da! Dreptul si literatura, atita numai!</p>
             <p>Dreptul? Dar eu nu pot minti, nu pot sa fac sa se osindeasca oamenii. Nu voiu sa fiu advocat, negutator de vorbe.</p>

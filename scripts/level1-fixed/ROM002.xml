@@ -26,7 +26,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -66,6 +66,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors în spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -439,7 +440,7 @@
          </div>
          <div type="group" n="2">
             <div type="chapter">
-               <head>SFÂRșITUL BLESTEMULUI</head>
+               <head>SFÂRȘITUL BLESTEMULUI</head>
                <p>De la pornirea mea din pădure, unde lăsasem pe moș Sandu și Florea în prada focului, fără a le putea da pic de ajutor, am tăiat drumul spre a ajunge mai repede la Bucuresci, pentru a-mi răfui socotelile.</p>
                <p>Înfătișindu-mă Vistierului, spre a-i da socoteală de chipul cum am adunat banii stăpânirei, acesta pe dată dete poruncă logofeților cari se găseau de față ca să cerceteze pecețiile și să numere pungile cu banii ce împlinisem din dăjdiile plătite de talpa țerei.</p>
                <p>Se făcu catagrafia cerută de pravilă și se găsi toate pungile neclintite și cu tot șartul lor.</p>

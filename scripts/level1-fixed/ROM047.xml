@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -63,6 +63,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -88,7 +89,7 @@
          <gap n="[editorial]" unit="graphic"/>
          <pb/>
          <div type="liminal">
-            <head>PREFAțĂ</head>
+            <head>PREFAȚĂ</head>
             <p>Peste câte=va luni se vor împlini 25 de ani de la moartea lui Spiru Prasin.</p>
             <p>Cu pioasă afecțiune și grijă, surorile acestuia, fac s-apară această noo ediție— a treia până acum —din <title>
                   <hi>Calea Robilor</hi>
@@ -150,7 +151,7 @@
             </div>
             <div type="chapter" n="2">
                <head>II</head>
-               <head>țIGANII.</head>
+               <head>ȚIGANII.</head>
                <p>Pe când toate clopotele din Iași sunau cu glas răgușit, căte-va ceasuri înainte de scena precedentă, un arnăut plin de praf se afunda în mahalaua țigănimei domnești, de din dos de palatul administrativ actual, —și de oare ce cuvântul „țigan" îmi vine sub condeiu, cer voe să dau aceste lămuriri, cari să fixeze trăsăturile caracteristice ale unui neam ce dispare, pentru că e un fel de tendință al nimici; ultimele legi caută să stârpească ori-ce rămășiță a vechilor rătăcitori.</p>
                <p>Pentru ochii mari și clari ai acestor nomazi contemplativi, cerul e o largă mare de întunecimi, unde apare și dispare lumina, unde vecinic se alungă luna, soarele și astrele, ca vasele oamenilor pa Oceanul pământesc.</p>
                <p>Dumnezeu e <hi>ix-ul</hi> sau <hi>axa</hi> nevăzută; în jurul căreia se învârte timpul cel vecinic, cum cerul gravitează prin axa în jurul lui Dumnezeu. Zodiacul, după dânșii, e rochia sau <hi>stola</hi> înstelată, cu care se îmbracă Dumnezeu spre răsărit, când soarele se lasă spre Miază-Noapte. Din această rochie, <hi>(apo-stola)</hi> au eșit toate glasurile ce au vorbit prin veacuri. și simbolul contino, într-un vis de o fluiditate eterică.</p>
@@ -309,7 +310,7 @@
             </div>
             <div type="chapter" n="6">
                <head>VI</head>
-               <head>LEUL șI VULPEA.</head>
+               <head>LEUL ȘI VULPEA.</head>
                <p>începea să sufle boarea dimineței, când leagănul cu ministrul de interne și prefectul poliției dispăru în zarea Iașilor. Luna răspândea lumină așa de puternică, în cât ai fi jurat că e zio.</p>
                <p>Irina se coboră gânditoare pe scările palatului de la Rivallet. Se sui în caleașcă și caii porniră. Dar cugetarea întunecată n-o părăsea. Era vre-o presimțire? Era clipa de îndoială, care a stăpânit până și sufletul cel mai puternic, când ceasul hotărâtor sună la ornicul eternităței? Era o amintire duioasă care-și amesteca lacrima-i cristalină la sângeroasa tragedie, ce trebuia să înceapă. Sau, mai simplu încă, era o ultimă revizuire a mijloacelor sale de izbândă, în momentul când lupta supremă se începea?</p>
                <p>Nu știm.</p>
@@ -917,7 +918,7 @@
             </div>
             <div type="chapter" n="5">
                <head>V</head>
-               <head>SCLIPIRI DE ZÂMBET șI DE RAZE.</head>
+               <head>SCLIPIRI DE ZÂMBET ȘI DE RAZE.</head>
                <p>Roman nu era Alexandri, —o țară nu produce des oameni ca barbul de la Mircești. Nu avusese ca dânsul aripile fantaziei albastre, în care să-și plimbe anii copilăriei. Nu avusese norocul ca zâmbetul mamei să-i alinte primii pași. Crescuse singuratec, lipsit de afecțiunea maternă, asemenea unei flori hrănite cu sevă și apă, dar lipsită de roo. Nu râdea cu mult haz la glumele lui Ulmu, nici nu ar fi fost în stare să mai împroaște în clopotniță „înaltul cerului” pe bietul palamar, care bătea toaca. Foarte rar zâmbetul se arată în colțul buzelor sale subțiri, — când Lia se apropia de el, căci ea era singura lui iubire.</p>
                <p>Rămasă fără tată și fără mamă din cea mai fragedă vârstă, fata Smarandei Ronescu fusese primită și crescută în casa moșului său ca un înger lăsat din cer.</p>
                <p>Nu rare ori bătrânul paharnic spunea răzând, pe când juca pe un genunchi pe Roman, care-i zmulgea cu multă îndemânare mustața dreapta, în timp ce Lia călătorea pe cel-l-alt genunchi și opera mustața stângă:</p>
@@ -1276,7 +1277,7 @@
             </div>
             <div type="chapter" n="9">
                <head>IX</head>
-               <head>IM CARE SE ARATA CĂ POțI SĂ TE INMORMÂNTEZI șI SĂ TRĂIEșTI INCĂ.</head>
+               <head>IM CARE SE ARATA CĂ POȚI SĂ TE INMORMÂNTEZI ȘI SĂ TRĂIEȘTI INCĂ.</head>
                <p>Se făcu o pauză. „Prințul” își sorbea cafeaua pe îndelete, iar „publicistul” sfărșia o prăjiturăi.</p>
                <p>Apoi relua citirea:</p>
                <quote type="article">
@@ -1374,7 +1375,7 @@
             </div>
             <div type="chapter" n="10">
                <head>X</head>
-               <head>POLIțISTUL.</head>
+               <head>POLIȚISTUL.</head>
                <p>El desfăcu o hârtiuță cu o pulbere albă și o presură pe humă. Pământul călcat de acel picior inform, care lăsase urmele observate de dânsul, se întări imediat, ca și când ar fi înghețat.</p>
                <p>Apoi polițistul deschise din nou cutiuța. Lo din ea o pastă amalgamată, ceară și o compoziție specială, de culoarea ametystei. Aplică compoziția noo pe urmă, trecu cu unghia în toate colțurile, ca aluatul să impregneze cutele cele fine ale urmei și apoi scoase forma. Turnă pulberea albue pe această formă noo, care se întări ca și pământul odinioară. Apoi, strânse cu băgarede seamă tiparul.</p>
                <p>Judecătorul de instrucție era însă nemulțumit; el iși încruntă sprâncenele:</p>
@@ -1518,7 +1519,7 @@
             </head>
             <div type="chapter" n="1">
                <head>I</head>
-               <head>ORAș DE PACE șI DE VIS.</head>
+               <head>ORAȘ DE PACE ȘI DE VIS.</head>
                <p>
                   <quote>„fiecare om, spune Theophile Gauthier, poet sau nu, își alege un oraș-doo, incuinți ideale pentru visări, oraș în care își închipue aspectul palatelor și caselor, după o arhitectură lăuntrică, aproape cum Piranese se complace a zidi, cu ascuțișul său de aquafortist, construcții himerice, dar înzestrate cu o realitate puternică și misterioasă. Cine pune temeliile unui oraș de intuiție? greu ar fi spus. Povestirile, gravurile, vederea unei hărți geografice, câte-odată, eufonia sau singularitatea numelui, o poveste citită când erai copil, cea mai mică particularitate; ori-ce contribue, ori-ce își aduce piatra sa. Pe noi, trei orașe ne-au preocupat: Veneția, Grenada și Cairo. Putusem să comparăm Grenada reală cu Grenada noastră și să ne întindem cortul în Alhambra: dar viața e așa de rău înjghebată, timpul se scurge așa de neiscusit, în cât nu cunoaștem Veneția de cât prin această imagină, croită în camera neagră a cugetului, imagină atât de hotărâtă, în cât chiar vederea obiectului, nu o poate șterge pe deplin... Nu ne aflăm de căt la o jumătate oră de Veneția și noi, cari nu am dorit nici odată ca un grăunte de nisip să cadă mai repede în clepsidoul timpului, atâta săntem de siguri că moartea va sosi, am fi rupt voios din viață acele treizeci de clipe.</quote>
                </p>
@@ -1563,7 +1564,7 @@
             </div>
             <div type="chapter" n="2">
                <head>II</head>
-               <head>ORAșUL DE ALIN.</head>
+               <head>ORAȘUL DE ALIN.</head>
                <p>Notați că nu spunem oraș de liniște, oraș mort. Rodenbach a dat prea frumos nuanțele insezisabile ale tăcerei din Bruges — <foreign>
                      <hi>la morte</hi>
                   </foreign>, pentru a reincerca aceasta.</p>
@@ -1783,7 +1784,7 @@
             </div>
             <div type="chapter" n="5">
                <head>V</head>
-               <head>IN CARE SE ARATĂ CA șI MORțII POT VORBII.</head>
+               <head>IN CARE SE ARATĂ CA ȘI MORȚII POT VORBII.</head>
                <p>Enormul prieten începu să-i povestească cele făptuite in lipsa lui, cu toate delicatele precauțiuni ale unei mame, care ar căuta rana unui copil adorat.</p>
                <p>El îi spuse viața Liei. Baronul de Vale nu se arăta bărbatul ideal, pe care îndepărtarea îl prezenta. Lia era nenorocită. Ea nu se plângea, dar viața ei întreagă înfățoșa sfâșierea înceată, ce se făcea pe nesimțite.</p>
                <p>Baronul intrase în averea ei, și începuse o viață de lux și de dezordine.</p>
@@ -1919,7 +1920,7 @@
             </div>
             <div type="chapter" n="8">
                <head>VIII</head>
-               <head>ZBUCIUM IN țARA</head>
+               <head>ZBUCIUM IN ȚARA</head>
                <p>Revoluția de la 1848, <hi>în faza ei socială</hi>, era factice. In alte părți, ea a fost ultima luptă pentru supremație, dată de ceea ce s-a numit <foreign>
                      <hi>Tiers état</hi>
                   </foreign>. Prima bătălie fu-sese marea revoluție franceză. Din ce se compunea starea mijlocie? Din burghezime: clerul de jos și ne-gustorimea.</p>
@@ -2368,7 +2369,7 @@
             <milestone unit="line"/>
             <div type="chapter" n="1">
                <head>I</head>
-               <head>EDICULA, șTREANGUL șI RUGUL.</head>
+               <head>EDICULA, ȘTREANGUL ȘI RUGUL.</head>
                <p>țara aceasta, frumoasă, ca un colț rupt dintr-o împărăție ideală, punct de încrucișare a raselor în rutul războaielor, a fost mamă de viteji. Rare, de un imposibil de aflat, sânt țările lumei în care să se găsească în legenda vie, din gura norodului sau în cea moartă, din scrisele cronicelor, o mai strălucită probă de dispreț de moarte și de iubire de neam.</p>
                <p>și luptele duse au fost aprige, cum nu se poate spune. Unul în contra zece, fierul se rupea, oțelul se tocea în mâinele lor.</p>
                <p>ștefan și Mihai au fost uriași, cum poate lumea nu a mai avut. Dacă Leonida s-a luptat și a murit la Termopile, — iar de atunci istoria îl preaslăvește, — a fost o excepție. Luptele eroilor noștri au fost continue lupte ca în strâmtoarea grecească.</p>
@@ -2438,7 +2439,7 @@
             </div>
             <div type="chapter" n="2">
                <head>II</head>
-               <head>COSTRUNUL, FIARELE DE PEDEAPSĂ șI GHERLĂ.</head>
+               <head>COSTRUNUL, FIARELE DE PEDEAPSĂ ȘI GHERLĂ.</head>
                <p>Chipul, cu care osândiții erau tratați, nu pare omenesc. Sânt chinuri oribile ce pot întrece pe ale altor țări. Apărarea că dacă a existat tortură, ea nu a fost legiferată, se distruge prin sine însăși, căci chiar se observăcă unele pedepse cu moartea, — pedepse legiferate, —erau chinuri în toată puterea cuvântului. La aceste pedepse cari, — când era vorba mai ales de un condamnat de seama, — aveau loc chiar în preajma curților domnești, asistau foarte mulți boeri, curteni și chiar Domnul, magistratul suprem.</p>
                <p>Strămoșii au fost cruzi în aplicarea a ceea ce ei credeau că e o pedeapsă. Cruzimea, însă, nu li se poate imputa, pentru motivul foarte simplu că așa era făcută lupta contino, pe care o duceau, încât viața să nu aibe nici o valoare, iar chinuirea unui dușman să fie un „drept”. De sigur nu într-o contino anarhie se vor afla apostolii visați ai lui Crist, spre a propovădui o ertare și o îndurare fără seamăn.</p>
                <p>și din nenorocire simțimintele de cruzime se șterg cu greu, pentru ca în dualilitatea, care constitue omul, trăește încă bestia însetată de sânge. Cugetul nu a ajuns la stăpânire așa de incontestabilă, încât să cumpănească ori-ce pornire violentă. Dacă evreii sânt huliți, vechiul lor precept de ură stă încă în legislații, spre ciuda tuturor ideologilor, tuturor adepților lui Beccaria.</p>
@@ -2681,7 +2682,7 @@
             </div>
             <div type="chapter" n="5">
                <head>V</head>
-               <head>DAMNAțII.</head>
+               <head>DAMNAȚII.</head>
                <p>Incetul cu încetul, Nichifor cunoscu pe toți ocnașii. Serdaru îi arătă într-o zi, pe Ioan Mitru, bandit celebru. Era un băiat voinic, prea voinic, plin de o exuberanță de viață. Fruntea lui mică și ochii stinși, arătau decăderea sufletească, în care încăpuse.</p>
                <p>Avea 22 de ani și deja 17 omoruri îl apăsau greu. Ultimul fusese comis chiar în închisoare.</p>
                <p>O domnie întreagă din istoria Franței s-a făcut odioasă pentru pata ce i-au dat-o așa numiții mignons ai lui Enric al IlI-lea. Aberația aceasta, pentru care Iahva a distrus o cetate, stăpânește fatal — sub scutul oficialităților, subt pretextul de regenerale a moralei, —promiscuitatea oribilă, în care trăesc acești primitivi, care nu au altă menire în viață de cât săvârșirea actelor fizice. Așa cum se înțelege sistemul nostru de represiune, ocnele devin o cloacă infectă, în care înfloresc viciile cele mai dezgustătoare. Ființele aceste,lăsate fără nici un frău și nici un îndreptar, devin bestii, care rup zăgazurile puse de fire chiar.</p>
@@ -2917,7 +2918,7 @@
             </div>
             <div type="chapter" n="7">
                <head>VII</head>
-               <head>INTRE MOARTE șI VIAțA.</head>
+               <head>INTRE MOARTE ȘI VIAȚA.</head>
                <p>Ocnașii se numărară; erau numai patru. Lipseau Garofă și Lunganu,.</p>
                <p>Garofă, știau unde rămăsese. Dar unde-i fostul călugăr?</p>
                <p>De-odată, din urmă, se auzi vocea lui nazală; evadații se întoarseră: scăldată de razele blonde, lunga</p>
@@ -3284,7 +3285,7 @@
             </div>
             <div type="chapter" n="10">
                <head>X</head>
-               <head>IN CARE HERUVIM IșI AMINTEșTE HEMISTIHUL LUI JUVENAL: <quote>
+               <head>IN CARE HERUVIM IȘI AMINTEȘTE HEMISTIHUL LUI JUVENAL: <quote>
                      <foreign>VITAM IMPENDERE VERO</foreign>
                   </quote>
                </head>
@@ -3375,7 +3376,7 @@
             </div>
             <div type="chapter" n="11">
                <head>XI</head>
-               <head>O ZEIțĂ NECUNOSCUTĂ MITOLOGIEI, DAR MAl PUTERNICĂ DE CÂT CELE-L-ALTE</head>
+               <head>O ZEIȚĂ NECUNOSCUTĂ MITOLOGIEI, DAR MAl PUTERNICĂ DE CÂT CELE-L-ALTE</head>
                <p>Lia era regina balurilor,—cum spuneau în vorbirea lor specială <hi>gomoșii</hi>.</p>
                <p>Tot-d-a-una decoltată, așa că frumosul său piept era-n strălucirea luminilor, ea părea o reînviere din veacurile, în care frumoasa Miletană își zmulgea achitarea de la Areopag, numai prin viziunea superbului ei corp.</p>
                <p>Ea primea obiceiul modern al flirtului în toată întinderea lui. Nu rare ori răsărea glasul ei cristalian într-un duo mai mult sau mai puțin pătimaș, legat de acel al unui mândru cavaler. La vederea unui bărbat falnic, nu rar i se aprindea în luminile ochilor flacăra nefățarnică a poftei.</p>
@@ -3425,7 +3426,7 @@
             </div>
             <div type="chapter" n="12">
                <head>XII</head>
-               <head>IN CARE OMUL ROș APARE PENTRU ULTIMA OARĂ</head>
+               <head>IN CARE OMUL ROȘ APARE PENTRU ULTIMA OARĂ</head>
                <p>A doua zi, pe la patru, Heruvim sosi la Canta.</p>
                <p>El era însoțit de domnul Vioreanu și cei doi agenți în civil.</p>
                <p>Imediat, polițistul chemă pe bătrâna de-oparte și, după o convorbire amenințătoare de câte-va minunte, Paraschiva ceru să-i se spue ce trebue să facă, căci ea nu caută de cât să se supue.</p>
@@ -3535,7 +3536,7 @@
             <head>CRAIUL LUCIFER</head>
             <div type="chapter" n="1">
                <head>I</head>
-               <head>IN CARE SE ARATĂ CĂ GENIILE SÂNT PERNICIOASE OMENIREI șI CĂ LUCIFER E STĂPÂNUL LUMEI</head>
+               <head>IN CARE SE ARATĂ CĂ GENIILE SÂNT PERNICIOASE OMENIREI ȘI CĂ LUCIFER E STĂPÂNUL LUMEI</head>
                <p>— Cunoașteți teoria fantomelor, spunea contele Foscaro în salonul vechiului palat Giustiniani din Veneția. Tu, Vezza și tu, Lauro, care sânteți din Nord, v-ați întrebat de ce stafiile apar mai mult în acele părți?</p>
                <p>— Nu.</p>
                <p>— Totuși, faptul e exact, replică Ronescu, care își aprinse o țigară. Vedeți de pildă pe Shachespeare, care în atâtea lucrări a fost un premergător. Macbeth e scoțian și umbra faimoasă a lui Banco i se arată în părțile cele mai nordice ale Angliei.</p>
@@ -3815,7 +3816,7 @@
             </div>
             <div type="chapter" n="4">
                <head>IV</head>
-               <head>SPRE O NOo VIAțĂ.</head>
+               <head>SPRE O NOo VIAȚĂ.</head>
                <p>Pe maluri copacii alergau a lene, ca niște sumbri curieri, ce s-ar strecura în goana negurilor de noapte. Vântul marin aducea un șopot legănător, care era asemenea unei doine șuerate din frunză de un voinic.</p>
                <p>O năvală de dorinți nostalgice îi năpădi pe amândoi. Trecutul reânviase cu toată splendoarea amintirilor lui, înfrumusețate de craiul fără seamăn, tinerețea triumfătoare. In ochii lor se iviră diafane perle, care se rostogoliră în taină, precum calicele florilor varsă picăturile de rană întru slăvirea nețărmuritului frumos, ascuns în tăcerea nopței.</p>
                <p>Un suflu de vânt lo o șuviță din bălaiul păr al Liei și o aduse aproape de buzele lui Roman. El se cutremură, ca și atunci când, pentru întâia oară, buzele lui întâlniseră cărnoasele buze ale „iubitei”.</p>
@@ -3889,7 +3890,7 @@
             </div>
             <div type="chapter" n="5">
                <head>V</head>
-               <head>CUM UN CUIB DE VULTUR SE POATE PREFACE INTR-UN CULCUș DE PORUMBEI.</head>
+               <head>CUM UN CUIB DE VULTUR SE POATE PREFACE INTR-UN CULCUȘ DE PORUMBEI.</head>
                <p>Adâncata era una din moșiile lui Roman; ei se duseră acolo.</p>
                <p>Publicațiile de căsătorie se făcuseră în lipsă lor. Cum ajunseră la „moșie” primarul și preotul bine-cuvântară căsătoria lor.</p>
                <p>Roman se simțea fericit, cu un nour mic ce se ridica, din când în când, în mintea lui. Dar amintirea trecutului se făcea tot mai diafană, mai leneșă, mai îndepărtată. Roman trăia o viață noo.</p>
@@ -4164,7 +4165,7 @@
             </div>
             <div type="chapter" n="8">
                <head>VIII</head>
-               <head>NOPțI DE ISPITĂ</head>
+               <head>NOPȚI DE ISPITĂ</head>
                <p>Odaia, în care Roman zăcea, era situată între alte doo. La stânga era un salonaș verde, în care susura o mică fântână, printre erburi marine, puse într-o <hi>jardinieră</hi>. Zgomotul cristalin al apei făcea o muzică duioasă, de care, însă, bolnavul nu se plângea. Părea ca nedeslușita visare, ce-i ținea ochii mai mult închiși, se potrivea de minune cu zgomotul picăturilor.</p>
                <p>La dreapta era biroul lui Roman, — o odăiță mică, în care ardea veșnic o lampă. De-asupra biroului lui o <hi>piesă</hi> largă, pe care erau totd-a-una azvârlite în dezordine câte-va volume de romancieri și poeți sentimentali, se afla portretul Liei — copilă.</p>
                <p>In Iași se rătăcise un pictor francez cu destul talent și destulă experiență. Ronescu-tatăl, la care francezul apelase, căci se afla în cea mai crudă mizerie, îl primi în casa lui și-l ospăta.</p>

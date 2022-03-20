@@ -29,7 +29,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -64,6 +64,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -483,7 +484,7 @@
             <p>Din tote unghiurile țerei sosesc ștafete tainice la Horea; arătând turbarea ungurilor, și țipetele de groză și de resbunare ale românilor. — El trimite la toti ștafete,să se adune preoți și alți fruntași în ținterimul dela țebea, în o anume noapte.</p>
          </div>
          <div type="chapter" n="10">
-            <head>X. NOURI ADUNAțI</head>
+            <head>X. NOURI ADUNAȚI</head>
             <p>Horea e în țebea.</p>
             <p>E mezul nopții. Luna resare.</p>
             <p>In ținterim sosesc fruntașii și preoții glotei. Crișanu îi orânduesce în cerc împrejurul stejarului din mijloc.</p>
@@ -557,7 +558,7 @@
             <p>— Viu, viu, iubiții mei iobaji, zbor la voi, cu vestea cea mare dela împăratul.. —,așteptați-mă scumpii mei soți de suferințe,că sosesc în mijlocul vostru;— și apoi—la lucru cu toții! la lucru, cu dumnezeu! Zorile desrobirii vostre incep a resări.....</p>
          </div>
          <div type="chapter" n="12">
-            <head>XII. PRAGUL M0RțII</head>
+            <head>XII. PRAGUL M0RȚII</head>
             <p>noaptea cuprinsese în negra-i haină pre toți muritorii din satul Crîstior, dîndu-le un timp de liniscită resuflare; — numai doi omeni se zăresc ca doo umbre apropiindu-se de casa preotului Costan Turciu. EI batîncet în ferestra casei lui; el iese curând și le zice șoptind:</p>
             <p>— Voi sunteți? Cloșcă, Crișene?</p>
             <p>— Noi, părinte Costane.</p>
@@ -608,7 +609,7 @@
             <p>— De acuma, — la Mestecăn!</p>
          </div>
          <div type="chapter" n="13">
-            <head>XIII. CERșETORUL DE LA MESTECĂN</head>
+            <head>XIII. CERȘETORUL DE LA MESTECĂN</head>
             <p>E ziua de joi, în luna lui Octomvrie a șasesprăzecea.</p>
             <p>In orașul Brad se face pentru întăia oră mărturia, adecă tîrgul de septămână. Tergarii sunt adunați cu miile.</p>
             <p>Numele lui Horea e cuprins în rugăciunile lor, și toți au și o bucurie tăinuită, așteptând cu dor aprins, să-l vadă cât mai curând.</p>
@@ -663,7 +664,7 @@
             <p>Solgăbirăii își luară cu sine doozeci și patru de panduri și porniră spre Curechiu; iar Hollachy trimise pre solgăbireul Pachot Mihaly la Albac, la casa lui Horea, cu o poruncă tainică. Acesta porni spre Albac.</p>
          </div>
          <div type="chapter" n="14">
-            <head>XIV. CRIșANU PRINS</head>
+            <head>XIV. CRIȘANU PRINS</head>
             <p>Noaptea de luni spre marți sosi!</p>
             <p>Crișanu ajunge în satul Curechi cel d-ântăi, și se duse drept spre o casă știută.</p>
             <p>E mezul nopții.</p>
@@ -869,7 +870,7 @@
             <p>— La lupte, cu dumnezeu, copii. Eu ve primesc chiar în garda mea.</p>
          </div>
          <div type="chapter" n="18">
-            <head>XVIII. VOINțA LUI HOREA.</head>
+            <head>XVIII. VOINȚA LUI HOREA.</head>
             <p>Horea scrise cătră nemeși carte, în cuvintele aceste:</p>
             <quote type="letter">
                <p>„Sănătate domniilor vostre, Dregătoriilor comitatului. — Cu cinste ve poftesc, să jurați, voi, și toți nemeșii să jure pe crucea desrobirii, că, după cum a poroncit și împăratul, de acuma nemeși și iobaji să nu mai fie; apoi, că fiecare dregător să se mărginescă a trăi din simbria lui; iar alte folose să nu mai storcă de la nimene: —tot omul să plătescă dare cătră țară;—locurile ce nemeșii au răpit de la moșnenii pămînteni, să le împartă înapoi tuturor locuitorilor, cu dreptate, după o lege noo, ce va da împeratul. ”</p>
@@ -1253,7 +1254,7 @@
             <p>Horea face un semn. Cornurile si trimbițele îî chiamă înapoi; ei se adună la loc împrejurul ghinerarului, și își iau repaus cu toții.</p>
          </div>
          <div type="chapter" n="22">
-            <head>XXII. BIRUINțA UNELTIRILOR.</head>
+            <head>XXII. BIRUINȚA UNELTIRILOR.</head>
             <p>Oștea cea mare a lui Horea se adună la Mihăiieni, în frunte cu căpitanul Micula Bibarț din Blăjeni.</p>
             <p>Peste câteva zile, Horea cu remășițele călăreților sei lupșeni, merge intr-acoio în greul nopții. La fiecare străjer întrebă, ce face Bibarț cu oștea?</p>
             <p>Nici un străjer nu avea nici o cunoștință despre el.</p>
@@ -1650,7 +1651,7 @@
             <p>— „Așa ni se cuvine, ticăloșilor de noi, pentru că am vândut sângele nostru cătră nemeși tirani; intre zmeii intr-inșii cum n-am lăsat noi pre Horea, să-i facă totmac!”</p>
             <p>Dinaintea măreței umbre a lui Horea ânsa, și astăzi se Închină chiar și dușmanii lui, când incep a se lumină drept; și de atunci toți mântuitorii nemurilor robite se uită la măreța umbră a lui; se învață dela faptele lui; se însuflețesc dela mortea lui; se hotăresce ca și dinsul; mor ca și el; și sunt măriți și resbunați ca și el....</p>
             <p>Acesta este cea mai dreptă jertfă adusă pe altariul închinării lui Horea.</p>
-            <trailer>(SFÎRșIT)</trailer>
+            <trailer>(SFÎRȘIT)</trailer>
          </div>
       </body>
       <back>

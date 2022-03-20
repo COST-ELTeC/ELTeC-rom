@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -63,6 +63,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -75,7 +76,7 @@
    <text>
       <front>
          <div type="titlepage">
-            <p>HAIDUL țANDURĂ</p>
+            <p>HAIDUL ȚANDURĂ</p>
             <p>SCRIERE ORIGINALA, CU ADAUSE șl MODIFICĂRI</p>
             <gap n="[editorial]" unit="graphic"/>
             <p>„CULTURA ROMÂNEASCĂ”, S. A. R.</p>
@@ -83,9 +84,9 @@
          </div>
          <gap n="[missing]" unit="page" quantity="1"/>
          <div type="titlepage">
-            <p>HAIDUL țANDURA</p>
+            <p>HAIDUL ȚANDURA</p>
             <p>SCRIERE ORIGINALA</p>
-            <p>CU ADAUSE șI MODIFICARI</p>
+            <p>CU ADAUSE ȘI MODIFICARI</p>
             <p>DE</p>
             <p>P. MACRI</p>
             <gap n="[editorial]" unit="graphic"/>
@@ -95,7 +96,7 @@
          </div>
          <gap n="[missing]" unit="page" quantity="2"/>
          <div type="liminal">
-            <head>PREFAțĂ</head>
+            <head>PREFAȚĂ</head>
             <p>
                <hi>Sunt mai mulți ani de când un amic al meu îmi lăsă un manuscris rugându-mă să-l revăd și dacă îl voiu găsi bun să-l dau publicității.</hi>
             </p>

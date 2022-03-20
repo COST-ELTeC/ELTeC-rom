@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -70,6 +70,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -326,7 +327,7 @@
                <p>Cum mă văzui în stradă, alergai la Dîmboviță, unde, dezbrăcîndu-mă, intrai în apă și mă spălai de afurisita cataplasmă. Era muștar amestecat cu tere-bentin sau... dracul știe ce! și acum mă arde și mă ustură, de-mi săr ochii. Iacă ce-am pățit. Acum du-te să-ți vezi calul și vino, căci, scăldîndu-mă în Dîmboviță și gîndindu-mă la viața ce ducem, la viitorul ce ne așteaptă, am luat o hotărîre care dacă o vei împăr-tăși și tu, vom ajunge alfa și omega în țara românească.</p>
             </div>
             <div type="chapter">
-               <p>CE NAșTE DIN PISICĂ șOARECI MÎNCĂ</p>
+               <p>CE NAȘTE DIN PISICĂ ȘOARECI MÎNCĂ</p>
                <p>Cititorul n-a uitat că toate acestea se petreceau sub vederea și auzul cunoștințelor noastre de la în-ceput, junele Catina și părintele Dionisie, cari, sub același cauc, erau nevăzuți.</p>
                <p>Pe cînd Baboi își schimba oblojeala spinărei, iar Sclipici se dusese să-și vază calul în grajd, următoarea convorbire începu între mărturii noștri nevăzuți:</p>
                <p>— știi, părinte Dionisie, zise Catina dracului, că încep a mă căi de tîrgul ce am încheiat împreună?</p>
@@ -403,7 +404,7 @@
                <p>De ce? Pentru că așa a voit Dumnezeu, ca: ce naște din pisică șoareci să mînce, viciuri și virtuți să se transmită moștenire din tată în fiu.</p>
             </div>
             <div type="chapter">
-               <head>FRAțII DE CRUCE</head>
+               <head>FRAȚII DE CRUCE</head>
                <p>— Cine este fiul? strigă Catina mișcat de istoria uciderei marelui român. Era de prisos a-mi mai spune. Cînd cunosc pe tatăl, înțeleg ce trebuie să fie și fiul.</p>
                <p>— Așa este, adăugă părintele Dionisie; dar în copi-lăria și tinerețea lui Baboi sînt lucruri atît de hazlii, încît ar fi păcat să nu le știi.</p>
                <p>— După cele ce mi-ai spus despre Tudor, nu sînt dispus a face haz.</p>
@@ -873,7 +874,7 @@
                <p>Toate din această locuință respirau îndestularea, pacea și regula. Cine intra într-însa, era îndemnat să se încline cu respectul în inimă și lauda pe buze înaintea marelui boier.</p>
             </div>
             <div type="chapter">
-               <head>ZîMBIRI șI LACRIMI</head>
+               <head>ZîMBIRI ȘI LACRIMI</head>
                <p>Dar să lăsăm pe junele nostru contemplînd cuibul iubitei sale, și să facom cunoștință mai de aproape cu trecutul și împrejurările vieței lui.</p>
                <p>Împrejurul acelor cari moșteniseră misia regenerărei naționale se strînsese o mulțime de tineri cu talent, știință și patriotism. Numărul acestora crescu așa că ajunse a fi o armată de tot ce avea țara mai capabil, mai virtuos și mai strălucit. Toți se întreceau a înavuți literatura născîndă cu scrieri originale și traduse.</p>
                <p>Avîntul era mare și frumos. Începutul făgăduia cele mai bune rezultate pentru propășirea națională. Nici că se putea altminterea cînd, pe lîngă geniul și devotamentul atîtor bărbați, un buchet de frumoase și înalte doamne din societatea capitalei se întrecea a îndemna și încuraja.</p>
@@ -967,9 +968,9 @@
                <p>— Ce voiește regele Alcinus de la fiica lui? zise ea luîndu-l de gît.</p>
                <p>— Să-ți traduc niște versuri în cari Omer descrie locuința noastră.</p>
                <p>și tatăl începu a citi acel episod. Cu cît citea, cu atît figura Smaraldei se înzeia. Cînd ajunse la aceste cuvinte:</p>
-                  <quote>
-                     <p>„Palatul mărinimosului Alcinus strălucea ca luna sau ca soarele. Înăuntrul lui se vedea o sală în care se pierdea vederea; jețuri erau înșirate pe lîngă păreți, învelite cu covoare și țesături fine, lucrate de femeile din acel palat. Statuie, pe înalte piedesțaluri, țineau torțe cari luminau noaptea fericitele festine. Cincizeci de femei, în acel palat, lucrau mereu; unele frămîntau făina, altele răsuceau fusul sau aruncau suveica; mînele lor se mișcau ca frunzele plopilor cînd suflă vîntul.”</p>
-                  </quote>
+               <quote>
+                  <p>„Palatul mărinimosului Alcinus strălucea ca luna sau ca soarele. Înăuntrul lui se vedea o sală în care se pierdea vederea; jețuri erau înșirate pe lîngă păreți, învelite cu covoare și țesături fine, lucrate de femeile din acel palat. Statuie, pe înalte piedesțaluri, țineau torțe cari luminau noaptea fericitele festine. Cincizeci de femei, în acel palat, lucrau mereu; unele frămîntau făina, altele răsuceau fusul sau aruncau suveica; mînele lor se mișcau ca frunzele plopilor cînd suflă vîntul.”</p>
+               </quote>
                <p>— A! ce bine descrie! exclamă Smaralda. Pare că este casa noastră, unde toți lucrăm.</p>
                <p>— Nu toți, zise tatăl, aplecînd capul fetei și săru-tîndu-i fruntea, căci tu adesea nu lucrezi și stai gîndind. Ai voi să spui și mie unde zboară gîndul tău?</p>
                <p>— Gîndul meu, tată? răspunse ea ațintind asupra lui ochii ei negri și seînteietori; apoi roșind și-ascunse fața în sînul lui.</p>
@@ -1018,7 +1019,7 @@
                <p>Să lăsăm însă pe acești doi spioni și să ne întoarcem la Gimpa care plecase din curtea lui Racoveanu cu jalea în inimă.</p>
             </div>
             <div type="chapter">
-               <head>MARIN NAțIONALUL șI CĂPITAN HRISTESCU</head>
+               <head>MARIN NAȚIONALUL ȘI CĂPITAN HRISTESCU</head>
                <p>Întîmplarea făcu să-i iasă înainte doi cunoscuți cari, deși nu erau studenți, dar frecventau cercurile lor și erau chiar dintre mesagerii cari comunicau tinerimei inspirațiile supremului consiliu național.</p>
                <p>Aceștia erau Marin Sergescu și postelnicul Hris-tescu.</p>
                <p>Nu putem zugrăvi mai bine pe aceștia, decît spu-nînd pentru ce unul se numea cu îngîmfare Marin Naționalul și altul Căpitan Hristescu.</p>
@@ -1130,7 +1131,7 @@
                <p>În urma acestuia se auzi uruiala unei trăsuri. Cînd Naționalul și Hristescu trecuseră podul Dîmbovi-ței, trăsura, care era o caretă, ajunse în dreptul lui Gimpa. Trei inși năvăliră asupra lui pe la spate, îi apucară brațele, îi năbușiră gura și într-o clipă fu legat și aruncat în caretă.</p>
             </div>
             <div type="chapter">
-               <head>MISTERUL șI CARCERA</head>
+               <head>MISTERUL ȘI CARCERA</head>
                <p>Să ne întoarcem c-o jumătate oră înapoi.</p>
                <p>Abia ieșise Gimpa din curtea lui Racoveanu, cînd Baboi și Sclipici întîlniră pe Olteniceanu, un ofițer nalt și frumos, însoțit de trei tiști d-ai agiei, iar mai departe stînd o caretă.</p>
                <p>Baboi îi raportă.</p>
@@ -1244,7 +1245,7 @@
                <p>Ajunse în ușa beciului unde păzea o sentinelă, o deschise, se opri puțin, apoi ca cum și-ar fi ațîțat din nou mînia, coborî răpede treptele cari duceau în acel mormînt.</p>
             </div>
             <div type="chapter">
-               <head>MÎNGÎIERI PĂRINTEșTI</head>
+               <head>MÎNGÎIERI PĂRINTEȘTI</head>
                <p>Să ne întoarcem cîteva momente mai înapoi.</p>
                <p>Vodă Bibescu și credinciosul său Olteniceanu, ieșind din cabinetul unde lăsase pe doamna, trecură într-o cameră de unde ieșiră cu cite o mască în mînă și înfășurați în mantale lungi și largi, cari le ascundeau vestmintele.</p>
                <p>Trecînd printre sentinelele cari prezentau armele, coborîră în curte. Mascîndu-și fețele, se îndreptară spre ușa din afară a beciului cel mare, o ușă cu zăbrele de fier, unde era o sentinelă.</p>
@@ -1663,7 +1664,7 @@
                <p>Apoi intrigat plecă sus, fără să observe că Iancu Olteniceanu rămăsese lîngă fata care zăcea în neștire.</p>
             </div>
             <div type="chapter">
-               <head>INTRIGĂ șI CALOMNIE</head>
+               <head>INTRIGĂ ȘI CALOMNIE</head>
                <p>Doo servitoare alergară. Văzînd o fată din popor, se retraseră speriate, căci aceeași bănuială fulgeră în mintea fiecăreia și același cuvînt sinistru le ieși din gură:</p>
                <p>— Holera!</p>
                <p>— Nu, n-aveți teamă, le zice Olteniceanu, căci n-are semnele holerei. Ajutați-mi s-o duc în pavilion, unde o puteți îngriji mai bine.</p>
@@ -1730,7 +1731,7 @@
                <p>Olteniceanu izbutise.</p>
             </div>
             <div type="chapter">
-               <head>IAR LA MOș IGNAT!</head>
+               <head>IAR LA MOȘ IGNAT!</head>
                <p>Îndată ce ieși din curte trăsura cu Maria, leșinată, agentul polițienesc care primise ordinul lui Olteniceanu, se urcă și el în trăsură lîngă cel care se declarase că este unchiul fetei.</p>
                <p>Cîteva oftări anunțară că leșinul Măriei era aproape să înceteze.</p>
                <p>Agentul strigă birjarului, care asemenea era agent polițienesc, să dea goană cailor, și pietrele stradei Mogoșoaie începură a scăpăra sub potcoavele cailor.</p>
@@ -1848,7 +1849,7 @@
                <p>„S-a dus!” își zise el, și se îndreptă spre locuința lui, pierdut în triste cugetări.</p>
             </div>
             <div type="chapter">
-               <head>MOARTE șI REVOLUțIE</head>
+               <head>MOARTE ȘI REVOLUȚIE</head>
                <p>Cînd ajunse aproape de Sîntul George, se izbi cu cineva în piept. Acela uitîndu-se drept la el, îl recunoscu și strigă:</p>
                <p>— Gimpa!.. Dar din ce mormînt ieși?</p>
                <p>— Ies dintr-un mormînt, dar nu știu din care! răspunse junele nostru.</p>

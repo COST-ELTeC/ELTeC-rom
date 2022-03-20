@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -71,6 +71,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -83,7 +84,7 @@
    <text>
       <front>
          <div type="titlepage">
-            <p>A. VLAHUțĂ</p>
+            <p>A. VLAHUȚĂ</p>
             <p>SCRIERI ALESE</p>
             <p>Vol. III</p>
             <p>Ediție îngrijită, studiu</p>
@@ -1475,7 +1476,7 @@
             <p>și ei intrară, veseli, renăscuți parcă, de viața asta puternică și vastă, care se trezea de pretutindeni și-i inunda. Sub strașina lor, deasupra ușii, doo rîndunele își regăsiseră cuibul de anul trecut: era o bucurie pe ele ș-un neastîmpăr, ș-un chirăit, de credeai că-i un stol... și erau numai doo. Ana scoase pe Lori afară, ca să vadă și ea cum se joacă de frumos rîndunelele. Iovița punea masa subt un zarzăr înflorit. Dan meșterea cu briceagul un cărucior pentru fetiță; soarele batea căldicel pe prispă.</p>
             <p>— Ce proastă eram... dar unde-am putea fi mai bine ca aici?</p>
             <p>Dan o privi cu o infinită duioșie și recunoștință; ea zîmbi răsfățat și, închizînd ochii, îi trimese o sărutare, cu una din acele mișcări grațioase ale gurii care dau senzația delicată a unei sărutări imateriale; amîn-doi simțeau cum trec prin aer valuri de lumină, de tinereță și de iubire.</p>
-            <p>și, după prînz, cînd se întoarse Dan de la judecătorie, găsi bătut în părete un program în care erau ho-tărîte ceasurile de somn, de lucru și de recreație, ca la pension: ea îi făcuse ordine pe biurou, călimara de cristal era spălată frumos; pe coperta unui caiet nou scrisese cu litere ca de tipar: <title>O VIAțĂ PIERDUTĂ de V. DAN.</title>
+            <p>și, după prînz, cînd se întoarse Dan de la judecătorie, găsi bătut în părete un program în care erau ho-tărîte ceasurile de somn, de lucru și de recreație, ca la pension: ea îi făcuse ordine pe biurou, călimara de cristal era spălată frumos; pe coperta unui caiet nou scrisese cu litere ca de tipar: <title>O VIAȚĂ PIERDUTĂ de V. DAN.</title>
             </p>
             <p>— Îți place ție titlul ăsta?</p>
             <p>— Tu mi l-ai spus...</p>

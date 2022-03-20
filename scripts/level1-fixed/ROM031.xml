@@ -32,7 +32,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -83,6 +83,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -159,7 +160,7 @@
             <head>Partea I. Bărbatul predestinat</head>
             <div type="chapter" n="1">
                <head>CAPITOLU I.</head>
-               <head>PREDESTINAțII.</head>
+               <head>PREDESTINAȚII.</head>
                <p>Lumea e așa de tristă azi, din causa crisei pecuniare și politice, încăt, împins de compătimire, am vrut să o distrez  puțin cu această operă comină, care conține mari adevăruri, ce numai subt o asemenea formă pot avea succesul dorit. Molier cu comediile lul universale, de cell  mai classic  comicism, a făcut mai mult poate pentru revoluțiunea della 1789 decăt însuși Rousseau, Montesguieu și Voltaire. Cu satira mai ușor îndreptezi azi o societate de căt cu catilinare.</p>
                <p>Să intrăm în materie, convinși că vom avea în partea noastră tot secsul frumos, afară de femeile neconsecuinte; și pe toți bărbații, afară de cei predestinați; cu ce rămănem dar? Cu minoritatea bărbaților și cu maioritatea femeilor. Curagiu dar! Cine are femeea pentru sine, e sigur de triumful său.</p>
                <p>Fiind-că această operă va fi citită, mulțumită civilisațiunii, de Vestale a cărora inimă e castă, ca și auzul, suntem nevoiți, pentru respectul către aceste preotese alle Vestei, a întrebuința cuvinte ad-hoc, cuvinte de convențiune cum ar zice francesul; astfel sunt cuvintele, minotauri sau, neconsecuință, predestinare, ete, ete.</p>
@@ -260,7 +261,7 @@
                   <p>— Dar cu moravurile actuale, unde copii văd  în casa părintească esemplele celle mai scandaloase și condamnabile, ce fericire poate aștepta societatea, a căria bază și punt de reazăm  este famillia?</p>
                   <p>și fiind că bărbatul este cap  femeii, dupe cum și logica și biserica măturisesc, bărbatul este dator  a da esemplul de onestitate și virtute; capul dar să conducă inima și membrii, capul fiind responsabil  de toate mișcorile membrilor subordinați lui.</p>
                   <p>Femeea se complace în subordinarea bărbatului mai mult de căt în subordinarea mamei; fiind că asfel a voit Natura; deci, pentru toate sacrificele ce bărbatul, copillul și societatea supt îndrept a cere della femee, ea nu cere în schimb  de căt amorul și stima bărbatului.</p>
-                  <p>Pe femei, numai sacrificiul nașterei le costă adesea viața; pe bărbat, ce -l  costă? Nimic, de cît <hi>VOINțA</hi>.</p>
+                  <p>Pe femei, numai sacrificiul nașterei le costă adesea viața; pe bărbat, ce -l  costă? Nimic, de cît <hi>VOINȚA</hi>.</p>
                   <p>Ei bine! bărbatul, care ține la onoarea familiei,la fidelitatea soției, la fericirea copiilor, la libertatea și independința patriei salle, iubească cu sinceritate, și stime cu sinceritate pe femee, această provedință a familliei, balsamul ori căria dureri sufletești, focarul libertății ș-al civilisațiunii.</p>
                   <p>Acum să revenim la Balzac, și să-l ascultăm și pe dănsul:</p>
                   <p>„Amorul fisic  este ca foamea, zice dănsul, cu differința că stomahul se împacă ușor cu puțină păine și apă; dar inima omului, în amor  ca în toate, e nesățioasă.</p>
@@ -289,7 +290,7 @@
             </div>
             <div type="chapter" n="3">
                <head>CAPITOLU III.</head>
-               <head>EDUCAțIUNEA FEMEII</head>
+               <head>EDUCAȚIUNEA FEMEII</head>
                <p>Un  amic  all  me  de collegiu avea o verișoară care -și făcusse educațiunea într-un  pensionat  de fete; numele ei era Efimița, căria, prin prescurtare, amicele ei-i zicea Mița. Ea era amică intimă cu Avestița, erouina Părții I și II din această operă. Mița a comunicat vărului său celle ce știa despre Avestița; și verișorul ei mi le-a comunicat mie; restul l-am aflat din chiar gura lui Misticescu.</p>
                <p>Deci, eată ce zicea Efimița despre Avestița.</p>
                <quote type="story">
@@ -311,7 +312,7 @@
                   <p>A duoa zi dupe cununie, Avestița scrisse mamesei următorul billet:</p>
                   <quote type="note">
                      <p>„ Măiculiță, amorul și onoarea m-au silit, contra voinței părintești, a mă cununa în noaptea trecută, la un  sat  aproape de București. Crez  că amorul patern  va învinge ori ce scrupul  în inima voastră. Bine-voește a -mi da benedicțiunea, ș-a erta o fiie atăt de nenorocită! Doresc  a te întălni de seară la mătușa mea N......</p>
-                     <p>AVESTIțA.</p>
+                     <p>AVESTIȚA.</p>
                   </quote>
                   <p>Acest  billet  era scris  mai mult cu lacrămi decît cu cerneală.</p>
                   <p>„Mama Avestiței alergă înfuriată la pensionatul nostru, cerănd pe fiesa della superiora institutului; aceasta îi respunse liniștită, că Sămbătă seara o trăsură venisse să o ia, ca dupe obiceiu; prin urmare, ori ce act  al fetei afară din pensionat, privește numai pe părinții fetei.</p>
@@ -2028,9 +2029,9 @@
                <p>— Mare analogie, observă amicul me, între call  și unele femei!</p>
                <p>— Protestes...</p>
                <p>— Prea bine! Dar s-ascultăm pe Buffon, marele naturalist  frances.</p>
-                  <quote>
-                     <p>„Cea mai nobilă concistă a omului asupra Naturei, este concista callului: nobil, mîndru, fugos, intelliginte, acest  animal  împarte cu omul trudele resbellului și gloria luptelor.Callul se -mlădie sub mîna ce -l  conduce; ell  pare că consultă dorințele omului, se suppune cu plăcere impressiunelor acestuia, renuncie la ființa sa spre a esista numai prin voința acelluia ce știe a l  dirrige, ș-a căruia superioritate o simte ș-o recunoaște; îll  servă cu tot devotamentul său, pînă cade de osteneală, și moare ca un  soldat, mulțumit  că -și a împlinit pe deplin datoria sa. Arta a perfecționat calitățile naturale alle callului, creat  pentru ajutorul și mulțumirea omului; ell  începe educațiunea sa prin pierderea libertății salle, ș-o termină prin silnicia omului.”</p>
-                  </quote>
+               <quote>
+                  <p>„Cea mai nobilă concistă a omului asupra Naturei, este concista callului: nobil, mîndru, fugos, intelliginte, acest  animal  împarte cu omul trudele resbellului și gloria luptelor.Callul se -mlădie sub mîna ce -l  conduce; ell  pare că consultă dorințele omului, se suppune cu plăcere impressiunelor acestuia, renuncie la ființa sa spre a esista numai prin voința acelluia ce știe a l  dirrige, ș-a căruia superioritate o simte ș-o recunoaște; îll  servă cu tot devotamentul său, pînă cade de osteneală, și moare ca un  soldat, mulțumit  că -și a împlinit pe deplin datoria sa. Arta a perfecționat calitățile naturale alle callului, creat  pentru ajutorul și mulțumirea omului; ell  începe educațiunea sa prin pierderea libertății salle, ș-o termină prin silnicia omului.”</p>
+               </quote>
                <p>— Cum ți se pare aceasta?</p>
                <p>— Comparațiunea poate fi justă; este însă puțin respectuoasă pentru secsul frumușell.</p>
                <p>— Adevărul înainte de toate. Să venim la cestiune.</p>
@@ -2042,23 +2043,30 @@
                <p>Misticescu, duoi ani apiroape, prin influința amorului platonic, a luminat, (după mărturisirea sa), și cu facla adevărului, sufletul întunecat  all  fiitoarei salle consoarte; duoi ani, ell  a nutrit în inima ei focul sacru all  virtuții, inspirîndu-i groază pentru viciurile sociale; duoi ani, ell  a smuls din acea grădină pirul, pălămida și ciulinul, semănănd, în tărîmul ingrat, grîul, trandafirul și portocalul. După ce a reformat moralul ei, dupe ce inima ei a început a -l  stima, a -l  adora, a -l  prețui, în teată valoarea lui, atunci Misticescu s-a decis  a o face consoarta sa; și aceasta,mai mult de curiositate, spre a se -ncredința daca intr-adevăr  femeea este ceea ce voiește bărbatul ei să fie.</p>
                <p>Dar fiind că naturellul nu se modifică într-un  an  sau duoui; fiind că deprinderile celle relle, căpătate în zece sau cinci-spre-zece ani, nu pot dispare într-un an  sau duoi; fiind că nuorii innoranței, mușchiul prejudițiilor, veninul corrupțiunii, nu poate trece intr-un  timp  așa scurt; fiind că Natura învinge Cultura; fiind că o femee ca Avestița, ca să deviie soția Misticescului, a putut a-și masca multe defecte înaintea căsătoriei, iar după cununie masca a căzut; fiind că în fine ciulinul, pirul și pălămida (corupțiunea) îneacă mere  florile (virtuțile), închit grădinarul trebue a smulge din grădină pe toată zioa ierburile relle; pentru aceste cuvinte am comparat o femee ca Avestița cu un  call  cu nărav; și pe bărbatul ei, cu căllărețul dibaciu, care e tot d-auna cu grijă a nu fi trîntit de call; și care se silește, prin toate mijloacele, a desbăra callul de defectul său cell  periculos.</p>
                <p>Balzae zice:</p>
-                  <quote>
-                     <p>„După cum civilisația a format pe femee, ea este azi mai periculoasă decît un  call  cu nărav; și cu toate acestea, callul este creatura cea mai candidă în comparație cu o ființă pe care spasmii cugetării și affecțiunile organelor salle o fac, din cînd în cînd mai prudinte de cît Servite Fra-Paolo, unul din cei mai terribili membrii ai Consiliului de zece din Veneția; mai prefăcută de cît un rege; mai dibace decît Ludovic XI al Franciei, mai profundă decît Machiavel; sofistică ca Hobbes; fină ca Voltaire; mai facilă decît fidanțata lui Mamolin; și care numai în bărbatul ei n-are încredere.”</p>
-                  </quote>
+               <quote>
+                  <p>„După cum civilisația a format pe femee, ea este azi mai periculoasă decît un  call  cu nărav; și cu toate acestea, callul este creatura cea mai candidă în comparație cu o ființă pe care spasmii cugetării și affecțiunile organelor salle o fac, din cînd în cînd mai prudinte de cît Servite Fra-Paolo, unul din cei mai terribili membrii ai Consiliului de zece din Veneția; mai prefăcută de cît un rege; mai dibace decît Ludovic XI al Franciei, mai profundă decît Machiavel; sofistică ca Hobbes; fină ca Voltaire; mai facilă decît fidanțata lui Mamolin; și care numai în bărbatul ei n-are încredere.”</p>
+               </quote>
                <p>Monstruosul e escepția în ordinea Naturei; astfel și femeea perversă este o escepție în Societate; femeea în genere e cap  d-operă al Naturei; e intermediarul între om  și angel; e instrument  divin  de civilisare.</p>
                <p>Napoleon I zicea:</p>
-               <p><quote>„Dumneze  s-a -ncercat a face și ell  opere: prosa lui e bărbatul, poesia lui e femeea.”</quote></p>
+               <p>
+                  <quote>„Dumneze  s-a -ncercat a face și ell  opere: prosa lui e bărbatul, poesia lui e femeea.”</quote>
+               </p>
                <p>Platon zicea:</p>
-               <p><quote>„Dumneze  a dat omului doo arripe cari -l  înalță pînă la dînsul: Amorul și Rațiunea.”</quote></p>
+               <p>
+                  <quote>„Dumneze  a dat omului doo arripe cari -l  înalță pînă la dînsul: Amorul și Rațiunea.”</quote>
+               </p>
                <p>Aimea Martin zicea:</p>
-               <p><quote>„Femei! Voi sunteți domnitorii lumii, regeneratorii omenirii, focarul civilisațiunii; voi domniți peste fii vostrii, peste amanții vostrii, peste bărbații vostrii. Ca oameni, voi completați esistința noastră; în deșert ne lăudăm noi cu superioritatea noastră gloria sau rușinea noastră vine la voi. În mîna voastră stă a fi noi buni sau răi, Angeli sau Demoni.”</quote>
+               <p>
+                  <quote>„Femei! Voi sunteți domnitorii lumii, regeneratorii omenirii, focarul civilisațiunii; voi domniți peste fii vostrii, peste amanții vostrii, peste bărbații vostrii. Ca oameni, voi completați esistința noastră; în deșert ne lăudăm noi cu superioritatea noastră gloria sau rușinea noastră vine la voi. În mîna voastră stă a fi noi buni sau răi, Angeli sau Demoni.”</quote>
                </p>
                <p>Chateaubriand zicea:</p>
-               <p><quote>„Fără femei, bărbatul ar fi aspru, grossolan  și solitar; n-ar ști ce este grația, acest  surîs  al amorului. Femeea împletește împrejurul bărbatului florile vieței, tocmai ca edera ce orneasă trunchiul arborilor cu girlantele ei profumătoare.”</quote>
+               <p>
+                  <quote>„Fără femei, bărbatul ar fi aspru, grossolan  și solitar; n-ar ști ce este grația, acest  surîs  al amorului. Femeea împletește împrejurul bărbatului florile vieței, tocmai ca edera ce orneasă trunchiul arborilor cu girlantele ei profumătoare.”</quote>
                </p>
                <p>Evangelistul zice:</p>
                <p>
-                  <quote>„Femei, vi se vor erta multe păcate, căci mult iubiți voi! Fi va în cer, l-a doa venire, mai multă bucurie pentru un  singur păcătos  ce se va căi, decît pentru oo drepți ce n-au nevoe de căință.”</quote></p>
+                  <quote>„Femei, vi se vor erta multe păcate, căci mult iubiți voi! Fi va în cer, l-a doa venire, mai multă bucurie pentru un  singur păcătos  ce se va căi, decît pentru oo drepți ce n-au nevoe de căință.”</quote>
+               </p>
                <p>Divină morală a salvatorului! Tu ne înveți că carnea, de și subordinată spititului, e suppusă căderii; dar că sincera căință, sincera părăsire a viciului, sterge pata, vindecă rana, află îndurare înaintea rațiunei; omul căzut este atunci ridicat, păcatul făcut  este ertat; desmoștenitul oropsit  este îmbrățișat; păcătosului i se deschid ușele affecțiunei; căci orbul a văzut lumina adevărului, căci leprosul s-a curățit de lepra viciului; iar cine din toți e mai e drept, ia piatra, și uccigă pe păcătos.</p>
                <p>
                   <quote>„Omule, te-ai făcut sănătos; ia--ți patul, și umblă; și în viitor nu mai păcătui.”</quote>
@@ -4027,8 +4035,8 @@
                   <p>Daca Lucrețiea lui Collatin  nu s-ar fi uccis, bărbatul ei n-ar fi avut  cuvînt  a o respinge: căci ea s-a suppus forței maiore; ea putea ommori pe răpitorul onoarei salle; și a făcut rău că nu l-a ommorît; dar sunt casuri, ca acella în care crez  că s-a aflat consoarta ta, cînd femeea se suppune forței maiore, neputînd face altfel.</p>
                   <p>
                      <quote>Adulteriul, zice Michelet, trebue applicat  numai la trădarea perversă vicleanăl a femeii, care înșală pe bărbatul ei cu precugetare; iar căderea involuntarie a unei femei imprudinte, care nu simte căderea de cît după ce a căzut, n-o putem numi de cît simplă cădere; asemenea cădere merită iertare. Dăm duoă esemple: O damă își astepta bărbatul din căllătorie;îl aștepta c-o viă nerăbdare fisică, și c-o mare mișcare sufletească. Cina era gata; dar bărbatul numai venea; în locul bărbatului, vine un  amic  al său, trimis  într-adins de bărbat  că s-assigure pe femeea lui de venirea sa, și să-i comunice și causa nevenirii salle la ora promisă. Ploaea cădea în torente; amicul era muiat  de ploae pînă la cămașă. Femeea, de umanitate și de recunoștință, îll  invită a rămînea la dînsa în noaptea aceea; la masă i dă din vinul din care bea numai bărbatul ei, un  vin  minunat, dar a căruia fatală influință ea n-o cunoștea. Închinară amînduoi pentru bărbat, și se -mbătară amînduoi cum se cade. În astă stare, femeea allunecă; amicul bărbatului, om  de conștiință, desolat  de fapta sa criminal,aleargă și măturisește bărbatului tot adevărul, reclamînd singur pedeapsa meritată. Adevăratul culpabil, zisse bărbatul, este vinul; dar și e  sunt culpabil: căci sunt ore cînd o femee nu mai poate aștepta. O femee de 25 de ani, sprintenă, mîndră (<foreign>fiere</foreign>), elegantă, c-o figură nobilă și severă, ce esprima un  sufflet  pur, avea din nefericire o frumoasă voce passionată; toți voiau s-o auză cîntînd. Un  duo îi întoarse creerii; se înamoră, nu de artist, ci de arta lui. Inima ei era însă întreagă a bărbatului său, un  bărbat  june și plăcut, pe care-l  luasse din amor. Ea descoperi crima sa bărbatului, și-l  rugă să-i arate mijlocul d-a șterge această pată. Bărbatul, care o adora, simți inima lui sdrobită; și remasse pe gînduri. Femeea înțellesse tăcerea lui, și începu să cînte; ea înebuni cîntînd. În deșert bărbatul i jură cu lacrămi că a ertat-o; era tîrziu! Ea muri nebună!(Vezi <title>
-                              <foreign>L-Amour</foreign>
-                           </title>, par Michielet)</quote>
+                           <foreign>L-Amour</foreign>
+                        </title>, par Michielet)</quote>
                   </p>
                   <p>Daca aceste femei merită iertare, cu atît mai mult merită soțiea ta; fiind că ea s-a supus forței maiore.</p>
                   <p>Căsătoriea ta este un  esemplu pentru acei bărbați cari, triumfînd depre corupțiunea socială prin mijloacele ce tu ai întrebuințat în privința femeii talle, nu pot triumfa și despre Destin, a căruia voință trebue a se împlini.</p>
@@ -4091,7 +4099,7 @@
                <p>CĂSĂTORIEi</p>
                <p>PARTEA III</p>
                <p>BĂRBATUL  DESILLUSIONAT </p>
-               <p>PREțULŮ 1 LE.</p>
+               <p>PREȚULŮ 1 LE.</p>
                <p>TIPOGRAFIA ACADEMIEI ROMÂNE (LABORATORII ROMÂNİ)'</p>
                <p>No. 26. — Strada Academiei. — No. 26.</p>
                <p>1886.</p>
@@ -5898,7 +5906,9 @@
                   <p>„Destul, Rosa! Crez  că m-au esplicat  îndestul. A mai reveni asupra acestei cestiuni, este a-mi face un  mare ră: este a-mi da să be  oțet  in loc  de ceaiu de nalbă; este a smulge după rană blastorul  binefăcător; este în fine a mă insulta, crezăndu-mă așa de simplu, așa de slab, ca să sancționes  singur  o crimă ce n-am  comis-o.</p>
                   <p>„Destul  am  fost  copill; trebue să fiu azi bărbat, cel  pu-çin  o dată in viața mea. Trebue ca Rațiunea să învingă in tine Amorul. Nu fără cuvînt  a pus  Creatorul  Capul  d-asupra inimei. ”</p>
                   <p>și cu toate acestea, nu mă lăsam  a fi învinsă.</p>
-                  <p>Ori de câte ori credeam  momentul  opportun, reveneam  asupra acestei cestiuni, tocmai ca Caton in senatul  roman  cu celebrul  să  refren: <quote><foreign>Delenda Cartago</foreign></quote>!</p>
+                  <p>Ori de câte ori credeam  momentul  opportun, reveneam  asupra acestei cestiuni, tocmai ca Caton in senatul  roman  cu celebrul  să  refren: <quote>
+                        <foreign>Delenda Cartago</foreign>
+                     </quote>!</p>
                   <p>Nervos  de fel, ș-acum irritabil  in cel  mai înaltă grad, adesea tata se supăra, se înfuria chiar, când intervenem  in fa-voarea țaței. Într-o zi îmi zise răstit:</p>
                   <p>— Vrei sa mă ommori înainte de timp ? D-aceea te-am  luat  cu mine aici? Încă un  cuvînt, și te trimit  în țeară.”</p>
                   <p>De atunci n-am  mai atins  coarda simțibilă.</p>

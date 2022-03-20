@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -70,6 +70,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -84,7 +85,7 @@
             <p>NICOLAE XENOPOL</p>
             <milestone unit="line"/>
             <p>BRADI</p>
-            <p>șI</p>
+            <p>ȘI</p>
             <p>PUTREGAIU</p>
             <p>MORAVURI PROVINCIALE</p>
             <milestone unit="line"/>
@@ -99,7 +100,7 @@
             <p>NICOLAE XENOPOL</p>
             <milestone unit="line"/>
             <p>BRADI</p>
-            <p>șI</p>
+            <p>ȘI</p>
             <p>PUTREGAIU</p>
             <p>MORAVURI PROVINCIALE</p>
             <milestone unit="line"/>
@@ -1470,7 +1471,7 @@
             <p>Mulțimea pătrunse în curte.</p>
             <p>Negradi, întovărășit de procuror și de prezident, se arătă în ceardac.</p>
             <p>— Ce voiți? îi întrebă Săcultea...</p>
-            <p>Toader Fulger eșL din mijlocul plăeșilor și inaintă până lângă scară.</p>
+            <p>Toader Fulger eȘL din mijlocul plăeșilor și inaintă până lângă scară.</p>
             <p>— Am venit, Jise el, în predmetul procesului ce avem cu boerul. Sunt însărcinat să ve spun că nu cu cale faceți ce faceți când voiți se ne alungați de pe pământurile noastre, unde fle-”care palmac a fost udat de noi cu lacrimi de sănge...</p>
             <p>— Asta o să hotărască judecata, răspunse Negradi...</p>
             <p>— Cum o iei dumneata, cucoane, ved că nu e cu judecata ci cu lopata... ce fel de judecata este asta se ve ospătați și se chefuiți cu boerii de la tribunal și apoi să-î puneți să ne raJă... Noi așa judecători nu primim!</p>
@@ -1673,7 +1674,7 @@
             <p>— știm și noi unde s-o fi rătăcit, res-punse moș Gavril... fără dânsul ce putem face noi?</p>
             <p>— Vă mai dau cinci minute, întrerupse președintele; mi se pare că e destulă îngă-duire din partea mea...</p>
             <p>Rezașii alergară iarăși după Niculiță Con-tăș; cercetările lor însă fură din nou zadarnice; ei se întoarseră, desperați, la tribunal...</p>
-            <p>După cinci minute procesul îucepu. A-vocatul lui Negradi, Vasilică Sdrobcea, își desvoltă acțiunea; el revendica de la re-zași mai multe sute de fălci de pământ, stăpânite de dânșii fără nicu un drept, prin-tr-o negligență a proprietarului, care nu stabilise încă, până în timpurile din urmă, o hotărnicie esactă a moșiei... el invoca acte, arăta planurile făcute de inginerul Savin... ca dovadă apoi că acțiunea sa era fundată, Sdrobcea invoca faptul că rezașii nu puteau opune nici un act; dânșii pretextau disparițiunea avocatului lor — disparițiunea aceasta nu era decât o comedie — spre a-și da o aparența de victime... asemenea manopere însă nu puteau induce în eroare pe onoratul tribunal, care, din esperiență, cunoscea gradul de imoralitate al rezașilor Lunceșteni... Sdrobcea-șî termină pledoaria printr-o filipică  violentă la adresa rezașilor, oameni răi, hrăpi-tori și violenți, cari nu se mulțumeau să comită crime peste crime, să se resvrateasca în contra autorităților constituite, dar răsplăteau chiar bine-facerile unuia din- cei mai blânțU' și maî buni proprietari din județul Neamțu piTn ingratitudinea cea mai neagră... și dreptul și morala erați să fie res-bunate, admițându-se acțiunea d-lui Alecu Negradi...</p>
+            <p>După cinci minute procesul îucepu. A-vocatul lui Negradi, Vasilică Sdrobcea, își desvoltă acțiunea; el revendica de la re-zași mai multe sute de fălci de pământ, stăpânite de dânșii fără nicu un drept, prin-tr-o negligență a proprietarului, care nu stabilise încă, până în timpurile din urmă, o hotărnicie esactă a moșiei... el invoca acte, arăta planurile făcute de inginerul Savin... ca dovadă apoi că acțiunea sa era fundată, Sdrobcea invoca faptul că rezașii nu puteau opune nici un act; dânșii pretextau disparițiunea avocatului lor — disparițiunea aceasta nu era decât o comedie — spre a-și da o aparența de victime... asemenea manopere însă nu puteau induce în eroare pe onoratul tribunal, care, din esperiență, cunoscea gradul de imoralitate al rezașilor Lunceșteni... Sdrobcea-șî termină pledoaria printr-o filipică  violentă la adresa rezașilor, oameni răi, hrăpi-tori și violenți, cari nu se mulțumeau să comită crime peste crime, să se resvrateasca în contra autorităților constituite, dar răsplăteau chiar bine-facerile unuia din- cei mai blânȚU' și maî buni proprietari din județul Neamțu piTn ingratitudinea cea mai neagră... și dreptul și morala erați să fie res-bunate, admițându-se acțiunea d-lui Alecu Negradi...</p>
             <p>Rezășii ascultau, buimaci, uitându-se unul la altul, pledoaria fulgerătoare a lui Sdrobcea...</p>
             <p>Când acesta termină, președintele-i întrebă ce aveau să respundâ.</p>
             <p>țeranii se sfatuirâ un minut între dânșii.</p>

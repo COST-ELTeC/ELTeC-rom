@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -63,6 +63,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -1568,20 +1569,20 @@
             <p>Acolo zace Fulger.</p>
             <p>De sigur că pocăința sa cea mare a făcut ca și Dumnezeu să îi erte crimele.</p>
             <p>Murind a șoptit: Iartă-mă Doamne!</p>
-            <p>SFÂRșIT</p>
+            <p>SFÂRȘIT</p>
          </div>
       </body>
       <back>
          <div type="liminal">
             <p>La H. Steinberg. Lihnii- Antiqeuai, Calea Raho-vei No. 7, se află de vendare urmâtdrele cărti:</p>
-            <p>DICțIONAR ROMAN-GERMAN de</p>
+            <p>DICȚIONAR ROMAN-GERMAN de</p>
             <p>I. SA1NEANO, profesor, prețul 5 lei.</p>
             <p>Misterele prințului Carol</p>
             <p>in 3 volume, prețul 8 lei</p>
             <p>Din <hi>crimele feudalismului</hi>
             </p>
             <p>in 2 volume, prețul 4 lei.</p>
-            <p>PENTRU JTJ3STI X  E ORI CE CONDIțIE Care conține regulile bune cuviințe, ale frumoselor purtări și ale etichetei, arta (le a se face cineva plăcut in societate, scrisori de amor și cereri in căsătorie, etc.</p>
+            <p>PENTRU JTJ3STI X  E ORI CE CONDIȚIE Care conține regulile bune cuviințe, ale frumoselor purtări și ale etichetei, arta (le a se face cineva plăcut in societate, scrisori de amor și cereri in căsătorie, etc.</p>
             <p>Prețul Lei 1. 30.</p>
          </div>
          <div type="liminal">
@@ -1593,7 +1594,7 @@
          </div>
          <div type="liminal">
             <head>CĂLĂUSA RACHIERULUI ROMAM</head>
-            <p>SAU 1NVEțATORUL PRACTIC SI ECONOMIC Pentru fabricarea Rachiurilor, Liquerurilor și Romurilor, dupe metoda cea mai bună și cea mai ușoră: în conformitate cu progresele și descoperirile cele mai noi ale Chimiei agricole și industriei —Prețul Lei 1.</p>
+            <p>SAU 1NVEȚATORUL PRACTIC SI ECONOMIC Pentru fabricarea Rachiurilor, Liquerurilor și Romurilor, dupe metoda cea mai bună și cea mai ușoră: în conformitate cu progresele și descoperirile cele mai noi ale Chimiei agricole și industriei —Prețul Lei 1.</p>
             <p>. Se trimite franco veri căruia care va trimite suma disă in mărci poștale.</p>
          </div>
       </back>

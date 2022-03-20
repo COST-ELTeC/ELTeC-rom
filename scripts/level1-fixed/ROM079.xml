@@ -25,7 +25,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -68,6 +68,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -83,10 +84,10 @@
             <p>PETRU VULCAN</p>
             <p>ARMÂNA</p>
             <p>(ROMÂNCA)</p>
-            <p>ROMAN SOCIAL DIN EPOCA RENAșTEREI POPORULUI ROMAN DE</p>
+            <p>ROMAN SOCIAL DIN EPOCA RENAȘTEREI POPORULUI ROMAN DE</p>
             <p>LA PIND</p>
-            <p>EDIțIA A DOUA</p>
-            <p>CONSTANțA</p>
+            <p>EDIȚIA A DOUA</p>
+            <p>CONSTANȚA</p>
             <p>TIPOGRAFIA „OVIDIU” 15</p>
             <p>VURLIS, 1904.</p>
          </div>
@@ -95,7 +96,7 @@
             <p>DOMNULUI</p>
             <p>IOAN M. RÎUREANU</p>
             <p>PRIMARULUI EDUCATOR AL TINERIMEI DE AMBELE SEXE DIN REGATUL ROMANIEI</p>
-            <p>INCHIN LUCRAREA DE FAțĂ</p>
+            <p>INCHIN LUCRAREA DE FAȚĂ</p>
             <p>PETRU VULCAN</p>
          </div>
          <pb/>
@@ -1949,7 +1950,7 @@
                <p>Ce mare păcat, am comis! Cum de n-am judecat atunci că e un păcat să fac să dispară un consătean al me ?... Doamne, iartă-mi greșeala ce am comis!</p>
                <p>Dacă Simu ar fi fost om cum se cade, m-ar fi desaprobat, m-ar fi scos din calea greșită,și ar fi căutat să mă calmeze. Eram scutit de această neliniște și povară la bătrînețe... Dar Simu a avut interes să se îmbogățească pe urma une  crime...</p>
                <p>Tremura din picioare. Fără să-și dea seama, căzu în genunchi în fața icoanei și începu a se ruga în tăcere. În mintea lui se oglindea imaginea castă a Miei din a cărei gură auzise adevărul și nu s-a îndurat să-i dea ascultare.</p>
-               <p>O desmoștenise în inimă și acum îi,dedea dreptate și găsea refugiu în ideea, că geniul ei (-el bun va.veghea asupra lyî. O.v cîtă. măn-găere. sufleteassă, jr-ar fi găș.it t ăpujn- îuțFuu cuvînt1 consolatuf.al Miei,..dar ea- Ora- supărată pe el, de; cînd a vrut, să/ ucidă, pe Tuliu/' mpi niai vorbea, se retrăgea....dinăintea lui și trăia singură în lumea.gîndurijpr șale.....</p>
+               <p>O desmoștenise în inimă și acum îi,dedea dreptate și găsea refugiu în ideea, că geniul ei (-el bun va.veghea asupra lyî. O.v cîtă. măn-găere. sufleteassă, jr-ar fi găș.it t ăpujn- îuȚFuu cuvînt1 consolatuf.al Miei,..dar ea- Ora- supărată pe el, de; cînd a vrut, să/ ucidă, pe Tuliu/' mpi niai vorbea, se retrăgea....dinăintea lui și trăia singură în lumea.gîndurijpr șale.....</p>
                <p>Ingenunchiat în fața icoanei, zic, l-a găsit Maria Moscopolita care intrare în odae să-l întrebe ce e cu Simu.</p>
                <p>Se miră femeea de schimbarea, ce a observat-o pe fața lui Lala și mai cu seamă de faptul de a-l găsi rugîndu-se în genunchi</p>
                <p>Se prefăcu a nu lo seamă - pînă cînd Lala își veni în fire</p>

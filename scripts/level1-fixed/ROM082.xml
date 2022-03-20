@@ -25,7 +25,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -61,6 +61,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -75,7 +76,7 @@
          </div>
          <pb/>
          <div type="liminal">
-            <p>DE ACELAș:</p>
+            <p>DE ACELAȘ:</p>
             <p>
                <title>Robia Peleșului</title>, traducere după Carmen Sylva.</p>
             <p>(Biblioteca pentru toți — editura Alcalay)</p>
@@ -100,7 +101,7 @@
             <p>1906</p>
             <p>TIPOGRAFIA „GUTENBERG” JOSEPH GOBL</p>
             <p>STR. DOAMNEI, 20</p>
-            <p>BUCUREșTI</p>
+            <p>BUCUREȘTI</p>
             <p>1906</p>
          </div>
          <pb/>
@@ -114,7 +115,7 @@
          </div>
          <pb/>
          <div type="liminal">
-            <head>PREFAțĂ</head>
+            <head>PREFAȚĂ</head>
             <p>
                <hi>Tuturor</hi>
             </p>
@@ -1612,31 +1613,31 @@
                <p>Par-că se topea într-însa o întreagă vieață, în care n-ai ce mai cere, sau nu mai ceri nimic...</p>
                <p>și „nimic” parc-ar fi răspuns aceluia, ce-ar fi întrebat-o acuma, ce dorește? — simțind că nu venise încă timpul, pentru nici una din dorințele ei...</p>
                <p>
-                  <hi>SFÂRșITUL CĂRțII I-a</hi>
+                  <hi>SFÂRȘITUL CĂRȚII I-a</hi>
                </p>
             </div>
          </div>
          <div type="group" n="2">
             <div type="titlepage">
                <p>IN LUPTĂ</p>
-               <p>DOo FORțE</p>
+               <p>DOo FORȚE</p>
                <p>ROMAN</p>
                <p>DE</p>
                <p>ELENA BACALOGLU</p>
-               <p>BUCUREșTI</p>
+               <p>BUCUREȘTI</p>
                <p>Depozitul General la LIBRĂRIA SOCECO and Comp.</p>
                <p>21 — Calea Victoriei — 21</p>
                <p>1908</p>
             </div>
             <pb/>
             <div type="titlepage">
-               <p>DOo FEțE</p>
+               <p>DOo FEȚE</p>
                <p>ÎN LUPTĂ</p>
                <p>II</p>
-               <p>DOo FORțE</p>
+               <p>DOo FORȚE</p>
                <p>ROMAN</p>
                <p>ELENA BACALOGLU</p>
-               <p>BUCUREșTI</p>
+               <p>BUCUREȘTI</p>
                <p>NOUA TIPOGRAFIE PROFESIONALĂ, DIM. C. IONESCU</p>
                <p>10 — Strada șelari — 10</p>
                <p>1908</p>
@@ -3145,7 +3146,7 @@
       <back>
          <div type="liminal">
             <p>C1062 – Tip. Profesională, D.C. Ionescu, Str. șelari 10</p>
-            <p>DE ACELAș:</p>
+            <p>DE ACELAȘ:</p>
             <p>Robia Peleșului, traducere după Carmen Sylva.</p>
             <p>(Biblioteca pentru toți — Editura Alcalay).</p>
             <p>Despre Simbolism și Maeterlinch, câteva observațiuni; o broșură de 60 pag.</p>

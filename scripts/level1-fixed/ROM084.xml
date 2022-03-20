@@ -25,7 +25,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -67,6 +67,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -530,7 +531,7 @@
          </div>
          <div type="chapter" n="8">
             <head>VIII</head>
-            <p>CONFERINțA. SENTIMENTALISMUL LUI SAITNI</p>
+            <p>CONFERINȚA. SENTIMENTALISMUL LUI SAITNI</p>
             <p>In sfîrșit, dupa oarecare osteneală, am izbutit sa mi exprim perfect in limba venusiană si prima mea incercare in publicut venusian a fost finerea unei con-ferințe in care am tratat despre Pămînt. Le-am po-vestit geneza lui, aparitiunea omenirei, formele ei de guvernamint, le-am explicat distracțiile ei, științele, artele si tot ce ține de Pămînt.</p>
             <p>Le-am explicat cum razboiul, religiunea și iubirea au pus piedici civilizatțunii și cum am cautat sa ne scapam de toate aceste copilarii.</p>
             <p>Am vorbit despre Pamînt asa cum cred ca e logic, dar a fost interesanta discuția ce am avut-o in urma cu Saitni, care are alte vederi. La sfirsitul sedinței, dupa co am mai discutat cu cițiva venusieni asupra Pamintului, Saitni ma lua deoparte si-mi zise:</p>
@@ -630,7 +631,7 @@
          </div>
          <div type="chapter" n="10">
             <head>X</head>
-            <p>MOARTEA UNUI VENUSIAN. CREMAțIUNEA</p>
+            <p>MOARTEA UNUI VENUSIAN. CREMAȚIUNEA</p>
             <p>Cind m-am trezit, eram in vechea noastră locuința. O rază de la Soare patrundea prin una din ferestrele predicate in stincă și inveselea monotonia salii.</p>
             <p>M-am ridicat și vazui pe Saitni care, cu ochii plini de lacrămi, îmi saruta miinile de bucurie, spre marea mirare a venusienilor cari ne înconjurau.</p>
             <p>— Scapat, esti scapat, murmura el mereu, plingind de bucurie.</p>

@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -63,6 +63,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -2417,7 +2418,8 @@
                <p>Acuma este cea dintâiu întâlnire.</p>
                <p>Nu și-au vorbit până acum.</p>
                <p>S-au înțeles numai prin scris. Reti a scris întâiu.</p>
-               <p><quote type="letter">... „ M-am hotărît, dragă Anișoară să-ți scriu. Parcă în scris pot să-ți vorbesc mai liber:</quote> asa i-a zis Reti în prima scrisoare și de atunci a dus-o numai cu scrisori.</p>
+               <p>
+                  <quote type="letter">... „ M-am hotărît, dragă Anișoară să-ți scriu. Parcă în scris pot să-ți vorbesc mai liber:</quote> asa i-a zis Reti în prima scrisoare și de atunci a dus-o numai cu scrisori.</p>
                <p>Intâlnirea și-au dat-o aci în geamlâc pentru că e colțul cel mai singuratic și mai liniștit, precum și cel mai apropiat de dormitoare.</p>
                <p>Intâlnirea trebuia să se facă după trecerea elevelor în dormitoare, după rugăciunea de seară.</p>
                <p>Lipsa uneia dintr-un dormitor nu se bagă de seamă; Reti și Anișoara sunt din dormitoare deosebite.</p>

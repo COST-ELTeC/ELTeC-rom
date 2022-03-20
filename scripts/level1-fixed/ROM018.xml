@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -59,6 +59,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -190,7 +191,7 @@
                <p>Cele doo dame coborîră aleea. La poartă le aștepta o trăsură. Viind, ele se urcară în trăsură, ochii celei tinere întîlniră ochii lui Vel ce cobora; dar astă dată căutarea lor era dulce și melancolică.</p>
             </div>
             <div type="chapter">
-               <head>TEATRU NAțIONAL</head>
+               <head>TEATRU NAȚIONAL</head>
                <p>Cel dintîi teatru ce se văzu în țara românească fuse sub cei din urmă domni fanarioți. Grecii, ce visau de cîtva timp la libertatea națiunei lor, aruncaseră ochii asupra Principatelor Române, ca locul priincios pe care să rădice stindardul independenței. Grecia era sclavă. Dar ea roșea să poarte lanțurile. Fiii săi cei vitregi, ce locuiau Fanarul, plecară capetele înaintea stăpînilor lor și deveniră în a lor mînă unelte răufăcătoare pentru Grecia și pentru toți populii creștini. O parte din acești fii degenerați luară tronul Principatelor, și nu ca să-l ridice la înălțimea lui, ci ca să-l slăbească și ca să-l supuie turcilor. Către acestea în mijlocul plantelor părăsite ce năbușau frumoasa față a Greciei, începură să răsară acele flori de viață și de libertate ce vor forma in viitor ghirlanda epocei trecute. Voi să vorbesc de acei fii ai Greciei cari să răspîndiră în toate părțile lăturașe și atinseră pînă în sfîrșit inimile degradate ale fanarioților din Principate, bari le toleră cel puțin a prepara viitorul Greciei. Atunci să văzură în Principate oameni învățați precum Duca, Neofit și alții ce răspîndeau luminele cu focul unui nobil patriotism și rechemau românilor că Grecia nu este Fanarul, că libertatea sa nu este sclavia. Se văzu Fotino, trăgînd în umbră istoria românilor, planul geografic al acestor părți de lume unde era să nască libertatea Greciei. Ar fi zis cineva că înseninează tărîmul pe unde au să treacă falangele libertăței atît de nobile și atît de nenorocite. Spiritul de viață intră pînă în palatul podestaților. Ei avură teatruri unde să reprezint ară tragedii pline de spiritul de mărire si neatîrnare. După aceste teatruri în limba greacă, veni opera germană de cînd în cînd, pînă la începutul epocei regulamentare, cînd Cîmpineanu și alți români, scutu-rînd vălul îndoielei, voiră să dovedească că românii merit să aibă un teatru în limba lor.</p>
                <p>Teatru român, din începutul său, află o piedică, în domnitorul țărei și protectorii săi. A. Ghica iubea să auză limba română pe scena unui teatru. Dar ceea ce ar fi făcut să iubească acest teatru, ar fi fost să fie el fondatorul lui. Nu avusese această idee sau dorință și prin urmare deveni o piedică teatrului român.</p>
                <p>Popularitatea Cîmpineanului îl supăra. Astfel, ca să fărîme această popularitate, trebuia să înceapă a reforma teatrul național, ceea ce să și întîmplă mai tîrziu. în acea seară să reprezintă la teatru <hi>
@@ -332,7 +333,7 @@
                <p>Peste zece minute arnăutul se îndrepta către locașul Savei. Femeia sa își storcea ochii în lacrimi, micul său copil se juca cu părul ei despletit ce rîura pe sînu-i ca un văl. Orele păreau că-și opriseră zborul pentru acest suflet frumos; timpul era lung.</p>
             </div>
             <div type="chapter">
-               <head>BIMBAșA SAVA</head>
+               <head>BIMBAȘA SAVA</head>
                <p>Era 17 august, anul 1821.</p>
                <p>O zi frumoasă; poporul Bucureștiului, totdauna curios ca o femeie să vază, să auză, să știe, că cunoască tot ce se face în capitală, să aduna către strada ce se chema atunci Furtună și unde astăzi este capătul Podului Mogoșoaei ce dă în strada Franceză; acolo era altădată un han mare, cît un palat, pe partea despre nord-vest; să numea Hanul lui Constandin-vodă; în față cu această lungă zidire, astăzi dărâmată și înlocuită cu o piață, era casa Belu, locaș încîntător, pe malul Dîmboviței; între Dîmboviță și curtea caselor era o grădină minunată; între curte și stradă era așezată casa, adică la pod, cum să zicea pe atunci; numirea de pod ce să dase stradei venea de la construcțiunea pavagelor după stradă ce erau făcute de podini de stejar, una lîngă alta în curmeziș, așezate pe niște stinghii, și bătute cu cuie de lemn. Cea mai nepractică povară. Apele de ploaie se scurgeau pe dedesupt, umflau podinele și, de cîte ori ploua, aceste podini se rădicau, dezlipite, și înotau pe dasupra. Caii își rupeau picioarele, trăsurele roatele, nimeni nu cuteza să umble pe strade.</p>
                <p>Casa Belu era un locaș plăcut, o poartă frumoasă de piatră cu mai multe statue de granit, între cari o zeiță de marmură cu un vas în brațe: din acest vas cura apa unei fontîni. Această fontînă era aproape de poartă; bătrînii noștri aveau mai mult decît noi gustul artelor frumoase; îndată ce intrai sub această poartă, în forma unui arc de triumf, la stînga, era poarta de intrare a scărei casei. Casa avea forma multor case din Orient, cu doo caturi, adică un cat și beciuri. Despre pod avea o formă pîntecoasă. Spoită cu var. O scară largă, o sală al cărei fund da pe stradă, de amîndoo părțile sălei, camere. Astăzi nu mai este nimic din această casă istorică; aici au jurat toți mavroforii și românii ură și război turcilor, aici a șezut <foreign>chehaia-bei</foreign>, aici s-a făcut acea scenă sîngeroasă despre care avem a vorbi. Pe locul acestei case s-a ridicat un palat încîntător. Dar casa ce aduce aminte atîtea fapte istorice nu mai este. Vechitura istorică era mai prețioasă în ochii oamenilor inteligenți decît această noo adunătură de material întocmită cu artă. Proprietarul a făcut rău de nu a păstrat acest monument. Fapte de această natură sunt o dovadă de puținul interes ce unele familii pun la cele mai prețioase lucruri ce le privesc.</p>
@@ -801,7 +802,7 @@
                <p>Anarhia și dezordinea domnea în București; boierii, părăsind capitala, trecură în Transilvania. <foreign>Bimbașa</foreign> Sava se numește de divan comandate ale Bucureștiului. Divanul se sparge, consulul rus și austriac plec. Tudor pornește la Slatina cu 6 000 de panduri și cu arnăuți. Slătinenii se plîng lui Tudor contra lui căpitan Iordache, Ioan Farmache, bulucbașa Ghencea. Protopopul din Slatina veni înaintea lui Tudor cu lacrimile în ochi și îi spune că arnăuții ce veniseră cu el despoiaseră biserica mare de vasele sînte. Tudor arestează un protopop și cheamă un ofițer de panduri, căruia recomandă a descoperi pe furi și să le ia vasele sînte furate și să i le aducă în secret. Acesta găsește vasele sînte în desagii lui <foreign>bulucbașa</foreign> Hristea și Iova și le duce lui Tudor în secret.</p>
             </div>
             <div type="chapter">
-               <head>GARDA MORțEI</head>
+               <head>GARDA MORȚEI</head>
                <p>Sărmane doritor nebun!</p>
                <p>Tu nu ai cruțat nici moartea, nici sîngele ca să ajungi la scopul tău generos. Tu ai înțeles rău, o, Tudore, că spre a ajunge la realizarea unei idei nobile este trebuință de sînge. Dară, este trebuință de sînge spre a ajunge la un scop generos; dar nu să verși sîngele ce-loralți, ci să-ți verse ceialți sîngele tău. Cîți au crezut să realizeze ideea lor, vărsînd sîngele celoralți, nu au reușit; cîți au fost uciși însă pentru o idee frumoasă au reușit mai totdauna. Crist este exemplul cel mai viu. Martirul este mai iubit decît tiranul. Tu voiai să fii martir, și te-ai făcut tiran.</p>
                <p>Ideile tele au triumfat pînă în fine; dar ca să triumf d-a trebuit ca tu să fii ucis de săcurea inimicilor patriei tele. Cînd tiranul a devenit martir, omul cu ideea a început să fie aprețuit. Numai în ziua morței tele, lumea a început să vază în tine un liberator. Tu ai triumfat mai tîrziu prin moartea ta.</p>
@@ -935,7 +936,7 @@
                <p>Pandurii lui Tudor se risipiră, dintr-o tabără de 6000 panduri, abia au rămas 800 sub căpitan Oarcă. Pe lîngă căpitan Oarcă mai rămase unul care voia să continuie mișcarea: acesta era Radoți.</p>
             </div>
             <div type="chapter">
-               <head>DRĂGĂșANI</head>
+               <head>DRĂGĂȘANI</head>
                <p>Turcii ocupară Bucureștii.</p>
                <p>Capitala suferea ucideri de la turci.</p>
                <p>
@@ -976,7 +977,9 @@
                   <p>Cinstea pentru omul cinstit este ca mirosul pentru trandafir, pe care nici vîntul, nici vermele, nici ploaia nu i-l pot dezlipi de dînsul. A pretinde a face să se restatornicească cinstea unui om cu sabia în mînă este a-și pune la îndoială ființa cinstei.</p>
                   <p>Un om poate să se facă nedrept, oamenii însă nu se fac nedrepți. Dreptatea întîrzie de multe ori, dar niciodată nu lipsește a veni. Lasă lumea și timpul să judece între tine și între vrăjmașii tăi! Acești doi sunt cei mai mari prieteni ai omului nedreptățit. Cea mai mare fericire poate să fie pentru un om decît după ce a trăit, să poată auzi părerile de rău ale prietenilor săi, întemeiate pe aceasta că nu a făcut nimeni nici iln rău în viața sa! știi tu cît este de adîncă această vorbă? Orice om trăiește cată să fie asuprit de ceialți. A fi asuprit, nedreptățit, rău înțeles și a rămînea mare în toată viața, fără a căuta să-și răzbune, să lovească, aceasta este demn de Dumnezeu. Nu te lăsa a te tîrî de părerile unor oameni rătăciți ce iau simțimîntele nobile și mă-rinimoase pentru slăbiciune și mărginire a minței și a inimei; acei oameni nu înțeleg aceste simțimînte nobile și mărinimoase și de aceea vorbesc astfel. Dacă acești oameni cu sufletele mărinimoase se numesc <hi>slabi</hi>, apbi providența cerească ce este mărinimoasa cea mai mare este <hi>slăbiciune</hi>!</p>
                   <p>Nimeni nu poate trece între o haită de cîni ce sfîșiu un leș, fără să deștepte mormăitul acestor cîni.</p>
-                  <p>Iată trista, dar adevărata icoană a oamenilor, a unor oameni cari nu au primit de la ziditor decît chipul omenesc. Aceste haite tu le vei întîlni în tot pasuL vieței tele. Învață a trece înainte, desprețuind aceste mormăituri! Nu te înspăimînta însă pentru lume căci este astfel! Evanghelia noastră ne zice: <hi><quote>mulți chemați, puțini aleși</quote></hi>.</p>
+                  <p>Iată trista, dar adevărata icoană a oamenilor, a unor oameni cari nu au primit de la ziditor decît chipul omenesc. Aceste haite tu le vei întîlni în tot pasuL vieței tele. Învață a trece înainte, desprețuind aceste mormăituri! Nu te înspăimînta însă pentru lume căci este astfel! Evanghelia noastră ne zice: <hi>
+                        <quote>mulți chemați, puțini aleși</quote>
+                     </hi>.</p>
                   <p>Florile cele mai frumoase încă sunt înconjurate de ghimpi. Nu lua niciodată ghimpii după flori.</p>
                   <p>Nu alege societățile bogaților, nici nu desprețui poporul cel sărac. Tu știi, fătul meu, că cei mai frumoși trandafiri nasc și cresc din băligar. Să nu ai însă nici ură pentru cei bogați și dragoste pentru cei săraci hotărîtă de mai-nainte, căci tu știi asemenea că din flori nasc mărăcini și din mărăcini nasc flori...”</p>
                </quote>
@@ -1047,7 +1050,7 @@
                <p>— Dem! Dem! friptura și oăle sunt pe masă!... vino, repetă cocoana Elenca.</p>
             </div>
             <div type="chapter">
-               <head>NEHOTĂRÎREA șI HOTĂRÎREA</head>
+               <head>NEHOTĂRÎREA ȘI HOTĂRÎREA</head>
                <p>Noaptea ce veni după această zi fuse teribilă pentru Dem. A doua zi el trebuia să dea un răspuns lui Vel.</p>
                <p>Miezul nopței bătuse la orologiul de la Bărăție. Cocoana Elenca dormea în camera ei. Dem veghea însă în odăița sa, cu capul pe mîni, cu coatele pe masă. Era trei oare de cînd se afla în această pozițiune.</p>
                <p>La ce gîndea el?</p>
@@ -1318,7 +1321,7 @@
                <p>Caterina cu cocoana Elenca plecă acasă la dînsa ca să vază portretul maică-sei. Astfel era pretextul cel puțin.</p>
             </div>
             <div type="chapter">
-               <head>VIZITA NEAșTEPTATA</head>
+               <head>VIZITA NEAȘTEPTATA</head>
                <p>Era doo oare după-amiazi.</p>
                <p>O trăsură se opri la poarta casei cocoanii Elenchi și o damă tînără și frumoasă, însoțită de o bătrînă, se pogorî și intră în curte pe o portiță. Dama tînără și frumoasă era Caterina, bătrîna era cocoana Elenca.</p>
                <p>— Vino după mine, zise cocoana Elenca Caterinei.</p>
@@ -1576,7 +1579,7 @@
                <p>După cinci minute sala era deșartă. Oamenii poliției, cu luminări în mînă, căutau prin toate unghiurile și prin sobe, doară de vor găsi ceva hîrtii. Căpitanul de poliție, strîmb și chiorînd, veghia asupra lor.</p>
             </div>
             <div type="chapter">
-               <head>ADUNAREA GENERALA șI DRAMA</head>
+               <head>ADUNAREA GENERALA ȘI DRAMA</head>
                <p>Era o zi frumoasă, zi în care trebuia să se treacă drama perderei drepturilor țărei. Cerul pare că favora lucrarea ce era să se facă, ca să vează pînă unde omul este capabil a purta înjosirea sa.</p>
                <p>Deputații treceau la Mitropolie; poporul din București, inițiat în dureroasa dramă ce era să se treacă la Mitropolie, se aduna aici cu frică și cu curiozitate. Tot orașul era așteptător spre a cunoaște rezultatul.</p>
                <p>Adunarea de atunci era expresiunea clasei boierilor, maioritatea ei era pentru guvern. Nici un simțimînt nobil și patriotic nu făcea să bată aceste inimi pe cari ignoranța le păstrase încă mici și umilite.</p>
@@ -1681,7 +1684,7 @@
                <p>— Am luat crucea!</p>
             </div>
             <div type="chapter">
-               <head>PUșCĂRIA DE LA SÎNTUL ANTONIU</head>
+               <head>PUȘCĂRIA DE LA SÎNTUL ANTONIU</head>
                <p>Pe piața ce să vede astăzi în față eu hanul Manuc era altădată o curte largă, îngrădită cu ziduri nalte ca o cetățuie. În mijlocul acestei curți era o biserică; locul acestei biserici este acolo unde să vede astăzi o cruce îngrădită. La dreapta porței cetățuiei era o casă ce da cu o coastă la pod și să prelungea înîntru. In această casă era direcțiunea închisorilor. Alte rînduri de case șiruite în curte serveau de chilii pentru arestanți; un grilaj despărțea o curte mică a administrațiunii de curtea arestanților. Pușcăria era locul cel mai rău văzut de popor. La poarta acestei pușcării poporul văzuse în diferite epoce lucruri înfiorătoare: văzuse capete tăiate și atîrnate.</p>
                <p>Văzuse cadavre spînzurate, înaintea Regulamentului; în anii din urmă văzuse femei criminale, rase, lănțuite și expuse la vederea publicului.</p>
                <p>Aici fură aduși Luț și Dem. Logofătul Iordache îi priimi cu bucuria obicinuită ce simțea de cîte ori vedea venind arestanți. Li se dete o cameră în șirul caselor unde era administrațiunea, deși logofătul Iordache pretinse că mai bine ar fi acești doi boieri să locuiască cu arestanții criminali unde este viața mai veselă. Vătaful agiei stărui să-i puie singuri într-o cameră, în casa administrațiunei. Tot el recomandă să se oprească de a veni cineva să-i vază sau de a-i lăsa a comunica cu cineva din oraș sau prin orice alt mijloc. Era destul un astfel de ordin ca logofătul Iordache să își facă datoria sa cu scumpătate.</p>
@@ -1692,7 +1695,7 @@
                <p>Ea găsi pe vorniceasă, îi spuse motivul venirei sele. Vorniceasa îi promise să vorbească cu niște persoane. Ea se ținu de parolă, vorbi cu ministrul, dar nu putu deocamdată dobîndi decît voia ca să meargă cocoana Elenca să vază pe Dem în pușcărie.</p>
             </div>
             <div type="chapter">
-               <head>UN CARACTER DE TEMNIțAR CUM NU SE VEDE ÎN TOATE ZILELE</head>
+               <head>UN CARACTER DE TEMNIȚAR CUM NU SE VEDE ÎN TOATE ZILELE</head>
                <p>Pe la anul 1800 trăia în Ploiești o familie sărmană care avea șeapte copii. Capul familiei se chema Iordache și femeia lui Stanca; băiatul întîi născut luase numele tatălui său. Această familie trăia de astăzi pînă mîne, întrebuințînd micul comerciu pe piei de miei ce le cumpăra de la păstori și le vindea la cojocari sau la căciu-lari, argăsite. Comerciul său nu mergea bine de la un timp încoace, nu putea nici să hrănească această familie, încet, încet mizeria începuse să intre în această casă și să nu mai iasă niciodată. Bietul jupîn Iordache vedea cu destulă durere cum familia sa suferea de cele mai trebuincioase ale vieței și nu se putea face nimic, copiii să măreau, nu aveau nici haine pe dînșii.</p>
                <p>Pe la anul 1800 întîmplarea făcu ca cocoana Elenca să meargă la schitul țigănești, între Ploiești și București. Acolo ea cunoscu familia lui jupîn Iordache. Jupîn Iordaehe, nemaiavînd cu ce trăi, în Ploiești, în desperarea lui plecă la schitul țigănești, cu femeia și șeapte copii, unde speră să-i hrănească cîtva timp din generozitatea maicilor. Femeia lui jupîn Iordaehe era o femeie de inimă. Mizeria în care căzuse o făcea să fie nenorocită sufletește. De cîtva timp căzuse într-un fel de melancolie care era semnul slăbirei spiritului său. Intr-o zi dăte chiar semne de alienațiune mintală. Cîteva zile încă, și această indispozițiune, constată o boală serioasă. După celealte nenorociri ce izbiră pe jupîn Iordache, înnebunirea soției sele fuse coroana.</p>
                <p>Maicile să interesară de soarta acestei nenorocite familii. în acele zile veni cocoana Elenca la schit. Ea văzu pe bolnavă, văzu niște scene triste și plîngeroase între mama bolnavă și între șeapte copii mărunți ce o înconjurau. Inima cocoanei Elenchi se atinse de aceste lucruri. Din propria sa inițiativă, ea dete o sumă de bani lui jupîn Iordache, cu cari bani să poată urma comerciul său de piei. Afară de aceasta, pe copilul cel mai mare, Iordache, îl dete să învețe carte la un dascăl în București cu a sa cheltuială.</p>
@@ -1704,7 +1707,7 @@
                <p>Cocoana Elenca se prezintă cu un bilet de la vornicul, închisorilor către Iordache. Prin acest bilet se scria că liberă este purtătoarea biletului să vază pe Dem și Luț, față cu îngrijitorul pușcăriei.</p>
             </div>
             <div type="chapter">
-               <head>PUșCĂRIA DE LA SÎNTUL ANTONIU</head>
+               <head>PUȘCĂRIA DE LA SÎNTUL ANTONIU</head>
                <p>Dar aci trebuie să ne oprim ca să spunem cititorilor despre spectacolul înfiorător ce văzu cocoana Elenca la pușcărie.</p>
                <p>Ea văzu multă lume adunată la poarta pușcăriei, dar nu băgă de seamă, intră în curte, țiind biletul la mînă.</p>
                <p>— Pentru vătaful Iordache de la vornicu! strigă cocoana Elenca, arătînd biletul la niște gardieni. Unde este vătaful Iordache? întrebă ea.</p>
@@ -1953,7 +1956,7 @@
                <p>Junii noștri, după ce petrecură cîteva momente încă în casa sa, se retraseră încredințând pe noul Samson în brațele Dalilei sele, și se duseră la Cheren.</p>
             </div>
             <div type="chapter">
-               <head>O MICĂ șEDINțĂ ÎNTRE OAMENII DIN CARE A IEșIT UNIREA țĂRILOR</head>
+               <head>O MICĂ ȘEDINȚĂ ÎNTRE OAMENII DIN CARE A IEȘIT UNIREA ȚĂRILOR</head>
                <p>La Cheren era o adunare secretă.</p>
                <p>Cheren vorbea amicilor săi:</p>
                <p>— Nu știm ce are să se întîmple de astăzi pînă mîne. Tărîmul este arat și acum trebuie să aruncăm sămînța. Sămînța ce vom arunca va da rod într-o zi, dacă nu așa de curând cum doresc unii din noi, dar mai târziu; câțiva ani mai târziu sunt puțin in comparațiune cu viața națiunei. Tărâmul in care trebuie să semănăm noi este inima românilor, și sămânța ce trebuie să semănăm este ideea unirei țărilor române. Mergeți dar unii din voi a împlini această sântă datorie in această țară, alții in Moldova. Moldova mai ales a rămas cu totul in urmă. Îmbrățișați toate profesiunile cari vor fi de natură a vă pune în raport cu junimea, căci actul cel mare al unirei se va face intr-o zi de această junime numai când ea va deveni matură. Nu vă perdeți vorbele cu cei bătrâni! Inima lor este prea uscată ca să poată primi și inmugura ideile mari și generoase. Apostolii noștri, meniți a propaga în Moldova aceste idei, cată să se armeze cu răbdarea îngerilor. Să rămîie neîncetat într-o stare de modestie, de simplitate, de supunere, cele mai puterice arme spre a atrage simpatiile omenești de cari aveți trebuință. Faptele lor trebuiesc să fie consecuinte cu o purtare încununată de virtuți. Orice partidă politică ce nu va observa cu scumpătate aceste îndatoriri va peri fără să izbutească. Interesele persoanei și partidei cată să fie înecate în interesele generale. Orice partidă politică sau socială ce va propaga ideile mari și naționale, și se va prezenta prințr-o purtare ce nu va fi înconjurată de onoare, de virtuți, nu numai nu va reuși, dar încă va peri, căci faptele vor dezminți vorbele. Să lăudați ideile și să vă îndreptați la oamenii aleși, iar nu la gloate. Să nu lingușiți patimile gloatelor! Este adevărat că partidele ce lingușesc patimile gloatelor izbutesc de multe ori a se așeza pe un piedestal; dar acest piedestal este -fraged, căci opiniunele bazate pe patimi se risipesc ră-pede, pe cînd cele ce se bazează pe rațiune sunt singure temeinice. Oricare ar fi țara și forma guvernului său, fie cea mai democratică din lume, opiniunea minorităței inteliginte totdauna face opiniunea maiorităței. Gloatele nu au opiniunele lor proprii; ele i-au opiniunile minorităților inteliginte și le apropriază.</p>

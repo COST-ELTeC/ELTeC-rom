@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -63,6 +63,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -78,9 +79,9 @@
             <p>SOFIA NĂDEJDE</p>
             <p>Părinți și Copii</p>
             <p>ROMAN</p>
-            <p>EDIțIA II</p>
-            <p>BUCUREșTI</p>
-            <p>EDITURA „BIROULUI UNIVERSAL” ATANASIE I. NIțEANU</p>
+            <p>EDIȚIA II</p>
+            <p>BUCUREȘTI</p>
+            <p>EDITURA „BIROULUI UNIVERSAL” ATANASIE I. NIȚEANU</p>
             <p>STRADA NEGRU VODĂ 21</p>
             <p>1907</p>
             <p>PRETUL LEI</p>
@@ -99,9 +100,9 @@
             <p>SOFIA NĂDEJDE</p>
             <p>Părinți și Copii</p>
             <p>ROMAN</p>
-            <p>EDIțIA II</p>
-            <p>BUCUREșTI</p>
-            <p>EDITURA „BIROULUI UNIVERSAL” ATANASIE I. NIțEANU</p>
+            <p>EDIȚIA II</p>
+            <p>BUCUREȘTI</p>
+            <p>EDITURA „BIROULUI UNIVERSAL” ATANASIE I. NIȚEANU</p>
             <p>STRADA NEGRU VODĂ 21</p>
             <p>1907</p>
             <p>PRETUL LEI</p>
@@ -113,8 +114,8 @@
       <body>
          <p>Părinți și Copii</p>
          <p>ROMAN</p>
-         <p>BUCUREșTI</p>
-         <p>EDITURA „BIROULUI UNIVERSAL ATANASIE I. NIțEANU STR, NEGRU VODĂ No. 21</p>
+         <p>BUCUREȘTI</p>
+         <p>EDITURA „BIROULUI UNIVERSAL ATANASIE I. NIȚEANU STR, NEGRU VODĂ No. 21</p>
          <p>1907</p>
          <div type="group" n="1">
             <head>PARTEA I</head>

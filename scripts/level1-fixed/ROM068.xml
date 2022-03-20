@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -63,6 +63,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -76,9 +77,9 @@
          <div type="titlepage">
             <p>N. RADULESCU-NIGER</p>
             <p>ORFANII NEAMULUI</p>
-            <p>ROMAN NAțIONALIST</p>
+            <p>ROMAN NAȚIONALIST</p>
             <p>EDITURA I. NEGREANU</p>
-            <p>BUCUREșTI - STR. APOLODOR NO. 26 - BUCUREșTI</p>
+            <p>BUCUREȘTI - STR. APOLODOR NO. 26 - BUCUREȘTI</p>
             <p>1913</p>
          </div>
          <div type="liminal">
@@ -4947,7 +4948,7 @@
             <p>Dinpotrivă, îi vei da și pe acești orfani, bine înzestrați, ca să lupte și dânșii pentru El.</p>
             <p>și privirea bătrânului, se pierdu par-că în adâncimea vremii viitoare, inspirată, profetică, licărind tainic...</p>
             <p>Decembrie, 1908.</p>
-            <trailer>— SFÂRșIT —</trailer>
+            <trailer>— SFÂRȘIT —</trailer>
          </div>
       </body>
    </text>

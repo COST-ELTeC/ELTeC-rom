@@ -10,7 +10,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>CIOCOII VECHI șI NOI SAU „CE NAșTE DIN PISICĂ șOARECI MĂNÂNCĂ"!. Romanț original: ELTeC edition</title>
+            <title>CIOCOII VECHI ȘI NOI SAU „CE NAȘTE DIN PISICĂ ȘOARECI MĂNÂNCĂ"!. Romanț original: ELTeC edition</title>
             <author>Filimon, Nicolae(1819-l865)</author>
             <respStmt>
                <resp>codare ELTeC</resp>
@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -40,7 +40,7 @@
          <sourceDesc>
             <bibl type="printSource">
                <author>N. Filimon</author>
-               <title>CIOCOII VECHI șI NOI SAU „CE NAșTE DIN PISICĂ șOARECI MĂNÂNCĂ"!</title>
+               <title>CIOCOII VECHI ȘI NOI SAU „CE NAȘTE DIN PISICĂ ȘOARECI MĂNÂNCĂ"!</title>
                <pubPlace>Craiova</pubPlace>
                <publisher>Scrisul românesc</publisher>
                <date>1942</date>
@@ -48,7 +48,7 @@
             </bibl>
             <bibl type="firstEdition">
                <author>N. Filimon</author>
-               <title>CIOCOII VECHI șI NOI SAU „CE NAșTE DIN PISICĂ șOARECI MĂNÂNCĂ"!</title>
+               <title>CIOCOII VECHI ȘI NOI SAU „CE NAȘTE DIN PISICĂ ȘOARECI MĂNÂNCĂ"!</title>
                <pubPlace>Bucharest</pubPlace>
                <date>1863</date>
             </bibl>
@@ -69,6 +69,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -82,15 +83,15 @@
          <div type="titlepage">
             <p>CLASICII</p>
             <p>ROMÂNI</p>
-            <p>COMENTAțI</p>
+            <p>COMENTAȚI</p>
             <milestone unit="line"/>
             <p>SUB ÎNGRIJIREA</p>
-            <p>DLUI N.CARTOJAN</p>
+            <p>DLUI N. CARTOJAN</p>
             <p>PROFESOR UNIVERSITAR</p>
             <milestone unit="line"/>
-            <p>N.FILIMON</p>
+            <p>N. FILIMON</p>
             <p>CIOCOII</p>
-            <p>VECHI șI NOI</p>
+            <p>VECHI ȘI NOI</p>
             <p>ROMAN SOCIAL</p>
             <p>COMENTAT DE:</p>
             <p>GEORGE BAICULESCU</p>
@@ -99,10 +100,10 @@
          </div>
          <div type="titlepage">
             <p>CIOCOII VECHI SI NOI</p>
-            <p>SAU „CE NAșTE DIN PISICĂ</p>
-            <p>șOARECI MĂNÂNCĂ"!</p>
+            <p>SAU „CE NAȘTE DIN PISICĂ</p>
+            <p>ȘOARECI MĂNÂNCĂ"!</p>
             <milestone unit="line"/>
-            <p>DEDICAțIE</p>
+            <p>DEDICAȚIE</p>
             <milestone unit="line"/>
             <p>
                <foreign>

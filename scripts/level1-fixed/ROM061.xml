@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -64,6 +64,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -107,7 +108,7 @@
                <p>Frații nu fuseseră nici o dată legați prin vre-o dragoste deosebită.</p>
                <p>Copii mici adesea se bateau de la strachina cu mîncare ori de la bucățica de pîine. O duceau greu în insula lor stearpă, cu petecul de pămînt pietros și cu cei cîți-va măslini. După ce pămîn-tul le-a înghițit cea mai duioasă milă, mama, în multe seri se culcau flămînzi, pînă ce într-o zi au luat, împreună cu tatăl lor, drumul pribegiei, cu cîți-va galbeni ce căpătaseră din vînzarea pămîntului și a doo sărăcii de capre. Cu atîta sosiseră din Grachia în București, orașul aurului, cum îl numeau ei.</p>
                <p>Ceva mai mărișori, au fost despărțiți, căutînd fiecare să-și croească o soartă mai bună. Dar, ori cum, în fața morței, rar om poate remînea de piatră: sînt și datorii sociale, cari se impun, fie chiar numai de ochii lumei. Hristea simțea toate acestea fără a și le spune răspicat.</p>
-               <p>Remase cîtva pe gînduri, deși mult nu era de chibzuit. Trebuea să plece cît mai grabnic. știa că daraverile luî Nicola craÎi arendări de moșÎi, datorÎi pe la oameni,, contracte de închirieri și altele multe, pe cari el nu le pricepea. Ba anul acesta, îl momise și pe dînsul să pue parte la cîte-va sute de pogoane islaz. Toate acestea îl necăjeau cumplit. Să descurci ce altul a încurcat, să te amesteci în încurcături, pe cari nu le știi, nu e lesne.</p>
+               <p>Remase cîtva pe gînduri, deși mult nu era de chibzuit. Trebuea să plece cît mai grabnic. știa că daraverile luî Nicola craÎi arendări de moȘÎi, datorÎi pe la oameni,, contracte de închirieri și altele multe, pe cari el nu le pricepea. Ba anul acesta, îl momise și pe dînsul să pue parte la cîte-va sute de pogoane islaz. Toate acestea îl necăjeau cumplit. Să descurci ce altul a încurcat, să te amesteci în încurcături, pe cari nu le știi, nu e lesne.</p>
                <p>Tot soiul de gînduri se ișcau și piereau fără a primi botezul graiului. Să urmeze mai departe cu întreprinderile lui Nicola era peste putință, întîiu că nu se pricepea la moșii, al doilea n-ar fi voit nici cu un chip să părăsească treburile de bancherie și camătă, unde se cîștigă mult de tot. Anul acesta se procopsise bine cu lozurile turcești și cu alte cîte-va daraveri, în cît își zicea: „De-mi merge tot astfel, nu e lucru mare să fiu milionar”.</p>
                <p>Mereu clătina desnădejduit din cap primblîn-du-se: „Ce cumpănă, ce întâmplare! Sărmanul Nicola!...Bine că e toamnă, peste iarnă am timp să desfac tot”.</p>
                <p>— Ene! Vinerea n-avem diligență pentru Rușii-de-Vede? zise el băiatului, care intrase în comptuar, pe ușa de din dos.</p>
@@ -222,7 +223,7 @@
                <head>III</head>
                <p>Hristea plecase grăbit, cufundat în tot soiul de gînduri. Ar fi dorit să se vază cît mai curînd la moșie, să afle ce-a fost cu frate-so și ce-i cu averea. I se părea că totul se lezerește ca după un potop, fÎind lăsată averea pe mîini străine.</p>
                <p>De și spusese surorei ce nenorocire îl aduce ca s-o ia pe Susana, tot îl făcură s-aștepte aproape un ceas.</p>
-               <p>Susana trebuea supusă la toate lecțÎile, ce se făceau fetelor la plecare. Surorile aveau ca principiu de-a slei în copilă ori-ce sentiment de familie.</p>
+               <p>Susana trebuea supusă la toate lecȚÎile, ce se făceau fetelor la plecare. Surorile aveau ca principiu de-a slei în copilă ori-ce sentiment de familie.</p>
                <p>Cînd Susana aretă surorei bucuria de-a-și vedea' unchiul și voea s-alerge să-l primească, aceasta cu-n gest rece, o opri.</p>
                <p>— Copila mea, întîiu trebue să vezi pe maica directoare.</p>
                <p>Directoarea sta cu privirile pe-o carte de rugăciuni. La intrarea Susanei, nici nu ridică ochii, copila cu sora, stătură vre-un sfert de ceas. În sfîrșit, maica înnălță ochii, zicînd:</p>
@@ -246,7 +247,7 @@
                <p>La cîmp, cu toată umezeala, ceața se mai ridicase, lăsînd să se vază verdeața fragedă de toamnă. Prin locurile mai joase pîcla plutea ca niște nourași, coboriți din cer pe pămînt. Grîul de toamnă resărise, era ca un covor verde și moale. Iarba uscată de seceta verei înverzise pe delăturile drumului, di-ncolo de șanțul șoselei. copiii priveau în neștire, cu ochii duși în depărtare, fermecătoarelor câmpÎi. Hristea căuta și el cu nesaț, la atâtea bogății ce i se desfășurau ochilor. Nu se uita la nourii ce se fugăreau cu vrăjmășie în largul cerului, nici la geana albastră ce se ivea sfioasă din spre resărit.</p>
                <p>„În viață, ca și pe drum, uită-te pe unde calci. Numai zănatecii, privind norii, își sparg capul de bolovani; omul cuminte privește pămîntul”.</p>
                <p>Gustul pentru iconomie era la Hristea atît de mare, că răsipa chiar a altora îl supăra. Se uita cu jale la șușenița verde de pămînt ce se-ntindea di-ncolo de șanț, nearată și prin care oamenÎi bătuseră cărare. Făcea socoteala cîte pogoane de pămînt se pierd în zadar.</p>
-               <p>De o dată, pe cărare, zărește ceva înnegrind. La cîți-va pași, opri trăsura, sub cuvînt să-și mai desmorțească picioarele: se-ntoarse îndărăt, lo ce văzuse: era o pungă. În ea erau vre-o trei galbeni și ceva mărunțiș. Hristea gîndi, mulțumit: „BanÎi de găsit sînt cu noroc. Tot e mai procopsit cel ce se uită la pămînt.” Puse punga bine și se urcă în trăsură. După o bucată de drum intîlniră un om care mergea cu ochii pironiți pe cărare; căuta ceva. Hristea gîndi: „O fi cel cu punga. Nu-i păcat să capete o lecție. Altă dată și-o păzi banÎi mai bine. LecțÎile neplătite nu se țin minte. De cînd m-am pomenit, n-am pierdut nimic. Un nasture, de era slab, îl întăream. Grija prea multă nu aduce pagubă. Poftim, se uită pe unde merge! Era bine de se uita înnainte. Cine n-are luare aminte, fie chiar și pentru cele mai mici lucruri și nu e destul de treaz, chiar cînd doarme, nu va face avere.</p>
+               <p>De o dată, pe cărare, zărește ceva înnegrind. La cîți-va pași, opri trăsura, sub cuvînt să-și mai desmorțească picioarele: se-ntoarse îndărăt, lo ce văzuse: era o pungă. În ea erau vre-o trei galbeni și ceva mărunțiș. Hristea gîndi, mulțumit: „BanÎi de găsit sînt cu noroc. Tot e mai procopsit cel ce se uită la pămînt.” Puse punga bine și se urcă în trăsură. După o bucată de drum intîlniră un om care mergea cu ochii pironiți pe cărare; căuta ceva. Hristea gîndi: „O fi cel cu punga. Nu-i păcat să capete o lecție. Altă dată și-o păzi banÎi mai bine. LecȚÎile neplătite nu se țin minte. De cînd m-am pomenit, n-am pierdut nimic. Un nasture, de era slab, îl întăream. Grija prea multă nu aduce pagubă. Poftim, se uită pe unde merge! Era bine de se uita înnainte. Cine n-are luare aminte, fie chiar și pentru cele mai mici lucruri și nu e destul de treaz, chiar cînd doarme, nu va face avere.</p>
                <p>Cu asemenea gînduri alunga durerea, ce din cînd în cînd îî mișca inima. copiii stăteau cam triști; trecuse de mult amiaza și nu mîncaseră nimic.</p>
                <p>— V-o fi foame, copii, zise Hristea, dîndu-le cîte doo smochine și cîte un covrig.</p>
                <p>— Ma-ta nu mănînci, unchiule? zise Susana.</p>

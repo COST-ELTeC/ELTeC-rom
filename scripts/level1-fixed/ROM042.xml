@@ -29,7 +29,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -42,7 +42,7 @@
             <bibl type="printSource">
                <author>C. SANDU-ALDEA</author>
                <title>DOo NEAMURI</title>
-               <note>EDIțIA IV-a ILUSTRATĂ</note>
+               <note>EDIȚIA IV-a ILUSTRATĂ</note>
                <pubPlace>Bucuresci</pubPlace>
                <publisher>EDITURA „CARTEA ROMÂNEASCAˮ S. A</publisher>
                <date>1925</date>
@@ -72,6 +72,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -86,8 +87,8 @@
          <div type="titlepage">
             <p>C. SANDU-ALDEA</p>
             <p>DOo NEAMURI</p>
-            <p>EDIțIA IV-a ILUSTRATĂ</p>
-            <p>BUCUREșTI</p>
+            <p>EDIȚIA IV-a ILUSTRATĂ</p>
+            <p>BUCUREȘTI</p>
             <p>EDITURA „CARTEA ROMÂNEASCAˮ S. A.</p>
          </div>
          <pb/>
@@ -125,7 +126,7 @@
          <gap n="[editorial]" unit="graphic"/>
          <div type="chapter" n="1">
             <head>I.</head>
-            <head>UN ARENDAș.</head>
+            <head>UN ARENDAȘ.</head>
             <p>Iani Livaridi intrase acum cinci ani ca arendaș pe moșia Vultureasca, depe malul Dunărei, cale ca de un conac dela gara Sălcuței.</p>
             <p>Gurile rele spuneau că acest venetic fusese pe vremuri plăcintar și că prin drămăluirea mărfii, prin cumplită zgâr-cenie și prin cămătărie izbutise a-și ago-nisi un capital frumușel, cu care s-a apucat de arendășie.</p>
             <p>Alții — mai iscodaci — țineau morțiș că Livaridi găsise într-un beciu o căldare plină cu lire turcești și de atunci par-că-i pusese Dumnezeu mâna-n cap.</p>
@@ -280,7 +281,7 @@
          <gap n="[editorial]" unit="graphic"/>
          <div type="chapter" n="2">
             <head>II.</head>
-            <head>DESPĂRțIRE.</head>
+            <head>DESPĂRȚIRE.</head>
             <l>
                <quote>
                   <hi>Iar în schimb cu-averea toată vre-un</hi>
@@ -516,7 +517,7 @@
          <gap n="[editorial]" unit="graphic"/>
          <div type="chapter" n="3">
             <head>III.</head>
-            <head>LA țARĂ.</head>
+            <head>LA ȚARĂ.</head>
             <p>Ilie Măcieș înmărmurise ca o statuie în balconul înnecat de lumină.</p>
             <p>Din seninul înnaltului cer înstelat se revărsa și plutia peste întreaga fire acea nețărmuită și aromitoare liniște care ne face să uităm, să visăm, să iubim.</p>
             <p>Câmpia-ncărcată de holde dormia supt poleiul lunii. Plopii din fața caselor aveau pe trunchiuri o strălucire de argint viu. Apele Dunării licăriau printre bu-chete de sălcii și pârtia de lumină zvârlită pe ele de lună părea o vărgă-tură lată de aur, țesută într-o pânză uriașă.</p>
@@ -836,7 +837,7 @@
          <gap n="[editorial]" unit="graphic"/>
          <div type="chapter" n="5">
             <head>V.</head>
-            <head>TINEREțE.</head>
+            <head>TINEREȚE.</head>
             <p>Când mai era ca vr-un cias pân-la zio, Curpen fu în picioare. Iși ridică ochii în sus, să vază cum e vremea, apoi începu să care și să așeze în căruță tot ce-i trebuia în ziua aceia: merinde, găteje de foc, cujba, pripoanele cailor, nicovele și ciocane de coasă, bota de apă astupată cu un șomoiegel de miez de papură, și un buriaș cu rachiu. Unse apoi osiile, adăpă caii și-i aduse la căruță, le puse gurile de ham în piept și legă tivgește opri-torile în capătul oiștei. Câinele se repezi la poartă, lătrînd. Doo umbre se apro-piară, crescură și din ele se lămu-riră doi flăcăi cu coasele pe umere: Ne-culai Pleșca și Onea Plavie.</p>
             <p>— Bună dimineața, neică Marine!</p>
             <p>Așa-i ziceau învățătorului toți flăcăii și toate fetele din sat. Oamenii mai bătrâni îi ziceau „nepotul Marinică”.</p>
@@ -1228,7 +1229,7 @@
          <gap n="[editorial]" unit="graphic"/>
          <div type="chapter" n="8">
             <head>VIII.</head>
-            <head>ÎNVRĂJBIțI.</head>
+            <head>ÎNVRĂJBIȚI.</head>
             <p>Iar pleci, măiculiță?... Iar?</p>
             <p>Flăcăul nu răspunse nimic. Iși îm-brăcă bine zeghea pe mâneci, puse mâna pe o scurtătură de corn de după ușă și ieși afară, în noapte și în viscol.</p>
             <p>Mama lui clătină din cap:</p>
@@ -2155,7 +2156,7 @@
          <gap n="[editorial]" unit="graphic"/>
          <div type="chapter" n="15">
             <head>XV.</head>
-            <head>OGORUL STRĂMOșESC.</head>
+            <head>OGORUL STRĂMOȘESC.</head>
             <p>Duminica Rusaliilor.</p>
             <p>Neculai Pleșea venia în permisie la Vultureasca: i-se dăduse voie pe cinci zile să-și vadă părinții. La gara Sălcuței se coborîse din tren și o luase pe jos, alergând drumeacurile și potecile ce tăiau mai de-a dreptul spre satul lui.</p>
             <p>Mergea repede ca omul dedat cu dru-mul. De jur împrejurul lui se întindea nemărginită marea sămănăturilor verzi. Porumburile erau pe alocuri prășite a doua oară, rapița auria în strălucirea soarelui, grâul băgase spic. O liniște mare, o liniște de sărbătoare plutia în tot cuprinsul, dar în liniștea aceea viața tainică a asemănătorilor nu înceta nici o clipă.</p>

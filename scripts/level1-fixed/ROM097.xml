@@ -33,7 +33,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -64,6 +64,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-08-16">Annotation in ELTeC format: Smărăndița Vasilachi, Lucretia Pascariu</change>
@@ -80,9 +81,9 @@
             <p>UN BOEM ROMÂN</p>
             <p>DE</p>
             <p>PANTAZI GHICA.</p>
-            <p>ROMANț</p>
+            <p>ROMANȚ</p>
             <p>PARTEA I.</p>
-            <p>COPILĂRIA șI ADOLESCENțA</p>
+            <p>COPILĂRIA ȘI ADOLESCENȚA</p>
             <p>Bucuresci</p>
             <p>Tirografia jurnalului Nationalul , otel  Bosesl.</p>
             <p>1860</p>
@@ -891,7 +892,7 @@
          </div>
          <div type="group" n="2">
             <head>PARTEA II.</head>
-            <head>STREINATATE șI STUDIU</head>
+            <head>STREINATATE ȘI STUDIU</head>
             <div type="chapter" n="1">
                <head>I.</head>
                <head>LA PARIS.</head>

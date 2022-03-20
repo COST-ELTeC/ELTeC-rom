@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -42,7 +42,7 @@
                <author>Fundescu, I. C.</author>
                <title>Scarlat</title>
                <pubPlace>Bucharest</pubPlace>
-               <publisher>TIP. NAțIONALĂ C. N. RĂDULESCU</publisher>
+               <publisher>TIP. NAȚIONALĂ C. N. RĂDULESCU</publisher>
                <date>1875</date>
                <ref target="http://doi.org/10.5281/zenodo.4589288">Facsimile on zenodo</ref>
             </bibl>
@@ -63,6 +63,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -429,7 +430,7 @@
                <p>Când  asculta, nu plângea dear  facia i se posomora. Apoi ceru cartea și o reciti singur .</p>
                <p>eată acea poesiă:</p>
                <quote type="verse">
-                  <p>SUFERINțA</p>
+                  <p>SUFERINȚA</p>
                   <l>Cine esci tu și pentru ce amoral  tău</l>
                   <l>Face atâta re .</l>
                   <p>G. Sand.</p>

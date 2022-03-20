@@ -25,7 +25,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -66,6 +66,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -81,7 +82,7 @@
             <p>VALEA ALBĂ</p>
             <p>ROMAN EROIC</p>
             <p>1476</p>
-            <p>BUCUREșTI</p>
+            <p>BUCUREȘTI</p>
             <p>MINERVA Institut de</p>
             <p>arte grafice și editură</p>
             <p>Bulevardul Academiei 3</p>
@@ -89,7 +90,7 @@
          </div>
          <div type="liminal">
             <gap n="[missing]" unit="page" quantity="1"/>
-            <head>RĂSPUNS CÂTORVA OBIECțIUNI CRITICE</head>
+            <head>RĂSPUNS CÂTORVA OBIECȚIUNI CRITICE</head>
             <p>Lucrarea de față, — a cărei primă ediție, apărută în 1904, n-a putut fi pusă la îndemâna publicului cititor din pricină că Ministerul, Instructiunei Publice a cumpărat, aproape întreaga edițiune, pentru Casa școalelor,—a avut fericirea să stârnească, în presa noastră literară, câteva discuțiuni critice de seamă.</p>
             <p>Unii recenzenli azi lăudat, fără rezerve, această lucrare, aducând chiar elogii autorului ei: fapt pentru care, de și nu am cuvânt să mă socotesc la înnăllimea acelor elogii, totuș (in de datoria mea să mulțumesc si să rămân recunoscător celor ce-au arătat o atât de înflăcărată bunăvoință rodului ostenelelor mele.</p>
             <p>Alți cercetători azi Tăcut, din potrivă, deosebite observațiuni critice, sub raportul literar și istoric, romanului de față.</p>
@@ -153,7 +154,7 @@
          <div type="group" n="1">
             <head>CARTEA I</head>
             <div type="chapter" n="1">
-               <head>SPRE MUNțI</head>
+               <head>SPRE MUNȚI</head>
                <head>I.</head>
                <p>Eră o noapte caldă și senină de Iulie...</p>
                <p>Jupaneasa Ruxandra și jupânița Negri stau în poli mar, tăinuind în șoapte.</p>
@@ -2495,7 +2496,9 @@
                <p>Omar rânji.</p>
                <p>El le vorbi de pedeapsa ce-i așteaptă în țara lor, în sânul Dyennetului.</p>
                <p>Apoi le repetă, cu glas pătrunzător, perceptele așternute, „de însă-și mâna Profetului”, pe marele Aliem)</p>
-               <p><quote>„Toți să moară, și nimeni să nu jelească viața, pentru legea lui Mohamed...”</quote></p>
+               <p>
+                  <quote>„Toți să moară, și nimeni să nu jelească viața, pentru legea lui Mohamed...”</quote>
+               </p>
                <p>Vistiernicul Cazan ridică batjocoritor din umeri...</p>
                <p>Vornicul Dragan își întoarse ochii spre „pădurile” ce se înnălțau, sure și nedeslușite, la spatele lor, către apus...</p>
                <p>Din neguri se auzi, atunci, glasul Marelui Vis-ternic Juga, poruncind scurt și înțepat:</p>
@@ -4106,7 +4109,9 @@
                <p>„Iacă: în fața voastră și la picioarele acestui sfânt otar, — urmă Domnul, — mă leg azi cu greu jurământ; să nu-mi plec capul pe căpătâiu, să nu mă odihnesc, să nu pui strop de apă pe buzele mele, până ce nu voi vedea moșia Moldovei scoasă iarăși din ghiarele păgânului...</p>
                <p>urmați pilda Domnului Vostru...</p>
                <p>și în nici una din grelele voastre încercări, nu uitați cuvintele Ziditorului:</p>
-               <p><quote>„De vei avea credință cât un grăunte de muștar, muntelui de vei zice să se mute, muntele se va muta.”</quote></p>
+               <p>
+                  <quote>„De vei avea credință cât un grăunte de muștar, muntelui de vei zice să se mute, muntele se va muta.”</quote>
+               </p>
                <p>La amintirea acestei despărțiri amare, Arbore se simți năpădit de plâns...</p>
                <p>Lacrimi mari-i picuriră dintre gene, pe armurile sale înnegrite de sânge, pe degetele lui înghețate de fiori.</p>
                <p>El își aduse aminte de chipul sfâșietor de jalnic în oare s-a deslipit de inima Domnului.</p>

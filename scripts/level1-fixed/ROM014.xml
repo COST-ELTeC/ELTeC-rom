@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -59,6 +59,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -73,7 +74,7 @@
          <div type="titlepage">
             <p>CATASTIHUL AMORULUI</p>
             <p>și LA GURA SOBEI</p>
-            <p>Ediție îngrijită studiu introductiv note și comentarii de DUMITRU BĂLĂEț</p>
+            <p>Ediție îngrijită studiu introductiv note și comentarii de DUMITRU BĂLĂEȚ</p>
             <p>Editura Dacia — CIuj-Napoca 1986</p>
          </div>
          <div type="liminal">
@@ -181,14 +182,14 @@
             <gap n="[missing]" unit="page" quantity="19"/>
          </div>
          <div type="liminal">
-            <head>NOTĂ ASUPRA EDIțIEI</head>
+            <head>NOTĂ ASUPRA EDIȚIEI</head>
             <gap n="[missing]" unit="page" quantity="3"/>
          </div>
       </front>
       <body>
          <div type="chapter">
             <head>CATASTIHUL AMORULUI</head>
-            <head>O PREFAțĂ CARE NU ESTE PREFAțĂ</head>
+            <head>O PREFAȚĂ CARE NU ESTE PREFAȚĂ</head>
             <p>Scena se petrece în capul servitorelui dumneavoastră.</p>
             <p>La dreapta și la stîngă paradoxe, reflecțiuni, proiecte, fragmente începute1, suveniri, speranțe, căințe.</p>
             <p>în scurt niște mobile de simpli creeri, dar de ajuns.</p>
@@ -1072,7 +1073,7 @@
             <p>Văduva unui onorabile colonel italian, mort din cauza unei răni ce a primit luptîndu-se pentru cauza sacră, am închinat acestei memorii un cult ce nu se va fini decît cu zilele mele, și de aceea m-am retras în București, ca să pot, necunoscută de nimeni, a mă da cu totul durerii mele.</p>
             <p>Cu toate acestea, domnule, în calitatea dumitale de străin care nu cunoști particularitățile vieței mele, cată să-ți iert inconveniența purtării dumitale. Voi fi fericită chiar de a ști că te.călești de chipul nerușinat cu care mi-ai oferit inima dumitale și că lecțiunea ți-a profitat.</p>
             <p>Primește, domnule etc.</p>
-            <p>MARțI</p>
+            <p>MARȚI</p>
             <p>
                <hi>De la aceeași către același</hi>
             </p>
@@ -1148,7 +1149,7 @@
             <p>Sița</p>
          </div>
          <div type="chapter">
-            <head>VIII. POPICĂ șI LĂZĂRICĂ</head>
+            <head>VIII. POPICĂ ȘI LĂZĂRICĂ</head>
             <head>
                <hi>—Scenă intimă—</hi>
             </head>
@@ -1296,7 +1297,7 @@
             <p>Pentru asta, drăguță, tu ai cuvînt. Greșala este a lui Popică... el nu este un om cu care să ai a face. Dă-l pe ușă afară, și îmbrățișează-mă!...</p>
          </div>
          <div type="chapter">
-            <head>IX.șUVIțA UE PĂR</head>
+            <head>IX.ȘUVIȚA UE PĂR</head>
             <head>
                <hi>(Roman realist)</hi>
             </head>
@@ -1537,7 +1538,7 @@
             <p>Cînd o voce feminină te va consilia să-ți scoți flanela, teme-te!</p>
          </div>
          <div type="chapter">
-            <head>XI. ASEDIUL șI LUAREA AMICULUI MEU PINGEALĂ</head>
+            <head>XI. ASEDIUL ȘI LUAREA AMICULUI MEU PINGEALĂ</head>
             <p>
                <label>Recunoașterea locului</label>
             </p>

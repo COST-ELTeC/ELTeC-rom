@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -59,6 +59,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -71,19 +72,19 @@
    <text>
       <front>
          <div type="titlepage">
-            <p>GHIțĂ CĂTĂNUțĂ</p>
+            <p>GHIȚĂ CĂTĂNUȚĂ</p>
             <p>CĂPITAN DE HAIDUCI</p>
             <p>NUVELĂ ORIGINALĂ</p>
             <p>DE</p>
             <p>PANAIT MACRI</p>
-            <p>BUCUREșTI</p>
+            <p>BUCUREȘTI</p>
             <p>Editura Librăriei și Tipografiei H. STEINBERG</p>
             <p>94, Strada Lipscani, 94</p>
          </div>
       </front>
       <body>
          <div type="chapter">
-            <head>GHIțĂ CATĂNUțĂ, CĂPITAN DE HAIDUCI</head>
+            <head>GHIȚĂ CATĂNUȚĂ, CĂPITAN DE HAIDUCI</head>
             <head>Ziua omorului.</head>
             <p>Era la anul 1800, adică cu vre-o 20 de ani înainte de ivirea acelui mare haiduc <quote type="name">„Andreiu Popa”</quote>ucis în cele din urmă, după porunca lui șuțu, de vornicul <hi>Mihaiu Cozoni</hi>
             </p>
@@ -593,7 +594,7 @@
             <p>—Parcă s-ar fi bagat în pământ! adăugară alții.</p>
             <p>Odată însă o poteră se opri dinaintea ușei</p>
             <p>—Stăpâne, zice capul acelei poteri, cruntul haiduc, Ghiță Catanuța, după a căror urme am plecat, a omorât astâ-zi pe poteca numită a hoțului, pe un biet turc care venea spre oraș.</p>
-            <p>—Nu poate! exclamă cel de la masa dreptății. Ghița Catanuța a fost aici și a împușcat pe Efendi Varulachi își isprăvi cuvântul din, urmă-șMată--că intră și arvanitul Chir Spiru?</p>
+            <p>—Nu poate! exclamă cel de la masa dreptății. Ghița Catanuța a fost aici și a împușcat pe Efendi Varulachi își isprăvi cuvântul din, urmă-ȘMată--că intră și arvanitul Chir Spiru?</p>
             <p>— Pentru toți dracii! zise acesta. Ghiță Cătănuță, mi-a astupat gura și mi-a furat toți banii!</p>
             <p>Tot în vremea asta, iată că intră și un preot.</p>
             <p>— Oameni ai dreptăței! zise el, hoțul Ghiță Cătănuță, a venit astăzi la mine, m-a închis în beciu, m-a prădat și dispărut.</p>
@@ -2036,7 +2037,7 @@
             <p>El se așezase în sat, venise într-o dimineață și dăduse veste că tot omul care e sărac și n-are cu ce-si tine casa sa vină la el spre a-i ajuta.</p>
             <p>și a dat, în adevăr, multe ajutoare, a alinat multe suferințe. Cu toate acestea nu era noapte fără ca cineva să nu-l vadă plângând pe câmpuri, fugind de la un loc îa altul si strigând:</p>
             <quote>
-              <p>Iartă-mă Dumnezeule! Iartă-mă!</p>
+               <p>Iartă-mă Dumnezeule! Iartă-mă!</p>
             </quote>
             <p>Cine să fie așa dar acest misterios bătrân?</p>
          </div>

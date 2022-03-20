@@ -33,7 +33,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -64,6 +64,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-09-15">Annotation in ELTeC format: Smarandita Vasilachi, Lucretia Pascariu</change>
@@ -118,7 +119,7 @@
             <head>RADU BUZESCU.</head>
             <milestone unit="line"/>
             <head>CAPITOL ÎNTiu.</head>
-            <head>HAREMUL șI CONDAMNATA</head>
+            <head>HAREMUL ȘI CONDAMNATA</head>
             <milestone unit="section" n="1"/>
             <p>I.</p>
             <p>La anul l595, temerea cea mai mare domina în vechea cetate Rușcug ; glorioasele victorii reputate de armiea romînă se răspîndise în tot imperiul, și la numele Mi h a i u! tremura tot musulmanul.</p>
@@ -361,7 +362,7 @@
          </div>
          <div type="chapter" n="2">
             <head>CAPITUL AL DOILEA.</head>
-            <head>MISTERUL șI SCĂPAREA.</head>
+            <head>MISTERUL ȘI SCĂPAREA.</head>
             <milestone unit="section" n="1"/>
             <p>I.</p>
             <p>Gurgu este liberat! semi-luna au dispărut d-asupra gamiilor sfărîmate și stendardele romîne fîlfîe pe turnurile cătățui... Însigniile sînte-i cruci, apare în tot locul și bucuria aleargă din inimă în inimă... lima de aramă care patruzeci de ani nu sau mai auzit aici, este aninată d-asupra ruinelor și prin sunetul ce sloboade, vestește orele de rugăcune.</p>
@@ -556,7 +557,7 @@
          </div>
          <div type="chapter" n="3">
             <head>CAPITUL AL TREILEA.</head>
-            <head>AMORUL șI NARAțIUNEA</head>
+            <head>AMORUL ȘI NARAȚIUNEA</head>
             <milestone unit="section" n="1"/>
             <p>I.</p>
             <p>Venus Sclavă ordinelor destinului, aleargă să investe pe grațiosul ei copil cu daurita-i tolbă, ce este încărcată de pericoloase săgeți... îi amînă celebrul arc, care nici odată n-a greșit în încordarea sa și care pătrunde fără pietate centrul inimilor celor mai nesimțibile... îl consultă cu îndoită stăruință, și îi arată toată dibăciea necesară la înteprinderea ce este să facă.</p>
@@ -1047,7 +1048,7 @@
          </div>
          <div type="chapter" n="4">
             <head>CAPITUL AL PATRULEA</head>
-            <head>RESBELUL șI AMANTA</head>
+            <head>RESBELUL ȘI AMANTA</head>
             <milestone unit="section" n="1"/>
             <p>I</p>
             <p>La finele luni lui Decembrie, Iarna se arăta în toată asprimea sa... pămîntul era acoperit de zăpadă, Dunărea îngețase și castrele lagărului romîn după malul stîng, se transformase în bordee sup-terane.</p>
@@ -1398,7 +1399,7 @@
          </div>
          <div type="chapter" n="5">
             <p>CAPITUL AL CINCILEA.</p>
-            <p>TRĂDĂTORUL șI FATALITATES</p>
+            <p>TRĂDĂTORUL ȘI FATALITATES</p>
             <milestone unit="section" n="1"/>
             <p>I.</p>
             <p>Palmira și Pașa eșiră din cetate amîndoi călări pe doi iuți cursieri, și apucară drumul către șiștov, unde nădăjduea Pașa să găsească vre-un ajutor armat.</p>
@@ -1904,7 +1905,7 @@
       </body>
       <back>
          <div type="liminal">
-            <p>LA ACEEAși LIBRĂRIE</p>
+            <p>LA ACEEAȘi LIBRĂRIE</p>
             <p>Se publicâ annual Biblioteca Litterarie seria 3-a compusâ de 300 a 320 coale în 8 de:</p>
             <p>
                <title>

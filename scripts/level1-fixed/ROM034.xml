@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -63,6 +63,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -74,9 +75,9 @@
    <text xml:lang="ro">
       <front>
          <div type="titlepage">
-            <p>ALDO șI AMINTA</p>
+            <p>ALDO ȘI AMINTA</p>
             <p>sau</p>
-            <p>BANDIțII</p>
+            <p>BANDIȚII</p>
             <p>DE</p>
             <p>C. BOERESCU</p>
             <p>BUchURESTI.</p>
@@ -96,9 +97,9 @@
       </front>
       <body>
          <div type="group" n="1">
-            <p>ALDO șI AMINTA</p>
+            <p>ALDO ȘI AMINTA</p>
             <p>Sau</p>
-            <p>BANDIțI</p>
+            <p>BANDIȚI</p>
             <p>PARTEA I.</p>
             <quote>
                <p>Les actions des hommes sont une semence féconde répandue sur les champs obscurs de l-avenir, confiée avec espérance aux divinités fatales.</p>

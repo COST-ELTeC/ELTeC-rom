@@ -25,7 +25,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -38,7 +38,7 @@
             <bibl type="printSource">
                <author>Ioan Slavici</author>
                <title>Din doo lumi. Narațiune</title>
-               <pubPlace>BUCUREșTI</pubPlace>
+               <pubPlace>BUCUREȘTI</pubPlace>
                <publisher>Editura Librăriei SOCEC and Co, Societate Anonimă</publisher>
                <date>1920</date>
                <ref target="http://doi.org/10.5281/zenodo.3719523">Facsimile on zenodo</ref>
@@ -46,7 +46,7 @@
             <bibl type="firstEdition">
                <author>Ioan Slavici</author>
                <title>Din doo lumi. Narațiune</title>
-               <pubPlace>BUCUREșTI</pubPlace>
+               <pubPlace>BUCUREȘTI</pubPlace>
                <publisher>Editura Librăriei SOCEC and Co, Societate Anonimă</publisher>
                <date>1920</date>
             </bibl>
@@ -67,6 +67,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -81,7 +82,7 @@
          <div type="titlepage">
             <p>DIN</p>
             <p>DOo LUMI</p>
-            <p>— NARAțIUNE —</p>
+            <p>— NARAȚIUNE —</p>
             <p>de</p>
             <p>I. SLAVICI</p>
             <p>București</p>
@@ -93,10 +94,10 @@
          <div type="titlepage">
             <p>DIN</p>
             <p>DOo LUMI</p>
-            <p>NARAțIUNE</p>
+            <p>NARAȚIUNE</p>
             <p>DE</p>
             <p>I. SLAVICI</p>
-            <p>BUCUREșTI</p>
+            <p>BUCUREȘTI</p>
             <p>Editura Librăriei SOCEC and Co., Societate Anonimă</p>
             <p>1920</p>
          </div>
@@ -615,7 +616,7 @@
                <p>„Ba să strângă bureți!” adăugă Gogu.</p>
                <p>Rîdeau cu toții, ba rîdea chiar și Văleanu el însu-și, și era în adevar lucru de rîs, ca un om ca dînsul, care trecuse prin atâtea și atâtea, să umble ca un copil — nici ei însu-și n-ar fi putut să spună după ce.</p>
                <p>Umbla însă și nu se mai putea opri.</p>
-               <p>Luni a stat, ca să-și arate sie, însu-și, ca poate și să nu umble — când fiu vrea; MarțP mse a plecat, un drum lung și obositor, la „urlă-toareˮ, ca să coboare de acolo la Poiana țapului.</p>
+               <p>Luni a stat, ca să-și arate sie, însu-și, ca poate și să nu umble — când fiu vrea; MarȚP mse a plecat, un drum lung și obositor, la „urlă-toareˮ, ca să coboare de acolo la Poiana țapului.</p>
                <p>Sosit însă la marginea pădurii, el nu îndrz-nia să iasă în poiană, ca dînsa să-l poata vedea. Ii era par-că în fiecare tufiș, în dosul fie-cârui copac, după fiecare stîncă stă câte cineva la pândă.</p>
                <p>În zadar făcuse drumul cel lung și greu, el tot trebuia să iasă-n lărgime, unde putea să-l vadă nu numai dînsa, ci și ori-și-care altul.</p>
                <p>Îndârjit în cele din urma ei, el își lo inima-n dinți și plecă-ntr-un un noroc la vale. Nu mai întreba cum, dacă stă cineva la pândă, și-ar fi fost în stare să dee năvala chiar în casa la ea. Fira ședea-n cerdac și tresări, par-că gata să fugă, când îl zări.</p>

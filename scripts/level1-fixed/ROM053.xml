@@ -25,7 +25,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -73,6 +73,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -104,7 +105,7 @@
             <p>1907.</p>
          </div>
          <div type="liminal">
-            <head>PREFAțA EDIțIEI DIN 1902.</head>
+            <head>PREFAȚA EDIȚIEI DIN 1902.</head>
             <p>Romanul de față, publicat pentru prima oară în revista Convorbiri literare din anii 1897-98a fost tradus în limba franceză și în limba italiană.</p>
             <p>Deși ambele traduceri sunt bune, textul original rămâne cu ființa sa a parte, câte odată poate chiarsuperior traducerilor, acolo unde limba reproducegândiri și imagini specific românești.</p>
             <p>Această constatare de fapt, care nici într-un caz nu trebue luată, ca o vană închipuire de sine, esteomagiul pe care generațiunea mea, îl aduce generațiunilor trecute, acelora ce au pregătit graiul nostru de astăzi, în care viitorul va pune începutul clasicismului.</p>
@@ -313,7 +314,7 @@
          </div>
          <div type="chapter" n="3">
             <head>III</head>
-            <p>A doua-zi, când Comăneșteanu ridică perdelele, piața teatrului era plină de apă. Câți-va birjari rătăciți strângeau burdufurile de la trăsuri, cu colțurile livrelei lor muscălești, prinse în brâu. El băgă de seamă, cu atenția aiurită a omului ce de-abia s-a deșteptat din somn, că, deși îmbrăcați muscălește, birjarii aceia ereau români. „Neapărat, gândi el, ori de câte ori e vorba de trudă, de muncă iobăgească, de alergat prin ploae și noroiu, străinul se ascunde și românul se trudește. El și cu gloabele lui. Uite-l colo. și-a pus șeapcă leșească în cap, rochie pe trup, dar î1 dau de gol mustățile. Soarele străbătea cu greu printre nori și, rar, câte o rază palidă venea să mai lumineze nevinovăția melancolică a bietului V din THEATRV NAțIONAL. Un pâlc de soldați trecu pe sub ferestre, mergând drept prin băltoacele de apă.</p>
+            <p>A doua-zi, când Comăneșteanu ridică perdelele, piața teatrului era plină de apă. Câți-va birjari rătăciți strângeau burdufurile de la trăsuri, cu colțurile livrelei lor muscălești, prinse în brâu. El băgă de seamă, cu atenția aiurită a omului ce de-abia s-a deșteptat din somn, că, deși îmbrăcați muscălește, birjarii aceia ereau români. „Neapărat, gândi el, ori de câte ori e vorba de trudă, de muncă iobăgească, de alergat prin ploae și noroiu, străinul se ascunde și românul se trudește. El și cu gloabele lui. Uite-l colo. și-a pus șeapcă leșească în cap, rochie pe trup, dar î1 dau de gol mustățile. Soarele străbătea cu greu printre nori și, rar, câte o rază palidă venea să mai lumineze nevinovăția melancolică a bietului V din THEATRV NAȚIONAL. Un pâlc de soldați trecu pe sub ferestre, mergând drept prin băltoacele de apă.</p>
             <p>Mihai se îmbrăcă încet, gândindu-se la întâmplările ce aveau să se desfășoare în curând. Peste doo zile trebuia să plece la Regiment.</p>
             <p>In liniștea dimineții, când închipuirea slăbește,</p>
             <p>și cu dânsa slăbesc trecătoarele avânturi de voință, oamenii imaginativi, mai mult de cât cei-l-alți, au nevoe de soare și lumină, spre a-și redobândi energia cheltuită în alcătuiri chimerice. Alt-fel,viața le apare săracă, o înlănțuire fragmentată de fapte nelogice. Pentru ce războiu? De ce să nu se dezvolte țara în pace? Atâtea schimbări erau de făcut din cele păcătoase ale trecutului, atâtea lucruri noo de introdus!... și apoi n-avea dreptate cumnatu-său, când zicea că ne lipsesc comandanții, generali? Soldatul era vânjos; dar cine să-l ducă la biruință?...</p>
@@ -2205,7 +2206,7 @@
             <p>Iar după mulți ani, târziu, când cele trecute se uitaseră, Sașa își ducea băiatul la școala militară din Iași. El se numea scum Alexandru Comăneșteanu, cum dorise mortul.</p>
             <p>Impotriva vointei lui tată-său, copilul stăruise cu ori-ce preț să se facă soldat. Poate că în mintea lui necoaptă străluceau pintenii și sabia; dar, desigur, în sufletul lui curat se ivea imaginea mortului în răsboiu, de la care moștenea numele și dragostea de pământul țării.</p>
             <p>Elena rămase singură de tot.</p>
-            <trailer>SFÂRșIT.</trailer>
+            <trailer>SFÂRȘIT.</trailer>
          </div>
       </body>
    </text>

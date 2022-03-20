@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -63,6 +63,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -79,8 +80,8 @@
             <p>Patimi</p>
             <p>ROMAN</p>
             <p>din</p>
-            <p>VIAțA ROMÂNEASCĂ</p>
-            <p>EDIțIA II</p>
+            <p>VIAȚA ROMÂNEASCĂ</p>
+            <p>EDIȚIA II</p>
             <p>BUCURESCI</p>
             <p>EDITURA LIBRĂRIEI C. SFETEA</p>
             <p>STRADA LIPSCANI NO.96</p>
@@ -5592,7 +5593,8 @@
                   <p>Iliescu deschise ușa și strigă:</p>
                   <p>— Ros-o, adă-mi un păhar de apa.</p>
                   <gap n="[illegible]"/>
-                  <p><gap n="[illegible]"/>Iliescu nu vroea să manance pescele alt fel.</p>
+                  <p>
+                     <gap n="[illegible]"/>Iliescu nu vroea să manance pescele alt fel.</p>
                   <gap n="[illegible]"/>
                   <p>— Bine, Ros-o, apa se dă goală? zise Ilieseu apucând-o de bărbie.</p>
                   <p>Cel puțin bună-i?</p>
@@ -5806,7 +5808,8 @@
                   <p>Pe la vre-o șoapte Maria sosi împreună cu doctorul. Era tot cel care-l căutase pe Mustea.</p>
                   <p>Îi istorisi, cum i-a venit reul dintro supărare mare.</p>
                   <gap n="[illegible]"/>
-                  <p><gap n="[illegible]"/> Cuconița n-a avut nici odată inima normală, dar trăind liniștită, la aer curat, ar fi dus-o mult.</p>
+                  <p>
+                     <gap n="[illegible]"/> Cuconița n-a avut nici odată inima normală, dar trăind liniștită, la aer curat, ar fi dus-o mult.</p>
                   <p>— Ce să me fac eu singură cu dînsa? Vă rog, domnule doctor, lăsați rețeta la farmacie sa mi-o trimeată prin servitor.</p>
                   <p>— Bucuros, domnișoară, zise doctorul.</p>
                   <p>Nu întrebă nimic; căci orașul întreg scia că-l prinsese pe Ilieseu cu servitoarea.</p>
@@ -5964,7 +5967,8 @@
                   <p>Închipuirea atât îi turburase mintea și demnitatea, în cât începuse a se crede vinovată că n-a plecat mai de mult în ajutorul lui.</p>
                   <p>Tot drumul plângea; călătorii credeau că merge la vre-o rudă scumpă, care a murit ori e pe moarte.</p>
                   <p>Aproape tot drumul nu-și ținu sufletul de cătun puțină supă ți cu ceaiu. N-avea deloc poftă de mâncare. Cercase să mănânce un corn și i se oprea în <gap n="[illegible]"/>.</p>
-                  <p><gap n="[illegible]"/> de oboseală.</p>
+                  <p>
+                     <gap n="[illegible]"/> de oboseală.</p>
                   <p>A doua zi de de dimineață era pe drumul spre Iliescu. Ajunse acolo cu mare greu și dupe ce o sfătui un Român să meargă <gap n="[illegible]"/> adresa otelului unde trăise <gap n="[illegible]"/> plecat de cîteva zile.</p>
                   <p>— Dar încotro pentru Dumnezeu? întrebă dînsa într-o franțusească schiloadă.</p>
                   <p>Chelnerul îî spuse că, pe cât a luat informații Iliescu despre plecarea trenurilor, trebue să fi apucat spre Italia.</p>
@@ -6262,7 +6266,8 @@
                   <p>Slujnba o lăsase încă de la plecare.</p>
                   <p>Era de mult în scris în barou.</p>
                   <gap n="[illegible]"/>
-                  <p>Avea pricipiile lui; <gap n="[illegible]"/></p>
+                  <p>Avea pricipiile lui; <gap n="[illegible]"/>
+                  </p>
                   <p>— Nu-i, bre, un merit șl spui, ca un papagal, după alții! Să poți da tu soluții.</p>
                   <p>Avea pretenții să fie om de afaceri delicate, și oamenii de afaceri se nasc nu se fac, zicea el.</p>
                   <p>și, ce-i drept, era foarte dibaciu în așa zisele lui afaceri delicate.</p>
@@ -6283,7 +6288,8 @@
                   <p>Asemenea discursuri le spunea Dăneasca aproape regulat.</p>
                   <p>Când se întâlneau cucoanele, cele cari o găseau pe Dăneasca, venită, întrebau pe cele venite mai înnainte: <gap n="[illegible]"/>
                   </p>
-                  <p><gap n="[illegible]"/> Toalete de servitori, Dăneasca o da iar pe-a ei.</p>
+                  <p>
+                     <gap n="[illegible]"/> Toalete de servitori, Dăneasca o da iar pe-a ei.</p>
                   <p>— Ei, dragă, nu sînt egoistă, nu pot trăi a face cui-va bine. Trebuie să fie cineva prea tiran la inima lui ca sa nu ție la nimic pe lume.</p>
                   <p>Cucoanle zâmbeau <gap n="[illegible]"/>.</p>
                   <p>Iliescu de obiceiu câștiga.</p>
@@ -6352,7 +6358,8 @@
                   <p>— Ce crezi dragă, o hoață și nimic mai mult. Trebue păzită din ochi.</p>
                   <p>Dacă și-a prădat ea bărbatul! Cu ce crezi că-i luxul ăsta? Doue sute de mii i-a furat. L-a apucat pe sărmanul om pe loc damblaua. Ah! e femee fără inemă! Lucru mare dragă! eu nu i-ași veni în acasă, doamne feresce, dar bărbatu-mieu are o afacere cu Iliescu. S-o isprăvească să vezi, mai întru în casa ei.</p>
                   <p>Vezi bine, zicea femeea locotenentului, el ce-i de vină? Cine-i acela să-i dai și să nu ia?</p>
-                  <p><gap n="[illegible]"/> băiat tîner, frumos, și <gap n="[illegible]"/> poate să-i <gap n="[illegible]"/>.</p>
+                  <p>
+                     <gap n="[illegible]"/> băiat tîner, frumos, și <gap n="[illegible]"/> poate să-i <gap n="[illegible]"/>.</p>
                   <p>— Banii să trăiască, sutele mărită slutele!</p>
                   <p>Cînd înse intra Matilda, îi săreau în gât, din „dragă” și „sor-o” n-o scoteau.</p>
                   <p>Asta însemna la d-lor că sînt femei de societate! trebuie sa fie amabile cu ori-cine.</p>
@@ -6396,7 +6403,8 @@
                   <p>— Ești nebună! Tu cu asemenea vorbe mă nenorocesci.</p>
                   <p>Ascultă, nu me scoate din sărite la poliție. Fac o anonimă la poliție.</p>
                   <p>— Ași vrea s-o ved și pe asta.</p>
-                  <p><gap n="[illegible]"/> Nu pot dormi de vuet, de certe. A doua zi sînt moartă de oboseală.</p>
+                  <p>
+                     <gap n="[illegible]"/> Nu pot dormi de vuet, de certe. A doua zi sînt moartă de oboseală.</p>
                   <p>— În casa mea nu primesc porunci.</p>
                   <p>— Casa ta?</p>
                   <p>— S-o știi.</p>
@@ -6950,7 +6958,8 @@
                   <p>— Iaca-așa! I s-a urît femeoi cu căpitanul, vrea să ia un colonel. Ce, nu-i frumoasă, nu-i tinără? Dacă nu și-o cerca norocul acuma, la bătrânețe știu că nu.</p>
                   <p>Cu toatele rîseră de tonul mucalit al Dăneascai.</p>
                   <p>— Logodna fetei lui Mihăilescu s-a stricat, zise prietena Dănesei.</p>
-                  <p><gap n="[illegible]"/> Se poate? și comandase trusou de la București; se fălea mă-sa, în dreapta și în stînga, c-o să facă fetei o zestre cum n-a mai vezut tîrgul pînă la dînsa. și știi de ce?</p>
+                  <p>
+                     <gap n="[illegible]"/> Se poate? și comandase trusou de la București; se fălea mă-sa, în dreapta și în stînga, c-o să facă fetei o zestre cum n-a mai vezut tîrgul pînă la dînsa. și știi de ce?</p>
                   <p>— Vroiau să-l tragă pe ginere pe sfoară cu zestrea.</p>
                   <p>— șmecher ca Mihăilescu s-a mai vezut? Înșală și pe Dumnezeu. ți-am adus, Matildo, un car de vești. De acuma nici nu vin, să faci bunătate să-mi întorci visitele, cât mai curând, auzi?</p>
                   <p>— Numai să pot, dragă tușă.</p>

@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -59,6 +59,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors în spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -76,8 +77,8 @@
             <p>COMPUSĂ DE</p>
             <p>N.D. POPESCU</p>
             <p>ILUSTRATĂ CU PATRU GRAVURI</p>
-            <p>EDIțIUNEA III</p>
-            <p>REVĂZUTĂ șI ADĂOGITĂ</p>
+            <p>EDIȚIUNEA III</p>
+            <p>REVĂZUTĂ ȘI ADĂOGITĂ</p>
             <p>BUCURESCI</p>
             <p>DEPOSITUL LA LIBRARUL ANTICAR H. STEINBERG</p>
             <p>Calea Rahovei No 7</p>
@@ -136,7 +137,7 @@
       </front>
       <body>
          <div type="chapter">
-            <head>I. țERILE ROMÂNE în SECOLUL AL XVIII-lea</head>
+            <head>I. ȚERILE ROMÂNE în SECOLUL AL XVIII-lea</head>
             <p>In secolul alu XVIII supranumit: secolul filosofilor, a fost pentru poporele din occident, aceia ce este aurora pentru premergătorul luminei, crepuscula unei senine, secolulu de lupte și de frământări pentru dobîndirea marelor concliiste, antemergătorul câștigării dreptății și a libertății, începutulu emanci păriî popoarelor, sfărîmătorul lanțurilor robiei, preludiul consfințăriî drepturilor de omu pentru toate ființele omenescî, fără nici o deosebire de clasă.</p>
             <p>Acestu secolu pentru țerile Române a fost din contra: un secolu de durere, un secolu de apăsare, un secolu do robire! La începutul seu Românii erau liberi, de sine stătători, înzestrați cu armate numerose și viteze, care adesea orî bătuse pe vecinii lor îndoit mai numeroși; ei erau cărmuițî de către domnitorii lor, aleși dintre fruntașii lor de boeril țerrei, și în fruntea administrației publice și a crucilor de oșteni Români, erau Români și numai Români care se purtau cu milă și îndurare către cel săracu și nevoiașiu.</p>
             <p>In decursul acestui secolu și chiar de la începutul său aceste drepturi scumpe care făcu tăria unei națiuni fură perdute încetul cu încetul până ce nu rămase în picioare nici unul dintr-ensele. Din țări libere și numai nominală legate cn Turcia, căreia îi plătea numai un tribut, fără ca ea să aibă drept a se amesteca în afacerile sale interioare, ele pe nesimțite, prin nenumărate și neintrerupte cotropiri, fură transformate, dacă nu tocmai în niște pașalicurî turcești' dar în niște beilicurî cu totul dependințe de Turcia.</p>
@@ -501,7 +502,7 @@
             <gap n="[missing]" unit="page" quantity="4"/>
          </div>
          <div type="chapter">
-            <head>VII.IENICERII PAșII DE LA MACIN</head>
+            <head>VII.IENICERII PAȘII DE LA MACIN</head>
             <p>Intîmplarea din pădurea Docolinei făcu mare sgomot Vodă se făcu de pămînt. Fanarioții înghețară de frică și Turcii de peste Dunăre se necăjiră foc pe o administrațiune atât de netrebnică.</p>
             <p>Sultanul aflând de astă faptă îndrăsneață, se necăji și mai reu ca toți și numai de cât mazili pe Deli-Beiu</p>
             <p>care de frică fugi la Ruși și-lu înlocui cu verul seu Alexandru Mavrocordat supranumit Firariul și cunoscut mai bine sub porecla de Pârlea Vodă; vom afla în curend pentru ce.</p>
@@ -910,7 +911,7 @@
             <milestone unit="footer" type="line"/>
          </div>
          <div type="chapter">
-            <head>X.PAșEA DE LA SILISTRA</head>
+            <head>X.PAȘEA DE LA SILISTRA</head>
             <p>A doua zi, dis de dimineță orașul Iași era într-o mișcare și o ferbere estraordinară; toată lumea cu mic cu mare din zori de zi se înhăita cete cete și se îndruma spre estremitatea orașului, astfel că răsăritul soarelui găsi câmpul de osîndă acoperit de mii și mii de curioși care înconjurau o furcă de spînzurătore și estrada judecătorilor. Stradele învecinate, casele și învelitorele nu mai încăpeau de lume.</p>
             <p>Intr-acea zi de dimineță intră în capitală un pașe turc cu un cortegiu lucsos care trase drept la Palatul Domnesc. Vodă îl priimi de la scară și-l conduse în întru cu mare cinste. Era pașa de la Silistra, care venise în Iași avend trecere pe acolo spre a merge pe uscat la Hanul Tătarilor Nogaiți.</p>
             <p>— Ce este asta mare alaiu? întrebă Turcu pe vodă după ce se așeză pe sofa și începu să sorbă din cafeaoa ce i se servise; ce întîmplare a scos din case pe toate raialele de stau cu gura căscată la soare? ai!</p>
@@ -960,7 +961,9 @@
             <p>Calculele lui Alexandru Mavrocordat Firariul nu fură nici de loc greșite; Bujor care nu era un hoț cum îl învinovăția grecii, ci un resbunător al poporului pentru tote strâmbătățile ce-i făcea să sufere apăsătorii sei, nevedendu-se atacat nu mai atacă, nevezându-se urmărit nu mai urmări nici el și nevezându-se prin nimic prigonit încetă de a prigoni. Fu silit să ia acestă determinare fiind împins și de altă împrejurare; Firariu, de și fanariot, însă nu era lacom de bani, se mulțumea mai cu puțin de cât predecesorii sei și apăsa poporul mai cu cumpătare.</p>
             <p>Poate că daca ar mai fi dăinuit mai mult timp acestă stare de lucruri, strălucirea aureolei ce încingea fruntea lui Bujor s-ar fi pălit, numele seu ar fi fost dat uitărei de către popor care este cam lesne uitător al facerilor de bine, și voinicii care pe atunci treceau la numer peste sută, vezând că le rugineau puscele și iataganele de ne lucrare, ar fi părăsit pe căpitanul spre a-și încerca norocul în alte codruri unde haiduceau alți căpitani; din norocire pentru renumele lui Bujor, și din nenorocire pentru țară, o mare calamitate, <hi>foametea</hi> se năpusti peste Moldova și aruncă în ghiarele celei mai înfricoșate mizerii un numer însemnat de mare de români. Acest teribil flagel scose pe Bujor din toropeala în care căzuse și din albele și catifelatele brațe ale Ioanei.</p>
             <p>Bogătașii nu se ridicară cu inima la înnălțimca mărirei nenorocirii; ei nu făcură aceia ce făcuse o dată în țara Românoscă, tot pe un timp de foamete, comisul Radu Belșug din familia Văcărescilor, adică nu-și deschisese hambarele ca să ia cât va vrea mulțimea fometoasă și să le strige:
-	    <hi><quote>Veniți de luați cat vreți că D-zeu a dat mare belșug în casa Comisului Radu Văcărescu,</quote></hi> ci din contră închise și ferecă hambarele, ascunse în păment prisosul bucatelor ee aveați, și mulțî din ei se încercară să scoță foloase însemnate din acest biciu D-zeesc, adică să-și vîndă bucatele cu greutatea aurului și chiar să cumpere suflete de oameni liberi ca robi pentru o bucată da pâine. în același timp Domnul tocmai atunci fiind silit de lăcomia turcescă ca să trămită sume însemnate regialulul din Stambul, în loc de a lua o mesură de îndreptare, în loc de a aduce din țeri vecine ne bântuite de secetă producte îndestulătoare, pe care să le dea celor lipsiți în împrumut pane la noua recoltă, se mărgini a trămite tot ce avea la Constantinopole și pe urmă a sta cu mânele în sân și a nu mai cere birurile pâne la închiderea crizei.</p>
+	    <hi>
+                  <quote>Veniți de luați cat vreți că D-zeu a dat mare belșug în casa Comisului Radu Văcărescu,</quote>
+               </hi> ci din contră închise și ferecă hambarele, ascunse în păment prisosul bucatelor ee aveați, și mulțî din ei se încercară să scoță foloase însemnate din acest biciu D-zeesc, adică să-și vîndă bucatele cu greutatea aurului și chiar să cumpere suflete de oameni liberi ca robi pentru o bucată da pâine. în același timp Domnul tocmai atunci fiind silit de lăcomia turcescă ca să trămită sume însemnate regialulul din Stambul, în loc de a lua o mesură de îndreptare, în loc de a aduce din țeri vecine ne bântuite de secetă producte îndestulătoare, pe care să le dea celor lipsiți în împrumut pane la noua recoltă, se mărgini a trămite tot ce avea la Constantinopole și pe urmă a sta cu mânele în sân și a nu mai cere birurile pâne la închiderea crizei.</p>
             <p>Acesta nenorocire, acesta nepăsare, acesta calamitate publică determină pe Bujor să iasă din retragerea sa, să se pue în fruntea voinicilor lui, să dea busna prin toate curțile boeresci după la țară, să deschidă hambarele și pătulele bogătașilor ca să ia din ele mulțimea fometbsă, ori-cât vavrea și începu săpedepsescă cu cea mai mare cruzime ori-ce cercare de împotrivire. Totă Moldova de la Dorohoi la Galați și de la Câmpulung la Chișănău fu visitată intr-acest chip de acest oaspete ne poftit, în cât de frică mulți deschiseră de la sine hambarele flămânzilor ca să se scape de o visită atât de puțin dorită.</p>
             <p>Acest espedient sumariu dar practic în momente excepționale, făcu să înceteze foametea numai în restimpul de câte-va săptămâni de și să procure locuitorilor mijloce de traiu pâne la recolta viitore, dar nu resolva cu totul criza; locuitorii fiind siliți de foamete și de lipsa de nutreț, își tăiase vitele în cât nu se mai găsea nicî la doă sate o pereche de boi de jug, și bani nu se găseau cu care creștinii să 'și cumpere la primăvară vitele trebuinciose pentru plugărie. Pentru a o remedia și acest reu, Bujor recurse la a-celași expedient, și făcu să încapă sila unde nu vrea să scie voia bună. O mulțime de bogătași fură căleați chiar în casele lor din orașe de Bujor și ai sei, despuiați de o parte din avutul lor și apoi acel avut împărțit cu dărnicie. Trei părți fură d?,te la nevoiași și o parte pentru ascuțitul măselele la cetașii sel, fără ca să fie împiedecat întru cât-va de omenii stăpânirei care tremurau ca varga sub un arsenal de arme numai la auzul numelui lui Bujor.</p>
             <p>Boerii și mai cu semă Fanarioții, văzând nepăsarea celor plătiți ca să-i apere, vezând apatia lui Vodă care nu lua nici o mesură energică spre a-l scăpa de acest flagel forte păgubitor lor, și temăndu-se că reul de care sufereau va cresce prin încuragiarea ce le procura această nepăsare, se duse cu mic cu mare la palat, căzură piciorele lui Vodă, și într-o voce cerură Domnului ca să ia măsuri energice și chiar extraordinare spre a scăpa de acestă năpaste.</p>

@@ -32,7 +32,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -67,6 +67,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -1094,7 +1095,7 @@
             </div>
             <div type="chapter" n="11">
                <head>CAP. XI</head>
-               <head>TEMNIțA DE LA CURTEA ARSĂ.</head>
+               <head>TEMNIȚA DE LA CURTEA ARSĂ.</head>
                <p>La 1774, Alesandru Ipsilanti, fiiu al lui Atanase Ipsilante, născut dintr-o familia greacă fanariotă, originară din Trebizonda, dreptu resplată pentru să rviciele ce făcuseră Porței membrii familiei sale, ca dragomani și medici ai Sultanului, căpătă favdrea de a fi numit domnu al Principatului României. acest  domnu quare prin purtarea sa omenoasă, și spiritul să   guvernamental să distinsese 5re-cum între cei-alți fanarioți quari ținuseră în arendă atâția mari de ani frumoasa țâră a lui Mircea și Mihaiu Bravul, găsind palatul domnescu de la Cur tea-Vechia cădut în ruină din causa vechimei sale și a maltratării Rușilor pe quând cu ocuparea acest i principat de oștirile lor, pusese să-i zidâscă un altu palat pe delul Spirei, dâl încom jurat de viele și grădinele cele mai frumoase, și quare, învecinat cu monastirea Miliai-Vodă, pute să presinte, pe lîngă frumusețea posițiunei sale, și un locu stra-tegicu atât pentru siguranța Măriei Sale, quât și pentru aperarea orașului, daqua bunele mesure de prevedere ce tot dauna au lipsit astei nefericite țere, ar fi făcut qua acest  locu să fiă dotat cu întăririle ce</p>
                <p>însă-și posițiunea sa strategică le-ar fi reclamat.</p>
                <p>N-a fost însă nimicu din toate acestea, ci la 1775 palatul cel nou a fost ursit să peră de flăcările unui focu aprins dintr-un accident, ceea ce făcu să să nu-moască Curtea-Arsă.</p>
@@ -2303,7 +2304,7 @@
             </div>
             <div type="chapter" n="7">
                <head>CAP. XIX.</head>
-               <head>AMOR șI AUR.</head>
+               <head>AMOR ȘI AUR.</head>
                <p>Dup-o asceptare de mai multe dile, Dalia vădând chă sociul ei nu mai venia, și credându-se în-fine părăsită de dînsul, de și nu făcuse nici un pas, nici o cercare spre a descoperi retragerea sa, sau a se încredința chă nu trebuia să mai spere nimicu în privința reîntrunirei sale cu Danibal, vădându-se dară scăpată de un jugu ce devenise nesuferit pentru dînsa, Dalia să detesă cu totul dupe voia plăcerilor și a petrecerilor de la quari, dicea ea, era în dreptu să ceară mînghîerea unei femei părăsite.</p>
                <p>earna era încă în culmea asprimei sale, și puçinele dile de carnaval ce mai remăseseră, Dalia nu voiea să le vadă trecând cu indiferință, fără qua să tragă din ele un profit, sub toată resărva bunelor cuviințe și a moralității nevătămate, dupe cum pretinde cea mai mare parte a publicului.</p>
                <p>Optu oare bătuseră quând Dalia, dupe ce se înserbători cu tot ce avea mai elegant, mai frescu, mai   de bunu gustu, mai modernu, dupe ce a făcut mai de multe ori revista gătelei sale prin desele și pline de esperiință ochiade aruncate din quând în quând asupra unei psichee, în façia qoria stătuse mai multu de doă ore, să aședă pe un fotoliu al qoruia spate se afla în vecinătate c-un cămin bine aprovisionat cu focu, și aștepta cu multă nepace și cu un neastîmpăr învederat visita unui omu quare-i o promisese chiar în dimineața acelei dile.</p>
@@ -2486,7 +2487,7 @@
                <p>Acestu obiectu era portfoliul cel roșu; chăița de aur se afla atîrnată de el; maiorul îl deschise tremurându de bucuriă; căută prin toate despărțiturele lui și găsi într-un colțu, cel mai ascuns, o chărtioară pe quare desfășurând-o citi ceea ce urmează:</p>
                <p>P. M. S.</p>
                <p>SPRE APUS</p>
-               <p>PATRU PAșI DEPARTE DE ZIDU.</p>
+               <p>PATRU PAȘI DEPARTE DE ZIDU.</p>
                <p>TREI PALME AFUNDIME</p>
                <p>AIBI ÎN DReaPTA</p>
                <p>BRADUL CEL USCAT.</p>
@@ -2561,7 +2562,7 @@
             </div>
             <div type="chapter" n="3">
                <head>CAP. XXXVII.</head>
-               <head>SoaRTEA ARE FAVoaRE PENTRU UNII, DISGRACIĂ PENTRU ALțI.</head>
+               <head>SoaRTEA ARE FAVoaRE PENTRU UNII, DISGRACIĂ PENTRU ALȚI.</head>
                <p>Mai multe dile trecură după trista întîmplare quare aruncă doliul în casa maiorului Viran, quând neimângîiatul soҫiu să găsi în patul ce și alesese de zăcere neînsuflețit și rece, far' a și schimba pusa ce și luase și fără qua nici unul dintr-ai casei, copii sau servitori, consângeni sau amici ce-l vizitaseră în timpul zacerei sale, să fi audit o singură vorbă din gurăi sau cel mai micu gemet de suferință fisica sau morale.</p>
                <p>Quât pentru D. Ornescu, el fu mai fericit, chăci putu să uite și să se console, cum uită și se consolă toți amanții quari nu și alegu de patriă paginile romanelor sau scenele dramelor, afară de cei ce să intîmplă să moară din causa vre unei complicări de patime cronice ce dateasă mai de multu, după cum o pretinde spiritul cel mușcător al secolului, și afară, putem adăugi, de unele femei quari nu au întru nimica să înghiță un acu, să iea sticlă pisata sau semințele Venerei spre a și da moartea, dar și acesta nu din causa perderei vre unui amant sau soҫiu, ci una vrînd să și resbune în-contra bărbatului quare n-a vrut s-o ducă la vr-o serată dantantă, alta qua să facă în necasu unui craiu de tobă, pentru chă a cădut cu vorbe dulci și gând la gând cu picior de jos de ghindă; quare, pentru chă nu să poate întîlni lesne cu regele cel nelegitim al inimei sale, și quare, pentru chă... în-fine, pentru chă n-are tesaure nesecabili spre a și putea satisface toate gusturile și toate capriciele pe quari imaginațiunea femeească ultra egoistă și ultra vanitoasă le creasă neîncetat.</p>
                <p>Dar, qua să revenim la subiectul nostru, repetim chă puҫine dile după moartea Marianei și a soiҫiului ei, intr-una din dilele tinoase și recoroase ale primăverei, vechia noastră cunoscință, Anica lui Biloiu, trecea singură pe jos strada Radu-Vodă și să îndrepta spre suburbia Tabacilor, quând o trăsură cu doi cai vineți rotați-i tăiă drumul tocma în momentul quând bătrână umbla să cotească bisericuța St. Tănase ce să înalță pe o movilă în faҫia monastiei Radu-Vodă. Anica lui Bilioiu făcuse atâta cale de la locuința sa din strada Belvederei și pînă s-ajungă acolo, și acum speriată de caii ce-i eșiseră înainte pe neasceptate, să simți de odată coprinsă d-o astu-fel de spaimă, chă-i peri toată puterea și cădu la picioarele cailor; dar bunul lor instictu îi făcu să stea în locu, inquât cel ce se afla în trăsura, vădînd întîmplarea, avu timpu să sară jos și să dea ajutor nefericitei femei.</p>
@@ -3135,7 +3136,7 @@
             <gap n="[missing]" unit="page"/>
             <div type="chapter" n="11">
                <head>CAP. XLV.</head>
-               <head>O TRĂSURĂ DE DIPLOMAțIĂ.</head>
+               <head>O TRĂSURĂ DE DIPLOMAȚIĂ.</head>
                <p>Ne întoarcem la Dalia.</p>
                <p>Astuțioasa femeiă vădînd chă scrisorea ei nu făcuse nici un efectu asupra soҫiului ei quare, precum scim, nu voise nici să-i respundă măcar doă vorbe, fiă chiar și de refus, ear pe de altă parte calculile ei combinate cu ale mumei sale neertândui a remânea fără bărbat espusă la vorbele lumei și la rîsul ei, alergă la una din acele fineți ce fac adesea fala acestor femei, făcîndu-le să credă chă sunt superioare bărbaților, pentru chă dînșii sunt mândri de a întrebuința aceste arme înjositoare. Ea trimise dară un unchiu al ei, omu avut și influint, să propuiă din partei, soҫiului ei chă daqua stăruia în otărîrea lui de a numai trăi cu nevastă-sa, atunci să primească a și da între dînșii un înscris de desfacere, pentru qua să poată, dînsa, în virtutea acestui aședămînt, să și ceară divorciul și a se mărita de al doile, mai ales chă-i s-a și presintat un partit destul de bun și pe quare nu voiea să-l refuse. Danibal respunse chă-i trebuia quât-va timpu spre a cugeta cum era mai bine de făcut.</p>
                <p>— Nu è timpu de amânat, dise unchiul Daliei; acela quare voiesce să iea pe nepoată-mea nu poate întărdia; el è din Moldova și mâine va să se întoarcă; s-a întîmplat să vadă pe Dalia,-i a plăcut, chăci, ce e dreptu, altu-fel è plăcută fată. Cum dicu, se vădură, să plăcură și se și ajunseră din cuvinte. Nu cere nici stare, nici nimicu; el are cu ce să trăească, măcar s-am și eu ce are el, doă spre-dece mii de galbeni venit din moșie! Cu toate acestea el mai e în vorbă, după cum spunea, cu o fată din Roman, și daqua nu va termina cu Dalia in doe trei dile, atunci va fi nevoit să iea pe cea-altă. Așa dară ești destul de cu minte și cu judecată qua să nu te faci causa stricării unei căsătorie pe quare nu ți convine a o urma din parte-ți. Dă-mi cuvîntul d-tale și spune-mi quând să viu cu nepoată-mea qua să terminăm amicalmente această afacere.</p>
@@ -3503,7 +3504,7 @@
             </div>
             <div type="chapter" n="14">
                <head>CAP. XLVIII,</head>
-               <head>UN NEBUN MAI CU MINTE DE QUÂT DOI ÎNțELEPțI</head>
+               <head>UN NEBUN MAI CU MINTE DE QUÂT DOI ÎNȚELEPȚI</head>
                <p>Strada pe quare muncipalitatea capitalei a parodiat-o cu numirea de strada Gracielor poate pentru-chă è una din cele mai disgracioase strade ale capitalei, într-o casă de aparință modestă, dar confortabilă în interiorul ei locuia vechia noastră cunoscință, Titu Locrin, quare sw mutase aci cu puҫine dile in urma plecări la Paris a ântîiului ei locatar și qoruia o lăsase amicul său, așa mobilată cum o avea el spre a locui intr-însa pînă la informarea sa din streinătate.</p>
                <p>Era pe la optu ore și jumătate; doă lampe și alte doă candelabre cu quâte cinci lumînări și revărsau lumină în micul salon tapițat cu roșu și galbenu în quare Titu Locrin, întins a lene pe o canapea de nucu cu damasca de culoarea scorțisoarei cu flori ca paiul, fuma din restul unui casadores și respundea la rîsul amicului său nedespărțit, Pascal Torian, pe quare îl făcea să rîdă o a trea persoană ce sta mai departe pe un scaun ținînd o chârtiă în mâna, pe quare semăna chă o citia și a qoria citire o întrerupea, pentru qua să facă locu ilarității ce o producea auditorilor lui.</p>
                <p>Această a trea persoană era ceea ce unile spirite periculoase, eșite dintr-o categoriă anonimă a societății noasstre s-au învoit a-i da numirea de nebun, nu pentru chă è într-adevăr astu-fel, ci pentru-chă lor le place să creada aceasta qua s-aibă dreptul să rîdă de o asemene ființă păcătoasă și să se laude în lume chă ei au fost capabili a o nebuni prin dibăcia lor esclusivă. Cu toate acestea nefericitul quare se vede lovit de trăsnetul acestui epitet degradator, departe d-a se formalisa, de quâte ori se vede astu-fel arătat cu degitul, el începe din acel moment a pune data unei ere favoroase pentru dînsul și a și crede asigurat viitorul pe această cale comodă quare-i surîde prin mii de esemple trecute și contimporane.</p>
@@ -4508,7 +4509,7 @@
             </div>
             <div type="chapter" n="7">
                <head>CAP. LVI.</head>
-               <head>SERBAREA MOșILOR</head>
+               <head>SERBAREA MOȘILOR</head>
                <p>Dupe tradițiune vechia, pe care o vom esplica nidutn, Rumânii țin pe fiecare an, în luna lui maiu sărbătoarea numită a Moșilor, in ipiare poporul cumpera luminări de ceru, ule, cote, străchini', etc, și le împarte pentru sufletele inerților lor. Acestu obiceiu fiind lu tetă țera și dincndii-se cu fidelitate întruna din sămbetele lunci ce ară taram mai sus, e de prisos să mai căutăm originea acestei serbări, de quâi acolo de unde au moscenit-o Românii din premii cu alte tradițiuni ce să conservă încă de la cuceritorii lor, adica in serbarea a-mtlog-l ce a esistat la Roma, după cum a avut fericirea observa înaintea nostru cu multă logica autorul articolului intitulat Sermioarea Moșilor și publicul în unul din diarele române sub onorabila semnătură deAL Zoh. Așa dară acesta serbare era aceea ce  e nmnia Compt-Wia, ținută la 2 maiu, și In quare să făceau sacrificii leităților numite Lire sau umbrele moților, stremoșilor. Or ce altă origine ar mai voi cineva să de acestui nsu absurdă, arbitrara și depărtată de or ce logică sănătosă.</p>
                <p>Era dară intr-o joie de Moși, ții de solemnitate,in quare prefectul poliției fac0 imvitârile sole persdnelor ce crede de cuviință pentru Cortu, uu fel de pavilion im-provisat ad-hoc pe o înălțime de brazde vcrdi. iinfru musețat cu culorile țerei, mobilat cu eleganță, cu luxu chiar, impeuișat cu stindarde tricoloare, având la oare-quare distanță piramide sau arbori făcuți de ole și ulcidre, de cofițe ți stegulețe, precedat de o aleă sau mai multe de brai și animat de musice și de gătechde cele frumose ale dar dur. Bufeturi gratis pentru cei invitați, focuii artificiali hoare de țeram și țărance, danțiiri de călușari imiuind răpirea Sabinelor, nimicii nu lipsesce pentru a tace acea fii una din cele mai vojdse sărbători pe quare toate cinele o gintă ca petrecere si ca curio-sitate.</p>
                <p>Mii de trasure să învlrtescu sau staționesă spre a asculta musica. spre a privi Cortul sau spre a să privi intre ele, mii de obiecte sunt espuse pre vânzare, începend de la modestele producțiuni ale industriei naționali și penii la articolile de hixu quari ne vin din stre-mătate, t6te ar ti in stare a contribui contingentul nu-milei lor pentru fondarea unui dicționar măi complecta</p>

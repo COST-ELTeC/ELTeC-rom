@@ -25,7 +25,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -69,6 +69,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -1377,7 +1378,7 @@
             </div>
             <div type="chapter" n="5">
                <head>Capitolul V</head>
-               <head>RUșINEA</head>
+               <head>RUȘINEA</head>
                <milestone unit="section" n="1"/>
                <p>1</p>
                <p>Săptămîna dinaintea Crăciunului, în toate dimi-nețile, satul clocotea de guițări deznădăjduite. Porcii îngrășați se prefăceau în mușchi și cîrnați, meniți să mai înzdrăvenească puțin pe oamenii jigăriți de pos-tul care parcă nu se mai sfîrșea. Cu cît se apropiau săr-bătorile, cu atît țăranii le doreau mai tare, lingîndu-și buzele mai dinainte în vederea ospățurilor obișnuite și atît de mult așteptate. Căci în vremea postului mare numai popa și învățătorul mîncau de dulce: Belciug fiindcă avea stomacul afurisit, iar Herdelea fiindcă el nu voia să dea ascultare minciunilor popești...</p>
@@ -2745,7 +2746,7 @@
             </div>
             <div type="chapter" n="10">
                <head>Capitolul X</head>
-               <head>șTREANGUL</head>
+               <head>ȘTREANGUL</head>
                <milestone unit="section" n="1"/>
                <p>1</p>
                <p>Herdelea găsi o locuință bună și ieftină în Arma-dia, cu cerdac și cu grădiniță, în casa lui Ghiță Pop, scriitorul de la judecătorie, și astfel îndată după Bobotează se mutară cu tot calabalîcul, seara „ca să nu mai vadă străinii toate boarfeleˮ, cum zicea dăs-călița. Căsuța lor din Pripas rămase goală și părăsită ca un sărman cadavru necunoscut.</p>
@@ -3547,7 +3548,7 @@
             </div>
             <div type="chapter" n="13">
                <head>Capitolul XIII</head>
-               <head>SFÎRșITUL</head>
+               <head>SFÎRȘITUL</head>
                <milestone unit="section" n="1"/>
                <p>1</p>
                <p>Ion se prăbușise sub lovitura a doua care-i cră-pase țeasta. Lovitura următoare n-o mai simți, precum nu simțise durere nici la cea dinții... Venise de-a dreptul de la circiumă, amețit însă mai mult de fericire decît de rachiu, deși băuse atîta de speriase pe vădana lui Avrum. Venind, fluiera vesel ca pe vremea cînd era holtei și se ducea la fete, înainte de-a fi avut vreun gînd de însurătoare. Dar sufletul îi era așa de plin de bucurie, că se stăpînea să nu sară să îmbrățișeze gardurile pe lîngă care trecea și cîinii care-l lătrau ici-colo. Strecurîndu-se în ograda Floricăi, trase o înjurătură înăbușită fiindcă poarta scîrțăise puțin și-i era frică să nu se trezească Savista. De altfel se hotă-rîse ca, dacă oloaga s-ar deștepta și ar crîcni, s-o coto-nogească fără multă vorbă. Lăsă poarta deschisă îna-dins ca să nu mai scîrțîie cînd va pleca. Toate le potrivise cu mare grije, numai la George nu se gîndise de loc, parcă nici n-ar fi fost pe lume.</p>
@@ -3770,7 +3771,7 @@
                <p>Satul a rămas înapoi același, parcă nimic nu s-ar fi schimbat. Cîțiva oameni s-au stins, alții le-au luat locul. Peste zvîrcolirile vieții, vremea vine nepăsă-toare, ștergînd toate urmele. Suferințele, patimile, năzuințele, mari sau mici, se pierd într-o taină dureros de necuprinsă, ca niște tremurări plăpînde într-un uragan uriaș.</p>
                <p>Herdelenii tac toți trei. Numai gîndurile lor, ațîțate de speranța împodobitoare a tuturor suflete-lor, aleargă neîncetat înainte. Copitele cailor bocă-nesc aspru pe drumul bătătorit și roțile trăsurii uruie mereu, monoton-monoton ca însuși mersul vremii.</p>
                <p>Drumul trece prin Jidovița, pe podul de lemn, acoperit, de peste Someș, și pe urmă se pierde în șo-seaua cea mare și fără început...</p>
-               <p>CELOR MULțI UMILI</p>
+               <p>CELOR MULȚI UMILI</p>
                <p>
                   <hi>Martie 1913-iulie 1920</hi>
                </p>

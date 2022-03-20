@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -63,6 +63,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -312,7 +313,7 @@
             <p>— Chirilis, mergem astăzi la vânat, întrebă într-una din zile Andonis pe credinciosul său.</p>
             <p>— Dacă vrei, să mergem, respunse acesta.</p>
             <p>— Da, E-am face rău, căci nici mie nu mi-e tocmai bine.</p>
-            <p>— șI ce ai Chir Andonis?</p>
+            <p>— ȘI ce ai Chir Andonis?</p>
             <p>— șofer de urît, iubitul meu.</p>
             <p>— Apoi atunci să plecăm la vânat, zise șiretul fanariot, să plecăm, căci zău urltul o boală cam grea.</p>
             <p>Doo ceasuri în urmă Andonîs eu Chirilis se aflau in m-jlocul unei păduri. Ei rătăciră toată ziua fără a vâaa nimic și tocmai seara, târziu de tot se întorceau acasă triști.</p>
@@ -446,7 +447,7 @@
             <p>— Bădiță, de azi înainte eu na mai sunt a ta! Dumnezeu singur știe cum te-am iubit... El a văzut întotdeauna lacrimile mal și m-a mângâiat; acum însă mângâare nu mai pot avea!... Bădiți, gândește-te ta viațâ-ți la mine, la Marioara, care, murind, îți pronunță cu foe numele tăul...</p>
             <p>Bădiță! te iubesc, te iubesc cum ulei o femee n-a iubit în lume și acum când mă gândesc că trebue să mă despart de tine, viața-mi se stinge înainte de a o stinge eul... A greșit, dragă, dar de vină nu sunt eu! Astă noapte m-au răpit oamenii fanariotului după moșia Rediu! M-au răpit, Iubite, din brațele taie, din brațele mamei pe care au omorît-o I... 6b I dar nu mă gândesc la mama, nu mă gândesc te nimeni, căci în ochi-mi nu văd pe nimeni afară de tine!.. Pe tine te văd, dragă, șl de tine trebue să fag1 Ah I întoarse-ți ochii bădiță, de la aceea, care nu mai e destoinică a fl privită de tine!. Bădiță, bădiță, te-am iubit, o, te-am iubit și după ce vei rămâne singur gâadește-te la Marioara, care muri iără te putea strânge în brațele ei!.. Gândește-te la aceea cars aștepta cu atâta nerăbdare, cu atâta foc, ziua cununiei noastre!!.. Gândește-te, bădiță, ia aceea pe care o luai în brațele taie, pe sare o sărutai cu căldură și care acuma moare fără a-ți putea cel puțin da ultima sărutare!! Rămâi deci, dragă, sănătos și de ți-am greșit vreo dată ceva, iartă mă, de te-am supărat cu cava uită, bdi-ță!... Nu uita, Insă, dragul meu, a-ți râsbuna In contra fanariotului după moșia Rediu! Ei e un om scurt și gros, urât la față, urât și la inimă! Jură lui răsbunare, Jură că-i vei da moartea după cum el m-a omorât pe mine!!.. Sângele Marioarei tale, care te așteaptă In ceruri va striga veșnic către tine cerându-țî moartea nelegiuitului i!... Rămâi dar, dragă, singur și nu mă uita niciodată, gândește-te la toate vremurile bune sau reia îa mine... pronunță tâte odată numele meu șl,„ încă odată îți zic nu mă uita,., au mă uita, dragă l.. rămâi sănătos!!!</p>
             <p>Bostan privia pe Marioara încremenit lăsând să-l cadă din ochi picături mari de lacrimi, pe când ea. plângea cu foc șl arunca scântei din ochii el.</p>
-            <p>Când isprăvi de vorbit scoate un euțit din sânu-î șS-l băgă tot îa pieptu-I. Atunci isbucai un vai de sânge șl căzând pe spate muri pronunțând cuvântul „bădiță".</p>
+            <p>Când isprăvi de vorbit scoate un euțit din sânu-î ȘS-l băgă tot îa pieptu-I. Atunci isbucai un vai de sânge șl căzând pe spate muri pronunțând cuvântul „bădiță".</p>
             <p>Astfel virtuoasa Marioara imitând pe străbuna sa, Lucreția de îa Romani, spălă cu sângele ei greșala-l nevinovată I</p>
             <p>Bostan nu mai zise un singur cuvânt. El tăcu și privi trist îa corpul încă caid al Marioarei. Când durerea este prea mare omul devine încă liniștit, ei îșl la o devisă, o țintă, un scop și realisarea acestora, îl liniștesc. astfel și Bostan fără si mai verse o lacrimă, fără să mai scoată un suspin, dar palid șl per-dut se apropie de gura întredeschisă și aproape rece a Marioarei, o sărută de trei ori, apoi sculâa-du-se își făcu cruce și zise:</p>
             <p>— Dumnezeule, ajută-mi să-mi răsbun!!!</p>
@@ -608,7 +609,7 @@
             <p>După aceea în cinci minute Bostan reteză amândoo tălpile dela picioarele fanariotului lăsând să i se vază oasele.</p>
             <p>— ți-am spui să stai bine cu mâinile spurcatule, zise haiducul după ce-și terminase prima operațiune.</p>
             <p>— Dar nu-i nimic, urmă el căci asuma sosit și rândul lor.</p>
-            <p>șI luându-i mâna dreaptă i´o iovi așa de tare</p>
+            <p>ȘI luându-i mâna dreaptă i´o iovi așa de tare</p>
             <p>încât cuțitul trecu sa partea cea l-laită și mâna căzu jos.</p>
             <p>Bătrânul leșină.</p>
             <p>— Am isprăvit cu u ani, zise Bostan.</p>
@@ -1576,7 +1577,7 @@
             <p>— Ii apuca de mână, răspunse Tudor. Dacă ați băgat de seamă, omul are o vână în partea de dedesubt a mânei. Stăpânul meu, după cum băgaiu de seamă, punea degetul pe acea vână și număra: „Ena, duo, tria.....” după aceea scotea ceasul și se uita.</p>
             <p>— Ei vezi, îi opri Bostan, tu nu aveai ceas pe ce să te uiți.</p>
             <p>— Dar nici nu trebuia căpitane, căei când doctorul se uită la ceas este ca să ție minte peste câte ceasuri o să moară. Doctorul stăpânul meu, care de altminteri era un doctor prea bun, nici odată nu greșia; ori de câte ori lua mâna hoinarului, număra mereu îa numere grecești din cari nu-mi aduc aminte de cât: „Ena, dio, trio,..”, după aceea îl vedeam că se uita Ia ceas, și se uita timp mult vezi, făcea socoteala peste câte ceasuri o să moară, apoi închidea ceasul zicând: „Hâma.</p>
-            <p>— șI bolnavul se îndrepta? întrebă Cucută.</p>
+            <p>— ȘI bolnavul se îndrepta? întrebă Cucută.</p>
             <p>— Îndrepta? respunse Tudor, apoi dacă ar fi fost ca să se îndrepte, nu s-ar fi mai uitat stăpânul meu Ia ceas. El trăia mult vro-o doosprezece ceasuri încă, ș-apoi muria.</p>
             <p>— Când am pus mâna mea pe a Iui, ce să vezi bădiță, mâna acestui fanariot svîenia de nu puteam s-o opresc. O i dacă ia toți fanarioții o fi svîcnind astfel vinele apoi halal de dânșii.</p>
             <p>— E bolnav greu, zisei eu și începui să numerer pe românește: „Un, doo, trei, patru.-" și numărat până ia zece. La ceas nu trebue să mă uit, zisei după aceea, ca să le dau nițică inimă; am înțeles toată boala. El bine știți ce avea fraților? el ardea tocmai cum arde un cuptor când e gata să arunci pânea. Avea friguri. știi astă vară că așa ardeam și eu, când mă prinsese frigurile. Friguri avea dar și el, eu îs apucaiu, când l-a întors în căldură șl îmi închipui, că trebue să fi avut și frig.</p>
@@ -1768,7 +1769,7 @@
             <p>'—Nu bre, n-a lăsat-o, îl opri Tudor, ei i a luat-o,</p>
             <p>— I-a luat-o, și cine?</p>
             <p>— Ascuitâ atunci să țl spun eu cum a fost lucrul.</p>
-            <p>șI Tudor începu:</p>
+            <p>ȘI Tudor începu:</p>
             <p>— Era o noapte ca acum, cu deosebire că cerul era ceva mai senin; noi toți stăm trântiți pe iarbă când iată că vedem venind spre noi trei eameni.. Tu iți aduci aminte, erai. spion în noaptea aceeea și noi am gândit că poate te-au omorât și acum veniau la noi cu gânduri rele: „Cine sunteți voi?" strigă atunci căpitanul, nostru: „Oameni buni, Români" respunseră ei..</p>
             <p>— Iată căpitanul, strigă de odată Cucută întrerupând pe Tudor din convorbirea sa.</p>
             <p>In adevăr era Bostan, care venia trist și gânditor.</p>

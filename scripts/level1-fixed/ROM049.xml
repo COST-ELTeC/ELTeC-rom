@@ -29,7 +29,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -48,7 +48,7 @@
                <author>Ioan Pop-Florantin</author>
                <title>Decebal</title>
                <pubPlace>Iasi</pubPlace>
-               <publisher>EDITURA LIBRĂRIEI FRAțII șARAGA</publisher>
+               <publisher>EDITURA LIBRĂRIEI FRAȚII ȘARAGA</publisher>
                <date>1882</date>
                <ref target="http://doi.org/10.5281/zenodo.3734265">Facsimile on zenodo</ref>
             </bibl>
@@ -69,6 +69,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -87,7 +88,7 @@
             <p>Editura Librăriei Frații șaraga</p>
          </div>
          <div type="liminal">
-            <head>PREFAțA</head>
+            <head>PREFAȚA</head>
             <p>In 1868, primindu-se pentru „Convorbiri” novela mea „Decebal”, și publicîndu-se, am primit de la dl. T. Maiorescu o scrisoare în terminii următori:</p>
             <p>Iași 6/18 Dec. 1868.</p>
             <p>„Domnul meu</p>

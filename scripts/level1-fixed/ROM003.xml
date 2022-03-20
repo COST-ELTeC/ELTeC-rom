@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -66,6 +66,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -86,7 +87,7 @@
       </front>
       <body>
          <div type="group">
-            <head>TASSO 'N SCOțIA</head>
+            <head>TASSO 'N SCOȚIA</head>
             <p>Dumas zice că romanul a existat totdeauna. Se poate. El e metafora vieții. Priviți reversul aurit al unei monede calpe, ascultați cântecul absurd al unei zile care n-a avut pretențiunea de-a face mai mult zgomot în lume decât celelalte în genere, extrageți din astea poezia ce poate exista în ele și iată romanul.</p>
             <p>Printr-o claie prăfuită de cărți vechi (am o predilecțiune pentru vechituri), am dat peste un volum mai nou: Novele cu șase gravuri. Deschid și dau de istoria unui rege al Scoției care era să devină prada morții din cauza unui cap de mort îmbălsămat. Închipuiți-vă însă că pe cine l-a pus litograful să figureze în gravuri de rege al Scoției? Pe Tasso! Lesne de explicat: Economia. Am scos întradins portretul lui Tasso spre-a-l compara. Era el, trăsură cu trăsură. Ce coincidențe bizare pe fața pământului, îmi zisei zâmbind prin visarea mea. Putea-s-ar oare întâmpla unui Tasso o istorie asemenea celeia ce-o citeam?...</p>
             <p>Uitasem însă că tot ce nu e posibil obiectiv e cu putință în mintea noastră și că, în urmă, toate câte vedem, auzim, cugetăm, judecăm nu sunt decât creațiuni prea arbitrare a propriei noastre subiectivități, iar nu lucruri reale. Viața-i vis.</p>

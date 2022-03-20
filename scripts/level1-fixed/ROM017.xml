@@ -24,7 +24,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -66,6 +66,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -142,7 +143,7 @@
             <p>Strigătele poștașilor se auziră acum în curte. Ospeții alergară în capul scării, servitorii veniră eu luminări. Erau patru trăsuri închise. Călătorii se coborîră, apoi urcară scara, îndată se auziră mulțime de voci zgomotoase de femei.</p>
          </div>
          <div type="chapter">
-            <head>NOII VENIțI</head>
+            <head>NOII VENIȚI</head>
             <p>Salonul era plin de lume.</p>
             <p>Talangiul cu familia, șer, Tudorina; Zoe șer cu băr-bată-său, și alții cu care vom face mai tîrziu cunoștință. Deocamdată să ne ocupăm de o persoană necunoscută ce intră cu șer.</p>
             <p>— Permiteți-mi a vă prezenta pe d. Elescu, zise șer, înaintlnd către d-na Elena, însoțit de un june necunoscut. D-nu este român, adăogă el, amic al meu din copilărie. Strein în țară, căci lipsește de aici de cincisprezece ani.</p>
@@ -1011,7 +1012,7 @@
             <p>„Unde voi merge? se întrebă el. Negreșit acolo unde Zoe se află acum. Este ceva care îmi zice că această femeie caută să piarză pe Elena... trebuie să descoper... să o scap, de va fi ceva.”</p>
          </div>
          <div type="chapter">
-            <head>CORISPONDINțA</head>
+            <head>CORISPONDINȚA</head>
             <p>Trecuse o lună de la plecarea lui Alexandru. În acel timp el scrisese Elenei un bilet de mulțumire. După ce îi mulțumea, se scuza pentru că nu putuse să se înturne. <hi>„Florile mele,</hi> îi scria el, <hi>au cătat să vestejească de multe zile și eu încă nu m-am întors...</hi>”.</p>
             <p>Elena priimi cu plăcere acel bilet și îi răspunse în termenii următori:</p>
             <p>
@@ -1866,7 +1867,9 @@
             <p>Să le încuragieze prin toate mijloacele putincioase. La noi nu numai că scrierile literare nu sunt citite; dar încă autorii sunt persecutați, închiși, cînd nu sunt desprețuiți.</p>
             <p>Ne place a ne zice nobili români, dar nu facem nimic pentru români. Maghiarii nobili, pentru literatura lor fac sacrificii fabuloase. Noi, pentru a noastră, nu avem decît dispreț.</p>
             <p>— Daca nu citim românește, cauza este că autorii români nu au produs nimic care să merite! zise Zoe.</p>
-            <p>— Cum <hi><quote>e turcul și pistolul</quote></hi>! Cum e țara și autorii, răspunse Georges.</p>
+            <p>— Cum <hi>
+                  <quote>e turcul și pistolul</quote>
+               </hi>! Cum e țara și autorii, răspunse Georges.</p>
             <p>Elena răspunse Zoei:</p>
             <p>— Nu voi răspunde ca d. Georges, dar voi zice că dacă la noi ar fi răsărit geniurile ce au făcut gloria altor populi, noi încă nu am fi citit produețiunile lor și n-ar am fi avut pentru dînsele decît același dispreț ce avem astăzi. Daca te-aș întreba astăzi: ai citit pe autorii români cei ce se află, îmi vei răspunde că nu ai citit, că nu știi ce au scris; acest răspuns mi-ai dat totdauna. "Nu înțeleg, dar daca nu știi ce au scris acești oameni, cum găsești că nu merită să fie citiți?!</p>
             <p>— Eu voi zice ceva, daca domnii democrați nu se vor supăra! zise Talangiu. Greșala este și a autorilor, urmă el, cei mai mulți nu sunt nobili și prin urmare nu au prestigiu...</p>
@@ -2071,7 +2074,7 @@
             <p>Această scrisoare era un capodopere de literatură. Ea există încă în original. Elena o trimise lui Alexandru, fără nici un alt comentariu. Alexandru nu putu să-și oprească lacrămile, citindu-o. Elena era acum inocintă în ochii săi. Se decise să plece la Fănești. Plecă chiar în ziua cînd priimi scrisoarea Elenei.</p>
          </div>
          <div type="chapter">
-            <head>ÎNTOARCEREA LA FANEșTI</head>
+            <head>ÎNTOARCEREA LA FANEȘTI</head>
             <p>Locașul de la Fănești devenise trist. Singurile locuitoare ale acestii case era Elena și Caterina. Cea din urmă se prepara a se înturna în capitală. Alexandru sosi noaptea. Elena era în camera sa. Zgomotul poștașilor o deșteaptă din somn, află despre venirea lui Elescu. E,a se decide să-l priimească în camera sa chiar atunci.</p>
             <p>Caterina dormea într-o cameră alături. Noaptea era înaintată, o noapte frumoasă de vară; o tăcere adîncă domnea peste cîmpiile ascunse în umbră; răcoarea ce anunță că zorile sunt aproape de revărsare se răspîndea în aerul îmbălsămat de parfumul cîmpului.</p>
             <p>Alexandru intră la Elena. Aceasta îl aștepta șezînd pe o sofa. Ea se îmbrăcase în negrele cele mai elegante. Albeța feței, mînilor, gitului contrasta cu negrele costumului său, într-un mod atît de plăcut, încât lăsa să nască unul din acele fermece a căror înrîurire o simțim rareori în viața noastră. Buclele părului său erau respinse cu răsfățare de la tîmple și lăsau să se vază toată fața sa, frumoasă și palidă.</p>
@@ -2115,7 +2118,7 @@
             <p>Curgeți, ore fugătoare! amoare, revarsă torente de voluptate! Noaptea era frumoasă, păsările prin cîntecele lor îngînau mugirea rîului, zorile se revărsau, și Alexandru se înturna în camera sa de culcare.</p>
          </div>
          <div type="chapter">
-            <head>IAR LA BUCUREșTI</head>
+            <head>IAR LA BUCUREȘTI</head>
             <p>D-na Zoe era în budoriul său unde priimea vizita intimilor. Principesa Iordache, cea din urmă persoană ce veni aici pe cînd ducem pe cititorii noștri în budoriul Zoei, și alți patru bărbați, cunoscuți prin viața lor bizară, formau cu cele doo dame cercul de intimi.</p>
             <p>Conversațiunea alerga asupra ministeriului cel nou ce era să se formeze, și mai ales asupra arestării patrioților de la Bosel.</p>
             <p>— Ciudată istorie, zise Zoe, îmi pare rău însă că nu a fost cazuri de moarte...</p>
@@ -2146,7 +2149,9 @@
             <p>— Este frumoasă! ziseră cei doi bărbați ce tăcuseră pînă atunci.</p>
             <p>Zoe aruncă o căutătură fulgerătoare unuia dintre dîn-șii, un om ca de treizeci și șase de ani; blond și cu plete lungi.</p>
             <p>— Cît pentru virtutea ei, eu poci mărturi, zise celalt, un june ca de vreo treizeci de ani, o adevărată figură de tabachere. Nu sunt fat, dar cată a spune adevărul, am făcut multe concuiste; dar cu Elena mi-am perdut timpul, deci pentru mine, o femeie ce îmi rezistă, o numesc o femeie virtuoasă.</p>
-            <p>— Veți avea o încredințare din contra. Mine seară vă dau <hi><quote>rendez-vous</quote></hi> la Fănești.</p>
+            <p>— Veți avea o încredințare din contra. Mine seară vă dau <hi>
+                  <quote>rendez-vous</quote>
+               </hi> la Fănești.</p>
             <p>— Să fie! ziseră cei patru bărbați.</p>
             <p>— Veți cunoaște atunci prin dovezi pozitive că Elena este o ipocrită.</p>
             <p>— Bine! ziseră ei și, luînd pălăriile, se retraseră spre a se prepara pentru călătoria de a doua zi.</p>

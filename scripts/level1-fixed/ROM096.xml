@@ -63,6 +63,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-09-15">Annotation in ELTeC format: Smarandita Vasilachi, Lucretia Pascariu</change>
@@ -72,7 +73,7 @@
    <text>
       <front>
          <div type="titlepage">
-            <p>HOțIi șI HAGIUL</p>
+            <p>HOȚIi ȘI HAGIUL</p>
             <p>ROMAN  ISTORIC </p>
             <p>DE</p>
             <p>A. Pelimon</p>
@@ -82,12 +83,12 @@
          </div>
          <pb/>
          <div type="liminal">
-            <p>HOțIi șI HAGIUL</p>
+            <p>HOȚIi ȘI HAGIUL</p>
          </div>
          <pb/>
          <div type="liminal">
             <quote type="verse">
-               <p>ÎNTÂIA DORINțĂ.</p>
+               <p>ÎNTÂIA DORINȚĂ.</p>
                <l>În veci amorul plin de simțire,</l>
                <l>În veci lumina ochilor tăi,</l>
                <l>Suflet de viață e pentru mine,</l>
@@ -205,7 +206,7 @@
          <div type="chapter" n="3">
             <head>III.</head>
             <milestone unit="line"/>
-            <head>CEI DOI NEchUNOSCUțI.</head>
+            <head>CEI DOI NEchUNOSCUȚI.</head>
             <p>Cu ocaziea sărbătoarei zilei a Sinților Apostoli, alerga popolul din București de pe toate ulițile și mahalalele cele mai depărtate, ca să asiste la serbarea ce să făcea la capul podului Moroșoaei, căci Prințul era să vie pentru prima oară la grădina numită chiselef. De mulțimea caleștilor și atîtea fiacre ce ocupă stradele noastre, se vedea rîdicîndu-se un nor  de pulbere ce îngreoia atmosfera, și mulțimea de oameni aștepta venirea Prințului, pentru care era pregătit subt o tindă de pînză împodobită, toate cîte serveau spre celebrarea acestei sărbători. Muzica stabului ostășesc  anima din cînd în cînd curagiul acelor care era mai obosiți. Un  foc  de artifiție sta pregătit  în piramide și în tot felul de figuri formate cu gust  și nu trebuea decît întunecimea serii pentru a se vedea strălucind în cifre de foc  numele aceleia întru care s-a consfințit această grădină. Din mijlocul acestor spectatori ce erau răsipiți pe strada cea mare numită șoseaoa de la capul podului Mogoșoaei, precum și de prin pregiur, nu s-auzea de cît un  singur  glas , o singură veselie ce domnea tot coprinsul, era o singură părere, toți ziceau: frumos ! frumos !</p>
             <p>Numai un  singur  june care sta rezemat  de o bancă mai departe, părea oarecum preocupat , el par- că nu lua parte din această generală emulație. Totul pentru dînsul nu era decît singura sa idee în care sta meditînd, era surd  la orice sunet  și ori care frumusețe cît de răpitoare, pentru dînsul nu era decît mediocritate, de care nu se interesa. țiindu-și bărbiea rezemată pe mîini da și mai mult  să înțeleagă oricui că el se gîndește și se gîndește profund . Imbrăcămintea sa îl dovedea că nu este unul dintre cei care contribuesc la altarul modelor; mai mult  simplu, dar curat  ne înfățișa pe un  filosof , care subt nume că desprețuește toate, acopere lipsa și adevărul că trăește cum dă Dumneze . Acest bărbat  cu o fisionomie picantă dar nu rece, era cum aș  zice nici un bărbat  frumos  dar nici un om  nesuferit . Ochi săi cei negri dovedea îndestul focul inimei sale de care era încins . Avea obrazul rotund  și trăsurile regulate, avea un semn  în frunte ce arăta o rană vindecată, ca o tăetură de sabie. Cu părul capului negru, și în creștet  ceva cam pleșuv . Fiecare aruncătură de ochiu a sa, asupra mulțimei, nu esprima acea dulceață ce adresează un  june galant  amantei sale, nici acea mîndrie ce o au uni domnișori ce se încînt de ținerea talii sale, ori de biciușca cu care înnebunește pe o femee iubeață.</p>
             <p>Oamenii de caracter  gînditor , se zice că ar fi aceea care au iubit mai mult  femeile, și în a cărora inimă simțimîntul -și-a găsit un loc  mai adînc . Oameni aceștiea, de mai multe ori tăcuți, ascund patimi foarte mari, și nu este nimeni care ar putea să profundeze în cugetele lor. Oameni cei mari pe care geniul și soarta -i-a așezat la o culme mai înaltă, cei ce pot privi omenirea de la un punct  mai interesant , se fac și mai mult folositori pentru omenire; unora ca aceia le sîntem datori atîtea descoperiri în științe și în arte.</p>
@@ -254,7 +255,7 @@
          <div type="chapter" n="5">
             <head>V.</head>
             <milestone unit="line"/>
-            <head>STÎNGU CĂPETENIEA PUNGAșILOR.</head>
+            <head>STÎNGU CĂPETENIEA PUNGAȘILOR.</head>
             <p>Era odinioară, demult , la capătul pieței celii mari, unde se vindea carnea și verdețurile p-atunci, o mică prăvălioară de pacele și gogoși prăjite în uleiu, tot  felul de băuturi și mîncări pentru slugi și meșteri, se găsea aci. Un  oare care chir Panait sau chir Antonache, nu se știe prea bine care era adevăratul nume al acestui baș  tractirgiu, cîrcumar , în această tavernă; de nație sîrb , ori armean , neguțător  care -și învîrtea bine alișverișul, începînd de pînă în zioă, dimineața, și țiind pînă seara, pentru un  rînd  de oameni, și mai ales de multe ori pe la miezul nopți pentru un  alt  rînd , care se numesc pungași sau copii dracului.</p>
             <p>Căpeteniea acestor hoți, se numea Stîngu. Mai mulți proprietari și mahalagii ar fi putut spune p-atunci despre felul mai sus zis al acestor hoți, din al cărora furtișag  numai țineau găinele p-în cotețuri sau pe arbori de prin bătături, cît și precupeți din piață, ce-i prindea spărgînd carăle cu cireși sau pe la măcelării cînd tăiau punga oamenilor din sîn , sau cel puțin  cînd ștergeau basmalele de prin buzunare....</p>
             <p>Tîlhari sau hoți, împărțindu-se în mai multe rămuri, dintre care scoțînd haiduci care es la drumuri de prin păduri, mai sînt potlogari, cari sînt furi de cai, și pungași care se preumbla odată prin ulițele Bucureștiului, mai sînt și furi de cele sfinte, și plastografi.</p>
@@ -345,7 +346,7 @@
          <div type="chapter" n="8">
             <head>VIII.</head>
             <milestone unit="line"/>
-            <head>GAZDA HOțILOR.</head>
+            <head>GAZDA HOȚILOR.</head>
             <p>Cocoana Hagiica, precum am mai zis, era supărată pe bărbatu-său încît, daca era ceva mai tînără Hagiul nu vrea s-o -ntrebe și pe dînsa la tot  ce-făcea și ceea c-avea de gînd  să facă. Trebue cu toate acestea să dăm dreptate cocoanei Hagiichi pentru că toată lumea era cu un  foc  iar dumneaei cu doo. Pentru că de cînd cocoanele de prin vecinătate a început a deschide casa Hagiului, au început totd-o-dată a și cam face băgări de seamă boneturilor și mobilelor din casă că nu prea erau de modă. Multe dintre prietenile dumneai, a certat-o că de ce să se lase pînă într-atîta și nu caută să-și facă un  fel  de apă care netezește și îndulcește prea mult  pelița obrazului pentru că nu e doară bătrînă trecută, și cocoana Hagiica era hotărîtă să însărcineze pe jupîneasa Bălașa cu treaba aceasta.</p>
             <p>Oh! lume, lume mult  ești vrăjmașă și tirană, încît nedreptățirile tale abia le poate coprinde mintea unui muritor . și par-că nu sîntem toți muritori! sau par-că intră cuiva ceva în pungă de tot  se leagă uni alții de biata cocoana Hagiica, zicîndu-i că este bătrînă, și chochetă în ridicol .</p>
             <p>După ce aduserăți moda doamnelor marșande, și făcurăți pe cocoana Hagiica să-și cumpere o pălărie pe care a pus-o o dată de gura prietenelor cu care își consulta dumneaei gustul  și a eșit la grădina Castrișoaei, apoi făcurăți pe cîțiva domnișori tineri să-i zică că-i stă rococo pe cap . Fie că și dumneaei în necazul tutulor a hotărît  ca în lipsa Hagiului să-și facă alta la care o s-adaoge și pene, și atunci, să vedem  c-o să mai ziceți, pentru că dumneaei nu face toate acestea din punga nimului, ci chiar cu banii ce-i avea puși la o parte din economii.</p>
@@ -419,7 +420,7 @@
          <div type="chapter" n="11">
             <head>XI.</head>
             <milestone unit="line"/>
-            <head>CĂLCAREA HOțILOR.</head>
+            <head>CĂLCAREA HOȚILOR.</head>
             <p>— Stăpîne, rău făcurăm că nu rămăserăm să mînem în satul vecin , zise Stan vizitiu, pentru că pădurea ține cam mult  și iată un  nor  de ploae s-arată despre miază-zi.</p>
             <p>— Nicolae! să-mi aprinzi un  ciubuch , zice Hagiul, cel ce căuta pe cer  după spusa vizitiului său, să vază daca mai e mult  pînă seara, și văzînd că vijeliea nu era departe ca să turbure orizontul, ceea ce și începu a mișca cu putere frunzele copacilor ce fîșieau împregiuru-i și a ridica vîrtejuri de pulbere înaintea cailor. Mînă mai iute Stane! să ajungem la conac  și mîine de prînz  să intrăm  în Giurgiu.</p>
             <p>Nicolae cel ce mai întîiu se scărpină în cap , făcu ce făcu de aprinse ciubuchu, scăpărînd într-o iască, căci avea asupră-i toate dichisele pentru ciubuch  ce le ținea într-o pungă de bășică de bo , îl dete în mîna Hagiului și șez  iarăși pe chichița căruți de din nainte.</p>
@@ -452,7 +453,7 @@
          <div type="chapter" n="12">
             <head>XII.</head>
             <milestone unit="line"/>
-            <head>POLIțA RĂPUSĂ</head>
+            <head>POLIȚA RĂPUSĂ</head>
             <p>Autoritatea locală fu înștiințată fără întîrziere, satele de prin pregiur  fură rădicate, care, din preună cu subcîrmuirea, tistii, dorobanți, vătășei ș. c. l., goniră pe acești tălhari care au jefuit cu un  chip  așa de neomenos  pe chir hagiu. Parte dintre dînși s-au prins îndată, parte mai tîrziu, iar cîți au apucat d-au trecut Dunărea dincolo, nu-i a mai prins pînă astăzi. Totul însă ce știm e că hagiul nu-și a priimit încă înapoi bani și sculele ce i s-a furat. Așa dar urmînd înainte împregiurările cîte se ating de persoana hagiului și a lui Costache, de îndată ce se isprăvi bătaea, fiind că cam înoptase hagiul își legă printr-o basma de după gît , mîna dreaptă care era mai mult  lovită, își legă cu niște petice capul ce era plin  de sînge, și văzînd că Stan era încă p-în pregiurul cailor ce-i scăpase din giarele hoților cu toporul său în mîi ni; îi zise să înhame mai degrab și după ce repetă de mai multe ori numele sfintei prea curate, drept mulțumire că a scăpat cu zile ca să-și mai revază familiea, și pînă n-apucă să mulțumească celor ce veniră în ajutorul său, întrebă de Nicolae băiatul unde este. Stan care în intervalul acestei scene abea a putut să-și apere capul nu-i avea de știre ce se făcuse.</p>
             <p>— Unde e Nicolae! întrebă hagiul, ce s-a făcut Nicolae?</p>
             <p>— Măi! Nicolae mă!... începu să dea chiote ăl Stan al nostru, cu spetele ca de pandur  și cu glasul ca d-un  bucium , dar Nicolae nu se vedea nicăeri, și tocmai cînd Hagiul se gătea a zice Dumneze  să-l erte că poate l-o fi omorît hoții, se pomeniră cu el că scoate capul din ăl tuferiș  ca un  șoarece dintre scînduri, galben  ca turta de ceară, tremurînd, și cu ochii cît pumnu, plin  de lacrăme, socotind că Hagiul era mort , împușcat , fript , mai știea și el ce să crează, căci îl văzuse cînd l-a năvălit atîți hoți din a căror giară, ce e drept , puțină speranță ar- fi rămas daca din întîmplare nu venia acei oameni buni spre ajutoru-i.</p>

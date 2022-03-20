@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -70,6 +70,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -83,12 +84,12 @@
       <front>
          <div type="titlepage">
             <p>Ioan M. Bujoreanu</p>
-            <p>Ediție îngrijită, note, glosar și bibliografie de MARIAN BARBU, Prefață de șTEFAN CAZIMIR</p>
+            <p>Ediție îngrijită, note, glosar și bibliografie de MARIAN BARBU, Prefață de ȘTEFAN CAZIMIR</p>
             <p>„Editura Minerva”</p>
          </div>
          <gap n="[missing]" unit="page" quantity="1"/>
          <div type="liminal">
-            <head>PREFAțĂ</head>
+            <head>PREFAȚĂ</head>
             <p>Istoria literară numără destule exemple de scriitori cu succese notabile în timpul vieții, pe care posteritatea îi dă uitării. Cazul invers se petrece mult mai rar. Nu cunoaștem aprecierea de care s-au bucurat în epocă scrierile lui Ioan M. Bujoreanu, pentru că nimeni nu s-a ostenit s-o consemneze. Secolul nostru, în schimb, le-a arătat o atenție binevoitoare, și — fapt vrednic de subliniat — primii exponenți ai noii atitudini au fost N. Iorga și G. Călinescu.</p>
             <p>Aparținînd unui timp în care activitatea literară nu dobîn-dise încă un statut profesional, Ioan M. Bujoreanu (1834—1899) a practicat scrisul în marginea altor îndeletniciri, de bună seamă mai lucrative. A ocupat mai multe posturi publice (raportor județean, referent ministerial, director de prefectură, judecător, redactor la <hi>Monitorul oficial)</hi> și a profesat avocatura. Prima lui tentativă literară o constituie adaptarea, în 1853, a unei comedii de Scribe: <hi>Doi dascăli pricopsiți,</hi> sau <hi>Asinus asinum fricat</hi>(după <hi>Les deux précepteurs);</hi> unele pasaje ale textului pot reține atenția prin notele lor de culoare locală. Piesa a fost jucată, în stagiunea 1853—1854, de către trupa lui C. Caragiali <hi>ch</hi>Pentru tînărul de 19 ani care semna versiunea românească era desigur un îndemn de a continua.</p>
             <p>Răstimpul dintre 1855 și 1864 înregistrează cvasitotalitatea contribuțiilor literare ale lui Bujoreanu, originale sau traduse. Dramaturgia e reprezentată prin <hi>Fata subt epitrop,</hi> comedie în un act cu cîntece, 1855; <hi>Teatru (Cuconu Zamfirache, Bătrîniul</hi>
@@ -115,10 +116,10 @@
             <p>„— Apoi, voi sunteți niște proști, mă, strigă Negoiță cu un aer vesel. Uite, cînd ați cunoaște ce este bun, ați face ca mine; știi, mă, ce este iarna în pușcărie?... Uite, este raiu pe pămînt; îți dă stăpînirea țoale bune, încălțăminte, lemne, luminare, mîncare și tot ce-ți trebuie. Apoi ce viață!... A întrecut și fteatru, și lăutari, și tot. Eu unul, să vă spui drept, cînd n-aș ierna în pușcărie, aș muri fără îndoială... să plătiți, mă, ca să fiți acolo.</p>
             <p>— Dacă este așa, în pușcărie mă duc de iarnă, zise țiganul din Ialomița.”</p>
             <p>O mențiune pozitivă merită de asemeni conturarea cadrului acțiunii; prozatorul mînuiește o mare bogăție de detalii concrete, capabile a lărgi cunoștințele noastre asupra epocii evocate. în perioada de căutări active care precede apariția <hi>Ciocoilor vechi,</hi> romanul lui Ioan M. Bujoreanu se înscrie ca o încercare meritorie. Sînt în el, după aprecierea lui G. Călinescu, „pagini care se pot extrage și citi cu simpatie” J. Aici aflăm și rațiunea principală a recuperării scriitorului în epoca noastră.</p>
-            <p>șTEFAN CAZIMIR</p>
+            <p>ȘTEFAN CAZIMIR</p>
          </div>
          <div type="liminal">
-            <head>NOTA ASUPRA EDIțIEI</head>
+            <head>NOTA ASUPRA EDIȚIEI</head>
             <p>In literatura română numele lui Ioan M. Bujoreanu este amintit ori de cîte ori se discută despre începuturile romanului în general și a celui de mistere în special. Dar autorul s-a manifestat și în domeniul teatrului, dînd la iveală cîteva piese ingenioase <hi>Fata subt epitrop</hi> — 1853, <hi>Cuconu Zamfirache</hi> — 1857, <hi>Judecata lui Brînduș</hi> — 1864 care-l plasează printre precursorii lui I. L. Caragiale.</p>
             <p>Alături de aceste doo compartimente literare — proza și teatrul — Bujoreanu a cultivat și foiletonul, articolul de gazetă, cronica teatrală, poezia de ocazie, tabloul de moravuri ori comentariul juridic, fără a depăși pragul veleitarismului sau al unui ton justițiar. Ioan M. Bujoreanu a fost un,,ambițios elia-desc” cu tendințe vădite de a cuprinde în activitatea sa toate domeniile ce țin de menirea unui scriitor. Poate de aceea îl găsim și în postura de editor, în anul 1885 (la tipografia Academiei apăreau, în condiții grafice deosebite, <hi>Pravila bisericească, numită Cea mică</hi>, <hi>tipărită în Monastirea de la Govora la anul 1640</hi> și <hi>Pravila lui Matei Basarab cu canoanele Sînților Apostoli, intitulată îndreptarea legei, tipărită la Tîrgoviște, în anul 1652).</hi>
             </p>
@@ -214,13 +215,13 @@
          </div>
       </front>
       <body>
-         <head>MISTERE DIN BUCUREșTI</head>
+         <head>MISTERE DIN BUCUREȘTI</head>
          <gap n="[missing]" unit="page" quantity="1"/>
          <div type="group">
             <head>VOLUMUL I</head>
             <div type="chapter">
                <head>CAPITUL I</head>
-               <head>FRAțII LUNGENI</head>
+               <head>FRAȚII LUNGENI</head>
                <head>GRĂDINA chISELEFF. PĂDUREA BĂNESII.</head>
                <p>Era una din cele mai frumoase diminețe ale lui mai; soarele nu răsărise încă; o lumină roșcată care se desina pe bolta cerului, alungată de razele lui, îi anunța apariția peste un cuart de oră. Totul era în tăcere; zgomotul trăsurilor și al oamenilor matinali nu începuse a asurzi pe leneșii carii deschideau ochii în miezul zilei. Abia dacă se auzea în depărtare neplăcuta ciocănitură a fierăriilor. O fereastă a unei case cu doo etaje, așezată în mahalaua Gorgani, era deschisă spre a atrage în camera dependentă curatul aer al dimineții. O grădină spațioasă se prezenta vederei aceii ferește, din carea trandafirii și liliacul înălțau în atmosferă mirosul lor dulce și atrăgător; pasările zburau din arbore în arbore neștiind pe care să aleagă și cum să esprime mai bine, prin ciripiturile lor armonioase, mulțumirea ce simțeau că se regăsesc în acea lună favorită, în care natura radioasă le ascultă cu o vie plăcere. Doi oameni se aflau la fereastă privind în.grădină; ei fumau din doo ciubuce lungi de lemn de iasomie și sorbeau din vreme în vreme puțină cafea neagră din ceștile ce se aflau dinaintea lor. Unul din acești doi oameni atinsese de al cincizecilea an; părul îi era cărunt; pe întinsa lui frunte nu se zărea nici o încrețitură care să-i numere anii la întîia vedere; talia îi era potrivită, ochii săi verzi erau plini de atracție, gura îi era rumenă și părea că se deschide numai pentru a surîde, obrazul său rotund avea un ce franc și amabil care anunța un om vesel și cumsecade. Celalt era numai de doozzci și șapte ani; întru toate semăna celui dintîi, se deosebea numai printr-o talie mai regulată și printr-o barbă neagră rotundă ce purta și care era în proporție cu fizionomia lui. Aceștia erau frații Lungeni, carii se iubiseră cu tandreță din cea mai fragetă copilărie a lor și carii își pierduseră părinții de cincisprezece ani. Cel mai în vîrstă, ștefan, rămăsese cu îngrijirea și educația fratelui său Matei. Cînd acest din urmă intrase în al noosprezecelea an, ștefan, cu tot amorul fratern, se văzu silit a se despărți de Matei spre a-L trimite în streinătate ca să îmbrățișeze vreo specialitate, căci dînsul avea de singură ocupație agricultura, ceea ce apucase de la părinți. Matei își săvîrșise studiile în Paris și revenise în brațele fratelui său, licențiat în drept. Lunga despărțire nu răcise nicidecum aceste doo inimi tandre care erau strîns legate.</p>
                <p>O lună trecuse numai de la înturnarea lui Matei; ei erau nedespărțiți; la teatru, la preumblări, acasă se aflau împreună; nu era cu putință să-i întîlnească cineva unul fără altul. Ei ocupau o singură cameră, se culcau și se sculau la ora fixată, aveau aceleași obiceiuri, aceleași mulțumiri, aceleași principii. Seara proiectaseră ca în acea dimineață să-și ia dejunul în pădurea Bănesii, în mijlocul mirosului micșunelelor și ghioceilor, și să petreacă în liniște, căci era zi de lucru și lumea ocupată de interese nu putea să turbure mulțumirile lor filosofice.</p>
@@ -656,7 +657,7 @@
             </div>
             <div type="chapter">
                <head>CAPITUL IV</head>
-               <head>CONSECINțELE ACESTUI FAPT</head>
+               <head>CONSECINȚELE ACESTUI FAPT</head>
                <p>Nodreanu, bărbatul Virginiei, era în vîrstă de treizeci și cinci de ani; era bine făcut, avea o talie potrivită și o fizionomie uscățivă, impozantă și amabilă. El se întoarce de la moșie a doua zi după fuga nevestei sale pe la cinci ore după-miazăzi. Servitorii ieșiră nainte-i, deschiseră ușile și mare fu mirarea sărmanului om cînd nu găsește pe Virginia în casă. El se adresă către servitoare:</p>
                <p>— Ioano, unde este Virginia?</p>
                <p>— Nu știu, cuconașule, răspunse servitoarea. Aseară a fost adunare și după plecarea musafirilor, cuconița m-a gonit din casă zicîndu-mi că nu mai are trebuință de mine. Astăzi de dimineață cînd am venit să-i aduc dulceață, nu am găsit-o în casă și așternutul era cum îl lăsasem.</p>
@@ -1051,7 +1052,7 @@
                <p>— Ce să fie o pușcă în contra a patru sau mai multe, căci hoților nu le lipsesc armele?</p>
                <p>— în orice caz, Matei, am nenorocirea de a fi prea curios și cu orice preț voi să știu ce se petrece acolo.</p>
                <p>— Pentru Dumnezeu, nu-ți espune viața dintr-o simplă curiozitate, fratele meu, îi zice Matei rețiindu-l.</p>
-               <p>— Sunt sigur că nu-mi espui nicidecum viața, și vel vedea Matei. Dumitale dacă-țL este frică, așteaptă aici pînă mă voi întoarce.</p>
+               <p>— Sunt sigur că nu-mi espui nicidecum viața, și vel vedea Matei. Dumitale dacă-ȚL este frică, așteaptă aici pînă mă voi întoarce.</p>
                <p>— Nu-mi este frică nici mie, zice Matei îndată, dar oricum, ce idee ca să intrăm în mijlocul acelor bețivi?</p>
                <p>— Nu vom intra înăuntru, ci vom asculta. Dacă am descoperi vreo crăpătură pe unde să vedem fără ca să fim zăriți, aș avea o mulțumire nespusă.</p>
                <p>Matei nu mai zice nimic și urmează pe fratele său. Ajungînd la spatele acei căsuțe țărănești, care era de gard și dezlipită pin toate părțile, ștefan se oprește deodată cu Matei.</p>
@@ -1202,7 +1203,7 @@
                <p>— Dar o să se lege craii de tine,„ Tincuțo, ș-apoi, tu care nu știi o să-ți pară rău în urmă că ai avut asemenea mulțumire care o să-ți iasă pîn piele.</p>
                <p>— Poftim vorbă!... dar; ce crezi că m-aș duce așa ca să mă vază toți?... ți-ai găsit: oi să pui și eu o mască ca toate celelalte și oi să mă plimb ca ele. Cine o să mă cunoască dacă nu mă leg de nimeni?... In urmă, după ce ne-am sătura de preumblare, aș sta lâ un loc numai ca să privesc. Ce zici, Mario; așa e că o să facem pe Elisaveta să meargă cu ti oi?</p>
                <p>— Scumpa mea verișoară, zice Maria; este adevărat că nu am avut niciodată mulțumirea sau dorința ca să merg la clup, cu toate acestea eu nu mă dau la o parte dacă voiește muma mea.</p>
-               <p>— Auzi, mamă Elisaveto!... strigă cu bucurie Tin-cuța îmbrățișînd pe bătrîna Sălcianca. țJite că și Maria, cit este de înțeleaptă, vrea să meargă și dînsa, dar știi bine că nu spune, nici se hotărăște așa lesne.</p>
+               <p>— Auzi, mamă Elisaveto!... strigă cu bucurie Tin-cuța îmbrățișînd pe bătrîna Sălcianca. ȚJite că și Maria, cit este de înțeleaptă, vrea să meargă și dînsa, dar știi bine că nu spune, nici se hotărăște așa lesne.</p>
                <p>— Vorbește, Mariuțo: vrei să mergem, mamă? Tu</p>
                <p>știi ce va să zică clupul și dacă ne-ar fi iertat să-l vedem și noi...</p>
                <p>— Sunt și eu curioasă ca să văz ce este, zice Maria; și fiind mascate crez că nu vom fi supărate de nimeni și vom petrece fără ca să ne cunoască cineva.</p>
@@ -1537,7 +1538,7 @@
             </div>
             <div type="chapter">
                <head>CAPITUL IX</head>
-               <head>AMORUL șI CRIMA</head>
+               <head>AMORUL ȘI CRIMA</head>
                <p>După ce arătarăm împrejurările ivite în acea miercure în casa Dăngescului, să vedem ce se petrecu tot în această zi și în casa Sălcianului.</p>
                <p>De eînd începuse timpul frumos, Maria și Tincuța petreceau toată ziua în grădina ce aveau la spatele casei lor; acolo ele împleteau la ciorapi și se întrețineau pînă cînd soarele devenea arzător. După ce prînzeau, reveneau în grădină cu lucrul și se puneau pe o bancă așezată lîngă un salcîm pletos, unde rămîneau până seara. Dar despre ce se întrețineau ele totdauna? Pentru ce Maria pleca ochii cîteodată? și pentru ce Tincuța o lăsa adesea singură, ocolind grădina în mai multe rînduri și uitîndu-se în toate părțile cu cea mai mare curiozitate fără însă ca ea să caute pe cineva?...</p>
                <p>Ce de lucruri nu se petrecuse în grădina cojocarului de la acea seară de bal mascat!... Aceasta o vom afla mai la vale; vom lua mai întîi de la început acea zi, de miercuri și vom face o mai bună cunoștință cu Sălcianu.</p>
@@ -2018,7 +2019,7 @@
             </div>
             <div type="chapter">
                <head>CAPITUL XI</head>
-               <head>SENTENțA TRIBUNALULUI</head>
+               <head>SENTENȚA TRIBUNALULUI</head>
                <p>Împrejurarea omorului, ca orice crimă, făcuse un zgomot mare în toată capitala Bucureștilor. A doua zi, toată lumea era încunoștiințată că dinaintea prăvăliei Sălcianului cojocarul se găsise o femeie moartă. Bogații credeau că a omorît-o hoții ca să-i ia o salbă de galbeni de la gît. Femeile presupuneau că fusese omorîtă de fata Sălcianului căci își rivalizau amîndoo un același amant. Pătimașii stăruiau a lăți vorba că a fost otrăvită de un doctor pentru că nu voise să-l iubească. Bătrînii aveau convingerea că i-a venit apoclexie pretinzînd că Frusina era prea grasă, și, ca să dea o mai mare tărie presupunerilor, inventase că părinții și rudele fetei o văzuse toată ziua aprinsă și cu sîngele în cap. Babele constatau că murise de deochi fiindcă fata era prea frumoasă. Toate aceste vorbe circulau în lume, nu se știa însă adevăratul izvor al omorului, căci adevărul, deși confuz, nu se împrăștiase încă sau cel puțin fusese deocamdată bine ascuns.</p>
                <p>Procurorul, fidel promisiei ce dase Dăngescului, făcuse un act de acuzație prin care dezvinovățea cu desă-vîrșire pe Neagu Bolboacă și prin care incrimina pe nenorocitul Sălcianu. Ca să dea lucrărei un curs mai repede, el înaintase tribunalului chiar în acea zi actul de acuzație.</p>
                <p>Sălcianu îndeplinise formalitatea ce i se impusese de procuror. El găsise pe un meseriaș, amic al său, și se dusese cu dînsul la comisie unde depusese garanția cerută.</p>
@@ -2447,7 +2448,7 @@
                   <label>CAPITUL I</label>
                </p>
                <p>
-                  <label>VIZITAțIA NOPTURNA</label>
+                  <label>VIZITAȚIA NOPTURNA</label>
                </p>
                <p>Dăngescu și domnu Lobadă judecătorul aștept pe Alexandru pînă la cinci ore dup-amiază ca să prînzeas-că împreună, dar așteptarea lor a fost vană, căci Alexandru rămăsesedîngă amanta sa pînă la cinci ore și jumătate. Pe la șase ore, el pleacă de la Maria promițin-du-i că se va întoarce înserat ca să-i aducă nuvele despre tatăl ei. Maria, Elisaveta și Tincuța îi mulțumesc pentru această binefacere și Alexandru se duce la temniță, unde ajungînd fu introdus în camera îngrijitorului.</p>
                <p>Acest foncționar, care cunoștea pe Alexandru și pe familia lui, se scoală îndată ce-l vede și șade în picioare pînă cînd Alexandru îl roagă cu stăruință ca să ocupe un scaun.</p>
@@ -2755,7 +2756,7 @@
                   <label>CAPITUL II</label>
                </p>
                <p>
-                  <label>O ÎNțELEGERE NEÎNțELEASĂ</label>
+                  <label>O ÎNȚELEGERE NEÎNȚELEASĂ</label>
                </p>
                <p>Maria, ajungînd acasă prea amețită de cele ce se petrecuse, roagă pe toți să o lase singură, intră în camera ei, se pune în pat și începe a plînge:</p>
                <p>„Sărmană mașină umană!... își zise ea cu mintea rătăcită. Durerea ia totdauna locul ce se conservă numai bucuriei. Bucuria!... dar ce este ea alt decît avangarda unei nenorociri, prevestitoarea lacrămilor!?... Dumnezeul meu, ce greșală am făcut ca să fiu pedepsită cu atîta asprime î?... Tu ordoni să renunț la amantul meu ca să scap pe părintele meu?... Ei bine, voi ese-cuta ordinile tale și-mi voi împlini datoria de o bună fiică. Voi suferi un abandon nedrept, mă voi lăsa în voia soartei, dar aș dori mai bine să mor și pentru aceasta nu văz trebuința pentru ce m-am născut. O, iar-tă-mă, Dumnezeul meu,dacă îndrăznesc a crede că providența ta este cîteodată sora întîmplărei și a fatalităței. Este grozav de a profera niște asemenea rătăciri, dar din nenorocire ele nu sunt cîteodată decît tristul ade-var.”</p>
@@ -3095,7 +3096,7 @@
                <p>
                   <label>SUPRINDEREA, DISPUTA, NELEGIUIREA</label>
                </p>
-               <p>Dăngescu așteptă a doua zi răspunsul hotărîtor al Măriei,dar așteptarea sa fu în van căci în această zi se efectua înmormîntarea Sălcianului. El crezu mai întîi că tînăra fată se găsea în neputință de a renunța la amantul său și că prefera să vază pe tatăl său închis și nenorocit decît să piarză pe Alexandru. Cu toate acestea el nUHși pierdu speranța și așteptă pînă seara. Văzînd însă că nici seara ea nu vine, cheamă pe Bolboacă și-l trimite să vază dacă Alexandru, care lipsea în acel moment, se afla la dînsa, și în acest caz să vie să-l vestească. Bolboacă pleacă să-i esecute ordinul și, ajungînd la casa Sălcianului, văzu pe toată familia lui în doliu așezată pe prispa ce avea fațadă în grădină. închipuindu-și pentru un minut că Sălcianu poate să fi murit în temniță, dar neînțelegînd cum o asemenea împrejurare survenise într-un timp așa de scurt și fără ca el să fi aflat, se adresă către ura vecin ce se afla la fereastă:</p>
+               <p>Dăngescu așteptă a doua zi răspunsul hotărîtor al Măriei,dar așteptarea sa fu în van căci în această zi se efectua înmormîntarea Sălcianului. El crezu mai întîi că tînăra fată se găsea în neputință de a renunța la amantul său și că prefera să vază pe tatăl său închis și nenorocit decît să piarză pe Alexandru. Cu toate acestea el nUHȘi pierdu speranța și așteptă pînă seara. Văzînd însă că nici seara ea nu vine, cheamă pe Bolboacă și-l trimite să vază dacă Alexandru, care lipsea în acel moment, se afla la dînsa, și în acest caz să vie să-l vestească. Bolboacă pleacă să-i esecute ordinul și, ajungînd la casa Sălcianului, văzu pe toată familia lui în doliu așezată pe prispa ce avea fațadă în grădină. închipuindu-și pentru un minut că Sălcianu poate să fi murit în temniță, dar neînțelegînd cum o asemenea împrejurare survenise într-un timp așa de scurt și fără ca el să fi aflat, se adresă către ura vecin ce se afla la fereastă:</p>
                <p>— Domnule, zise el vecinului. Ești destul de bun ca să-mi spui pentru ce este în doliu familia Sălcianului?</p>
                <p>— Cum să nu fie în doliu? răspunse vecinul. Astăzi s-a îngropat nenorocitul cojocar căruia i-a căzut apo-plexie în temniță.</p>
                <p>— Este.cu neputință!... murmură Bolboacă.</p>
@@ -3789,7 +3790,7 @@
                   <label>CAPITUL IX</label>
                </p>
                <p>
-                  <label>DOI AMANțI</label>
+                  <label>DOI AMANȚI</label>
                </p>
                <p>Monastirea Dintr-un lemn este una din monastirile cele mai vechi ale României. Această monastire, care este situată pe o muchie de deal în partea despre nord -vest a Rîmnicului-Vîlcei, sub numirea Dintr-un lemn, datează de la al patrusprezecelea secol, de cînd adecă s-a făcut descoperirea următoare.</p>
                <p>Se asigură că într-o noapte de vană, mai mulți ciobani se aflau cu oile în partea locului, care nu era alt decît o pădure, culcîndu-se lîngă un stejar gros și nalt, în lipsă de orice fel de colibă sub carea să se adăpostească, unul dintre dînșii văzuse în vis, pe la o oră foarte înaintată a nopței, o icoană a sîntei Mărie, care se afla mîntrul acelui stejar. Această vedere îl făcu să se deștepte. El se sculă îndată, privi stejarul la lumina lunei și însemnă cu vîrful cuțitului partea locului unde i se prezentase icoana. După aceasta strigă pe toți tovarășii săi, carii dormeau profund și carii, la un asemenea apel, se deșteptară spăimîntați în temerea,că li sa întîmplât vreo nenorocire. Fiecare se grăbi a face întrebări ciobanului și acesta le comunică în detaliu visul ce făcuse. Mirarea fu generală și respectul către religie îi coprinse pe nesimțite. Ei se consultară dacă trebuie să facă operația noaptea sau să o amîne la ivirea aurorei, iar ciobanul care avusese fericitul vis propusese a o începe îndată căci luna era luminoasă și stejarul destul de vizibil. După ce el arătă la toți locul unde văzuse icoana, fiecare începu a tăia și a scobi stejarul cu cuțite și cu tesle cu cea mai mare băgare de seamă. Cînd ei înaintase cu lucrarea scobi turei la o palmă înîntrul stejarului, aurora începu a se ivi și ciobanul care visase fu cel dintîi care zări un colț al icoanei. Visul fusese o realitate, căci după ce se tăie copaciul și după ce icoana întreagă rămase vizibilă, ciobanul căzu în genunchi și încredință pe tovarășii săi că era astfel precum i se arătase în vis.</p>
@@ -4016,7 +4017,7 @@
                   <label>CAPITUL XI</label>
                </p>
                <p>
-                  <label>DEZOLAțIA</label>
+                  <label>DEZOLAȚIA</label>
                </p>
                <p>Alexandru se întoarce la otel foarte supărat de cele ce se petrecuse între dînsul și tatăl său. El nu găsește nici pe Elisaveta, nici pe Maria, căci ele se dusese cu</p>
                <p>Tincuța ca s-o petreacă acasă și să rămîie acolo pînă seara. Văzîndu-se singur și prin urmare liber a se gîndi în liniște, tînărul Dăngescu începu să cugete profund asupra direcției ce va trebui să dea unor împrejurări atît de grave.</p>
@@ -4248,7 +4249,7 @@
       </body>
       <back>
          <div type="liminal">
-            <p>JUDECATA LUI BRÎNDUș</p>
+            <p>JUDECATA LUI BRÎNDUȘ</p>
             <p>COMEDIE IN TREI ACTE</p>
             <p>Vezi I. Horia Râdulescu, <hi>Scribe sur la scène roumaine dans la première moitié du XlX-e siècle,</hi> în <hi>Mélanges de Vécole roumaine en France</hi>, <hi>XVI,</hi> 1939—1940, p. 72—79.</p>
             <p>Mihaela șchiopu, I. M. <hi>Bujoreanu traducător din Boccaccio,</hi>în <hi>Revista de istorie și teorie literară,</hi> 1977, nr. 1, p. 77—79.</p>

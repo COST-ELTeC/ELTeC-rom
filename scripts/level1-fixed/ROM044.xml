@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -42,7 +42,7 @@
                <author>Alessandru Pelimon</author>
                <title>Unu funcționaru sinucisu. Fratele și sora</title>
                <pubPlace>Bucharest</pubPlace>
-               <publisher>TIPOGRAPHIA NAțIONALE ANTRE. C. N. RADULESCU</publisher>
+               <publisher>TIPOGRAPHIA NAȚIONALE ANTRE. C. N. RADULESCU</publisher>
                <date>1873</date>
                <ref target="http://doi.org/10.5281/zenodo.3229345">Facsimile on Zenodo</ref>
             </bibl>
@@ -63,6 +63,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [’'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -79,7 +80,7 @@
             <p>DE</p>
             <p>ALESSANDRU PELIMON</p>
             <p>BUCURESCI</p>
-            <p>TIPOGRAPHIA NAțIONALE ANTRE. C. N. RADULESCU</p>
+            <p>TIPOGRAPHIA NAȚIONALE ANTRE. C. N. RADULESCU</p>
             <p>STRADA ACADEMIEI No. 24.</p>
             <p>1873</p>
          </div>
@@ -586,7 +587,7 @@
             <p>— Ați maltratată secsulu frumosu, generale! ați feș-telită rochia ddmnei care stă acolea.</p>
             <p>— A!... esclamă generalulu, cum se pote?</p>
             <p>— Așa ați făcută, țlice femeia către comandantele, mie nu-mi dă mâna să cumpără în tote filele rochii de mă-tăsărie.</p>
-            <p>— Atunci priimesce, țlise comandantele, totă s-a pătată rochia, să o muiemă bine în șampanie, ca să cumperi alta noo. și cu o mână luându o sticlă o turnă d-asupra eî precum tornă cineva oțetă și undelemntt la salată, și cu cealaltă mână puse în mâinile femeie! ună fișică cu vre o țlece imperiali, care acesta, îndată ce simți, după greutatea fișicului, că e aură într-ensulă, amuți d-a mal țlice ce-va; se sculă ensă iute în susă, și cu unu aeră jumătate supărată și pe jumătate mul-țiămită, se scutură pe rochie de spuma ce lăsase vi-nulu. Ea ensă se uită la Ioniță cu ună aeră așa de du-rerosă, ca cum-I ar fi țUsă: veți! ce nefericită sântă?</p>
+            <p>— Atunci priimesce, țlise comandantele, totă s-a pătată rochia, să o muiemă bine în șampanie, ca să cumperi alta noo. și cu o mână luându o sticlă o turnă d-asupra eî precum tornă cineva oțetă și undelemntt la salată, și cu cealaltă mână puse în mâinile femeie! ună fișică cu vre o țlece imperiali, care acesta, îndată ce simți, după greutatea fișicului, că e aură într-ensulă, amuți d-a mal țlice ce-va; se sculă ensă iute în susă, și cu unu aeră jumătate supărată și pe jumătate mul-țiămită, se scutură pe rochie de spuma ce lăsase vi-nulu. Ea ensă se uită la Ioniță cu ună aeră așa de du-rerosă, ca cum-I ar fi ȚUsă: veți! ce nefericită sântă?</p>
             <p>Ioniță atinsă penă la sufletă și crețlendă, după aerulă ei, că are ună sufletă de angelă deră este nefericită, făcu duol pași către densa și-I dete brațulă, care acăsta îlă priimi cu mulțiămire, vățlândă că rușii prinseră a se ameți și cine scie ce era să i se mai întâmple, nefiindă ‘ajutată de cineva; deră Ioniță, prin purtarea sea, sa păru dinaintea ei ca ună archanghelă care o scăpa.</p>
             <p>Elă țlise, adresându-se către ruși:</p>
             <p>— Domnitorii! dumneaei este nevasta mea, lăsați-o dării!...</p>

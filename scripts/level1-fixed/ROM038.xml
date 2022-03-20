@@ -25,7 +25,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -61,6 +61,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -78,8 +79,8 @@
             <p>Roman Creștin</p>
             <p>DE</p>
             <p>IULIU DRAGOMIRESCU</p>
-            <p>EDIțIA a DOUA</p>
-            <p>BUCUREșTI</p>
+            <p>EDIȚIA a DOUA</p>
+            <p>BUCUREȘTI</p>
             <p>Editura Imprimeriei E. S. Cerbu</p>
             <p>29, CALEA VICTORIEI, 29.</p>
             <p>1902</p>
@@ -91,8 +92,8 @@
             <p>Roman Creștin</p>
             <p>DE</p>
             <p>IULIU DRAGOMIRESCU</p>
-            <p>EDIțIA a DOUA</p>
-            <p>BUCUREșTI</p>
+            <p>EDIȚIA a DOUA</p>
+            <p>BUCUREȘTI</p>
             <p>Editura Imprimeriei E. S. Cerbu</p>
             <p>29, CALEA VICTORIEI, 29.</p>
             <p>1902</p>
@@ -101,7 +102,7 @@
             <p>TOATE DREPTURILE REZERVATE</p>
          </div>
          <div type="liminal">
-            <p>DEDICAțIE</p>
+            <p>DEDICAȚIE</p>
             <p>Celor care plîng și nu suni iubiți, care doresc fără speranță, care se trudesc și nu folosesc, autorul închină această operă.</p>
             <p>Celor care au suferit de la colegi și profesori, care au iubit zine nevăzute și au căutat enigme, autorul închină această operă.</p>
             <p>Celor prigoniți, poeților învinși de nulități, literaților nobili și artiștilor de geniu, loviți de aversiunea publică, de vremuri și de sărăcie, autorul închină această operă.</p>
@@ -1847,7 +1848,7 @@
             <p>
                <hi>Maiu 1897 — Iunie 1901</hi>
             </p>
-            <p>— SFÎRșIT —</p>
+            <p>— SFÎRȘIT —</p>
          </div>
       </body>
       <back>

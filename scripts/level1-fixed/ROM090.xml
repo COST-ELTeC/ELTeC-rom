@@ -25,7 +25,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -60,6 +60,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -73,10 +74,10 @@
       <front>
          <div type="titlepage">
             <p>IRINA G. LECCA</p>
-            <p>DREPTUL VIEțEI</p>
+            <p>DREPTUL VIEȚEI</p>
             <p>ROMAN</p>
             <gap n="[editorial]" unit="graphic"/>
-            <p>BUCUREșTI</p>
+            <p>BUCUREȘTI</p>
             <p>TIPOGRAFIA „UNLVESRALA”, IANCU IONESCU</p>
             <p>14, STRADA COVACI, 14</p>
             <p>1908</p>
@@ -84,10 +85,10 @@
          <pb/>
          <div type="titlepage">
             <p>IRINA G. LECCA</p>
-            <p>DREPTUL VIEțEI</p>
+            <p>DREPTUL VIEȚEI</p>
             <p>ROMAN</p>
             <milestone unit="unnumbered"/>
-            <p>BUCUREșTI</p>
+            <p>BUCUREȘTI</p>
             <p>TIPOGRAFIA „UNLVESRALA”, IANCU IONESCU</p>
             <p>1908</p>
          </div>
@@ -3127,7 +3128,7 @@
             </p>
             <p>De-ar putea povesti bonețelele cât pumnu, cămeșuțile cât palma, visele făurite de bunică, lucrându-le!</p>
             <p>O, cum voi adora mica ființă trandafirie, jumătate, el, jumătate ea. Mă-nduioșez până la lacrimi, gândind la suflețelul nevăzut, care m-a readus la viață!...</p>
-            <p>SFÂRșIT</p>
+            <p>SFÂRȘIT</p>
          </div>
       </body>
    </text>

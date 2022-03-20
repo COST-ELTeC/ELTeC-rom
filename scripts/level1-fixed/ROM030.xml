@@ -29,7 +29,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -64,6 +64,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -1060,7 +1061,7 @@
             <p>— Dacă la întoarcerea mea la vilă mi-a părut de ceva rău, e că nu am avut copii, că nu am putut întemeia și eu o familie. Azi vă am pe voi trei, am ideile și concepțiile mele, drept copiii mei; azi Co-rina, desrobită de păcătoasele și pătimașele iubiri, vă împreună pe Mircea, Aurora, Sorin și Perdita în aceeași sfîntă dragoste. Te ert, Aurora, căci asta-i datoria mea!</p>
             <p>Prin judecată m-am ridicat de-asupra păcatelor vieței, prin judecată m-am desrobit.</p>
             <p>Am asvîrlit sămînța desrobirei în ogorul sexului meu..., înflorește și în curînd va da rod. Da, de la un capăt la altul al țărei femeile, ajutate de principiile și sfaturile mele, merg... Spre Desrobire... Spre Desrobire.</p>
-            <p>SFÎRșIT</p>
+            <p>SFÎRȘIT</p>
          </div>
       </body>
    </text>

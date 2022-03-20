@@ -29,7 +29,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -60,6 +60,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-09-15">Annotation in ELTeC format: Smarandita Vasilachi, Lucretia Pascariu</change>
@@ -163,7 +164,7 @@
          </div>
          <div type="chapter" n="2">
             <head>CAPITOLU II.</head>
-            <head>SOARELE LIBERTAțIi șI SOARELE AMORULUi</head>
+            <head>SOARELE LIBERTAȚIi ȘI SOARELE AMORULUi</head>
             <p>Maica Minodora, plecând, încredință toiagul  păstoresc  maicei Marta, confidenta sa, având grijă a libera della închisore duoe maici culpabile, ș-a împărți bani pe la celle colțate, recomandând locoțiitorei selle a se purta cu blândețe și largeță cu toate, spre a nu le împinge la revoltă, timpul  fiind critic . Abia plecă, și economa mănăstirii, maica Lisaveta, încep  prin intrigi și bani a prepara terrâmul  spre a lua locul  superiorei, la încept utii lucrând pe subt ascuns , ca Sobolii, iar după 11 Iuniu pe față, la lumina sorelui.</p>
             <p>Maica Marta, superioră ad-interim, avea de amică intimă pe sora Agapia, care, prin caracterul  său blând , moravurile selle oneste, manierele selle pl cute, știuse inspira affectie și stimă tuturor; superioră Minodora o affecționa cu deoasebire: căci confidenta abatessei, soră de cruce cu sora Agapia, o descria în ochii superiorei ca pe singura femee din monastire blândă, supusă, onestă, departe de ori-ce intrigă, și cu totul  atașată superiorei.</p>
             <p>Acestei amice intime, locoțiitorea de superioră îi descoperise secretele abatessei, locuil  unde să trăsese, și celle ce aveau să se întâmple curând în România.</p>
@@ -740,7 +741,7 @@
          </div>
          <div type="chapter" n="7">
             <head>CAPITOLU VII.</head>
-            <head>REPUBLICA VENEțIEi TRANSPLANTATA IN UNELE MONASTIRi DE PESTE MILCOV</head>
+            <head>REPUBLICA VENEȚIEi TRANSPLANTATA IN UNELE MONASTIRi DE PESTE MILCOV</head>
             <quote>
                <p>Monăstirea V.... 16 Aug. 1848.</p>
                <p>Sora mea,</p>
@@ -809,7 +810,7 @@
          </div>
          <div type="chapter" n="8">
             <head>CAPITOL  VIII.</head>
-            <head>OLIGARHIA, DEMOCRAțIA șI DEMAGOGIA.</head>
+            <head>OLIGARHIA, DEMOCRAȚIA ȘI DEMAGOGIA.</head>
             <quote type="letter">
                <p>Monăstirea X.... 20 Aug. 1848.</p>
                <p>Sora mea Marta,</p>
@@ -1064,7 +1065,7 @@
          <milestone unit="line"/>
          <div type="chapter" n="11">
             <head>CAPITOL  XI.</head>
-            <head>CREDE șI NU CERCETA.</head>
+            <head>CREDE ȘI NU CERCETA.</head>
             <p>Elisa, intrând în chillia Agapiei, se aruncă într-un  fotoliu, și se pusse pe gânduri.</p>
             <p>— Vrei t  să analisăm puțin acelle întrebări și respunsuri, făcute cu occasia îmbrăcării mantiei căllugăreșci? întrebă Agapia pe vara sa.</p>
             <p>— Cu plăcere; fiind că mare luptă este în sufletul  meu, și dorescu a mă lumina.</p>
@@ -1931,7 +1932,7 @@
          <milestone unit="line"/>
          <div type="chapter" n="19">
             <head>CAPITOL  XIX.</head>
-            <head>ORIGINEA șI FASELE MONAHISMULUi.</head>
+            <head>ORIGINEA ȘI FASELE MONAHISMULUi.</head>
             <quote type="letter">
                <p>Monăstirea X... Sept. 20 1848.</p>
                <p>
@@ -2455,7 +2456,7 @@
          <milestone unit="line"/>
          <div type="chapter" n="24">
             <head>CAPITOL  XXIV.</head>
-            <head>INELLULU NUPțIALU</head>
+            <head>INELLULU NUPȚIALU</head>
             <p>In zioa de 8 Ianuariu 1849 trei nunți boeresci și una țărrănescă se făceați la o moșie de lîngă Bucuresci a boerului Căpațînă.</p>
             <p>Catmca, fata din casă a acèstui boer , cu cari lectorul a făcut cunoștință în Capitolul  XXII, se mărita in acea zi cu logofetul  Ion, isprăinni cellul  după acea moșie; căci și Catinca era tot din acell  sat , fata un i biet  săten  scăpătata.</p>
             <p>Trecem peste orația ce se obiclnuesce la asemenea nunți și cari rechiamă timp  primitivi ai Romanilor: scumpe și plăcute obiceiuri ce s-au conservat, p-îutre atâtea furtuni politice, din preuo cu limbă, cu costume, și cu atâtea alte deprinderi, ce attestă originea noastră.</p>

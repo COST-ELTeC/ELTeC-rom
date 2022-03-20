@@ -25,7 +25,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -60,6 +60,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -96,7 +97,7 @@
       <body>
          <div type="group" n="1">
             <head>Partea I</head>
-            <head>ASFINțITUL UNUI MARE LEAT</head>
+            <head>ASFINȚITUL UNUI MARE LEAT</head>
             <pb/>
             <div type="titlepage">
                <p>MOARTEA LUI CAIN</p>
@@ -106,7 +107,7 @@
             <pb/>
             <div type="titlepage">
                <p>Partea I-a</p>
-               <p>ASFINțITUL UNUI MARE LEAT</p>
+               <p>ASFINȚITUL UNUI MARE LEAT</p>
             </div>
             <div type="chapter" n="1">
                <head>CAPIT. I.</head>
@@ -756,7 +757,7 @@
                <p>și în adevăr, de cum pătrunse clerul în odaie, bolnavul căzu într-o to-ropeală adâncă. S-ar fi putut crede chiar că murise falnicul bătrân, de nu s-ar fi mișcat buzele, prin care se vedea că urmărea rugăciunile preoților. Deodată se ridică puțin în sus și, crucindu-se cu evlavie, întinse amândoo mâinile spre cer cuvântând lămurit și tare: „În mâinile milostivirii tale celei mari, părintele luminii, depun sufletul meu. Primește-mă întru împărăția ta!” Apoi liniștit și zâmbitor își așeză capul pe perină, îndreptându-l de do-o-trei ori, de părea că ar fi căutat cum o să-i fie mai îndemână ca să doar-mă somnul veșniciei; iar când voi să mai facă o dată semnul crucii, mâna sa dreaptă nu se mai ridică de pe umărul său cel stâng.</p>
                <milestone unit="dots"/>
                <p>Domnul doctor, sosind de la Iași, după o scurtă cercetare, făcu cunoscut familiei că clientul său încetase din viață și că boala de care murise purta un nume elino-latin pe care m-aș grăbi a-l spune, dar zău! că l-am uitat.</p>
-               <p>SFÂRșITUL PĂRțII I</p>
+               <p>SFÂRȘITUL PĂRȚII I</p>
                <milestone unit="line"/>
             </div>
          </div>
@@ -1333,7 +1334,7 @@
                <milestone unit="dots"/>
                <p>Când veniră să-i aducă porția de seară, îl găsiră pe bietul Ghiță rece și neînsuflețit</p>
                <p>Iar fiindcă nu fusese încă judecat, se dădu, după mare stăruință, voie părinților săi să-l îngroape în cimitirul din Vultureni, care se află alături cu bisericuța din vale, acea cu proptele multe și care ține minte tocmai din vremile volintirilor lui Ipsilante.</p>
-               <p>SFÂRșIT</p>
+               <p>SFÂRȘIT</p>
             </div>
          </div>
       </body>

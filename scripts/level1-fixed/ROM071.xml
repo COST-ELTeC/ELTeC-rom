@@ -29,7 +29,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -64,6 +64,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -2053,7 +2054,7 @@
             <p>— Cine, dracul, m-a făcut pe mine să mă amestec în treaba aceasta?! zise Trică, cuprins de sîmțămîntul că puțin îi mai pasă de cele ce vor urma. Eu tot n-am s-o mai scap nici de nenorocire, nici de rușine.</p>
             <p>— Liniștiți-vă, că o să scăpați voi toți de mine, grăi Persida, cuprinsă de o durere atoatecovîrșitoare. E înspăimîntător gîndul vieții petrecute în lumea aceasta, și fiecare clipă de mulțumire e numai un re-paos trecător după un lung șir de grele suferințe. Cuprinsă de o grea boală sufletească, în care am căzut din clipa zămislirii mele, eu alerg chinuită prin lume, mă muncesc însami pe mine, și cînd țip, cînd rîcnesc de durere, oamenii, semenii mei, nu-și dau seamă că tot ca mine sufăr și ei și nu împărtășesc durerea mea, ci se depărtează cu dispreț de mine. știu — urmă ea cu vioiciune — că o nenorocire e pentru noi amîndofc că ne-am văzut și ne vedem, dar sufletul mi se umple-de o nespusă dulceață cînd privesc în ochii lui, fie ei chiar încruntați, și mă cutremur cînd mîna lui mă atinge. Nu eu din mine însami voiesc, nici nu voința lui mă siluiește, ci o soartă neînduplecată ne ține-sub stăpînirea ei, și nu putem altfel decît cum putem. Îmi arde pămîntul sub picioare cînd stau, astfel pe-ascuns venită, cu dînsul, și totuși viață pentru mine-l O sunt numai clipele petrecute cu dînsul; de aici înainte, totul e zbuciumare, neliniște mistuitoare, dorință fierbinte. Nemaiputînd să port rușinea pe care eu însami mi-o fac, nu-mi mai rămîne decît să fug din lume,. fie în mormînt, fie în tăinicia unei mînăstiri. Trică dragă, fratele meu cel dulce, nu mă osîndi, ci mîngîie-pe mama noastră cea bună și plîngi și tu dimpreună cu noi!</p>
             <p>Aceste erau vorbe în fața cărora Trică nu putea să! stea țeapăn.</p>
-            <p>— N-am zis nici eu — grăi el plîngînd cu lacrămi, mari — că tu ești rea, Persido. Ești suflet bun șÎl plin de duioșie! Mi-e greu însă cînd te văd unde ai ajuns și-mi vine să turb și-aș fi-n stare să fac moarte de om! Uite — urmă el ridicînd mîna spre cap — aici mi se face, parcă, un nod cînd mă gîndesc că nu te mai pot gîndi cum te știam pînă acum. Voi trebuie să vă luați, adăogă el tare și hotărît.</p>
+            <p>— N-am zis nici eu — grăi el plîngînd cu lacrămi, mari — că tu ești rea, Persido. Ești suflet bun ȘÎl plin de duioșie! Mi-e greu însă cînd te văd unde ai ajuns și-mi vine să turb și-aș fi-n stare să fac moarte de om! Uite — urmă el ridicînd mîna spre cap — aici mi se face, parcă, un nod cînd mă gîndesc că nu te mai pot gîndi cum te știam pînă acum. Voi trebuie să vă luați, adăogă el tare și hotărît.</p>
             <p>— Asta nu se poate, îi răspunse Persida, oarecum obosită de gîndul acesta, care atît de mult o frămîn- tase. Lasă că nici mama, nici tatăl lui n-o să-și dea niciodată învoirea, dară chiar și dacă s-ar putea, nu e binecuvîntată de Dumnezeu căsnicia făcută peste-voinla părinților.</p>
             <p>— Prostii! grăi Trică. Ce vă pasă de dînșii dacă! altfel nu puteți trăi! Ei nu știu, nu înțeleg...</p>
             <p>— Las-o—îl întrerupse Națl — că n-o îndupleci, ci o faci numai să-și iasă din fire.</p>

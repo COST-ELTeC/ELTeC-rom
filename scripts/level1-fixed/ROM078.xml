@@ -25,7 +25,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -60,6 +60,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -74,23 +75,23 @@
          <div type="titlepage">
             <p>DUMITRU C. MORUZI</p>
             <p>PRIBEGI</p>
-            <p>ÎN țARĂ RĂPITĂ</p>
+            <p>ÎN ȚARĂ RĂPITĂ</p>
             <p>ROMAN SOCIAL BASARABEAN</p>
             <p>DE</p>
             <p>DUMITRU C. MORUZI</p>
-            <p>IAșI</p>
-            <p>INSTITUTUL DE ARTE GRAFICE N. V. șTEFĂNIU and CO.</p>
+            <p>IAȘI</p>
+            <p>INSTITUTUL DE ARTE GRAFICE N. V. ȘTEFĂNIU and CO.</p>
             <p>1912</p>
          </div>
          <pb/>
          <div type="titlepage">
             <p>DUMITRU C. MORUZI</p>
             <p>PRIBEGI</p>
-            <p>ÎN țARĂ RĂPITĂ</p>
+            <p>ÎN ȚARĂ RĂPITĂ</p>
             <p>ROMAN SOCIAL BASARABEAN</p>
             <p>PARTEA I</p>
-            <p>IAșI</p>
-            <p>INSTITUTUL DE ARTE GRAFICE N. V. șTEFĂNIU and CO.</p>
+            <p>IAȘI</p>
+            <p>INSTITUTUL DE ARTE GRAFICE N. V. ȘTEFĂNIU and CO.</p>
             <p>1912</p>
          </div>
          <pb/>
@@ -101,7 +102,7 @@
       </front>
       <body>
          <div type="titlepage">
-            <p>PRIBEGI ÎN țARA RĂPITĂ</p>
+            <p>PRIBEGI ÎN ȚARA RĂPITĂ</p>
          </div>
          <div type="group" n="1">
             <p>PARTEA I</p>
@@ -470,7 +471,7 @@
             </div>
             <div type="chapter" n="6">
                <head>CAP. VI</head>
-               <head>LA țARA</head>
+               <head>LA ȚARA</head>
                <p>In lipsa chueazului din chișinău, nici domnița nu stătuse degeaba. Ajutată de madame Clotilde (dadaca copilului) își făcu toate pregătirele pentru o îndelungată ședere la țară. Cumpără cărți franțuzești câte putu găsi și pentru dînsa și pentru copil care trebuia să înceapă a învața carte, iar fiindcă D-neii, și Clo-tilda nu știau rusește, va începe mai întăiu cu franțuzeasca. Cât despre limba strămoșească nici ea nu prea știa bine s-o citească, de cât în cartea de rugăciune. și nici n-or fi găsit pe atuncea ce să citească în mol-dovenește. Pentru copil era chiar mai bine să uite și ce știe. Cu limba franceză însă, era altceva. O limbă cultă, cu literatura cea mai înaltă din lumea întreagă, singur în stare să desvolte inteligența și sufletul unui <hi>gentilom</hi>. Cu toată dragostea și recunoștința ei pentru Ruși, care îi scăpase și bărbatul și averea, nici odată nu va încredința educația singurului ei copil școlilor rusești, atît de primitive, predând într-o limbă sălbatică și inferioară cu mult limbei poloneze, care cel puțin are o literatură mai veche.</p>
                <p>„Zică Alccu, ce o zice, dar după ce copilul va învăța de la mine a citi și scrie fără greșeli de ortografie am să-i aduc un profesor din Paris ca să l pregătească pentru bacalaureat. Apoi voi merge cu dânsul să-și treacă examenul la Sorbona, voi sta acolo până își va da examenele de drept, apoi ne vom duce la Petersburg, el va intra deadreptul în diplomație și noi îi vom căuta la curtea împăratului, vre-o contesă sau chneaghină tânără, frumoasă, bogată și dintr-o familie cu vază la curte.ˮ</p>
                <p>Pe lângă cărțile copilului și ale D-sale, mai cumpără domnița canevale, lânuri și mătăsuri de cusut la gherghef și se amerindă cu tot ce nu se poate găsi la țară mai ales cu de-ale băcăniei.</p>

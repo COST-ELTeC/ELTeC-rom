@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -63,6 +63,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -85,15 +86,15 @@
             <p>V. DEMETRIUS</p>
             <p>MATEI</p>
             <p>DUMBĂRĂU</p>
-            <p>URMAREA SI SFÂRșITUL ROMANULUI „ORAșUL BUCURIEI”</p>
+            <p>URMAREA SI SFÂRȘITUL ROMANULUI „ORAȘUL BUCURIEI”</p>
             <p>Că dacă n-ar fi,'nu s-ar povesti.</p>
-            <p>I-a EDIțIE</p>
-            <p>BUCUREșTI</p>
+            <p>I-a EDIȚIE</p>
+            <p>BUCUREȘTI</p>
             <p>EDITURA ALCALAY si Co.</p>
             <p>1920</p>
          </div>
          <div type="liminal">
-            <head>DE ACELAș AUTOR</head>
+            <head>DE ACELAȘ AUTOR</head>
             <p>
                <label>Lucrări originale, publicate</label>
             </p>

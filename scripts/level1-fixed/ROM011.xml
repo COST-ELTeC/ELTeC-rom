@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -63,6 +63,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -149,7 +150,7 @@
             <p>și ferestrele se închiseră.</p>
          </div>
          <div type="chapter">
-            <head>ROo șI LACRIMI</head>
+            <head>ROo ȘI LACRIMI</head>
             <p>Costin stinse lumina și se aruncă în pat.</p>
             <p>Camera era scăldată în razele lunii.</p>
             <p>El începu să cugete și cugetările lui erau aci triste ca lumina candelei ce ardea la morminte, aci rîzătoare ca florile stropite de plînsul nopții. I se părea că o fantasmă albă se ascundea în cutele perdelelor, că din cînd în cînd scotea capul și se uita lung și amoros la dînsul, că cu încetul ieșea din ascunzătoarea ei și înainta către pat; că aci înclina figura ei care îi strălucea în undele părului ca o lumină în noapte, că simțea suflarea ei adiindu-l ca o boare pribegită din trandafiri și iasomie, că buzele ci calde-i atingeau fruntea.</p>
@@ -195,7 +196,7 @@
          </div>
          <div type="chapter">
             <p>
-               <label>CUM CRESC MUGURII șI FLORILE</label>
+               <label>CUM CRESC MUGURII ȘI FLORILE</label>
             </p>
             <p>Ciudată este inima omului! Cunoaștem legile după cari se mișcă apele pămîntului, stelele cerului, norii aerului, dar nu cunoaștem pe ale inimei care este cel mai profund ocean și cea mai misterioasă adîncime a universului. Vai aceluia care se încrede a pluti pe acest teribil abis! Suferințele celui ce înfruntă furia lui Neptun, sînt nimic pe lîngă cele ce va îndura el.</p>
             <p>În tot cursul zilei Costin străbătu coridoarele și locurile din jurul monastirei ca o hiară sălbatecă care poartă în pîntece săgeata vînătorului.</p>
@@ -306,7 +307,7 @@
             <p>Se înturnară acasă pătrunși de religiozitate, ca cum s-ar fi întors dintr-un sînt pelerinaj. Dar nu era pelerinajul amorului lor? Acele locuri umbroase, prin sărutările, suspinele și aspirațiile lor, nu devenise mai sînte decît Sinaiul, Meca și Sionul?</p>
          </div>
          <div type="chapter">
-            <head>PEșTERA DÎMBOVICIOAREI</head>
+            <head>PEȘTERA DÎMBOVICIOAREI</head>
             <p>A doua zi pe cînd se înhămau caii la trăsură, domnul Urianu se plimba prin curtea ospelului. Arunca ochii din cînd în cînd spre fereastra lui Fulga. Aerul figurii arăta că cugetările îi erau concentrate.</p>
             <p>— Zoe iubește pe junele acesta. Nu știu cum se face, dar și eu îl iubesc!</p>
             <p>Aci se învîrteau cugetările părintelui. Nu cuteza însă a merge pînă la scopul lor, eternul legămînt între Zoe și Costin. De cîte ori o idee se apropia furiș de acest scop, Urianu părea că vede întunecîndu-se figura soției sale. Chiar în acea seară avusese o dispută cu dînsa!</p>
@@ -579,7 +580,7 @@
             <p>— Cine știe! răspundeau alții. știm numai atîta că: sau va învinge, sau va muri luptînd.</p>
          </div>
          <div type="chapter">
-            <head>TURTUREL șI TURTURELA</head>
+            <head>TURTUREL ȘI TURTURELA</head>
             <p>În ajunul despărțirei lor, Zoe și Costin trecură ziua împreună.</p>
             <p>Erau voioși, însă zîmbetul lor era scăldat în lacrimi, în tot ce făceau, se vedea o sete d-a profita de fiecare minut.</p>
             <p>— Ai să pleci, Zoe, zicea Costin, și nu ai văzut încă unde era sala tronului în timpul lui Neagoe-Vodă.</p>
@@ -1069,7 +1070,7 @@
             <p>— Da, pentru că am crezut în amor.</p>
          </div>
          <div type="chapter">
-            <head>PRELUDELE NUNțEI</head>
+            <head>PRELUDELE NUNȚEI</head>
             <p>Fulga străbate amețit mai multe strade. Simte dorința d-a respira puțin la umbră și intră în grădina Cișmegiu. șezu p-o bancă, sub un desiș de arbori, în fața lacului. Plouase în acea noapte. Grădina rîdea ochilor și lacul se răsfăța molatic sub cerul senin și razele soarelui. Ramurile se înclinau pe capul palid al junelui și la cele mai mici adieri, scuturau pe dînsul picăturile de ploaie.</p>
             <p>„Arborii plîng”, visa el, simțind picăturile pe frunte și păr, de cînd ochii mei nu mai au lacrimi!</p>
             <p>Cîteva paseri ciripeau într-o salcie. El aruncă ochii spre ele și-i păru că vederea lor este țintită asupră-i.</p>
@@ -1129,7 +1130,7 @@
          </div>
          <div type="chapter">
             <p>
-               <label>NOAPTEA NUNțEI</label>
+               <label>NOAPTEA NUNȚEI</label>
             </p>
             <p>Era noapte.</p>
             <p>Luna palidă alerga prin pînzele de nori ca cum s-ar fi grăbit să fugă de spectacolul ce se desfășura în biserica Sărindarul. Vînturile reci ale toamnei șuierau prin stradele deșerte ale capitalei, zguduind porțile în țîțîna lor și făcînd să fumege lumina fanarelor.</p>

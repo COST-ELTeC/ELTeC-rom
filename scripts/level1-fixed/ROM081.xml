@@ -25,7 +25,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -60,6 +60,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -375,7 +376,7 @@
             <p>— Asta-mi place! Să facă ce-au făcut și până acum. De asta te îngrijești dumneata? Ei nu; că-i nostim, pe onoarea mea!.... Așa sânt cărturarii ăștia!—și directorul, râ-zând sgomotos, îi mai întinse încă cinci bilete.</p>
             <p>— Comptez încă pe cinci, le desfaci pe la dascălii ceilalți. Nu, zău, că are să fie fru-mos desară, sântem siguri de reușită. Nu-mai nițică răbdare, ascultă ici afișul.</p>
             <p>Rar, cu glas tare și c-o intonație de dis-curs oficial, directorul începu a citi:</p>
-            <p>SOCIETATEA FUNCțIONARILOR PUBLICI</p>
+            <p>SOCIETATEA FUNCȚIONARILOR PUBLICI</p>
             <p>Cu ocazia Împlinirii unui an dela fondare și pentru mărirea fondului ei filantropic, va da un SPLENDID BAL</p>
             <p>Cu muzica regimentului de infanterie</p>
             <p>Salonul va fi fermecător decorat în stil Venețian și luminat a giorno, rezervându-se astfel publicului cele mai frumoase și amuzante surprize.</p>

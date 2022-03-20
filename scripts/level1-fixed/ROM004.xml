@@ -25,7 +25,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -68,6 +68,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -92,7 +93,7 @@
          </div>
          <pb/>
          <div type="liminal">
-            <head>PREFAțĂ LA EDțIA ÎNTÂIA</head>
+            <head>PREFAȚĂ LA EDȚIA ÎNTÂIA</head>
             <p>
                <hi>Isvoarele, de cari m-am slujit la studiul vieții lin Iancu Jianu și a timpului său, sunt cele următoare: Aricescu, Ioan Ghicha, Heliade Rădulescu, Hurmuzachi, Ionescu-Gion, lorga, Poboran, (istoria orașului Slatina), Tocilescu, Rangabe, Xenopol, Zallony, Genealogia familiei Jianu, precum și notițe din vieața Haiducului, te datoresc amabilității d-lui Ion St. Cezianu, strănepotul eroului popular.</hi>
             </p>
@@ -107,7 +108,7 @@
          </div>
          <milestone unit="line"/>
          <div type="liminal">
-            <head>PREFAțĂ LA EDIțIA A TREIA</head>
+            <head>PREFAȚĂ LA EDIȚIA A TREIA</head>
             <p>
                <hi>Binevoitoarea primire, pe care a găsit-o edițiunea întâia si a doua a traducerii de față, ne-a îndemnat să mai scoatem încă o edițiune.</hi>
             </p>
@@ -122,7 +123,7 @@
          </div>
          <milestone unit="line"/>
          <div type="liminal">
-            <head>PREFAțĂ LA A PATRA EDIțIE</head>
+            <head>PREFAȚĂ LA A PATRA EDIȚIE</head>
             <p>
                <hi>Măgulitorul fapt că s-a sleit și edițiunea a treia de trei mii de exemplare, ca și celelalte doo de mai-nainte, ne-a determinat să scoatem și a patra edițiune — aproape neschimbată.</hi>
             </p>
@@ -3093,7 +3094,7 @@
             <milestone unit="unnumbered"/>
             <p>După alte opt zile, boierul, cum îl numiau acum toți oamenii din casa văduvei Gălășescu, putea să se bucure, în grădină, de aer și de soare.</p>
             <p>Dinaintea unui liliac înflorit, îi făcusera Gruia și Alexe, un scaun învelit cu covoare. Trebuia acum să aștepte acolo, cu răbdare, întoarcerea puterilor sale. Mama Profira, care-i pusese musafirului și ” câteva pernițe frumoase pe subțiori, se învârtiâ prin casă zicând: „A voit să-și încordeze picioarele, cercând să meargă până acolo, dar abia a putut. Acuma însă șade pe scaun, nu ca un slăbănog, ci ca un mândru împărat, care stă' să judece norodul”.</p>
-            <p>Printre pomii, acoperițLde zăpada florilor, străbătea lumina soarelui pe iarba de jos, și Iancu pri-via, încremenit, la ace! verde auriu, fără să-și dea prea mult seamă, și tot astfel auzia, fără să prea înțeleagă, ciripirea, răspunsurile și cheful ce-l făceau doo privighetori, care se ascunsesera în peretele roșiatic-albăstriu al liliacului dela spatele lui, până când o mișcare printre arbori, ca o noo lumină îi atrase privirea. Eră Sultana, care, în hainele ei albe, umbla, zorită, pe acolo. Felul însă cum alerga ea, îi aducea aminte lui Iancu de plutirea umbrelor de nori pe coastele munților. Un strigăt din casă o făcu pe Sultana să se oprească deodată în loc, — casa era ascunsă în liliac. Sultana se uită înapoi și zări pe Jinu.</p>
+            <p>Printre pomii, acoperiȚLde zăpada florilor, străbătea lumina soarelui pe iarba de jos, și Iancu pri-via, încremenit, la ace! verde auriu, fără să-și dea prea mult seamă, și tot astfel auzia, fără să prea înțeleagă, ciripirea, răspunsurile și cheful ce-l făceau doo privighetori, care se ascunsesera în peretele roșiatic-albăstriu al liliacului dela spatele lui, până când o mișcare printre arbori, ca o noo lumină îi atrase privirea. Eră Sultana, care, în hainele ei albe, umbla, zorită, pe acolo. Felul însă cum alerga ea, îi aducea aminte lui Iancu de plutirea umbrelor de nori pe coastele munților. Un strigăt din casă o făcu pe Sultana să se oprească deodată în loc, — casa era ascunsă în liliac. Sultana se uită înapoi și zări pe Jinu.</p>
             <p>— „Mama tocmai îmi spune, că musafirul nostru e în gradină”, zise ea de departe. „N-am știut nimic de acest lucru, fiindcă am fost în pădure, ca să văd dacă au înflorit mărgăritărelele. Am mare bucurie, boierule Iancu, văzând în sfârșit, că ai putut ieși din odaie”.</p>
             <p>Ea vorbia cu o liniște plăcută și cu o hotărîre, care nu era obișnuită pe atunci la fete, când se gă-siau în fată cu bărbați; câștigase aceste însușiri fiind zilnic, și deaproape, în tovărășia Domniței Ralu. Tot asemenea de mirare era că cuteză să leasă, din grădină, fără să fie însoțită de cineva.</p>
             <p>Iar fapta aceasta vitejească, o născocise singură de tot</p>
@@ -3649,7 +3650,7 @@
             <p>Atunci Sultana zise: „Totuși pădurile vor înverzi iarăși, și dreptatea rămâne veșnic nemuritoare!”</p>
             <p>Iancu Jianu era aproape să țipe de bucurie. El se plecă spre ființa frumoasă, de lângă el: „Cine ești tu, de gâcești cele mai ascunse gânduri ale mele?”</p>
             <p>— „Eu sunt soția lui Iancu Jianu!” răspunse ea.</p>
-            <p>- SFÂRșIT —</p>
+            <p>- SFÂRȘIT —</p>
          </div>
       </body>
    </text>

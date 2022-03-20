@@ -28,7 +28,7 @@
          <publicationStmt>
             <publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
             <distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
-            <date when="2022-03-02"/>
+            <date when="2022-03-20"/>
             <availability>
                <licence target="https://creativecommons.org/licenses/by/4.0/"/>
             </availability>
@@ -63,6 +63,7 @@
          </textDesc>
       </profileDesc>
       <revisionDesc>
+         <change when="2022-03-20">Fixed lower case ț and ș in upper-case contexts</change>
          <change when="2022-03-02">Fixed gap attributes, replaced '-1' with '-l' and [-'] when used for contractions with '-'</change>
          <change when="2022-03-02">Corrected errors in spacing</change>
          <change when="2021-04-09">Converted by checchUp script for new release</change>
@@ -76,9 +77,9 @@
          <div type="titlepage" n="1">
             <p>CONST. I. A. NOTTARA</p>
             <p>Editura Librăriei LEON ALCALAY</p>
-            <p>BUCUREșTI CALEA VICTORIEI NO 37</p>
+            <p>BUCUREȘTI CALEA VICTORIEI NO 37</p>
             <p>Prețul 60 bani</p>
-            <p>BIBLIOTECA PENTRU TOțI</p>
+            <p>BIBLIOTECA PENTRU TOȚI</p>
          </div>
          <div type="titlepage" n="2">
             <p>CONST. I. A. NOTTARA</p>
@@ -87,14 +88,14 @@
                <p>Il faut que te me réjouisse au dessus du temps... quoique le monde ait horreur de ma joie, et que sa grossièreté ne sache pas ce que je veux dire.</p>
                <p>Jean Rusbrocch l`Admirable</p>
             </quote>
-            <p>BUCUREșTI</p>
+            <p>BUCUREȘTI</p>
             <p>Editura Librăriei LEON ALCALAY</p>
             <p>CALEA VICTORIEI</p>
             <p>37</p>
             <p>1911</p>
          </div>
          <div type="titlepage" n="3">
-            <p>DE ACELAșI AUTOR</p>
+            <p>DE ACELAȘI AUTOR</p>
             <p>„De vânzare” roman de moravuri sociale; format în 8° „Charpentier”. Ediție epuizată.</p>
             <p>„De dincolo de moarte” nuvele. Editura librării „Socec”. Prețul 3 lei.</p>
             <p>Va apare: „Turris Ebúrnea”, roman.</p>
@@ -911,7 +912,9 @@
             <p>Palatul doamnei Natalia Banu, născută prințesă Mavrodi, era construit de câți-va ani. Păstra aspectul lui măreț, curat, peste măsură de îngrijit.</p>
             <p>Fațada era susținută pe patru coloane mari de marmoră colorată, înghirlandate pentru acea ocaziune, de jos până sus, în flori de micșunele și violete de Parma. D`asupra coloanelor, se `ntindea o verandă mare, plină cu flori tropicale, exotice. Alături, se deschidea un salon mare, rezervat festivităților și balurilor.</p>
             <p>Prințesa Natalia Mavrodi, adusese ca zestre tânărului ministru plenipotențiar, un venit de o sută de mii de franci. Niciodată tânăra prințesă n`ar fi luat pe Dumitru Banu, născut din burghezie dacă familia prințesei n`ar fi avut o datorie veche, contractată față de bătrânul Banu, care se prescrisese prin măritișul prințesei.</p>
-            <p>Ajuns ministru plenipotențiar la Berlin, de pe urma averei, făcută de tatăl său un monstru parvenit, care secase măduva țăranului, studiase defectul și golul legilor, ca să se împotrivească justiției. Simeon Banu, tatăl ministrului, adunase peste doo-zeci de milioane. Murise câți-va ani în urma însurătoarei fiului său, cu prințesa Mavrodi, împușcat într`o noapte de-o ceată de țărani, rămași pe drumuri, din pricina exploatatorilor și a jafurilor, acelui <hi><quote>„Barbă albastră”</quote></hi>.</p>
+            <p>Ajuns ministru plenipotențiar la Berlin, de pe urma averei, făcută de tatăl său un monstru parvenit, care secase măduva țăranului, studiase defectul și golul legilor, ca să se împotrivească justiției. Simeon Banu, tatăl ministrului, adunase peste doo-zeci de milioane. Murise câți-va ani în urma însurătoarei fiului său, cu prințesa Mavrodi, împușcat într`o noapte de-o ceată de țărani, rămași pe drumuri, din pricina exploatatorilor și a jafurilor, acelui <hi>
+                  <quote>„Barbă albastră”</quote>
+               </hi>.</p>
             <p>Familia Banu trăia puțin în țară și când venea, toată aristocrația era veselă: aveau de petrecut cel puțin șease săptămâni în frumoasele saloane, ale doamnei Natalia Banu, una din frumusețile țărei.</p>
             <p>Jurnalele ilustrate Berlineze, cu ocasia unei sărbători la curtea împărătească, unde fuseseră invitați toți reprezentanții statelor străine, vorbind de femeile ce luaseră parte la festivitatea curței, publicaseră un articol cu portretul D-nei Natalia Banu. O descrisese ca pe o frumusețe clasică și cea mai distinsă femeie...</p>
             <p>AlexeComnean, dându-se jos din trăsură,roti ochii în toate părțile. In dreapta și în stânga bogatului ospel boieresc se întindeau figuri fantastice de flori.</p>
@@ -1625,7 +1628,8 @@
             <p>Bătrânul sculptor suspină, puse mâna pe un instrument mic de cizelură, cu care lucra ochii, începu să dea viață pleoapelor pe jumătate închise cu mai multă pasiune...</p>
             <p>Am eșit d`acolo gândindu-mă la anii mei perduți în pribegiri, în orgii. Apoi plictisit de toate, de lumea modernă, care speculează asupra tuturor manifestărilor intelectuale, închis între pereții caselor vechi, trăeam alături de strămoșii mei...</p>
             <p>Mă `ngrozise cuvintele bătrânului, mă făcuse să mă gândesc la boala, care mă mina încetul cu încetul, fără să bag de seamă... Simțeam une-ori că mi se frâng picioarele de la genunchi, o plictiseală de moarte mă cuprindea; un dor nebun de liniște..., de nesimțire...</p>
-            <p><quote>„Să ai doo-zeci și cinci de ani și un model ca Maria”</quote>. Mă urmăreau cuvintele acestui om, căruia nu`i lipsise nimic și pe care lumea întreagă îl răsfăța...</p>
+            <p>
+               <quote>„Să ai doo-zeci și cinci de ani și un model ca Maria”</quote>. Mă urmăreau cuvintele acestui om, căruia nu`i lipsise nimic și pe care lumea întreagă îl răsfăța...</p>
             <p>Coboram scara trist. Simțeam acea durere vagă de la genunchi, care mă făcea să calc câte-odată greșit. Maria mă întâmpină cu surâsul pe buze, îmi lo brațul zicându-mi:</p>
             <p>- Alexe, vino să vedem apusul soarelui printre aleele de portocali.</p>
             <p>Ii luai brațul fără să rostesc un cuvânt; ne depărtarăm pe sub aleele de portocali. Pe sub alee, earba era cosită, parfumul proaspăt îmbălsăma atmosfera cu un miros aromatic de fân rouat.</p>
@@ -1721,7 +1725,9 @@
             <p>A, dar d-ta care mi-ai dat concepția, care sa întrupat aidoma în creerul meu, de pare ruptă din visurile mele creatoare, ai simțit acea dogoare vie a voluptăței, poți să judeci dacă marmura respiră grațiile visului frumos...</p>
             <p>Donatelli se apropiă de stato și cu un gest nervos, scoase pânza ce învelea statua; amândoi râmaserăm tăcuți.</p>
             <p>Mi se păru că aud vorbele Măriei:</p>
-            <p><quote> „A este teribil Alexe, nu crezi tu că putem să murim...?”</quote></p>
+            <p>
+               <quote> „A este teribil Alexe, nu crezi tu că putem să murim...?”</quote>
+            </p>
             <p>Versurile lui Petrarca, îmi sunau în minte:</p>
             <quote>
                <l>„Cosi partita le rose e ie parole.”</l>
@@ -2106,7 +2112,7 @@
             <p>- Vino..., Vino, până când roo nu se duce de pe trandafiri, până când obrajii îmi sânt umezi...</p>
          </div>
          <trailer>Florența, 1896 Aprilie.</trailer>
-         <trailer>SFÂRșIT</trailer>
+         <trailer>SFÂRȘIT</trailer>
       </body>
    </text>
 </TEI>
