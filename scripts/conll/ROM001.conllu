@@ -4,20 +4,20 @@
 # newdoc
 # newpar
 # sent_id = 1
-# text = ROșCAN HAIDUCUL
-1	ROșCAN	roșcan	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
-2	HAIDUCUL	haiduc	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+# text = ROȘCAN HAIDUCUL
+1	ROȘCAN	roșcan	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
+2	HAIDUCUL	haiduc	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 2
 # text = NUVELĂ
-1	NUVELĂ	Nuvelă	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpacesAfter=\r\n\r\n
+1	NUVELĂ	Nuvelă	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 3
 # text = DE MCP
 1	DE	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
-2	MCP	MCP	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+2	MCP	MCP	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 4
@@ -25,12 +25,12 @@
 1	Ilustrată	ilustra	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	_
 2	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 3	doo	doi	NUM	Mcfprln	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	_	_	_	_
-4	gravuri	grav	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	_	_	_	SpacesAfter=\r\n\r\n
+4	gravuri	grav	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 5
 # text = Bucuresci
-1	Bucuresci	Bucuresci	ADJ	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\r\n\r\n
+1	Bucuresci	Bucuresci	ADJ	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 6
@@ -53,7 +53,7 @@
 # sent_id = 8
 # text = Cucu”
 1	Cucu	cuc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-2	”	”	PUNCT	DBLQ	_	_	_	_	SpacesAfter=\r\n\r\n
+2	”	”	PUNCT	DBLQ	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 9
@@ -63,12 +63,12 @@
 3	Bulevardul	bulevard	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 4	Elisabeta	Elisabeta	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
 5	,	,	PUNCT	COMMA	_	_	_	_	_
-6	6	6	NUM	M	NumForm=Digit	_	_	_	SpacesAfter=\r\n\r\n
+6	6	6	NUM	M	NumForm=Digit	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 10
 # text = 1894
-1	1894	1894	NUM	M	NumForm=Digit	_	_	_	SpacesAfter=\r\n\r\n
+1	1894	1894	NUM	M	NumForm=Digit	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 11
@@ -79,7 +79,7 @@
 
 # sent_id = 12
 # text = Robul
-1	Robul	rob	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+1	Robul	rob	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 13
@@ -116,7 +116,7 @@
 14	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 15	apropierea	apropiere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 16	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-17	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\r\n\r\n
+17	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 15
@@ -161,7 +161,7 @@
 
 # sent_id = 20
 # text = .
-1	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+1	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 21
@@ -173,7 +173,7 @@
 5	într-	întru	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	SpaceAfter=No
 6	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	_	_	_	_
 7	parte	parte	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-8	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+8	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 22
@@ -252,7 +252,7 @@
 18	arborașul	arboraș	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 19	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 20	mure	mură	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
-21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 28
@@ -282,7 +282,7 @@
 23	și	și	CCONJ	Ccssp	Polarity=Pos	_	_	_	_
 24	prea	prea	ADV	Rg	_	_	_	_	_
 25	frumos	frumos	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-26	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+26	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 29
@@ -315,7 +315,7 @@
 26	ținea	ține	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_
 27	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 28	sus	sus	ADV	Rg	_	_	_	_	SpaceAfter=No
-29	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+29	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 30
@@ -340,7 +340,7 @@
 18	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 19	vremea	vreme	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 20	zilei	zi	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 31
@@ -403,7 +403,7 @@
 7	îngrozitoare	îngrozitor	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
 8	și	și	CCONJ	Ccssp	Polarity=Pos	_	_	_	_
 9	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
-10	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\r\n\r\n
+10	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 34
@@ -467,7 +467,7 @@
 
 # sent_id = 38
 # text = .
-1	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+1	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 39
@@ -534,7 +534,7 @@
 37	să	să	PART	Qs	PartType=Sub	_	_	_	_
 38	muncească	munci	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 39	îndoit	îndoi	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-40	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+40	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 41
@@ -591,7 +591,7 @@
 7	destul	destul	ADV	Rg	_	_	_	_	_
 8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 9	scump	scump	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-10	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+10	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 43
@@ -621,7 +621,7 @@
 23	el	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 24	întrebă	întreba	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 25	spionând	spiona	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	_	_	_	SpaceAfter=No
-26	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+26	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 44
@@ -660,7 +660,7 @@
 16	mă	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	_	_	_	_
 17	vei	vrea	AUX	Vaip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 18	minți	minți	VERB	Vmn	VerbForm=Inf	_	_	_	SpaceAfter=No
-19	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+19	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 46
@@ -671,7 +671,7 @@
 4	privirea	privire	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 5	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 6	jos	jos	ADV	Rg	_	_	_	_	SpaceAfter=No
-7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 47
@@ -708,7 +708,7 @@
 30	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 31	moș	moș	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 32	Petru	Petru	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-33	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+33	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 48
@@ -729,7 +729,7 @@
 14	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 15	cismele	cismă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	_	_	_	_
 16	sale	său	DET	Ds3fp-s	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 49
@@ -849,7 +849,7 @@
 7	-mi	eu	PRON	Pp1-sd--------w	Case=Dat|Number=Sing|Person=1|PronType=Prs|Strength=Weak	_	_	_	_
 8	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	_	_	_	_
 9	poți	putea	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
-10	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+10	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 58
@@ -885,7 +885,7 @@
 6	înjurătoare	înjurător	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	_
 7	ale	al	DET	Tsfpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Poss=Yes|PronType=Art	_	_	_	_
 8	vătafului	vătaf	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 60
@@ -907,7 +907,7 @@
 15	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 16	munca	muncă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 17	îndoită	îndoi	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 61
@@ -927,7 +927,7 @@
 13	ochii	ochi	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	_	_	_	_
 14	sei	seu	DET	Ds3mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|PronType=Prs	_	_	_	_
 15	albaștri	albastru	ADJ	Afpmprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
-16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 62
@@ -951,7 +951,7 @@
 12	astfel	astfel	ADV	Rg	_	_	_	_	_
 13	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 14	umfla	umfla	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 64
@@ -974,7 +974,7 @@
 7	biciul	bici	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 8	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 9	văsduh	văsduh	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-10	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+10	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 66
@@ -1029,7 +1029,7 @@
 48	gâtul	gât	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 49	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 50	Procopie	Procopie	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-51	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+51	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 67
@@ -1054,7 +1054,7 @@
 18	marei	mare	ADJ	Afpfsoy	Case=Dat,Gen|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
 19	sale	său	DET	Ds3fsos	Case=Dat,Gen|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	_	_	_	_
 20	ațâțări	ațâțări	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
-21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 68
@@ -1071,7 +1071,7 @@
 10	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 11	apă	apă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 12	afară	afară	ADV	Rg	_	_	_	_	SpaceAfter=No
-13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 69
@@ -1111,7 +1111,7 @@
 33	mâna	mână	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 34	împotriva	împotriva	ADP	Spsg	AdpType=Prep|Case=Gen	_	_	_	_
 35	vătafului	vătaf	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-36	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+36	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 70
@@ -1168,7 +1168,7 @@
 50	cete	ceată	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	_	_	_	_
 51	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 52	haiduci	haiduc	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
-53	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+53	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 71
@@ -1176,14 +1176,14 @@
 1	CAPITOLUL	capitol	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 2	II.Fr	Ii.fr	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
 3	ânghia	Ânghia	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
-4	tăiată	tăia	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	SpacesAfter=\r\n\r\n
+4	tăiată	tăia	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 72
 # text = Săracul Vasile.
 1	Săracul	sărac	ADJ	Afpmsry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 2	Vasile	Vasile	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-3	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+3	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 73
@@ -1245,7 +1245,7 @@
 55	lor	el	PRON	Pp3-pd--------s	Case=Dat|Number=Plur|Person=3|PronType=Prs|Strength=Strong	_	_	_	_
 56	această	acesta	DET	Dd3fsr---e	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Dem	_	_	_	_
 57	întâmplare	întâmplare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-58	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+58	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 74
@@ -1295,7 +1295,7 @@
 43	tremurau	tremura	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_
 44	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 45	mânie	mânie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-46	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+46	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 75
@@ -1345,7 +1345,7 @@
 10	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 11	înaintea	înaintea	ADP	Spsg	AdpType=Prep|Case=Gen	_	_	_	_
 12	sa	său	PRON	Ds3fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 79
@@ -1390,7 +1390,7 @@
 38	și	și	CCONJ	Ccssp	Polarity=Pos	_	_	_	_
 39	grăi	grăi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 40	astfel	astfel	ADV	Rg	_	_	_	_	SpaceAfter=No
-41	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\r\n\r\n
+41	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 80
@@ -1521,7 +1521,7 @@
 1	M-	eu	PRON	Pp1-sa--------w	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Weak	_	_	_	SpaceAfter=No
 2	ați	avea	AUX	Vaip2p	Mood=Ind|Number=Plur|Person=2|Tense=Pres	_	_	_	_
 3	înțeles	înțelege	VERB	Vmp	VerbForm=Part	_	_	_	SpaceAfter=No
-4	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\r\n\r\n
+4	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 85
@@ -1563,7 +1563,7 @@
 
 # sent_id = 86
 # text = .
-1	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+1	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 87
@@ -1581,7 +1581,7 @@
 11	ascultau	asculta	VERB	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_
 12	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 13	tăcere	tăcere	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 88
@@ -1652,7 +1652,7 @@
 64	mult	mult	ADV	Rg	_	_	_	_	_
 65	decât	decât	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 66	dânsul	dânsul	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-67	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+67	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 89
@@ -1678,7 +1678,7 @@
 19	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 20	inima	inimă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 21	sa	său	DET	Ds3fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-22	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+22	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 90
@@ -1693,7 +1693,7 @@
 8	nu	nu	ADV	Qz	Polarity=Neg	_	_	_	_
 9	înțelegea	înțelege	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_
 10	gluma	glumă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-11	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+11	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 91
@@ -1706,7 +1706,7 @@
 6	gândi	gândi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 7	multă	mult	DET	Di3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	_	_	_	_
 8	vreme	vreme	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 92
@@ -1743,14 +1743,14 @@
 30	ceva	ceva	PRON	Pi3-sr	Case=Acc,Nom|Number=Sing|Person=3|PronType=Ind	_	_	_	_
 31	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 32	ureche	ureche	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-33	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+33	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 93
 # text = Boierul tresari.
 1	Boierul	boier	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 2	tresari	tresar	VERB	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
-3	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+3	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 94
@@ -1776,7 +1776,7 @@
 11	limba	limbă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 12	ta	tău	DET	Ds2fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|PronType=Prs	_	_	_	_
 13	grăesce	grăi	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
-14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 96
@@ -1801,7 +1801,7 @@
 18	lucru	lucru	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 19	al	al	DET	Tsmsr	Case=Acc,Nom|Gender=Masc|Number=Sing|Poss=Yes|PronType=Art	_	_	_	_
 20	dracului	drac	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 97
@@ -1899,7 +1899,7 @@
 2	nu	nu	ADV	Qz	Polarity=Neg	_	_	_	_
 3	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 4	așa	așa	ADV	Rg	_	_	_	_	SpaceAfter=No
-5	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\r\n\r\n
+5	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 104
@@ -1924,7 +1924,7 @@
 8	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 9	fața	față	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 10	posomorită	posomori	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-11	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+11	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 106
@@ -1959,7 +1959,7 @@
 # sent_id = 109
 # text = Vorbesce!
 1	Vorbesce	vorbesce	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
-2	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+2	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 110
@@ -1977,7 +1977,7 @@
 11	afară	afară	ADV	Rg	_	_	_	_	_
 12	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 13	câmp	câmp	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 111
@@ -2028,7 +2028,7 @@
 44	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 45	stăpînul	stăpân	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 46	său	său	DET	Ds3ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-47	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+47	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 112
@@ -2038,7 +2038,7 @@
 3	nu	nu	ADV	Qz	Polarity=Neg	_	_	_	_
 4	cercetă	cerceta	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 5	nimic	nimic	PRON	Pz3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Neg	_	_	_	SpaceAfter=No
-6	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+6	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 113
@@ -2133,7 +2133,7 @@
 10	apucă	apuca	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 11	sabia	sabie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 12	sa	său	DET	Ds3fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 115
@@ -2170,7 +2170,7 @@
 13	trebuință	trebuință	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 14	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 15	ea	el	PRON	Pp3fsa--------s	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Strong	_	_	_	SpaceAfter=No
-16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 117
@@ -2215,7 +2215,7 @@
 38	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	_	_	_	_
 39	căpătase	căpăta	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	_	_	_	_
 40	acum	acum	ADV	Rg	_	_	_	_	SpaceAfter=No
-41	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+41	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 118
@@ -2248,7 +2248,7 @@
 26	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 27	Coliba	colibă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 28	părintelui	părinte	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-29	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+29	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 119
@@ -2268,7 +2268,7 @@
 13	avea	avea	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_
 14	obiceiul	obicei	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 15	acesta	acesta	DET	Dd3msr---o	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|Position=Postnom|PronType=Dem	_	_	_	SpaceAfter=No
-16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 120
@@ -2297,7 +2297,7 @@
 22	găsi	găsi	VERB	Vmn	VerbForm=Inf	_	_	_	_
 23	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 24	fată	fată	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-25	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+25	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 121
@@ -2317,7 +2317,7 @@
 13	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 14	drăgălașa	drăgălașă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 15	Maria	Maria	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 122
@@ -2354,7 +2354,7 @@
 30	și	și	CCONJ	Ccssp	Polarity=Pos	_	_	_	_
 31	să	să	PART	Qs	PartType=Sub	_	_	_	_
 32	deosibească	deosibi	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
-33	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+33	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 123
@@ -2379,7 +2379,7 @@
 18	ascultare	ascultare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 19	orbească	orbesc	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
 20	vătafului	vătaf	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 124
@@ -2401,7 +2401,7 @@
 15	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 16	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	_	_	_	_
 17	zeiță	zeiță	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 125
@@ -2428,7 +2428,7 @@
 20	puternică	puternic	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
 21	și	și	CCONJ	Ccssp	Polarity=Pos	_	_	_	_
 22	sănătoasă	sănătos	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-23	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+23	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 126
@@ -2484,7 +2484,7 @@
 49	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_
 50	sfârșit	sfârșit	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 51	îngrozitor	îngrozitor	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-52	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+52	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 127
@@ -2501,7 +2501,7 @@
 10	ia	lua	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 11	frumusețea	frumusețe	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 12	ei	el	PRON	Pp3fso	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 128
@@ -2513,7 +2513,7 @@
 5	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 6	obrajii	obraz	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	_	_	_	_
 7	galbeni	galben	ADJ	Afpmprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
-8	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+8	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 129
@@ -2563,7 +2563,7 @@
 11	atârna	atârna	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_
 12	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 13	spate	spate	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 131
@@ -2583,7 +2583,7 @@
 13	râse	rî	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 14	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 15	obrăsniciă	obrăsniciă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 132
@@ -2600,7 +2600,7 @@
 10	veniră	veni	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 11	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 12	dânsul	dânsul	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 133
@@ -2629,7 +2629,7 @@
 22	-i	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 23	dea	da	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 24	ajutor	ajutor	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-25	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+25	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 134
@@ -2671,7 +2671,7 @@
 23	să	să	PART	Qs	PartType=Sub	_	_	_	_
 24	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres	_	_	_	_
 25	legat	lega	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-26	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+26	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 136
@@ -2716,7 +2716,7 @@
 38	nu	nu	ADV	Qz	Polarity=Neg	_	_	_	_
 39	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres	_	_	_	_
 40	pedepsiți	pedepsi	VERB	Vmp--pm-p	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-41	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+41	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 137
@@ -2760,7 +2760,7 @@
 37	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 38	mijloacele	mijloc	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	_	_	_	_
 39	sale	său	DET	Ds3fp-s	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-40	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+40	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 138
@@ -2808,7 +2808,7 @@
 41	Maria	Maria	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 42	lângă	lângă	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 43	dânsul	dânsul	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-44	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+44	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 139
@@ -2855,7 +2855,7 @@
 40	peste	peste	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 41	puțină	puțin	DET	Di3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	_	_	_	_
 42	vreme	vreme	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-43	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+43	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 140
@@ -2881,7 +2881,7 @@
 19	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 20	stăpânul	stăpân	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 21	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-22	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+22	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 141
@@ -2906,7 +2906,7 @@
 18	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 19	vocea	voce	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 20	dulce	dulce	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	_	_	_	SpaceAfter=No
-21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 142
@@ -2950,7 +2950,7 @@
 14	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 15	întoarse	întoarce	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 16	oftând	ofta	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	_	_	_	SpaceAfter=No
-17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 145
@@ -2969,7 +2969,7 @@
 12	legata	legată	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 13	lângă	lângă	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 14	dânsul	dânsul	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 146
@@ -2990,7 +2990,7 @@
 5	-se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 7	loc	loc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-8	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+8	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 148
@@ -3026,7 +3026,7 @@
 29	pentru	pentru	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 30	frumoasa	frumos	ADJ	Afpfsry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
 31	Maria	Maria	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-32	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+32	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 149
@@ -3040,7 +3040,7 @@
 7	drăguța	drăguță	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 8	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 9	Vasile	Vasile	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-10	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+10	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 150
@@ -3081,7 +3081,7 @@
 34	groază	groază	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 35	și	și	CCONJ	Ccssp	Polarity=Pos	_	_	_	_
 36	spaimă	spaimă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-37	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+37	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 151
@@ -3108,7 +3108,7 @@
 20	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 21	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 22	nenorocita	nenorocită	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-23	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+23	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 152
@@ -3125,7 +3125,7 @@
 10	jos	jos	ADV	Rg	_	_	_	_	_
 11	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 12	curte	curte	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 153
@@ -3185,7 +3185,7 @@
 14	ha	ha	INTJ	I	_	_	_	_	_
 15	ha	ha	INTJ	I	_	_	_	_	_
 16	ha	ha	INTJ	I	_	_	_	_	SpaceAfter=No
-17	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+17	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 157
@@ -3205,7 +3205,7 @@
 13	râse	rî	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 14	împreună	împreună	ADV	Rg	_	_	_	_	_
 15	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
-16	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	_	_	_	SpacesAfter=\r\n\r\n
+16	el	el	PRON	Pp3msa--------s	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 158
@@ -3224,7 +3224,7 @@
 12	umilință	umilință	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 13	către	către	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 14	boer	boier	PROPN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 159
@@ -3246,7 +3246,7 @@
 15	dând	da	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	_	_	_	_
 16	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 17	cap	cap	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 160
@@ -3269,7 +3269,7 @@
 16	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres	_	_	_	_
 17	bine	bine	ADV	Rg	_	_	_	_	_
 18	făcut	făcut	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-19	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+19	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 161
@@ -3319,7 +3319,7 @@
 43	cameră	cameră	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 44	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 45	dormit	dormi	VERB	Vmp	VerbForm=Part	_	_	_	SpaceAfter=No
-46	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+46	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 162
@@ -3327,7 +3327,7 @@
 1	Mărioara	mărioară	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 2	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_
 3	țipăt	țipăt	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-4	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+4	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 163
@@ -3343,7 +3343,7 @@
 9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 10	amnarele	amnar	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	_	_	_	_
 11	patului	pat	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-12	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+12	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 164
@@ -3394,7 +3394,7 @@
 27	va	vrea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 28	avea	avea	VERB	Vmn	VerbForm=Inf	_	_	_	_
 29	poftă	poftă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-30	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+30	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 166
@@ -3441,7 +3441,7 @@
 40	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_
 41	băutor	băutor	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 42	vestit	vesti	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-43	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+43	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 167
@@ -3501,7 +3501,7 @@
 53	capete	cap	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 54	lovitura	lovitură	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 55	îngrozitoare	îngrozitor	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-56	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+56	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 168
@@ -3517,7 +3517,7 @@
 9	sfâșieri	sfâșiere	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	_	_	_	_
 10	erau	fi	AUX	Vmii3p	Mood=Ind|Number=Plur|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_
 11	acestea	acesta	PRON	Pd3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Dem	_	_	_	SpaceAfter=No
-12	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+12	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 169
@@ -3537,7 +3537,7 @@
 13	pentru	pentru	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 14	grabnica	grabnic	ADJ	Afpfsry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
 15	mântuire	mântuire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 170
@@ -3569,7 +3569,7 @@
 25	mii	mie	NUM	Mcfprln	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur|NumForm=Word|NumType=Card	_	_	_	_
 26	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 27	morți	mort	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
-28	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+28	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 171
@@ -3629,7 +3629,7 @@
 13	acesta	acesta	DET	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	_	_	_	_
 14	nenorocire	nenorocire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 15	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	_	_	_	SpaceAfter=No
-16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 173
@@ -3639,7 +3639,7 @@
 3	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 4	drept	drept	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 5	acesta	acesta	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	_	_	_	SpaceAfter=No
-6	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\r\n\r\n
+6	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 174
@@ -3661,7 +3661,7 @@
 15	și	și	CCONJ	Ccssp	Polarity=Pos	_	_	_	_
 16	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 17	apropiere	apropiere	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 175
@@ -3674,7 +3674,7 @@
 6	încet	încet	ADV	Rg	_	_	_	_	_
 7	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 8	tot	tot	ADV	Ri	PronType=Ind	_	_	_	SpaceAfter=No
-9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 176
@@ -3683,7 +3683,7 @@
 2	-noapte	înoapte	ADV	Rg	_	_	_	_	_
 3	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 4	apropia	apropia	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No
-5	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+5	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 177
@@ -3711,7 +3711,7 @@
 1	Deodată	deodată	ADV	Rg	_	_	_	_	_
 2	Maria	Maria	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 3	ascultă	asculta	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
-4	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+4	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 179
@@ -3798,7 +3798,7 @@
 4	auzi	auzi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 5	umblând	umbla	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	_	_	_	_
 6	ceva	ceva	PRON	Pi3-sr	Case=Acc,Nom|Number=Sing|Person=3|PronType=Ind	_	_	_	SpaceAfter=No
-7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 192
@@ -3809,7 +3809,7 @@
 4	-și	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 5	pierde	pierde	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 6	capul	cap	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 193
@@ -3857,7 +3857,7 @@
 3	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 4	oare	oare	ADV	Rg	_	_	_	_	_
 5	acesta	acesta	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	_	_	_	SpaceAfter=No
-6	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+6	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 199
@@ -3884,7 +3884,7 @@
 2	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 3	făcu	face	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 4	slobodă	slobod	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-5	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+5	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 203
@@ -3920,7 +3920,7 @@
 29	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 30	mântuirea	mântuire	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 31	ei	el	PRON	Pp3fso	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-32	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+32	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 204
@@ -3946,7 +3946,7 @@
 19	părăsească	părăsi	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 20	locul	loc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 21	primejdiei	primejdie	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-22	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+22	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 205
@@ -3957,7 +3957,7 @@
 
 # sent_id = 206
 # text = Resvrătirea
-1	Resvrătirea	resvrătire	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+1	Resvrătirea	resvrătire	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 207
@@ -4111,7 +4111,7 @@
 8	vino	veni	VERB	Vmm-2s--p	Mood=Imp|Number=Sing|Person=2|Polarity=Pos|VerbForm=Fin	_	_	_	_
 9	după	după	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 10	mine	eu	PRON	Pp1-sa--------s	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Strong	_	_	_	SpaceAfter=No
-11	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+11	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 215
@@ -4141,7 +4141,7 @@
 23	până	până	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 24	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 25	muchie	muchie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-26	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+26	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 216
@@ -4176,7 +4176,7 @@
 28	afară	afară	ADV	Rg	_	_	_	_	_
 29	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 30	casă	casă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-31	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+31	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 217
@@ -4190,7 +4190,7 @@
 7	sculase	scula	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	_	_	_	_
 8	duse	duce	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 9	lumânarea	lumânare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-10	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+10	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 218
@@ -4221,7 +4221,7 @@
 24	buzunar	buzunar	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 25	boierul	boier	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 26	Niculcea	niculce	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-27	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+27	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 219
@@ -4248,7 +4248,7 @@
 20	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 21	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 22	slugă	slugă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-23	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+23	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 220
@@ -4270,7 +4270,7 @@
 15	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 16	întâmplase	întâmpla	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	_	_	_	_
 17	acolo	acolo	ADV	Rg	_	_	_	_	SpaceAfter=No
-18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 221
@@ -4295,7 +4295,7 @@
 18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 19	fuga	fugă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 20	Măriei	Măria	PROPN	Npfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 222
@@ -4337,7 +4337,7 @@
 14	ziua	zi	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 15	toată	tot	DET	Di3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	_	_	_	_
 16	odaia	odaie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 225
@@ -4384,7 +4384,7 @@
 7	-te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	_	_	_	_
 8	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 9	asta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	_	_	_	SpaceAfter=No
-10	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+10	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 228
@@ -4403,7 +4403,7 @@
 12	boerul	boier	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 13	într-	întru	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	SpaceAfter=No
 14	acolo	acolo	ADV	Rg	_	_	_	_	SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 229
@@ -4447,7 +4447,7 @@
 6	și	și	ADV	Rg	_	_	_	_	_
 7	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 8	vătaful	vătaf	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
-9	Procopie	Procopie	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+9	Procopie	Procopie	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 232
@@ -4555,7 +4555,7 @@
 24	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 25	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 26	neputință	neputință	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-27	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+27	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 236
@@ -4574,7 +4574,7 @@
 12	spunând	spune	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	_	_	_	_
 13	gândul	gând	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 14	său	său	DET	Ds3ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 237
@@ -4623,7 +4623,7 @@
 42	dată	dată	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 43	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	_	_	_	_
 44	pildă	pildă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-45	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+45	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 238
@@ -4636,7 +4636,7 @@
 6	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_
 7	pământ	pământ	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 8	roditor	roditor	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 239
@@ -4703,7 +4703,7 @@
 60	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 61	Vlăduț	Vlăduț	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 62	năsdrăvanul	năsdrăvan	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-63	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+63	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 240
@@ -4727,7 +4727,7 @@
 17	masă	masă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 18	unde	unde	ADV	Rw	PronType=Int,Rel	_	_	_	_
 19	beuseră	beu	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
-20	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+20	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 241
@@ -4777,7 +4777,7 @@
 43	urmă	urmă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 44	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 45	dânsa	dânsul	PRON	Pp3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-46	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+46	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 242
@@ -4808,7 +4808,7 @@
 24	fi	fi	AUX	Van	VerbForm=Inf	_	_	_	_
 25	știut	ști	VERB	Vmp	VerbForm=Part	_	_	_	SpaceAfter=No
 26	-o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	_	_	_	SpaceAfter=No
-27	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+27	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 243
@@ -4913,7 +4913,7 @@
 15	toți	tot	DET	Di3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	_	_	_	_
 16	țăranii	țăran	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	_	_	_	_
 17	răsvrătiți	răsvrăti	VERB	Vmp--pm-p	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 245
@@ -4962,7 +4962,7 @@
 8	,	,	PUNCT	COMMA	_	_	_	_	_
 9	măi	măi	INTJ	I	_	_	_	_	_
 10	Vasile	Vasile	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-11	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+11	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 249
@@ -5003,7 +5003,7 @@
 34	să	să	PART	Qs	PartType=Sub	_	_	_	_
 35	capete	cap	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 36	viață	viață	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-37	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+37	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 250
@@ -5051,7 +5051,7 @@
 41	și	și	CCONJ	Ccssp	Polarity=Pos	_	_	_	_
 42	răsvrătitului	răsvrătit	ADJ	Afpmsoy	Case=Dat,Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 43	rob	rob	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-44	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+44	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 251
@@ -5112,7 +5112,7 @@
 16	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 17	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	_	_	_	_
 18	trebuință	trebuință	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-19	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+19	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 254
@@ -5156,7 +5156,7 @@
 37	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 38	toate	tot	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	_	_	_	_
 39	părțile	parte	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
-40	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+40	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 255
@@ -5180,7 +5180,7 @@
 17	tatăl	tată	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 18	nenorocitei	nenorocită	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 19	Marie	Maria	PROPN	Npfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-20	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+20	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 256
@@ -5228,7 +5228,7 @@
 25	turma	turmă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 26	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 27	oameni	om	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
-28	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+28	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 258
@@ -5252,7 +5252,7 @@
 17	unul	unul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	_	_	_	_
 18	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 19	altul	altul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	_	_	_	SpaceAfter=No
-20	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+20	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 259
@@ -5284,7 +5284,7 @@
 25	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	_	_	_	_
 26	țintă	țintă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 27	hotărâtă	hotărî	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-28	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+28	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 260
@@ -5313,7 +5313,7 @@
 22	bată	bate	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 23	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 24	ochi	ochi	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
-25	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+25	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 261
@@ -5382,7 +5382,7 @@
 43	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	_	_	_	_
 44	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 45	gură	gură	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-46	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+46	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 263
@@ -5423,7 +5423,7 @@
 12	să	să	PART	Qs	PartType=Sub	_	_	_	_
 13	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres	_	_	_	_
 14	închise	închide	VERB	Vmp--pf-p	Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 265
@@ -5443,7 +5443,7 @@
 13	decât	decât	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 14	tânărul	tânăr	ADJ	Afpmsry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 15	Vasile	Vasile	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 266
@@ -5452,7 +5452,7 @@
 2	vorbise	vorbi	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	_	_	_	_
 3	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 4	vânt	vânt	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-5	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+5	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 267
@@ -5483,7 +5483,7 @@
 10	spus	spune	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	_
 11	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 12	Vasile	Vasile	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 269
@@ -5575,7 +5575,7 @@
 56	auzi	auzi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 57	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 58	departe	departe	ADV	Rg	_	_	_	_	SpaceAfter=No
-59	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+59	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 271
@@ -5613,7 +5613,7 @@
 31	plecară	pleca	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 32	înspre	înspre	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 33	poartă	poartă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-34	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+34	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 272
@@ -5630,14 +5630,14 @@
 10	îl	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 11	ținea	ține	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_
 12	gura	gură	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 273
 # text = —Suntem vânduți!
 1	—Suntem	fi	AUX	Vaip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 2	vânduți	vânduță	VERB	Vmp--pm-p	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-3	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+3	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 274
@@ -5656,7 +5656,7 @@
 4	răgușită	răguși	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	_
 5	a	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	_	_	_	_
 6	vătavului	vătav	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 276
@@ -5671,7 +5671,7 @@
 8	îi	el	PRON	Pp3-sd--------w	Case=Dat|Number=Sing|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 9	eși	ieși	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 10	înainte	înainte	ADV	Rg	_	_	_	_	SpaceAfter=No
-11	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+11	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 277
@@ -5681,14 +5681,14 @@
 3	,	,	PUNCT	COMMA	_	_	_	_	_
 4	jupân	jupân	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 5	Procopie	Procopie	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-6	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\r\n\r\n
+6	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 278
 # text = Vătaful îngălbeni.
 1	Vătaful	vătaf	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 2	îngălbeni	îngălbeni	ADJ	Afpmprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
-3	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+3	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 279
@@ -5722,7 +5722,7 @@
 12	și	și	ADV	Rg	_	_	_	_	_
 13	țăranii	țăran	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	_	_	_	_
 14	răsvrătiți	răsvrăti	VERB	Vmp--pm-p	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 281
@@ -5767,7 +5767,7 @@
 32	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 33	credea	crede	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_
 34	singur	singur	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-35	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+35	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 283
@@ -5780,7 +5780,7 @@
 6	ajungă	ajunge	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 7	până	până	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 8	acolo	acolo	ADV	Rg	_	_	_	_	SpaceAfter=No
-9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 284
@@ -5892,7 +5892,7 @@
 51	chinuise	chinui	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	_	_	_	_
 52	atâta	atât	DET	Di3-sr	Case=Acc,Nom|Number=Sing|Person=3|PronType=Ind	_	_	_	_
 53	vreme	vreme	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-54	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+54	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 286
@@ -5911,7 +5911,7 @@
 12	gura	gură	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 13	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 14	Vasile	Vasile	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 287
@@ -5941,7 +5941,7 @@
 6	fruntea	frunte	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 7	haiducilor	haiduc	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	_	_	_	_
 8	săi	său	DET	Ds3mp-s	Gender=Masc|Number=Plur|Number[psor]=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-9	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+9	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 289
@@ -5985,7 +5985,7 @@
 31	ori	oară	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	_	_	_	_
 32	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	_	_	_	_
 33	dată	dată	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-34	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+34	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 291
@@ -6008,7 +6008,7 @@
 8	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 9	Roșcan	Roșcan	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 10	haiducul	haiduc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-11	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+11	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 293
@@ -6028,7 +6028,7 @@
 13	vie	veni	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 14	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 15	lucru	lucru	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 294
@@ -6050,7 +6050,7 @@
 15	moșia	moșie	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 16	boierului	boier	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 17	Niculicea	Niculicea	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 295
@@ -6063,7 +6063,7 @@
 # text = În cămara chinurilor
 1	În	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 2	cămara	cămară	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
-3	chinurilor	chin	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	_	_	_	SpacesAfter=\r\n\r\n
+3	chinurilor	chin	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 297
@@ -6088,7 +6088,7 @@
 18	și	și	CCONJ	Ccssp	Polarity=Pos	_	_	_	_
 19	dați	da	VERB	Vmm-2p	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part	_	_	_	_
 20	morții	mort	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
-21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 298
@@ -6123,7 +6123,7 @@
 28	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 29	odăile	odăi	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	_	_	_	_
 30	ei	el	PRON	Pp3fso	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-31	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+31	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 299
@@ -6157,7 +6157,7 @@
 18	adeveri	adeveri	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 19	vorbele	vorbă	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	_	_	_	_
 20	slujitorului	slujitor	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 301
@@ -6204,7 +6204,7 @@
 15	să	să	PART	Qs	PartType=Sub	_	_	_	_
 16	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 17	apere	apăra	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
-18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 303
@@ -6226,7 +6226,7 @@
 9	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	_	_	_	_
 10	eșire	eșire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 11	neștiută	ști	VERB	Vmp--sf-z--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Neg|VerbForm=Part	_	_	_	SpaceAfter=No
-12	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\r\n\r\n
+12	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 305
@@ -6246,7 +6246,7 @@
 13	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 14	câteva	câtva	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	_	_	_	_
 15	pistoale	pistol	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
-16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 306
@@ -6284,7 +6284,7 @@
 8	fac	face	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 9	nicio	niciun	DET	Dz3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Neg	_	_	_	_
 10	lescaiă	lescaiă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-11	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+11	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 309
@@ -6395,7 +6395,7 @@
 13	vorba	vorbă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 14	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 15	bătaiă	bătaiă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 313
@@ -6429,7 +6429,7 @@
 27	bine	bine	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 28	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 29	peire	peire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-30	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+30	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 314
@@ -6478,7 +6478,7 @@
 42	cele	cel	DET	Tdfpr	Case=Acc,Nom|Gender=Fem|Number=Plur|PronType=Dem	_	_	_	_
 43	mai	mai	ADV	Rg	_	_	_	_	_
 44	grozave	grozav	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
-45	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+45	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 315
@@ -6491,7 +6491,7 @@
 6	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 7	să	să	PART	Qs	PartType=Sub	_	_	_	_
 8	fugă	fugă	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
-9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 316
@@ -6524,7 +6524,7 @@
 26	peste	peste	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 27	casa	casă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 28	boierească	boieresc	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-29	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+29	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 317
@@ -6609,7 +6609,7 @@
 78	încreția	încreția	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_
 79	numai	numai	ADV	Rg	_	_	_	_	_
 80	fruntea	frunte	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-81	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+81	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 318
@@ -6620,7 +6620,7 @@
 4	mult	mult	ADV	Rg	_	_	_	_	_
 5	decât	decât	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 6	boierul	boier	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 319
@@ -6655,7 +6655,7 @@
 3	șterse	șterge	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 4	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 5	sănătoasa	sănătoasă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-6	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+6	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 321
@@ -6688,7 +6688,7 @@
 26	el	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 27	avea	avea	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_
 28	dreptate	dreptate	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-29	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+29	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 322
@@ -6707,7 +6707,7 @@
 12	și	și	CCONJ	Ccssp	Polarity=Pos	_	_	_	_
 13	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 14	pistoale	pistol	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 323
@@ -6730,7 +6730,7 @@
 2	,	,	PUNCT	COMMA	_	_	_	_	_
 3	măi	măi	INTJ	I	_	_	_	_	_
 4	slujitor	slujitor	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-5	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+5	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 325
@@ -6746,7 +6746,7 @@
 9	năvală	năvală	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 10	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 11	curte	curte	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-12	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+12	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 326
@@ -6782,7 +6782,7 @@
 29	pentru	pentru	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 30	lumea	lume	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 31	cealaltă	celălalt	DET	Dd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	_	_	_	SpaceAfter=No
-32	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+32	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 327
@@ -6808,7 +6808,7 @@
 19	turbare	turbare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 20	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 21	sânge	sânge	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-22	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+22	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 328
@@ -6850,7 +6850,7 @@
 6	pas	pas	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 7	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 8	curte	curte	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 331
@@ -6879,7 +6879,7 @@
 22	vopseaua	vopsea	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 23	părului	păr	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 24	său	său	DET	Ds3ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-25	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+25	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 332
@@ -6920,7 +6920,7 @@
 34	are	avea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 35	părul	păr	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 36	roșiu	roșu	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-37	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+37	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 333
@@ -6950,7 +6950,7 @@
 23	să	să	PART	Qs	PartType=Sub	_	_	_	_
 24	sufere	suferi	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 25	cumplit	cumplit	ADV	Rg	_	_	_	_	SpaceAfter=No
-26	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+26	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 334
@@ -6958,7 +6958,7 @@
 1	Așa	așa	ADV	Rg	_	_	_	_	_
 2	si	și	ADV	Rg	_	_	_	_	_
 3	astăzi	astăzi	ADV	Rg	_	_	_	_	SpaceAfter=No
-4	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+4	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 335
@@ -6991,7 +6991,7 @@
 26	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	_	_	_	_
 27	voce	voce	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 28	tunătoare	tunător	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-29	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\r\n\r\n
+29	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 336
@@ -7029,7 +7029,7 @@
 14	strâng	strânge	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
 15	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 16	gât	gât	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-17	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\r\n\r\n
+17	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 339
@@ -7105,7 +7105,7 @@
 15	căzuse	cădea	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	_	_	_	_
 16	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 17	mâna	mână	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 343
@@ -7147,7 +7147,7 @@
 35	fost	fi	AUX	Vap	VerbForm=Part	_	_	_	_
 36	așea	așa	ADV	Rg	_	_	_	_	_
 37	rău	rău	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-38	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+38	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 344
@@ -7224,7 +7224,7 @@
 42	una	unul	PRON	Pi3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	_	_	_	_
 43	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 44	asta	acesta	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	_	_	_	SpaceAfter=No
-45	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+45	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 347
@@ -7276,7 +7276,7 @@
 28	slobozise	slobozi	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	_	_	_	_
 29	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 30	gang	gang	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-31	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+31	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 349
@@ -7288,7 +7288,7 @@
 5	înpotrivea	înpotrivi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_
 6	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 7	turbare	turbare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-8	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+8	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 350
@@ -7325,7 +7325,7 @@
 30	,	,	PUNCT	COMMA	_	_	_	_	_
 31	haiducului	haiduc	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 32	Roșcan	Roșcan	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-33	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+33	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 351
@@ -7344,7 +7344,7 @@
 12	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 13	brațele	braț	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	_	_	_	_
 14	lor	el	PRON	Pp3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 352
@@ -7386,7 +7386,7 @@
 35	pentru	pentru	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 36	viața	viață	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 37	sa	său	DET	Ds3fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-38	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+38	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 353
@@ -7399,7 +7399,7 @@
 6	sufere	suferi	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 7	boerul	boier	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 8	Niculicea	Niculicea	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 354
@@ -7429,7 +7429,7 @@
 23	fugise	fugi	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	_	_	_	_
 24	și	și	ADV	Rg	_	_	_	_	_
 25	dascălul	dascăl	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-26	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+26	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 355
@@ -7448,7 +7448,7 @@
 12	și	și	CCONJ	Ccssp	Polarity=Pos	_	_	_	_
 13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 14	picioare	picior	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 356
@@ -7464,7 +7464,7 @@
 9	,	,	PUNCT	COMMA	_	_	_	_	_
 10	porunci	porunci	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 11	Roșcan	Roșcan	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-12	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+12	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 357
@@ -7474,7 +7474,7 @@
 3	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 4	înplini	înplini	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 5	îndată	îndată	ADV	Rg	_	_	_	_	SpaceAfter=No
-6	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+6	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 358
@@ -7509,7 +7509,7 @@
 7	lucrurile	lucru	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	_	_	_	_
 8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 9	chinuit	chinui	VERB	Vmp	VerbForm=Part	_	_	_	SpaceAfter=No
-10	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+10	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 360
@@ -7521,7 +7521,7 @@
 
 # sent_id = 361
 # text = /
-1	/	/	SYM	SLASH	AdpType=Prep	_	_	_	SpacesAfter=\r\n\r\n
+1	/	/	SYM	SLASH	AdpType=Prep	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 362
@@ -7554,7 +7554,7 @@
 7	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 8	să	să	PART	Qs	PartType=Sub	_	_	_	_
 9	răspunză	răspunde	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
-10	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+10	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 365
@@ -7573,7 +7573,7 @@
 12	asculte	asculta	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 14	poruncă	poruncă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-15	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+15	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 366
@@ -7595,7 +7595,7 @@
 1	întrebă	întreba	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 2	el	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 3	posomorât	posomorî	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-4	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+4	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 368
@@ -7622,7 +7622,7 @@
 1	Ha	ha	INTJ	I	_	_	_	_	_
 2	ha	ha	INTJ	I	_	_	_	_	_
 3	ha	ha	INTJ	I	_	_	_	_	SpaceAfter=No
-4	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+4	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 371
@@ -7660,7 +7660,7 @@
 31	sus	sus	ADV	Rg	_	_	_	_	_
 32	până	până	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 33	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
-34	tavan	tavan	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+34	tavan	tavan	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 372
@@ -7723,7 +7723,7 @@
 56	strigăt	strigăt	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 57	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 58	durere	durere	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-59	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+59	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 373
@@ -7775,7 +7775,7 @@
 13	gând	gând	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 14	sa	său	DET	Ds3fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	_	_	_	_
 15	chinuesci	chinuesci	VERB	Vmip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
-16	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\r\n\r\n
+16	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 377
@@ -7800,7 +7800,7 @@
 18	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 19	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_
 20	mort	mort	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 378
@@ -7821,7 +7821,7 @@
 14	Roșcan	Roșcan	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 15	să	să	PART	Qs	PartType=Sub	_	_	_	_
 16	turbeze	turba	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
-17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 379
@@ -7853,7 +7853,7 @@
 15	chinuiți	chinui	VERB	Vmsp2p	Mood=Sub|Number=Plur|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	_
 16	mai	mai	ADV	Rg	_	_	_	_	_
 17	departe	departe	ADV	Rg	_	_	_	_	SpaceAfter=No
-18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 381
@@ -7890,7 +7890,7 @@
 30	superstițiosului	superstițios	ADJ	Afpmsoy	Case=Dat,Gen|Definite=Def|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 31	Ev	ev	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 32	Mediu	mediu	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-33	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+33	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 382
@@ -7922,7 +7922,7 @@
 25	cele	cel	DET	Tdfpr	Case=Acc,Nom|Gender=Fem|Number=Plur|PronType=Dem	_	_	_	_
 26	mai	mai	ADV	Rg	_	_	_	_	_
 27	mari	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	_	_	_	SpaceAfter=No
-28	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+28	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 383
@@ -7946,7 +7946,7 @@
 17	gătit	găti	VERB	Vmp	VerbForm=Part	_	_	_	_
 18	camera	cameră	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 19	chinurilor	chin	NOUN	Ncfpoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
-20	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+20	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 384
@@ -7967,7 +7967,7 @@
 14	lui	el	PRON	Pp3msd--------s	Case=Dat|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Strong	_	_	_	SpaceAfter=No
 15	,	,	PUNCT	COMMA	_	_	_	_	_
 16	boierului	boier	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 385
@@ -7996,7 +7996,7 @@
 22	și	și	CCONJ	Ccssp	Polarity=Pos	_	_	_	_
 23	boierul	boier	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 24	muri	muri	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
-25	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+25	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 386
@@ -8034,7 +8034,7 @@
 31	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_
 32	sgomot	sgomot	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 33	asurzitor	asurzitor	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-34	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+34	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 387
@@ -8063,7 +8063,7 @@
 9	sgomoțul	sgomoț	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 10	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 11	apropia	apropia	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No
-12	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+12	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 389
@@ -8101,7 +8101,7 @@
 13	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 14	făcu	face	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 15	foc	foc	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 391
@@ -8148,7 +8148,7 @@
 21	către	către	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 22	fratele	frate	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 23	ei	el	PRON	Pp3fso	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-24	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+24	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 393
@@ -8160,7 +8160,7 @@
 # sent_id = 394
 # text = Mireasa Robului
 1	Mireasa	mireasă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
-2	Robului	rob	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+2	Robului	rob	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 395
@@ -8173,7 +8173,7 @@
 6	Vasile	Vasile	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 7	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 8	Florica	Florica	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 396
@@ -8239,7 +8239,7 @@
 28	mândrie	mândrie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 29	și	și	CCONJ	Ccssp	Polarity=Pos	_	_	_	_
 30	fală	fală	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-31	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+31	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 399
@@ -8281,7 +8281,7 @@
 35	pumnul	pumn	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 36	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 37	obraz	obraz	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-38	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+38	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 400
@@ -8314,7 +8314,7 @@
 7	căzu	cădea	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 8	asupra	asupra	ADP	Spsg	AdpType=Prep|Case=Gen	_	_	_	_
 9	făptuitorului	făptuitor	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-10	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+10	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 402
@@ -8335,7 +8335,7 @@
 14	până	până	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 15	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 16	dânsa	dânsul	PRON	Pp3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 403
@@ -8358,7 +8358,7 @@
 16	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 17	ațâțații	ațâțat	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	_	_	_	_
 18	răsvrătitori	răsvrătitor	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
-19	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+19	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 404
@@ -8391,7 +8391,7 @@
 1	strigă	striga	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 2	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_
 3	altul	altul	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	_	_	_	SpaceAfter=No
-4	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+4	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 407
@@ -8417,7 +8417,7 @@
 19	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 20	brațul	braț	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 21	său	său	DET	Ds3ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-22	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+22	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 408
@@ -8530,7 +8530,7 @@
 10	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 11	coconița	coconiță	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 12	Florica	Florica	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 414
@@ -8557,7 +8557,7 @@
 20	și	și	CCONJ	Ccssp	Polarity=Pos	_	_	_	_
 21	să	să	PART	Qs	PartType=Sub	_	_	_	_
 22	vorbească	vorbi	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
-23	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+23	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 415
@@ -8593,7 +8593,7 @@
 29	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 30	a	a	PART	Qn	PartType=Inf	_	_	_	_
 31	vorbi	vorbi	VERB	Vmn	VerbForm=Inf	_	_	_	SpaceAfter=No
-32	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+32	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 416
@@ -8614,7 +8614,7 @@
 14	sălbatică	sălbatic	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
 15	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 16	retrase	retrage	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	_	_	_	SpaceAfter=No
-17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 417
@@ -8644,7 +8644,7 @@
 7	-l	el	PRON	Pp3msa--------w	Case=Acc|Gender=Masc|Number=Sing|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 8	că	că	SCONJ	Csssp	Polarity=Pos	_	_	_	_
 9	vine	veni	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
-10	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+10	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 420
@@ -8659,7 +8659,7 @@
 8	și	și	CCONJ	Ccssp	Polarity=Pos	_	_	_	_
 9	strigă	striga	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 10	tare	tare	ADV	Rg	_	_	_	_	SpaceAfter=No
-11	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\r\n\r\n
+11	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 421
@@ -8702,7 +8702,7 @@
 9	-și	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 10	ia	lua	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 11	ceva	ceva	PRON	Pi3-sr	Case=Acc,Nom|Number=Sing|Person=3|PronType=Ind	_	_	_	SpaceAfter=No
-12	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+12	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 423
@@ -8717,7 +8717,7 @@
 8	zicătoare	zicătoare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 9	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 10	vrăjire	vrăjire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-11	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+11	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 424
@@ -8746,7 +8746,7 @@
 22	să	să	PART	Qs	PartType=Sub	_	_	_	_
 23	doboare	doborî	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 24	tot	tot	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	_	_	_	SpaceAfter=No
-25	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+25	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 425
@@ -8803,7 +8803,7 @@
 12	fața	față	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 13	căpitanului	căpitan	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 14	Roșcan	Roșcan	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 428
@@ -8849,7 +8849,7 @@
 10	facem	face	VERB	Vmsp1p	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
 11	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 12	dânsa	dânsul	PRON	Pp3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-13	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\r\n\r\n
+13	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 431
@@ -8870,7 +8870,7 @@
 14	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_
 15	sfat	sfat	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 16	bun	bun	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 432
@@ -8941,7 +8941,7 @@
 33	că	că	SCONJ	Csssp	Polarity=Pos	_	_	_	_
 34	ți-o	tu	PRON	Pp2-sd--------w	Case=Dat|Number=Sing|Person=2|PronType=Prs|Strength=Weak	_	_	_	_
 35	îndeplinesc	îndeplini	VERB	Vmip1s	Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
-36	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+36	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 436
@@ -9107,7 +9107,7 @@
 28	ne-	eu	PRON	Pp1-pa--------w	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Weak	_	_	_	SpaceAfter=No
 29	a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 30	găsitu	găsi	VERB	Vmp	VerbForm=Part	_	_	_	SpaceAfter=No
-31	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+31	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 443
@@ -9156,7 +9156,7 @@
 14	vei	vrea	AUX	Vaip2s	Mood=Ind|Number=Sing|Person=2|Tense=Pres	_	_	_	_
 15	da	da	VERB	Vmn	VerbForm=Inf	_	_	_	_
 16	tu	tu	PRON	Pp2-sr	Case=Acc,Nom|Number=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No
-17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 446
@@ -9178,7 +9178,7 @@
 15	aceea	acela	PRON	Pd3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Dem	_	_	_	_
 16	el	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 17	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
-18	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\r\n\r\n
+18	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 447
@@ -9232,7 +9232,7 @@
 47	nici	nici	CCONJ	Cccsz	Compound=Yes|Polarity=Neg	_	_	_	_
 48	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 49	oameni	om	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
-50	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+50	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 448
@@ -9252,7 +9252,7 @@
 5	săvârșesci	săvârși	VERB	Vmsp2s	Mood=Sub|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin	_	_	_	_
 6	această	acesta	DET	Dd3fsr---e	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Dem	_	_	_	_
 7	pedeapsă	pedeapsă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-8	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\r\n\r\n
+8	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 450
@@ -9310,7 +9310,7 @@
 18	acestă	acesta	PRON	Pd3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Dem	_	_	_	_
 19	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 20	coconiță	coconiță	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 453
@@ -9323,7 +9323,7 @@
 6	ei	el	PRON	Pp3fso	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 7	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 8	îngrozire	îngrozire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 454
@@ -9339,7 +9339,7 @@
 9	nici	nici	ADV	Rz	Polarity=Neg	_	_	_	_
 10	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_
 11	cuvânt	cuvânt	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-12	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+12	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 455
@@ -9582,7 +9582,7 @@
 10	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 11	către	către	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 12	boerimea	boierime	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-13	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+13	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 464
@@ -9606,7 +9606,7 @@
 17	râse	rî	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 18	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 19	poftă	poftă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-20	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+20	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 465
@@ -9632,7 +9632,7 @@
 10	și	și	CCONJ	Ccssp	Polarity=Pos	_	_	_	_
 11	deschideți	deschide	VERB	Vmm-2p	Mood=Imp|Number=Plur|Person=2|VerbForm=Fin	_	_	_	_
 12	biserica	biserică	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 467
@@ -9650,7 +9650,7 @@
 11	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 12	preotul	preot	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 13	bisericei	biserică	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 468
@@ -9670,7 +9670,7 @@
 13	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 14	frica	frică	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 15	răsvrătiților	răsvrătit	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
-16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 469
@@ -9684,7 +9684,7 @@
 # text = întrebă Roșcan.
 1	întrebă	întreba	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 2	Roșcan	Roșcan	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-3	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+3	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 471
@@ -9694,7 +9694,7 @@
 3	răspunde	răspunde	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 4	că	că	SCONJ	Csssp	Polarity=Pos	_	_	_	_
 5	da	da	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	SpaceAfter=No
-6	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+6	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 472
@@ -9717,7 +9717,7 @@
 16	nuntași	nuntaș	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	_	_	_	_
 17	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 18	cununie	cununie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-19	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+19	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 473
@@ -9744,7 +9744,7 @@
 20	să	să	PART	Qs	PartType=Sub	_	_	_	_
 21	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 22	facă	face	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
-23	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+23	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 474
@@ -9789,7 +9789,7 @@
 38	pentru	pentru	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 39	răsbunarea	răsbunare	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 40	lor	el	PRON	Pp3-po	Case=Dat,Gen|Number=Plur|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-41	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+41	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 475
@@ -9816,7 +9816,7 @@
 20	coprinse	coprinde	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 21	toată	tot	DET	Di3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	_	_	_	_
 22	ceata	ceată	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-23	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+23	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 476
@@ -9834,7 +9834,7 @@
 11	cap	cap	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 12	și	și	CCONJ	Ccssp	Polarity=Pos	_	_	_	_
 13	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
-14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 477
@@ -9925,7 +9925,7 @@
 62	fiți	fi	AUX	Vasp2p	Mood=Sub|Number=Plur|Person=2|Tense=Pres	_	_	_	_
 63	bine	bine	ADV	Rg	_	_	_	_	_
 64	sfătuiți	sfătui	VERB	Vmp--pm-p	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-65	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+65	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 480
@@ -9946,7 +9946,7 @@
 14	cineva	cineva	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	_	_	_	_
 15	urmașul	urmaș	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 16	său	său	DET	Ds3ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 481
@@ -9969,7 +9969,7 @@
 16	a	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	_	_	_	_
 17	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 18	Vasile	Vasile	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-19	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+19	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 482
@@ -9980,7 +9980,7 @@
 4	înspre	înspre	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 5	biserica	biserică	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 6	satului	sat	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 483
@@ -10019,7 +10019,7 @@
 32	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 33	altarul	altar	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 34	bisericei	biserică	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-35	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+35	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 484
@@ -10046,7 +10046,7 @@
 8	și	și	CCONJ	Ccssp	Polarity=Pos	_	_	_	_
 9	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 10	Vasile	Vasile	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-11	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+11	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 486
@@ -10066,14 +10066,14 @@
 4	mulțimea	mulțime	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 5	țăranilor	țăran	NOUN	Ncmpoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Plur	_	_	_	_
 6	răsvrătiți	răsvrăti	VERB	Vmp--pm-p	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 488
 # text = Roșcan tresări.
 1	Roșcan	Roșcan	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 2	tresări	tresări	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	SpaceAfter=No
-3	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+3	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 489
@@ -10091,7 +10091,7 @@
 # text = zise el.
 1	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 2	el	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-3	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+3	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 491
@@ -10122,7 +10122,7 @@
 13	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_
 14	sfat	sfat	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 15	mic	mic	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 493
@@ -10135,7 +10135,7 @@
 # text = zise Roșcan.
 1	zise	zice	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 2	Roșcan	Roșcan	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-3	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+3	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 495
@@ -10207,7 +10207,7 @@
 30	cum	cum	ADV	Rw	PronType=Int,Rel	_	_	_	_
 31	ede	edea	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 32	obiceiu	obicei	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-33	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+33	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 498
@@ -10307,7 +10307,7 @@
 11	n-	nu	ADV	Qz	Polarity=Neg	_	_	_	SpaceAfter=No
 12	avem	avea	VERB	Vmip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
 13	vreme	vreme	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-14	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+14	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 503
@@ -10324,7 +10324,7 @@
 10	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 11	altarul	altar	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 12	bisericei	biserică	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+13	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 504
@@ -10353,7 +10353,7 @@
 5	îndoielnice	îndoielnic	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	_
 6	înspre	înspre	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 7	Vasile	Vasile	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-8	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+8	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 506
@@ -10388,7 +10388,7 @@
 21	își	sine	PRON	Px3--d--------w	Case=Dat|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 22	mântue	mântue	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 23	viața	viață	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-24	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+24	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 508
@@ -10432,7 +10432,7 @@
 37	fost	fi	AUX	Vap	VerbForm=Part	_	_	_	_
 38	Măria	mărie	PRON	Pp3msr	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 39	ta	tău	DET	Ds2fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=2|PronType=Prs	_	_	_	SpaceAfter=No
-40	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+40	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 509
@@ -10450,7 +10450,7 @@
 11	înfiorător	înfiorător	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 12	și	și	CCONJ	Ccssp	Polarity=Pos	_	_	_	_
 13	îngrozit	îngrozi	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 510
@@ -10506,7 +10506,7 @@
 39	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 40	pieptul	piept	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 41	meu	meu	DET	Ds1ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No
-42	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+42	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 512
@@ -10525,7 +10525,7 @@
 12	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	_	_	_	_
 13	fiară	fiară	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 14	sălbatică	sălbatic	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 513
@@ -10569,7 +10569,7 @@
 31	te	tu	PRON	Pp2-sa--------w	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Weak	_	_	_	_
 32	poate	putea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 33	despărți	despărți	VERB	Vmn	VerbForm=Inf	_	_	_	SpaceAfter=No
-34	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+34	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 515
@@ -10597,7 +10597,7 @@
 2	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 3	fără	fără	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 4	simțire	simțire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-5	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+5	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 517
@@ -10629,7 +10629,7 @@
 25	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 26	ea	el	PRON	Pp3fsa--------s	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Strong	_	_	_	_
 27	însuși	însuși	DET	Dh3ms	Gender=Masc|Number=Sing|Person=3|PronType=Emp	_	_	_	SpaceAfter=No
-28	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+28	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 518
@@ -10640,7 +10640,7 @@
 4	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 5	abea	abea	ADV	Rg	_	_	_	_	_
 6	răsuflând	răsufla	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	_	_	_	SpaceAfter=No
-7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 519
@@ -10658,7 +10658,7 @@
 11	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 12	spre	spre	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 13	sat	sat	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 520
@@ -10696,7 +10696,7 @@
 2	vom	vrea	AUX	Vaip1p	Mood=Ind|Number=Plur|Person=1|Tense=Pres	_	_	_	_
 3	isprăvi	isprăvi	VERB	Vmn	VerbForm=Inf	_	_	_	_
 4	iute	iute	ADV	Rg	_	_	_	_	SpaceAfter=No
-5	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+5	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 524
@@ -10709,7 +10709,7 @@
 6	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 7	pragul	prag	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 8	bisericei	biserică	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 525
@@ -10751,7 +10751,7 @@
 2	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 3	numea	numi	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_
 4	Stanca	Stanca	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-5	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+5	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 527
@@ -10866,7 +10866,7 @@
 48	e	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 49	Vasile	Vasile	PROPN	Npmsrn	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 50	ăsta	acesta	DET	Dd3msr---o	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|Position=Postnom|PronType=Dem	_	_	_	SpaceAfter=No
-51	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+51	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 531
@@ -10878,7 +10878,7 @@
 5	îndreptă	îndrepta	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 6	înspre	înspre	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 7	țărani	țăran	NOUN	Ncmprn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
-8	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\r\n\r\n
+8	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 532
@@ -10916,7 +10916,7 @@
 13	mai	mai	ADV	Rg	_	_	_	_	_
 14	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 15	frunte	frunte	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 534
@@ -10937,7 +10937,7 @@
 14	să	să	PART	Qs	PartType=Sub	_	_	_	_
 15	fie	fi	AUX	Vasp3	Mood=Sub|Person=3|Tense=Pres	_	_	_	_
 16	ascultate	asculta	VERB	Vmp--pf-p	Gender=Fem|Number=Plur|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 535
@@ -10968,7 +10968,7 @@
 24	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 25	grămada	grămadă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 26	înăuntru	înăuntru	ADV	Rg	_	_	_	_	SpaceAfter=No
-27	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+27	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 536
@@ -10990,7 +10990,7 @@
 15	o	el	PRON	Pp3fsa--------w	Case=Acc|Gender=Fem|Number=Sing|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 16	privi	privi	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 17	țintă	țintă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 537
@@ -11118,7 +11118,7 @@
 19	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 20	și	și	ADV	Rg	_	_	_	_	_
 21	noi	eu	PRON	Pp1-pa--------s	Case=Acc|Number=Plur|Person=1|PronType=Prs|Strength=Strong	_	_	_	SpaceAfter=No
-22	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+22	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 542
@@ -11154,7 +11154,7 @@
 29	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_
 30	brânci	brânci	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 31	înapoi	înapoi	ADV	Rg	_	_	_	_	SpaceAfter=No
-32	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+32	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 543
@@ -11165,7 +11165,7 @@
 4	îndărăt	îndărăt	ADV	Rg	_	_	_	_	_
 5	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 6	mirare	mirare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 544
@@ -11190,7 +11190,7 @@
 3	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 4	voce	voce	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 5	țiuitoare	țiuitor	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-6	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+6	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 546
@@ -11259,7 +11259,7 @@
 8	fi	fi	AUX	Van	VerbForm=Inf	_	_	_	_
 9	nașul	naș	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 10	meu	meu	DET	Ds1ms-s	Gender=Masc|Number=Sing|Number[psor]=Sing|Person=1|PronType=Prs	_	_	_	SpaceAfter=No
-11	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\r\n\r\n
+11	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 550
@@ -11289,7 +11289,7 @@
 23	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	SpaceAfter=No
 24	-naintea	înaintea	ADP	Spsg	AdpType=Prep|Case=Gen	_	_	_	_
 25	altarului	altar	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-26	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+26	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 551
@@ -11326,7 +11326,7 @@
 30	dovezi	dovadă	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	_	_	_	_
 31	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 32	cununie	cununie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-33	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+33	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 552
@@ -11342,7 +11342,7 @@
 9	haiducul	haiduc	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 10	către	către	ADP	Spsa	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 11	popă	popă	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-12	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+12	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 553
@@ -11351,7 +11351,7 @@
 2	tăcu	tăcea	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 3	din	din	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 4	gură	gură	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-5	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+5	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 554
@@ -11399,7 +11399,7 @@
 26	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 27	urechia	ureche	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 28	preotului	preot	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-29	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+29	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 556
@@ -11417,7 +11417,7 @@
 11	roșu	roșu	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	_
 12	ca	ca	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 13	sfecla	sfeclă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 557
@@ -11438,7 +11438,7 @@
 14	începu	începe	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 15	sfânta	sfânt	ADJ	Afpfsry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
 16	slujbă	slujbă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 558
@@ -11456,7 +11456,7 @@
 11	mortă	mort	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
 12	decât	decât	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 13	vie	viu	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 559
@@ -11480,7 +11480,7 @@
 17	nu	nu	ADV	Qz	Polarity=Neg	_	_	_	_
 18	scia	scia	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_
 19	nimic	nimic	PRON	Pz3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Neg	_	_	_	SpaceAfter=No
-20	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+20	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 560
@@ -11517,7 +11517,7 @@
 30	a	al	DET	Tsfsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Poss=Yes|PronType=Art	_	_	_	_
 31	țăranului	țăran	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 32	Vasile	Vasile	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-33	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+33	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 561
@@ -11546,7 +11546,7 @@
 22	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 23	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	_	_	_	_
 24	leșinată	leșina	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-25	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+25	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 562
@@ -11588,7 +11588,7 @@
 35	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 36	totul	tot	PRON	Pi3msry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|Person=3|PronType=Ind	_	_	_	_
 37	isprăvită	isprăvi	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-38	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+38	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 563
@@ -11610,7 +11610,7 @@
 9	tremurătoare	tremurător	ADJ	Afpfprn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	_
 10	ale	al	DET	Tsfpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Poss=Yes|PronType=Art	_	_	_	_
 11	preotului	preot	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-12	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+12	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 565
@@ -11643,7 +11643,7 @@
 11	veselă	vesel	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
 12	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 13	cumnații	cumnat	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
-14	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+14	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 568
@@ -11658,7 +11658,7 @@
 8	primească	primi	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 9	multe	mult	DET	Di3fpr	Case=Acc,Nom|Gender=Fem|Number=Plur|Person=3|PronType=Ind	_	_	_	_
 10	urări	urare	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
-11	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+11	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 569
@@ -11688,7 +11688,7 @@
 23	mergem	merge	VERB	Vmsp1p	Mood=Sub|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin	_	_	_	_
 24	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 25	frunte	frunte	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-26	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+26	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 570
@@ -11702,7 +11702,7 @@
 7	un	un	DET	Timsr	Case=Acc,Nom|Gender=Masc|Number=Sing|PronType=Ind	_	_	_	_
 8	pământ	pământ	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 9	sterp	sterp	ADJ	Afpmsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-10	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+10	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 571
@@ -11748,7 +11748,7 @@
 31	aprinse	aprinde	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 32	casa	casă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 33	boiească	boiesc	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-34	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+34	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 573
@@ -11757,7 +11757,7 @@
 2	VI.Mul	vi.m	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
 3	țumire	țumire	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 4	și	și	CCONJ	Ccssp	Polarity=Pos	_	_	_	_
-5	răsbunare	răsbunare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+5	răsbunare	răsbunare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 574
@@ -11771,7 +11771,7 @@
 7	care	care	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	_	_	_	_
 8	locuia	locui	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_
 9	Vasile	Vasile	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-10	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+10	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 575
@@ -11807,7 +11807,7 @@
 21	nevasta	nevastă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 22	sa	său	DET	Ds3fsrs	Case=Acc,Nom|Gender=Fem|Number=Sing|Number[psor]=Sing|Person=3|PronType=Prs	_	_	_	_
 23	iubită	iubi	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-24	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+24	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 577
@@ -11823,7 +11823,7 @@
 9	fata	fată	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 10	boerului	boer	NOUN	Ncmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 11	Niculcea	niculce	PROPN	Npmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-12	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+12	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 578
@@ -11850,7 +11850,7 @@
 20	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 21	urma	urmă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 22	lui	el	PRON	Pp3mso	Case=Gen|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-23	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+23	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 579
@@ -11903,7 +11903,7 @@
 19	ce	ce	PRON	Pw3--r	Case=Acc,Nom|Person=3|PronType=Int,Rel	_	_	_	_
 20	mai	mai	ADV	Rg	_	_	_	_	_
 21	mult	mult	ADV	Rg	_	_	_	_	SpaceAfter=No
-22	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+22	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 581
@@ -11962,7 +11962,7 @@
 52	stătea	sta	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_
 53	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 54	flăcări	flacără	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
-55	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+55	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 582
@@ -11987,7 +11987,7 @@
 18	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 19	împrăscierea	împrăsciere	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 20	mulțimei	mulțime	NOUN	Ncfsoy	Case=Dat,Gen|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+21	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 583
@@ -11999,7 +11999,7 @@
 5	ridică	ridica	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 6	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 7	sus	sus	ADV	Rg	_	_	_	_	SpaceAfter=No
-8	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+8	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 584
@@ -12020,7 +12020,7 @@
 2	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 3	rugă	ruga	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 4	el	el	PRON	Pp3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-5	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+5	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 586
@@ -12038,13 +12038,13 @@
 11	plină	plin	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	_
 12	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 13	bucurie	bucurie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 587
 # text = —Vasile!
 1	—Vasile	—vasile	NOUN	Npmsvn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-2	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+2	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 588
@@ -12067,14 +12067,14 @@
 16	întinzând	întinde	VERB	Vmg-----p	Polarity=Pos|VerbForm=Ger	_	_	_	_
 17	brațele	braț	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	_	_	_	_
 18	sale	său	DET	Ds3fp-s	Gender=Fem|Number=Plur|Number[psor]=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-19	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\r\n\r\n
+19	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 589
 # text = — Mario!
 1	—	—	PUNCT	DASH	_	_	_	_	_
 2	Mario	Mario	PROPN	Npfsvn	Case=Voc|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-3	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+3	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 590
@@ -12107,13 +12107,13 @@
 26	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 27	mare	mare	ADJ	Afp-srn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Number=Sing	_	_	_	_
 28	spaimă	spaimă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-29	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\r\n\r\n
+29	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 591
 # text = —Mântuită?
 1	—Mântuită	—mântui	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-2	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\r\n\r\n
+2	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 592
@@ -12132,7 +12132,7 @@
 12	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	_	_	_	_
 13	ușoară	ușor	VERB	Vmis3p	Mood=Ind|Number=Plur|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 14	răsuflare	răsuflare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+15	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 593
@@ -12162,7 +12162,7 @@
 5	grijă	grijă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 6	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 7	dânsa	dânsul	PRON	Pp3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-8	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+8	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 595
@@ -12205,7 +12205,7 @@
 4	totul	tot	PRON	Pi3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Ind	_	_	_	_
 5	mai	mai	ADV	Rg	_	_	_	_	_
 6	curând	curând	ADV	Rg	_	_	_	_	SpaceAfter=No
-7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 599
@@ -12233,7 +12233,7 @@
 11	mai	mai	ADV	Rg	_	_	_	_	_
 12	amenință	amenința	VERB	Vmip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 13	nimic	nimic	PRON	Pz3msr	Case=Acc,Nom|Gender=Masc|Number=Sing|Person=3|PronType=Neg	_	_	_	SpaceAfter=No
-14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+14	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 601
@@ -12254,7 +12254,7 @@
 2	acuma	acuma	ADV	Rg	_	_	_	_	_
 3	la	la	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 4	lucru	lucru	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-5	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+5	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 603
@@ -12322,7 +12322,7 @@
 61	se	sine	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 62	afla	afla	VERB	Vmii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin	_	_	_	_
 63	acolo	acolo	ADV	Rg	_	_	_	_	SpaceAfter=No
-64	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+64	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 604
@@ -12343,7 +12343,7 @@
 14	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 15	brațul	braț	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	_
 16	legat	lega	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+17	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 605
@@ -12366,14 +12366,14 @@
 16	tot	tot	ADV	Ri	PronType=Ind	_	_	_	_
 17	următoarele	următor	ADJ	Afpfpry	Case=Acc,Nom|Definite=Def|Degree=Pos|Gender=Fem|Number=Plur	_	_	_	_
 18	cuvinte	cuvânt	NOUN	Ncfprn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Plur	_	_	_	SpaceAfter=No
-19	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\r\n\r\n
+19	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 606
 # text = —Se desceaptă!
 1	—Se	—se	PRON	Px3--a--------w	Case=Acc|Person=3|PronType=Prs|Strength=Weak	_	_	_	_
 2	desceaptă	descepta	VERB	Vmip3p	Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	SpaceAfter=No
-3	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+3	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 607
@@ -12402,7 +12402,7 @@
 13	Florica	Florica	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 14	deschise	deschide	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 15	ochii	ochi	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
-16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+16	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 609
@@ -12493,7 +12493,7 @@
 5	vecinicie	vecinicie	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
 6	,	,	PUNCT	COMMA	_	_	_	_	_
 7	nelegiuitul	nelegiuit	NOUN	Ncmsry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-8	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+8	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 616
@@ -12541,14 +12541,14 @@
 3	era	fi	AUX	Vaii3s	Mood=Ind|Number=Sing|Person=3|Tense=Imp	_	_	_	_
 4	vocea	voce	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 5	Florichei	Florichei	PROPN	Npmsoy	Case=Dat,Gen|Definite=Def|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-6	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\r\n\r\n
+6	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 619
 # text = — Predo!
 1	—	—	PUNCT	DASH	_	_	_	_	_
 2	Predo	Predo	INTJ	I	_	_	_	_	SpaceAfter=No
-3	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\r\n\r\n
+3	!	!	PUNCT	EXCL	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 620
@@ -12612,7 +12612,7 @@
 8	de	de	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 9	a	a	PART	Qn	PartType=Inf	_	_	_	_
 10	zice	zice	VERB	Vmn	VerbForm=Inf	_	_	_	SpaceAfter=No
-11	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\r\n\r\n
+11	:	:	PUNCT	COLON	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 623
@@ -12833,7 +12833,7 @@
 45	numai	numai	ADV	Rg	_	_	_	_	_
 46	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 47	moartea	moarte	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-48	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+48	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 630
@@ -12866,7 +12866,7 @@
 4	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 5	firea	fire	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 6	ei	el	PRON	Pp3fso	Case=Gen|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	SpaceAfter=No
-7	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\r\n\r\n
+7	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 634
@@ -12893,7 +12893,7 @@
 4	și	și	ADV	Rg	_	_	_	_	_
 5	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 6	mine	eu	PRON	Pp1-sa--------s	Case=Acc|Number=Sing|Person=1|PronType=Prs|Strength=Strong	_	_	_	SpaceAfter=No
-7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+7	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 636
@@ -12902,7 +12902,7 @@
 2	și	și	ADV	Rg	_	_	_	_	_
 3	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 4	tine	tu	PRON	Pp2-sa--------s	Case=Acc|Number=Sing|Person=2|PronType=Prs|Strength=Strong	_	_	_	SpaceAfter=No
-5	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\r\n\r\n
+5	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 637
@@ -12987,7 +12987,7 @@
 10	pe	pe	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 11	cal	cal	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 12	rănit	răni	VERB	Vmp--sm-p	Gender=Masc|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-13	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\r\n\r\n
+13	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 639
@@ -13050,7 +13050,7 @@
 36	vindece	vindeca	VERB	Vmsp3	Mood=Sub|Person=3|Tense=Pres|VerbForm=Fin	_	_	_	_
 37	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 38	grabă	grabă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-39	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+39	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 641
@@ -13081,7 +13081,7 @@
 # text = întrebă Vasile.
 1	întrebă	întreba	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 2	Vasile	Vasile	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-3	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+3	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 643
@@ -13089,7 +13089,7 @@
 1	Ea	el	PRON	Pp3fsr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	_	_	_	_
 2	întinse	întinde	VERB	Vmis3s	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	_	_	_	_
 3	mâna	mână	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-4	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+4	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 644
@@ -13148,7 +13148,7 @@
 20	iarăși	iarăși	ADV	Rg	_	_	_	_	_
 21	în	în	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 22	pace	pace	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-23	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+23	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 648
@@ -13229,7 +13229,7 @@
 27	aci	aici	ADV	Rg	_	_	_	_	_
 28	moșiile	moșie	NOUN	Ncfpry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Plur	_	_	_	_
 29	noastre	nostru	DET	Ds1fp-p	Gender=Fem|Number=Plur|Number[psor]=Plur|Person=1|PronType=Prs	_	_	_	SpaceAfter=No
-30	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+30	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 651
@@ -13282,7 +13282,7 @@
 31	nevasta	nevastă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 32	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 33	Vasile	Vasile	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-34	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+34	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 653
@@ -13304,7 +13304,7 @@
 15	a	avea	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
 16	putut	putea	AUX	Vap	VerbForm=Part	_	_	_	_
 17	vorbi	vorbi	VERB	Vmn	VerbForm=Inf	_	_	_	SpaceAfter=No
-18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+18	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 654
@@ -13333,7 +13333,7 @@
 22	coliba	colibă	NOUN	Ncfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	_
 23	lui	-ul	DET	Tf-so	Case=Dat,Gen|Definite=Def|Number=Sing|PronType=Art	_	_	_	_
 24	Vasile	Vasile	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-25	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+25	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 655
@@ -13373,7 +13373,7 @@
 33	peste	peste	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 34	țăranii	țăran	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	_	_	_	_
 35	răsvrătiți	răsvrăti	VERB	Vmp--pm-p	Gender=Masc|Number=Plur|Polarity=Pos|VerbForm=Part	_	_	_	SpaceAfter=No
-36	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+36	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 656
@@ -13394,7 +13394,7 @@
 14	pentru	pentru	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
 15	toți	tot	DET	Di3mpr	Case=Acc,Nom|Gender=Masc|Number=Plur|Person=3|PronType=Ind	_	_	_	_
 16	țăranii	țăran	NOUN	Ncmpry	Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Plur	_	_	_	SpaceAfter=No
-17	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\r\n\r\n
+17	?	?	PUNCT	QUEST	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 657
@@ -13443,7 +13443,7 @@
 17	Vasile	Vasile	PROPN	Npmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	_
 18	cu	cu	ADP	Spsa	AdpType=Prep|Case=Acc	_	_	_	_
 19	Maria	Maria	PROPN	Npfsry	Case=Acc,Nom|Definite=Def|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-20	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+20	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 659
@@ -13490,7 +13490,7 @@
 40	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	_	_	_	_
 41	purtare	purtare	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
 42	rea	rău	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
-43	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+43	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 660
@@ -13534,10 +13534,23 @@
 37	făcuse	fi	VERB	Vmil3s	Mood=Ind|Number=Sing|Person=3|Tense=Pqp|VerbForm=Fin	_	_	_	_
 38	mult	mult	DET	Di3msr	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|PronType=Ind	_	_	_	_
 39	bine	bine	NOUN	Ncmsrn	Case=Acc,Nom|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpaceAfter=No
-40	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\r\n\r\n
+40	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
 # newpar
 # sent_id = 661
 # text = FINE
-1	FINE	fine	NOUN	Ncfprn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\r\n\r\n
+1	FINE	fine	NOUN	Ncfprn	Case=Voc|Definite=Ind|Gender=Masc|Number=Sing	_	_	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 662
+# text = Această nuvelă este întocmită după o narațiune germană.
+1	Această	acesta	DET	Dd3fsr---e	Case=Acc,Nom|Gender=Fem|Number=Sing|Person=3|Position=Prenom|PronType=Dem	_	_	_	_
+2	nuvelă	nuvelă	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
+3	este	fi	AUX	Vaip3s	Mood=Ind|Number=Sing|Person=3|Tense=Pres	_	_	_	_
+4	întocmită	întocmi	VERB	Vmp--sf-p--r	Case=Acc,Nom|Gender=Fem|Number=Sing|Polarity=Pos|VerbForm=Part	_	_	_	_
+5	după	după	ADP	Spca	AdpType=Prep|Case=Acc|Compound=Yes	_	_	_	_
+6	o	un	DET	Tifsr	Case=Acc,Nom|Gender=Fem|Number=Sing|PronType=Ind	_	_	_	_
+7	narațiune	narațiune	NOUN	Ncfsrn	Case=Acc,Nom|Definite=Ind|Gender=Fem|Number=Sing	_	_	_	_
+8	germană	german	ADJ	Afpfsrn	Case=Acc,Nom|Definite=Ind|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	SpaceAfter=No
+9	.	.	PUNCT	PERIOD	_	_	_	_	SpacesAfter=\n\n
 
