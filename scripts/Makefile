@@ -1,4 +1,4 @@
-R = ROM095
+R = ROM045
 test-fixquote:
 	$s -xsl:fix_quote.xsl level1-fixed/$R.xml > tmp/$R.xml
 	-diff -w level1-fixed/$R.xml test/$R.xml
@@ -45,10 +45,10 @@ tags:
 	cut -f1 stats/tags.tmp | sort | uniq > stats/tags.lst
 	rm -f stats/tags.tmp
 
-#Fix quotes with plain text but on paragraph-level, so that they contain a <p>
-fixquote:
+#Fix stuff in level1-fixed
+fix:
 	ls -d level1-fixed/ROM*.xml | $P --jobs 5 \
-	'$s -xsl:fix_quote.xsl {} > tmp/{/}'
+	'$s -xsl:fix_level1.xsl {} > tmp/{/}'
 	${j1} tmp/*.xml
 
 # level1-fixed/* have been hand-edited, so we can't automatically make them anymore

@@ -29,7 +29,7 @@ $in_dir = shift;
 $out_dir = shift;
 
 #Top-level element that contains text
-$root_element = 'body';
+$root_element = 'text';
 
 #Elements taken to contain text
 #@text_elements = ('head', 'p', 'l', 'quote', 'note', 'trailer');

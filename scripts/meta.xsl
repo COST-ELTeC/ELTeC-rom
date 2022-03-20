@@ -17,6 +17,7 @@
     <change when="{$today-iso}">Tomaž Erjavec: Annotation with UD-Pipe.</change>
   </xsl:param>
 
+  <xsl:template match="tei:publicationStmt/tei:ref[@type='doi']"/>
   <xsl:template match="tei:publicationStmt/tei:date">
     <xsl:copy>
       <xsl:attribute name="when" select="$today-iso"/>
@@ -53,13 +54,7 @@
     </xsl:copy>
   </xsl:template>
   <xsl:template match="tei:encodingDesc/tei:p">
-    <xsl:copy>
-      <xsl:apply-templates/>
-      <xsl:text> Tokenisation, sentence segmentation, morphosyntactic tagging and lemmatisation
-      performed with </xsl:text>
-      <ref target="https://lindat.mff.cuni.cz/services/udpipe/">UDPipe</ref>
-      <xsl:text> using the romanian-nonstandard-ud-2.6-200830 model.</xsl:text>
-    </xsl:copy>
+      <p>Encoding to ELTeC level 2. Tokenisation, sentence segmentation, morphosyntactic tagging and lemmatisation performed with <ref target="https://lindat.mff.cuni.cz/services/udpipe/">UDPipe</ref> using the romanian-nonstandard-ud-2.6-200830 model. The source was a somewhat modified version of the level 1 files.</p>
   </xsl:template>
   
   <xsl:template match="tei:teiHeader">

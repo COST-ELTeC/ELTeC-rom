@@ -10,7 +10,7 @@
   <xsl:output method="text"/>
   <xsl:template match="text()"/>
   <xsl:template match="/">
-    <xsl:apply-templates select="tei:TEI/tei:text/tei:body"/>
+    <xsl:apply-templates select="tei:TEI/tei:text"/>
   </xsl:template>
   <!-- Removed tei:quote -->
   <xsl:template match="tei:head | tei:label | tei:p | tei:l | tei:note | tei:trailer">
