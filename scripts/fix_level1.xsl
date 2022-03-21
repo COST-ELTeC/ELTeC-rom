@@ -1,9 +1,15 @@
-<!-- Fix some small errors in ELTeC-rom level1:
+<!-- Fix errors in ELTeC-rom level1 (note that some of these changes have already been done):
      - U+00A0 NO-BREAK SPACE to ordinary space (done in previous run)
      - remove leading and trailing blanks (done in previous run)
-     # fix gap attributes
      - replace '-1' with '-l'
      - replace ’ with ' when used for contractions with '-'
+
+     - remove empty <p> and <l>
+     - fix <quote> elements that now appear in many contexts:
+     when <quote> contains text content directly, 
+     but its siblings are not text nodes
+     then out <p> inside quote
+
 -->
 <xsl:stylesheet version="2.0"
 		xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
@@ -15,11 +21,13 @@
 		exclude-result-prefixes="xs h tei eltec">
 
   <xsl:output indent="yes"/>
-  <!--xsl:param name="change">Fixed gap attributes, replaced '-1' with '-l' and [’'] when used for contractions w</xsl:param-->
-  <xsl:param name="change">Fixed lower case ț and ș in upper-case contexts</xsl:param>
+  <xsl:param name="change">Fixed encoding errors</xsl:param>
   
   <xsl:variable name="Today" select="substring-before(current-date() cast as xs:string, '+')"/>
 
+  <!-- Remove DOI, as this is no longer the version deposited -->
+  <xsl:template match="tei:publicationStmt/tei:ref[@type='doi']"/>
+  
   <xsl:template match="tei:publicationStmt/tei:date">
     <xsl:copy>
       <xsl:attribute name="when" select="$Today"/>
@@ -45,23 +53,27 @@
     <xsl:text>&#10;</xsl:text>
   </xsl:template>
 
-  <xsl:template match="text()">
-    <!--xsl:value-of select="replace(
-			  replace(., 
-			  &quot;(\p{L})[’'](\p{L})&quot;, 
-			  &quot;$1-$2&quot;),
-			  '-1', '-l')"/-->
-    <xsl:value-of select="replace(
-			  replace(
-			  replace(
-			  replace(., 
-			  'ș(\p{Lu}+)', 'Ș$1'),
-			  'ț(\p{Lu}+)', 'Ț$1'),
-			  '(\p{Lu}{2,})ș', '$1Ș'),
-			  '(\p{Lu}{2,})ț', '$1Ț')
-			  "/>
+  <xsl:template match="tei:p[not(normalize-space(.))]"/>
+  <xsl:template match="tei:l[not(normalize-space(.))]"/>
+  
+  <xsl:template match="tei:quote">
+    <xsl:copy>
+      <xsl:copy-of select="@*"/>
+      <xsl:choose>
+	<xsl:when test="parent::tei:p or parent::tei:l or
+			tei:p or tei:l">
+	  <xsl:apply-templates/>
+	</xsl:when>
+	<xsl:otherwise>
+	  <p>
+	    <xsl:apply-templates/>
+	  </p>
+	</xsl:otherwise>
+      </xsl:choose>
+    </xsl:copy>
   </xsl:template>
-
+    
+  <!-- Fixed this already -->
   <!--xsl:template match="tei:gap">
     <xsl:variable name="reason">
       <xsl:choose>
@@ -117,9 +129,26 @@
       ->
     </xsl:copy>
   </xsl:template-->
-  
-  <!-- Did this in 
-       https://github.com/COST-ELTeC/ELTeC-rom/commit/c06108f7f21e1fa50423eb4ac8cfee752c50ce99
+
+  <!-- Fixed this already -->
+  <!--xsl:template match="text()">
+    <xsl:variable name="str" select="replace(
+				     replace(., 
+				     &quot;(\p{L})[’'](\p{L})&quot;, 
+				     &quot;$1-$2&quot;),
+				     '-1', '-l')"/>
+    <xsl:value-of select="replace(
+			  replace(
+			  replace(
+			  replace($str, 
+			  'ș(\p{Lu}+)', 'Ș$1'),
+			  'ț(\p{Lu}+)', 'Ț$1'),
+			  '(\p{Lu}{2,})ș', '$1Ș'),
+			  '(\p{Lu}{2,})ț', '$1Ț')
+			  "/>
+  </xsl:template-->
+
+  <!-- Fix spacing -->
   <xsl:template match="text()">
     <xsl:variable name="text" select="replace(., '&#xA0;', ' ')"/>
     <xsl:choose>
@@ -153,7 +182,7 @@
 	<xsl:value-of select="$text"/> 
       </xsl:otherwise>
     </xsl:choose>
-  </xsl:template-->
+  </xsl:template>
   
   <!-- Copy everything else -->
   <xsl:template match="* | @* | comment()">

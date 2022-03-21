@@ -92,15 +92,6 @@
     </xsl:copy>
   </xsl:template>
   
-  <xsl:template match="xi:include">
-    <xsl:copy>
-      <xsl:attribute name="href"
-		     select="replace(
-			     replace(@href, '\.xml', '-ana.xml'),
-			     'speech/', '')"/>
-    </xsl:copy>
-  </xsl:template>
-
   <xsl:template match="text()">
     <xsl:value-of select="replace(., '\s+', ' ')"/>
   </xsl:template>

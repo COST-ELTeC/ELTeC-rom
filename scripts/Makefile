@@ -1,7 +1,7 @@
-R = ROM045
-test-fixquote:
-	$s -xsl:fix_quote.xsl level1-fixed/$R.xml > tmp/$R.xml
-	-diff -w level1-fixed/$R.xml test/$R.xml
+R = ROM002
+test-fixl1:
+	$s -xsl:fix_level1.xsl ../level1/$R.xml > test/$R.xml
+	-diff -w ../level1/$R.xml test/$R.xml
 	${j1} test/$R.xml
 one:
 	$s -xsl:eltec2text.xsl level1-fixed/$R.xml > text/$R.txt
@@ -45,9 +45,9 @@ tags:
 	cut -f1 stats/tags.tmp | sort | uniq > stats/tags.lst
 	rm -f stats/tags.tmp
 
-#Fix stuff in level1-fixed
+#Fix stuff in level1
 fix:
-	ls -d level1-fixed/ROM*.xml | $P --jobs 5 \
+	ls -d ../level1/ROM*.xml | $P --jobs 5 \
 	'$s -xsl:fix_level1.xsl {} > tmp/{/}'
 	${j1} tmp/*.xml
 
