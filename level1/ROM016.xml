@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:e="http://distantreading.net/eltec/ns"
      xml:id="ROM016"
@@ -90,7 +89,7 @@
          </div>
       </front>
       <body>
-         <div type="group" n="1">
+         <div type="chapter" n="1">
             <head>PARTEA I</head>
             <quote type="letter" n="1">
                <p>Iubite B,</p>
@@ -1082,7 +1081,8 @@
                   </p>
                </quote>
             </quote>
-            <div type="group" n="2">
+         </div>
+            <div type="chapter" n="2">
                <head>PARTEA II</head>
                <quote n="1" type="letter">
                   <p>20 decemvrie</p>
@@ -1933,6 +1933,7 @@
                   <p>— Mărioară! nu te voi întreba de ai ucis pe omul acela: D-zeu te va judeca... dar ce-ţi făcuse Manoil, dar ai voit să-l pierzi?</p>
                   <p>— Ce-mi făcuse? el este pricina de sufăr eu astăzi... pricina tuturor necazurilor mele... Manoil m-a iubit; eu nu-l iubeam... mai tîrziu îl iubeam; dar el mă despreţui cu cruzime!... apoi plecă în streinătate... Mă măritai cu un bărbat bătrîn, crezînd să-l fac să călătorească, numai să văd pe Manoil... din căsătoria asta, purceseră toate rălele mele... Ce vrei să ştii? îl iubeam încă după doi ani; sau mai bine, îl iubeam, ca să-mi răzbun asupra lui!... iată ce te-am chemat să-ţi spun, îţi repet: Manoil este nevinovat... încă cîteva minute şi mor... fii fericită, Zoe!...</p>
                   <p>Mărioara muri, mărturisind crimenul ei. Astfel se închise dosarul acestei pricini la Divan.</p>
+               </quote>
                   <quote n="21" type="letter">
                      <p>10 iulie</p>
                      <p>
@@ -1943,9 +1944,7 @@
                      <p>Postscriptum</p>
                      <p>Domnul Alexandru a murit. S-a găsit ucis, în pădure, aflîndu-se la vînat. Se vorbeşte că tatăl Tudorei şi-a răzbunat.</p>
                   </quote>
-               </quote>
             </div>
-         </div>
       </body>
       <back>
          <div type="notes">

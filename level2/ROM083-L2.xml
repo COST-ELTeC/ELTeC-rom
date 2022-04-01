@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="eltec-2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ROM083" xml:lang="ro">
    <teiHeader>
       <fileDesc>
@@ -34,11 +35,10 @@
             <bibl type="digitalSource">
                <author>Sarina Cassvan</author>
                <title>Între artă și iubire. Roman</title>
-               <note>Ediția a II-a</note>
+               <title>Ediția a II-a</title>
                <pubPlace>București</pubPlace>
                <publisher>Editura Librăriei Socec and Co.</publisher>
                <date>1921</date>
-               <note>This is the source of the text</note>
                <ref target="http://doi.org/10.5281/zenodo.4589217">Facsimile on zenodo</ref>
             </bibl>
             <bibl type="firstEdition">
@@ -330,7 +330,7 @@
          </div>
       </front>
       <body>
-         <div xml:id="ROM083.div5" type="group">
+         <div xml:id="ROM083.div5" type="chapter">
             <p>
                <s>
 <w join="right" pos="NOUN" msd="Case=Acc,Nom|Definite=Def|Gender=Masc|Number=Sing|XPOS=Ncmsry" lemma="cucc">Cuccuu</w>

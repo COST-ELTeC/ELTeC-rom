@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ROM083" xml:lang="ro">
    <teiHeader>
       <fileDesc>
@@ -38,11 +37,10 @@
             <bibl type="digitalSource">
                <author>Sarina Cassvan</author>
                <title>Între artă și iubire. Roman</title>
-               <note>Ediţia a II-a</note>
+               <title>Ediţia a II-a</title>
                <pubPlace>Bucureşti</pubPlace>
                <publisher>Editura Librăriei Socec and Co.</publisher>
                <date>1921</date>
-               <note>This is the source of the text</note>
                <ref target="http://doi.org/10.5281/zenodo.4589217">Facsimile on zenodo</ref>
             </bibl>
             <bibl type="firstEdition">
@@ -138,7 +136,7 @@
          </div>
       </front>
       <body>
-         <div type="group">
+         <div type="chapter">
             <p>Cuccuu...cuccu...se auzi în tăcerea parcului. Tânăra artistă ce sta în fața șevaletului cu ochii pironiți la un punct în depărtare, tresări ațintindu-și urechea, apoi iar cată să cuprindă cu ochiul un colț de pădure pentru a-l așterne pe pânză.</p>
             <p>Cu-cu!...se auzi de astă dată mai aproape. Copila puse paleta pe un trunchi de copac, își șterse mâinele cu batista și se uită mirată împrejur... Nimeni. Aruncă o privire asupra ceasului ce-l purtà pe mână, ascunse penelul în cutie și se găti de plecare.</p>
             <p>Abia făcuse câțiva pași când auzi din nou, aproape de urechea ei, repetându-se ca o șoaptă: cu-cu...</p>

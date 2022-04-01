@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ROM070" xml:lang="ro">
    <teiHeader>
       <fileDesc>
@@ -80,7 +79,7 @@
          <pb/>
       </front>
       <body>
-         <div type="group" n="1">
+         <div type="chapter" n="1">
             <head>BĂIATUL MAMII</head>
             <p>In sfârșit, fie ce o fi, sunt hotărât acum mai mult ca oricând. O iau și pace. Va fi a mea, căci o iubesc și tu, dragă Radule, mi-ai spus că, timp de un an, cât ai fost chiriașul Ruxandrei, mi-ai mărturisit, că n-ai simțit-o ou nimic, așa-i, dragă prietene?</p>
             <p>— Da, trăia ca o sfântă, era veșnic ocu-pată cu ale casei, serioasă și indiferentă la orice șoaptă de iubire.</p>
@@ -748,7 +747,7 @@
             </quote>
             <gap n="[editorial]" unit="graphic"/>
          </div>
-         <div type="group" n="2">
+         <div type="chapter" n="2">
             <head>PARTEA II</head>
             <p>Mărgărita rămăsese singura consolare a Ruxandrei; de ea însă nu se putea ocupa cum ar fi dorit, că ziua toată îi era luată cu casă și cu ziarul la care căuta să lucreze cât mai mult. Dorul și suferințele toate, le simțeau șurtae, cu încetul, în jurul ei, își creiă simpatii literare și artistice, își asigură, binișor existența, căci dela Petre nu moș-tenise nimic alt decât p groază de viață.</p>
             <p>Cât de mare îi arăta ei dragostea până s-o ia în căsătorie, atât de mult o chinuise, după ce o luase şi toate erau din cauza Măr-găritei.</p>
@@ -1467,7 +1466,7 @@
             <p>Uimită Mărgărita urmă pe acest bă-rân care îi inspiră tot atâta simpatie câtă încredere.</p>
             <gap n="[editorial]" unit="graphic"/>
          </div>
-         <div type="group" n="3">
+         <div type="chapter" n="3">
             <head>PARTEA III.</head>
             <p>Când trecem printr-o pădure, cu trăsura sau cu automobilul, nu mai ne putem sătura pirivnid la grosimea trunchiurilor, la înălți-mea copacilor, la desimea ramurilor și a frunzelor. Nici cugetăm atuncea la scorburi și putregaiuri, la vestejirea și uscăciunea lor.</p>
             <p>Când ne aflăm într-o sală de spectacol, la un bal, la o serată, admirăm figurile, ți-nuta, costumele și un minut nu ne trece prin minte ce schilodiri, nici ce șubrezenii, ce boale, ce patimi, ascund mătăsurile și catifelele scumpe, postavurile și moarurile alese.</p>

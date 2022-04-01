@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:e="http://distantreading.net/eltec/ns"
      xml:id="ROM027"
@@ -86,6 +85,7 @@
          </div>
       </front>
       <body>
+         <div type="chapter">
          <head>FONTANA ZINELOR</head>
          <p>In partea Basarabieǐ care a fost retrocedată Ru-sieǐ in urma rĕsboiuluǐ turco rus de la l877-l878, se află uă comună purtând poetica numire de <title>Fontâna ȡînelor</title>.</p>
          <p>De unde acéstă numire?</p>
@@ -1411,7 +1411,8 @@
          <p>Petrișan trecu apoǐ cu cei patru amicǐ aǐ luǐ în-tr-uă altă sală unde-ǐ aștepta un prânz minunat și vinurile cele maǐ alese pe uă masă întinsă.</p>
          <p>Câte patru fiind flămânȡǐ de óre ce nu mâa-caseră din ajun, se puseră la masă cu cea maǐ mare fóme și statură pênĕ aprópe de ȡiuă.</p>
          <p>— Ast-fel scie Bogdan să facă dreptate, ȡi-cea Petrișan la masă.</p>
-         <p>—S-aibă țéra parte tot de asemenǐ Domnitorǐ, rĕspunse Volbur, și toțǐ închinară în sănătatea luǐ Dragoș Bogdan.</p>
+         <p>—S-aibă țéra parte tot de asemenǐ Domnitorǐ, rĕspunse Volbur, și toțǐ închinară în sănătatea luǐ Dragoș Bogdan.</p> 
+         </div>
          <trailer>Fine</trailer>
       </body>
    </text>

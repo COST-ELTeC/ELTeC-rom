@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="ROM040" xml:lang="ro">
    <teiHeader>
       <fileDesc>
@@ -90,7 +89,7 @@
          <pb/>
       </front>
       <body>
-         <div type="group" n="1">
+         <div type="chapter" n="1">
             <head>FATA TATII</head>
             <head>Roman de moravuri</head>
             <p>La <hi>Aquila României</hi>, o cârciumioară mică și mur-dară, era locul de întâlnire al mai multor meseriași români pe cari Hristache Arghiriadis, grec sgârcit și in-teresat, îi jumulea zilnic și cum putea mai bine. In acest <hi>Birt-iconomic</hi>, dimineața se auzea: Panaite, dă-mi un rom să mă fac om, o țuică, un basamac, voinic să mă fac. La prânz zăngăneau linguri, cuțite și furcu-lițe; iar printre ele, glasuri răgușite de muncitori: dă-mi o ciorbă de schimbea, caldă, rece cum vei vrea, ori să-mi dai de vrei tocană că ne-am strâns ca la po-mană; dar vezi, măi Panaite, să fie carnea grasă și fiartă, să nu-mi dai toval măi, că nu ți-o plătesc; după ce-i chesat al dracului nu vreau s-arunc banii pe gârlă să îmbogățesc pe cațaonul de stăpână tău, auzi?</p>
@@ -1001,7 +1000,7 @@
             <p>— Ce dce? Nunta e o taină sfântă, cu nenorocire, zise el, turnând vin, bând și iar închinând.</p>
             <milestone unit="line"/>
          </div>
-         <div type="group" n="2">
+         <div type="chapter" n="2">
             <head>PARTEA II-a</head>
             <p>Ghemuit în vârful patului stâ lângă o masă ro-tundă Arghiriadis și număra la hârtii, când intră în-năuntru Veta și anunță pe Barbu Coviltirescu. Gre-cul, strânse iute banii, îi băgă-n buzunar, apoi, lepă-dând halatul, își aruncă pe umeri o haină, își puse papucii și ducându-se către Coviltirescu, îl luă de mână, îl pofti și plin de amar ii zise:</p>
             <p>— Credeam că nu mai vii, c-acum doar în d-ta mai îmi este toată nădejdea.</p>
@@ -1397,7 +1396,7 @@
             <milestone unit="line"/>
             <gap n="[editorial]" unit="graphic"/>
          </div>
-         <div type="group" n="3">
+         <div type="chapter" n="3">
             <head>PARTEA III-a.</head>
             <p>Din toate câte scrisese Angela tatălui său, nimic nu era adevărat. Metodul da-i stoarce bani, fusese gă-sit de dănsa, care, încă din primul an al căsătorii, era o lucsoasă s-o destrăbălată.</p>
             <p>Spulberescu, fire delicată și aleasă, sperase c-o va mo-dera, luănd-o cu binele, apoi văzând că din ea nu poate scoate nimic bun, se hotărâse a suferi martirul acesta numai spre a rămâne lângă cei doi copilași pe cari î-i dăruise D-zeu, spre nenorocirea lui. De dânșii se ocupa numai el, căci nevastă-sa era mosafir a casă; dintr-o parte venea, într-alta pleca și tot ea avea cu-tezanța să-i facă imputări, ba încă și scene de gelozie. Cheltuia nebunește pentru lux și petru petreceri și vecinie o vedeai ieșind încărduită cu fel de fel de lume ușuratecă. Invitații mereu la mese, la se-rate, fără știrea lui Spulberescu. Sporturi, excursii cu tot ce era mai sărit și mai descrerat. Acasă venea la ziuă și dacă-i zicea o vorbă, pleca trântind ușile și făcând și mai rău.</p>
