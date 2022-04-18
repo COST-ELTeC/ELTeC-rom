@@ -34,12 +34,12 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="printSource">
+            <bibl type="digitalSource">
                <author>Bogdan Petriceicu Hasdeu</author>
                <title>Ursita</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>Digital Humanities Laboratory (UAIC)</publisher>
-               <date/>
+               <date>1864</date>
                <ref target="https://ro.wichisource.org/wichi/Ursita"/>
             </bibl>
          </sourceDesc>

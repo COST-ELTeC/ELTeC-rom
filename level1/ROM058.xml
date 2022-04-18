@@ -38,7 +38,7 @@
             <ref type="doi" target="https://doi.org/10.5281/zenodo.4662599">ELTeC-rom release 0.9.0</ref>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="printSource">
+            <bibl type="firstEdition">
                <author>A. Alexandrescu</author>
                <title>Misterul din Turnul Eiffel sau resbunarea unei principese ruse</title>
                <pubPlace>Bucharest</pubPlace>
@@ -46,12 +46,7 @@
                <date>1889</date>
                <ref target=" http://doi.org/10.5281/zenodo.3736361">Facsimile on zenodo</ref>
             </bibl>
-            <bibl type="firstEdition">
-               <author>A. Alexandrescu</author>
-               <title>Misterul din Turnul Eiffel sau resbunarea unei principese ruse</title>
-               <pubPlace/>
-               <date/>
-            </bibl>
+            
          </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">

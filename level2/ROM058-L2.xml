@@ -34,7 +34,7 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="printSource">
+            <bibl type="firstEdition">
                <author>A. Alexandrescu</author>
                <title>Misterul din Turnul Eiffel sau resbunarea unei principese ruse</title>
                <pubPlace>Bucharest</pubPlace>
@@ -42,12 +42,7 @@
                <date>1889</date>
                <ref target=" http://doi.org/10.5281/zenodo.3736361">Facsimile on zenodo</ref>
             </bibl>
-            <bibl type="firstEdition">
-               <author>A. Alexandrescu</author>
-               <title>Misterul din Turnul Eiffel sau resbunarea unei principese ruse</title>
-               <pubPlace/>
-               <date/>
-            </bibl>
+            
          </sourceDesc>
       </fileDesc>
       <encodingDesc xml:lang="en" n="eltec-2">

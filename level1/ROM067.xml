@@ -38,12 +38,12 @@
             <ref type="doi" target="https://doi.org/10.5281/zenodo.4662599">ELTeC-rom release 0.9.0</ref>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="printSource">
+            <bibl type="digitalSource">
                <author>Bogdan Petriceicu Hasdeu</author>
                <title>Ursita</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>Digital Humanities Laboratory (UAIC)</publisher>
-               <date/>
+               <date>1864</date>
                <ref target="https://ro.wikisource.org/wiki/Ursita"/>
             </bibl>
          </sourceDesc>

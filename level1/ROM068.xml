@@ -38,12 +38,12 @@
             <ref type="doi" target="https://doi.org/10.5281/zenodo.4662599">ELTeC-rom release 0.9.0</ref>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="printSource">
+            <bibl type="firstEdition">
                <author>N. RĂDULESCU-NIGER</author>
                <title>Orfanii neamului. Roman Naționalist</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>Digital Humanities Laboratory (UAIC)</publisher>
-               <date/>
+               <date>1913</date>
                <ref target="http://doi.org/10.5281/zenodo.4064071">Facsimile on zenodo</ref>
             </bibl>
          </sourceDesc>
