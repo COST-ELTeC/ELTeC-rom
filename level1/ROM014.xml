@@ -11,7 +11,7 @@
       <fileDesc>
          <titleStmt>
             <title>Catastihul amorului: ediție ELTeC</title>
-            <author>Ionescu, Radu (1834-l872)</author>
+            <author>Anonymous</author>
             <respStmt>
                <resp>Codare ELTeC</resp>
                <name>Roxana Patras</name>
@@ -35,12 +35,18 @@
          </publicationStmt>
          <sourceDesc>
             <bibl type="printSource">
-               <author>Radu Ionescu</author>
+               <author>Anonymous</author>
                <title>Catastihul amorului și la Gura sobei</title>
                <pubPlace>Cluj-Napoca</pubPlace>
                <publisher>Editura Dacia</publisher>
-               <date>1986 (1865)</date>
+               <date>1986</date>
                <ref target="http://doi.org/10.5281/zenodo.3229284">Facsimile on zenodo</ref>
+            </bibl>
+            <bibl type="firstEdition">
+               <author>Anonymous</author>
+               <title>Catastihul amorului și la Gura sobei</title>
+                              <date>1865</date>
+               
             </bibl>
          </sourceDesc>
       </fileDesc>

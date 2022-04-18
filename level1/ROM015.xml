@@ -39,9 +39,14 @@
                <title>Don Juanii din București</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>Editura Minerva</publisher>
-               <date>1861</date>
+               <date>1986</date>
                <ref target="http://doi.org/10.5281/zenodo.3383002">Facsimile on zenodo</ref>
             </bibl>
+            <bibl type="firstEdition">
+               <author>Radu Ionescu</author>
+               <title>Don Juanii din București</title>
+                              <date>1861</date>
+                           </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc n="eltec-1">
