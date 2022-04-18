@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="eltec-2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:e="http://distantreading.net/eltec/ns"
      xml:id="ROM026"
@@ -34,12 +35,12 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="printSource">
+            <bibl type="firstEdition">
                <author>Panait P. Macri</author>
                <title>Bostan. Haiduc de peste Milcov</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>Tipografia „Providența”</publisher>
-               <date>1899 (1899)</date>
+               <date>1899</date>
                <ref target="http://doi.org/10.5281/zenodo.2642482">Facsimile on zenodo</ref>
             </bibl>
          </sourceDesc>

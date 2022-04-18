@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="eltec-2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:e="http://distantreading.net/eltec/ns"
      xml:id="ROM008"
@@ -30,12 +31,12 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="printSource">
+            <bibl type="firstEdition">
                <author>N.D. Popescu</author>
                <title>Boierii haiduci. Nuvela originală compusă de N.D. Popescu cu patru ilustrațiuni</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>Depositul la librarul anticar H. Steinberg</publisher>
-               <date>1892 (1882)</date>
+               <date>1892</date>
                <ref target="http://doi.org/10.5281/zenodo.2648505">Facsimile on zenodo</ref>
             </bibl>
          </sourceDesc>

@@ -39,8 +39,13 @@
                <title>Doritorii nebuni</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>Editura Minerva</publisher>
-               <date>1984 (1864)</date>
+               <date>1984</date>
                <ref target="http://doi.org/10.5281/zenodo.3228827">Facsimile on zenodo</ref>
+            </bibl>
+            <bibl type="firstEdition">
+               <author>Dimitrie Bolintineanu</author>
+               <title>Doritorii nebuni</title>
+               <date>1864</date>
             </bibl>
          </sourceDesc>
       </fileDesc>

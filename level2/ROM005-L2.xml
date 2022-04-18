@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="eltec-2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:e="http://distantreading.net/eltec/ns"
      xml:id="ROM005"
@@ -35,8 +36,15 @@
                <title>Ghiță Cătănuță, căpitan de haiduci</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>Editura Librăriei și Tipografiei H. STEINBERG</publisher>
-               <date>1923 (1883)</date>
+               <date>n.d.</date>
                <ref target="http://doi.org/10.5281/zenodo.2648455">Facsimile on zenodo</ref>
+            </bibl>
+            <bibl type="firstEdition">
+               <author>Panait Macri</author>
+               <title>Ghiță Cătănuță, căpitan de haiduci</title>
+               <pubPlace>Bucharest</pubPlace>
+               <publisher>Editura Tipo Litografiei Dor. P. Cucu</publisher>
+               <date>1883</date>
             </bibl>
          </sourceDesc>
       </fileDesc>

@@ -48,23 +48,11 @@
                <pubPlace>Bucharest</pubPlace>
                <publisher>Tip. Stephan Rassidescu</publisher>
                <date>1861</date>
+               <!--   <date> The 1861, 1863 and 1866 volumes were bound into one part</date>
+ -->
                <ref target="http://doi.org/10.5281/zenodo.3228821">Facsimile on zenodo</ref>
-            </bibl>
-            <bibl type="firstEdition">
-               <author>Constantin D. Aricescu</author>
-               <title>Mysterele Căsătoriei. Vol. II. Bărbatul diplomat</title>
-               <pubPlace>Bucharest</pubPlace>
-               <publisher>Tip. Stephan Rassidescu</publisher>
-               <date>1863</date>
                <ref target="http://doi.org/10.5281/zenodo.3228823">Facsimile on zenodo</ref>
-            </bibl>
-            <bibl type="firstEdition">
-               <author>Constantin D. Aricescu</author>
-               <title>Mysterele Căsătoriei. Vol. III. Bărbatul desilusionatu</title>
-               <pubPlace>Bucharest</pubPlace>
-               <publisher>Tip. Academiei Romane (Laboratorii Romani)</publisher>
-               <date>1886</date>
-               <ref target="http://doi.org/10.5281/zenodo.3228825">Facsimile on zenodo</ref>
+               <ref target="http://doi.org/10.5281/zenodo.3228825">Facsimile on zenodo</ref>         
             </bibl>
          </sourceDesc>
       </fileDesc>

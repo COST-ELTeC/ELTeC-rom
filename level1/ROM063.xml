@@ -46,15 +46,15 @@
                <author>Alexandru Antemireanu</author>
                <title>DIN VREMEA LUI CĂPITAN COSTACHE</title>
                <pubPlace>Bucharest</pubPlace>
-               <date>1898</date>
-            </bibl>
-            <bibl type="printSource">
-               <author>Alexandru Antemireanu</author>
-               <title>DIN VREMEA LUI CĂPITAN COSTACHE</title>
-               <pubPlace>Bucharest</pubPlace>
                <publisher>Editura Ziarului UNIVERSUL</publisher>
                <date>1937</date>
                <ref target="http://doi.org/10.5281/zenodo.3843314">Facsimile on zenodo</ref>
+            </bibl>
+            <bibl type="firstEdition">
+               <author>Alexandru Antemireanu</author>
+               <title>DIN VREMEA LUI CĂPITAN COSTACHE</title>
+               <pubPlace>Bucharest</pubPlace>
+               <date>1898</date>
             </bibl>
          </sourceDesc>
       </fileDesc>

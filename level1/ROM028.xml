@@ -38,13 +38,20 @@
             <ref type="doi" target="https://doi.org/10.5281/zenodo.4662599">ELTeC-rom release 0.9.0</ref>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="firstEdition">
+            <bibl type="printSource">
                <author>Constantin I.A. Nottara</author>
                <title>Suflete obosite</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>Editura Librăriei Leon Alcalay</publisher>
-               <date>(1898)1911</date>
+               <date>1911</date>
                <ref target="http://doi.org/10.5281/zenodo.3545927">Facsimile on zenodo</ref>
+            </bibl>
+            <bibl type="firstEdition">
+               <author>Constantin I.A. Nottara</author>
+               <title>Suflete obosite</title>
+               <pubPlace>Craiova</pubPlace>
+               <publisher>Institutul de Editură Ralian şi Ignat Samitca</publisher>
+               <date>1898</date>
             </bibl>
          </sourceDesc>
       </fileDesc>

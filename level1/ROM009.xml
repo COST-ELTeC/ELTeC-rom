@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:e="http://distantreading.net/eltec/ns"
      xml:id="ROM009"
@@ -37,8 +34,13 @@
             <bibl type="digitalSource">
                <author>Alexandru Macedonski</author>
                <title>Thalassa</title>
-               <date>2013 (1906)</date>
+               <date>2013</date>
                <ref target="http://doi.org/10.5281/zenodo.3407358">Facsimile on zenodo</ref>
+            </bibl>
+            <bibl type="firstEdition">
+               <author>Alexandru Macedonski</author>
+               <title>Thalassa</title>
+               <date>1906</date>
             </bibl>
          </sourceDesc>
       </fileDesc>

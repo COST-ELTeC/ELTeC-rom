@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="eltec-2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:e="http://distantreading.net/eltec/ns"
      xml:id="ROM002"
@@ -37,11 +38,6 @@
                <publisher>Stabilimentul Grafic I.V. Socec</publisher>
                <date>1894</date>
                <ref target="http://doi.org/10.5281/zenodo.2648429">Facsimile on zenodo</ref>
-               <title>Sfârșitul blestemului. Poveste născocită de Simeon Bălănescu</title>
-               <pubPlace>Bucharest</pubPlace>
-               <publisher>Tipografia Gutenberg, Joseph Gobl</publisher>
-               <date>1895</date>
-               <ref target="http://doi.org/10.5281/zenodo.2648431">Facsimile on zenodo</ref>
             </bibl>
          </sourceDesc>
       </fileDesc>

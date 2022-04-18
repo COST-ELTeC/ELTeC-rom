@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="eltec-2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:e="http://distantreading.net/eltec/ns"
      xml:id="ROM022"
@@ -34,13 +35,20 @@
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <bibl type="firstEdition">
+            <bibl type="printSource">
                <author>P. MACRI</author>
                <title>HAIDUCUL TANDURA. SCRIERE ORIGINAL, CU ADAUSE SI MODIFICARI</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>„CULTURA ROMANEASCA”, S. A. R.</publisher>
                <date>1930 (1894)</date>
                <ref target="http://doi.org/10.5281/zenodo.2648485">Facsimile on zenodo</ref>
+            </bibl>
+            <bibl type="firstEdition">
+               <author>P. MACRI</author>
+               <title>HAIDUCUL TANDURA. SCRIERE ORIGINAL, CU ADAUSE SI MODIFICARI</title>
+               <pubPlace>Bucharest</pubPlace>
+               <publisher>Editura Librăriei H. Steinberg</publisher>
+               <date>1894</date>
             </bibl>
          </sourceDesc>
       </fileDesc>

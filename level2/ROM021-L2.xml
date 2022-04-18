@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="eltec-2.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:e="http://distantreading.net/eltec/ns"
      xml:id="ROM021"
@@ -39,7 +40,7 @@
                <title>Păcatul Rabinului. ROMAN</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>EDITURA LITERARA A CASEI SCOALELOR</publisher>
-               <date>1920 (1920)</date>
+               <date>1920</date>
                <ref target="http://doi.org/10.5281/zenodo.3229234">Facsimile on zenodo</ref>
             </bibl>
          </sourceDesc>

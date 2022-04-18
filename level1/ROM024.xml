@@ -40,8 +40,15 @@
                <title>Pandurul. Ediția VIII-a</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>„Cartea Românească”</publisher>
-               <date>1947 (1912)</date>
+               <date>1947</date>
                <ref target="http://doi.org/10.5281/zenodo.3378329">Facsimile on zenodo</ref>
+            </bibl>
+            <bibl type="firstEdition">
+               <author>Bucura Dumbravă</author>
+               <title>Pandurul</title>
+               <pubPlace>Bucharest</pubPlace>
+               <publisher>Editura Librăriei Şcoalelor C. Stefea</publisher>
+               <date>1912</date>
             </bibl>
          </sourceDesc>
       </fileDesc>

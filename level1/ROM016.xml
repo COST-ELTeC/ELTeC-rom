@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="eltec-1.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0"
      xmlns:e="http://distantreading.net/eltec/ns"
@@ -38,8 +36,13 @@
                <title>Manoil</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>Editura Minerva</publisher>
-               <date>1984 (1855)</date>
+               <date>1984</date>
                <ref target="http://doi.org/10.5281/zenodo.3228833">Facsimile on zenodo</ref>
+            </bibl>
+            <bibl type="firstEdition">
+               <author>Dimitrie Bolintineanu</author>
+               <title>Manoil</title>
+               <date>1855</date>
             </bibl>
          </sourceDesc>
       </fileDesc>

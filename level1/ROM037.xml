@@ -42,13 +42,20 @@
             <ref type="doi" target="https://doi.org/10.5281/zenodo.4662599">ELTeC-rom release 0.9.0</ref>
          </publicationStmt>
          <sourceDesc>
+            <bibl type="printSource">
+               <author>N.D. Popescu</author>
+               <title>Radu Anghel, Căpitan de Tâlhari. Nuvelă de N.D. Popescu ilustrată cu 4 gravuri</title>
+               <pubPlace>Bucharest</pubPlace>
+               <publisher>Editura Librăriei H. Steinberg</publisher>
+               <date>1903</date>
+               <ref target="http://doi.org/10.5281/zenodo.3229300">Facsimile on zenodo</ref>
+            </bibl>
             <bibl type="firstEdition">
                <author>N.D. Popescu</author>
                <title>Radu Anghel, Căpitan de Tâlhari. Nuvelă de N.D. Popescu ilustrată cu 4 gravuri</title>
                <pubPlace>Bucharest</pubPlace>
                <publisher>Editura Librăriei H. Steinberg</publisher>
-               <date>1893(1903)</date>
-               <ref target="http://doi.org/10.5281/zenodo.3229300">Facsimile on zenodo</ref>
+               <date>1893</date>
             </bibl>
          </sourceDesc>
       </fileDesc>
