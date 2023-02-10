@@ -1,0 +1,101 @@
+corpus-id	filename	xmlid	author-name	title	author-birth	author-death	author-gender	author-ids	reference-year	first-edition	digital-edition	print-edition	provenance	title-ids	language	numwords	subgenre	narrative-perspective	size-category	reprint-count	time-slot
+ELTeC-rom	ROM096	ROM096	Pelimon, A.	Hotii si Hagiul	1822	NA	M	NA	1853	1853	NA	NA	NA	NA	ro	24946	NA	NA	short	NA	T1
+ELTeC-rom	ROM016	ROM016	Bolintineanu, Dimitrie	Manoil	1819	NA	M	NA	1855	1855	NA	1984	NA	NA	ro	36282	NA	NA	short	high	T1
+ELTeC-rom	ROM034	ROM034	Boerescu, C.	Aldo si Aminta	1836	NA	M	NA	1855	1855	NA	NA	NA	NA	ro	43740	NA	NA	short	low	T1
+ELTeC-rom	ROM046	ROM046	Urechia, V.A.	Logofătul Baptiste Veleli. Episod istoric din secolul al XVIII lea	1834	NA	M	NA	1855	1855	NA	1883	NA	NA	ro	13258	NA	NA	short	low	T1
+ELTeC-rom	ROM043	ROM043	Dumitrescu, Ioan	Radu Buzesku	1830	NA	M	NA	1858	1858	NA	NA	NA	NA	ro	51044	NA	NA	medium	NA	T1
+ELTeC-rom	ROM097	ROM097	Ghica, Pantazi	Un boem român	1831	NA	M	NA	1860	1860	NA	NA	NA	NA	ro	76558	NA	NA	medium	NA	T2
+ELTeC-rom	ROM031	ROM031	Aricescu, C.D.	Mysterele Casatoriei	1823	NA	M	NA	1861	1861	NA	NA	NA	NA	ro	127251	NA	NA	long	low	T2
+ELTeC-rom	ROM015	ROM015	Ionescu, Radu	Don Juanii din București	1834	NA	M	NA	1861	1861	NA	1986	NA	NA	ro	22860	NA	NA	short	high	T2
+ELTeC-rom	ROM017	ROM017	Bolintineanu, Dimitrie	Elena. Roman original de datine politic filosofic	1819	NA	M	NA	1862	1862	NA	1984	NA	NA	ro	65702	NA	NA	medium	high	T2
+ELTeC-rom	ROM095	ROM095	Baronzi, George	Misterele Bucurescilor	1828	NA	M	NA	1862	NA	NA	1862	NA	NA	ro	155626	NA	NA	long	low	T2
+ELTeC-rom	ROM025	ROM025	Bujoreanu, Ioan M.	Mistere din București	1834	NA	M	NA	1862	1862	NA	1984	NA	NA	ro	150879	NA	NA	long	low	T2
+ELTeC-rom	ROM100	ROM100	Pelimon, A.	Jidovul Cămătar	1822	NA	M	NA	1863	1863	NA	NA	NA	NA	ro	77985	NA	NA	medium	NA	T2
+ELTeC-rom	ROM045	ROM045	Filimon, Nicolae	"CIOCOII VECHI ŞI NOI SAU „CE NAŞTE DIN PISICĂ ŞOARECI MĂNÂNCĂ""!. Romanţ original"	1819	1865	M	NA	1863	1863	NA	1942	NA	NA	ro	76340	NA	NA	medium	high	T2
+ELTeC-rom	ROM018	ROM018	Bolintineanu, Dimitrie	Doritorii nebuni	1819	NA	M	NA	1864	1864	NA	1984	NA	NA	ro	60232	NA	NA	medium	low	T2
+ELTeC-rom	ROM067	ROM067	Petriceicu Hasdeu, Bogdan	Ursita	1838	1907	M	NA	1864	NA	1864	NA	Digital Humanities Laboratory (UAIC)	NA	ro	23398	NA	NA	short	low	T1
+ELTeC-rom	ROM013	ROM013	Anonymous	La Gura sobei	NA	NA	M	NA	1865	1865	NA	1986	NA	NA	ro	56507	NA	NA	medium	high	T2
+ELTeC-rom	ROM014	ROM014	Anonymous	Catastihul amorului	NA	NA	M	NA	1865	1865	NA	1986	NA	NA	ro	26030	NA	NA	short	high	T2
+ELTeC-rom	ROM003	ROM003	Eminescu, Mihai	Geniu Pustiu	1850	1889	M	NA	1870	1870	NA	1977	NA	NA	ro	29942	NA	NA	short	high	T2
+ELTeC-rom	ROM098	ROM098	Aricescu,C.D.	Sora Agapia saŭ Călugăria şi Căsătoria	1823	NA	M	NA	1871	1871	NA	NA	NA	NA	ro	51075	NA	NA	medium	NA	T2
+ELTeC-rom	ROM086	ROM086	Miller, Theodor A.	IN JASSY	NA	NA	M	NA	1871	NA	NA	1871	NA	NA	ro	32066	NA	NA	short	low	T2
+ELTeC-rom	ROM011	ROM011	Grandea, Grigore H.	Fulga sau ideal și real	1843	NA	M	NA	1872	NA	NA	1872	NA	NA	ro	29817	NA	NA	short	high	T2
+ELTeC-rom	ROM006	ROM006	Popescu, N.D.	Iancu Jianu, Haiducul	1843	NA	M	NA	1873	1873	NA	1912	NA	NA	ro	117922	NA	NA	long	low	T2
+ELTeC-rom	ROM041	ROM041	NEGRUZZI, IACOB	MIHAI VEREANU	1842	NA	M	NA	1873	1873	NA	1895	NA	NA	ro	86053	NA	NA	medium	low	T2
+ELTeC-rom	ROM044	ROM044	Pelimon, A.	UNU FUNCTIONARU SINUCISU. FRATELE SI SORA	1822	1881	M	NA	1873	1873	NA	NA	NA	NA	ro	50985	NA	NA	medium	low	T2
+ELTeC-rom	ROM089	ROM089	Fundescu, I. C.	Scarlat. Romanu originalu	1836	NA	M	NA	1875	NA	NA	1875	NA	NA	ro	28429	NA	NA	short	low	T2
+ELTeC-rom	ROM099	ROM099	Vulcan,Iosif	Ranele natiunii	1841	NA	M	NA	1876	1876	NA	NA	NA	NA	ro	103993	NA	NA	long	NA	T2
+ELTeC-rom	ROM029	ROM029	Xenopol, Nicolae	BRAZI SI PUTREGAIU. MORAVURI PROVINCIALE	1859	NA	M	NA	1881	1881	NA	1892	NA	NA	ro	51043	NA	NA	medium	low	T3
+ELTeC-rom	ROM049	ROM049	Pop-Florantin, Ioan	Decebal. Nuvelă istorică	1843	NA	M	NA	1882	1882	NA	NA	NA	NA	ro	10408	NA	NA	short	low	T3
+ELTeC-rom	ROM039	ROM039	NA	Codreanu Mare Haiduc National	NA	NA	U	NA	1882	1882	NA	1886	NA	NA	ro	30517	NA	NA	short	low	T3
+ELTeC-rom	ROM080	ROM080	Alexi, Theohar	Babeta. Roman original	1843	NA	M	NA	1883	1883	NA	1888	NA	NA	ro	77873	NA	NA	medium	low	T3
+ELTeC-rom	ROM051	ROM051	Urechia, V. A	COLIBA MĂRIUCĂI. Roman naţional	1834	NA	M	NA	1883	NA	NA	1883	NA	NA	ro	36383	NA	NA	short	low	T3
+ELTeC-rom	ROM005	ROM005	Macri, Panait	Ghiță Cătănuță, căpitan de haiduci	1863	NA	M	NA	1883	1883	NA	n.d.	NA	NA	ro	28565	NA	NA	short	low	T3
+ELTeC-rom	ROM050	ROM050	Pop-Florantin, Ioan	Horea. Roman original (după actele istorice publicate de A. Papiu, A. Odobescu, N. Densușianu, și tradiție)	1843	NA	M	NA	1885	NA	NA	1885	NA	NA	ro	28916	NA	NA	short	low	T3
+ELTeC-rom	ROM012	ROM012	Grandea, Grigore H.	Vlăsia sau ciocoii noi	1843	NA	M	NA	1887	1887	NA	1975	NA	NA	ro	56691	NA	NA	medium	high	T3
+ELTeC-rom	ROM062	ROM062	Mille, Constantin	DINU MILIAN	1861	NA	M	NA	1887	1887	NA	1913	NA	NA	ro	53318	NA	NA	medium	low	T3
+ELTeC-rom	ROM058	ROM058	Alexandrescu, Alexandru I.	Misterul din Turnul Eiffel sau resbunarea unei principese ruse	NA	NA	M	NA	1889	1889	NA	NA	NA	NA	ro	35117	NA	NA	short	high	T2
+ELTeC-rom	ROM032	ROM032	Rădulescu, G.	Banditul Rîureanu sau un înger în infern. Roman dramatic senzațional de G. Rădulescu	1861	NA	M	NA	1890	1890	NA	1893	NA	NA	ro	22563	NA	NA	short	low	T3
+ELTeC-rom	ROM048	ROM048	Pop-Florantin, Ioan	Avram Iancu, regele Carpaţilor, continuatorul operii lui Horia. Roman istoric, după publicaţiuni şi comunicări date de martori oculari şi părtaşi la lupte	1843	NA	M	NA	1891	1891	NA	NA	NA	NA	ro	53514	NA	NA	medium	low	T3
+ELTeC-rom	ROM008	ROM008	Popescu, N.D.	Boierii haiduci. Nuvela originală compusă de N.D. Popescu cu patru ilustrațiuni	1843	NA	M	NA	1892	1892	NA	NA	NA	NA	ro	31921	NA	NA	short	low	T3
+ELTeC-rom	ROM023	ROM023	Ighel, Ilie	Tîlharul Fulger. Roman criminal	1870	NA	M	NA	1892	NA	NA	1892	NA	NA	ro	23370	NA	NA	short	low	T3
+ELTeC-rom	ROM007	ROM007	Stoenescu, Stefan	Corbea. Istorie originală ilustrată cu 7 gravuri	NA	NA	X	NA	1892	1892	NA	1892	NA	NA	ro	30119	NA	NA	short	low	T3
+ELTeC-rom	ROM037	ROM037	Popescu, N.D.	Radu Anghel, Căpitan de Tâlhari	1843	NA	M	NA	1893	1893	NA	1903	NA	NA	ro	55720	NA	NA	medium	low	T3
+ELTeC-rom	ROM022	ROM022	MACRI, P.	HAIDUCUL TANDURA. SCRIERE ORIGINAL, CU ADAUSE SI MODIFICARI	1863	NA	M	NA	1894	1894	NA	1930	NA	NA	ro	29807	NA	NA	short	low	T3
+ELTeC-rom	ROM010	ROM010	Vlahuță, Alexandru	Dan	1858	NA	M	NA	1894	1894	NA	1964	NA	NA	ro	63856	NA	NA	medium	high	T3
+ELTeC-rom	ROM001	ROM001	Anonymous	Roșcan Haiducul. Nuvelă ilustrată cu două gravuri	NA	NA	U	NA	1894	1894	NA	NA	NA	NA	ro	10128	NA	NA	short	low	T3
+ELTeC-rom	ROM002	ROM002	Bălănescu, Simion	Blestemul. Sfârșitul blestemului	NA	NA	M	NA	1894	1894	NA	NA	NA	NA	ro	30210	NA	NA	short	low	T3
+ELTeC-rom	ROM027	ROM027	Baronzi, G.	Fontana zânelor	1828	NA	M	NA	1896	NA	NA	1896	NA	NA	ro	40841	NA	NA	short	low	T3
+ELTeC-rom	ROM028	ROM028	Nottara, Constantin I.A.	Suflete obosite	1872	NA	M	NA	1898	1898	NA	1911	NA	NA	ro	56161	NA	NA	medium	low	T3
+ELTeC-rom	ROM063	ROM063	Antemireanu, Alexandru	DIN VREMEA LUI CĂPITAN COSTACHE	1877	1910	M	NA	1898	1898	NA	1937	NA	NA	ro	79903	NA	NA	medium	low	T3
+ELTeC-rom	ROM026	ROM026	Macri, P. Panait	Bostan. Haiduc de peste Milcov	1863	NA	M	NA	1899	1899	NA	NA	NA	NA	ro	35076	NA	NA	short	low	T3
+ELTeC-rom	ROM088	ROM088	Iorgulescu, Aurel	Prostituata (Roman)	1880	NA	M	NA	1899	NA	NA	1899	NA	NA	ro	26969	NA	NA	short	low	T3
+ELTeC-rom	ROM084	ROM084	Anestin, Victor	În anul 4000 sau o călătorie la Venus	1875	NA	M	NA	1899	1899	NA	1986	NA	NA	ro	21717	NA	NA	short	low	T3
+ELTeC-rom	ROM072	ROM072	Slavici, Ioan	Din Bĕtrânĭ. Narațiune istorică	1848	NA	M	NA	1902	1902	NA	NA	NA	NA	ro	79106	NA	NA	medium	high	T4
+ELTeC-rom	ROM053	ROM053	Zamfirescu, Duiliu	În Războiu. Roman	1858	NA	M	NA	1902	1902	NA	1907	NA	NA	ro	51974	NA	NA	medium	low	T4
+ELTeC-rom	ROM036	ROM036	Ianculescu de Reus, Eugenia	Voinţă. Roman	1866	1938	F	NA	1902	1902	NA	NA	NA	NA	ro	44498	NA	NA	short	low	T4
+ELTeC-rom	ROM038	ROM038	Dragomirescu, Iuliu	Cele şapte candeli. Pe Catafalc. Roman creştin	1880	NA	M	NA	1902	1902	NA	NA	NA	NA	ro	50022	NA	NA	medium	low	T4
+ELTeC-rom	ROM030	ROM030	Ianculescu de Reus, Eugenia	Spre desrobire. Roman	1866	NA	F	NA	1903	1903	NA	NA	NA	NA	ro	42357	NA	NA	short	low	T4
+ELTeC-rom	ROM060	ROM060	Nadejde, Sofia	Patimi. Roman din viața românească	1856	NA	F	NA	1903	1903	NA	NA	NA	NA	ro	127125	NA	NA	long	low	T4
+ELTeC-rom	ROM047	ROM047	Prasin, Spiru	CALEA ROBILOR	1864	1904	M	NA	1903	1903	NA	NA	NA	NA	ro	105552	NA	NA	long	low	T4
+ELTeC-rom	ROM094	ROM094	Moldovan, Vasile E.	Dușmănie. Roman	1881	NA	M	NA	1903	1903	NA	NA	NA	NA	ro	26969	NA	NA	short	low	T4
+ELTeC-rom	ROM056	ROM056	Rosetti, Radu	Cu paloșul. Poveste vitejască din vremea descălecatului Moldovei	1853	NA	M	NA	1904	1904	NA	1909	NA	NA	ro	202851	NA	NA	long	low	T4
+ELTeC-rom	ROM054	ROM054	Becescu-Silvan, Gh.	VALEA ALBĂ. Roman eroic. 1476	1875	NA	M	NA	1904	1904	NA	1909	NA	NA	ro	78337	NA	NA	medium	low	T4
+ELTeC-rom	ROM079	ROM079	Vulcan, Petru	Armânda	1866	NA	M	NA	1904	1904	NA	1904	NA	NA	ro	58162	NA	NA	medium	low	T4
+ELTeC-rom	ROM071	ROM071	Slavici, Ioan	Mara. Roman	1848	NA	M	NA	1906	1906	NA	NA	NA	NA	ro	100098	NA	NA	long	high	T4
+ELTeC-rom	ROM055	ROM055	Becescu-Silvan, Gh.	Pentru Neatîrnare 1877-78. Roman răsboinic	1875	NA	M	NA	1906	1906	NA	1909	NA	NA	ro	52745	NA	NA	medium	low	T4
+ELTeC-rom	ROM082	ROM082	Bacaloglu, Elena	În luptă	1878	NA	F	NA	1906	1906	NA	NA	NA	NA	ro	69251	NA	NA	medium	low	T4
+ELTeC-rom	ROM061	ROM061	Nadejde, Sofia	Robia banului. Roman	1856	NA	F	NA	1906	1906	NA	NA	NA	NA	ro	107186	NA	NA	long	high	T4
+ELTeC-rom	ROM009	ROM009	Macedonski, Alexandru	THALASSA	1854	NA	M	NA	1906	1906	2013	NA	NA	NA	ro	28944	NA	NA	short	high	T4
+ELTeC-rom	ROM042	ROM042	Sandu-Aldea, C.	Două neamuri	1874	NA	M	NA	1906	1906	NA	1925	NA	NA	ro	46696	NA	NA	short	low	T4
+ELTeC-rom	ROM052	ROM052	Zamfirescu, Duiliu	TĂNASE SCATIU. Roman	1858	NA	M	NA	1907	1907	NA	1907	NA	NA	ro	28356	NA	NA	short	high	T4
+ELTeC-rom	ROM059	ROM059	Nadejde, Sofia	Părinți și Copii. Roman	1856	NA	F	NA	1907	1907	NA	NA	NA	NA	ro	101267	NA	NA	long	low	T4
+ELTeC-rom	ROM035	ROM035	Hodoş, Constanţa	Martirii. Roman	1861	NA	F	NA	1908	1908	NA	1928	NA	NA	ro	35203	NA	NA	short	low	T4
+ELTeC-rom	ROM004	ROM004	Dumbravă, Bucura [Fany Seculici/ Fanny Szeculicz]	Haiducul	1868	1926	F	NA	1908	1908	1919	NA	Editura Librăriei Școalelor C. Sfetea	NA	ro	124789	NA	NA	long	low	T4
+ELTeC-rom	ROM090	ROM090	Lecca, Irina G.	Dreptul Vieței. Roman	1881	NA	F	NA	1908	1908	NA	NA	NA	NA	ro	36246	NA	NA	short	low	T4
+ELTeC-rom	ROM069	ROM069	Speranția, Th.	Fete de Azi	1856	NA	M	NA	1908	NA	NA	1908	NA	NA	ro	100005	NA	NA	long	low	T4
+ELTeC-rom	ROM064	ROM064	Caliga, George	Misterul morţei Jeanei Cristescu	1878	NA	M	NA	1909	1909	NA	NA	NA	NA	ro	13473	NA	NA	short	low	T4
+ELTeC-rom	ROM092	ROM092	Lecca, Irina G.	Pe urma dragostei. Roman	1881	NA	F	NA	1910	1910	NA	NA	NA	NA	ro	39658	NA	NA	short	low	T4
+ELTeC-rom	ROM074	ROM074	Moruzi, Dumitru C.	Înstrăinaţii	1850	NA	M	NA	1910	1910	NA	NA	NA	NA	ro	117618	NA	NA	long	high	T4
+ELTeC-rom	ROM085	ROM085	Teodoru, Olimpia [Olteo]	Un proces pierdut. Roman social	NA	NA	X	NA	1911	1911	NA	NA	NA	NA	ro	101059	NA	NA	long	low	T4
+ELTeC-rom	ROM093	ROM093	Zamfirescu, Duiliu	Anna (Ceea ce nu se poate). Roman	1858	NA	M	NA	1911	1911	NA	NA	NA	NA	ro	30206	NA	NA	short	high	T4
+ELTeC-rom	ROM078	ROM078	Moruzi, Dumitru C.	Pribegi în Ţară Răpită. ROMAN SOCIAL BASARABEAN	1850	NA	M	NA	1912	1912	NA	NA	NA	NA	ro	136092	NA	NA	long	high	T4
+ELTeC-rom	ROM024	ROM024	Dumbravă, Bucura	Pandurul. Ediția VIII-a	1868	NA	F	NA	1912	1912	NA	1947	NA	NA	ro	111825	NA	NA	long	NA	T4
+ELTeC-rom	ROM040	ROM040	Gheorghiu, Smaranda, pseudo: Smara	Fata Tatii. Roman de moravuri	1857	NA	F	NA	1912	1912	NA	NA	NA	NA	ro	59604	NA	NA	medium	low	T4
+ELTeC-rom	ROM057	ROM057	Rosetti, Radu	Păcatele Sulgeriului	1853	NA	M	NA	1912	1912	NA	NA	NA	NA	ro	69118	NA	NA	medium	low	T4
+ELTeC-rom	ROM066	ROM066	Xenopol, Adela	Pe urma războiului. Roman	1861	NA	F	NA	1913	1913	NA	NA	NA	NA	ro	21650	NA	NA	short	high	T4
+ELTeC-rom	ROM068	ROM068	Radulescu-Niger, N.	Orfanii neamului. Roman Naționalist	1861	NA	M	NA	1913	1913	NA	NA	NA	NA	ro	114208	NA	NA	long	low	T4
+ELTeC-rom	ROM075	ROM075	Moruzi, Dumitru C.	Moartea lui Cain. Roman social	1850	NA	M	NA	1914	1914	NA	NA	NA	NA	ro	80132	NA	NA	medium	high	T4
+ELTeC-rom	ROM077	ROM077	Agârbiceanu, Ion	Arhanghelii	1882	NA	M	NA	1914	1914	NA	1929	NA	NA	ro	170958	NA	NA	long	high	T4
+ELTeC-rom	ROM081	ROM081	Bart, Jean/ Botez, Eugeniu P.	DATORII UITATE. Documente omenești. Nuvele	1874	NA	M	NA	1916	1916	NA	NA	NA	NA	ro	18589	NA	NA	short	low	T4
+ELTeC-rom	ROM087	ROM087	Mestugean, V.	Getta. Roman	1869	NA	M	NA	1916	NA	NA	1916	NA	NA	ro	27861	NA	NA	short	low	T4
+ELTeC-rom	ROM083	ROM083	Cassvan, Sarina	Între artă și iubire. Roman	1894	NA	F	NA	1918	1918	1921	NA	Editura Librăriei Socec and Co.	NA	ro	36463	NA	NA	short	low	T4
+ELTeC-rom	ROM020	ROM020	Demetrius, V.	Oraşul bucuriei. Roman	1878	NA	M	NA	1920	1920	NA	NA	NA	NA	ro	42607	NA	NA	short	low	T4
+ELTeC-rom	ROM073	ROM073	Slavici, Ioan	Din două lumi. Narațiune	1848	NA	M	NA	1920	1920	NA	1920	NA	NA	ro	69929	NA	NA	medium	high	T4
+ELTeC-rom	ROM021	ROM021	Demetrius, V.	Păcatul Rabinului. Roman	1878	NA	M	NA	1920	1920	NA	NA	NA	NA	ro	23575	NA	NA	short	low	T4
+ELTeC-rom	ROM091	ROM091	Lecca, Irina G.	Marcu Ulpiu Traian Stănoiu. Roman	1881	NA	F	NA	1920	1920	NA	NA	NA	NA	ro	42433	NA	NA	short	low	T4
+ELTeC-rom	ROM019	ROM019	Demetrius, V.	Matei Dumbărău. Roman	1878	NA	M	NA	1920	1920	NA	NA	NA	NA	ro	38783	NA	NA	short	low	T4
+ELTeC-rom	ROM070	ROM070	Gheorghiu, Smaranda, pseudo: Smara	Băiatul Mamii. Roman Educativ	1857	NA	F	NA	1920	1920	NA	NA	NA	NA	ro	54423	NA	NA	medium	low	T4
+ELTeC-rom	ROM076	ROM076	Rebreanu, Liviu	Ion	1885	NA	M	NA	1920	1920	NA	1970	NA	NA	ro	152436	NA	NA	long	high	T4
+ELTeC-rom	ROM033	ROM033	Anonymous	Ruxanda Haiduciasa. Nuvelă Istorică Națională	NA	NA	X	NA	1920	1920	NA	NA	NA	NA	ro	15530	NA	NA	short	low	T4
+ELTeC-rom	ROM065	ROM065	Lovinescu, E.	Lulù. Roman	1881	NA	M	NA	1920	1920	NA	NA	NA	NA	ro	26315	NA	NA	short	low	T4
